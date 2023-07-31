@@ -1,0 +1,1009 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",0.5,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",1,Population 16 years and over,"582,312","+/-8,200","582,312",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",2,In labor force,"381,952","+/-8,332",65.6,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",3,Civilian labor force,"380,962","+/-8,324",65.4,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",4,Employed,"358,865","+/-8,091",61.6,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",5,Unemployed,"22,097","+/-2,345",3.8,+/-0.4
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",6,Armed Forces,990,+/-472,0.2,+/-0.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",7,Not in labor force,"200,360","+/-7,153",34.4,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",7.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",8,Civilian labor force,"380,962","+/-8,324","380,962",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",9,Unemployment Rate,(X),(X),5.8,+/-0.6
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",9.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",10,Females 16 years and over,"290,160","+/-5,877","290,160",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",11,In labor force,"174,444","+/-6,050",60.1,+/-1.6
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",12,Civilian labor force,"174,369","+/-6,056",60.1,+/-1.6
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",13,Employed,"163,852","+/-5,946",56.5,+/-1.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",13.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",14,Own children of the householder under 6 years,"39,656","+/-2,650","39,656",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",15,All parents in family in labor force,"24,310","+/-2,676",61.3,+/-5.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",15.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",16,Own children of the householder 6 to 17 years,"91,223","+/-3,951","91,223",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",17,All parents in family in labor force,"63,559","+/-5,043",69.7,+/-4.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",17.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",18,Workers 16 years and over,"354,038","+/-8,198","354,038",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",19,"Car, truck, or van -- drove alone","194,897","+/-7,506",55.0,+/-1.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",20,"Car, truck, or van -- carpooled","21,929","+/-3,119",6.2,+/-0.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",21,Public transportation (excluding taxicab),"9,016","+/-1,932",2.5,+/-0.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",22,Walked,"12,451","+/-1,796",3.5,+/-0.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",23,Other means,"8,130","+/-1,607",2.3,+/-0.4
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",24,Worked from home,"107,615","+/-5,532",30.4,+/-1.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",24.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",25,Mean travel time to work (minutes),23.4,+/-0.8,(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",25.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",25.5,OCCUPATION,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",26,Civilian employed population 16 years and over,"358,865","+/-8,091","358,865",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",27,"Management, business, science, and arts occupations","182,080","+/-8,603",50.7,+/-2.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",28,Service occupations,"53,551","+/-3,894",14.9,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",29,Sales and office occupations,"64,265","+/-5,003",17.9,+/-1.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",30,"Natural resources, construction, and maintenance occupations","21,891","+/-2,880",6.1,+/-0.8
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",31,"Production, transportation, and material moving occupations","37,078","+/-4,050",10.3,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",31.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",31.5,INDUSTRY,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",32,Civilian employed population 16 years and over,"358,865","+/-8,091","358,865",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",33,"Agriculture, forestry, fishing and hunting, and mining","3,831","+/-1,105",1.1,+/-0.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",34,Construction,"16,667","+/-2,450",4.6,+/-0.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",35,Manufacturing,"59,850","+/-4,782",16.7,+/-1.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",36,Wholesale trade,"9,634","+/-1,849",2.7,+/-0.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",37,Retail trade,"41,682","+/-3,585",11.6,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",38,"Transportation and warehousing, and utilities","17,046","+/-2,734",4.7,+/-0.8
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",39,Information,"4,486","+/-1,166",1.3,+/-0.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",40,"Finance and insurance, and real estate and rental and leasing","20,123","+/-2,510",5.6,+/-0.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",41,"Professional, scientific, and management, and administrative and waste management services","51,082","+/-3,590",14.2,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",42,"Educational services, and health care and social assistance","73,915","+/-5,872",20.6,+/-1.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",43,"Arts, entertainment, and recreation, and accommodation and food services","32,577","+/-3,426",9.1,+/-0.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",44,"Other services, except public administration","15,821","+/-2,634",4.4,+/-0.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",45,Public administration,"12,151","+/-2,047",3.4,+/-0.6
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",45.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",46,Civilian employed population 16 years and over,"358,865","+/-8,091","358,865",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",47,Private wage and salary workers,"295,972","+/-7,479",82.5,+/-1.2
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",48,Government workers,"39,657","+/-3,951",11.1,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",49,Self-employed in own not incorporated business workers,"22,772","+/-2,728",6.3,+/-0.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",50,Unpaid family workers,464,+/-338,0.1,+/-0.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",50.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",51,Total households,"297,146","+/-5,120","297,146",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",52,"Less than $10,000","13,633","+/-2,418",4.6,+/-0.8
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",53,"$10,000 to $14,999","9,981","+/-2,059",3.4,+/-0.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",54,"$15,000 to $24,999","17,132","+/-2,545",5.8,+/-0.8
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",55,"$25,000 to $34,999","21,158","+/-2,903",7.1,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",56,"$35,000 to $49,999","25,281","+/-3,113",8.5,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",57,"$50,000 to $74,999","49,205","+/-3,436",16.6,+/-1.2
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",58,"$75,000 to $99,999","38,179","+/-3,801",12.8,+/-1.2
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",59,"$100,000 to $149,999","51,495","+/-3,469",17.3,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",60,"$150,000 to $199,999","31,178","+/-2,841",10.5,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",61,"$200,000 or more","39,904","+/-2,762",13.4,+/-0.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",62,Median household income (dollars),"82,256","+/-2,606",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",63,Mean household income (dollars),"112,212","+/-3,486",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",63.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",64,With earnings,"238,337","+/-5,111",80.2,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",65,Mean earnings (dollars),"113,356","+/-3,704",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",66,With Social Security,"76,770","+/-2,836",25.8,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",67,Mean Social Security income (dollars),"22,768",+/-756,(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",68,With retirement income,"62,042","+/-3,252",20.9,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",69,Mean retirement income (dollars),"32,872","+/-2,449",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",69.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",70,With Supplemental Security Income,"9,519","+/-1,668",3.2,+/-0.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",71,Mean Supplemental Security Income (dollars),"10,320",+/-917,(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",72,With cash public assistance income,"11,705","+/-2,117",3.9,+/-0.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",73,Mean cash public assistance income (dollars),"6,144","+/-1,035",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",74,With Food Stamp/SNAP benefits in the past 12 months,"34,927","+/-3,495",11.8,+/-1.2
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",74.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",75,Families,"173,188","+/-4,252","173,188",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",76,"Less than $10,000","4,351","+/-1,250",2.5,+/-0.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",77,"$10,000 to $14,999","2,827",+/-975,1.6,+/-0.6
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",78,"$15,000 to $24,999","5,773","+/-1,649",3.3,+/-0.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",79,"$25,000 to $34,999","9,297","+/-1,872",5.4,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",80,"$35,000 to $49,999","11,775","+/-2,233",6.8,+/-1.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",81,"$50,000 to $74,999","24,178","+/-2,667",14.0,+/-1.4
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",82,"$75,000 to $99,999","21,802","+/-2,396",12.6,+/-1.4
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",83,"$100,000 to $149,999","37,238","+/-3,044",21.5,+/-1.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",84,"$150,000 to $199,999","22,757","+/-2,273",13.1,+/-1.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",85,"$200,000 or more","33,190","+/-2,445",19.2,+/-1.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",86,Median family income (dollars),"105,101","+/-3,796",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",87,Mean family income (dollars),"138,239","+/-4,720",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",87.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",88,Per capita income (dollars),"47,926","+/-1,383",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",88.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",89,Nonfamily households,"123,958","+/-5,484","123,958",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",90,Median nonfamily income (dollars),"53,141","+/-3,958",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",91,Mean nonfamily income (dollars),"70,707","+/-2,740",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",91.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",92,Median earnings for workers (dollars),"48,273","+/-1,939",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",93,"Median earnings for male full-time, year-round workers (dollars)","71,765","+/-3,177",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",94,"Median earnings for female full-time, year-round workers (dollars)","61,055","+/-3,261",(X),(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",94.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",95,Civilian noninstitutionalized population,"697,380","+/-10,060","697,380",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",96,With health insurance coverage,"660,127","+/-10,247",94.7,+/-0.6
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",97,With private health insurance,"508,452","+/-12,808",72.9,+/-1.4
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",98,With public coverage,"231,017","+/-9,184",33.1,+/-1.4
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",99,No health insurance coverage,"37,253","+/-4,112",5.3,+/-0.6
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",99.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",100,Civilian noninstitutionalized population under 19 years,"145,498","+/-5,059","145,498",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",101,No health insurance coverage,"4,584","+/-1,567",3.2,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",101.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",102,Civilian noninstitutionalized population 19 to 64 years,"444,647","+/-7,134","444,647",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",103,In labor force:,"354,231","+/-7,831","354,231",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",104,Employed:,"334,843","+/-7,419","334,843",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",105,With health insurance coverage,"313,407","+/-7,681",93.6,+/-0.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",106,With private health insurance,"285,457","+/-8,200",85.3,+/-1.2
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",107,With public coverage,"37,922","+/-3,128",11.3,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",108,No health insurance coverage,"21,436","+/-3,110",6.4,+/-0.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",109,Unemployed:,"19,388","+/-2,328","19,388",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",110,With health insurance coverage,"16,194","+/-2,207",83.5,+/-4.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",111,With private health insurance,"8,919","+/-1,474",46.0,+/-6.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",112,With public coverage,"8,282","+/-1,768",42.7,+/-6.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",113,No health insurance coverage,"3,194","+/-1,001",16.5,+/-4.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",114,Not in labor force:,"90,416","+/-5,217","90,416",(X)
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",115,With health insurance coverage,"82,765","+/-5,111",91.5,+/-1.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",116,With private health insurance,"52,628","+/-3,960",58.2,+/-3.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",117,With public coverage,"35,284","+/-3,739",39.0,+/-3.3
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",118,No health insurance coverage,"7,651","+/-1,714",8.5,+/-1.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",118.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",119,All families,(X),(X),6.1,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",120,With related children of the householder under 18 years,(X),(X),9.7,+/-2.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",121,With related children of the householder under 5 years only,(X),(X),9.6,+/-4.8
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",122,Married couple families,(X),(X),2.8,+/-0.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",123,With related children of the householder under 18 years,(X),(X),3.1,+/-1.4
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",124,With related children of the householder under 5 years only,(X),(X),2.6,+/-2.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",125,"Families with female householder, no spouse present",(X),(X),21.1,+/-4.7
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",126,With related children of the householder under 18 years,(X),(X),29.1,+/-6.8
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",127,With related children of the householder under 5 years only,(X),(X),39.7,+/-22.6
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",127.3,,,,,
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",128,All people,(X),(X),9.8,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",129,Under 18 years,(X),(X),11.1,+/-2.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",130,Related children of the householder under 18 years,(X),(X),10.8,+/-2.5
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",131,Related children of the householder under 5 years,(X),(X),9.5,+/-4.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",132,Related children of the householder 5 to 17 years,(X),(X),11.2,+/-2.6
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",133,18 years and over,(X),(X),9.5,+/-0.9
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",134,18 to 64 years,(X),(X),9.6,+/-1.0
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",135,65 years and over,(X),(X),9.0,+/-1.4
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",136,People in families,(X),(X),6.3,+/-1.1
+DP03,5001800US4101,"Congressional District 1 (118th Congress), Oregon",137,Unrelated individuals 15 years and over,(X),(X),19.8,+/-1.6
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",0.5,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",1,Population 16 years and over,"576,954","+/-4,470","576,954",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",2,In labor force,"313,205","+/-6,357",54.3,+/-1.0
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",3,Civilian labor force,"311,799","+/-6,348",54.0,+/-1.0
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",4,Employed,"289,208","+/-6,107",50.1,+/-1.0
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",5,Unemployed,"22,591","+/-2,915",3.9,+/-0.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",6,Armed Forces,"1,406",+/-744,0.2,+/-0.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",7,Not in labor force,"263,749","+/-6,035",45.7,+/-1.0
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",7.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",8,Civilian labor force,"311,799","+/-6,348","311,799",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",9,Unemployment Rate,(X),(X),7.2,+/-0.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",9.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",10,Females 16 years and over,"287,978","+/-3,118","287,978",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",11,In labor force,"148,262","+/-4,654",51.5,+/-1.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",12,Civilian labor force,"147,896","+/-4,679",51.4,+/-1.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",13,Employed,"138,396","+/-4,668",48.1,+/-1.6
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",13.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",14,Own children of the householder under 6 years,"42,708","+/-2,550","42,708",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",15,All parents in family in labor force,"26,463","+/-2,816",62.0,+/-5.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",15.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",16,Own children of the householder 6 to 17 years,"99,508","+/-2,998","99,508",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",17,All parents in family in labor force,"70,320","+/-4,736",70.7,+/-4.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",17.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",18,Workers 16 years and over,"284,121","+/-6,318","284,121",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",19,"Car, truck, or van -- drove alone","207,438","+/-6,545",73.0,+/-1.7
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",20,"Car, truck, or van -- carpooled","27,338","+/-3,434",9.6,+/-1.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",21,Public transportation (excluding taxicab),"1,335",+/-658,0.5,+/-0.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",22,Walked,"7,988","+/-1,678",2.8,+/-0.6
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",23,Other means,"4,511","+/-1,056",1.6,+/-0.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",24,Worked from home,"35,511","+/-3,383",12.5,+/-1.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",24.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",25,Mean travel time to work (minutes),20.2,+/-0.8,(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",25.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",25.5,OCCUPATION,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",26,Civilian employed population 16 years and over,"289,208","+/-6,107","289,208",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",27,"Management, business, science, and arts occupations","98,695","+/-5,072",34.1,+/-1.6
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",28,Service occupations,"56,067","+/-3,529",19.4,+/-1.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",29,Sales and office occupations,"58,310","+/-3,588",20.2,+/-1.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",30,"Natural resources, construction, and maintenance occupations","34,033","+/-3,461",11.8,+/-1.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",31,"Production, transportation, and material moving occupations","42,103","+/-3,787",14.6,+/-1.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",31.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",31.5,INDUSTRY,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",32,Civilian employed population 16 years and over,"289,208","+/-6,107","289,208",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",33,"Agriculture, forestry, fishing and hunting, and mining","17,312","+/-2,483",6.0,+/-0.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",34,Construction,"20,178","+/-2,657",7.0,+/-0.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",35,Manufacturing,"26,177","+/-3,233",9.1,+/-1.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",36,Wholesale trade,"6,463","+/-1,489",2.2,+/-0.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",37,Retail trade,"37,783","+/-3,394",13.1,+/-1.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",38,"Transportation and warehousing, and utilities","15,134","+/-1,852",5.2,+/-0.6
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",39,Information,"3,763","+/-1,118",1.3,+/-0.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",40,"Finance and insurance, and real estate and rental and leasing","12,022","+/-2,111",4.2,+/-0.7
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",41,"Professional, scientific, and management, and administrative and waste management services","26,355","+/-2,821",9.1,+/-0.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",42,"Educational services, and health care and social assistance","66,641","+/-4,130",23.0,+/-1.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",43,"Arts, entertainment, and recreation, and accommodation and food services","26,619","+/-3,471",9.2,+/-1.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",44,"Other services, except public administration","13,720","+/-2,263",4.7,+/-0.8
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",45,Public administration,"17,041","+/-2,483",5.9,+/-0.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",45.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",46,Civilian employed population 16 years and over,"289,208","+/-6,107","289,208",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",47,Private wage and salary workers,"217,901","+/-6,675",75.3,+/-1.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",48,Government workers,"46,527","+/-3,665",16.1,+/-1.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",49,Self-employed in own not incorporated business workers,"23,849","+/-2,375",8.2,+/-0.8
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",50,Unpaid family workers,931,+/-462,0.3,+/-0.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",50.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",51,Total households,"281,000","+/-3,609","281,000",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",52,"Less than $10,000","17,438","+/-2,557",6.2,+/-0.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",53,"$10,000 to $14,999","14,525","+/-2,538",5.2,+/-0.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",54,"$15,000 to $24,999","27,051","+/-2,878",9.6,+/-1.0
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",55,"$25,000 to $34,999","26,124","+/-2,189",9.3,+/-0.8
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",56,"$35,000 to $49,999","38,841","+/-3,148",13.8,+/-1.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",57,"$50,000 to $74,999","52,447","+/-3,629",18.7,+/-1.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",58,"$75,000 to $99,999","36,285","+/-2,871",12.9,+/-1.0
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",59,"$100,000 to $149,999","41,159","+/-3,538",14.6,+/-1.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",60,"$150,000 to $199,999","14,640","+/-2,203",5.2,+/-0.8
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",61,"$200,000 or more","12,490","+/-2,063",4.4,+/-0.7
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",62,Median household income (dollars),"57,026","+/-1,867",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",63,Mean household income (dollars),"75,603","+/-2,806",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",63.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",64,With earnings,"191,405","+/-4,211",68.1,+/-1.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",65,Mean earnings (dollars),"74,584","+/-3,349",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",66,With Social Security,"117,911","+/-3,522",42.0,+/-1.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",67,Mean Social Security income (dollars),"20,698",+/-601,(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",68,With retirement income,"82,165","+/-3,344",29.2,+/-1.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",69,Mean retirement income (dollars),"28,769","+/-1,876",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",69.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",70,With Supplemental Security Income,"16,257","+/-2,224",5.8,+/-0.8
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",71,Mean Supplemental Security Income (dollars),"9,915",+/-781,(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",72,With cash public assistance income,"12,005","+/-1,874",4.3,+/-0.7
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",73,Mean cash public assistance income (dollars),"4,772",+/-738,(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",74,With Food Stamp/SNAP benefits in the past 12 months,"57,677","+/-3,633",20.5,+/-1.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",74.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",75,Families,"176,439","+/-4,829","176,439",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",76,"Less than $10,000","5,702","+/-1,437",3.2,+/-0.8
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",77,"$10,000 to $14,999","2,999","+/-1,085",1.7,+/-0.6
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",78,"$15,000 to $24,999","11,508","+/-1,903",6.5,+/-1.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",79,"$25,000 to $34,999","14,130","+/-2,084",8.0,+/-1.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",80,"$35,000 to $49,999","24,182","+/-2,735",13.7,+/-1.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",81,"$50,000 to $74,999","35,401","+/-2,975",20.1,+/-1.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",82,"$75,000 to $99,999","27,084","+/-2,494",15.4,+/-1.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",83,"$100,000 to $149,999","32,687","+/-3,069",18.5,+/-1.6
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",84,"$150,000 to $199,999","12,436","+/-1,698",7.0,+/-1.0
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",85,"$200,000 or more","10,310","+/-1,667",5.8,+/-0.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",86,Median family income (dollars),"69,792","+/-3,151",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",87,Mean family income (dollars),"90,106","+/-3,486",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",87.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",88,Per capita income (dollars),"30,772","+/-1,123",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",88.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",89,Nonfamily households,"104,561","+/-4,806","104,561",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",90,Median nonfamily income (dollars),"33,065","+/-2,552",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",91,Mean nonfamily income (dollars),"46,806","+/-2,917",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",91.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",92,Median earnings for workers (dollars),"33,445","+/-1,523",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",93,"Median earnings for male full-time, year-round workers (dollars)","51,715","+/-1,311",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",94,"Median earnings for female full-time, year-round workers (dollars)","41,537","+/-1,297",(X),(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",94.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",95,Civilian noninstitutionalized population,"697,178","+/-5,555","697,178",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",96,With health insurance coverage,"644,949","+/-7,266",92.5,+/-0.8
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",97,With private health insurance,"413,291","+/-10,144",59.3,+/-1.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",98,With public coverage,"356,907","+/-9,876",51.2,+/-1.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",99,No health insurance coverage,"52,229","+/-5,562",7.5,+/-0.8
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",99.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",100,Civilian noninstitutionalized population under 19 years,"160,567","+/-3,346","160,567",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",101,No health insurance coverage,"8,704","+/-2,164",5.4,+/-1.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",101.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",102,Civilian noninstitutionalized population 19 to 64 years,"379,620","+/-4,616","379,620",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",103,In labor force:,"275,959","+/-5,855","275,959",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",104,Employed:,"257,079","+/-5,485","257,079",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",105,With health insurance coverage,"229,720","+/-5,669",89.4,+/-1.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",106,With private health insurance,"190,934","+/-5,806",74.3,+/-1.8
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",107,With public coverage,"52,202","+/-4,721",20.3,+/-1.7
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",108,No health insurance coverage,"27,359","+/-3,567",10.6,+/-1.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",109,Unemployed:,"18,880","+/-2,746","18,880",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",110,With health insurance coverage,"14,543","+/-2,537",77.0,+/-6.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",111,With private health insurance,"5,629","+/-1,435",29.8,+/-6.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",112,With public coverage,"9,482","+/-1,935",50.2,+/-6.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",113,No health insurance coverage,"4,337","+/-1,305",23.0,+/-6.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",114,Not in labor force:,"103,661","+/-4,987","103,661",(X)
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",115,With health insurance coverage,"92,623","+/-4,637",89.4,+/-1.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",116,With private health insurance,"42,216","+/-3,216",40.7,+/-2.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",117,With public coverage,"60,081","+/-4,512",58.0,+/-3.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",118,No health insurance coverage,"11,038","+/-2,108",10.6,+/-1.9
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",118.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",119,All families,(X),(X),8.9,+/-1.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",120,With related children of the householder under 18 years,(X),(X),13.6,+/-2.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",121,With related children of the householder under 5 years only,(X),(X),16.1,+/-7.0
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",122,Married couple families,(X),(X),5.8,+/-1.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",123,With related children of the householder under 18 years,(X),(X),7.7,+/-2.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",124,With related children of the householder under 5 years only,(X),(X),14.0,+/-9.1
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",125,"Families with female householder, no spouse present",(X),(X),22.1,+/-4.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",126,With related children of the householder under 18 years,(X),(X),29.0,+/-6.7
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",127,With related children of the householder under 5 years only,(X),(X),27.2,+/-15.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",127.3,,,,,
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",128,All people,(X),(X),14.9,+/-1.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",129,Under 18 years,(X),(X),16.9,+/-3.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",130,Related children of the householder under 18 years,(X),(X),16.5,+/-3.3
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",131,Related children of the householder under 5 years,(X),(X),19.7,+/-4.7
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",132,Related children of the householder 5 to 17 years,(X),(X),15.5,+/-3.6
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",133,18 years and over,(X),(X),14.4,+/-1.2
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",134,18 to 64 years,(X),(X),16.0,+/-1.5
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",135,65 years and over,(X),(X),10.5,+/-1.4
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",136,People in families,(X),(X),10.1,+/-1.6
+DP03,5001800US4102,"Congressional District 2 (118th Congress), Oregon",137,Unrelated individuals 15 years and over,(X),(X),30.9,+/-2.5
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",0.5,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",1,Population 16 years and over,"577,065","+/-7,888","577,065",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",2,In labor force,"395,433","+/-8,556",68.5,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",3,Civilian labor force,"394,960","+/-8,566",68.4,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",4,Employed,"369,024","+/-8,551",63.9,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",5,Unemployed,"25,936","+/-2,619",4.5,+/-0.5
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",6,Armed Forces,473,+/-385,0.1,+/-0.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",7,Not in labor force,"181,632","+/-5,696",31.5,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",7.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",8,Civilian labor force,"394,960","+/-8,566","394,960",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",9,Unemployment Rate,(X),(X),6.6,+/-0.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",9.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",10,Females 16 years and over,"289,884","+/-5,158","289,884",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",11,In labor force,"189,071","+/-5,373",65.2,+/-1.3
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",12,Civilian labor force,"188,994","+/-5,383",65.2,+/-1.3
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",13,Employed,"177,415","+/-5,526",61.2,+/-1.4
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",13.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",14,Own children of the householder under 6 years,"37,502","+/-2,764","37,502",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",15,All parents in family in labor force,"26,349","+/-2,546",70.3,+/-5.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",15.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",16,Own children of the householder 6 to 17 years,"91,990","+/-3,617","91,990",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",17,All parents in family in labor force,"67,969","+/-4,325",73.9,+/-3.5
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",17.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",18,Workers 16 years and over,"361,784","+/-8,574","361,784",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",19,"Car, truck, or van -- drove alone","194,678","+/-7,916",53.8,+/-1.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",20,"Car, truck, or van -- carpooled","30,112","+/-3,830",8.3,+/-1.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",21,Public transportation (excluding taxicab),"13,140","+/-2,403",3.6,+/-0.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",22,Walked,"9,131","+/-2,178",2.5,+/-0.6
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",23,Other means,"11,849","+/-1,937",3.3,+/-0.5
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",24,Worked from home,"102,874","+/-5,889",28.4,+/-1.6
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",24.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",25,Mean travel time to work (minutes),25.5,+/-0.8,(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",25.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",25.5,OCCUPATION,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",26,Civilian employed population 16 years and over,"369,024","+/-8,551","369,024",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",27,"Management, business, science, and arts occupations","172,902","+/-6,932",46.9,+/-1.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",28,Service occupations,"54,136","+/-4,566",14.7,+/-1.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",29,Sales and office occupations,"67,805","+/-5,453",18.4,+/-1.3
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",30,"Natural resources, construction, and maintenance occupations","26,686","+/-2,716",7.2,+/-0.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",31,"Production, transportation, and material moving occupations","47,495","+/-4,032",12.9,+/-1.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",31.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",31.5,INDUSTRY,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",32,Civilian employed population 16 years and over,"369,024","+/-8,551","369,024",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",33,"Agriculture, forestry, fishing and hunting, and mining","4,506","+/-1,219",1.2,+/-0.3
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",34,Construction,"23,152","+/-2,637",6.3,+/-0.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",35,Manufacturing,"34,932","+/-3,759",9.5,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",36,Wholesale trade,"9,817","+/-2,023",2.7,+/-0.5
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",37,Retail trade,"39,076","+/-3,551",10.6,+/-0.9
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",38,"Transportation and warehousing, and utilities","23,832","+/-2,893",6.5,+/-0.8
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",39,Information,"6,875","+/-1,188",1.9,+/-0.3
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",40,"Finance and insurance, and real estate and rental and leasing","22,642","+/-3,001",6.1,+/-0.8
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",41,"Professional, scientific, and management, and administrative and waste management services","52,951","+/-4,599",14.3,+/-1.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",42,"Educational services, and health care and social assistance","82,290","+/-4,427",22.3,+/-1.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",43,"Arts, entertainment, and recreation, and accommodation and food services","30,832","+/-3,729",8.4,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",44,"Other services, except public administration","23,360","+/-3,127",6.3,+/-0.8
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",45,Public administration,"14,759","+/-1,847",4.0,+/-0.5
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",45.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",46,Civilian employed population 16 years and over,"369,024","+/-8,551","369,024",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",47,Private wage and salary workers,"294,642","+/-9,553",79.8,+/-1.4
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",48,Government workers,"47,900","+/-3,601",13.0,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",49,Self-employed in own not incorporated business workers,"25,674","+/-2,912",7.0,+/-0.8
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",50,Unpaid family workers,808,+/-432,0.2,+/-0.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",50.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",51,Total households,"279,814","+/-4,634","279,814",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",52,"Less than $10,000","14,451","+/-2,038",5.2,+/-0.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",53,"$10,000 to $14,999","9,839","+/-1,954",3.5,+/-0.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",54,"$15,000 to $24,999","15,644","+/-2,363",5.6,+/-0.8
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",55,"$25,000 to $34,999","17,778","+/-2,559",6.4,+/-0.9
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",56,"$35,000 to $49,999","29,338","+/-3,033",10.5,+/-1.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",57,"$50,000 to $74,999","46,472","+/-2,897",16.6,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",58,"$75,000 to $99,999","38,057","+/-3,254",13.6,+/-1.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",59,"$100,000 to $149,999","52,130","+/-3,259",18.6,+/-1.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",60,"$150,000 to $199,999","27,546","+/-2,302",9.8,+/-0.8
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",61,"$200,000 or more","28,559","+/-2,696",10.2,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",62,Median household income (dollars),"79,532","+/-2,094",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",63,Mean household income (dollars),"102,287","+/-3,190",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",63.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",64,With earnings,"225,402","+/-5,122",80.6,+/-1.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",65,Mean earnings (dollars),"103,606","+/-3,371",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",66,With Social Security,"68,937","+/-3,416",24.6,+/-1.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",67,Mean Social Security income (dollars),"20,874",+/-715,(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",68,With retirement income,"54,834","+/-3,108",19.6,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",69,Mean retirement income (dollars),"30,921","+/-2,554",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",69.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",70,With Supplemental Security Income,"14,221","+/-2,061",5.1,+/-0.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",71,Mean Supplemental Security Income (dollars),"10,179","+/-1,053",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",72,With cash public assistance income,"18,446","+/-2,581",6.6,+/-0.9
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",73,Mean cash public assistance income (dollars),"6,251",+/-933,(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",74,With Food Stamp/SNAP benefits in the past 12 months,"43,642","+/-3,565",15.6,+/-1.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",74.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",75,Families,"162,976","+/-4,861","162,976",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",76,"Less than $10,000","4,419","+/-1,271",2.7,+/-0.8
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",77,"$10,000 to $14,999","2,901",+/-938,1.8,+/-0.6
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",78,"$15,000 to $24,999","5,803","+/-1,493",3.6,+/-0.9
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",79,"$25,000 to $34,999","8,689","+/-1,715",5.3,+/-1.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",80,"$35,000 to $49,999","13,815","+/-2,053",8.5,+/-1.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",81,"$50,000 to $74,999","26,809","+/-2,669",16.4,+/-1.5
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",82,"$75,000 to $99,999","24,241","+/-2,725",14.9,+/-1.6
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",83,"$100,000 to $149,999","33,397","+/-2,766",20.5,+/-1.6
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",84,"$150,000 to $199,999","21,570","+/-2,009",13.2,+/-1.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",85,"$200,000 or more","21,332","+/-2,192",13.1,+/-1.3
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",86,Median family income (dollars),"92,383","+/-3,887",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",87,Mean family income (dollars),"118,499","+/-3,772",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",87.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",88,Per capita income (dollars),"41,634","+/-1,237",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",88.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",89,Nonfamily households,"116,838","+/-4,758","116,838",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",90,Median nonfamily income (dollars),"53,452","+/-4,611",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",91,Mean nonfamily income (dollars),"73,973","+/-4,906",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",91.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",92,Median earnings for workers (dollars),"42,054",+/-727,(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",93,"Median earnings for male full-time, year-round workers (dollars)","61,567","+/-2,320",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",94,"Median earnings for female full-time, year-round workers (dollars)","57,739","+/-2,686",(X),(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",94.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",95,Civilian noninstitutionalized population,"695,135","+/-9,097","695,135",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",96,With health insurance coverage,"653,245","+/-10,475",94.0,+/-0.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",97,With private health insurance,"478,829","+/-13,996",68.9,+/-1.6
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",98,With public coverage,"257,281","+/-9,890",37.0,+/-1.4
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",99,No health insurance coverage,"41,890","+/-5,128",6.0,+/-0.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",99.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",100,Civilian noninstitutionalized population under 19 years,"144,977","+/-4,461","144,977",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",101,No health insurance coverage,"4,730","+/-1,956",3.3,+/-1.3
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",101.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",102,Civilian noninstitutionalized population 19 to 64 years,"449,456","+/-7,604","449,456",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",103,In labor force:,"368,260","+/-8,013","368,260",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",104,Employed:,"344,963","+/-8,161","344,963",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",105,With health insurance coverage,"320,303","+/-9,105",92.9,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",106,With private health insurance,"284,686","+/-8,981",82.5,+/-1.5
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",107,With public coverage,"50,849","+/-4,485",14.7,+/-1.3
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",108,No health insurance coverage,"24,660","+/-3,347",7.1,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",109,Unemployed:,"23,297","+/-2,364","23,297",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",110,With health insurance coverage,"19,651","+/-2,354",84.3,+/-5.4
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",111,With private health insurance,"9,844","+/-1,493",42.3,+/-5.9
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",112,With public coverage,"10,504","+/-1,736",45.1,+/-5.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",113,No health insurance coverage,"3,646","+/-1,307",15.7,+/-5.4
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",114,Not in labor force:,"81,196","+/-5,355","81,196",(X)
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",115,With health insurance coverage,"73,094","+/-5,196",90.0,+/-2.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",116,With private health insurance,"39,535","+/-3,744",48.7,+/-3.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",117,With public coverage,"40,071","+/-3,647",49.4,+/-2.9
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",118,No health insurance coverage,"8,102","+/-1,782",10.0,+/-2.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",118.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",119,All families,(X),(X),7.2,+/-1.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",120,With related children of the householder under 18 years,(X),(X),10.8,+/-2.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",121,With related children of the householder under 5 years only,(X),(X),11.5,+/-5.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",122,Married couple families,(X),(X),4.5,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",123,With related children of the householder under 18 years,(X),(X),6.0,+/-2.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",124,With related children of the householder under 5 years only,(X),(X),3.2,+/-2.4
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",125,"Families with female householder, no spouse present",(X),(X),16.9,+/-4.7
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",126,With related children of the householder under 18 years,(X),(X),24.2,+/-6.6
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",127,With related children of the householder under 5 years only,(X),(X),39.9,+/-21.4
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",127.3,,,,,
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",128,All people,(X),(X),11.9,+/-1.2
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",129,Under 18 years,(X),(X),12.3,+/-2.6
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",130,Related children of the householder under 18 years,(X),(X),11.8,+/-2.6
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",131,Related children of the householder under 5 years,(X),(X),12.2,+/-4.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",132,Related children of the householder 5 to 17 years,(X),(X),11.7,+/-2.9
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",133,18 years and over,(X),(X),11.8,+/-1.0
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",134,18 to 64 years,(X),(X),12.2,+/-1.1
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",135,65 years and over,(X),(X),10.2,+/-1.9
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",136,People in families,(X),(X),7.7,+/-1.3
+DP03,5001800US4103,"Congressional District 3 (118th Congress), Oregon",137,Unrelated individuals 15 years and over,(X),(X),22.9,+/-1.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",0.5,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",1,Population 16 years and over,"598,450","+/-3,489","598,450",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",2,In labor force,"336,020","+/-7,217",56.1,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",3,Civilian labor force,"335,707","+/-7,193",56.1,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",4,Employed,"311,812","+/-7,060",52.1,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",5,Unemployed,"23,895","+/-3,096",4.0,+/-0.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",6,Armed Forces,313,+/-311,0.1,+/-0.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",7,Not in labor force,"262,430","+/-6,756",43.9,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",7.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",8,Civilian labor force,"335,707","+/-7,193","335,707",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",9,Unemployment Rate,(X),(X),7.1,+/-0.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",9.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",10,Females 16 years and over,"304,483","+/-2,631","304,483",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",11,In labor force,"160,591","+/-4,888",52.7,+/-1.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",12,Civilian labor force,"160,383","+/-4,868",52.7,+/-1.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",13,Employed,"149,664","+/-5,084",49.2,+/-1.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",13.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",14,Own children of the householder under 6 years,"34,207","+/-2,038","34,207",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",15,All parents in family in labor force,"21,301","+/-2,127",62.3,+/-5.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",15.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",16,Own children of the householder 6 to 17 years,"79,494","+/-2,709","79,494",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",17,All parents in family in labor force,"52,157","+/-3,342",65.6,+/-4.0
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",17.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",18,Workers 16 years and over,"305,738","+/-6,961","305,738",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",19,"Car, truck, or van -- drove alone","200,825","+/-6,951",65.7,+/-1.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",20,"Car, truck, or van -- carpooled","26,963","+/-3,400",8.8,+/-1.0
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",21,Public transportation (excluding taxicab),"2,890",+/-940,0.9,+/-0.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",22,Walked,"12,882","+/-1,954",4.2,+/-0.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",23,Other means,"7,738","+/-1,314",2.5,+/-0.4
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",24,Worked from home,"54,440","+/-3,670",17.8,+/-1.2
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",24.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",25,Mean travel time to work (minutes),19.5,+/-0.5,(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",25.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",25.5,OCCUPATION,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",26,Civilian employed population 16 years and over,"311,812","+/-7,060","311,812",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",27,"Management, business, science, and arts occupations","118,435","+/-4,684",38.0,+/-1.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",28,Service occupations,"61,293","+/-5,113",19.7,+/-1.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",29,Sales and office occupations,"65,207","+/-4,265",20.9,+/-1.2
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",30,"Natural resources, construction, and maintenance occupations","28,269","+/-3,166",9.1,+/-1.0
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",31,"Production, transportation, and material moving occupations","38,608","+/-4,181",12.4,+/-1.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",31.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",31.5,INDUSTRY,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",32,Civilian employed population 16 years and over,"311,812","+/-7,060","311,812",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",33,"Agriculture, forestry, fishing and hunting, and mining","8,596","+/-1,511",2.8,+/-0.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",34,Construction,"21,741","+/-2,679",7.0,+/-0.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",35,Manufacturing,"27,345","+/-3,335",8.8,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",36,Wholesale trade,"8,841","+/-1,595",2.8,+/-0.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",37,Retail trade,"40,697","+/-3,665",13.1,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",38,"Transportation and warehousing, and utilities","13,459","+/-2,129",4.3,+/-0.7
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",39,Information,"3,329",+/-820,1.1,+/-0.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",40,"Finance and insurance, and real estate and rental and leasing","13,355","+/-2,055",4.3,+/-0.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",41,"Professional, scientific, and management, and administrative and waste management services","32,625","+/-3,489",10.5,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",42,"Educational services, and health care and social assistance","80,591","+/-4,728",25.8,+/-1.4
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",43,"Arts, entertainment, and recreation, and accommodation and food services","33,499","+/-3,074",10.7,+/-0.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",44,"Other services, except public administration","12,709","+/-2,273",4.1,+/-0.7
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",45,Public administration,"15,025","+/-2,573",4.8,+/-0.8
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",45.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",46,Civilian employed population 16 years and over,"311,812","+/-7,060","311,812",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",47,Private wage and salary workers,"231,005","+/-6,755",74.1,+/-1.4
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",48,Government workers,"53,886","+/-4,031",17.3,+/-1.2
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",49,Self-employed in own not incorporated business workers,"25,633","+/-2,927",8.2,+/-0.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",50,Unpaid family workers,"1,288",+/-733,0.4,+/-0.2
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",50.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",51,Total households,"295,548","+/-3,442","295,548",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",52,"Less than $10,000","18,685","+/-2,222",6.3,+/-0.7
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",53,"$10,000 to $14,999","14,568","+/-1,808",4.9,+/-0.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",54,"$15,000 to $24,999","25,948","+/-2,543",8.8,+/-0.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",55,"$25,000 to $34,999","24,268","+/-2,676",8.2,+/-0.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",56,"$35,000 to $49,999","40,569","+/-3,404",13.7,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",57,"$50,000 to $74,999","52,983","+/-3,054",17.9,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",58,"$75,000 to $99,999","40,430","+/-3,077",13.7,+/-1.0
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",59,"$100,000 to $149,999","45,010","+/-3,190",15.2,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",60,"$150,000 to $199,999","16,069","+/-1,715",5.4,+/-0.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",61,"$200,000 or more","17,018","+/-2,182",5.8,+/-0.7
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",62,Median household income (dollars),"59,512","+/-2,279",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",63,Mean household income (dollars),"80,785","+/-2,607",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",63.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",64,With earnings,"207,220","+/-4,399",70.1,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",65,Mean earnings (dollars),"78,351","+/-3,279",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",66,With Social Security,"112,454","+/-3,364",38.0,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",67,Mean Social Security income (dollars),"21,984",+/-668,(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",68,With retirement income,"88,498","+/-3,849",29.9,+/-1.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",69,Mean retirement income (dollars),"28,256","+/-1,552",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",69.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",70,With Supplemental Security Income,"16,879","+/-1,674",5.7,+/-0.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",71,Mean Supplemental Security Income (dollars),"10,497",+/-754,(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",72,With cash public assistance income,"14,226","+/-2,295",4.8,+/-0.8
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",73,Mean cash public assistance income (dollars),"5,993",+/-744,(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",74,With Food Stamp/SNAP benefits in the past 12 months,"54,648","+/-3,098",18.5,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",74.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",75,Families,"175,346","+/-4,717","175,346",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",76,"Less than $10,000","6,202","+/-1,398",3.5,+/-0.8
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",77,"$10,000 to $14,999","3,524","+/-1,068",2.0,+/-0.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",78,"$15,000 to $24,999","8,643","+/-1,649",4.9,+/-0.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",79,"$25,000 to $34,999","12,311","+/-1,916",7.0,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",80,"$35,000 to $49,999","22,629","+/-2,220",12.9,+/-1.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",81,"$50,000 to $74,999","31,977","+/-3,108",18.2,+/-1.7
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",82,"$75,000 to $99,999","29,281","+/-2,737",16.7,+/-1.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",83,"$100,000 to $149,999","35,129","+/-2,904",20.0,+/-1.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",84,"$150,000 to $199,999","12,863","+/-1,691",7.3,+/-0.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",85,"$200,000 or more","12,787","+/-1,805",7.3,+/-1.0
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",86,Median family income (dollars),"77,154","+/-2,495",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",87,Mean family income (dollars),"96,568","+/-3,616",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",87.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",88,Per capita income (dollars),"33,898","+/-1,068",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",88.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",89,Nonfamily households,"120,202","+/-5,027","120,202",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",90,Median nonfamily income (dollars),"36,492","+/-1,739",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",91,Mean nonfamily income (dollars),"52,970","+/-3,630",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",91.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",92,Median earnings for workers (dollars),"31,580",+/-841,(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",93,"Median earnings for male full-time, year-round workers (dollars)","53,298","+/-4,018",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",94,"Median earnings for female full-time, year-round workers (dollars)","43,726","+/-2,598",(X),(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",94.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",95,Civilian noninstitutionalized population,"704,680","+/-4,110","704,680",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",96,With health insurance coverage,"663,147","+/-5,510",94.1,+/-0.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",97,With private health insurance,"442,223","+/-9,356",62.8,+/-1.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",98,With public coverage,"340,456","+/-9,304",48.3,+/-1.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",99,No health insurance coverage,"41,533","+/-4,558",5.9,+/-0.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",99.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",100,Civilian noninstitutionalized population under 19 years,"135,091","+/-2,515","135,091",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",101,No health insurance coverage,"3,481","+/-1,379",2.6,+/-1.0
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",101.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",102,Civilian noninstitutionalized population 19 to 64 years,"410,727","+/-3,554","410,727",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",103,In labor force:,"299,407","+/-6,419","299,407",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",104,Employed:,"277,833","+/-6,487","277,833",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",105,With health insurance coverage,"252,200","+/-6,444",90.8,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",106,With private health insurance,"212,973","+/-6,522",76.7,+/-1.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",107,With public coverage,"50,191","+/-4,138",18.1,+/-1.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",108,No health insurance coverage,"25,633","+/-3,224",9.2,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",109,Unemployed:,"21,574","+/-2,837","21,574",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",110,With health insurance coverage,"18,302","+/-2,691",84.8,+/-4.4
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",111,With private health insurance,"7,520","+/-1,533",34.9,+/-6.0
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",112,With public coverage,"12,250","+/-2,403",56.8,+/-6.8
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",113,No health insurance coverage,"3,272",+/-993,15.2,+/-4.4
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",114,Not in labor force:,"111,320","+/-6,357","111,320",(X)
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",115,With health insurance coverage,"103,169","+/-6,092",92.7,+/-1.2
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",116,With private health insurance,"55,245","+/-5,098",49.6,+/-3.2
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",117,With public coverage,"58,138","+/-4,513",52.2,+/-3.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",118,No health insurance coverage,"8,151","+/-1,429",7.3,+/-1.2
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",118.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",119,All families,(X),(X),8.7,+/-1.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",120,With related children of the householder under 18 years,(X),(X),14.1,+/-2.8
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",121,With related children of the householder under 5 years only,(X),(X),18.3,+/-7.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",122,Married couple families,(X),(X),5.4,+/-1.0
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",123,With related children of the householder under 18 years,(X),(X),6.5,+/-2.2
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",124,With related children of the householder under 5 years only,(X),(X),2.9,+/-2.4
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",125,"Families with female householder, no spouse present",(X),(X),21.6,+/-4.7
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",126,With related children of the householder under 18 years,(X),(X),30.7,+/-7.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",127,With related children of the householder under 5 years only,(X),(X),69.5,+/-17.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",127.3,,,,,
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",128,All people,(X),(X),15.9,+/-1.3
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",129,Under 18 years,(X),(X),17.0,+/-3.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",130,Related children of the householder under 18 years,(X),(X),16.2,+/-3.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",131,Related children of the householder under 5 years,(X),(X),18.4,+/-5.9
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",132,Related children of the householder 5 to 17 years,(X),(X),15.5,+/-3.6
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",133,18 years and over,(X),(X),15.6,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",134,18 to 64 years,(X),(X),18.3,+/-1.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",135,65 years and over,(X),(X),8.7,+/-1.1
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",136,People in families,(X),(X),9.4,+/-1.5
+DP03,5001800US4104,"Congressional District 4 (118th Congress), Oregon",137,Unrelated individuals 15 years and over,(X),(X),32.3,+/-2.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",0.5,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",1,Population 16 years and over,"580,171","+/-8,568","580,171",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",2,In labor force,"362,345","+/-9,394",62.5,+/-1.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",3,Civilian labor force,"362,237","+/-9,397",62.4,+/-1.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",4,Employed,"341,176","+/-9,274",58.8,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",5,Unemployed,"21,061","+/-2,990",3.6,+/-0.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",6,Armed Forces,108,+/-167,0.0,+/-0.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",7,Not in labor force,"217,826","+/-6,506",37.5,+/-1.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",7.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",8,Civilian labor force,"362,237","+/-9,397","362,237",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",9,Unemployment Rate,(X),(X),5.8,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",9.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",10,Females 16 years and over,"294,215","+/-4,396","294,215",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",11,In labor force,"171,279","+/-5,103",58.2,+/-1.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",12,Civilian labor force,"171,279","+/-5,103",58.2,+/-1.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",13,Employed,"161,133","+/-5,124",54.8,+/-1.6
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",13.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",14,Own children of the householder under 6 years,"42,389","+/-2,678","42,389",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",15,All parents in family in labor force,"27,978","+/-2,810",66.0,+/-5.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",15.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",16,Own children of the householder 6 to 17 years,"99,612","+/-4,239","99,612",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",17,All parents in family in labor force,"66,272","+/-4,737",66.5,+/-4.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",17.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",18,Workers 16 years and over,"333,497","+/-9,338","333,497",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",19,"Car, truck, or van -- drove alone","221,523","+/-8,771",66.4,+/-1.7
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",20,"Car, truck, or van -- carpooled","19,440","+/-2,991",5.8,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",21,Public transportation (excluding taxicab),"3,266","+/-1,186",1.0,+/-0.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",22,Walked,"7,117","+/-2,285",2.1,+/-0.7
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",23,Other means,"6,293","+/-1,605",1.9,+/-0.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",24,Worked from home,"75,858","+/-4,858",22.7,+/-1.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",24.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",25,Mean travel time to work (minutes),22.8,+/-0.7,(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",25.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",25.5,OCCUPATION,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",26,Civilian employed population 16 years and over,"341,176","+/-9,274","341,176",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",27,"Management, business, science, and arts occupations","146,127","+/-6,966",42.8,+/-1.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",28,Service occupations,"49,689","+/-4,677",14.6,+/-1.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",29,Sales and office occupations,"75,522","+/-5,161",22.1,+/-1.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",30,"Natural resources, construction, and maintenance occupations","30,500","+/-3,744",8.9,+/-1.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",31,"Production, transportation, and material moving occupations","39,338","+/-4,148",11.5,+/-1.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",31.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",31.5,INDUSTRY,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",32,Civilian employed population 16 years and over,"341,176","+/-9,274","341,176",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",33,"Agriculture, forestry, fishing and hunting, and mining","6,964","+/-1,754",2.0,+/-0.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",34,Construction,"30,000","+/-3,548",8.8,+/-1.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",35,Manufacturing,"28,629","+/-3,181",8.4,+/-0.9
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",36,Wholesale trade,"12,097","+/-3,111",3.5,+/-0.9
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",37,Retail trade,"41,188","+/-4,078",12.1,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",38,"Transportation and warehousing, and utilities","16,179","+/-2,546",4.7,+/-0.7
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",39,Information,"2,682",+/-798,0.8,+/-0.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",40,"Finance and insurance, and real estate and rental and leasing","19,923","+/-2,245",5.8,+/-0.7
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",41,"Professional, scientific, and management, and administrative and waste management services","44,083","+/-3,817",12.9,+/-1.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",42,"Educational services, and health care and social assistance","82,026","+/-4,677",24.0,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",43,"Arts, entertainment, and recreation, and accommodation and food services","23,676","+/-2,873",6.9,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",44,"Other services, except public administration","17,965","+/-2,848",5.3,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",45,Public administration,"15,764","+/-2,514",4.6,+/-0.7
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",45.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",46,Civilian employed population 16 years and over,"341,176","+/-9,274","341,176",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",47,Private wage and salary workers,"269,952","+/-8,940",79.1,+/-1.6
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",48,Government workers,"44,073","+/-4,348",12.9,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",49,Self-employed in own not incorporated business workers,"26,882","+/-3,418",7.9,+/-1.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",50,Unpaid family workers,269,+/-262,0.1,+/-0.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",50.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",51,Total households,"281,118","+/-4,107","281,118",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",52,"Less than $10,000","13,691","+/-2,268",4.9,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",53,"$10,000 to $14,999","6,729","+/-1,303",2.4,+/-0.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",54,"$15,000 to $24,999","16,375","+/-2,207",5.8,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",55,"$25,000 to $34,999","19,250","+/-2,422",6.8,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",56,"$35,000 to $49,999","30,276","+/-2,932",10.8,+/-1.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",57,"$50,000 to $74,999","44,065","+/-3,348",15.7,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",58,"$75,000 to $99,999","39,819","+/-3,358",14.2,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",59,"$100,000 to $149,999","55,103","+/-3,944",19.6,+/-1.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",60,"$150,000 to $199,999","25,360","+/-3,042",9.0,+/-1.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",61,"$200,000 or more","30,450","+/-2,805",10.8,+/-1.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",62,Median household income (dollars),"81,113","+/-3,876",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",63,Mean household income (dollars),"106,442","+/-3,562",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",63.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",64,With earnings,"211,835","+/-5,175",75.4,+/-1.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",65,Mean earnings (dollars),"107,360","+/-3,997",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",66,With Social Security,"95,441","+/-3,467",34.0,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",67,Mean Social Security income (dollars),"22,724",+/-755,(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",68,With retirement income,"76,452","+/-3,354",27.2,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",69,Mean retirement income (dollars),"33,548","+/-2,305",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",69.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",70,With Supplemental Security Income,"9,124","+/-1,496",3.2,+/-0.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",71,Mean Supplemental Security Income (dollars),"9,707",+/-920,(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",72,With cash public assistance income,"12,574","+/-2,217",4.5,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",73,Mean cash public assistance income (dollars),"4,922",+/-767,(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",74,With Food Stamp/SNAP benefits in the past 12 months,"34,883","+/-3,294",12.4,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",74.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",75,Families,"188,559","+/-4,890","188,559",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",76,"Less than $10,000","6,254","+/-1,812",3.3,+/-1.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",77,"$10,000 to $14,999","2,623",+/-824,1.4,+/-0.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",78,"$15,000 to $24,999","4,920","+/-1,019",2.6,+/-0.6
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",79,"$25,000 to $34,999","10,704","+/-1,966",5.7,+/-1.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",80,"$35,000 to $49,999","17,743","+/-2,376",9.4,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",81,"$50,000 to $74,999","27,123","+/-2,620",14.4,+/-1.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",82,"$75,000 to $99,999","27,231","+/-2,718",14.4,+/-1.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",83,"$100,000 to $149,999","44,043","+/-4,017",23.4,+/-2.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",84,"$150,000 to $199,999","20,706","+/-2,591",11.0,+/-1.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",85,"$200,000 or more","27,212","+/-2,572",14.4,+/-1.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",86,Median family income (dollars),"97,349","+/-4,225",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",87,Mean family income (dollars),"124,576","+/-4,702",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",87.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",88,Per capita income (dollars),"42,561","+/-1,505",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",88.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",89,Nonfamily households,"92,559","+/-5,341","92,559",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",90,Median nonfamily income (dollars),"49,412","+/-2,323",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",91,Mean nonfamily income (dollars),"64,076","+/-3,251",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",91.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",92,Median earnings for workers (dollars),"43,406","+/-2,002",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",93,"Median earnings for male full-time, year-round workers (dollars)","65,701","+/-4,276",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",94,"Median earnings for female full-time, year-round workers (dollars)","52,907","+/-3,243",(X),(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",94.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",95,Civilian noninstitutionalized population,"709,505","+/-10,116","709,505",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",96,With health insurance coverage,"667,853","+/-11,467",94.1,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",97,With private health insurance,"496,482","+/-13,422",70.0,+/-1.6
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",98,With public coverage,"274,611","+/-11,625",38.7,+/-1.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",99,No health insurance coverage,"41,652","+/-5,538",5.9,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",99.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",100,Civilian noninstitutionalized population under 19 years,"155,799","+/-4,940","155,799",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",101,No health insurance coverage,"6,469","+/-2,346",4.2,+/-1.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",101.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",102,Civilian noninstitutionalized population 19 to 64 years,"417,065","+/-7,103","417,065",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",103,In labor force:,"330,886","+/-8,625","330,886",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",104,Employed:,"312,031","+/-8,604","312,031",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",105,With health insurance coverage,"288,722","+/-8,157",92.5,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",106,With private health insurance,"262,490","+/-8,687",84.1,+/-1.6
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",107,With public coverage,"37,839","+/-4,360",12.1,+/-1.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",108,No health insurance coverage,"23,309","+/-3,789",7.5,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",109,Unemployed:,"18,855","+/-2,527","18,855",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",110,With health insurance coverage,"16,011","+/-2,322",84.9,+/-5.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",111,With private health insurance,"8,457","+/-1,514",44.9,+/-6.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",112,With public coverage,"8,903","+/-1,880",47.2,+/-7.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",113,No health insurance coverage,"2,844","+/-1,065",15.1,+/-5.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",114,Not in labor force:,"86,179","+/-5,078","86,179",(X)
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",115,With health insurance coverage,"78,427","+/-5,102",91.0,+/-2.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",116,With private health insurance,"44,020","+/-4,170",51.1,+/-3.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",117,With public coverage,"41,491","+/-4,441",48.1,+/-4.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",118,No health insurance coverage,"7,752","+/-1,853",9.0,+/-2.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",118.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",119,All families,(X),(X),5.8,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",120,With related children of the householder under 18 years,(X),(X),8.8,+/-2.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",121,With related children of the householder under 5 years only,(X),(X),4.1,+/-3.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",122,Married couple families,(X),(X),3.1,+/-0.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",123,With related children of the householder under 18 years,(X),(X),2.7,+/-1.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",124,With related children of the householder under 5 years only,(X),(X),1.9,+/-1.9
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",125,"Families with female householder, no spouse present",(X),(X),18.5,+/-5.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",126,With related children of the householder under 18 years,(X),(X),27.5,+/-7.8
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",127,With related children of the householder under 5 years only,(X),(X),15.0,+/-15.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",127.3,,,,,
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",128,All people,(X),(X),8.8,+/-1.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",129,Under 18 years,(X),(X),9.0,+/-2.3
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",130,Related children of the householder under 18 years,(X),(X),8.5,+/-2.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",131,Related children of the householder under 5 years,(X),(X),6.8,+/-3.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",132,Related children of the householder 5 to 17 years,(X),(X),9.0,+/-2.5
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",133,18 years and over,(X),(X),8.8,+/-1.0
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",134,18 to 64 years,(X),(X),8.9,+/-1.2
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",135,65 years and over,(X),(X),8.4,+/-1.4
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",136,People in families,(X),(X),5.5,+/-1.1
+DP03,5001800US4105,"Congressional District 5 (118th Congress), Oregon",137,Unrelated individuals 15 years and over,(X),(X),21.5,+/-2.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",0.5,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",1,Population 16 years and over,"572,967","+/-8,034","572,967",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",2,In labor force,"359,043","+/-9,327",62.7,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",3,Civilian labor force,"358,084","+/-9,261",62.5,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",4,Employed,"337,383","+/-9,049",58.9,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",5,Unemployed,"20,701","+/-2,930",3.6,+/-0.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",6,Armed Forces,959,+/-562,0.2,+/-0.1
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",7,Not in labor force,"213,924","+/-6,781",37.3,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",7.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",8,Civilian labor force,"358,084","+/-9,261","358,084",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",9,Unemployment Rate,(X),(X),5.8,+/-0.8
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",9.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",10,Females 16 years and over,"291,226","+/-4,673","291,226",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",11,In labor force,"166,560","+/-5,381",57.2,+/-1.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",12,Civilian labor force,"166,560","+/-5,381",57.2,+/-1.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",13,Employed,"156,432","+/-5,274",53.7,+/-1.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",13.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",14,Own children of the householder under 6 years,"45,187","+/-2,752","45,187",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",15,All parents in family in labor force,"30,159","+/-3,232",66.7,+/-5.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",15.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",16,Own children of the householder 6 to 17 years,"104,781","+/-3,893","104,781",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",17,All parents in family in labor force,"71,125","+/-4,338",67.9,+/-3.3
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",17.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",18,Workers 16 years and over,"330,912","+/-9,162","330,912",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",19,"Car, truck, or van -- drove alone","213,892","+/-8,360",64.6,+/-1.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",20,"Car, truck, or van -- carpooled","28,260","+/-3,794",8.5,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",21,Public transportation (excluding taxicab),"2,899",+/-810,0.9,+/-0.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",22,Walked,"9,907","+/-2,072",3.0,+/-0.6
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",23,Other means,"5,930","+/-1,238",1.8,+/-0.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",24,Worked from home,"70,024","+/-5,101",21.2,+/-1.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",24.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",25,Mean travel time to work (minutes),24.3,+/-0.9,(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",25.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",25.5,OCCUPATION,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",26,Civilian employed population 16 years and over,"337,383","+/-9,049","337,383",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",27,"Management, business, science, and arts occupations","134,775","+/-6,324",39.9,+/-1.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",28,Service occupations,"57,684","+/-4,475",17.1,+/-1.3
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",29,Sales and office occupations,"69,392","+/-4,620",20.6,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",30,"Natural resources, construction, and maintenance occupations","28,616","+/-2,829",8.5,+/-0.8
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",31,"Production, transportation, and material moving occupations","46,916","+/-3,859",13.9,+/-1.1
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",31.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",31.5,INDUSTRY,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",32,Civilian employed population 16 years and over,"337,383","+/-9,049","337,383",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",33,"Agriculture, forestry, fishing and hunting, and mining","6,300","+/-1,466",1.9,+/-0.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",34,Construction,"24,429","+/-3,086",7.2,+/-0.9
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",35,Manufacturing,"39,181","+/-3,715",11.6,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",36,Wholesale trade,"8,686","+/-1,585",2.6,+/-0.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",37,Retail trade,"38,210","+/-3,722",11.3,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",38,"Transportation and warehousing, and utilities","14,370","+/-2,067",4.3,+/-0.6
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",39,Information,"3,331","+/-1,352",1.0,+/-0.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",40,"Finance and insurance, and real estate and rental and leasing","19,133","+/-2,562",5.7,+/-0.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",41,"Professional, scientific, and management, and administrative and waste management services","41,362","+/-3,455",12.3,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",42,"Educational services, and health care and social assistance","73,489","+/-4,311",21.8,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",43,"Arts, entertainment, and recreation, and accommodation and food services","27,510","+/-3,045",8.2,+/-0.9
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",44,"Other services, except public administration","17,139","+/-2,607",5.1,+/-0.8
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",45,Public administration,"24,243","+/-2,535",7.2,+/-0.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",45.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",46,Civilian employed population 16 years and over,"337,383","+/-9,049","337,383",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",47,Private wage and salary workers,"262,680","+/-8,074",77.9,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",48,Government workers,"52,574","+/-3,808",15.6,+/-1.1
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",49,Self-employed in own not incorporated business workers,"21,626","+/-2,948",6.4,+/-0.8
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",50,Unpaid family workers,503,+/-334,0.1,+/-0.1
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",50.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",51,Total households,"267,973","+/-4,382","267,973",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",52,"Less than $10,000","12,851","+/-2,014",4.8,+/-0.8
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",53,"$10,000 to $14,999","9,014","+/-1,815",3.4,+/-0.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",54,"$15,000 to $24,999","17,519","+/-1,954",6.5,+/-0.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",55,"$25,000 to $34,999","18,555","+/-2,032",6.9,+/-0.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",56,"$35,000 to $49,999","30,719","+/-2,842",11.5,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",57,"$50,000 to $74,999","45,745","+/-3,875",17.1,+/-1.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",58,"$75,000 to $99,999","36,359","+/-3,401",13.6,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",59,"$100,000 to $149,999","50,642","+/-4,120",18.9,+/-1.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",60,"$150,000 to $199,999","21,838","+/-2,669",8.1,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",61,"$200,000 or more","24,731","+/-2,663",9.2,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",62,Median household income (dollars),"74,711","+/-2,982",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",63,Mean household income (dollars),"96,529","+/-3,678",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",63.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",64,With earnings,"205,313","+/-5,216",76.6,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",65,Mean earnings (dollars),"95,701","+/-3,805",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",66,With Social Security,"83,753","+/-3,004",31.3,+/-1.1
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",67,Mean Social Security income (dollars),"21,804",+/-687,(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",68,With retirement income,"66,165","+/-3,937",24.7,+/-1.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",69,Mean retirement income (dollars),"35,464","+/-4,283",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",69.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",70,With Supplemental Security Income,"11,455","+/-1,763",4.3,+/-0.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",71,Mean Supplemental Security Income (dollars),"10,428",+/-939,(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",72,With cash public assistance income,"15,072","+/-2,268",5.6,+/-0.8
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",73,Mean cash public assistance income (dollars),"6,052","+/-1,247",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",74,With Food Stamp/SNAP benefits in the past 12 months,"45,186","+/-3,522",16.9,+/-1.3
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",74.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",75,Families,"177,524","+/-4,307","177,524",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",76,"Less than $10,000","5,404","+/-1,380",3.0,+/-0.8
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",77,"$10,000 to $14,999","3,845","+/-1,114",2.2,+/-0.6
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",78,"$15,000 to $24,999","7,177","+/-1,455",4.0,+/-0.8
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",79,"$25,000 to $34,999","10,172","+/-1,879",5.7,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",80,"$35,000 to $49,999","15,134","+/-2,071",8.5,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",81,"$50,000 to $74,999","28,440","+/-2,843",16.0,+/-1.6
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",82,"$75,000 to $99,999","27,137","+/-2,757",15.3,+/-1.6
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",83,"$100,000 to $149,999","40,775","+/-3,572",23.0,+/-1.9
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",84,"$150,000 to $199,999","18,580","+/-2,485",10.5,+/-1.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",85,"$200,000 or more","20,860","+/-2,435",11.8,+/-1.3
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",86,Median family income (dollars),"91,242","+/-4,079",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",87,Mean family income (dollars),"111,622","+/-4,372",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",87.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",88,Per capita income (dollars),"37,196","+/-1,330",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",88.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",89,Nonfamily households,"90,449","+/-4,532","90,449",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",90,Median nonfamily income (dollars),"44,446","+/-2,246",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",91,Mean nonfamily income (dollars),"61,413","+/-4,260",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",91.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",92,Median earnings for workers (dollars),"38,935","+/-1,677",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",93,"Median earnings for male full-time, year-round workers (dollars)","58,369","+/-2,556",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",94,"Median earnings for female full-time, year-round workers (dollars)","49,292","+/-2,371",(X),(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",94.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",95,Civilian noninstitutionalized population,"702,536","+/-9,734","702,536",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",96,With health insurance coverage,"661,655","+/-9,990",94.2,+/-0.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",97,With private health insurance,"480,974","+/-13,517",68.5,+/-1.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",98,With public coverage,"277,509","+/-11,018",39.5,+/-1.5
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",99,No health insurance coverage,"40,881","+/-4,793",5.8,+/-0.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",99.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",100,Civilian noninstitutionalized population under 19 years,"169,495","+/-4,713","169,495",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",101,No health insurance coverage,"3,395","+/-1,462",2.0,+/-0.9
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",101.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",102,Civilian noninstitutionalized population 19 to 64 years,"413,304","+/-7,424","413,304",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",103,In labor force:,"328,009","+/-9,039","328,009",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",104,Employed:,"309,372","+/-9,108","309,372",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",105,With health insurance coverage,"285,278","+/-9,093",92.2,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",106,With private health insurance,"252,427","+/-9,593",81.6,+/-1.6
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",107,With public coverage,"44,884","+/-4,368",14.5,+/-1.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",108,No health insurance coverage,"24,094","+/-3,259",7.8,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",109,Unemployed:,"18,637","+/-2,729","18,637",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",110,With health insurance coverage,"15,760","+/-2,620",84.6,+/-5.3
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",111,With private health insurance,"7,061","+/-1,492",37.9,+/-6.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",112,With public coverage,"9,444","+/-2,054",50.7,+/-6.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",113,No health insurance coverage,"2,877","+/-1,020",15.4,+/-5.3
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",114,Not in labor force:,"85,295","+/-5,074","85,295",(X)
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",115,With health insurance coverage,"75,533","+/-4,875",88.6,+/-2.3
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",116,With private health insurance,"41,734","+/-3,687",48.9,+/-3.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",117,With public coverage,"40,625","+/-3,658",47.6,+/-3.1
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",118,No health insurance coverage,"9,762","+/-2,091",11.4,+/-2.3
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",118.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",119,All families,(X),(X),8.8,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",120,With related children of the householder under 18 years,(X),(X),12.4,+/-2.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",121,With related children of the householder under 5 years only,(X),(X),8.7,+/-4.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",122,Married couple families,(X),(X),4.7,+/-1.1
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",123,With related children of the householder under 18 years,(X),(X),4.6,+/-1.6
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",124,With related children of the householder under 5 years only,(X),(X),3.9,+/-3.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",125,"Families with female householder, no spouse present",(X),(X),22.4,+/-5.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",126,With related children of the householder under 18 years,(X),(X),31.5,+/-7.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",127,With related children of the householder under 5 years only,(X),(X),36.4,+/-22.4
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",127.3,,,,,
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",128,All people,(X),(X),11.9,+/-1.1
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",129,Under 18 years,(X),(X),14.9,+/-2.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",130,Related children of the householder under 18 years,(X),(X),14.6,+/-2.7
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",131,Related children of the householder under 5 years,(X),(X),15.6,+/-4.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",132,Related children of the householder 5 to 17 years,(X),(X),14.3,+/-3.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",133,18 years and over,(X),(X),11.0,+/-1.0
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",134,18 to 64 years,(X),(X),11.4,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",135,65 years and over,(X),(X),9.4,+/-1.9
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",136,People in families,(X),(X),9.1,+/-1.2
+DP03,5001800US4106,"Congressional District 6 (118th Congress), Oregon",137,Unrelated individuals 15 years and over,(X),(X),22.8,+/-2.7

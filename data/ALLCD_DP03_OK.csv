@@ -1,0 +1,841 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",0.5,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",1,Population 16 years and over,"622,001","+/-2,698","622,001",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",2,In labor force,"401,786","+/-4,318",64.6,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",3,Civilian labor force,"400,682","+/-4,331",64.4,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",4,Employed,"375,451","+/-4,492",60.4,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",5,Unemployed,"25,231","+/-2,116",4.1,+/-0.3
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",6,Armed Forces,"1,104",+/-401,0.2,+/-0.1
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",7,Not in labor force,"220,215","+/-4,238",35.4,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",7.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",8,Civilian labor force,"400,682","+/-4,331","400,682",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",9,Unemployment Rate,(X),(X),6.3,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",9.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",10,Females 16 years and over,"319,724","+/-1,582","319,724",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",11,In labor force,"188,738","+/-3,189",59.0,+/-1.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",12,Civilian labor force,"188,504","+/-3,202",59.0,+/-1.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",13,Employed,"177,700","+/-2,982",55.6,+/-0.9
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",13.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",14,Own children of the householder under 6 years,"61,627","+/-1,583","61,627",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",15,All parents in family in labor force,"39,646","+/-2,230",64.3,+/-3.1
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",15.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",16,Own children of the householder 6 to 17 years,"126,480","+/-2,234","126,480",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",17,All parents in family in labor force,"85,344","+/-3,604",67.5,+/-2.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",17.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",18,Workers 16 years and over,"369,708","+/-4,613","369,708",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",19,"Car, truck, or van -- drove alone","279,447","+/-5,322",75.6,+/-1.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",20,"Car, truck, or van -- carpooled","29,942","+/-2,747",8.1,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",21,Public transportation (excluding taxicab),530,+/-283,0.1,+/-0.1
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",22,Walked,"4,212",+/-664,1.1,+/-0.2
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",23,Other means,"5,296","+/-1,038",1.4,+/-0.3
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",24,Worked from home,"50,281","+/-2,863",13.6,+/-0.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",24.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",25,Mean travel time to work (minutes),20.9,+/-0.4,(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",25.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",25.5,OCCUPATION,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",26,Civilian employed population 16 years and over,"375,451","+/-4,492","375,451",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",27,"Management, business, science, and arts occupations","155,941","+/-3,818",41.5,+/-0.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",28,Service occupations,"54,348","+/-2,184",14.5,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",29,Sales and office occupations,"79,833","+/-3,174",21.3,+/-0.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",30,"Natural resources, construction, and maintenance occupations","35,037","+/-2,025",9.3,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",31,"Production, transportation, and material moving occupations","50,292","+/-2,999",13.4,+/-0.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",31.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",31.5,INDUSTRY,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",32,Civilian employed population 16 years and over,"375,451","+/-4,492","375,451",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",33,"Agriculture, forestry, fishing and hunting, and mining","7,019","+/-1,170",1.9,+/-0.3
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",34,Construction,"26,150","+/-1,795",7.0,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",35,Manufacturing,"38,865","+/-2,711",10.4,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",36,Wholesale trade,"10,070","+/-1,363",2.7,+/-0.4
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",37,Retail trade,"45,007","+/-2,889",12.0,+/-0.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",38,"Transportation and warehousing, and utilities","25,082","+/-2,029",6.7,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",39,Information,"9,694","+/-1,459",2.6,+/-0.4
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",40,"Finance and insurance, and real estate and rental and leasing","23,592","+/-2,031",6.3,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",41,"Professional, scientific, and management, and administrative and waste management services","41,656","+/-2,694",11.1,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",42,"Educational services, and health care and social assistance","86,056","+/-3,528",22.9,+/-1.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",43,"Arts, entertainment, and recreation, and accommodation and food services","29,171","+/-2,212",7.8,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",44,"Other services, except public administration","19,712","+/-1,928",5.3,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",45,Public administration,"13,377","+/-1,424",3.6,+/-0.4
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",45.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",46,Civilian employed population 16 years and over,"375,451","+/-4,492","375,451",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",47,Private wage and salary workers,"308,191","+/-4,992",82.1,+/-0.9
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",48,Government workers,"42,526","+/-2,920",11.3,+/-0.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",49,Self-employed in own not incorporated business workers,"24,105","+/-1,890",6.4,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",50,Unpaid family workers,629,+/-420,0.2,+/-0.1
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",50.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",51,Total households,"316,712","+/-1,803","316,712",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",52,"Less than $10,000","22,201","+/-1,618",7.0,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",53,"$10,000 to $14,999","13,029","+/-1,509",4.1,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",54,"$15,000 to $24,999","24,916","+/-1,763",7.9,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",55,"$25,000 to $34,999","29,413","+/-2,152",9.3,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",56,"$35,000 to $49,999","40,788","+/-2,112",12.9,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",57,"$50,000 to $74,999","58,733","+/-3,140",18.5,+/-1.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",58,"$75,000 to $99,999","38,005","+/-2,361",12.0,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",59,"$100,000 to $149,999","48,627","+/-2,374",15.4,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",60,"$150,000 to $199,999","20,332","+/-1,466",6.4,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",61,"$200,000 or more","20,668","+/-1,607",6.5,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",62,Median household income (dollars),"61,030","+/-1,316",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",63,Mean household income (dollars),"84,388","+/-1,892",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",63.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",64,With earnings,"248,270","+/-2,607",78.4,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",65,Mean earnings (dollars),"84,921","+/-2,203",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",66,With Social Security,"93,004","+/-2,131",29.4,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",67,Mean Social Security income (dollars),"21,304",+/-601,(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",68,With retirement income,"67,067","+/-2,348",21.2,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",69,Mean retirement income (dollars),"24,225","+/-1,347",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",69.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",70,With Supplemental Security Income,"14,433","+/-1,511",4.6,+/-0.5
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",71,Mean Supplemental Security Income (dollars),"10,403",+/-601,(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",72,With cash public assistance income,"9,283","+/-1,280",2.9,+/-0.4
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",73,Mean cash public assistance income (dollars),"3,470",+/-622,(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",74,With Food Stamp/SNAP benefits in the past 12 months,"36,636","+/-2,052",11.6,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",74.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",75,Families,"199,979","+/-3,547","199,979",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",76,"Less than $10,000","9,319","+/-1,285",4.7,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",77,"$10,000 to $14,999","5,321",+/-897,2.7,+/-0.4
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",78,"$15,000 to $24,999","9,921","+/-1,364",5.0,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",79,"$25,000 to $34,999","13,578","+/-1,440",6.8,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",80,"$35,000 to $49,999","22,532","+/-1,864",11.3,+/-0.9
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",81,"$50,000 to $74,999","36,634","+/-2,173",18.3,+/-1.2
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",82,"$75,000 to $99,999","27,756","+/-1,987",13.9,+/-1.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",83,"$100,000 to $149,999","38,837","+/-2,346",19.4,+/-1.1
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",84,"$150,000 to $199,999","17,679","+/-1,377",8.8,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",85,"$200,000 or more","18,402","+/-1,553",9.2,+/-0.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",86,Median family income (dollars),"77,645","+/-2,231",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",87,Mean family income (dollars),"101,923","+/-2,630",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",87.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",88,Per capita income (dollars),"33,845",+/-748,(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",88.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",89,Nonfamily households,"116,733","+/-3,403","116,733",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",90,Median nonfamily income (dollars),"37,085","+/-1,237",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",91,Mean nonfamily income (dollars),"50,604","+/-2,003",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",91.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",92,Median earnings for workers (dollars),"36,880",+/-636,(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",93,"Median earnings for male full-time, year-round workers (dollars)","53,322","+/-1,984",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",94,"Median earnings for female full-time, year-round workers (dollars)","43,256","+/-1,294",(X),(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",94.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",95,Civilian noninstitutionalized population,"793,180","+/-3,657","793,180",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",96,With health insurance coverage,"682,953","+/-6,135",86.1,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",97,With private health insurance,"506,255","+/-8,324",63.8,+/-1.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",98,With public coverage,"270,494","+/-5,181",34.1,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",99,No health insurance coverage,"110,227","+/-5,062",13.9,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",99.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",100,Civilian noninstitutionalized population under 19 years,"209,297","+/-2,382","209,297",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",101,No health insurance coverage,"15,678","+/-1,892",7.5,+/-0.9
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",101.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",102,Civilian noninstitutionalized population 19 to 64 years,"464,207","+/-2,590","464,207",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",103,In labor force:,"363,684","+/-4,067","363,684",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",104,Employed:,"342,489","+/-4,190","342,489",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",105,With health insurance coverage,"284,819","+/-5,354",83.2,+/-1.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",106,With private health insurance,"271,912","+/-5,039",79.4,+/-0.9
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",107,With public coverage,"22,066","+/-2,000",6.4,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",108,No health insurance coverage,"57,670","+/-3,436",16.8,+/-1.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",109,Unemployed:,"21,195","+/-1,978","21,195",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",110,With health insurance coverage,"11,071","+/-1,343",52.2,+/-4.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",111,With private health insurance,"8,086","+/-1,158",38.2,+/-4.1
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",112,With public coverage,"3,449",+/-671,16.3,+/-2.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",113,No health insurance coverage,"10,124","+/-1,249",47.8,+/-4.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",114,Not in labor force:,"100,523","+/-3,686","100,523",(X)
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",115,With health insurance coverage,"74,580","+/-3,266",74.2,+/-1.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",116,With private health insurance,"46,589","+/-2,547",46.3,+/-1.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",117,With public coverage,"34,927","+/-2,404",34.7,+/-2.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",118,No health insurance coverage,"25,943","+/-2,043",25.8,+/-1.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",118.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",119,All families,(X),(X),10.7,+/-0.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",120,With related children of the householder under 18 years,(X),(X),16.9,+/-1.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",121,With related children of the householder under 5 years only,(X),(X),19.0,+/-3.1
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",122,Married couple families,(X),(X),5.1,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",123,With related children of the householder under 18 years,(X),(X),6.7,+/-1.4
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",124,With related children of the householder under 5 years only,(X),(X),3.5,+/-2.3
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",125,"Families with female householder, no spouse present",(X),(X),28.2,+/-3.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",126,With related children of the householder under 18 years,(X),(X),40.3,+/-4.4
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",127,With related children of the householder under 5 years only,(X),(X),51.6,+/-9.0
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",127.3,,,,,
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",128,All people,(X),(X),14.1,+/-0.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",129,Under 18 years,(X),(X),18.9,+/-1.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",130,Related children of the householder under 18 years,(X),(X),18.6,+/-1.8
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",131,Related children of the householder under 5 years,(X),(X),22.3,+/-2.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",132,Related children of the householder 5 to 17 years,(X),(X),17.3,+/-2.1
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",133,18 years and over,(X),(X),12.5,+/-0.6
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",134,18 to 64 years,(X),(X),13.0,+/-0.7
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",135,65 years and over,(X),(X),10.5,+/-1.3
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",136,People in families,(X),(X),11.6,+/-0.9
+DP03,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",137,Unrelated individuals 15 years and over,(X),(X),24.1,+/-1.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",0.5,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",1,Population 16 years and over,"633,989","+/-2,761","633,989",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",2,In labor force,"342,017","+/-5,153",53.9,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",3,Civilian labor force,"341,650","+/-5,222",53.9,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",4,Employed,"320,291","+/-5,597",50.5,+/-0.9
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",5,Unemployed,"21,359","+/-1,917",3.4,+/-0.3
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",6,Armed Forces,367,+/-238,0.1,+/-0.1
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",7,Not in labor force,"291,972","+/-4,876",46.1,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",7.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",8,Civilian labor force,"341,650","+/-5,222","341,650",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",9,Unemployment Rate,(X),(X),6.3,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",9.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",10,Females 16 years and over,"320,873","+/-1,758","320,873",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",11,In labor force,"163,650","+/-3,476",51.0,+/-1.0
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",12,Civilian labor force,"163,602","+/-3,484",51.0,+/-1.0
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",13,Employed,"155,474","+/-3,465",48.5,+/-1.0
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",13.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",14,Own children of the householder under 6 years,"50,943","+/-1,959","50,943",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",15,All parents in family in labor force,"31,741","+/-2,049",62.3,+/-3.2
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",15.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",16,Own children of the householder 6 to 17 years,"115,131","+/-2,977","115,131",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",17,All parents in family in labor force,"80,767","+/-3,526",70.2,+/-2.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",17.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",18,Workers 16 years and over,"314,708","+/-5,453","314,708",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",19,"Car, truck, or van -- drove alone","249,515","+/-5,036",79.3,+/-1.0
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",20,"Car, truck, or van -- carpooled","31,337","+/-2,495",10.0,+/-0.7
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",21,Public transportation (excluding taxicab),586,+/-296,0.2,+/-0.1
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",22,Walked,"5,654",+/-940,1.8,+/-0.3
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",23,Other means,"5,442","+/-1,195",1.7,+/-0.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",24,Worked from home,"22,174","+/-2,097",7.0,+/-0.7
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",24.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",25,Mean travel time to work (minutes),23.3,+/-0.5,(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",25.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",25.5,OCCUPATION,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",26,Civilian employed population 16 years and over,"320,291","+/-5,597","320,291",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",27,"Management, business, science, and arts occupations","104,463","+/-3,538",32.6,+/-0.9
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",28,Service occupations,"61,366","+/-2,938",19.2,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",29,Sales and office occupations,"61,189","+/-3,313",19.1,+/-0.9
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",30,"Natural resources, construction, and maintenance occupations","39,276","+/-2,049",12.3,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",31,"Production, transportation, and material moving occupations","53,997","+/-2,417",16.9,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",31.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",31.5,INDUSTRY,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",32,Civilian employed population 16 years and over,"320,291","+/-5,597","320,291",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",33,"Agriculture, forestry, fishing and hunting, and mining","13,747","+/-1,426",4.3,+/-0.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",34,Construction,"23,715","+/-1,968",7.4,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",35,Manufacturing,"38,066","+/-2,125",11.9,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",36,Wholesale trade,"6,089",+/-846,1.9,+/-0.3
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",37,Retail trade,"39,644","+/-2,638",12.4,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",38,"Transportation and warehousing, and utilities","18,357","+/-1,717",5.7,+/-0.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",39,Information,"3,215",+/-604,1.0,+/-0.2
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",40,"Finance and insurance, and real estate and rental and leasing","13,490","+/-1,505",4.2,+/-0.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",41,"Professional, scientific, and management, and administrative and waste management services","21,906","+/-1,794",6.8,+/-0.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",42,"Educational services, and health care and social assistance","75,687","+/-3,253",23.6,+/-1.0
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",43,"Arts, entertainment, and recreation, and accommodation and food services","31,009","+/-2,618",9.7,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",44,"Other services, except public administration","14,249","+/-1,465",4.4,+/-0.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",45,Public administration,"21,117","+/-1,887",6.6,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",45.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",46,Civilian employed population 16 years and over,"320,291","+/-5,597","320,291",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",47,Private wage and salary workers,"235,039","+/-5,735",73.4,+/-1.1
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",48,Government workers,"62,239","+/-3,035",19.4,+/-0.9
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",49,Self-employed in own not incorporated business workers,"22,253","+/-1,691",6.9,+/-0.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",50,Unpaid family workers,760,+/-461,0.2,+/-0.1
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",50.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",51,Total households,"306,467","+/-2,809","306,467",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",52,"Less than $10,000","25,059","+/-1,791",8.2,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",53,"$10,000 to $14,999","19,176","+/-1,568",6.3,+/-0.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",54,"$15,000 to $24,999","36,360","+/-1,938",11.9,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",55,"$25,000 to $34,999","35,201","+/-2,119",11.5,+/-0.7
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",56,"$35,000 to $49,999","44,623","+/-1,908",14.6,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",57,"$50,000 to $74,999","57,453","+/-2,492",18.7,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",58,"$75,000 to $99,999","34,095","+/-1,925",11.1,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",59,"$100,000 to $149,999","34,519","+/-2,390",11.3,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",60,"$150,000 to $199,999","10,285","+/-1,157",3.4,+/-0.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",61,"$200,000 or more","9,696","+/-1,270",3.2,+/-0.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",62,Median household income (dollars),"47,017","+/-1,365",(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",63,Mean household income (dollars),"63,567","+/-1,657",(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",63.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",64,With earnings,"210,093","+/-2,979",68.6,+/-0.9
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",65,Mean earnings (dollars),"66,842","+/-1,889",(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",66,With Social Security,"119,821","+/-2,532",39.1,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",67,Mean Social Security income (dollars),"19,227",+/-383,(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",68,With retirement income,"68,919","+/-2,336",22.5,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",69,Mean retirement income (dollars),"22,540","+/-1,659",(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",69.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",70,With Supplemental Security Income,"20,428","+/-1,403",6.7,+/-0.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",71,Mean Supplemental Security Income (dollars),"10,294",+/-437,(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",72,With cash public assistance income,"10,401","+/-1,197",3.4,+/-0.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",73,Mean cash public assistance income (dollars),"2,834",+/-603,(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",74,With Food Stamp/SNAP benefits in the past 12 months,"52,173","+/-2,188",17.0,+/-0.7
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",74.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",75,Families,"201,384","+/-3,331","201,384",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",76,"Less than $10,000","10,674","+/-1,304",5.3,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",77,"$10,000 to $14,999","6,225",+/-872,3.1,+/-0.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",78,"$15,000 to $24,999","16,625","+/-1,379",8.3,+/-0.7
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",79,"$25,000 to $34,999","22,086","+/-1,560",11.0,+/-0.7
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",80,"$35,000 to $49,999","29,126","+/-1,699",14.5,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",81,"$50,000 to $74,999","41,145","+/-2,150",20.4,+/-1.0
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",82,"$75,000 to $99,999","28,041","+/-1,790",13.9,+/-0.9
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",83,"$100,000 to $149,999","29,638","+/-2,252",14.7,+/-1.1
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",84,"$150,000 to $199,999","9,218","+/-1,048",4.6,+/-0.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",85,"$200,000 or more","8,606","+/-1,199",4.3,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",86,Median family income (dollars),"59,345","+/-1,618",(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",87,Mean family income (dollars),"75,462","+/-2,141",(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",87.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",88,Per capita income (dollars),"25,239",+/-584,(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",88.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",89,Nonfamily households,"105,083","+/-3,849","105,083",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",90,Median nonfamily income (dollars),"26,508","+/-1,039",(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",91,Mean nonfamily income (dollars),"36,957","+/-1,448",(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",91.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",92,Median earnings for workers (dollars),"31,175",+/-541,(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",93,"Median earnings for male full-time, year-round workers (dollars)","45,965","+/-1,261",(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",94,"Median earnings for female full-time, year-round workers (dollars)","36,372",+/-802,(X),(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",94.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",95,Civilian noninstitutionalized population,"780,533","+/-3,617","780,533",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",96,With health insurance coverage,"647,856","+/-5,328",83.0,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",97,With private health insurance,"416,307","+/-7,388",53.3,+/-0.9
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",98,With public coverage,"338,517","+/-6,060",43.4,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",99,No health insurance coverage,"132,677","+/-5,105",17.0,+/-0.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",99.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",100,Civilian noninstitutionalized population under 19 years,"194,321","+/-2,433","194,321",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",101,No health insurance coverage,"20,737","+/-1,888",10.7,+/-1.0
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",101.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",102,Civilian noninstitutionalized population 19 to 64 years,"438,369","+/-2,922","438,369",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",103,In labor force:,"311,539","+/-4,459","311,539",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",104,Employed:,"291,860","+/-4,807","291,860",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",105,With health insurance coverage,"228,179","+/-4,756",78.2,+/-1.1
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",106,With private health insurance,"209,270","+/-4,816",71.7,+/-1.2
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",107,With public coverage,"29,869","+/-2,148",10.2,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",108,No health insurance coverage,"63,681","+/-3,360",21.8,+/-1.1
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",109,Unemployed:,"19,679","+/-1,851","19,679",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",110,With health insurance coverage,"9,224","+/-1,395",46.9,+/-5.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",111,With private health insurance,"5,379","+/-1,081",27.3,+/-4.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",112,With public coverage,"4,184",+/-921,21.3,+/-4.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",113,No health insurance coverage,"10,455","+/-1,453",53.1,+/-5.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",114,Not in labor force:,"126,830","+/-4,069","126,830",(X)
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",115,With health insurance coverage,"90,389","+/-3,429",71.3,+/-1.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",116,With private health insurance,"44,301","+/-2,418",34.9,+/-1.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",117,With public coverage,"53,236","+/-2,602",42.0,+/-1.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",118,No health insurance coverage,"36,441","+/-2,195",28.7,+/-1.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",118.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",119,All families,(X),(X),13.8,+/-0.9
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",120,With related children of the householder under 18 years,(X),(X),22.0,+/-1.4
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",121,With related children of the householder under 5 years only,(X),(X),26.1,+/-4.3
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",122,Married couple families,(X),(X),7.9,+/-1.0
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",123,With related children of the householder under 18 years,(X),(X),11.2,+/-1.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",124,With related children of the householder under 5 years only,(X),(X),14.0,+/-4.7
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",125,"Families with female householder, no spouse present",(X),(X),32.0,+/-2.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",126,With related children of the householder under 18 years,(X),(X),44.1,+/-3.3
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",127,With related children of the householder under 5 years only,(X),(X),52.4,+/-8.5
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",127.3,,,,,
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",128,All people,(X),(X),18.6,+/-0.7
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",129,Under 18 years,(X),(X),25.7,+/-1.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",130,Related children of the householder under 18 years,(X),(X),25.4,+/-1.6
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",131,Related children of the householder under 5 years,(X),(X),30.2,+/-3.0
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",132,Related children of the householder 5 to 17 years,(X),(X),23.9,+/-1.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",133,18 years and over,(X),(X),16.5,+/-0.7
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",134,18 to 64 years,(X),(X),17.8,+/-0.8
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",135,65 years and over,(X),(X),12.6,+/-1.1
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",136,People in families,(X),(X),15.5,+/-0.9
+DP03,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",137,Unrelated individuals 15 years and over,(X),(X),31.9,+/-1.5
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",0.5,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",1,Population 16 years and over,"612,945","+/-7,231","612,945",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",2,In labor force,"367,980","+/-6,825",60.0,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",3,Civilian labor force,"363,425","+/-7,044",59.3,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",4,Employed,"341,267","+/-7,201",55.7,+/-1.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",5,Unemployed,"22,158","+/-3,055",3.6,+/-0.5
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",6,Armed Forces,"4,555","+/-1,119",0.7,+/-0.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",7,Not in labor force,"244,965","+/-6,398",40.0,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",7.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",8,Civilian labor force,"363,425","+/-7,044","363,425",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",9,Unemployment Rate,(X),(X),6.1,+/-0.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",9.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",10,Females 16 years and over,"302,826","+/-4,453","302,826",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",11,In labor force,"170,025","+/-5,132",56.1,+/-1.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",12,Civilian labor force,"169,004","+/-5,059",55.8,+/-1.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",13,Employed,"159,287","+/-4,825",52.6,+/-1.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",13.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",14,Own children of the householder under 6 years,"55,253","+/-3,228","55,253",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",15,All parents in family in labor force,"33,320","+/-3,088",60.3,+/-5.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",15.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",16,Own children of the householder 6 to 17 years,"128,043","+/-4,840","128,043",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",17,All parents in family in labor force,"89,522","+/-5,260",69.9,+/-3.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",17.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",18,Workers 16 years and over,"339,563","+/-6,835","339,563",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",19,"Car, truck, or van -- drove alone","265,099","+/-6,881",78.1,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",20,"Car, truck, or van -- carpooled","35,810","+/-2,954",10.5,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",21,Public transportation (excluding taxicab),657,+/-346,0.2,+/-0.1
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",22,Walked,"6,960","+/-1,273",2.0,+/-0.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",23,Other means,"7,523","+/-1,566",2.2,+/-0.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",24,Worked from home,"23,514","+/-2,693",6.9,+/-0.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",24.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",25,Mean travel time to work (minutes),20.3,+/-0.6,(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",25.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",25.5,OCCUPATION,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",26,Civilian employed population 16 years and over,"341,267","+/-7,201","341,267",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",27,"Management, business, science, and arts occupations","106,195","+/-5,310",31.1,+/-1.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",28,Service occupations,"66,339","+/-4,502",19.4,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",29,Sales and office occupations,"65,550","+/-4,258",19.2,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",30,"Natural resources, construction, and maintenance occupations","46,980","+/-3,253",13.8,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",31,"Production, transportation, and material moving occupations","56,203","+/-3,674",16.5,+/-1.1
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",31.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",31.5,INDUSTRY,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",32,Civilian employed population 16 years and over,"341,267","+/-7,201","341,267",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",33,"Agriculture, forestry, fishing and hunting, and mining","19,044","+/-1,679",5.6,+/-0.5
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",34,Construction,"29,312","+/-3,094",8.6,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",35,Manufacturing,"31,938","+/-2,786",9.4,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",36,Wholesale trade,"5,955","+/-1,544",1.7,+/-0.5
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",37,Retail trade,"41,717","+/-4,164",12.2,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",38,"Transportation and warehousing, and utilities","22,051","+/-2,641",6.5,+/-0.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",39,Information,"4,811","+/-1,355",1.4,+/-0.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",40,"Finance and insurance, and real estate and rental and leasing","14,895","+/-1,970",4.4,+/-0.6
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",41,"Professional, scientific, and management, and administrative and waste management services","23,249","+/-2,834",6.8,+/-0.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",42,"Educational services, and health care and social assistance","76,497","+/-4,459",22.4,+/-1.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",43,"Arts, entertainment, and recreation, and accommodation and food services","32,672","+/-3,757",9.6,+/-1.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",44,"Other services, except public administration","19,159","+/-2,138",5.6,+/-0.6
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",45,Public administration,"19,967","+/-2,241",5.9,+/-0.6
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",45.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",46,Civilian employed population 16 years and over,"341,267","+/-7,201","341,267",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",47,Private wage and salary workers,"247,328","+/-6,608",72.5,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",48,Government workers,"66,746","+/-4,304",19.6,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",49,Self-employed in own not incorporated business workers,"25,016","+/-2,181",7.3,+/-0.6
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",50,Unpaid family workers,"2,177",+/-841,0.6,+/-0.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",50.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",51,Total households,"294,563","+/-4,770","294,563",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",52,"Less than $10,000","20,729","+/-2,520",7.0,+/-0.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",53,"$10,000 to $14,999","18,242","+/-2,109",6.2,+/-0.7
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",54,"$15,000 to $24,999","31,139","+/-2,670",10.6,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",55,"$25,000 to $34,999","31,902","+/-2,684",10.8,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",56,"$35,000 to $49,999","40,658","+/-2,825",13.8,+/-1.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",57,"$50,000 to $74,999","57,755","+/-3,581",19.6,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",58,"$75,000 to $99,999","36,008","+/-2,564",12.2,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",59,"$100,000 to $149,999","37,577","+/-2,884",12.8,+/-1.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",60,"$150,000 to $199,999","11,707","+/-1,753",4.0,+/-0.6
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",61,"$200,000 or more","8,846","+/-1,462",3.0,+/-0.5
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",62,Median household income (dollars),"51,174",+/-899,(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",63,Mean household income (dollars),"65,677","+/-1,701",(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",63.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",64,With earnings,"221,776","+/-5,220",75.3,+/-1.1
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",65,Mean earnings (dollars),"66,316","+/-2,128",(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",66,With Social Security,"94,692","+/-3,257",32.1,+/-1.1
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",67,Mean Social Security income (dollars),"19,627",+/-530,(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",68,With retirement income,"61,145","+/-3,109",20.8,+/-1.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",69,Mean retirement income (dollars),"22,526","+/-1,689",(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",69.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",70,With Supplemental Security Income,"16,631","+/-1,880",5.6,+/-0.6
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",71,Mean Supplemental Security Income (dollars),"10,129",+/-821,(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",72,With cash public assistance income,"9,366","+/-1,504",3.2,+/-0.5
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",73,Mean cash public assistance income (dollars),"2,651",+/-484,(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",74,With Food Stamp/SNAP benefits in the past 12 months,"45,211","+/-3,645",15.3,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",74.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",75,Families,"189,774","+/-4,674","189,774",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",76,"Less than $10,000","7,460","+/-1,585",3.9,+/-0.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",77,"$10,000 to $14,999","7,174","+/-1,632",3.8,+/-0.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",78,"$15,000 to $24,999","13,400","+/-1,889",7.1,+/-1.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",79,"$25,000 to $34,999","18,190","+/-2,129",9.6,+/-1.1
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",80,"$35,000 to $49,999","26,322","+/-2,243",13.9,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",81,"$50,000 to $74,999","41,302","+/-3,046",21.8,+/-1.5
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",82,"$75,000 to $99,999","26,722","+/-2,458",14.1,+/-1.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",83,"$100,000 to $149,999","31,058","+/-2,477",16.4,+/-1.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",84,"$150,000 to $199,999","10,342","+/-1,628",5.4,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",85,"$200,000 or more","7,804","+/-1,297",4.1,+/-0.7
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",86,Median family income (dollars),"62,657","+/-2,022",(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",87,Mean family income (dollars),"77,771","+/-2,554",(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",87.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",88,Per capita income (dollars),"25,472",+/-657,(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",88.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",89,Nonfamily households,"104,789","+/-4,498","104,789",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",90,Median nonfamily income (dollars),"29,657","+/-1,912",(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",91,Mean nonfamily income (dollars),"40,483","+/-1,795",(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",91.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",92,Median earnings for workers (dollars),"31,496",+/-614,(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",93,"Median earnings for male full-time, year-round workers (dollars)","49,706","+/-2,134",(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",94,"Median earnings for female full-time, year-round workers (dollars)","35,791",+/-920,(X),(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",94.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",95,Civilian noninstitutionalized population,"763,539","+/-9,941","763,539",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",96,With health insurance coverage,"647,684","+/-9,817",84.8,+/-0.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",97,With private health insurance,"446,293","+/-10,920",58.5,+/-1.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",98,With public coverage,"298,367","+/-10,056",39.1,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",99,No health insurance coverage,"115,855","+/-6,496",15.2,+/-0.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",99.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",100,Civilian noninstitutionalized population under 19 years,"207,474","+/-5,959","207,474",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",101,No health insurance coverage,"14,322","+/-2,020",6.9,+/-1.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",101.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",102,Civilian noninstitutionalized population 19 to 64 years,"436,288","+/-6,398","436,288",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",103,In labor force:,"327,750","+/-6,923","327,750",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",104,Employed:,"307,150","+/-6,915","307,150",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",105,With health insurance coverage,"246,624","+/-6,712",80.3,+/-1.5
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",106,With private health insurance,"229,890","+/-6,875",74.8,+/-1.7
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",107,With public coverage,"27,574","+/-2,765",9.0,+/-0.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",108,No health insurance coverage,"60,526","+/-4,899",19.7,+/-1.5
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",109,Unemployed:,"20,600","+/-2,937","20,600",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",110,With health insurance coverage,"10,209","+/-2,042",49.6,+/-7.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",111,With private health insurance,"4,922","+/-1,276",23.9,+/-5.8
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",112,With public coverage,"5,719","+/-1,596",27.8,+/-6.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",113,No health insurance coverage,"10,391","+/-2,127",50.4,+/-7.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",114,Not in labor force:,"108,538","+/-5,258","108,538",(X)
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",115,With health insurance coverage,"79,024","+/-4,614",72.8,+/-2.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",116,With private health insurance,"46,541","+/-3,264",42.9,+/-2.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",117,With public coverage,"40,865","+/-3,377",37.7,+/-2.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",118,No health insurance coverage,"29,514","+/-2,913",27.2,+/-2.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",118.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",119,All families,(X),(X),12.5,+/-1.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",120,With related children of the householder under 18 years,(X),(X),19.7,+/-2.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",121,With related children of the householder under 5 years only,(X),(X),19.4,+/-6.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",122,Married couple families,(X),(X),6.1,+/-1.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",123,With related children of the householder under 18 years,(X),(X),9.2,+/-2.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",124,With related children of the householder under 5 years only,(X),(X),10.1,+/-5.7
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",125,"Families with female householder, no spouse present",(X),(X),35.5,+/-5.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",126,With related children of the householder under 18 years,(X),(X),44.0,+/-5.9
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",127,With related children of the householder under 5 years only,(X),(X),42.5,+/-15.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",127.3,,,,,
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",128,All people,(X),(X),17.6,+/-1.1
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",129,Under 18 years,(X),(X),23.8,+/-2.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",130,Related children of the householder under 18 years,(X),(X),23.5,+/-2.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",131,Related children of the householder under 5 years,(X),(X),27.1,+/-4.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",132,Related children of the householder 5 to 17 years,(X),(X),22.3,+/-2.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",133,18 years and over,(X),(X),15.5,+/-1.0
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",134,18 to 64 years,(X),(X),16.6,+/-1.2
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",135,65 years and over,(X),(X),11.4,+/-1.4
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",136,People in families,(X),(X),14.4,+/-1.3
+DP03,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",137,Unrelated individuals 15 years and over,(X),(X),31.0,+/-2.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",0.5,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",1,Population 16 years and over,"634,764","+/-3,650","634,764",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",2,In labor force,"391,114","+/-5,889",61.6,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",3,Civilian labor force,"376,429","+/-5,662",59.3,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",4,Employed,"353,548","+/-5,235",55.7,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",5,Unemployed,"22,881","+/-2,647",3.6,+/-0.4
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",6,Armed Forces,"14,685","+/-1,641",2.3,+/-0.3
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",7,Not in labor force,"243,650","+/-6,161",38.4,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",7.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",8,Civilian labor force,"376,429","+/-5,662","376,429",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",9,Unemployment Rate,(X),(X),6.1,+/-0.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",9.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",10,Females 16 years and over,"320,097","+/-2,439","320,097",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",11,In labor force,"181,868","+/-3,983",56.8,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",12,Civilian labor force,"179,851","+/-3,884",56.2,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",13,Employed,"169,559","+/-3,760",53.0,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",13.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",14,Own children of the householder under 6 years,"53,937","+/-2,315","53,937",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",15,All parents in family in labor force,"32,951","+/-2,303",61.1,+/-3.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",15.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",16,Own children of the householder 6 to 17 years,"118,316","+/-3,252","118,316",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",17,All parents in family in labor force,"84,872","+/-3,656",71.7,+/-2.4
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",17.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",18,Workers 16 years and over,"362,527","+/-5,489","362,527",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",19,"Car, truck, or van -- drove alone","276,924","+/-6,843",76.4,+/-1.4
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",20,"Car, truck, or van -- carpooled","30,544","+/-2,974",8.4,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",21,Public transportation (excluding taxicab),483,+/-399,0.1,+/-0.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",22,Walked,"7,890","+/-2,045",2.2,+/-0.6
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",23,Other means,"8,149","+/-1,582",2.2,+/-0.4
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",24,Worked from home,"38,537","+/-3,452",10.6,+/-1.0
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",24.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",25,Mean travel time to work (minutes),22.2,+/-0.6,(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",25.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",25.5,OCCUPATION,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",26,Civilian employed population 16 years and over,"353,548","+/-5,235","353,548",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",27,"Management, business, science, and arts occupations","135,174","+/-4,706",38.2,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",28,Service occupations,"59,105","+/-3,910",16.7,+/-1.0
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",29,Sales and office occupations,"75,159","+/-3,826",21.3,+/-1.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",30,"Natural resources, construction, and maintenance occupations","36,046","+/-2,576",10.2,+/-0.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",31,"Production, transportation, and material moving occupations","48,064","+/-3,000",13.6,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",31.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",31.5,INDUSTRY,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",32,Civilian employed population 16 years and over,"353,548","+/-5,235","353,548",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",33,"Agriculture, forestry, fishing and hunting, and mining","11,808","+/-1,483",3.3,+/-0.4
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",34,Construction,"20,776","+/-2,260",5.9,+/-0.6
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",35,Manufacturing,"30,261","+/-2,951",8.6,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",36,Wholesale trade,"8,151","+/-1,663",2.3,+/-0.5
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",37,Retail trade,"46,217","+/-3,662",13.1,+/-1.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",38,"Transportation and warehousing, and utilities","18,771","+/-2,235",5.3,+/-0.6
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",39,Information,"5,101","+/-1,173",1.4,+/-0.3
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",40,"Finance and insurance, and real estate and rental and leasing","20,090","+/-2,726",5.7,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",41,"Professional, scientific, and management, and administrative and waste management services","30,595","+/-2,731",8.7,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",42,"Educational services, and health care and social assistance","86,548","+/-4,271",24.5,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",43,"Arts, entertainment, and recreation, and accommodation and food services","31,325","+/-3,360",8.9,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",44,"Other services, except public administration","16,330","+/-2,071",4.6,+/-0.6
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",45,Public administration,"27,575","+/-2,795",7.8,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",45.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",46,Civilian employed population 16 years and over,"353,548","+/-5,235","353,548",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",47,Private wage and salary workers,"255,530","+/-5,795",72.3,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",48,Government workers,"75,167","+/-3,778",21.3,+/-1.0
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",49,Self-employed in own not incorporated business workers,"21,951","+/-2,518",6.2,+/-0.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",50,Unpaid family workers,900,+/-454,0.3,+/-0.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",50.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",51,Total households,"307,721","+/-3,225","307,721",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",52,"Less than $10,000","19,138","+/-2,715",6.2,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",53,"$10,000 to $14,999","14,866","+/-1,749",4.8,+/-0.6
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",54,"$15,000 to $24,999","25,878","+/-2,257",8.4,+/-0.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",55,"$25,000 to $34,999","32,112","+/-2,600",10.4,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",56,"$35,000 to $49,999","42,361","+/-2,925",13.8,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",57,"$50,000 to $74,999","56,817","+/-3,381",18.5,+/-1.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",58,"$75,000 to $99,999","39,751","+/-2,889",12.9,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",59,"$100,000 to $149,999","47,771","+/-3,225",15.5,+/-1.0
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",60,"$150,000 to $199,999","15,807","+/-1,775",5.1,+/-0.6
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",61,"$200,000 or more","13,220","+/-1,582",4.3,+/-0.5
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",62,Median household income (dollars),"56,822","+/-1,805",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",63,Mean household income (dollars),"74,883","+/-1,970",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",63.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",64,With earnings,"233,284","+/-4,281",75.8,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",65,Mean earnings (dollars),"74,330","+/-2,334",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",66,With Social Security,"96,552","+/-2,532",31.4,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",67,Mean Social Security income (dollars),"20,174",+/-574,(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",68,With retirement income,"74,048","+/-2,972",24.1,+/-1.0
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",69,Mean retirement income (dollars),"27,079","+/-1,419",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",69.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",70,With Supplemental Security Income,"16,725","+/-2,070",5.4,+/-0.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",71,Mean Supplemental Security Income (dollars),"10,207",+/-723,(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",72,With cash public assistance income,"9,685","+/-1,523",3.1,+/-0.5
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",73,Mean cash public assistance income (dollars),"3,655",+/-645,(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",74,With Food Stamp/SNAP benefits in the past 12 months,"39,211","+/-2,842",12.7,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",74.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",75,Families,"201,822","+/-4,373","201,822",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",76,"Less than $10,000","8,035","+/-1,566",4.0,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",77,"$10,000 to $14,999","5,239","+/-1,216",2.6,+/-0.6
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",78,"$15,000 to $24,999","11,627","+/-1,734",5.8,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",79,"$25,000 to $34,999","15,369","+/-2,032",7.6,+/-1.0
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",80,"$35,000 to $49,999","24,401","+/-2,396",12.1,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",81,"$50,000 to $74,999","38,998","+/-2,381",19.3,+/-1.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",82,"$75,000 to $99,999","31,082","+/-2,589",15.4,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",83,"$100,000 to $149,999","41,549","+/-2,960",20.6,+/-1.3
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",84,"$150,000 to $199,999","14,137","+/-1,631",7.0,+/-0.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",85,"$200,000 or more","11,385","+/-1,390",5.6,+/-0.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",86,Median family income (dollars),"73,055","+/-2,453",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",87,Mean family income (dollars),"89,130","+/-2,732",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",87.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",88,Per capita income (dollars),"29,897",+/-765,(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",88.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",89,Nonfamily households,"105,899","+/-3,800","105,899",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",90,Median nonfamily income (dollars),"33,464","+/-2,036",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",91,Mean nonfamily income (dollars),"44,835","+/-2,236",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",91.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",92,Median earnings for workers (dollars),"34,414","+/-1,214",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",93,"Median earnings for male full-time, year-round workers (dollars)","50,928",+/-956,(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",94,"Median earnings for female full-time, year-round workers (dollars)","37,458","+/-1,381",(X),(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",94.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",95,Civilian noninstitutionalized population,"771,553","+/-5,731","771,553",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",96,With health insurance coverage,"681,316","+/-7,721",88.3,+/-0.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",97,With private health insurance,"513,672","+/-9,103",66.6,+/-1.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",98,With public coverage,"280,431","+/-9,080",36.3,+/-1.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",99,No health insurance coverage,"90,237","+/-5,298",11.7,+/-0.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",99.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",100,Civilian noninstitutionalized population under 19 years,"194,990","+/-3,626","194,990",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",101,No health insurance coverage,"11,654","+/-2,379",6.0,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",101.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",102,Civilian noninstitutionalized population 19 to 64 years,"454,978","+/-4,902","454,978",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",103,In labor force:,"343,093","+/-5,239","343,093",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",104,Employed:,"323,454","+/-4,879","323,454",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",105,With health insurance coverage,"278,999","+/-5,169",86.3,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",106,With private health insurance,"262,030","+/-5,503",81.0,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",107,With public coverage,"31,556","+/-3,587",9.8,+/-1.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",108,No health insurance coverage,"44,455","+/-3,121",13.7,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",109,Unemployed:,"19,639","+/-2,452","19,639",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",110,With health insurance coverage,"11,692","+/-1,642",59.5,+/-5.4
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",111,With private health insurance,"6,807","+/-1,262",34.7,+/-6.5
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",112,With public coverage,"5,562","+/-1,366",28.3,+/-5.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",113,No health insurance coverage,"7,947","+/-1,568",40.5,+/-5.4
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",114,Not in labor force:,"111,885","+/-5,661","111,885",(X)
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",115,With health insurance coverage,"86,341","+/-5,177",77.2,+/-1.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",116,With private health insurance,"54,386","+/-3,614",48.6,+/-2.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",117,With public coverage,"40,303","+/-3,297",36.0,+/-2.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",118,No health insurance coverage,"25,544","+/-2,263",22.8,+/-1.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",118.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",119,All families,(X),(X),10.9,+/-1.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",120,With related children of the householder under 18 years,(X),(X),16.7,+/-2.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",121,With related children of the householder under 5 years only,(X),(X),19.5,+/-5.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",122,Married couple families,(X),(X),5.1,+/-1.0
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",123,With related children of the householder under 18 years,(X),(X),7.4,+/-1.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",124,With related children of the householder under 5 years only,(X),(X),8.2,+/-4.3
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",125,"Families with female householder, no spouse present",(X),(X),30.9,+/-4.2
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",126,With related children of the householder under 18 years,(X),(X),38.2,+/-5.7
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",127,With related children of the householder under 5 years only,(X),(X),52.2,+/-12.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",127.3,,,,,
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",128,All people,(X),(X),15.2,+/-1.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",129,Under 18 years,(X),(X),19.7,+/-2.4
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",130,Related children of the householder under 18 years,(X),(X),19.4,+/-2.4
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",131,Related children of the householder under 5 years,(X),(X),21.7,+/-3.8
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",132,Related children of the householder 5 to 17 years,(X),(X),18.7,+/-2.5
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",133,18 years and over,(X),(X),13.8,+/-0.9
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",134,18 to 64 years,(X),(X),14.8,+/-1.1
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",135,65 years and over,(X),(X),10.0,+/-1.3
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",136,People in families,(X),(X),11.9,+/-1.3
+DP03,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",137,Unrelated individuals 15 years and over,(X),(X),28.6,+/-1.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",0.5,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",1,Population 16 years and over,"637,100","+/-7,935","637,100",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",2,In labor force,"414,246","+/-7,674",65.0,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",3,Civilian labor force,"410,171","+/-7,834",64.4,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",4,Employed,"389,529","+/-7,449",61.1,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",5,Unemployed,"20,642","+/-2,496",3.2,+/-0.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",6,Armed Forces,"4,075","+/-1,255",0.6,+/-0.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",7,Not in labor force,"222,854","+/-6,412",35.0,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",7.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",8,Civilian labor force,"410,171","+/-7,834","410,171",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",9,Unemployment Rate,(X),(X),5.0,+/-0.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",9.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",10,Females 16 years and over,"330,149","+/-4,529","330,149",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",11,In labor force,"197,548","+/-4,340",59.8,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",12,Civilian labor force,"197,028","+/-4,305",59.7,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",13,Employed,"187,802","+/-4,289",56.9,+/-1.3
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",13.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",14,Own children of the householder under 6 years,"61,211","+/-3,464","61,211",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",15,All parents in family in labor force,"41,166","+/-3,350",67.3,+/-4.1
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",15.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",16,Own children of the householder 6 to 17 years,"124,959","+/-4,923","124,959",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",17,All parents in family in labor force,"84,986","+/-4,489",68.0,+/-2.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",17.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",18,Workers 16 years and over,"387,441","+/-7,409","387,441",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",19,"Car, truck, or van -- drove alone","298,027","+/-7,274",76.9,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",20,"Car, truck, or van -- carpooled","26,372","+/-3,291",6.8,+/-0.8
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",21,Public transportation (excluding taxicab),893,+/-482,0.2,+/-0.1
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",22,Walked,"6,496","+/-1,365",1.7,+/-0.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",23,Other means,"5,613","+/-1,432",1.4,+/-0.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",24,Worked from home,"50,040","+/-3,325",12.9,+/-0.8
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",24.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",25,Mean travel time to work (minutes),23.3,+/-0.6,(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",25.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",25.5,OCCUPATION,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",26,Civilian employed population 16 years and over,"389,529","+/-7,449","389,529",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",27,"Management, business, science, and arts occupations","173,905","+/-6,179",44.6,+/-1.3
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",28,Service occupations,"59,926","+/-4,149",15.4,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",29,Sales and office occupations,"82,012","+/-4,903",21.1,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",30,"Natural resources, construction, and maintenance occupations","31,830","+/-2,760",8.2,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",31,"Production, transportation, and material moving occupations","41,856","+/-4,001",10.7,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",31.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",31.5,INDUSTRY,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",32,Civilian employed population 16 years and over,"389,529","+/-7,449","389,529",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",33,"Agriculture, forestry, fishing and hunting, and mining","11,522","+/-1,584",3.0,+/-0.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",34,Construction,"24,134","+/-2,291",6.2,+/-0.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",35,Manufacturing,"23,659","+/-2,981",6.1,+/-0.8
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",36,Wholesale trade,"7,812","+/-1,455",2.0,+/-0.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",37,Retail trade,"46,884","+/-3,725",12.0,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",38,"Transportation and warehousing, and utilities","20,613","+/-2,725",5.3,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",39,Information,"8,551","+/-1,641",2.2,+/-0.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",40,"Finance and insurance, and real estate and rental and leasing","27,425","+/-3,352",7.0,+/-0.8
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",41,"Professional, scientific, and management, and administrative and waste management services","43,766","+/-3,499",11.2,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",42,"Educational services, and health care and social assistance","93,071","+/-4,818",23.9,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",43,"Arts, entertainment, and recreation, and accommodation and food services","33,409","+/-3,309",8.6,+/-0.8
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",44,"Other services, except public administration","17,948","+/-2,287",4.6,+/-0.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",45,Public administration,"30,735","+/-2,551",7.9,+/-0.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",45.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",46,Civilian employed population 16 years and over,"389,529","+/-7,449","389,529",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",47,Private wage and salary workers,"292,270","+/-7,069",75.0,+/-1.1
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",48,Government workers,"70,493","+/-3,753",18.1,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",49,Self-employed in own not incorporated business workers,"26,298","+/-2,701",6.8,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",50,Unpaid family workers,468,+/-272,0.1,+/-0.1
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",50.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",51,Total households,"322,504","+/-4,814","322,504",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",52,"Less than $10,000","18,790","+/-2,347",5.8,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",53,"$10,000 to $14,999","12,678","+/-2,032",3.9,+/-0.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",54,"$15,000 to $24,999","27,106","+/-2,638",8.4,+/-0.8
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",55,"$25,000 to $34,999","25,371","+/-2,079",7.9,+/-0.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",56,"$35,000 to $49,999","40,049","+/-3,439",12.4,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",57,"$50,000 to $74,999","60,135","+/-4,022",18.6,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",58,"$75,000 to $99,999","41,382","+/-3,340",12.8,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",59,"$100,000 to $149,999","51,199","+/-3,341",15.9,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",60,"$150,000 to $199,999","20,996","+/-2,144",6.5,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",61,"$200,000 or more","24,798","+/-2,549",7.7,+/-0.8
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",62,Median household income (dollars),"64,407","+/-2,049",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",63,Mean household income (dollars),"87,337","+/-2,163",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",63.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",64,With earnings,"253,879","+/-5,167",78.7,+/-1.1
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",65,Mean earnings (dollars),"86,582","+/-2,287",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",66,With Social Security,"92,914","+/-3,331",28.8,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",67,Mean Social Security income (dollars),"21,982",+/-652,(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",68,With retirement income,"76,657","+/-3,525",23.8,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",69,Mean retirement income (dollars),"26,705","+/-1,465",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",69.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",70,With Supplemental Security Income,"14,122","+/-1,650",4.4,+/-0.5
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",71,Mean Supplemental Security Income (dollars),"9,443",+/-720,(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",72,With cash public assistance income,"11,860","+/-2,108",3.7,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",73,Mean cash public assistance income (dollars),"4,494","+/-1,037",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",74,With Food Stamp/SNAP benefits in the past 12 months,"40,086","+/-2,936",12.4,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",74.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",75,Families,"206,893","+/-5,083","206,893",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",76,"Less than $10,000","7,863","+/-1,409",3.8,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",77,"$10,000 to $14,999","4,887","+/-1,148",2.4,+/-0.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",78,"$15,000 to $24,999","9,437","+/-1,555",4.6,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",79,"$25,000 to $34,999","12,985","+/-1,808",6.3,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",80,"$35,000 to $49,999","22,414","+/-2,321",10.8,+/-1.1
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",81,"$50,000 to $74,999","37,646","+/-3,236",18.2,+/-1.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",82,"$75,000 to $99,999","29,353","+/-2,778",14.2,+/-1.3
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",83,"$100,000 to $149,999","41,943","+/-3,173",20.3,+/-1.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",84,"$150,000 to $199,999","18,176","+/-1,879",8.8,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",85,"$200,000 or more","22,189","+/-2,542",10.7,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",86,Median family income (dollars),"81,333","+/-2,938",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",87,Mean family income (dollars),"105,263","+/-3,130",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",87.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",88,Per capita income (dollars),"35,235",+/-858,(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",88.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",89,Nonfamily households,"115,611","+/-4,909","115,611",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",90,Median nonfamily income (dollars),"39,272","+/-2,437",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",91,Mean nonfamily income (dollars),"51,899","+/-2,640",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",91.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",92,Median earnings for workers (dollars),"37,823","+/-1,255",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",93,"Median earnings for male full-time, year-round workers (dollars)","56,199","+/-1,872",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",94,"Median earnings for female full-time, year-round workers (dollars)","42,987","+/-1,269",(X),(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",94.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",95,Civilian noninstitutionalized population,"796,467","+/-10,761","796,467",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",96,With health insurance coverage,"707,638","+/-11,679",88.8,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",97,With private health insurance,"548,290","+/-12,694",68.8,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",98,With public coverage,"269,963","+/-9,786",33.9,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",99,No health insurance coverage,"88,829","+/-7,170",11.2,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",99.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",100,Civilian noninstitutionalized population under 19 years,"205,179","+/-5,815","205,179",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",101,No health insurance coverage,"12,905","+/-2,919",6.3,+/-1.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",101.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",102,Civilian noninstitutionalized population 19 to 64 years,"469,669","+/-6,862","469,669",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",103,In labor force:,"371,669","+/-7,386","371,669",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",104,Employed:,"353,817","+/-7,012","353,817",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",105,With health insurance coverage,"303,169","+/-7,011",85.7,+/-1.3
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",106,With private health insurance,"286,795","+/-6,827",81.1,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",107,With public coverage,"31,288","+/-3,471",8.8,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",108,No health insurance coverage,"50,648","+/-4,669",14.3,+/-1.3
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",109,Unemployed:,"17,852","+/-2,217","17,852",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",110,With health insurance coverage,"11,427","+/-1,893",64.0,+/-6.5
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",111,With private health insurance,"7,375","+/-1,501",41.3,+/-6.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",112,With public coverage,"4,663","+/-1,181",26.1,+/-5.8
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",113,No health insurance coverage,"6,425","+/-1,371",36.0,+/-6.5
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",114,Not in labor force:,"98,000","+/-5,004","98,000",(X)
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",115,With health insurance coverage,"79,951","+/-4,057",81.6,+/-1.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",116,With private health insurance,"53,365","+/-3,482",54.5,+/-2.3
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",117,With public coverage,"32,939","+/-2,776",33.6,+/-2.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",118,No health insurance coverage,"18,049","+/-2,310",18.4,+/-1.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",118.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",119,All families,(X),(X),9.5,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",120,With related children of the householder under 18 years,(X),(X),15.8,+/-2.1
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",121,With related children of the householder under 5 years only,(X),(X),16.3,+/-5.1
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",122,Married couple families,(X),(X),4.2,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",123,With related children of the householder under 18 years,(X),(X),6.2,+/-1.5
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",124,With related children of the householder under 5 years only,(X),(X),4.1,+/-2.8
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",125,"Families with female householder, no spouse present",(X),(X),31.5,+/-4.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",126,With related children of the householder under 18 years,(X),(X),40.6,+/-5.5
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",127,With related children of the householder under 5 years only,(X),(X),50.6,+/-16.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",127.3,,,,,
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",128,All people,(X),(X),12.8,+/-1.0
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",129,Under 18 years,(X),(X),18.0,+/-2.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",130,Related children of the householder under 18 years,(X),(X),17.8,+/-2.6
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",131,Related children of the householder under 5 years,(X),(X),21.9,+/-4.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",132,Related children of the householder 5 to 17 years,(X),(X),16.3,+/-2.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",133,18 years and over,(X),(X),11.2,+/-0.7
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",134,18 to 64 years,(X),(X),11.9,+/-0.9
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",135,65 years and over,(X),(X),8.2,+/-1.4
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",136,People in families,(X),(X),10.6,+/-1.2
+DP03,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",137,Unrelated individuals 15 years and over,(X),(X),21.9,+/-2.0

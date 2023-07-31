@@ -1,0 +1,337 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",0.5,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",1,Population 16 years and over,"722,791","+/-3,284","722,791",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",2,In labor force,"349,301","+/-8,606",48.3,+/-1.2
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",3,Civilian labor force,"347,983","+/-8,642",48.1,+/-1.2
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",4,Employed,"326,347","+/-8,258",45.2,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",5,Unemployed,"21,636","+/-3,105",3.0,+/-0.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",6,Armed Forces,"1,318",+/-700,0.2,+/-0.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",7,Not in labor force,"373,490","+/-8,627",51.7,+/-1.2
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",7.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",8,Civilian labor force,"347,983","+/-8,642","347,983",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",9,Unemployment Rate,(X),(X),6.2,+/-0.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",9.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",10,Females 16 years and over,"370,743","+/-2,572","370,743",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",11,In labor force,"167,933","+/-5,133",45.3,+/-1.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",12,Civilian labor force,"167,814","+/-5,164",45.3,+/-1.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",13,Employed,"159,269","+/-5,107",43.0,+/-1.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",13.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",14,Own children of the householder under 6 years,"47,798","+/-2,930","47,798",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",15,All parents in family in labor force,"29,161","+/-3,133",61.0,+/-5.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",15.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",16,Own children of the householder 6 to 17 years,"112,220","+/-3,695","112,220",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",17,All parents in family in labor force,"70,752","+/-5,788",63.0,+/-4.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",17.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",18,Workers 16 years and over,"320,443","+/-8,170","320,443",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",19,"Car, truck, or van -- drove alone","252,591","+/-7,923",78.8,+/-1.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",20,"Car, truck, or van -- carpooled","29,106","+/-3,702",9.1,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",21,Public transportation (excluding taxicab),"1,652",+/-682,0.5,+/-0.2
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",22,Walked,"6,036","+/-1,632",1.9,+/-0.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",23,Other means,"3,720","+/-1,291",1.2,+/-0.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",24,Worked from home,"27,338","+/-2,959",8.5,+/-0.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",24.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",25,Mean travel time to work (minutes),24.9,+/-0.8,(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",25.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",25.5,OCCUPATION,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",26,Civilian employed population 16 years and over,"326,347","+/-8,258","326,347",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",27,"Management, business, science, and arts occupations","118,430","+/-6,491",36.3,+/-1.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",28,Service occupations,"63,555","+/-4,888",19.5,+/-1.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",29,Sales and office occupations,"69,118","+/-5,451",21.2,+/-1.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",30,"Natural resources, construction, and maintenance occupations","33,992","+/-3,782",10.4,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",31,"Production, transportation, and material moving occupations","41,252","+/-3,701",12.6,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",31.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",31.5,INDUSTRY,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",32,Civilian employed population 16 years and over,"326,347","+/-8,258","326,347",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",33,"Agriculture, forestry, fishing and hunting, and mining","10,101","+/-1,790",3.1,+/-0.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",34,Construction,"19,211","+/-2,699",5.9,+/-0.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",35,Manufacturing,"22,952","+/-2,605",7.0,+/-0.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",36,Wholesale trade,"7,299","+/-1,597",2.2,+/-0.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",37,Retail trade,"38,456","+/-3,764",11.8,+/-1.2
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",38,"Transportation and warehousing, and utilities","19,135","+/-2,401",5.9,+/-0.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",39,Information,"5,307","+/-1,283",1.6,+/-0.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",40,"Finance and insurance, and real estate and rental and leasing","16,254","+/-2,293",5.0,+/-0.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",41,"Professional, scientific, and management, and administrative and waste management services","23,129","+/-3,125",7.1,+/-0.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",42,"Educational services, and health care and social assistance","99,329","+/-6,247",30.4,+/-1.6
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",43,"Arts, entertainment, and recreation, and accommodation and food services","30,262","+/-3,593",9.3,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",44,"Other services, except public administration","13,917","+/-2,289",4.3,+/-0.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",45,Public administration,"20,995","+/-2,792",6.4,+/-0.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",45.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",45.5,CLASS OF WORKER,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",46,Civilian employed population 16 years and over,"326,347","+/-8,258","326,347",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",47,Private wage and salary workers,"245,887","+/-7,873",75.3,+/-1.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",48,Government workers,"63,514","+/-4,848",19.5,+/-1.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",49,Self-employed in own not incorporated business workers,"15,592","+/-2,364",4.8,+/-0.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",50,Unpaid family workers,"1,354",+/-826,0.4,+/-0.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",50.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",51,Total households,"359,332","+/-4,283","359,332",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",52,"Less than $10,000","35,796","+/-3,623",10.0,+/-1.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",53,"$10,000 to $14,999","24,016","+/-2,911",6.7,+/-0.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",54,"$15,000 to $24,999","42,141","+/-3,355",11.7,+/-0.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",55,"$25,000 to $34,999","36,874","+/-3,447",10.3,+/-1.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",56,"$35,000 to $49,999","52,940","+/-3,757",14.7,+/-1.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",57,"$50,000 to $74,999","63,746","+/-4,831",17.7,+/-1.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",58,"$75,000 to $99,999","38,285","+/-3,395",10.7,+/-0.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",59,"$100,000 to $149,999","38,507","+/-3,290",10.7,+/-0.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",60,"$150,000 to $199,999","14,107","+/-1,977",3.9,+/-0.6
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",61,"$200,000 or more","12,920","+/-2,028",3.6,+/-0.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",62,Median household income (dollars),"46,156","+/-1,711",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",63,Mean household income (dollars),"65,679","+/-2,226",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",63.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",64,With earnings,"224,355","+/-5,958",62.4,+/-1.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",65,Mean earnings (dollars),"70,702","+/-2,693",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",66,With Social Security,"161,150","+/-4,059",44.8,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",67,Mean Social Security income (dollars),"20,460",+/-568,(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",68,With retirement income,"107,079","+/-3,711",29.8,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",69,Mean retirement income (dollars),"23,622","+/-2,418",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",69.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",70,With Supplemental Security Income,"31,235","+/-3,367",8.7,+/-1.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",71,Mean Supplemental Security Income (dollars),"9,540",+/-524,(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",72,With cash public assistance income,"16,660","+/-2,383",4.6,+/-0.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",73,Mean cash public assistance income (dollars),"4,678",+/-765,(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",74,With Food Stamp/SNAP benefits in the past 12 months,"77,618","+/-3,940",21.6,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",74.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",75,Families,"231,989","+/-6,275","231,989",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",76,"Less than $10,000","13,212","+/-2,199",5.7,+/-0.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",77,"$10,000 to $14,999","8,187","+/-1,768",3.5,+/-0.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",78,"$15,000 to $24,999","19,992","+/-2,544",8.6,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",79,"$25,000 to $34,999","18,353","+/-2,400",7.9,+/-1.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",80,"$35,000 to $49,999","36,933","+/-3,088",15.9,+/-1.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",81,"$50,000 to $74,999","45,615","+/-4,311",19.7,+/-1.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",82,"$75,000 to $99,999","32,476","+/-3,358",14.0,+/-1.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",83,"$100,000 to $149,999","33,697","+/-3,106",14.5,+/-1.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",84,"$150,000 to $199,999","12,283","+/-1,839",5.3,+/-0.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",85,"$200,000 or more","11,241","+/-1,984",4.8,+/-0.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",86,Median family income (dollars),"59,856","+/-1,817",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",87,Mean family income (dollars),"79,801","+/-3,026",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",87.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",88,Per capita income (dollars),"27,698",+/-913,(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",88.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",89,Nonfamily households,"127,343","+/-5,737","127,343",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",90,Median nonfamily income (dollars),"25,186","+/-2,061",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",91,Mean nonfamily income (dollars),"37,160","+/-2,677",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",91.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",92,Median earnings for workers (dollars),"32,619","+/-1,454",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",93,"Median earnings for male full-time, year-round workers (dollars)","50,919","+/-1,298",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",94,"Median earnings for female full-time, year-round workers (dollars)","37,438","+/-1,697",(X),(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",94.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",95,Civilian noninstitutionalized population,"867,983","+/-3,799","867,983",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",96,With health insurance coverage,"813,872","+/-6,307",93.8,+/-0.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",97,With private health insurance,"504,639","+/-12,783",58.1,+/-1.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",98,With public coverage,"471,967","+/-11,977",54.4,+/-1.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",99,No health insurance coverage,"54,111","+/-5,903",6.2,+/-0.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",99.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",100,Civilian noninstitutionalized population under 19 years,"188,871","+/-2,734","188,871",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",101,No health insurance coverage,"7,187","+/-2,082",3.8,+/-1.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",101.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",102,Civilian noninstitutionalized population 19 to 64 years,"489,053","+/-3,514","489,053",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",103,In labor force:,"315,929","+/-7,800","315,929",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",104,Employed:,"295,584","+/-7,698","295,584",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",105,With health insurance coverage,"269,899","+/-8,153",91.3,+/-1.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",106,With private health insurance,"225,408","+/-8,297",76.3,+/-1.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",107,With public coverage,"59,044","+/-4,990",20.0,+/-1.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",108,No health insurance coverage,"25,685","+/-3,022",8.7,+/-1.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",109,Unemployed:,"20,345","+/-3,065","20,345",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",110,With health insurance coverage,"15,801","+/-2,442",77.7,+/-6.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",111,With private health insurance,"5,395","+/-1,176",26.5,+/-4.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",112,With public coverage,"11,096","+/-2,053",54.5,+/-7.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",113,No health insurance coverage,"4,544","+/-1,665",22.3,+/-6.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",114,Not in labor force:,"173,124","+/-7,874","173,124",(X)
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",115,With health insurance coverage,"157,300","+/-7,688",90.9,+/-1.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",116,With private health insurance,"67,776","+/-4,600",39.1,+/-2.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",117,With public coverage,"113,295","+/-7,035",65.4,+/-2.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",118,No health insurance coverage,"15,824","+/-2,994",9.1,+/-1.7
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",118.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",119,All families,(X),(X),14.0,+/-1.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",120,With related children of the householder under 18 years,(X),(X),23.3,+/-2.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",121,With related children of the householder under 5 years only,(X),(X),32.9,+/-7.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",122,Married couple families,(X),(X),7.8,+/-1.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",123,With related children of the householder under 18 years,(X),(X),12.0,+/-3.1
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",124,With related children of the householder under 5 years only,(X),(X),9.6,+/-5.2
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",125,"Families with female householder, no spouse present",(X),(X),34.3,+/-4.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",126,With related children of the householder under 18 years,(X),(X),45.5,+/-6.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",127,With related children of the householder under 5 years only,(X),(X),62.7,+/-14.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",127.3,,,,,
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",128,All people,(X),(X),19.0,+/-1.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",129,Under 18 years,(X),(X),23.4,+/-2.8
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",130,Related children of the householder under 18 years,(X),(X),23.1,+/-2.9
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",131,Related children of the householder under 5 years,(X),(X),29.1,+/-5.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",132,Related children of the householder 5 to 17 years,(X),(X),21.2,+/-3.0
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",133,18 years and over,(X),(X),17.9,+/-1.2
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",134,18 to 64 years,(X),(X),19.9,+/-1.5
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",135,65 years and over,(X),(X),12.6,+/-1.3
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",136,People in families,(X),(X),15.0,+/-1.4
+DP03,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",137,Unrelated individuals 15 years and over,(X),(X),35.2,+/-2.6
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",0.5,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",1,Population 16 years and over,"742,964","+/-3,157","742,964",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",2,In labor force,"422,128","+/-6,709",56.8,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",3,Civilian labor force,"421,437","+/-6,720",56.7,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",4,Employed,"395,132","+/-6,553",53.2,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",5,Unemployed,"26,305","+/-3,028",3.5,+/-0.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",6,Armed Forces,691,+/-461,0.1,+/-0.1
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",7,Not in labor force,"320,836","+/-6,834",43.2,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",7.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",8,Civilian labor force,"421,437","+/-6,720","421,437",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",9,Unemployment Rate,(X),(X),6.2,+/-0.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",9.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",10,Females 16 years and over,"369,741","+/-2,348","369,741",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",11,In labor force,"196,302","+/-5,227",53.1,+/-1.3
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",12,Civilian labor force,"196,236","+/-5,242",53.1,+/-1.3
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",13,Employed,"184,027","+/-4,736",49.8,+/-1.2
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",13.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",14,Own children of the householder under 6 years,"51,073","+/-2,307","51,073",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",15,All parents in family in labor force,"30,044","+/-3,130",58.8,+/-5.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",15.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",16,Own children of the householder 6 to 17 years,"114,192","+/-3,324","114,192",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",17,All parents in family in labor force,"77,033","+/-4,959",67.5,+/-3.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",17.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",18,Workers 16 years and over,"386,856","+/-6,297","386,856",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",19,"Car, truck, or van -- drove alone","292,918","+/-7,212",75.7,+/-1.2
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",20,"Car, truck, or van -- carpooled","33,458","+/-3,861",8.6,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",21,Public transportation (excluding taxicab),876,+/-410,0.2,+/-0.1
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",22,Walked,"9,064","+/-1,790",2.3,+/-0.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",23,Other means,"5,609","+/-1,464",1.4,+/-0.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",24,Worked from home,"44,931","+/-3,612",11.6,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",24.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",25,Mean travel time to work (minutes),26.4,+/-0.7,(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",25.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",25.5,OCCUPATION,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",26,Civilian employed population 16 years and over,"395,132","+/-6,553","395,132",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",27,"Management, business, science, and arts occupations","149,935","+/-5,985",37.9,+/-1.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",28,Service occupations,"68,274","+/-4,947",17.3,+/-1.2
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",29,Sales and office occupations,"77,543","+/-4,292",19.6,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",30,"Natural resources, construction, and maintenance occupations","39,588","+/-3,761",10.0,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",31,"Production, transportation, and material moving occupations","59,792","+/-4,195",15.1,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",31.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",31.5,INDUSTRY,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",32,Civilian employed population 16 years and over,"395,132","+/-6,553","395,132",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",33,"Agriculture, forestry, fishing and hunting, and mining","11,343","+/-1,902",2.9,+/-0.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",34,Construction,"28,264","+/-2,751",7.2,+/-0.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",35,Manufacturing,"35,327","+/-3,847",8.9,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",36,Wholesale trade,"6,271","+/-1,409",1.6,+/-0.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",37,Retail trade,"48,317","+/-3,553",12.2,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",38,"Transportation and warehousing, and utilities","23,178","+/-2,840",5.9,+/-0.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",39,Information,"5,553","+/-1,515",1.4,+/-0.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",40,"Finance and insurance, and real estate and rental and leasing","17,026","+/-2,197",4.3,+/-0.6
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",41,"Professional, scientific, and management, and administrative and waste management services","33,584","+/-3,415",8.5,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",42,"Educational services, and health care and social assistance","108,387","+/-5,075",27.4,+/-1.1
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",43,"Arts, entertainment, and recreation, and accommodation and food services","31,813","+/-3,306",8.1,+/-0.8
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",44,"Other services, except public administration","19,375","+/-2,497",4.9,+/-0.6
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",45,Public administration,"26,694","+/-2,879",6.8,+/-0.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",45.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",45.5,CLASS OF WORKER,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",46,Civilian employed population 16 years and over,"395,132","+/-6,553","395,132",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",47,Private wage and salary workers,"297,124","+/-7,683",75.2,+/-1.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",48,Government workers,"80,364","+/-4,926",20.3,+/-1.2
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",49,Self-employed in own not incorporated business workers,"17,017","+/-2,609",4.3,+/-0.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",50,Unpaid family workers,627,+/-341,0.2,+/-0.1
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",50.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",51,Total households,"362,869","+/-3,913","362,869",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",52,"Less than $10,000","25,137","+/-2,904",6.9,+/-0.8
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",53,"$10,000 to $14,999","18,454","+/-2,200",5.1,+/-0.6
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",54,"$15,000 to $24,999","36,457","+/-3,114",10.0,+/-0.8
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",55,"$25,000 to $34,999","33,602","+/-3,385",9.3,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",56,"$35,000 to $49,999","47,715","+/-3,747",13.1,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",57,"$50,000 to $74,999","59,548","+/-3,899",16.4,+/-1.1
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",58,"$75,000 to $99,999","47,105","+/-3,752",13.0,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",59,"$100,000 to $149,999","55,027","+/-4,063",15.2,+/-1.1
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",60,"$150,000 to $199,999","21,302","+/-2,127",5.9,+/-0.6
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",61,"$200,000 or more","18,522","+/-2,180",5.1,+/-0.6
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",62,Median household income (dollars),"57,012","+/-2,111",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",63,Mean household income (dollars),"78,844","+/-2,615",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",63.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",64,With earnings,"259,319","+/-4,449",71.5,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",65,Mean earnings (dollars),"81,278","+/-3,325",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",66,With Social Security,"135,181","+/-3,785",37.3,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",67,Mean Social Security income (dollars),"20,806",+/-474,(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",68,With retirement income,"104,558","+/-3,651",28.8,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",69,Mean retirement income (dollars),"24,072","+/-1,351",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",69.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",70,With Supplemental Security Income,"22,115","+/-2,580",6.1,+/-0.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",71,Mean Supplemental Security Income (dollars),"10,311",+/-744,(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",72,With cash public assistance income,"12,713","+/-1,865",3.5,+/-0.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",73,Mean cash public assistance income (dollars),"3,359",+/-584,(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",74,With Food Stamp/SNAP benefits in the past 12 months,"54,269","+/-3,668",15.0,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",74.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",75,Families,"230,339","+/-5,767","230,339",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",76,"Less than $10,000","9,334","+/-1,646",4.1,+/-0.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",77,"$10,000 to $14,999","6,225","+/-1,404",2.7,+/-0.6
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",78,"$15,000 to $24,999","15,459","+/-1,795",6.7,+/-0.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",79,"$25,000 to $34,999","16,530","+/-2,468",7.2,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",80,"$35,000 to $49,999","26,553","+/-2,698",11.5,+/-1.2
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",81,"$50,000 to $74,999","40,351","+/-3,158",17.5,+/-1.3
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",82,"$75,000 to $99,999","35,621","+/-3,089",15.5,+/-1.2
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",83,"$100,000 to $149,999","45,333","+/-3,801",19.7,+/-1.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",84,"$150,000 to $199,999","18,951","+/-1,899",8.2,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",85,"$200,000 or more","15,982","+/-2,166",6.9,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",86,Median family income (dollars),"75,416","+/-2,756",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",87,Mean family income (dollars),"95,482","+/-3,995",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",87.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",88,Per capita income (dollars),"32,638","+/-1,038",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",88.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",89,Nonfamily households,"132,530","+/-5,404","132,530",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",90,Median nonfamily income (dollars),"33,074","+/-2,314",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",91,Mean nonfamily income (dollars),"47,088","+/-3,313",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",91.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",92,Median earnings for workers (dollars),"34,653","+/-1,445",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",93,"Median earnings for male full-time, year-round workers (dollars)","53,898","+/-2,619",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",94,"Median earnings for female full-time, year-round workers (dollars)","41,235","+/-1,027",(X),(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",94.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",95,Civilian noninstitutionalized population,"887,904","+/-3,673","887,904",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",96,With health insurance coverage,"835,198","+/-6,051",94.1,+/-0.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",97,With private health insurance,"595,931","+/-12,525",67.1,+/-1.3
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",98,With public coverage,"385,743","+/-10,203",43.4,+/-1.2
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",99,No health insurance coverage,"52,706","+/-4,841",5.9,+/-0.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",99.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",100,Civilian noninstitutionalized population under 19 years,"191,965","+/-2,620","191,965",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",101,No health insurance coverage,"5,429","+/-1,285",2.8,+/-0.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",101.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",102,Civilian noninstitutionalized population 19 to 64 years,"524,687","+/-3,130","524,687",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",103,In labor force:,"384,879","+/-6,050","384,879",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",104,Employed:,"361,408","+/-6,023","361,408",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",105,With health insurance coverage,"330,426","+/-6,415",91.4,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",106,With private health insurance,"295,322","+/-7,332",81.7,+/-1.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",107,With public coverage,"47,709","+/-4,065",13.2,+/-1.1
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",108,No health insurance coverage,"30,982","+/-3,561",8.6,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",109,Unemployed:,"23,471","+/-2,901","23,471",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",110,With health insurance coverage,"17,391","+/-2,725",74.1,+/-5.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",111,With private health insurance,"8,089","+/-1,666",34.5,+/-5.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",112,With public coverage,"9,940","+/-2,052",42.4,+/-6.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",113,No health insurance coverage,"6,080","+/-1,472",25.9,+/-5.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",114,Not in labor force:,"139,808","+/-6,066","139,808",(X)
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",115,With health insurance coverage,"129,877","+/-5,938",92.9,+/-1.3
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",116,With private health insurance,"66,864","+/-4,598",47.8,+/-2.6
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",117,With public coverage,"75,819","+/-5,219",54.2,+/-2.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",118,No health insurance coverage,"9,931","+/-1,788",7.1,+/-1.3
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",118.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",119,All families,(X),(X),10.6,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",120,With related children of the householder under 18 years,(X),(X),16.4,+/-2.2
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",121,With related children of the householder under 5 years only,(X),(X),22.8,+/-5.7
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",122,Married couple families,(X),(X),5.3,+/-0.8
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",123,With related children of the householder under 18 years,(X),(X),5.3,+/-1.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",124,With related children of the householder under 5 years only,(X),(X),4.6,+/-3.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",125,"Families with female householder, no spouse present",(X),(X),32.4,+/-4.8
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",126,With related children of the householder under 18 years,(X),(X),41.2,+/-6.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",127,With related children of the householder under 5 years only,(X),(X),64.7,+/-13.8
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",127.3,,,,,
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",128,All people,(X),(X),14.7,+/-0.9
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",129,Under 18 years,(X),(X),18.0,+/-2.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",130,Related children of the householder under 18 years,(X),(X),17.9,+/-2.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",131,Related children of the householder under 5 years,(X),(X),23.2,+/-4.5
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",132,Related children of the householder 5 to 17 years,(X),(X),16.1,+/-2.4
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",133,18 years and over,(X),(X),13.8,+/-0.8
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",134,18 to 64 years,(X),(X),15.0,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",135,65 years and over,(X),(X),10.3,+/-1.3
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",136,People in families,(X),(X),11.0,+/-1.0
+DP03,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",137,Unrelated individuals 15 years and over,(X),(X),28.4,+/-2.1

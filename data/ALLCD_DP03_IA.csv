@@ -1,0 +1,673 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",0.5,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",1,Population 16 years and over,"637,645","+/-2,858","637,645",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",2,In labor force,"416,432","+/-5,109",65.3,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",3,Civilian labor force,"415,236","+/-5,075",65.1,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",4,Employed,"399,693","+/-5,084",62.7,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",5,Unemployed,"15,543","+/-2,189",2.4,+/-0.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",6,Armed Forces,"1,196",+/-549,0.2,+/-0.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",7,Not in labor force,"221,213","+/-5,013",34.7,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",7.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",8,Civilian labor force,"415,236","+/-5,075","415,236",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",9,Unemployment Rate,(X),(X),3.7,+/-0.5
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",9.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",10,Females 16 years and over,"319,624","+/-2,113","319,624",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",11,In labor force,"196,075","+/-3,312",61.3,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",12,Civilian labor force,"195,980","+/-3,310",61.3,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",13,Employed,"189,364","+/-3,399",59.2,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",13.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",14,Own children of the householder under 6 years,"54,087","+/-2,307","54,087",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",15,All parents in family in labor force,"41,905","+/-2,667",77.5,+/-3.4
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",15.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",16,Own children of the householder 6 to 17 years,"116,368","+/-3,146","116,368",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",17,All parents in family in labor force,"93,270","+/-4,184",80.2,+/-2.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",17.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",18,Workers 16 years and over,"391,283","+/-5,376","391,283",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",19,"Car, truck, or van -- drove alone","293,143","+/-6,614",74.9,+/-1.4
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",20,"Car, truck, or van -- carpooled","28,502","+/-3,112",7.3,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",21,Public transportation (excluding taxicab),"2,873","+/-1,106",0.7,+/-0.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",22,Walked,"13,635","+/-2,120",3.5,+/-0.5
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",23,Other means,"5,566","+/-1,180",1.4,+/-0.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",24,Worked from home,"47,564","+/-3,618",12.2,+/-0.9
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",24.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",25,Mean travel time to work (minutes),21.1,+/-0.6,(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",25.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",25.5,OCCUPATION,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",26,Civilian employed population 16 years and over,"399,693","+/-5,084","399,693",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",27,"Management, business, science, and arts occupations","158,061","+/-5,425",39.5,+/-1.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",28,Service occupations,"60,109","+/-3,673",15.0,+/-0.9
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",29,Sales and office occupations,"78,879","+/-4,342",19.7,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",30,"Natural resources, construction, and maintenance occupations","37,309","+/-3,430",9.3,+/-0.9
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",31,"Production, transportation, and material moving occupations","65,335","+/-3,984",16.3,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",31.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",31.5,INDUSTRY,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",32,Civilian employed population 16 years and over,"399,693","+/-5,084","399,693",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",33,"Agriculture, forestry, fishing and hunting, and mining","10,654","+/-1,619",2.7,+/-0.4
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",34,Construction,"26,318","+/-2,638",6.6,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",35,Manufacturing,"63,372","+/-3,903",15.9,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",36,Wholesale trade,"9,520","+/-1,447",2.4,+/-0.4
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",37,Retail trade,"50,061","+/-3,237",12.5,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",38,"Transportation and warehousing, and utilities","20,892","+/-2,660",5.2,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",39,Information,"5,350","+/-1,165",1.3,+/-0.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",40,"Finance and insurance, and real estate and rental and leasing","27,113","+/-2,572",6.8,+/-0.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",41,"Professional, scientific, and management, and administrative and waste management services","25,370","+/-2,814",6.3,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",42,"Educational services, and health care and social assistance","102,001","+/-4,574",25.5,+/-1.2
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",43,"Arts, entertainment, and recreation, and accommodation and food services","27,292","+/-2,376",6.8,+/-0.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",44,"Other services, except public administration","18,423","+/-2,487",4.6,+/-0.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",45,Public administration,"13,327","+/-1,514",3.3,+/-0.4
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",45.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",45.5,CLASS OF WORKER,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",46,Civilian employed population 16 years and over,"399,693","+/-5,084","399,693",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",47,Private wage and salary workers,"311,013","+/-6,257",77.8,+/-1.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",48,Government workers,"64,607","+/-3,992",16.2,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",49,Self-employed in own not incorporated business workers,"23,632","+/-2,642",5.9,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",50,Unpaid family workers,441,+/-282,0.1,+/-0.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",50.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",51,Total households,"322,535","+/-3,014","322,535",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",52,"Less than $10,000","17,740","+/-2,166",5.5,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",53,"$10,000 to $14,999","12,091","+/-1,672",3.7,+/-0.5
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",54,"$15,000 to $24,999","25,392","+/-2,492",7.9,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",55,"$25,000 to $34,999","28,301","+/-2,345",8.8,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",56,"$35,000 to $49,999","40,166","+/-2,977",12.5,+/-0.9
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",57,"$50,000 to $74,999","60,561","+/-3,792",18.8,+/-1.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",58,"$75,000 to $99,999","42,784","+/-3,278",13.3,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",59,"$100,000 to $149,999","51,865","+/-3,427",16.1,+/-1.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",60,"$150,000 to $199,999","22,252","+/-2,268",6.9,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",61,"$200,000 or more","21,383","+/-2,594",6.6,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",62,Median household income (dollars),"63,665","+/-1,324",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",63,Mean household income (dollars),"89,156","+/-3,570",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",63.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",64,With earnings,"248,292","+/-4,479",77.0,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",65,Mean earnings (dollars),"89,707","+/-4,633",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",66,With Social Security,"99,927","+/-2,510",31.0,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",67,Mean Social Security income (dollars),"21,948",+/-510,(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",68,With retirement income,"81,600","+/-3,353",25.3,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",69,Mean retirement income (dollars),"26,340","+/-2,799",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",69.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",70,With Supplemental Security Income,"15,611","+/-2,232",4.8,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",71,Mean Supplemental Security Income (dollars),"11,028","+/-1,127",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",72,With cash public assistance income,"11,094","+/-1,478",3.4,+/-0.5
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",73,Mean cash public assistance income (dollars),"4,745","+/-1,154",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",74,With Food Stamp/SNAP benefits in the past 12 months,"37,208","+/-2,832",11.5,+/-0.9
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",74.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",75,Families,"199,016","+/-4,102","199,016",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",76,"Less than $10,000","6,462","+/-1,181",3.2,+/-0.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",77,"$10,000 to $14,999","2,365",+/-578,1.2,+/-0.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",78,"$15,000 to $24,999","8,500","+/-1,411",4.3,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",79,"$25,000 to $34,999","11,479","+/-1,397",5.8,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",80,"$35,000 to $49,999","20,769","+/-2,131",10.4,+/-1.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",81,"$50,000 to $74,999","35,739","+/-2,832",18.0,+/-1.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",82,"$75,000 to $99,999","31,611","+/-2,694",15.9,+/-1.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",83,"$100,000 to $149,999","43,581","+/-3,318",21.9,+/-1.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",84,"$150,000 to $199,999","19,774","+/-2,177",9.9,+/-1.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",85,"$200,000 or more","18,736","+/-2,565",9.4,+/-1.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",86,Median family income (dollars),"86,604","+/-3,009",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",87,Mean family income (dollars),"110,496","+/-5,862",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",87.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",88,Per capita income (dollars),"36,616","+/-1,257",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",88.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",89,Nonfamily households,"123,519","+/-4,068","123,519",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",90,Median nonfamily income (dollars),"36,976","+/-1,696",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",91,Mean nonfamily income (dollars),"50,294","+/-2,281",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",91.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",92,Median earnings for workers (dollars),"38,065","+/-1,422",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",93,"Median earnings for male full-time, year-round workers (dollars)","59,625","+/-2,003",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",94,"Median earnings for female full-time, year-round workers (dollars)","45,686","+/-1,184",(X),(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",94.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",95,Civilian noninstitutionalized population,"782,372","+/-2,352","782,372",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",96,With health insurance coverage,"751,330","+/-4,135",96.0,+/-0.5
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",97,With private health insurance,"571,267","+/-8,813",73.0,+/-1.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",98,With public coverage,"298,662","+/-8,068",38.2,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",99,No health insurance coverage,"31,042","+/-3,584",4.0,+/-0.5
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",99.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",100,Civilian noninstitutionalized population under 19 years,"188,315","+/-2,329","188,315",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",101,No health insurance coverage,"3,990","+/-1,604",2.1,+/-0.9
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",101.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",102,Civilian noninstitutionalized population 19 to 64 years,"456,277","+/-2,699","456,277",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",103,In labor force:,"375,509","+/-5,017","375,509",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",104,Employed:,"362,234","+/-5,179","362,234",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",105,With health insurance coverage,"344,286","+/-5,506",95.0,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",106,With private health insurance,"308,562","+/-5,952",85.2,+/-1.2
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",107,With public coverage,"48,923","+/-3,836",13.5,+/-1.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",108,No health insurance coverage,"17,948","+/-2,624",5.0,+/-0.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",109,Unemployed:,"13,275","+/-1,974","13,275",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",110,With health insurance coverage,"11,124","+/-1,761",83.8,+/-5.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",111,With private health insurance,"5,580","+/-1,115",42.0,+/-6.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",112,With public coverage,"6,538","+/-1,388",49.3,+/-6.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",113,No health insurance coverage,"2,151",+/-778,16.2,+/-5.3
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",114,Not in labor force:,"80,768","+/-4,116","80,768",(X)
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",115,With health insurance coverage,"74,313","+/-3,948",92.0,+/-1.4
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",116,With private health insurance,"43,307","+/-2,941",53.6,+/-3.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",117,With public coverage,"36,829","+/-3,055",45.6,+/-2.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",118,No health insurance coverage,"6,455","+/-1,185",8.0,+/-1.4
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",118.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",119,All families,(X),(X),7.0,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",120,With related children of the householder under 18 years,(X),(X),11.3,+/-1.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",121,With related children of the householder under 5 years only,(X),(X),14.5,+/-4.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",122,Married couple families,(X),(X),3.5,+/-0.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",123,With related children of the householder under 18 years,(X),(X),4.4,+/-1.2
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",124,With related children of the householder under 5 years only,(X),(X),3.2,+/-2.2
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",125,"Families with female householder, no spouse present",(X),(X),26.1,+/-4.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",126,With related children of the householder under 18 years,(X),(X),35.1,+/-6.5
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",127,With related children of the householder under 5 years only,(X),(X),58.6,+/-15.9
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",127.3,,,,,
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",128,All people,(X),(X),11.8,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",129,Under 18 years,(X),(X),12.6,+/-1.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",130,Related children of the householder under 18 years,(X),(X),12.3,+/-1.6
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",131,Related children of the householder under 5 years,(X),(X),14.5,+/-3.0
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",132,Related children of the householder 5 to 17 years,(X),(X),11.6,+/-1.7
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",133,18 years and over,(X),(X),11.6,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",134,18 to 64 years,(X),(X),12.4,+/-0.9
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",135,65 years and over,(X),(X),8.8,+/-1.1
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",136,People in families,(X),(X),7.5,+/-0.8
+DP03,5001800US1901,"Congressional District 1 (118th Congress), Iowa",137,Unrelated individuals 15 years and over,(X),(X),26.5,+/-1.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",0.5,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",1,Population 16 years and over,"638,053","+/-2,017","638,053",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",2,In labor force,"416,268","+/-5,402",65.2,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",3,Civilian labor force,"416,230","+/-5,399",65.2,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",4,Employed,"401,115","+/-5,722",62.9,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",5,Unemployed,"15,115","+/-2,139",2.4,+/-0.3
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",6,Armed Forces,38,+/-47,0.0,+/-0.1
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",7,Not in labor force,"221,785","+/-5,252",34.8,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",7.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",8,Civilian labor force,"416,230","+/-5,399","416,230",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",9,Unemployment Rate,(X),(X),3.6,+/-0.5
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",9.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",10,Females 16 years and over,"321,830","+/-1,471","321,830",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",11,In labor force,"198,485","+/-3,291",61.7,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",12,Civilian labor force,"198,485","+/-3,291",61.7,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",13,Employed,"192,228","+/-3,343",59.7,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",13.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",14,Own children of the householder under 6 years,"53,279","+/-1,919","53,279",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",15,All parents in family in labor force,"41,586","+/-2,168",78.1,+/-3.1
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",15.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",16,Own children of the householder 6 to 17 years,"120,055","+/-1,894","120,055",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",17,All parents in family in labor force,"98,183","+/-3,105",81.8,+/-2.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",17.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",18,Workers 16 years and over,"395,740","+/-5,822","395,740",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",19,"Car, truck, or van -- drove alone","299,302","+/-6,733",75.6,+/-1.2
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",20,"Car, truck, or van -- carpooled","24,960","+/-2,359",6.3,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",21,Public transportation (excluding taxicab),"1,475",+/-782,0.4,+/-0.2
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",22,Walked,"12,121","+/-1,669",3.1,+/-0.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",23,Other means,"5,454","+/-1,514",1.4,+/-0.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",24,Worked from home,"52,428","+/-3,667",13.2,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",24.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",25,Mean travel time to work (minutes),19.1,+/-0.6,(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",25.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",25.5,OCCUPATION,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",26,Civilian employed population 16 years and over,"401,115","+/-5,722","401,115",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",27,"Management, business, science, and arts occupations","154,202","+/-5,933",38.4,+/-1.3
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",28,Service occupations,"59,501","+/-3,395",14.8,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",29,Sales and office occupations,"76,668","+/-3,460",19.1,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",30,"Natural resources, construction, and maintenance occupations","38,227","+/-2,943",9.5,+/-0.7
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",31,"Production, transportation, and material moving occupations","72,517","+/-3,407",18.1,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",31.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",31.5,INDUSTRY,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",32,Civilian employed population 16 years and over,"401,115","+/-5,722","401,115",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",33,"Agriculture, forestry, fishing and hunting, and mining","16,469","+/-1,762",4.1,+/-0.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",34,Construction,"26,019","+/-2,375",6.5,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",35,Manufacturing,"71,812","+/-4,079",17.9,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",36,Wholesale trade,"11,709","+/-1,591",2.9,+/-0.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",37,Retail trade,"44,333","+/-2,952",11.1,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",38,"Transportation and warehousing, and utilities","18,037","+/-1,864",4.5,+/-0.5
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",39,Information,"6,695","+/-1,627",1.7,+/-0.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",40,"Finance and insurance, and real estate and rental and leasing","25,059","+/-2,511",6.2,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",41,"Professional, scientific, and management, and administrative and waste management services","30,835","+/-2,960",7.7,+/-0.7
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",42,"Educational services, and health care and social assistance","96,614","+/-4,405",24.1,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",43,"Arts, entertainment, and recreation, and accommodation and food services","26,208","+/-2,654",6.5,+/-0.7
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",44,"Other services, except public administration","16,551","+/-1,884",4.1,+/-0.5
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",45,Public administration,"10,774","+/-1,375",2.7,+/-0.3
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",45.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",45.5,CLASS OF WORKER,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",46,Civilian employed population 16 years and over,"401,115","+/-5,722","401,115",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",47,Private wage and salary workers,"323,647","+/-6,413",80.7,+/-1.1
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",48,Government workers,"49,698","+/-3,401",12.4,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",49,Self-employed in own not incorporated business workers,"27,050","+/-2,421",6.7,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",50,Unpaid family workers,720,+/-389,0.2,+/-0.1
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",50.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",51,Total households,"328,465","+/-3,432","328,465",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",52,"Less than $10,000","13,959","+/-1,768",4.2,+/-0.5
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",53,"$10,000 to $14,999","14,364","+/-1,976",4.4,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",54,"$15,000 to $24,999","27,236","+/-3,003",8.3,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",55,"$25,000 to $34,999","29,919","+/-2,741",9.1,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",56,"$35,000 to $49,999","40,227","+/-2,311",12.2,+/-0.7
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",57,"$50,000 to $74,999","62,333","+/-3,412",19.0,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",58,"$75,000 to $99,999","50,130","+/-2,758",15.3,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",59,"$100,000 to $149,999","53,540","+/-3,269",16.3,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",60,"$150,000 to $199,999","18,566","+/-1,901",5.7,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",61,"$200,000 or more","18,191","+/-1,971",5.5,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",62,Median household income (dollars),"64,201","+/-1,394",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",63,Mean household income (dollars),"83,971","+/-2,383",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",63.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",64,With earnings,"249,725","+/-4,386",76.0,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",65,Mean earnings (dollars),"85,387","+/-2,656",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",66,With Social Security,"109,739","+/-2,950",33.4,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",67,Mean Social Security income (dollars),"21,063",+/-523,(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",68,With retirement income,"80,409","+/-2,990",24.5,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",69,Mean retirement income (dollars),"21,917","+/-1,301",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",69.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",70,With Supplemental Security Income,"15,789","+/-2,059",4.8,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",71,Mean Supplemental Security Income (dollars),"10,330",+/-678,(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",72,With cash public assistance income,"7,110","+/-1,236",2.2,+/-0.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",73,Mean cash public assistance income (dollars),"3,199",+/-660,(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",74,With Food Stamp/SNAP benefits in the past 12 months,"28,659","+/-2,659",8.7,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",74.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",75,Families,"204,126","+/-4,827","204,126",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",76,"Less than $10,000","4,393","+/-1,077",2.2,+/-0.5
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",77,"$10,000 to $14,999","3,492",+/-958,1.7,+/-0.5
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",78,"$15,000 to $24,999","10,463","+/-2,122",5.1,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",79,"$25,000 to $34,999","12,240","+/-1,592",6.0,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",80,"$35,000 to $49,999","20,876","+/-1,777",10.2,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",81,"$50,000 to $74,999","38,663","+/-2,627",18.9,+/-1.2
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",82,"$75,000 to $99,999","37,259","+/-2,300",18.3,+/-1.1
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",83,"$100,000 to $149,999","44,671","+/-3,134",21.9,+/-1.5
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",84,"$150,000 to $199,999","16,041","+/-1,753",7.9,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",85,"$200,000 or more","16,028","+/-1,807",7.9,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",86,Median family income (dollars),"82,470","+/-2,136",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",87,Mean family income (dollars),"101,580","+/-3,177",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",87.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",88,Per capita income (dollars),"35,181","+/-1,000",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",88.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",89,Nonfamily households,"124,339","+/-4,331","124,339",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",90,Median nonfamily income (dollars),"37,476","+/-1,869",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",91,Mean nonfamily income (dollars),"50,862","+/-3,061",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",91.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",92,Median earnings for workers (dollars),"37,801","+/-1,150",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",93,"Median earnings for male full-time, year-round workers (dollars)","54,745","+/-1,490",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",94,"Median earnings for female full-time, year-round workers (dollars)","44,274","+/-1,567",(X),(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",94.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",95,Civilian noninstitutionalized population,"786,496","+/-2,209","786,496",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",96,With health insurance coverage,"751,915","+/-4,734",95.6,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",97,With private health insurance,"580,367","+/-10,464",73.8,+/-1.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",98,With public coverage,"293,265","+/-9,511",37.3,+/-1.2
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",99,No health insurance coverage,"34,581","+/-4,693",4.4,+/-0.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",99.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",100,Civilian noninstitutionalized population under 19 years,"190,425","+/-2,059","190,425",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",101,No health insurance coverage,"5,283","+/-1,462",2.8,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",101.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",102,Civilian noninstitutionalized population 19 to 64 years,"449,151","+/-2,646","449,151",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",103,In labor force:,"368,875","+/-5,071","368,875",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",104,Employed:,"356,254","+/-5,376","356,254",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",105,With health insurance coverage,"337,111","+/-5,928",94.6,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",106,With private health insurance,"307,655","+/-7,218",86.4,+/-1.3
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",107,With public coverage,"40,389","+/-3,941",11.3,+/-1.1
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",108,No health insurance coverage,"19,143","+/-2,705",5.4,+/-0.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",109,Unemployed:,"12,621","+/-2,083","12,621",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",110,With health insurance coverage,"9,470","+/-1,595",75.0,+/-7.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",111,With private health insurance,"4,072",+/-974,32.3,+/-7.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",112,With public coverage,"5,950","+/-1,413",47.1,+/-7.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",113,No health insurance coverage,"3,151","+/-1,178",25.0,+/-7.4
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",114,Not in labor force:,"80,276","+/-4,492","80,276",(X)
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",115,With health insurance coverage,"73,744","+/-4,386",91.9,+/-1.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",116,With private health insurance,"43,979","+/-3,361",54.8,+/-3.2
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",117,With public coverage,"35,991","+/-3,508",44.8,+/-3.3
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",118,No health insurance coverage,"6,532","+/-1,342",8.1,+/-1.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",118.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",119,All families,(X),(X),6.4,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",120,With related children of the householder under 18 years,(X),(X),9.3,+/-1.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",121,With related children of the householder under 5 years only,(X),(X),9.2,+/-3.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",122,Married couple families,(X),(X),2.8,+/-0.5
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",123,With related children of the householder under 18 years,(X),(X),2.5,+/-0.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",124,With related children of the householder under 5 years only,(X),(X),3.4,+/-2.5
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",125,"Families with female householder, no spouse present",(X),(X),23.6,+/-4.2
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",126,With related children of the householder under 18 years,(X),(X),27.7,+/-5.1
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",127,With related children of the householder under 5 years only,(X),(X),37.2,+/-15.9
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",127.3,,,,,
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",128,All people,(X),(X),10.1,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",129,Under 18 years,(X),(X),9.7,+/-1.7
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",130,Related children of the householder under 18 years,(X),(X),9.6,+/-1.7
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",131,Related children of the householder under 5 years,(X),(X),11.7,+/-2.6
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",132,Related children of the householder 5 to 17 years,(X),(X),8.8,+/-1.8
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",133,18 years and over,(X),(X),10.2,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",134,18 to 64 years,(X),(X),10.9,+/-1.3
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",135,65 years and over,(X),(X),8.0,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",136,People in families,(X),(X),6.4,+/-1.0
+DP03,5001800US1902,"Congressional District 2 (118th Congress), Iowa",137,Unrelated individuals 15 years and over,(X),(X),22.9,+/-2.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",0.5,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",1,Population 16 years and over,"631,265","+/-2,734","631,265",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",2,In labor force,"435,182","+/-5,367",68.9,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",3,Civilian labor force,"433,122","+/-5,558",68.6,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",4,Employed,"417,221","+/-5,659",66.1,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",5,Unemployed,"15,901","+/-2,070",2.5,+/-0.3
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",6,Armed Forces,"2,060","+/-1,250",0.3,+/-0.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",7,Not in labor force,"196,083","+/-5,260",31.1,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",7.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",8,Civilian labor force,"433,122","+/-5,558","433,122",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",9,Unemployment Rate,(X),(X),3.7,+/-0.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",9.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",10,Females 16 years and over,"318,416","+/-1,903","318,416",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",11,In labor force,"204,363","+/-3,841",64.2,+/-1.1
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",12,Civilian labor force,"204,254","+/-3,840",64.1,+/-1.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",13,Employed,"196,776","+/-3,750",61.8,+/-1.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",13.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",14,Own children of the householder under 6 years,"62,414","+/-2,436","62,414",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",15,All parents in family in labor force,"44,279","+/-3,400",70.9,+/-4.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",15.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",16,Own children of the householder 6 to 17 years,"128,279","+/-2,850","128,279",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",17,All parents in family in labor force,"104,028","+/-3,871",81.1,+/-2.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",17.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",18,Workers 16 years and over,"410,757","+/-5,498","410,757",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",19,"Car, truck, or van -- drove alone","283,500","+/-7,829",69.0,+/-1.6
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",20,"Car, truck, or van -- carpooled","34,996","+/-4,223",8.5,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",21,Public transportation (excluding taxicab),"1,196",+/-620,0.3,+/-0.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",22,Walked,"6,999","+/-1,431",1.7,+/-0.3
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",23,Other means,"7,184","+/-1,665",1.7,+/-0.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",24,Worked from home,"76,882","+/-6,510",18.7,+/-1.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",24.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",25,Mean travel time to work (minutes),20.1,+/-0.5,(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",25.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",25.5,OCCUPATION,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",26,Civilian employed population 16 years and over,"417,221","+/-5,659","417,221",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",27,"Management, business, science, and arts occupations","177,491","+/-6,360",42.5,+/-1.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",28,Service occupations,"58,324","+/-4,182",14.0,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",29,Sales and office occupations,"85,962","+/-4,937",20.6,+/-1.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",30,"Natural resources, construction, and maintenance occupations","36,310","+/-3,345",8.7,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",31,"Production, transportation, and material moving occupations","59,134","+/-3,392",14.2,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",31.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",31.5,INDUSTRY,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",32,Civilian employed population 16 years and over,"417,221","+/-5,659","417,221",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",33,"Agriculture, forestry, fishing and hunting, and mining","11,275","+/-1,705",2.7,+/-0.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",34,Construction,"27,563","+/-3,282",6.6,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",35,Manufacturing,"48,306","+/-3,928",11.6,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",36,Wholesale trade,"9,167","+/-1,741",2.2,+/-0.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",37,Retail trade,"51,339","+/-3,924",12.3,+/-0.9
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",38,"Transportation and warehousing, and utilities","21,018","+/-2,268",5.0,+/-0.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",39,Information,"6,654","+/-1,552",1.6,+/-0.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",40,"Finance and insurance, and real estate and rental and leasing","53,341","+/-4,531",12.8,+/-1.1
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",41,"Professional, scientific, and management, and administrative and waste management services","39,125","+/-3,775",9.4,+/-0.9
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",42,"Educational services, and health care and social assistance","89,355","+/-4,364",21.4,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",43,"Arts, entertainment, and recreation, and accommodation and food services","27,955","+/-3,686",6.7,+/-0.9
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",44,"Other services, except public administration","15,830","+/-2,145",3.8,+/-0.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",45,Public administration,"16,293","+/-2,162",3.9,+/-0.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",45.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",45.5,CLASS OF WORKER,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",46,Civilian employed population 16 years and over,"417,221","+/-5,659","417,221",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",47,Private wage and salary workers,"339,008","+/-6,223",81.3,+/-1.1
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",48,Government workers,"55,266","+/-3,565",13.2,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",49,Self-employed in own not incorporated business workers,"21,903","+/-2,448",5.2,+/-0.6
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",50,Unpaid family workers,"1,044",+/-511,0.3,+/-0.1
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",50.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",51,Total households,"328,779","+/-3,200","328,779",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",52,"Less than $10,000","14,063","+/-1,927",4.3,+/-0.6
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",53,"$10,000 to $14,999","10,528","+/-1,261",3.2,+/-0.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",54,"$15,000 to $24,999","23,544","+/-2,094",7.2,+/-0.6
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",55,"$25,000 to $34,999","25,002","+/-2,430",7.6,+/-0.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",56,"$35,000 to $49,999","41,061","+/-3,198",12.5,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",57,"$50,000 to $74,999","60,419","+/-3,704",18.4,+/-1.1
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",58,"$75,000 to $99,999","49,276","+/-3,866",15.0,+/-1.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",59,"$100,000 to $149,999","54,634","+/-3,206",16.6,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",60,"$150,000 to $199,999","24,737","+/-2,471",7.5,+/-0.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",61,"$200,000 or more","25,515","+/-2,787",7.8,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",62,Median household income (dollars),"70,794","+/-1,593",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",63,Mean household income (dollars),"91,558","+/-2,453",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",63.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",64,With earnings,"263,198","+/-4,400",80.1,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",65,Mean earnings (dollars),"93,228","+/-2,761",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",66,With Social Security,"93,845","+/-2,646",28.5,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",67,Mean Social Security income (dollars),"21,409",+/-755,(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",68,With retirement income,"73,793","+/-3,480",22.4,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",69,Mean retirement income (dollars),"26,189","+/-2,345",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",69.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",70,With Supplemental Security Income,"12,587","+/-1,700",3.8,+/-0.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",71,Mean Supplemental Security Income (dollars),"10,487",+/-889,(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",72,With cash public assistance income,"7,221","+/-1,340",2.2,+/-0.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",73,Mean cash public assistance income (dollars),"3,713",+/-928,(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",74,With Food Stamp/SNAP benefits in the past 12 months,"33,955","+/-3,164",10.3,+/-0.9
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",74.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",75,Families,"204,323","+/-4,892","204,323",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",76,"Less than $10,000","4,759","+/-1,115",2.3,+/-0.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",77,"$10,000 to $14,999","2,795",+/-964,1.4,+/-0.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",78,"$15,000 to $24,999","7,891","+/-1,673",3.9,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",79,"$25,000 to $34,999","11,413","+/-1,730",5.6,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",80,"$35,000 to $49,999","21,559","+/-2,529",10.6,+/-1.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",81,"$50,000 to $74,999","35,500","+/-2,740",17.4,+/-1.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",82,"$75,000 to $99,999","33,078","+/-3,076",16.2,+/-1.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",83,"$100,000 to $149,999","43,320","+/-3,081",21.2,+/-1.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",84,"$150,000 to $199,999","21,745","+/-2,129",10.6,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",85,"$200,000 or more","22,263","+/-2,622",10.9,+/-1.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",86,Median family income (dollars),"89,476","+/-2,589",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",87,Mean family income (dollars),"109,940","+/-3,279",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",87.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",88,Per capita income (dollars),"37,914","+/-1,015",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",88.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",89,Nonfamily households,"124,456","+/-4,822","124,456",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",90,Median nonfamily income (dollars),"43,545","+/-2,327",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",91,Mean nonfamily income (dollars),"57,772","+/-2,840",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",91.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",92,Median earnings for workers (dollars),"41,864",+/-557,(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",93,"Median earnings for male full-time, year-round workers (dollars)","59,556","+/-3,562",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",94,"Median earnings for female full-time, year-round workers (dollars)","46,748","+/-1,356",(X),(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",94.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",95,Civilian noninstitutionalized population,"798,751","+/-3,527","798,751",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",96,With health insurance coverage,"758,485","+/-6,211",95.0,+/-0.6
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",97,With private health insurance,"576,789","+/-10,872",72.2,+/-1.3
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",98,With public coverage,"277,073","+/-9,351",34.7,+/-1.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",99,No health insurance coverage,"40,266","+/-4,797",5.0,+/-0.6
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",99.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",100,Civilian noninstitutionalized population under 19 years,"206,917","+/-1,878","206,917",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",101,No health insurance coverage,"8,902","+/-2,223",4.3,+/-1.1
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",101.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",102,Civilian noninstitutionalized population 19 to 64 years,"471,590","+/-3,421","471,590",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",103,In labor force:,"394,981","+/-5,382","394,981",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",104,Employed:,"380,514","+/-5,504","380,514",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",105,With health insurance coverage,"359,437","+/-6,249",94.5,+/-0.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",106,With private health insurance,"325,708","+/-6,336",85.6,+/-1.1
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",107,With public coverage,"44,856","+/-4,087",11.8,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",108,No health insurance coverage,"21,077","+/-2,573",5.5,+/-0.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",109,Unemployed:,"14,467","+/-1,971","14,467",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",110,With health insurance coverage,"11,173","+/-1,663",77.2,+/-8.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",111,With private health insurance,"5,065","+/-1,340",35.0,+/-8.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",112,With public coverage,"6,858","+/-1,450",47.4,+/-8.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",113,No health insurance coverage,"3,294","+/-1,394",22.8,+/-8.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",114,Not in labor force:,"76,609","+/-4,611","76,609",(X)
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",115,With health insurance coverage,"69,861","+/-4,394",91.2,+/-1.9
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",116,With private health insurance,"39,672","+/-3,481",51.8,+/-3.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",117,With public coverage,"35,714","+/-3,589",46.6,+/-3.6
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",118,No health insurance coverage,"6,748","+/-1,499",8.8,+/-1.9
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",118.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",119,All families,(X),(X),6.4,+/-0.9
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",120,With related children of the householder under 18 years,(X),(X),10.1,+/-1.5
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",121,With related children of the householder under 5 years only,(X),(X),8.5,+/-3.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",122,Married couple families,(X),(X),3.9,+/-0.8
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",123,With related children of the householder under 18 years,(X),(X),5.7,+/-1.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",124,With related children of the householder under 5 years only,(X),(X),5.1,+/-3.3
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",125,"Families with female householder, no spouse present",(X),(X),17.6,+/-3.7
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",126,With related children of the householder under 18 years,(X),(X),24.5,+/-4.9
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",127,With related children of the householder under 5 years only,(X),(X),17.0,+/-12.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",127.3,,,,,
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",128,All people,(X),(X),10.0,+/-1.1
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",129,Under 18 years,(X),(X),12.5,+/-2.1
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",130,Related children of the householder under 18 years,(X),(X),12.0,+/-2.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",131,Related children of the householder under 5 years,(X),(X),11.4,+/-2.6
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",132,Related children of the householder 5 to 17 years,(X),(X),12.2,+/-2.4
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",133,18 years and over,(X),(X),9.2,+/-0.9
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",134,18 to 64 years,(X),(X),9.5,+/-1.0
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",135,65 years and over,(X),(X),8.1,+/-1.3
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",136,People in families,(X),(X),7.4,+/-1.2
+DP03,5001800US1903,"Congressional District 3 (118th Congress), Iowa",137,Unrelated individuals 15 years and over,(X),(X),19.6,+/-1.5
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",0.5,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",1,Population 16 years and over,"636,562","+/-2,749","636,562",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",2,In labor force,"413,205","+/-5,476",64.9,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",3,Civilian labor force,"412,143","+/-5,524",64.7,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",4,Employed,"398,504","+/-6,025",62.6,+/-0.9
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",5,Unemployed,"13,639","+/-1,966",2.1,+/-0.3
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",6,Armed Forces,"1,062",+/-633,0.2,+/-0.1
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",7,Not in labor force,"223,357","+/-4,814",35.1,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",7.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",8,Civilian labor force,"412,143","+/-5,524","412,143",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",9,Unemployment Rate,(X),(X),3.3,+/-0.5
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",9.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",10,Females 16 years and over,"316,501","+/-2,100","316,501",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",11,In labor force,"190,943","+/-3,518",60.3,+/-1.1
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",12,Civilian labor force,"190,558","+/-3,546",60.2,+/-1.1
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",13,Employed,"184,637","+/-3,817",58.3,+/-1.2
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",13.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",14,Own children of the householder under 6 years,"52,710","+/-2,032","52,710",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",15,All parents in family in labor force,"37,914","+/-2,074",71.9,+/-3.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",15.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",16,Own children of the householder 6 to 17 years,"121,477","+/-2,720","121,477",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",17,All parents in family in labor force,"95,589","+/-3,674",78.7,+/-2.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",17.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",18,Workers 16 years and over,"390,342","+/-5,900","390,342",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",19,"Car, truck, or van -- drove alone","305,928","+/-5,994",78.4,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",20,"Car, truck, or van -- carpooled","30,030","+/-2,934",7.7,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",21,Public transportation (excluding taxicab),"2,183",+/-880,0.6,+/-0.2
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",22,Walked,"12,156","+/-1,679",3.1,+/-0.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",23,Other means,"3,613",+/-868,0.9,+/-0.2
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",24,Worked from home,"36,432","+/-2,761",9.3,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",24.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",25,Mean travel time to work (minutes),18.7,+/-0.6,(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",25.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",25.5,OCCUPATION,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",26,Civilian employed population 16 years and over,"398,504","+/-6,025","398,504",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",27,"Management, business, science, and arts occupations","141,059","+/-4,001",35.4,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",28,Service occupations,"62,018","+/-3,613",15.6,+/-0.9
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",29,Sales and office occupations,"76,858","+/-4,399",19.3,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",30,"Natural resources, construction, and maintenance occupations","44,257","+/-3,198",11.1,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",31,"Production, transportation, and material moving occupations","74,312","+/-3,619",18.6,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",31.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",31.5,INDUSTRY,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",32,Civilian employed population 16 years and over,"398,504","+/-6,025","398,504",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",33,"Agriculture, forestry, fishing and hunting, and mining","22,412","+/-1,942",5.6,+/-0.5
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",34,Construction,"30,288","+/-2,813",7.6,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",35,Manufacturing,"59,770","+/-3,554",15.0,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",36,Wholesale trade,"11,917","+/-1,719",3.0,+/-0.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",37,Retail trade,"46,876","+/-3,359",11.8,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",38,"Transportation and warehousing, and utilities","21,446","+/-2,034",5.4,+/-0.5
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",39,Information,"3,735",+/-689,0.9,+/-0.2
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",40,"Finance and insurance, and real estate and rental and leasing","21,405","+/-1,651",5.4,+/-0.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",41,"Professional, scientific, and management, and administrative and waste management services","26,372","+/-2,656",6.6,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",42,"Educational services, and health care and social assistance","97,943","+/-3,962",24.6,+/-0.9
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",43,"Arts, entertainment, and recreation, and accommodation and food services","25,258","+/-2,793",6.3,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",44,"Other services, except public administration","16,810","+/-1,775",4.2,+/-0.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",45,Public administration,"14,272","+/-1,878",3.6,+/-0.5
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",45.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",45.5,CLASS OF WORKER,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",46,Civilian employed population 16 years and over,"398,504","+/-6,025","398,504",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",47,Private wage and salary workers,"304,494","+/-6,744",76.4,+/-1.1
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",48,Government workers,"63,434","+/-3,827",15.9,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",49,Self-employed in own not incorporated business workers,"30,034","+/-2,670",7.5,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",50,Unpaid family workers,542,+/-305,0.1,+/-0.1
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",50.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",51,Total households,"320,688","+/-3,320","320,688",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",52,"Less than $10,000","18,482","+/-2,254",5.8,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",53,"$10,000 to $14,999","12,424","+/-1,221",3.9,+/-0.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",54,"$15,000 to $24,999","26,318","+/-2,043",8.2,+/-0.6
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",55,"$25,000 to $34,999","24,982","+/-2,267",7.8,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",56,"$35,000 to $49,999","43,765","+/-2,337",13.6,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",57,"$50,000 to $74,999","59,993","+/-2,717",18.7,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",58,"$75,000 to $99,999","44,669","+/-2,614",13.9,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",59,"$100,000 to $149,999","55,211","+/-3,139",17.2,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",60,"$150,000 to $199,999","18,913","+/-2,097",5.9,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",61,"$200,000 or more","15,931","+/-1,694",5.0,+/-0.5
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",62,Median household income (dollars),"64,164","+/-1,265",(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",63,Mean household income (dollars),"81,228","+/-1,672",(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",63.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",64,With earnings,"246,423","+/-4,401",76.8,+/-0.9
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",65,Mean earnings (dollars),"80,292","+/-1,816",(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",66,With Social Security,"107,517","+/-2,485",33.5,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",67,Mean Social Security income (dollars),"21,212",+/-462,(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",68,With retirement income,"73,432","+/-2,639",22.9,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",69,Mean retirement income (dollars),"23,213","+/-1,798",(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",69.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",70,With Supplemental Security Income,"12,631","+/-1,334",3.9,+/-0.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",71,Mean Supplemental Security Income (dollars),"10,429",+/-691,(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",72,With cash public assistance income,"8,864","+/-1,287",2.8,+/-0.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",73,Mean cash public assistance income (dollars),"2,920",+/-484,(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",74,With Food Stamp/SNAP benefits in the past 12 months,"28,105","+/-2,411",8.8,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",74.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",75,Families,"200,041","+/-4,250","200,041",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",76,"Less than $10,000","6,748","+/-1,481",3.4,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",77,"$10,000 to $14,999","2,839",+/-682,1.4,+/-0.3
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",78,"$15,000 to $24,999","7,991","+/-1,253",4.0,+/-0.6
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",79,"$25,000 to $34,999","12,026","+/-1,627",6.0,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",80,"$35,000 to $49,999","21,535","+/-2,138",10.8,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",81,"$50,000 to $74,999","37,596","+/-2,369",18.8,+/-1.2
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",82,"$75,000 to $99,999","34,082","+/-2,148",17.0,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",83,"$100,000 to $149,999","47,181","+/-3,052",23.6,+/-1.5
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",84,"$150,000 to $199,999","16,356","+/-1,973",8.2,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",85,"$200,000 or more","13,687","+/-1,526",6.8,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",86,Median family income (dollars),"83,147","+/-1,736",(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",87,Mean family income (dollars),"98,528","+/-2,480",(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",87.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",88,Per capita income (dollars),"33,111",+/-685,(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",88.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",89,Nonfamily households,"120,647","+/-3,998","120,647",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",90,Median nonfamily income (dollars),"36,868","+/-1,504",(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",91,Mean nonfamily income (dollars),"48,495","+/-2,645",(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",91.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",92,Median earnings for workers (dollars),"36,585",+/-683,(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",93,"Median earnings for male full-time, year-round workers (dollars)","53,613","+/-1,618",(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",94,"Median earnings for female full-time, year-round workers (dollars)","42,011",+/-831,(X),(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",94.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",95,Civilian noninstitutionalized population,"783,563","+/-2,964","783,563",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",96,With health insurance coverage,"738,167","+/-5,055",94.2,+/-0.6
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",97,With private health insurance,"551,053","+/-7,955",70.3,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",98,With public coverage,"298,225","+/-7,564",38.1,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",99,No health insurance coverage,"45,396","+/-4,455",5.8,+/-0.6
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",99.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",100,Civilian noninstitutionalized population under 19 years,"196,092","+/-2,314","196,092",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",101,No health insurance coverage,"8,031","+/-1,784",4.1,+/-0.9
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",101.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",102,Civilian noninstitutionalized population 19 to 64 years,"443,945","+/-3,200","443,945",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",103,In labor force:,"363,493","+/-5,349","363,493",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",104,Employed:,"351,269","+/-5,852","351,269",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",105,With health insurance coverage,"325,367","+/-6,179",92.6,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",106,With private health insurance,"295,755","+/-6,389",84.2,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",107,With public coverage,"41,008","+/-2,894",11.7,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",108,No health insurance coverage,"25,902","+/-3,021",7.4,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",109,Unemployed:,"12,224","+/-1,919","12,224",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",110,With health insurance coverage,"9,035","+/-1,410",73.9,+/-6.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",111,With private health insurance,"3,993",+/-854,32.7,+/-6.5
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",112,With public coverage,"5,277","+/-1,169",43.2,+/-6.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",113,No health insurance coverage,"3,189",+/-985,26.1,+/-6.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",114,Not in labor force:,"80,452","+/-4,132","80,452",(X)
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",115,With health insurance coverage,"72,528","+/-4,011",90.2,+/-1.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",116,With private health insurance,"43,205","+/-3,302",53.7,+/-2.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",117,With public coverage,"34,208","+/-2,685",42.5,+/-2.9
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",118,No health insurance coverage,"7,924","+/-1,534",9.8,+/-1.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",118.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",119,All families,(X),(X),8.0,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",120,With related children of the householder under 18 years,(X),(X),13.9,+/-2.1
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",121,With related children of the householder under 5 years only,(X),(X),14.9,+/-4.6
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",122,Married couple families,(X),(X),3.5,+/-0.7
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",123,With related children of the householder under 18 years,(X),(X),5.8,+/-1.6
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",124,With related children of the householder under 5 years only,(X),(X),7.8,+/-4.6
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",125,"Families with female householder, no spouse present",(X),(X),34.1,+/-5.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",126,With related children of the householder under 18 years,(X),(X),41.4,+/-6.4
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",127,With related children of the householder under 5 years only,(X),(X),40.4,+/-12.2
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",127.3,,,,,
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",128,All people,(X),(X),12.6,+/-0.9
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",129,Under 18 years,(X),(X),15.3,+/-2.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",130,Related children of the householder under 18 years,(X),(X),14.9,+/-2.1
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",131,Related children of the householder under 5 years,(X),(X),14.4,+/-2.6
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",132,Related children of the householder 5 to 17 years,(X),(X),15.1,+/-2.2
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",133,18 years and over,(X),(X),11.8,+/-0.8
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",134,18 to 64 years,(X),(X),12.7,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",135,65 years and over,(X),(X),8.9,+/-1.1
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",136,People in families,(X),(X),8.8,+/-1.0
+DP03,5001800US1904,"Congressional District 4 (118th Congress), Iowa",137,Unrelated individuals 15 years and over,(X),(X),25.8,+/-2.0

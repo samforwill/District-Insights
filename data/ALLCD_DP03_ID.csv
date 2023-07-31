@@ -1,0 +1,337 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",0.5,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",1,Population 16 years and over,"766,061","+/-6,325","766,061",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",2,In labor force,"469,019","+/-8,049",61.2,+/-1.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",3,Civilian labor force,"467,391","+/-7,884",61.0,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",4,Employed,"452,691","+/-8,118",59.1,+/-1.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",5,Unemployed,"14,700","+/-3,014",1.9,+/-0.4
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",6,Armed Forces,"1,628","+/-1,050",0.2,+/-0.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",7,Not in labor force,"297,042","+/-8,003",38.8,+/-1.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",7.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",8,Civilian labor force,"467,391","+/-7,884","467,391",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",9,Unemployment Rate,(X),(X),3.1,+/-0.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",9.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",10,Females 16 years and over,"383,067","+/-3,820","383,067",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",11,In labor force,"215,636","+/-5,220",56.3,+/-1.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",12,Civilian labor force,"215,432","+/-5,167",56.2,+/-1.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",13,Employed,"209,097","+/-5,433",54.6,+/-1.4
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",13.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",14,Own children of the householder under 6 years,"67,132","+/-4,028","67,132",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",15,All parents in family in labor force,"39,707","+/-3,606",59.1,+/-5.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",15.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",16,Own children of the householder 6 to 17 years,"150,452","+/-4,759","150,452",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",17,All parents in family in labor force,"101,811","+/-6,530",67.7,+/-3.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",17.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",18,Workers 16 years and over,"446,561","+/-8,290","446,561",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",19,"Car, truck, or van -- drove alone","337,602","+/-9,275",75.6,+/-1.4
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",20,"Car, truck, or van -- carpooled","33,721","+/-3,893",7.6,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",21,Public transportation (excluding taxicab),"1,601","+/-1,199",0.4,+/-0.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",22,Walked,"8,954","+/-2,018",2.0,+/-0.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",23,Other means,"6,499","+/-2,190",1.5,+/-0.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",24,Worked from home,"58,184","+/-4,752",13.0,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",24.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",25,Mean travel time to work (minutes),23.0,+/-0.7,(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",25.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",25.5,OCCUPATION,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",26,Civilian employed population 16 years and over,"452,691","+/-8,118","452,691",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",27,"Management, business, science, and arts occupations","163,106","+/-7,157",36.0,+/-1.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",28,Service occupations,"77,035","+/-6,785",17.0,+/-1.4
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",29,Sales and office occupations,"95,097","+/-6,296",21.0,+/-1.4
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",30,"Natural resources, construction, and maintenance occupations","56,283","+/-5,114",12.4,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",31,"Production, transportation, and material moving occupations","61,170","+/-4,804",13.5,+/-1.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",31.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",31.5,INDUSTRY,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",32,Civilian employed population 16 years and over,"452,691","+/-8,118","452,691",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",33,"Agriculture, forestry, fishing and hunting, and mining","17,183","+/-2,752",3.8,+/-0.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",34,Construction,"45,455","+/-5,066",10.0,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",35,Manufacturing,"43,421","+/-3,954",9.6,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",36,Wholesale trade,"10,537","+/-2,310",2.3,+/-0.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",37,Retail trade,"50,144","+/-5,099",11.1,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",38,"Transportation and warehousing, and utilities","24,822","+/-3,369",5.5,+/-0.7
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",39,Information,"5,628","+/-1,507",1.2,+/-0.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",40,"Finance and insurance, and real estate and rental and leasing","29,211","+/-4,122",6.5,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",41,"Professional, scientific, and management, and administrative and waste management services","42,728","+/-4,104",9.4,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",42,"Educational services, and health care and social assistance","99,137","+/-5,299",21.9,+/-1.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",43,"Arts, entertainment, and recreation, and accommodation and food services","39,069","+/-5,508",8.6,+/-1.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",44,"Other services, except public administration","21,754","+/-3,272",4.8,+/-0.7
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",45,Public administration,"23,602","+/-3,690",5.2,+/-0.8
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",45.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",45.5,CLASS OF WORKER,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",46,Civilian employed population 16 years and over,"452,691","+/-8,118","452,691",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",47,Private wage and salary workers,"347,539","+/-8,659",76.8,+/-1.4
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",48,Government workers,"64,804","+/-5,206",14.3,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",49,Self-employed in own not incorporated business workers,"38,498","+/-4,062",8.5,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",50,Unpaid family workers,"1,850",+/-923,0.4,+/-0.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",50.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",51,Total households,"352,443","+/-4,629","352,443",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",52,"Less than $10,000","17,984","+/-2,549",5.1,+/-0.7
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",53,"$10,000 to $14,999","11,053","+/-2,061",3.1,+/-0.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",54,"$15,000 to $24,999","26,454","+/-3,456",7.5,+/-1.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",55,"$25,000 to $34,999","26,684","+/-3,220",7.6,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",56,"$35,000 to $49,999","39,044","+/-3,837",11.1,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",57,"$50,000 to $74,999","71,690","+/-5,175",20.3,+/-1.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",58,"$75,000 to $99,999","52,007","+/-4,698",14.8,+/-1.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",59,"$100,000 to $149,999","60,338","+/-5,043",17.1,+/-1.4
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",60,"$150,000 to $199,999","24,584","+/-3,490",7.0,+/-1.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",61,"$200,000 or more","22,605","+/-2,829",6.4,+/-0.8
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",62,Median household income (dollars),"68,661","+/-3,037",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",63,Mean household income (dollars),"91,608","+/-3,788",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",63.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",64,With earnings,"267,560","+/-5,522",75.9,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",65,Mean earnings (dollars),"89,237","+/-3,691",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",66,With Social Security,"121,927","+/-4,476",34.6,+/-1.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",67,Mean Social Security income (dollars),"21,537",+/-718,(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",68,With retirement income,"93,641","+/-4,427",26.6,+/-1.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",69,Mean retirement income (dollars),"27,763","+/-1,924",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",69.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",70,With Supplemental Security Income,"16,422","+/-2,543",4.7,+/-0.7
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",71,Mean Supplemental Security Income (dollars),"10,872","+/-1,017",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",72,With cash public assistance income,"12,960","+/-2,166",3.7,+/-0.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",73,Mean cash public assistance income (dollars),"3,386","+/-1,024",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",74,With Food Stamp/SNAP benefits in the past 12 months,"27,243","+/-3,078",7.7,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",74.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",75,Families,"248,908","+/-6,129","248,908",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",76,"Less than $10,000","8,385","+/-2,047",3.4,+/-0.8
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",77,"$10,000 to $14,999","3,371","+/-1,225",1.4,+/-0.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",78,"$15,000 to $24,999","10,652","+/-2,254",4.3,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",79,"$25,000 to $34,999","14,174","+/-2,249",5.7,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",80,"$35,000 to $49,999","23,839","+/-2,786",9.6,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",81,"$50,000 to $74,999","51,790","+/-4,980",20.8,+/-1.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",82,"$75,000 to $99,999","41,867","+/-4,312",16.8,+/-1.7
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",83,"$100,000 to $149,999","55,175","+/-4,985",22.2,+/-1.8
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",84,"$150,000 to $199,999","20,411","+/-2,906",8.2,+/-1.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",85,"$200,000 or more","19,244","+/-2,404",7.7,+/-1.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",86,Median family income (dollars),"82,925","+/-2,314",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",87,Mean family income (dollars),"102,849","+/-3,677",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",87.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",88,Per capita income (dollars),"34,513","+/-1,396",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",88.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",89,Nonfamily households,"103,535","+/-5,235","103,535",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",90,Median nonfamily income (dollars),"36,804","+/-2,635",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",91,Mean nonfamily income (dollars),"59,214","+/-8,661",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",91.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",92,Median earnings for workers (dollars),"36,065","+/-1,068",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",93,"Median earnings for male full-time, year-round workers (dollars)","52,292","+/-1,818",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",94,"Median earnings for female full-time, year-round workers (dollars)","40,823","+/-1,233",(X),(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",94.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",95,Civilian noninstitutionalized population,"954,637","+/-7,474","954,637",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",96,With health insurance coverage,"870,537","+/-10,847",91.2,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",97,With private health insurance,"664,113","+/-15,598",69.6,+/-1.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",98,With public coverage,"345,604","+/-12,930",36.2,+/-1.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",99,No health insurance coverage,"84,100","+/-9,057",8.8,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",99.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",100,Civilian noninstitutionalized population under 19 years,"241,273","+/-5,561","241,273",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",101,No health insurance coverage,"19,023","+/-3,114",7.9,+/-1.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",101.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",102,Civilian noninstitutionalized population 19 to 64 years,"542,258","+/-6,126","542,258",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",103,In labor force:,"425,576","+/-8,031","425,576",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",104,Employed:,"412,740","+/-8,315","412,740",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",105,With health insurance coverage,"366,173","+/-8,484",88.7,+/-1.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",106,With private health insurance,"335,781","+/-9,615",81.4,+/-1.8
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",107,With public coverage,"46,342","+/-4,944",11.2,+/-1.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",108,No health insurance coverage,"46,567","+/-6,474",11.3,+/-1.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",109,Unemployed:,"12,836","+/-2,940","12,836",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",110,With health insurance coverage,"9,767","+/-2,620",76.1,+/-7.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",111,With private health insurance,"4,599","+/-1,287",35.8,+/-8.4
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",112,With public coverage,"5,987","+/-2,140",46.6,+/-9.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",113,No health insurance coverage,"3,069","+/-1,068",23.9,+/-7.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",114,Not in labor force:,"116,682","+/-6,530","116,682",(X)
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",115,With health insurance coverage,"101,904","+/-6,530",87.3,+/-2.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",116,With private health insurance,"63,953","+/-5,390",54.8,+/-3.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",117,With public coverage,"47,648","+/-5,082",40.8,+/-3.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",118,No health insurance coverage,"14,778","+/-2,648",12.7,+/-2.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",118.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",119,All families,(X),(X),7.8,+/-1.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",120,With related children of the householder under 18 years,(X),(X),12.0,+/-2.2
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",121,With related children of the householder under 5 years only,(X),(X),15.6,+/-5.6
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",122,Married couple families,(X),(X),5.1,+/-1.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",123,With related children of the householder under 18 years,(X),(X),7.3,+/-2.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",124,With related children of the householder under 5 years only,(X),(X),8.1,+/-5.5
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",125,"Families with female householder, no spouse present",(X),(X),24.1,+/-5.0
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",126,With related children of the householder under 18 years,(X),(X),32.1,+/-6.7
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",127,With related children of the householder under 5 years only,(X),(X),50.2,+/-19.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",127.3,,,,,
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",128,All people,(X),(X),10.9,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",129,Under 18 years,(X),(X),12.8,+/-2.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",130,Related children of the householder under 18 years,(X),(X),12.1,+/-2.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",131,Related children of the householder under 5 years,(X),(X),16.8,+/-4.4
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",132,Related children of the householder 5 to 17 years,(X),(X),10.7,+/-2.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",133,18 years and over,(X),(X),10.3,+/-0.9
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",134,18 to 64 years,(X),(X),10.7,+/-1.1
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",135,65 years and over,(X),(X),9.2,+/-1.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",136,People in families,(X),(X),8.0,+/-1.3
+DP03,5001800US1601,"Congressional District 1 (118th Congress), Idaho",137,Unrelated individuals 15 years and over,(X),(X),24.4,+/-2.3
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",0.5,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",1,Population 16 years and over,"718,871","+/-6,119","718,871",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",2,In labor force,"468,350","+/-7,019",65.2,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",3,Civilian labor force,"465,286","+/-7,021",64.7,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",4,Employed,"449,128","+/-6,780",62.5,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",5,Unemployed,"16,158","+/-2,223",2.2,+/-0.3
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",6,Armed Forces,"3,064",+/-892,0.4,+/-0.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",7,Not in labor force,"250,521","+/-6,518",34.8,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",7.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",8,Civilian labor force,"465,286","+/-7,021","465,286",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",9,Unemployment Rate,(X),(X),3.5,+/-0.5
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",9.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",10,Females 16 years and over,"359,963","+/-4,529","359,963",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",11,In labor force,"211,344","+/-4,846",58.7,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",12,Civilian labor force,"210,684","+/-4,825",58.5,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",13,Employed,"203,926","+/-4,666",56.7,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",13.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",14,Own children of the householder under 6 years,"68,129","+/-3,907","68,129",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",15,All parents in family in labor force,"36,683","+/-3,163",53.8,+/-4.4
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",15.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",16,Own children of the householder 6 to 17 years,"163,464","+/-5,188","163,464",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",17,All parents in family in labor force,"106,264","+/-7,055",65.0,+/-3.4
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",17.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",18,Workers 16 years and over,"442,975","+/-6,596","442,975",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",19,"Car, truck, or van -- drove alone","323,837","+/-7,378",73.1,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",20,"Car, truck, or van -- carpooled","39,203","+/-3,827",8.8,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",21,Public transportation (excluding taxicab),"2,662",+/-646,0.6,+/-0.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",22,Walked,"7,792","+/-1,860",1.8,+/-0.4
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",23,Other means,"9,758","+/-1,704",2.2,+/-0.4
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",24,Worked from home,"59,723","+/-4,023",13.5,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",24.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",25,Mean travel time to work (minutes),20.3,+/-0.6,(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",25.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",25.5,OCCUPATION,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",26,Civilian employed population 16 years and over,"449,128","+/-6,780","449,128",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",27,"Management, business, science, and arts occupations","178,424","+/-6,329",39.7,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",28,Service occupations,"76,578","+/-5,297",17.1,+/-1.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",29,Sales and office occupations,"85,829","+/-5,091",19.1,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",30,"Natural resources, construction, and maintenance occupations","46,848","+/-3,815",10.4,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",31,"Production, transportation, and material moving occupations","61,449","+/-3,879",13.7,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",31.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",31.5,INDUSTRY,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",32,Civilian employed population 16 years and over,"449,128","+/-6,780","449,128",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",33,"Agriculture, forestry, fishing and hunting, and mining","22,985","+/-2,460",5.1,+/-0.5
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",34,Construction,"34,393","+/-3,743",7.7,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",35,Manufacturing,"46,700","+/-4,093",10.4,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",36,Wholesale trade,"11,857","+/-1,971",2.6,+/-0.4
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",37,Retail trade,"50,104","+/-4,097",11.2,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",38,"Transportation and warehousing, and utilities","22,709","+/-2,908",5.1,+/-0.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",39,Information,"7,060","+/-1,707",1.6,+/-0.4
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",40,"Finance and insurance, and real estate and rental and leasing","22,468","+/-2,459",5.0,+/-0.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",41,"Professional, scientific, and management, and administrative and waste management services","50,694","+/-3,962",11.3,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",42,"Educational services, and health care and social assistance","100,215","+/-4,814",22.3,+/-1.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",43,"Arts, entertainment, and recreation, and accommodation and food services","40,741","+/-4,050",9.1,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",44,"Other services, except public administration","16,949","+/-2,000",3.8,+/-0.4
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",45,Public administration,"22,253","+/-3,347",5.0,+/-0.7
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",45.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",45.5,CLASS OF WORKER,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",46,Civilian employed population 16 years and over,"449,128","+/-6,780","449,128",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",47,Private wage and salary workers,"339,139","+/-6,867",75.5,+/-1.3
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",48,Government workers,"73,417","+/-5,580",16.3,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",49,Self-employed in own not incorporated business workers,"35,167","+/-4,087",7.8,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",50,Unpaid family workers,"1,405",+/-647,0.3,+/-0.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",50.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",51,Total households,"341,439","+/-4,030","341,439",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",52,"Less than $10,000","12,971","+/-1,610",3.8,+/-0.5
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",53,"$10,000 to $14,999","14,911","+/-2,148",4.4,+/-0.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",54,"$15,000 to $24,999","26,902","+/-2,684",7.9,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",55,"$25,000 to $34,999","28,730","+/-3,054",8.4,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",56,"$35,000 to $49,999","45,598","+/-3,116",13.4,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",57,"$50,000 to $74,999","66,357","+/-4,399",19.4,+/-1.3
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",58,"$75,000 to $99,999","47,286","+/-3,648",13.8,+/-1.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",59,"$100,000 to $149,999","54,810","+/-4,237",16.1,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",60,"$150,000 to $199,999","21,132","+/-2,207",6.2,+/-0.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",61,"$200,000 or more","22,742","+/-2,423",6.7,+/-0.7
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",62,Median household income (dollars),"64,712","+/-1,733",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",63,Mean household income (dollars),"88,249","+/-2,818",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",63.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",64,With earnings,"268,466","+/-5,198",78.6,+/-1.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",65,Mean earnings (dollars),"85,564","+/-2,893",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",66,With Social Security,"105,695","+/-3,733",31.0,+/-1.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",67,Mean Social Security income (dollars),"20,523",+/-599,(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",68,With retirement income,"80,204","+/-3,773",23.5,+/-1.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",69,Mean retirement income (dollars),"28,809","+/-3,533",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",69.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",70,With Supplemental Security Income,"16,847","+/-2,043",4.9,+/-0.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",71,Mean Supplemental Security Income (dollars),"10,591","+/-1,017",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",72,With cash public assistance income,"14,929","+/-2,198",4.4,+/-0.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",73,Mean cash public assistance income (dollars),"3,451",+/-767,(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",74,With Food Stamp/SNAP benefits in the past 12 months,"30,905","+/-2,498",9.1,+/-0.7
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",74.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",75,Families,"227,562","+/-5,001","227,562",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",76,"Less than $10,000","5,239","+/-1,316",2.3,+/-0.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",77,"$10,000 to $14,999","4,601","+/-1,137",2.0,+/-0.5
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",78,"$15,000 to $24,999","11,290","+/-1,705",5.0,+/-0.7
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",79,"$25,000 to $34,999","15,796","+/-2,126",6.9,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",80,"$35,000 to $49,999","26,566","+/-2,648",11.7,+/-1.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",81,"$50,000 to $74,999","46,082","+/-3,576",20.3,+/-1.5
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",82,"$75,000 to $99,999","36,754","+/-3,392",16.2,+/-1.5
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",83,"$100,000 to $149,999","44,047","+/-3,551",19.4,+/-1.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",84,"$150,000 to $199,999","18,870","+/-2,104",8.3,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",85,"$200,000 or more","18,317","+/-1,977",8.0,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",86,Median family income (dollars),"77,037","+/-2,270",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",87,Mean family income (dollars),"100,236","+/-3,061",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",87.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",88,Per capita income (dollars),"33,144","+/-1,026",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",88.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",89,Nonfamily households,"113,877","+/-5,375","113,877",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",90,Median nonfamily income (dollars),"40,376","+/-1,984",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",91,Mean nonfamily income (dollars),"60,687","+/-4,857",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",91.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",92,Median earnings for workers (dollars),"33,025","+/-1,596",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",93,"Median earnings for male full-time, year-round workers (dollars)","51,441",+/-798,(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",94,"Median earnings for female full-time, year-round workers (dollars)","40,775","+/-1,473",(X),(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",94.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",95,Civilian noninstitutionalized population,"924,611","+/-7,331","924,611",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",96,With health insurance coverage,"842,782","+/-8,625",91.1,+/-0.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",97,With private health insurance,"614,863","+/-11,588",66.5,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",98,With public coverage,"345,481","+/-10,922",37.4,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",99,No health insurance coverage,"81,829","+/-5,870",8.9,+/-0.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",99.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",100,Civilian noninstitutionalized population under 19 years,"257,013","+/-5,913","257,013",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",101,No health insurance coverage,"16,089","+/-3,075",6.3,+/-1.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",101.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",102,Civilian noninstitutionalized population 19 to 64 years,"528,696","+/-6,684","528,696",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",103,In labor force:,"416,929","+/-7,394","416,929",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",104,Employed:,"403,523","+/-7,079","403,523",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",105,With health insurance coverage,"357,378","+/-6,638",88.6,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",106,With private health insurance,"318,517","+/-6,479",78.9,+/-1.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",107,With public coverage,"56,100","+/-4,551",13.9,+/-1.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",108,No health insurance coverage,"46,145","+/-3,890",11.4,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",109,Unemployed:,"13,406","+/-2,072","13,406",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",110,With health insurance coverage,"8,481","+/-1,930",63.3,+/-7.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",111,With private health insurance,"5,089","+/-1,317",38.0,+/-7.7
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",112,With public coverage,"3,764","+/-1,411",28.1,+/-8.2
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",113,No health insurance coverage,"4,925","+/-1,020",36.7,+/-7.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",114,Not in labor force:,"111,767","+/-4,850","111,767",(X)
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",115,With health insurance coverage,"97,839","+/-4,524",87.5,+/-1.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",116,With private health insurance,"60,111","+/-3,987",53.8,+/-3.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",117,With public coverage,"48,388","+/-4,229",43.3,+/-3.0
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",118,No health insurance coverage,"13,928","+/-1,931",12.5,+/-1.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",118.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",119,All families,(X),(X),7.7,+/-1.0
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",120,With related children of the householder under 18 years,(X),(X),11.7,+/-1.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",121,With related children of the householder under 5 years only,(X),(X),16.5,+/-5.0
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",122,Married couple families,(X),(X),4.9,+/-0.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",123,With related children of the householder under 18 years,(X),(X),6.1,+/-1.3
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",124,With related children of the householder under 5 years only,(X),(X),9.2,+/-3.5
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",125,"Families with female householder, no spouse present",(X),(X),22.0,+/-4.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",126,With related children of the householder under 18 years,(X),(X),32.1,+/-7.1
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",127,With related children of the householder under 5 years only,(X),(X),51.0,+/-18.3
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",127.3,,,,,
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",128,All people,(X),(X),11.1,+/-1.0
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",129,Under 18 years,(X),(X),13.4,+/-1.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",130,Related children of the householder under 18 years,(X),(X),13.1,+/-1.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",131,Related children of the householder under 5 years,(X),(X),16.9,+/-2.8
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",132,Related children of the householder 5 to 17 years,(X),(X),11.9,+/-2.4
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",133,18 years and over,(X),(X),10.3,+/-0.9
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",134,18 to 64 years,(X),(X),10.4,+/-1.0
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",135,65 years and over,(X),(X),10.0,+/-1.6
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",136,People in families,(X),(X),8.1,+/-1.0
+DP03,5001800US1602,"Congressional District 2 (118th Congress), Idaho",137,Unrelated individuals 15 years and over,(X),(X),24.3,+/-2.2

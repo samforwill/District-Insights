@@ -1,0 +1,1513 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",0.5,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",1,Population 16 years and over,"674,173","+/-13,240","674,173",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",2,In labor force,"439,584","+/-11,086",65.2,+/-1.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",3,Civilian labor force,"439,353","+/-11,086",65.2,+/-1.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",4,Employed,"418,231","+/-10,599",62.0,+/-1.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",5,Unemployed,"21,122","+/-3,372",3.1,+/-0.5
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",6,Armed Forces,231,+/-235,0.0,+/-0.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",7,Not in labor force,"234,589","+/-8,135",34.8,+/-1.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",7.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",8,Civilian labor force,"439,353","+/-11,086","439,353",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",9,Unemployment Rate,(X),(X),4.8,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",9.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",10,Females 16 years and over,"344,985","+/-9,399","344,985",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",11,In labor force,"207,453","+/-7,116",60.1,+/-1.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",12,Civilian labor force,"207,453","+/-7,116",60.1,+/-1.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",13,Employed,"197,538","+/-6,836",57.3,+/-1.4
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",13.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",14,Own children of the householder under 6 years,"42,265","+/-3,736","42,265",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",15,All parents in family in labor force,"27,467","+/-3,026",65.0,+/-5.2
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",15.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",16,Own children of the householder 6 to 17 years,"91,103","+/-5,608","91,103",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",17,All parents in family in labor force,"63,893","+/-5,255",70.1,+/-4.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",17.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",18,Workers 16 years and over,"410,545","+/-10,288","410,545",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",19,"Car, truck, or van -- drove alone","248,238","+/-8,497",60.5,+/-1.4
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",20,"Car, truck, or van -- carpooled","20,938","+/-3,086",5.1,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",21,Public transportation (excluding taxicab),"2,706","+/-1,206",0.7,+/-0.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",22,Walked,"5,559","+/-1,697",1.4,+/-0.4
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",23,Other means,"8,632","+/-1,931",2.1,+/-0.5
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",24,Worked from home,"124,472","+/-6,443",30.3,+/-1.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",24.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",25,Mean travel time to work (minutes),22.3,+/-0.6,(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",25.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",25.5,OCCUPATION,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",26,Civilian employed population 16 years and over,"418,231","+/-10,599","418,231",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",27,"Management, business, science, and arts occupations","220,044","+/-8,248",52.6,+/-1.6
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",28,Service occupations,"56,842","+/-5,148",13.6,+/-1.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",29,Sales and office occupations,"93,168","+/-5,953",22.3,+/-1.4
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",30,"Natural resources, construction, and maintenance occupations","20,963","+/-2,766",5.0,+/-0.6
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",31,"Production, transportation, and material moving occupations","27,214","+/-2,612",6.5,+/-0.6
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",31.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",31.5,INDUSTRY,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",32,Civilian employed population 16 years and over,"418,231","+/-10,599","418,231",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",33,"Agriculture, forestry, fishing and hunting, and mining","1,836","+/-1,009",0.4,+/-0.2
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",34,Construction,"24,781","+/-3,280",5.9,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",35,Manufacturing,"25,300","+/-2,864",6.0,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",36,Wholesale trade,"8,984","+/-1,428",2.1,+/-0.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",37,Retail trade,"42,238","+/-4,140",10.1,+/-0.9
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",38,"Transportation and warehousing, and utilities","18,377","+/-2,605",4.4,+/-0.6
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",39,Information,"8,938","+/-1,953",2.1,+/-0.5
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",40,"Finance and insurance, and real estate and rental and leasing","55,452","+/-3,751",13.3,+/-0.9
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",41,"Professional, scientific, and management, and administrative and waste management services","72,113","+/-5,425",17.2,+/-1.2
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",42,"Educational services, and health care and social assistance","88,744","+/-5,726",21.2,+/-1.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",43,"Arts, entertainment, and recreation, and accommodation and food services","40,164","+/-3,934",9.6,+/-0.9
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",44,"Other services, except public administration","18,426","+/-2,520",4.4,+/-0.6
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",45,Public administration,"12,878","+/-1,776",3.1,+/-0.4
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",45.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",46,Civilian employed population 16 years and over,"418,231","+/-10,599","418,231",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",47,Private wage and salary workers,"346,220","+/-10,335",82.8,+/-1.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",48,Government workers,"41,445","+/-2,932",9.9,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",49,Self-employed in own not incorporated business workers,"30,235","+/-3,180",7.2,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",50,Unpaid family workers,331,+/-234,0.1,+/-0.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",50.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",51,Total households,"357,279","+/-6,279","357,279",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",52,"Less than $10,000","16,543","+/-2,603",4.6,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",53,"$10,000 to $14,999","7,209","+/-1,524",2.0,+/-0.4
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",54,"$15,000 to $24,999","19,944","+/-2,281",5.6,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",55,"$25,000 to $34,999","21,542","+/-2,448",6.0,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",56,"$35,000 to $49,999","36,626","+/-3,709",10.3,+/-1.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",57,"$50,000 to $74,999","54,459","+/-3,935",15.2,+/-1.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",58,"$75,000 to $99,999","43,854","+/-3,359",12.3,+/-1.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",59,"$100,000 to $149,999","64,489","+/-4,466",18.1,+/-1.2
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",60,"$150,000 to $199,999","31,611","+/-2,711",8.8,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",61,"$200,000 or more","61,002","+/-3,645",17.1,+/-0.9
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",62,Median household income (dollars),"86,002","+/-3,323",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",63,Mean household income (dollars),"133,562","+/-4,144",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",63.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",64,With earnings,"280,198","+/-5,663",78.4,+/-1.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",65,Mean earnings (dollars),"129,170","+/-4,464",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",66,With Social Security,"109,377","+/-4,678",30.6,+/-1.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",67,Mean Social Security income (dollars),"24,390",+/-652,(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",68,With retirement income,"87,336","+/-4,181",24.4,+/-1.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",69,Mean retirement income (dollars),"37,181","+/-2,420",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",69.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",70,With Supplemental Security Income,"8,860","+/-1,423",2.5,+/-0.4
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",71,Mean Supplemental Security Income (dollars),"9,512",+/-872,(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",72,With cash public assistance income,"9,840","+/-1,919",2.8,+/-0.5
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",73,Mean cash public assistance income (dollars),"7,176","+/-1,685",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",74,With Food Stamp/SNAP benefits in the past 12 months,"19,855","+/-2,708",5.6,+/-0.8
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",74.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",75,Families,"211,416","+/-5,216","211,416",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",76,"Less than $10,000","6,276","+/-1,408",3.0,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",77,"$10,000 to $14,999","1,301",+/-483,0.6,+/-0.2
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",78,"$15,000 to $24,999","6,166","+/-1,331",2.9,+/-0.6
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",79,"$25,000 to $34,999","8,829","+/-1,826",4.2,+/-0.9
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",80,"$35,000 to $49,999","18,811","+/-2,478",8.9,+/-1.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",81,"$50,000 to $74,999","28,302","+/-2,602",13.4,+/-1.2
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",82,"$75,000 to $99,999","24,922","+/-2,918",11.8,+/-1.4
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",83,"$100,000 to $149,999","44,247","+/-3,442",20.9,+/-1.5
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",84,"$150,000 to $199,999","22,758","+/-2,330",10.8,+/-1.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",85,"$200,000 or more","49,804","+/-3,194",23.6,+/-1.4
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",86,Median family income (dollars),"109,451","+/-4,213",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",87,Mean family income (dollars),"164,753","+/-6,423",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",87.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",88,Per capita income (dollars),"60,282","+/-2,047",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",88.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",89,Nonfamily households,"145,863","+/-5,892","145,863",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",90,Median nonfamily income (dollars),"58,836","+/-4,428",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",91,Mean nonfamily income (dollars),"83,843","+/-4,396",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",91.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",92,Median earnings for workers (dollars),"50,802",+/-871,(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",93,"Median earnings for male full-time, year-round workers (dollars)","76,895","+/-3,051",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",94,"Median earnings for female full-time, year-round workers (dollars)","58,150","+/-3,134",(X),(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",94.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",95,Civilian noninstitutionalized population,"794,677","+/-15,015","794,677",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",96,With health insurance coverage,"727,163","+/-13,675",91.5,+/-0.8
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",97,With private health insurance,"562,741","+/-12,335",70.8,+/-1.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",98,With public coverage,"258,793","+/-11,276",32.6,+/-1.2
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",99,No health insurance coverage,"67,514","+/-7,001",8.5,+/-0.8
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",99.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",100,Civilian noninstitutionalized population under 19 years,"148,383","+/-7,925","148,383",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",101,No health insurance coverage,"9,467","+/-2,521",6.4,+/-1.6
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",101.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",102,Civilian noninstitutionalized population 19 to 64 years,"481,594","+/-10,946","481,594",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",103,In labor force:,"392,828","+/-9,890","392,828",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",104,Employed:,"375,488","+/-9,666","375,488",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",105,With health insurance coverage,"334,289","+/-9,354",89.0,+/-1.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",106,With private health insurance,"312,920","+/-9,327",83.3,+/-1.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",107,With public coverage,"29,124","+/-2,753",7.8,+/-0.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",108,No health insurance coverage,"41,199","+/-4,490",11.0,+/-1.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",109,Unemployed:,"17,340","+/-2,914","17,340",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",110,With health insurance coverage,"13,803","+/-2,323",79.6,+/-6.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",111,With private health insurance,"7,280","+/-1,570",42.0,+/-8.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",112,With public coverage,"6,830","+/-1,789",39.4,+/-7.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",113,No health insurance coverage,"3,537","+/-1,437",20.4,+/-6.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",114,Not in labor force:,"88,766","+/-4,591","88,766",(X)
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",115,With health insurance coverage,"77,146","+/-4,129",86.9,+/-2.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",116,With private health insurance,"56,388","+/-3,756",63.5,+/-3.2
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",117,With public coverage,"24,163","+/-2,897",27.2,+/-3.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",118,No health insurance coverage,"11,620","+/-2,242",13.1,+/-2.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",118.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",119,All families,(X),(X),5.2,+/-0.8
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",120,With related children of the householder under 18 years,(X),(X),10.3,+/-1.9
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",121,With related children of the householder under 5 years only,(X),(X),13.6,+/-6.2
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",122,Married couple families,(X),(X),3.0,+/-0.8
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",123,With related children of the householder under 18 years,(X),(X),5.1,+/-2.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",124,With related children of the householder under 5 years only,(X),(X),6.5,+/-4.3
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",125,"Families with female householder, no spouse present",(X),(X),15.5,+/-3.6
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",126,With related children of the householder under 18 years,(X),(X),25.9,+/-6.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",127,With related children of the householder under 5 years only,(X),(X),47.1,+/-18.5
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",127.3,,,,,
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",128,All people,(X),(X),8.7,+/-1.0
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",129,Under 18 years,(X),(X),11.2,+/-2.5
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",130,Related children of the householder under 18 years,(X),(X),11.0,+/-2.5
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",131,Related children of the householder under 5 years,(X),(X),11.7,+/-3.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",132,Related children of the householder 5 to 17 years,(X),(X),10.7,+/-2.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",133,18 years and over,(X),(X),8.2,+/-0.9
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",134,18 to 64 years,(X),(X),8.3,+/-0.9
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",135,65 years and over,(X),(X),7.8,+/-1.7
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",136,People in families,(X),(X),5.9,+/-1.1
+DP03,5001800US0401,"Congressional District 1 (118th Congress), Arizona",137,Unrelated individuals 15 years and over,(X),(X),16.9,+/-1.9
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",0.5,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",1,Population 16 years and over,"665,975","+/-5,439","665,975",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",2,In labor force,"337,476","+/-8,333",50.7,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",3,Civilian labor force,"336,846","+/-8,343",50.6,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",4,Employed,"312,835","+/-7,839",47.0,+/-1.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",5,Unemployed,"24,011","+/-2,630",3.6,+/-0.4
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",6,Armed Forces,630,+/-425,0.1,+/-0.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",7,Not in labor force,"328,499","+/-8,616",49.3,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",7.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",8,Civilian labor force,"336,846","+/-8,343","336,846",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",9,Unemployment Rate,(X),(X),7.1,+/-0.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",9.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",10,Females 16 years and over,"333,375","+/-3,660","333,375",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",11,In labor force,"156,921","+/-5,507",47.1,+/-1.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",12,Civilian labor force,"156,809","+/-5,483",47.0,+/-1.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",13,Employed,"147,445","+/-5,434",44.2,+/-1.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",13.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",14,Own children of the householder under 6 years,"42,723","+/-2,413","42,723",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",15,All parents in family in labor force,"23,244","+/-3,359",54.4,+/-6.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",15.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",16,Own children of the householder 6 to 17 years,"106,552","+/-4,492","106,552",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",17,All parents in family in labor force,"73,752","+/-5,155",69.2,+/-4.0
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",17.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",18,Workers 16 years and over,"306,999","+/-8,070","306,999",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",19,"Car, truck, or van -- drove alone","213,510","+/-7,371",69.5,+/-2.0
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",20,"Car, truck, or van -- carpooled","29,717","+/-3,423",9.7,+/-1.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",21,Public transportation (excluding taxicab),"1,576",+/-692,0.5,+/-0.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",22,Walked,"9,372","+/-2,217",3.1,+/-0.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",23,Other means,"6,287","+/-1,573",2.0,+/-0.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",24,Worked from home,"46,537","+/-5,462",15.2,+/-1.6
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",24.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",25,Mean travel time to work (minutes),24.4,+/-1.2,(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",25.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",25.5,OCCUPATION,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",26,Civilian employed population 16 years and over,"312,835","+/-7,839","312,835",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",27,"Management, business, science, and arts occupations","113,762","+/-6,152",36.4,+/-1.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",28,Service occupations,"63,705","+/-5,329",20.4,+/-1.6
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",29,Sales and office occupations,"65,608","+/-4,641",21.0,+/-1.4
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",30,"Natural resources, construction, and maintenance occupations","35,749","+/-3,869",11.4,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",31,"Production, transportation, and material moving occupations","34,011","+/-3,339",10.9,+/-1.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",31.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",31.5,INDUSTRY,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",32,Civilian employed population 16 years and over,"312,835","+/-7,839","312,835",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",33,"Agriculture, forestry, fishing and hunting, and mining","7,085","+/-1,615",2.3,+/-0.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",34,Construction,"29,261","+/-3,429",9.4,+/-1.0
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",35,Manufacturing,"21,635","+/-2,767",6.9,+/-0.9
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",36,Wholesale trade,"4,635","+/-1,573",1.5,+/-0.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",37,Retail trade,"37,995","+/-3,623",12.1,+/-1.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",38,"Transportation and warehousing, and utilities","14,323","+/-2,285",4.6,+/-0.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",39,Information,"5,030","+/-1,667",1.6,+/-0.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",40,"Finance and insurance, and real estate and rental and leasing","13,853","+/-2,604",4.4,+/-0.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",41,"Professional, scientific, and management, and administrative and waste management services","30,082","+/-2,934",9.6,+/-0.9
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",42,"Educational services, and health care and social assistance","77,573","+/-4,289",24.8,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",43,"Arts, entertainment, and recreation, and accommodation and food services","35,743","+/-3,813",11.4,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",44,"Other services, except public administration","14,230","+/-2,849",4.5,+/-0.9
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",45,Public administration,"21,390","+/-3,418",6.8,+/-1.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",45.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",46,Civilian employed population 16 years and over,"312,835","+/-7,839","312,835",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",47,Private wage and salary workers,"223,389","+/-7,663",71.4,+/-1.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",48,Government workers,"62,490","+/-5,272",20.0,+/-1.6
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",49,Self-employed in own not incorporated business workers,"25,647","+/-2,827",8.2,+/-0.9
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",50,Unpaid family workers,"1,309","+/-1,122",0.4,+/-0.4
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",50.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",51,Total households,"315,229","+/-4,839","315,229",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",52,"Less than $10,000","24,506","+/-2,560",7.8,+/-0.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",53,"$10,000 to $14,999","12,414","+/-1,777",3.9,+/-0.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",54,"$15,000 to $24,999","28,140","+/-3,672",8.9,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",55,"$25,000 to $34,999","24,601","+/-2,357",7.8,+/-0.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",56,"$35,000 to $49,999","43,015","+/-3,535",13.6,+/-1.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",57,"$50,000 to $74,999","61,805","+/-3,878",19.6,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",58,"$75,000 to $99,999","40,549","+/-3,912",12.9,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",59,"$100,000 to $149,999","46,666","+/-3,770",14.8,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",60,"$150,000 to $199,999","19,592","+/-3,061",6.2,+/-1.0
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",61,"$200,000 or more","13,941","+/-2,115",4.4,+/-0.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",62,Median household income (dollars),"58,671","+/-2,118",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",63,Mean household income (dollars),"75,942","+/-2,521",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",63.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",64,With earnings,"210,180","+/-4,946",66.7,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",65,Mean earnings (dollars),"75,358","+/-3,261",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",66,With Social Security,"132,287","+/-3,761",42.0,+/-1.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",67,Mean Social Security income (dollars),"22,988",+/-678,(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",68,With retirement income,"100,448","+/-4,389",31.9,+/-1.3
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",69,Mean retirement income (dollars),"29,080","+/-1,631",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",69.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",70,With Supplemental Security Income,"18,833","+/-2,102",6.0,+/-0.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",71,Mean Supplemental Security Income (dollars),"11,259",+/-989,(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",72,With cash public assistance income,"10,153","+/-2,171",3.2,+/-0.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",73,Mean cash public assistance income (dollars),"5,019",+/-956,(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",74,With Food Stamp/SNAP benefits in the past 12 months,"43,827","+/-3,786",13.9,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",74.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",75,Families,"209,124","+/-4,704","209,124",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",76,"Less than $10,000","8,924","+/-1,388",4.3,+/-0.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",77,"$10,000 to $14,999","3,403",+/-846,1.6,+/-0.4
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",78,"$15,000 to $24,999","13,356","+/-2,568",6.4,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",79,"$25,000 to $34,999","13,328","+/-1,732",6.4,+/-0.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",80,"$35,000 to $49,999","30,807","+/-3,002",14.7,+/-1.4
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",81,"$50,000 to $74,999","43,861","+/-3,267",21.0,+/-1.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",82,"$75,000 to $99,999","28,469","+/-2,971",13.6,+/-1.4
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",83,"$100,000 to $149,999","39,569","+/-3,622",18.9,+/-1.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",84,"$150,000 to $199,999","16,070","+/-2,810",7.7,+/-1.3
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",85,"$200,000 or more","11,337","+/-1,899",5.4,+/-0.9
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",86,Median family income (dollars),"69,340","+/-2,458",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",87,Mean family income (dollars),"87,539","+/-3,283",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",87.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",88,Per capita income (dollars),"29,479",+/-957,(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",88.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",89,Nonfamily households,"106,105","+/-5,290","106,105",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",90,Median nonfamily income (dollars),"34,450","+/-3,146",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",91,Mean nonfamily income (dollars),"47,495","+/-3,399",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",91.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",92,Median earnings for workers (dollars),"33,656","+/-1,783",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",93,"Median earnings for male full-time, year-round workers (dollars)","50,790","+/-1,052",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",94,"Median earnings for female full-time, year-round workers (dollars)","40,901","+/-1,398",(X),(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",94.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",95,Civilian noninstitutionalized population,"793,726","+/-7,959","793,726",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",96,With health insurance coverage,"690,388","+/-10,533",87.0,+/-1.0
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",97,With private health insurance,"436,850","+/-11,628",55.0,+/-1.4
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",98,With public coverage,"379,484","+/-11,003",47.8,+/-1.3
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",99,No health insurance coverage,"103,338","+/-7,801",13.0,+/-1.0
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",99.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",100,Civilian noninstitutionalized population under 19 years,"176,851","+/-5,139","176,851",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",101,No health insurance coverage,"23,023","+/-3,641",13.0,+/-2.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",101.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",102,Civilian noninstitutionalized population 19 to 64 years,"428,425","+/-5,629","428,425",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",103,In labor force:,"300,127","+/-6,873","300,127",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",104,Employed:,"279,452","+/-6,384","279,452",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",105,With health insurance coverage,"232,978","+/-6,778",83.4,+/-1.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",106,With private health insurance,"196,990","+/-6,683",70.5,+/-1.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",107,With public coverage,"47,682","+/-3,692",17.1,+/-1.4
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",108,No health insurance coverage,"46,474","+/-5,044",16.6,+/-1.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",109,Unemployed:,"20,675","+/-2,442","20,675",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",110,With health insurance coverage,"13,244","+/-2,269",64.1,+/-7.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",111,With private health insurance,"4,634","+/-1,174",22.4,+/-5.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",112,With public coverage,"8,898","+/-1,959",43.0,+/-7.5
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",113,No health insurance coverage,"7,431","+/-1,634",35.9,+/-7.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",114,Not in labor force:,"128,298","+/-5,744","128,298",(X)
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",115,With health insurance coverage,"102,976","+/-5,293",80.3,+/-1.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",116,With private health insurance,"48,464","+/-4,156",37.8,+/-2.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",117,With public coverage,"61,411","+/-4,637",47.9,+/-2.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",118,No health insurance coverage,"25,322","+/-2,501",19.7,+/-1.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",118.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",119,All families,(X),(X),10.6,+/-1.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",120,With related children of the householder under 18 years,(X),(X),17.5,+/-2.3
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",121,With related children of the householder under 5 years only,(X),(X),17.1,+/-5.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",122,Married couple families,(X),(X),5.9,+/-1.0
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",123,With related children of the householder under 18 years,(X),(X),10.9,+/-2.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",124,With related children of the householder under 5 years only,(X),(X),11.9,+/-6.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",125,"Families with female householder, no spouse present",(X),(X),29.1,+/-3.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",126,With related children of the householder under 18 years,(X),(X),34.8,+/-5.4
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",127,With related children of the householder under 5 years only,(X),(X),36.9,+/-15.0
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",127.3,,,,,
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",128,All people,(X),(X),16.2,+/-1.1
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",129,Under 18 years,(X),(X),21.2,+/-2.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",130,Related children of the householder under 18 years,(X),(X),20.7,+/-2.7
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",131,Related children of the householder under 5 years,(X),(X),27.4,+/-4.6
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",132,Related children of the householder 5 to 17 years,(X),(X),18.7,+/-2.8
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",133,18 years and over,(X),(X),14.9,+/-0.9
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",134,18 to 64 years,(X),(X),16.9,+/-1.3
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",135,65 years and over,(X),(X),10.3,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",136,People in families,(X),(X),12.7,+/-1.2
+DP03,5001800US0402,"Congressional District 2 (118th Congress), Arizona",137,Unrelated individuals 15 years and over,(X),(X),30.0,+/-2.4
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",0.5,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",1,Population 16 years and over,"608,803","+/-12,293","608,803",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",2,In labor force,"399,326","+/-10,324",65.6,+/-1.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",3,Civilian labor force,"398,679","+/-10,278",65.5,+/-1.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",4,Employed,"372,614","+/-9,975",61.2,+/-1.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",5,Unemployed,"26,065","+/-3,152",4.3,+/-0.5
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",6,Armed Forces,647,+/-473,0.1,+/-0.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",7,Not in labor force,"209,477","+/-7,830",34.4,+/-1.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",7.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",8,Civilian labor force,"398,679","+/-10,278","398,679",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",9,Unemployment Rate,(X),(X),6.5,+/-0.8
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",9.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",10,Females 16 years and over,"300,661","+/-7,125","300,661",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",11,In labor force,"177,462","+/-6,221",59.0,+/-1.5
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",12,Civilian labor force,"177,462","+/-6,221",59.0,+/-1.5
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",13,Employed,"164,749","+/-6,163",54.8,+/-1.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",13.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",14,Own children of the householder under 6 years,"59,948","+/-5,828","59,948",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",15,All parents in family in labor force,"38,230","+/-4,490",63.8,+/-5.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",15.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",16,Own children of the householder 6 to 17 years,"143,272","+/-8,242","143,272",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",17,All parents in family in labor force,"92,084","+/-8,010",64.3,+/-3.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",17.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",18,Workers 16 years and over,"366,899","+/-9,818","366,899",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",19,"Car, truck, or van -- drove alone","238,130","+/-8,008",64.9,+/-1.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",20,"Car, truck, or van -- carpooled","46,317","+/-4,488",12.6,+/-1.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",21,Public transportation (excluding taxicab),"9,337","+/-2,032",2.5,+/-0.5
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",22,Walked,"4,952","+/-1,205",1.3,+/-0.3
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",23,Other means,"10,003","+/-2,055",2.7,+/-0.5
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",24,Worked from home,"58,160","+/-4,706",15.9,+/-1.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",24.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",25,Mean travel time to work (minutes),25.4,+/-0.6,(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",25.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",25.5,OCCUPATION,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",26,Civilian employed population 16 years and over,"372,614","+/-9,975","372,614",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",27,"Management, business, science, and arts occupations","110,100","+/-5,393",29.5,+/-1.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",28,Service occupations,"72,356","+/-5,782",19.4,+/-1.4
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",29,Sales and office occupations,"77,191","+/-4,711",20.7,+/-1.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",30,"Natural resources, construction, and maintenance occupations","49,289","+/-3,483",13.2,+/-1.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",31,"Production, transportation, and material moving occupations","63,678","+/-5,384",17.1,+/-1.3
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",31.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",31.5,INDUSTRY,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",32,Civilian employed population 16 years and over,"372,614","+/-9,975","372,614",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",33,"Agriculture, forestry, fishing and hunting, and mining","2,315",+/-929,0.6,+/-0.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",34,Construction,"42,447","+/-3,540",11.4,+/-0.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",35,Manufacturing,"31,991","+/-3,835",8.6,+/-1.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",36,Wholesale trade,"8,577","+/-2,350",2.3,+/-0.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",37,Retail trade,"45,554","+/-3,949",12.2,+/-1.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",38,"Transportation and warehousing, and utilities","29,981","+/-3,396",8.0,+/-0.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",39,Information,"3,791","+/-1,132",1.0,+/-0.3
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",40,"Finance and insurance, and real estate and rental and leasing","29,561","+/-3,154",7.9,+/-0.8
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",41,"Professional, scientific, and management, and administrative and waste management services","50,108","+/-3,657",13.4,+/-1.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",42,"Educational services, and health care and social assistance","63,733","+/-4,790",17.1,+/-1.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",43,"Arts, entertainment, and recreation, and accommodation and food services","33,795","+/-4,343",9.1,+/-1.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",44,"Other services, except public administration","17,260","+/-2,373",4.6,+/-0.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",45,Public administration,"13,501","+/-2,601",3.6,+/-0.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",45.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",46,Civilian employed population 16 years and over,"372,614","+/-9,975","372,614",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",47,Private wage and salary workers,"309,961","+/-10,077",83.2,+/-1.3
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",48,Government workers,"41,398","+/-4,541",11.1,+/-1.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",49,Self-employed in own not incorporated business workers,"20,497","+/-2,431",5.5,+/-0.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",50,Unpaid family workers,758,+/-471,0.2,+/-0.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",50.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",51,Total households,"262,399","+/-6,470","262,399",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",52,"Less than $10,000","19,538","+/-2,563",7.4,+/-1.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",53,"$10,000 to $14,999","11,820","+/-2,276",4.5,+/-0.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",54,"$15,000 to $24,999","19,837","+/-2,427",7.6,+/-0.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",55,"$25,000 to $34,999","24,439","+/-3,154",9.3,+/-1.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",56,"$35,000 to $49,999","37,813","+/-3,793",14.4,+/-1.4
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",57,"$50,000 to $74,999","54,999","+/-4,367",21.0,+/-1.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",58,"$75,000 to $99,999","35,140","+/-3,465",13.4,+/-1.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",59,"$100,000 to $149,999","38,036","+/-3,653",14.5,+/-1.4
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",60,"$150,000 to $199,999","11,856","+/-2,045",4.5,+/-0.8
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",61,"$200,000 or more","8,921","+/-1,494",3.4,+/-0.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",62,Median household income (dollars),"56,271","+/-2,787",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",63,Mean household income (dollars),"71,437","+/-1,858",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",63.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",64,With earnings,"224,693","+/-6,156",85.6,+/-1.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",65,Mean earnings (dollars),"71,414","+/-1,953",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",66,With Social Security,"55,090","+/-3,826",21.0,+/-1.5
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",67,Mean Social Security income (dollars),"17,069",+/-874,(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",68,With retirement income,"34,984","+/-3,120",13.3,+/-1.2
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",69,Mean retirement income (dollars),"23,940","+/-4,327",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",69.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",70,With Supplemental Security Income,"16,154","+/-2,551",6.2,+/-1.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",71,Mean Supplemental Security Income (dollars),"10,159",+/-876,(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",72,With cash public assistance income,"9,218","+/-1,884",3.5,+/-0.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",73,Mean cash public assistance income (dollars),"4,403","+/-1,155",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",74,With Food Stamp/SNAP benefits in the past 12 months,"50,653","+/-3,649",19.3,+/-1.4
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",74.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",75,Families,"176,014","+/-4,540","176,014",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",76,"Less than $10,000","10,675","+/-1,962",6.1,+/-1.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",77,"$10,000 to $14,999","5,256","+/-1,520",3.0,+/-0.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",78,"$15,000 to $24,999","11,867","+/-1,857",6.7,+/-1.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",79,"$25,000 to $34,999","16,505","+/-2,297",9.4,+/-1.3
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",80,"$35,000 to $49,999","24,079","+/-3,203",13.7,+/-1.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",81,"$50,000 to $74,999","39,797","+/-3,830",22.6,+/-2.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",82,"$75,000 to $99,999","25,939","+/-2,830",14.7,+/-1.5
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",83,"$100,000 to $149,999","27,701","+/-2,862",15.7,+/-1.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",84,"$150,000 to $199,999","7,691","+/-1,608",4.4,+/-0.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",85,"$200,000 or more","6,504","+/-1,034",3.7,+/-0.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",86,Median family income (dollars),"61,330","+/-1,853",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",87,Mean family income (dollars),"74,874","+/-2,443",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",87.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",88,Per capita income (dollars),"23,752",+/-734,(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",88.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",89,Nonfamily households,"86,385","+/-4,906","86,385",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",90,Median nonfamily income (dollars),"42,351","+/-2,554",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",91,Mean nonfamily income (dollars),"56,096","+/-3,219",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",91.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",92,Median earnings for workers (dollars),"33,175","+/-1,295",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",93,"Median earnings for male full-time, year-round workers (dollars)","42,265","+/-1,163",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",94,"Median earnings for female full-time, year-round workers (dollars)","38,457","+/-1,805",(X),(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",94.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",95,Civilian noninstitutionalized population,"790,176","+/-16,969","790,176",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",96,With health insurance coverage,"629,794","+/-15,281",79.7,+/-1.4
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",97,With private health insurance,"341,269","+/-14,114",43.2,+/-1.8
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",98,With public coverage,"333,718","+/-15,321",42.2,+/-1.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",99,No health insurance coverage,"160,382","+/-12,023",20.3,+/-1.4
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",99.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",100,Civilian noninstitutionalized population under 19 years,"232,637","+/-10,343","232,637",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",101,No health insurance coverage,"28,843","+/-5,224",12.4,+/-2.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",101.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",102,Civilian noninstitutionalized population 19 to 64 years,"491,236","+/-11,028","491,236",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",103,In labor force:,"374,509","+/-10,206","374,509",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",104,Employed:,"351,846","+/-9,662","351,846",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",105,With health insurance coverage,"265,078","+/-9,643",75.3,+/-1.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",106,With private health insurance,"210,663","+/-9,950",59.9,+/-2.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",107,With public coverage,"62,652","+/-4,447",17.8,+/-1.3
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",108,No health insurance coverage,"86,768","+/-6,326",24.7,+/-1.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",109,Unemployed:,"22,663","+/-2,944","22,663",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",110,With health insurance coverage,"15,794","+/-2,389",69.7,+/-5.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",111,With private health insurance,"4,402","+/-1,113",19.4,+/-4.4
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",112,With public coverage,"11,643","+/-2,030",51.4,+/-6.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",113,No health insurance coverage,"6,869","+/-1,556",30.3,+/-5.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",114,Not in labor force:,"116,727","+/-5,181","116,727",(X)
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",115,With health insurance coverage,"80,749","+/-4,526",69.2,+/-2.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",116,With private health insurance,"27,752","+/-2,901",23.8,+/-2.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",117,With public coverage,"56,846","+/-4,561",48.7,+/-3.0
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",118,No health insurance coverage,"35,978","+/-3,923",30.8,+/-2.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",118.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",119,All families,(X),(X),16.3,+/-1.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",120,With related children of the householder under 18 years,(X),(X),23.9,+/-2.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",121,With related children of the householder under 5 years only,(X),(X),19.0,+/-6.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",122,Married couple families,(X),(X),9.4,+/-1.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",123,With related children of the householder under 18 years,(X),(X),12.6,+/-2.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",124,With related children of the householder under 5 years only,(X),(X),7.8,+/-6.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",125,"Families with female householder, no spouse present",(X),(X),29.9,+/-3.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",126,With related children of the householder under 18 years,(X),(X),41.4,+/-4.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",127,With related children of the householder under 5 years only,(X),(X),48.3,+/-16.7
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",127.3,,,,,
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",128,All people,(X),(X),20.1,+/-1.8
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",129,Under 18 years,(X),(X),29.4,+/-3.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",130,Related children of the householder under 18 years,(X),(X),29.0,+/-3.6
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",131,Related children of the householder under 5 years,(X),(X),30.5,+/-4.8
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",132,Related children of the householder 5 to 17 years,(X),(X),28.5,+/-3.9
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",133,18 years and over,(X),(X),16.6,+/-1.3
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",134,18 to 64 years,(X),(X),16.4,+/-1.5
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",135,65 years and over,(X),(X),17.6,+/-2.8
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",136,People in families,(X),(X),18.3,+/-2.1
+DP03,5001800US0403,"Congressional District 3 (118th Congress), Arizona",137,Unrelated individuals 15 years and over,(X),(X),28.2,+/-2.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",0.5,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",1,Population 16 years and over,"657,575","+/-11,831","657,575",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",2,In labor force,"448,478","+/-12,605",68.2,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",3,Civilian labor force,"447,466","+/-12,541",68.0,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",4,Employed,"425,116","+/-12,667",64.6,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",5,Unemployed,"22,350","+/-2,974",3.4,+/-0.5
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",6,Armed Forces,"1,012",+/-719,0.2,+/-0.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",7,Not in labor force,"209,097","+/-6,822",31.8,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",7.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",8,Civilian labor force,"447,466","+/-12,541","447,466",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",9,Unemployment Rate,(X),(X),5.0,+/-0.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",9.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",10,Females 16 years and over,"326,368","+/-7,079","326,368",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",11,In labor force,"199,685","+/-7,429",61.2,+/-1.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",12,Civilian labor force,"199,384","+/-7,359",61.1,+/-1.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",13,Employed,"188,902","+/-7,664",57.9,+/-1.8
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",13.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",14,Own children of the householder under 6 years,"52,275","+/-3,983","52,275",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",15,All parents in family in labor force,"34,629","+/-3,841",66.2,+/-4.8
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",15.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",16,Own children of the householder 6 to 17 years,"103,824","+/-6,958","103,824",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",17,All parents in family in labor force,"72,965","+/-6,883",70.3,+/-3.9
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",17.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",18,Workers 16 years and over,"418,822","+/-12,867","418,822",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",19,"Car, truck, or van -- drove alone","261,406","+/-10,578",62.4,+/-1.4
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",20,"Car, truck, or van -- carpooled","37,483","+/-3,865",8.9,+/-0.9
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",21,Public transportation (excluding taxicab),"3,422","+/-1,099",0.8,+/-0.3
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",22,Walked,"7,149","+/-2,031",1.7,+/-0.5
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",23,Other means,"9,852","+/-1,879",2.4,+/-0.4
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",24,Worked from home,"99,510","+/-5,209",23.8,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",24.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",25,Mean travel time to work (minutes),22.0,+/-0.6,(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",25.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",25.5,OCCUPATION,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",26,Civilian employed population 16 years and over,"425,116","+/-12,667","425,116",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",27,"Management, business, science, and arts occupations","185,094","+/-7,471",43.5,+/-1.5
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",28,Service occupations,"65,760","+/-5,730",15.5,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",29,Sales and office occupations,"101,550","+/-6,477",23.9,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",30,"Natural resources, construction, and maintenance occupations","30,699","+/-3,475",7.2,+/-0.8
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",31,"Production, transportation, and material moving occupations","42,013","+/-3,821",9.9,+/-0.9
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",31.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",31.5,INDUSTRY,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",32,Civilian employed population 16 years and over,"425,116","+/-12,667","425,116",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",33,"Agriculture, forestry, fishing and hunting, and mining","2,101",+/-801,0.5,+/-0.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",34,Construction,"29,834","+/-3,363",7.0,+/-0.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",35,Manufacturing,"43,258","+/-3,894",10.2,+/-0.9
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",36,Wholesale trade,"8,174","+/-1,740",1.9,+/-0.4
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",37,Retail trade,"53,256","+/-4,559",12.5,+/-1.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",38,"Transportation and warehousing, and utilities","21,872","+/-2,367",5.1,+/-0.5
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",39,Information,"6,504","+/-1,569",1.5,+/-0.4
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",40,"Finance and insurance, and real estate and rental and leasing","41,990","+/-3,627",9.9,+/-0.8
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",41,"Professional, scientific, and management, and administrative and waste management services","58,016","+/-4,752",13.6,+/-1.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",42,"Educational services, and health care and social assistance","86,296","+/-5,678",20.3,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",43,"Arts, entertainment, and recreation, and accommodation and food services","42,976","+/-4,503",10.1,+/-1.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",44,"Other services, except public administration","17,558","+/-2,674",4.1,+/-0.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",45,Public administration,"13,281","+/-2,037",3.1,+/-0.5
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",45.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",46,Civilian employed population 16 years and over,"425,116","+/-12,667","425,116",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",47,Private wage and salary workers,"358,254","+/-11,958",84.3,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",48,Government workers,"47,449","+/-4,329",11.2,+/-1.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",49,Self-employed in own not incorporated business workers,"18,672","+/-2,361",4.4,+/-0.5
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",50,Unpaid family workers,741,+/-462,0.2,+/-0.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",50.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",51,Total households,"326,603","+/-5,476","326,603",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",52,"Less than $10,000","17,001","+/-2,177",5.2,+/-0.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",53,"$10,000 to $14,999","8,434","+/-1,649",2.6,+/-0.5
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",54,"$15,000 to $24,999","21,383","+/-2,669",6.5,+/-0.8
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",55,"$25,000 to $34,999","26,043","+/-2,641",8.0,+/-0.8
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",56,"$35,000 to $49,999","40,031","+/-4,134",12.3,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",57,"$50,000 to $74,999","61,435","+/-3,551",18.8,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",58,"$75,000 to $99,999","46,883","+/-3,290",14.4,+/-0.9
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",59,"$100,000 to $149,999","57,844","+/-3,965",17.7,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",60,"$150,000 to $199,999","22,789","+/-2,366",7.0,+/-0.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",61,"$200,000 or more","24,760","+/-2,290",7.6,+/-0.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",62,Median household income (dollars),"70,204","+/-2,111",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",63,Mean household income (dollars),"91,632","+/-2,549",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",63.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",64,With earnings,"268,106","+/-6,161",82.1,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",65,Mean earnings (dollars),"91,549","+/-3,016",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",66,With Social Security,"82,618","+/-4,036",25.3,+/-1.3
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",67,Mean Social Security income (dollars),"21,552",+/-725,(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",68,With retirement income,"63,984","+/-3,844",19.6,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",69,Mean retirement income (dollars),"29,144","+/-4,451",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",69.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",70,With Supplemental Security Income,"9,096","+/-1,480",2.8,+/-0.5
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",71,Mean Supplemental Security Income (dollars),"9,962","+/-1,542",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",72,With cash public assistance income,"11,131","+/-2,105",3.4,+/-0.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",73,Mean cash public assistance income (dollars),"5,137","+/-1,014",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",74,With Food Stamp/SNAP benefits in the past 12 months,"28,560","+/-2,793",8.7,+/-0.9
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",74.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",75,Families,"188,796","+/-5,627","188,796",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",76,"Less than $10,000","7,428","+/-1,586",3.9,+/-0.8
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",77,"$10,000 to $14,999","3,701","+/-1,118",2.0,+/-0.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",78,"$15,000 to $24,999","7,549","+/-1,625",4.0,+/-0.9
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",79,"$25,000 to $34,999","11,919","+/-2,119",6.3,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",80,"$35,000 to $49,999","20,403","+/-2,632",10.8,+/-1.3
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",81,"$50,000 to $74,999","32,050","+/-2,807",17.0,+/-1.3
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",82,"$75,000 to $99,999","30,547","+/-2,549",16.2,+/-1.3
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",83,"$100,000 to $149,999","40,813","+/-3,586",21.6,+/-1.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",84,"$150,000 to $199,999","16,178","+/-1,949",8.6,+/-1.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",85,"$200,000 or more","18,208","+/-1,734",9.6,+/-1.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",86,Median family income (dollars),"83,799","+/-3,004",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",87,Mean family income (dollars),"104,634","+/-3,329",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",87.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",88,Per capita income (dollars),"37,374","+/-1,131",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",88.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",89,Nonfamily households,"137,807","+/-6,065","137,807",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",90,Median nonfamily income (dollars),"51,178","+/-1,483",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",91,Mean nonfamily income (dollars),"69,709","+/-4,464",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",91.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",92,Median earnings for workers (dollars),"40,475",+/-614,(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",93,"Median earnings for male full-time, year-round workers (dollars)","52,789","+/-2,250",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",94,"Median earnings for female full-time, year-round workers (dollars)","46,354","+/-1,595",(X),(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",94.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",95,Civilian noninstitutionalized population,"801,406","+/-14,270","801,406",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",96,With health insurance coverage,"721,209","+/-13,465",90.0,+/-0.8
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",97,With private health insurance,"548,477","+/-16,538",68.4,+/-1.4
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",98,With public coverage,"254,014","+/-11,690",31.7,+/-1.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",99,No health insurance coverage,"80,197","+/-7,077",10.0,+/-0.8
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",99.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",100,Civilian noninstitutionalized population under 19 years,"177,042","+/-9,497","177,042",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",101,No health insurance coverage,"13,457","+/-2,982",7.6,+/-1.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",101.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",102,Civilian noninstitutionalized population 19 to 64 years,"510,413","+/-12,324","510,413",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",103,In labor force:,"413,498","+/-12,115","413,498",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",104,Employed:,"393,057","+/-12,022","393,057",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",105,With health insurance coverage,"347,212","+/-10,854",88.3,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",106,With private health insurance,"317,645","+/-11,057",80.8,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",107,With public coverage,"38,887","+/-4,373",9.9,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",108,No health insurance coverage,"45,845","+/-4,834",11.7,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",109,Unemployed:,"20,441","+/-2,899","20,441",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",110,With health insurance coverage,"16,702","+/-2,323",81.7,+/-6.3
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",111,With private health insurance,"8,325","+/-1,597",40.7,+/-7.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",112,With public coverage,"9,106","+/-1,795",44.5,+/-5.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",113,No health insurance coverage,"3,739","+/-1,527",18.3,+/-6.3
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",114,Not in labor force:,"96,915","+/-5,319","96,915",(X)
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",115,With health insurance coverage,"80,811","+/-4,837",83.4,+/-2.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",116,With private health insurance,"51,424","+/-4,016",53.1,+/-3.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",117,With public coverage,"35,423","+/-3,710",36.6,+/-3.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",118,No health insurance coverage,"16,104","+/-2,293",16.6,+/-2.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",118.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",119,All families,(X),(X),8.4,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",120,With related children of the householder under 18 years,(X),(X),12.5,+/-2.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",121,With related children of the householder under 5 years only,(X),(X),5.6,+/-2.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",122,Married couple families,(X),(X),4.9,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",123,With related children of the householder under 18 years,(X),(X),5.8,+/-2.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",124,With related children of the householder under 5 years only,(X),(X),2.7,+/-2.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",125,"Families with female householder, no spouse present",(X),(X),18.5,+/-3.4
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",126,With related children of the householder under 18 years,(X),(X),26.6,+/-4.9
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",127,With related children of the householder under 5 years only,(X),(X),16.9,+/-9.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",127.3,,,,,
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",128,All people,(X),(X),12.3,+/-1.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",129,Under 18 years,(X),(X),15.4,+/-2.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",130,Related children of the householder under 18 years,(X),(X),14.7,+/-2.6
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",131,Related children of the householder under 5 years,(X),(X),16.0,+/-4.2
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",132,Related children of the householder 5 to 17 years,(X),(X),14.2,+/-2.7
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",133,18 years and over,(X),(X),11.5,+/-1.0
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",134,18 to 64 years,(X),(X),11.7,+/-1.1
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",135,65 years and over,(X),(X),10.4,+/-1.5
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",136,People in families,(X),(X),9.1,+/-1.4
+DP03,5001800US0404,"Congressional District 4 (118th Congress), Arizona",137,Unrelated individuals 15 years and over,(X),(X),20.6,+/-1.6
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",0.5,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",1,Population 16 years and over,"627,015","+/-13,570","627,015",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",2,In labor force,"411,568","+/-11,414",65.6,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",3,Civilian labor force,"411,133","+/-11,424",65.6,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",4,Employed,"394,989","+/-11,237",63.0,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",5,Unemployed,"16,144","+/-2,391",2.6,+/-0.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",6,Armed Forces,435,+/-458,0.1,+/-0.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",7,Not in labor force,"215,447","+/-7,512",34.4,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",7.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",8,Civilian labor force,"411,133","+/-11,424","411,133",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",9,Unemployment Rate,(X),(X),3.9,+/-0.6
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",9.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",10,Females 16 years and over,"315,218","+/-7,589","315,218",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",11,In labor force,"187,024","+/-6,743",59.3,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",12,Civilian labor force,"186,977","+/-6,734",59.3,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",13,Employed,"179,609","+/-6,622",57.0,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",13.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",14,Own children of the householder under 6 years,"58,340","+/-4,393","58,340",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",15,All parents in family in labor force,"39,119","+/-4,520",67.1,+/-5.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",15.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",16,Own children of the householder 6 to 17 years,"144,359","+/-6,815","144,359",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",17,All parents in family in labor force,"94,676","+/-5,845",65.6,+/-3.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",17.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",18,Workers 16 years and over,"387,848","+/-11,013","387,848",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",19,"Car, truck, or van -- drove alone","244,331","+/-8,257",63.0,+/-1.7
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",20,"Car, truck, or van -- carpooled","27,055","+/-4,055",7.0,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",21,Public transportation (excluding taxicab),"1,012",+/-749,0.3,+/-0.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",22,Walked,"4,809","+/-1,453",1.2,+/-0.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",23,Other means,"6,329","+/-1,476",1.6,+/-0.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",24,Worked from home,"104,312","+/-6,745",26.9,+/-1.5
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",24.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",25,Mean travel time to work (minutes),27.4,+/-0.9,(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",25.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",25.5,OCCUPATION,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",26,Civilian employed population 16 years and over,"394,989","+/-11,237","394,989",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",27,"Management, business, science, and arts occupations","189,313","+/-6,889",47.9,+/-1.5
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",28,Service occupations,"50,820","+/-4,731",12.9,+/-1.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",29,Sales and office occupations,"90,347","+/-5,929",22.9,+/-1.3
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",30,"Natural resources, construction, and maintenance occupations","28,063","+/-3,385",7.1,+/-0.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",31,"Production, transportation, and material moving occupations","36,446","+/-4,376",9.2,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",31.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",31.5,INDUSTRY,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",32,Civilian employed population 16 years and over,"394,989","+/-11,237","394,989",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",33,"Agriculture, forestry, fishing and hunting, and mining","2,905","+/-1,105",0.7,+/-0.3
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",34,Construction,"27,446","+/-3,648",6.9,+/-0.9
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",35,Manufacturing,"42,710","+/-3,903",10.8,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",36,Wholesale trade,"8,017","+/-1,635",2.0,+/-0.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",37,Retail trade,"48,257","+/-4,569",12.2,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",38,"Transportation and warehousing, and utilities","19,975","+/-3,115",5.1,+/-0.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",39,Information,"7,642","+/-1,656",1.9,+/-0.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",40,"Finance and insurance, and real estate and rental and leasing","39,475","+/-4,413",10.0,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",41,"Professional, scientific, and management, and administrative and waste management services","48,725","+/-4,391",12.3,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",42,"Educational services, and health care and social assistance","88,281","+/-5,304",22.4,+/-1.3
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",43,"Arts, entertainment, and recreation, and accommodation and food services","31,236","+/-3,803",7.9,+/-0.9
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",44,"Other services, except public administration","13,494","+/-2,098",3.4,+/-0.5
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",45,Public administration,"16,826","+/-2,419",4.3,+/-0.6
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",45.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",46,Civilian employed population 16 years and over,"394,989","+/-11,237","394,989",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",47,Private wage and salary workers,"325,000","+/-10,791",82.3,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",48,Government workers,"48,803","+/-4,303",12.4,+/-1.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",49,Self-employed in own not incorporated business workers,"20,453","+/-3,394",5.2,+/-0.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",50,Unpaid family workers,733,+/-625,0.2,+/-0.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",50.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",51,Total households,"290,145","+/-5,881","290,145",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",52,"Less than $10,000","6,934","+/-1,334",2.4,+/-0.5
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",53,"$10,000 to $14,999","4,427","+/-1,028",1.5,+/-0.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",54,"$15,000 to $24,999","11,171","+/-1,938",3.9,+/-0.7
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",55,"$25,000 to $34,999","15,320","+/-2,146",5.3,+/-0.7
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",56,"$35,000 to $49,999","26,417","+/-2,834",9.1,+/-0.9
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",57,"$50,000 to $74,999","44,249","+/-3,673",15.3,+/-1.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",58,"$75,000 to $99,999","41,537","+/-3,531",14.3,+/-1.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",59,"$100,000 to $149,999","66,961","+/-4,045",23.1,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",60,"$150,000 to $199,999","33,700","+/-3,087",11.6,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",61,"$200,000 or more","39,429","+/-3,447",13.6,+/-1.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",62,Median household income (dollars),"97,042","+/-3,326",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",63,Mean household income (dollars),"120,559","+/-3,848",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",63.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",64,With earnings,"232,939","+/-5,432",80.3,+/-0.9
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",65,Mean earnings (dollars),"124,701","+/-4,566",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",66,With Social Security,"86,546","+/-4,174",29.8,+/-1.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",67,Mean Social Security income (dollars),"24,071",+/-769,(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",68,With retirement income,"73,676","+/-4,275",25.4,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",69,Mean retirement income (dollars),"29,373","+/-1,857",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",69.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",70,With Supplemental Security Income,"7,010","+/-1,347",2.4,+/-0.5
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",71,Mean Supplemental Security Income (dollars),"11,694","+/-1,489",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",72,With cash public assistance income,"6,786","+/-1,606",2.3,+/-0.6
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",73,Mean cash public assistance income (dollars),"3,759",+/-984,(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",74,With Food Stamp/SNAP benefits in the past 12 months,"14,648","+/-2,174",5.0,+/-0.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",74.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",75,Families,"217,829","+/-6,179","217,829",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",76,"Less than $10,000","3,215",+/-969,1.5,+/-0.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",77,"$10,000 to $14,999","2,048",+/-856,0.9,+/-0.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",78,"$15,000 to $24,999","5,746","+/-1,283",2.6,+/-0.6
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",79,"$25,000 to $34,999","7,659","+/-1,430",3.5,+/-0.7
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",80,"$35,000 to $49,999","16,135","+/-2,264",7.4,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",81,"$50,000 to $74,999","29,326","+/-2,889",13.5,+/-1.3
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",82,"$75,000 to $99,999","32,199","+/-3,156",14.8,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",83,"$100,000 to $149,999","57,267","+/-3,702",26.3,+/-1.6
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",84,"$150,000 to $199,999","29,336","+/-3,091",13.5,+/-1.3
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",85,"$200,000 or more","34,898","+/-3,142",16.0,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",86,Median family income (dollars),"107,474","+/-2,285",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",87,Mean family income (dollars),"132,259","+/-4,026",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",87.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",88,Per capita income (dollars),"43,265","+/-1,385",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",88.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",89,Nonfamily households,"72,316","+/-5,290","72,316",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",90,Median nonfamily income (dollars),"54,454","+/-4,519",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",91,Mean nonfamily income (dollars),"77,022","+/-8,794",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",91.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",92,Median earnings for workers (dollars),"50,489",+/-878,(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",93,"Median earnings for male full-time, year-round workers (dollars)","76,388","+/-2,963",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",94,"Median earnings for female full-time, year-round workers (dollars)","56,463","+/-1,828",(X),(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",94.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",95,Civilian noninstitutionalized population,"812,370","+/-15,370","812,370",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",96,With health insurance coverage,"755,152","+/-14,574",93.0,+/-0.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",97,With private health insurance,"630,858","+/-16,035",77.7,+/-1.3
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",98,With public coverage,"216,357","+/-9,248",26.6,+/-1.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",99,No health insurance coverage,"57,218","+/-7,177",7.0,+/-0.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",99.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",100,Civilian noninstitutionalized population under 19 years,"223,174","+/-9,257","223,174",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",101,No health insurance coverage,"11,767","+/-3,190",5.3,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",101.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",102,Civilian noninstitutionalized population 19 to 64 years,"463,888","+/-12,175","463,888",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",103,In labor force:,"378,684","+/-11,099","378,684",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",104,Employed:,"365,402","+/-10,856","365,402",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",105,With health insurance coverage,"331,683","+/-9,775",90.8,+/-1.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",106,With private health insurance,"315,339","+/-9,650",86.3,+/-1.3
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",107,With public coverage,"27,760","+/-3,515",7.6,+/-1.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",108,No health insurance coverage,"33,719","+/-4,636",9.2,+/-1.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",109,Unemployed:,"13,282","+/-2,250","13,282",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",110,With health insurance coverage,"9,535","+/-1,832",71.8,+/-7.5
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",111,With private health insurance,"6,762","+/-1,490",50.9,+/-7.7
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",112,With public coverage,"3,401","+/-1,170",25.6,+/-7.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",113,No health insurance coverage,"3,747","+/-1,219",28.2,+/-7.5
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",114,Not in labor force:,"85,204","+/-4,475","85,204",(X)
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",115,With health insurance coverage,"77,974","+/-4,658",91.5,+/-2.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",116,With private health insurance,"59,386","+/-4,237",69.7,+/-3.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",117,With public coverage,"23,913","+/-2,914",28.1,+/-2.9
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",118,No health insurance coverage,"7,230","+/-1,774",8.5,+/-2.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",118.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",119,All families,(X),(X),4.2,+/-0.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",120,With related children of the householder under 18 years,(X),(X),5.7,+/-1.3
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",121,With related children of the householder under 5 years only,(X),(X),5.6,+/-3.3
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",122,Married couple families,(X),(X),2.5,+/-0.7
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",123,With related children of the householder under 18 years,(X),(X),2.4,+/-1.1
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",124,With related children of the householder under 5 years only,(X),(X),1.7,+/-2.0
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",125,"Families with female householder, no spouse present",(X),(X),13.6,+/-3.5
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",126,With related children of the householder under 18 years,(X),(X),18.9,+/-5.5
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",127,With related children of the householder under 5 years only,(X),(X),15.5,+/-16.2
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",127.3,,,,,
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",128,All people,(X),(X),5.8,+/-0.7
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",129,Under 18 years,(X),(X),6.3,+/-1.6
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",130,Related children of the householder under 18 years,(X),(X),5.8,+/-1.6
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",131,Related children of the householder under 5 years,(X),(X),6.0,+/-2.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",132,Related children of the householder 5 to 17 years,(X),(X),5.7,+/-1.6
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",133,18 years and over,(X),(X),5.6,+/-0.7
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",134,18 to 64 years,(X),(X),5.2,+/-0.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",135,65 years and over,(X),(X),7.1,+/-1.4
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",136,People in families,(X),(X),4.0,+/-0.8
+DP03,5001800US0405,"Congressional District 5 (118th Congress), Arizona",137,Unrelated individuals 15 years and over,(X),(X),17.1,+/-2.5
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",0.5,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",1,Population 16 years and over,"662,893","+/-8,515","662,893",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",2,In labor force,"366,959","+/-8,464",55.4,+/-0.9
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",3,Civilian labor force,"356,039","+/-8,467",53.7,+/-0.9
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",4,Employed,"337,409","+/-8,098",50.9,+/-0.9
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",5,Unemployed,"18,630","+/-2,690",2.8,+/-0.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",6,Armed Forces,"10,920","+/-2,023",1.6,+/-0.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",7,Not in labor force,"295,934","+/-6,125",44.6,+/-0.9
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",7.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",8,Civilian labor force,"356,039","+/-8,467","356,039",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",9,Unemployment Rate,(X),(X),5.2,+/-0.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",9.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",10,Females 16 years and over,"331,639","+/-5,964","331,639",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",11,In labor force,"168,328","+/-5,940",50.8,+/-1.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",12,Civilian labor force,"166,458","+/-5,858",50.2,+/-1.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",13,Employed,"156,616","+/-5,292",47.2,+/-1.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",13.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",14,Own children of the householder under 6 years,"48,195","+/-3,981","48,195",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",15,All parents in family in labor force,"30,919","+/-4,173",64.2,+/-5.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",15.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",16,Own children of the householder 6 to 17 years,"103,398","+/-6,722","103,398",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",17,All parents in family in labor force,"70,425","+/-5,646",68.1,+/-4.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",17.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",18,Workers 16 years and over,"343,672","+/-8,100","343,672",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",19,"Car, truck, or van -- drove alone","239,380","+/-7,291",69.7,+/-1.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",20,"Car, truck, or van -- carpooled","28,653","+/-3,787",8.3,+/-1.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",21,Public transportation (excluding taxicab),"3,276","+/-1,197",1.0,+/-0.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",22,Walked,"4,340","+/-1,595",1.3,+/-0.5
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",23,Other means,"5,746","+/-1,258",1.7,+/-0.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",24,Worked from home,"62,277","+/-5,138",18.1,+/-1.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",24.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",25,Mean travel time to work (minutes),24.3,+/-0.8,(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",25.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",25.5,OCCUPATION,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",26,Civilian employed population 16 years and over,"337,409","+/-8,098","337,409",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",27,"Management, business, science, and arts occupations","155,107","+/-6,556",46.0,+/-1.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",28,Service occupations,"60,310","+/-4,903",17.9,+/-1.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",29,Sales and office occupations,"72,291","+/-5,356",21.4,+/-1.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",30,"Natural resources, construction, and maintenance occupations","25,291","+/-2,723",7.5,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",31,"Production, transportation, and material moving occupations","24,410","+/-2,727",7.2,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",31.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",31.5,INDUSTRY,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",32,Civilian employed population 16 years and over,"337,409","+/-8,098","337,409",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",33,"Agriculture, forestry, fishing and hunting, and mining","7,883","+/-1,971",2.3,+/-0.6
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",34,Construction,"16,989","+/-2,087",5.0,+/-0.6
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",35,Manufacturing,"23,383","+/-2,593",6.9,+/-0.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",36,Wholesale trade,"6,623","+/-1,567",2.0,+/-0.5
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",37,Retail trade,"37,138","+/-4,243",11.0,+/-1.2
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",38,"Transportation and warehousing, and utilities","15,705","+/-2,577",4.7,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",39,Information,"5,466","+/-1,480",1.6,+/-0.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",40,"Finance and insurance, and real estate and rental and leasing","21,252","+/-2,590",6.3,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",41,"Professional, scientific, and management, and administrative and waste management services","44,195","+/-3,868",13.1,+/-1.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",42,"Educational services, and health care and social assistance","87,967","+/-5,659",26.1,+/-1.6
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",43,"Arts, entertainment, and recreation, and accommodation and food services","29,885","+/-3,542",8.9,+/-1.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",44,"Other services, except public administration","16,592","+/-2,135",4.9,+/-0.6
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",45,Public administration,"24,331","+/-2,502",7.2,+/-0.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",45.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",46,Civilian employed population 16 years and over,"337,409","+/-8,098","337,409",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",47,Private wage and salary workers,"251,875","+/-8,427",74.6,+/-1.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",48,Government workers,"63,907","+/-4,406",18.9,+/-1.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",49,Self-employed in own not incorporated business workers,"21,515","+/-2,598",6.4,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",50,Unpaid family workers,112,+/-143,0.0,+/-0.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",50.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",51,Total households,"339,378","+/-5,702","339,378",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",52,"Less than $10,000","19,494","+/-2,387",5.7,+/-0.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",53,"$10,000 to $14,999","10,728","+/-1,666",3.2,+/-0.5
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",54,"$15,000 to $24,999","23,565","+/-2,798",6.9,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",55,"$25,000 to $34,999","27,444","+/-3,067",8.1,+/-0.9
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",56,"$35,000 to $49,999","43,579","+/-3,343",12.8,+/-1.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",57,"$50,000 to $74,999","60,056","+/-3,625",17.7,+/-1.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",58,"$75,000 to $99,999","47,629","+/-3,900",14.0,+/-1.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",59,"$100,000 to $149,999","55,913","+/-3,776",16.5,+/-1.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",60,"$150,000 to $199,999","26,024","+/-2,603",7.7,+/-0.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",61,"$200,000 or more","24,946","+/-2,338",7.4,+/-0.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",62,Median household income (dollars),"68,146","+/-2,448",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",63,Mean household income (dollars),"89,832","+/-2,405",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",63.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",64,With earnings,"231,172","+/-6,003",68.1,+/-1.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",65,Mean earnings (dollars),"86,676","+/-2,412",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",66,With Social Security,"136,743","+/-4,273",40.3,+/-1.2
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",67,Mean Social Security income (dollars),"24,337",+/-571,(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",68,With retirement income,"114,916","+/-3,744",33.9,+/-1.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",69,Mean retirement income (dollars),"36,586","+/-4,168",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",69.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",70,With Supplemental Security Income,"12,399","+/-1,721",3.7,+/-0.5
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",71,Mean Supplemental Security Income (dollars),"9,835",+/-969,(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",72,With cash public assistance income,"9,240","+/-1,648",2.7,+/-0.5
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",73,Mean cash public assistance income (dollars),"5,031","+/-1,076",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",74,With Food Stamp/SNAP benefits in the past 12 months,"31,976","+/-2,922",9.4,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",74.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",75,Families,"211,315","+/-5,839","211,315",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",76,"Less than $10,000","7,834","+/-1,820",3.7,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",77,"$10,000 to $14,999","3,126",+/-944,1.5,+/-0.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",78,"$15,000 to $24,999","7,711","+/-1,518",3.6,+/-0.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",79,"$25,000 to $34,999","11,642","+/-1,975",5.5,+/-0.9
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",80,"$35,000 to $49,999","22,879","+/-2,353",10.8,+/-1.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",81,"$50,000 to $74,999","36,780","+/-3,125",17.4,+/-1.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",82,"$75,000 to $99,999","34,550","+/-2,881",16.3,+/-1.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",83,"$100,000 to $149,999","43,947","+/-3,539",20.8,+/-1.6
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",84,"$150,000 to $199,999","22,224","+/-2,563",10.5,+/-1.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",85,"$200,000 or more","20,622","+/-2,249",9.8,+/-1.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",86,Median family income (dollars),"85,703","+/-2,747",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",87,Mean family income (dollars),"106,719","+/-3,122",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",87.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",88,Per capita income (dollars),"38,248","+/-1,027",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",88.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",89,Nonfamily households,"128,063","+/-5,571","128,063",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",90,Median nonfamily income (dollars),"41,615","+/-1,885",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",91,Mean nonfamily income (dollars),"58,142","+/-4,067",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",91.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",92,Median earnings for workers (dollars),"38,675","+/-1,538",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",93,"Median earnings for male full-time, year-round workers (dollars)","60,274","+/-2,686",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",94,"Median earnings for female full-time, year-round workers (dollars)","46,609","+/-2,220",(X),(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",94.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",95,Civilian noninstitutionalized population,"780,434","+/-13,805","780,434",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",96,With health insurance coverage,"728,914","+/-14,484",93.4,+/-0.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",97,With private health insurance,"534,014","+/-13,932",68.4,+/-1.2
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",98,With public coverage,"345,912","+/-11,205",44.3,+/-1.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",99,No health insurance coverage,"51,520","+/-5,791",6.6,+/-0.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",99.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",100,Civilian noninstitutionalized population under 19 years,"164,243","+/-8,153","164,243",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",101,No health insurance coverage,"8,505","+/-2,205",5.2,+/-1.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",101.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",102,Civilian noninstitutionalized population 19 to 64 years,"418,755","+/-8,524","418,755",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",103,In labor force:,"318,332","+/-8,059","318,332",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",104,Employed:,"301,759","+/-7,803","301,759",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",105,With health insurance coverage,"272,537","+/-7,595",90.3,+/-1.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",106,With private health insurance,"244,738","+/-7,350",81.1,+/-1.4
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",107,With public coverage,"45,507","+/-4,078",15.1,+/-1.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",108,No health insurance coverage,"29,222","+/-3,999",9.7,+/-1.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",109,Unemployed:,"16,573","+/-2,565","16,573",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",110,With health insurance coverage,"12,996","+/-2,422",78.4,+/-5.5
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",111,With private health insurance,"5,745","+/-1,424",34.7,+/-6.5
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",112,With public coverage,"7,966","+/-1,783",48.1,+/-6.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",113,No health insurance coverage,"3,577",+/-935,21.6,+/-5.5
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",114,Not in labor force:,"100,423","+/-4,606","100,423",(X)
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",115,With health insurance coverage,"90,963","+/-4,511",90.6,+/-1.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",116,With private health insurance,"57,012","+/-3,707",56.8,+/-3.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",117,With public coverage,"42,301","+/-3,973",42.1,+/-3.2
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",118,No health insurance coverage,"9,460","+/-1,892",9.4,+/-1.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",118.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",119,All families,(X),(X),7.0,+/-1.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",120,With related children of the householder under 18 years,(X),(X),13.0,+/-2.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",121,With related children of the householder under 5 years only,(X),(X),10.1,+/-5.3
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",122,Married couple families,(X),(X),3.3,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",123,With related children of the householder under 18 years,(X),(X),5.3,+/-1.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",124,With related children of the householder under 5 years only,(X),(X),9.6,+/-6.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",125,"Families with female householder, no spouse present",(X),(X),25.8,+/-5.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",126,With related children of the householder under 18 years,(X),(X),37.8,+/-7.1
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",127,With related children of the householder under 5 years only,(X),(X),14.0,+/-12.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",127.3,,,,,
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",128,All people,(X),(X),10.9,+/-1.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",129,Under 18 years,(X),(X),15.7,+/-2.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",130,Related children of the householder under 18 years,(X),(X),15.4,+/-2.7
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",131,Related children of the householder under 5 years,(X),(X),13.9,+/-3.2
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",132,Related children of the householder 5 to 17 years,(X),(X),16.0,+/-3.2
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",133,18 years and over,(X),(X),9.8,+/-0.8
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",134,18 to 64 years,(X),(X),10.9,+/-1.0
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",135,65 years and over,(X),(X),7.2,+/-0.9
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",136,People in families,(X),(X),8.0,+/-1.2
+DP03,5001800US0406,"Congressional District 6 (118th Congress), Arizona",137,Unrelated individuals 15 years and over,(X),(X),21.2,+/-1.9
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",0.5,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",1,Population 16 years and over,"625,543","+/-11,642","625,543",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",2,In labor force,"371,464","+/-8,814",59.4,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",3,Civilian labor force,"368,743","+/-8,485",58.9,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",4,Employed,"337,665","+/-8,564",54.0,+/-1.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",5,Unemployed,"31,078","+/-4,009",5.0,+/-0.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",6,Armed Forces,"2,721","+/-1,210",0.4,+/-0.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",7,Not in labor force,"254,079","+/-8,877",40.6,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",7.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",8,Civilian labor force,"368,743","+/-8,485","368,743",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",9,Unemployment Rate,(X),(X),8.4,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",9.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",10,Females 16 years and over,"316,747","+/-6,871","316,747",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",11,In labor force,"176,453","+/-5,483",55.7,+/-1.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",12,Civilian labor force,"176,255","+/-5,465",55.6,+/-1.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",13,Employed,"160,911","+/-5,112",50.8,+/-1.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",13.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",14,Own children of the householder under 6 years,"54,429","+/-5,262","54,429",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",15,All parents in family in labor force,"34,148","+/-3,973",62.7,+/-4.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",15.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",16,Own children of the householder 6 to 17 years,"124,232","+/-6,962","124,232",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",17,All parents in family in labor force,"79,137","+/-6,087",63.7,+/-3.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",17.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",18,Workers 16 years and over,"332,091","+/-8,370","332,091",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",19,"Car, truck, or van -- drove alone","233,051","+/-7,831",70.2,+/-1.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",20,"Car, truck, or van -- carpooled","34,581","+/-4,197",10.4,+/-1.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",21,Public transportation (excluding taxicab),"4,485","+/-1,568",1.4,+/-0.5
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",22,Walked,"6,967","+/-1,332",2.1,+/-0.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",23,Other means,"6,089","+/-1,481",1.8,+/-0.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",24,Worked from home,"46,918","+/-4,513",14.1,+/-1.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",24.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",25,Mean travel time to work (minutes),23.7,+/-0.9,(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",25.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",25.5,OCCUPATION,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",26,Civilian employed population 16 years and over,"337,665","+/-8,564","337,665",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",27,"Management, business, science, and arts occupations","104,586","+/-5,472",31.0,+/-1.5
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",28,Service occupations,"71,782","+/-4,828",21.3,+/-1.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",29,Sales and office occupations,"72,567","+/-4,602",21.5,+/-1.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",30,"Natural resources, construction, and maintenance occupations","39,505","+/-4,059",11.7,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",31,"Production, transportation, and material moving occupations","49,225","+/-3,735",14.6,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",31.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",31.5,INDUSTRY,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",32,Civilian employed population 16 years and over,"337,665","+/-8,564","337,665",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",33,"Agriculture, forestry, fishing and hunting, and mining","7,524","+/-1,854",2.2,+/-0.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",34,Construction,"27,227","+/-3,890",8.1,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",35,Manufacturing,"22,184","+/-2,575",6.6,+/-0.8
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",36,Wholesale trade,"8,306","+/-2,348",2.5,+/-0.7
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",37,Retail trade,"43,081","+/-4,159",12.8,+/-1.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",38,"Transportation and warehousing, and utilities","19,644","+/-2,716",5.8,+/-0.8
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",39,Information,"3,795","+/-1,117",1.1,+/-0.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",40,"Finance and insurance, and real estate and rental and leasing","18,013","+/-2,846",5.3,+/-0.8
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",41,"Professional, scientific, and management, and administrative and waste management services","33,931","+/-3,482",10.0,+/-1.0
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",42,"Educational services, and health care and social assistance","79,195","+/-6,006",23.5,+/-1.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",43,"Arts, entertainment, and recreation, and accommodation and food services","38,497","+/-3,773",11.4,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",44,"Other services, except public administration","15,616","+/-2,640",4.6,+/-0.8
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",45,Public administration,"20,652","+/-3,040",6.1,+/-0.9
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",45.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",46,Civilian employed population 16 years and over,"337,665","+/-8,564","337,665",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",47,Private wage and salary workers,"257,224","+/-8,526",76.2,+/-1.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",48,Government workers,"58,709","+/-4,821",17.4,+/-1.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",49,Self-employed in own not incorporated business workers,"20,636","+/-2,690",6.1,+/-0.8
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",50,Unpaid family workers,"1,096",+/-694,0.3,+/-0.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",50.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",51,Total households,"284,660","+/-5,734","284,660",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",52,"Less than $10,000","23,572","+/-2,924",8.3,+/-1.0
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",53,"$10,000 to $14,999","16,422","+/-2,488",5.8,+/-0.8
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",54,"$15,000 to $24,999","28,438","+/-2,955",10.0,+/-1.0
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",55,"$25,000 to $34,999","30,142","+/-3,095",10.6,+/-1.0
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",56,"$35,000 to $49,999","42,247","+/-3,504",14.8,+/-1.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",57,"$50,000 to $74,999","50,801","+/-3,566",17.8,+/-1.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",58,"$75,000 to $99,999","35,082","+/-3,059",12.3,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",59,"$100,000 to $149,999","36,412","+/-3,313",12.8,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",60,"$150,000 to $199,999","10,928","+/-1,672",3.8,+/-0.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",61,"$200,000 or more","10,616","+/-1,600",3.7,+/-0.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",62,Median household income (dollars),"50,668","+/-2,074",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",63,Mean household income (dollars),"67,549","+/-2,144",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",63.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",64,With earnings,"222,295","+/-5,743",78.1,+/-1.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",65,Mean earnings (dollars),"67,632","+/-2,480",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",66,With Social Security,"90,204","+/-4,930",31.7,+/-1.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",67,Mean Social Security income (dollars),"18,802",+/-631,(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",68,With retirement income,"60,029","+/-3,750",21.1,+/-1.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",69,Mean retirement income (dollars),"22,528","+/-1,446",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",69.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",70,With Supplemental Security Income,"15,055","+/-1,934",5.3,+/-0.7
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",71,Mean Supplemental Security Income (dollars),"9,043",+/-735,(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",72,With cash public assistance income,"8,720","+/-1,624",3.1,+/-0.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",73,Mean cash public assistance income (dollars),"5,034",+/-883,(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",74,With Food Stamp/SNAP benefits in the past 12 months,"61,926","+/-3,920",21.8,+/-1.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",74.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",75,Families,"191,213","+/-4,744","191,213",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",76,"Less than $10,000","12,014","+/-2,123",6.3,+/-1.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",77,"$10,000 to $14,999","6,872","+/-1,381",3.6,+/-0.7
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",78,"$15,000 to $24,999","16,175","+/-2,060",8.5,+/-1.0
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",79,"$25,000 to $34,999","18,836","+/-2,689",9.9,+/-1.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",80,"$35,000 to $49,999","29,817","+/-2,916",15.6,+/-1.5
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",81,"$50,000 to $74,999","34,223","+/-2,885",17.9,+/-1.5
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",82,"$75,000 to $99,999","28,157","+/-2,929",14.7,+/-1.5
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",83,"$100,000 to $149,999","27,171","+/-2,817",14.2,+/-1.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",84,"$150,000 to $199,999","9,466","+/-1,527",5.0,+/-0.8
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",85,"$200,000 or more","8,482","+/-1,362",4.4,+/-0.7
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",86,Median family income (dollars),"58,914","+/-3,058",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",87,Mean family income (dollars),"75,018","+/-2,588",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",87.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",88,Per capita income (dollars),"24,564",+/-774,(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",88.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",89,Nonfamily households,"93,447","+/-5,101","93,447",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",90,Median nonfamily income (dollars),"32,056","+/-1,710",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",91,Mean nonfamily income (dollars),"45,375","+/-2,502",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",91.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",92,Median earnings for workers (dollars),"30,316",+/-670,(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",93,"Median earnings for male full-time, year-round workers (dollars)","44,227","+/-2,943",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",94,"Median earnings for female full-time, year-round workers (dollars)","38,401","+/-1,819",(X),(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",94.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",95,Civilian noninstitutionalized population,"773,058","+/-15,121","773,058",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",96,With health insurance coverage,"669,494","+/-16,680",86.6,+/-1.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",97,With private health insurance,"395,492","+/-14,552",51.2,+/-1.7
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",98,With public coverage,"354,405","+/-15,866",45.8,+/-1.9
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",99,No health insurance coverage,"103,564","+/-11,019",13.4,+/-1.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",99.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",100,Civilian noninstitutionalized population under 19 years,"207,536","+/-9,573","207,536",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",101,No health insurance coverage,"22,784","+/-4,584",11.0,+/-2.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",101.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",102,Civilian noninstitutionalized population 19 to 64 years,"448,691","+/-9,813","448,691",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",103,In labor force:,"337,481","+/-8,531","337,481",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",104,Employed:,"309,674","+/-8,745","309,674",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",105,With health insurance coverage,"257,492","+/-8,256",83.1,+/-1.7
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",106,With private health insurance,"208,251","+/-8,198",67.2,+/-2.0
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",107,With public coverage,"64,626","+/-5,938",20.9,+/-1.9
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",108,No health insurance coverage,"52,182","+/-5,697",16.9,+/-1.7
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",109,Unemployed:,"27,807","+/-3,721","27,807",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",110,With health insurance coverage,"19,480","+/-2,762",70.1,+/-6.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",111,With private health insurance,"6,864","+/-1,748",24.7,+/-6.0
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",112,With public coverage,"13,731","+/-2,467",49.4,+/-6.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",113,No health insurance coverage,"8,327","+/-2,276",29.9,+/-6.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",114,Not in labor force:,"111,210","+/-6,237","111,210",(X)
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",115,With health insurance coverage,"92,460","+/-6,067",83.1,+/-2.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",116,With private health insurance,"42,140","+/-4,917",37.9,+/-3.7
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",117,With public coverage,"56,439","+/-4,936",50.7,+/-3.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",118,No health insurance coverage,"18,750","+/-2,685",16.9,+/-2.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",118.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",119,All families,(X),(X),16.1,+/-1.5
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",120,With related children of the householder under 18 years,(X),(X),24.1,+/-2.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",121,With related children of the householder under 5 years only,(X),(X),21.1,+/-7.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",122,Married couple families,(X),(X),9.3,+/-1.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",123,With related children of the householder under 18 years,(X),(X),12.9,+/-2.8
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",124,With related children of the householder under 5 years only,(X),(X),15.1,+/-9.0
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",125,"Families with female householder, no spouse present",(X),(X),31.0,+/-4.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",126,With related children of the householder under 18 years,(X),(X),41.4,+/-5.8
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",127,With related children of the householder under 5 years only,(X),(X),30.6,+/-13.9
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",127.3,,,,,
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",128,All people,(X),(X),20.0,+/-1.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",129,Under 18 years,(X),(X),26.9,+/-3.1
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",130,Related children of the householder under 18 years,(X),(X),26.7,+/-3.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",131,Related children of the householder under 5 years,(X),(X),29.7,+/-4.6
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",132,Related children of the householder 5 to 17 years,(X),(X),25.7,+/-3.4
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",133,18 years and over,(X),(X),17.8,+/-1.2
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",134,18 to 64 years,(X),(X),18.3,+/-1.3
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",135,65 years and over,(X),(X),15.8,+/-1.9
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",136,People in families,(X),(X),17.6,+/-1.7
+DP03,5001800US0407,"Congressional District 7 (118th Congress), Arizona",137,Unrelated individuals 15 years and over,(X),(X),30.2,+/-2.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",0.5,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",1,Population 16 years and over,"658,367","+/-12,593","658,367",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",2,In labor force,"390,589","+/-9,062",59.3,+/-1.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",3,Civilian labor force,"390,095","+/-9,066",59.3,+/-1.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",4,Employed,"366,369","+/-8,665",55.6,+/-1.3
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",5,Unemployed,"23,726","+/-3,126",3.6,+/-0.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",6,Armed Forces,494,+/-364,0.1,+/-0.1
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",7,Not in labor force,"267,778","+/-10,625",40.7,+/-1.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",7.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",8,Civilian labor force,"390,095","+/-9,066","390,095",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",9,Unemployment Rate,(X),(X),6.1,+/-0.8
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",9.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",10,Females 16 years and over,"344,051","+/-7,906","344,051",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",11,In labor force,"185,094","+/-6,243",53.8,+/-1.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",12,Civilian labor force,"184,989","+/-6,264",53.8,+/-1.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",13,Employed,"174,016","+/-6,008",50.6,+/-1.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",13.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",14,Own children of the householder under 6 years,"46,548","+/-4,779","46,548",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",15,All parents in family in labor force,"29,143","+/-3,848",62.6,+/-5.8
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",15.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",16,Own children of the householder 6 to 17 years,"122,603","+/-7,145","122,603",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",17,All parents in family in labor force,"82,353","+/-6,431",67.2,+/-4.8
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",17.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",18,Workers 16 years and over,"360,236","+/-8,631","360,236",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",19,"Car, truck, or van -- drove alone","227,465","+/-7,482",63.1,+/-1.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",20,"Car, truck, or van -- carpooled","32,853","+/-4,086",9.1,+/-1.1
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",21,Public transportation (excluding taxicab),"3,627","+/-2,129",1.0,+/-0.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",22,Walked,"5,230","+/-1,499",1.5,+/-0.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",23,Other means,"6,835","+/-1,630",1.9,+/-0.5
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",24,Worked from home,"84,226","+/-6,203",23.4,+/-1.5
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",24.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",25,Mean travel time to work (minutes),27.6,+/-0.7,(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",25.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",25.5,OCCUPATION,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",26,Civilian employed population 16 years and over,"366,369","+/-8,665","366,369",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",27,"Management, business, science, and arts occupations","159,945","+/-6,373",43.7,+/-1.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",28,Service occupations,"53,727","+/-4,520",14.7,+/-1.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",29,Sales and office occupations,"86,359","+/-5,676",23.6,+/-1.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",30,"Natural resources, construction, and maintenance occupations","26,731","+/-3,485",7.3,+/-0.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",31,"Production, transportation, and material moving occupations","39,607","+/-4,228",10.8,+/-1.1
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",31.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",31.5,INDUSTRY,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",32,Civilian employed population 16 years and over,"366,369","+/-8,665","366,369",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",33,"Agriculture, forestry, fishing and hunting, and mining",992,+/-509,0.3,+/-0.1
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",34,Construction,"28,008","+/-3,117",7.6,+/-0.8
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",35,Manufacturing,"24,683","+/-2,876",6.7,+/-0.8
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",36,Wholesale trade,"7,678","+/-1,700",2.1,+/-0.5
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",37,Retail trade,"50,611","+/-5,179",13.8,+/-1.3
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",38,"Transportation and warehousing, and utilities","18,052","+/-2,381",4.9,+/-0.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",39,Information,"4,980","+/-1,225",1.4,+/-0.3
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",40,"Finance and insurance, and real estate and rental and leasing","42,830","+/-3,844",11.7,+/-1.0
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",41,"Professional, scientific, and management, and administrative and waste management services","45,191","+/-3,486",12.3,+/-1.0
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",42,"Educational services, and health care and social assistance","78,993","+/-5,006",21.6,+/-1.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",43,"Arts, entertainment, and recreation, and accommodation and food services","32,098","+/-4,321",8.8,+/-1.1
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",44,"Other services, except public administration","15,829","+/-2,254",4.3,+/-0.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",45,Public administration,"16,424","+/-2,327",4.5,+/-0.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",45.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",46,Civilian employed population 16 years and over,"366,369","+/-8,665","366,369",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",47,Private wage and salary workers,"298,315","+/-9,114",81.4,+/-1.3
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",48,Government workers,"46,846","+/-4,446",12.8,+/-1.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",49,Self-employed in own not incorporated business workers,"19,891","+/-2,492",5.4,+/-0.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",50,Unpaid family workers,"1,317",+/-640,0.4,+/-0.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",50.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",51,Total households,"324,919","+/-6,458","324,919",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",52,"Less than $10,000","14,789","+/-1,967",4.6,+/-0.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",53,"$10,000 to $14,999","8,978","+/-1,854",2.8,+/-0.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",54,"$15,000 to $24,999","21,997","+/-2,296",6.8,+/-0.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",55,"$25,000 to $34,999","27,376","+/-2,784",8.4,+/-0.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",56,"$35,000 to $49,999","39,164","+/-3,437",12.1,+/-1.0
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",57,"$50,000 to $74,999","53,503","+/-3,763",16.5,+/-1.1
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",58,"$75,000 to $99,999","43,487","+/-3,826",13.4,+/-1.1
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",59,"$100,000 to $149,999","63,073","+/-4,183",19.4,+/-1.3
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",60,"$150,000 to $199,999","25,632","+/-2,832",7.9,+/-0.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",61,"$200,000 or more","26,920","+/-2,912",8.3,+/-0.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",62,Median household income (dollars),"73,095","+/-2,358",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",63,Mean household income (dollars),"94,056","+/-2,940",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",63.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",64,With earnings,"233,256","+/-5,938",71.8,+/-1.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",65,Mean earnings (dollars),"97,274","+/-3,582",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",66,With Social Security,"125,456","+/-5,084",38.6,+/-1.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",67,Mean Social Security income (dollars),"23,377",+/-639,(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",68,With retirement income,"100,624","+/-4,693",31.0,+/-1.3
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",69,Mean retirement income (dollars),"27,518","+/-1,525",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",69.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",70,With Supplemental Security Income,"14,167","+/-2,152",4.4,+/-0.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",71,Mean Supplemental Security Income (dollars),"12,405","+/-1,578",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",72,With cash public assistance income,"10,788","+/-1,835",3.3,+/-0.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",73,Mean cash public assistance income (dollars),"6,094","+/-1,123",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",74,With Food Stamp/SNAP benefits in the past 12 months,"28,270","+/-3,434",8.7,+/-1.0
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",74.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",75,Families,"211,455","+/-5,613","211,455",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",76,"Less than $10,000","6,776","+/-1,633",3.2,+/-0.8
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",77,"$10,000 to $14,999","2,664","+/-1,004",1.3,+/-0.5
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",78,"$15,000 to $24,999","7,603","+/-1,472",3.6,+/-0.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",79,"$25,000 to $34,999","12,091","+/-2,013",5.7,+/-0.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",80,"$35,000 to $49,999","20,324","+/-2,728",9.6,+/-1.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",81,"$50,000 to $74,999","34,093","+/-2,945",16.1,+/-1.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",82,"$75,000 to $99,999","32,658","+/-3,078",15.4,+/-1.5
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",83,"$100,000 to $149,999","49,236","+/-3,840",23.3,+/-1.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",84,"$150,000 to $199,999","22,603","+/-2,488",10.7,+/-1.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",85,"$200,000 or more","23,407","+/-2,858",11.1,+/-1.3
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",86,Median family income (dollars),"90,176","+/-3,487",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",87,Mean family income (dollars),"110,776","+/-3,871",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",87.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",88,Per capita income (dollars),"37,820","+/-1,313",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",88.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",89,Nonfamily households,"113,464","+/-5,608","113,464",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",90,Median nonfamily income (dollars),"42,531","+/-1,942",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",91,Mean nonfamily income (dollars),"57,261","+/-3,521",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",91.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",92,Median earnings for workers (dollars),"42,262","+/-1,026",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",93,"Median earnings for male full-time, year-round workers (dollars)","63,062","+/-3,753",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",94,"Median earnings for female full-time, year-round workers (dollars)","51,140","+/-1,266",(X),(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",94.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",95,Civilian noninstitutionalized population,"808,949","+/-15,439","808,949",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",96,With health insurance coverage,"739,873","+/-15,371",91.5,+/-0.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",97,With private health insurance,"549,159","+/-14,838",67.9,+/-1.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",98,With public coverage,"316,295","+/-14,020",39.1,+/-1.5
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",99,No health insurance coverage,"69,076","+/-7,813",8.5,+/-0.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",99.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",100,Civilian noninstitutionalized population under 19 years,"186,093","+/-9,336","186,093",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",101,No health insurance coverage,"13,315","+/-3,591",7.2,+/-1.8
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",101.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",102,Civilian noninstitutionalized population 19 to 64 years,"445,799","+/-11,222","445,799",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",103,In labor force:,"351,584","+/-9,171","351,584",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",104,Employed:,"331,000","+/-8,466","331,000",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",105,With health insurance coverage,"297,202","+/-8,340",89.8,+/-1.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",106,With private health insurance,"274,224","+/-8,801",82.8,+/-1.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",107,With public coverage,"35,048","+/-4,047",10.6,+/-1.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",108,No health insurance coverage,"33,798","+/-4,697",10.2,+/-1.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",109,Unemployed:,"20,584","+/-2,968","20,584",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",110,With health insurance coverage,"15,451","+/-2,640",75.1,+/-5.0
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",111,With private health insurance,"7,183","+/-1,701",34.9,+/-6.8
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",112,With public coverage,"8,627","+/-2,023",41.9,+/-6.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",113,No health insurance coverage,"5,133","+/-1,142",24.9,+/-5.0
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",114,Not in labor force:,"94,215","+/-6,452","94,215",(X)
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",115,With health insurance coverage,"78,804","+/-5,730",83.6,+/-2.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",116,With private health insurance,"47,858","+/-3,983",50.8,+/-3.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",117,With public coverage,"36,572","+/-3,855",38.8,+/-3.0
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",118,No health insurance coverage,"15,411","+/-2,823",16.4,+/-2.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",118.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",119,All families,(X),(X),7.3,+/-1.1
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",120,With related children of the householder under 18 years,(X),(X),11.5,+/-2.5
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",121,With related children of the householder under 5 years only,(X),(X),17.9,+/-6.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",122,Married couple families,(X),(X),3.9,+/-0.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",123,With related children of the householder under 18 years,(X),(X),4.2,+/-1.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",124,With related children of the householder under 5 years only,(X),(X),3.4,+/-3.4
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",125,"Families with female householder, no spouse present",(X),(X),19.4,+/-4.3
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",126,With related children of the householder under 18 years,(X),(X),29.5,+/-7.7
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",127,With related children of the householder under 5 years only,(X),(X),51.2,+/-18.6
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",127.3,,,,,
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",128,All people,(X),(X),10.5,+/-1.2
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",129,Under 18 years,(X),(X),13.9,+/-3.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",130,Related children of the householder under 18 years,(X),(X),13.5,+/-3.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",131,Related children of the householder under 5 years,(X),(X),17.8,+/-6.8
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",132,Related children of the householder 5 to 17 years,(X),(X),12.3,+/-4.0
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",133,18 years and over,(X),(X),9.6,+/-0.9
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",134,18 to 64 years,(X),(X),10.3,+/-1.1
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",135,65 years and over,(X),(X),7.7,+/-1.3
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",136,People in families,(X),(X),8.1,+/-1.5
+DP03,5001800US0408,"Congressional District 8 (118th Congress), Arizona",137,Unrelated individuals 15 years and over,(X),(X),20.2,+/-2.0
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",0.5,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",1,Population 16 years and over,"672,569","+/-9,901","672,569",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",2,In labor force,"379,334","+/-10,125",56.4,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",3,Civilian labor force,"370,201","+/-10,126",55.0,+/-1.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",4,Employed,"349,571","+/-10,135",52.0,+/-1.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",5,Unemployed,"20,630","+/-2,895",3.1,+/-0.4
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",6,Armed Forces,"9,133","+/-1,588",1.4,+/-0.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",7,Not in labor force,"293,235","+/-8,335",43.6,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",7.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",8,Civilian labor force,"370,201","+/-10,126","370,201",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",9,Unemployment Rate,(X),(X),5.6,+/-0.8
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",9.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",10,Females 16 years and over,"335,872","+/-5,891","335,872",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",11,In labor force,"176,507","+/-6,556",52.6,+/-1.5
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",12,Civilian labor force,"175,077","+/-6,543",52.1,+/-1.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",13,Employed,"165,238","+/-6,563",49.2,+/-1.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",13.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",14,Own children of the householder under 6 years,"56,720","+/-4,266","56,720",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",15,All parents in family in labor force,"40,509","+/-5,126",71.4,+/-6.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",15.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",16,Own children of the householder 6 to 17 years,"125,990","+/-8,267","125,990",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",17,All parents in family in labor force,"86,417","+/-6,732",68.6,+/-3.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",17.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",18,Workers 16 years and over,"353,072","+/-10,048","353,072",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",19,"Car, truck, or van -- drove alone","254,311","+/-10,029",72.0,+/-1.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",20,"Car, truck, or van -- carpooled","33,894","+/-4,129",9.6,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",21,Public transportation (excluding taxicab),"1,336",+/-890,0.4,+/-0.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",22,Walked,"2,963","+/-1,142",0.8,+/-0.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",23,Other means,"6,521","+/-1,480",1.8,+/-0.4
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",24,Worked from home,"54,047","+/-4,496",15.3,+/-1.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",24.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",25,Mean travel time to work (minutes),26.2,+/-0.7,(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",25.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",25.5,OCCUPATION,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",26,Civilian employed population 16 years and over,"349,571","+/-10,135","349,571",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",27,"Management, business, science, and arts occupations","121,035","+/-6,456",34.6,+/-1.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",28,Service occupations,"59,512","+/-5,303",17.0,+/-1.4
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",29,Sales and office occupations,"86,324","+/-6,367",24.7,+/-1.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",30,"Natural resources, construction, and maintenance occupations","34,457","+/-3,908",9.9,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",31,"Production, transportation, and material moving occupations","48,243","+/-5,420",13.8,+/-1.5
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",31.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",31.5,INDUSTRY,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",32,Civilian employed population 16 years and over,"349,571","+/-10,135","349,571",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",33,"Agriculture, forestry, fishing and hunting, and mining","5,713","+/-1,777",1.6,+/-0.5
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",34,Construction,"25,337","+/-3,411",7.2,+/-1.0
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",35,Manufacturing,"24,815","+/-3,094",7.1,+/-0.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",36,Wholesale trade,"8,287","+/-2,158",2.4,+/-0.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",37,Retail trade,"45,135","+/-4,469",12.9,+/-1.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",38,"Transportation and warehousing, and utilities","27,814","+/-4,002",8.0,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",39,Information,"5,530","+/-1,384",1.6,+/-0.4
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",40,"Finance and insurance, and real estate and rental and leasing","27,707","+/-3,193",7.9,+/-0.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",41,"Professional, scientific, and management, and administrative and waste management services","32,030","+/-3,290",9.2,+/-0.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",42,"Educational services, and health care and social assistance","79,552","+/-5,285",22.8,+/-1.5
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",43,"Arts, entertainment, and recreation, and accommodation and food services","31,091","+/-3,724",8.9,+/-1.0
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",44,"Other services, except public administration","15,506","+/-2,722",4.4,+/-0.8
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",45,Public administration,"21,054","+/-3,051",6.0,+/-0.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",45.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",46,Civilian employed population 16 years and over,"349,571","+/-10,135","349,571",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",47,Private wage and salary workers,"269,487","+/-9,867",77.1,+/-1.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",48,Government workers,"59,636","+/-4,984",17.1,+/-1.4
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",49,Self-employed in own not incorporated business workers,"20,152","+/-3,260",5.8,+/-0.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",50,Unpaid family workers,296,+/-199,0.1,+/-0.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",50.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",51,Total households,"317,111","+/-5,123","317,111",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",52,"Less than $10,000","16,023","+/-2,271",5.1,+/-0.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",53,"$10,000 to $14,999","10,296","+/-1,904",3.2,+/-0.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",54,"$15,000 to $24,999","24,544","+/-3,309",7.7,+/-1.0
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",55,"$25,000 to $34,999","24,215","+/-3,366",7.6,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",56,"$35,000 to $49,999","40,657","+/-3,694",12.8,+/-1.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",57,"$50,000 to $74,999","60,033","+/-4,223",18.9,+/-1.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",58,"$75,000 to $99,999","48,743","+/-4,541",15.4,+/-1.4
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",59,"$100,000 to $149,999","53,436","+/-3,529",16.9,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",60,"$150,000 to $199,999","21,048","+/-2,910",6.6,+/-0.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",61,"$200,000 or more","18,116","+/-2,086",5.7,+/-0.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",62,Median household income (dollars),"67,407","+/-2,509",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",63,Mean household income (dollars),"85,024","+/-2,719",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",63.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",64,With earnings,"221,773","+/-5,481",69.9,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",65,Mean earnings (dollars),"86,042","+/-2,899",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",66,With Social Security,"125,942","+/-4,832",39.7,+/-1.5
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",67,Mean Social Security income (dollars),"22,698",+/-775,(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",68,With retirement income,"99,794","+/-5,231",31.5,+/-1.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",69,Mean retirement income (dollars),"28,467","+/-1,922",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",69.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",70,With Supplemental Security Income,"15,693","+/-2,374",4.9,+/-0.8
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",71,Mean Supplemental Security Income (dollars),"11,215","+/-1,061",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",72,With cash public assistance income,"8,673","+/-1,801",2.7,+/-0.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",73,Mean cash public assistance income (dollars),"4,939","+/-1,075",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",74,With Food Stamp/SNAP benefits in the past 12 months,"34,525","+/-3,214",10.9,+/-1.0
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",74.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",75,Families,"229,196","+/-5,952","229,196",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",76,"Less than $10,000","7,731","+/-1,856",3.4,+/-0.8
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",77,"$10,000 to $14,999","4,851","+/-1,419",2.1,+/-0.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",78,"$15,000 to $24,999","10,062","+/-2,013",4.4,+/-0.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",79,"$25,000 to $34,999","15,568","+/-2,652",6.8,+/-1.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",80,"$35,000 to $49,999","27,051","+/-3,336",11.8,+/-1.5
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",81,"$50,000 to $74,999","44,320","+/-3,832",19.3,+/-1.5
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",82,"$75,000 to $99,999","39,676","+/-4,392",17.3,+/-1.8
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",83,"$100,000 to $149,999","45,531","+/-3,193",19.9,+/-1.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",84,"$150,000 to $199,999","18,864","+/-2,625",8.2,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",85,"$200,000 or more","15,542","+/-2,090",6.8,+/-0.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",86,Median family income (dollars),"77,344","+/-2,324",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",87,Mean family income (dollars),"95,120","+/-3,254",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",87.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",88,Per capita income (dollars),"32,010","+/-1,066",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",88.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",89,Nonfamily households,"87,915","+/-5,897","87,915",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",90,Median nonfamily income (dollars),"38,379","+/-3,628",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",91,Mean nonfamily income (dollars),"52,060","+/-3,753",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",91.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",92,Median earnings for workers (dollars),"37,358","+/-1,368",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",93,"Median earnings for male full-time, year-round workers (dollars)","52,066","+/-1,156",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",94,"Median earnings for female full-time, year-round workers (dollars)","42,999","+/-2,025",(X),(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",94.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",95,Civilian noninstitutionalized population,"819,257","+/-12,042","819,257",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",96,With health insurance coverage,"745,926","+/-12,962",91.0,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",97,With private health insurance,"535,199","+/-14,388",65.3,+/-1.5
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",98,With public coverage,"338,805","+/-13,546",41.4,+/-1.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",99,No health insurance coverage,"73,331","+/-9,159",9.0,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",99.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",100,Civilian noninstitutionalized population under 19 years,"199,582","+/-9,406","199,582",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",101,No health insurance coverage,"14,770","+/-3,307",7.4,+/-1.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",101.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",102,Civilian noninstitutionalized population 19 to 64 years,"447,808","+/-9,607","447,808",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",103,In labor force:,"337,296","+/-9,886","337,296",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",104,Employed:,"319,345","+/-9,693","319,345",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",105,With health insurance coverage,"281,448","+/-8,702",88.1,+/-1.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",106,With private health insurance,"252,375","+/-8,794",79.0,+/-1.8
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",107,With public coverage,"41,489","+/-3,892",13.0,+/-1.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",108,No health insurance coverage,"37,897","+/-5,876",11.9,+/-1.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",109,Unemployed:,"17,951","+/-2,828","17,951",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",110,With health insurance coverage,"12,746","+/-2,353",71.0,+/-7.0
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",111,With private health insurance,"5,982","+/-1,318",33.3,+/-6.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",112,With public coverage,"7,345","+/-1,989",40.9,+/-7.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",113,No health insurance coverage,"5,205","+/-1,519",29.0,+/-7.0
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",114,Not in labor force:,"110,512","+/-6,359","110,512",(X)
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",115,With health insurance coverage,"95,282","+/-5,620",86.2,+/-2.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",116,With private health insurance,"56,452","+/-4,853",51.1,+/-3.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",117,With public coverage,"47,534","+/-4,428",43.0,+/-3.6
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",118,No health insurance coverage,"15,230","+/-2,851",13.8,+/-2.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",118.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",119,All families,(X),(X),8.7,+/-1.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",120,With related children of the householder under 18 years,(X),(X),12.6,+/-2.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",121,With related children of the householder under 5 years only,(X),(X),16.2,+/-6.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",122,Married couple families,(X),(X),5.1,+/-0.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",123,With related children of the householder under 18 years,(X),(X),4.8,+/-1.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",124,With related children of the householder under 5 years only,(X),(X),4.6,+/-2.8
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",125,"Families with female householder, no spouse present",(X),(X),23.7,+/-4.8
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",126,With related children of the householder under 18 years,(X),(X),36.7,+/-7.9
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",127,With related children of the householder under 5 years only,(X),(X),43.8,+/-17.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",127.3,,,,,
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",128,All people,(X),(X),10.9,+/-1.1
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",129,Under 18 years,(X),(X),13.7,+/-2.4
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",130,Related children of the householder under 18 years,(X),(X),13.4,+/-2.4
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",131,Related children of the householder under 5 years,(X),(X),16.3,+/-4.4
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",132,Related children of the householder 5 to 17 years,(X),(X),12.4,+/-2.3
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",133,18 years and over,(X),(X),10.1,+/-1.0
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",134,18 to 64 years,(X),(X),10.2,+/-1.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",135,65 years and over,(X),(X),9.6,+/-1.7
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",136,People in families,(X),(X),8.9,+/-1.2
+DP03,5001800US0409,"Congressional District 9 (118th Congress), Arizona",137,Unrelated individuals 15 years and over,(X),(X),21.7,+/-2.4

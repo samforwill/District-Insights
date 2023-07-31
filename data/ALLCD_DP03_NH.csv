@@ -1,0 +1,337 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",0.5,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",1,Population 16 years and over,"583,583","+/-5,602","583,583",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",2,In labor force,"399,283","+/-6,705",68.4,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",3,Civilian labor force,"397,329","+/-6,628",68.1,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",4,Employed,"383,956","+/-7,047",65.8,+/-1.1
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",5,Unemployed,"13,373","+/-2,452",2.3,+/-0.4
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",6,Armed Forces,"1,954","+/-1,021",0.3,+/-0.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",7,Not in labor force,"184,300","+/-6,016",31.6,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",7.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",8,Civilian labor force,"397,329","+/-6,628","397,329",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",9,Unemployment Rate,(X),(X),3.4,+/-0.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",9.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",10,Females 16 years and over,"296,896","+/-3,727","296,896",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",11,In labor force,"186,627","+/-4,344",62.9,+/-1.3
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",12,Civilian labor force,"186,231","+/-4,363",62.7,+/-1.3
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",13,Employed,"180,302","+/-4,368",60.7,+/-1.3
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",13.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",14,Own children of the householder under 6 years,"38,092","+/-2,346","38,092",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",15,All parents in family in labor force,"27,850","+/-2,574",73.1,+/-5.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",15.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",16,Own children of the householder 6 to 17 years,"85,034","+/-2,987","85,034",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",17,All parents in family in labor force,"64,124","+/-3,780",75.4,+/-3.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",17.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",18,Workers 16 years and over,"378,365","+/-7,520","378,365",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",19,"Car, truck, or van -- drove alone","260,193","+/-7,916",68.8,+/-1.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",20,"Car, truck, or van -- carpooled","25,384","+/-3,254",6.7,+/-0.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",21,Public transportation (excluding taxicab),"1,259",+/-595,0.3,+/-0.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",22,Walked,"6,832","+/-1,414",1.8,+/-0.4
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",23,Other means,"4,950","+/-1,713",1.3,+/-0.4
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",24,Worked from home,"79,747","+/-5,455",21.1,+/-1.4
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",24.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",25,Mean travel time to work (minutes),25.9,+/-0.7,(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",25.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",25.5,OCCUPATION,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",26,Civilian employed population 16 years and over,"383,956","+/-7,047","383,956",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",27,"Management, business, science, and arts occupations","173,512","+/-6,601",45.2,+/-1.5
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",28,Service occupations,"49,288","+/-4,497",12.8,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",29,Sales and office occupations,"82,867","+/-5,089",21.6,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",30,"Natural resources, construction, and maintenance occupations","32,963","+/-3,455",8.6,+/-0.9
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",31,"Production, transportation, and material moving occupations","45,326","+/-3,826",11.8,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",31.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",31.5,INDUSTRY,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",32,Civilian employed population 16 years and over,"383,956","+/-7,047","383,956",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",33,"Agriculture, forestry, fishing and hunting, and mining","1,845",+/-966,0.5,+/-0.3
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",34,Construction,"25,645","+/-3,025",6.7,+/-0.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",35,Manufacturing,"47,940","+/-3,858",12.5,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",36,Wholesale trade,"6,664","+/-1,304",1.7,+/-0.3
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",37,Retail trade,"44,812","+/-4,159",11.7,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",38,"Transportation and warehousing, and utilities","17,188","+/-2,371",4.5,+/-0.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",39,Information,"7,965","+/-1,694",2.1,+/-0.4
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",40,"Finance and insurance, and real estate and rental and leasing","27,822","+/-2,794",7.2,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",41,"Professional, scientific, and management, and administrative and waste management services","51,213","+/-3,994",13.3,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",42,"Educational services, and health care and social assistance","92,936","+/-4,876",24.2,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",43,"Arts, entertainment, and recreation, and accommodation and food services","28,754","+/-3,286",7.5,+/-0.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",44,"Other services, except public administration","14,624","+/-2,251",3.8,+/-0.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",45,Public administration,"16,548","+/-2,563",4.3,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",45.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",46,Civilian employed population 16 years and over,"383,956","+/-7,047","383,956",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",47,Private wage and salary workers,"307,635","+/-7,613",80.1,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",48,Government workers,"53,418","+/-4,251",13.9,+/-1.1
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",49,Self-employed in own not incorporated business workers,"22,057","+/-2,552",5.7,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",50,Unpaid family workers,846,+/-620,0.2,+/-0.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",50.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",51,Total households,"280,962","+/-4,791","280,962",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",52,"Less than $10,000","7,917","+/-1,335",2.8,+/-0.5
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",53,"$10,000 to $14,999","8,193","+/-1,756",2.9,+/-0.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",54,"$15,000 to $24,999","13,182","+/-1,972",4.7,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",55,"$25,000 to $34,999","16,670","+/-1,913",5.9,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",56,"$35,000 to $49,999","24,983","+/-2,750",8.9,+/-0.9
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",57,"$50,000 to $74,999","43,675","+/-3,309",15.5,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",58,"$75,000 to $99,999","37,899","+/-3,579",13.5,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",59,"$100,000 to $149,999","61,650","+/-3,871",21.9,+/-1.3
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",60,"$150,000 to $199,999","34,561","+/-2,888",12.3,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",61,"$200,000 or more","32,232","+/-2,589",11.5,+/-0.9
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",62,Median household income (dollars),"91,872","+/-3,000",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",63,Mean household income (dollars),"113,237","+/-2,769",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",63.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",64,With earnings,"225,337","+/-4,997",80.2,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",65,Mean earnings (dollars),"113,995","+/-3,462",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",66,With Social Security,"87,901","+/-3,583",31.3,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",67,Mean Social Security income (dollars),"22,888",+/-771,(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",68,With retirement income,"69,336","+/-3,437",24.7,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",69,Mean retirement income (dollars),"30,776","+/-2,113",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",69.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",70,With Supplemental Security Income,"12,174","+/-1,642",4.3,+/-0.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",71,Mean Supplemental Security Income (dollars),"12,180","+/-1,152",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",72,With cash public assistance income,"7,688","+/-1,719",2.7,+/-0.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",73,Mean cash public assistance income (dollars),"5,178","+/-1,156",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",74,With Food Stamp/SNAP benefits in the past 12 months,"16,322","+/-2,256",5.8,+/-0.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",74.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",75,Families,"184,167","+/-5,231","184,167",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",76,"Less than $10,000","2,979",+/-896,1.6,+/-0.5
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",77,"$10,000 to $14,999","2,520",+/-961,1.4,+/-0.5
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",78,"$15,000 to $24,999","5,697","+/-1,388",3.1,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",79,"$25,000 to $34,999","6,891","+/-1,491",3.7,+/-0.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",80,"$35,000 to $49,999","11,242","+/-1,948",6.1,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",81,"$50,000 to $74,999","25,590","+/-2,603",13.9,+/-1.4
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",82,"$75,000 to $99,999","24,649","+/-2,390",13.4,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",83,"$100,000 to $149,999","46,443","+/-3,066",25.2,+/-1.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",84,"$150,000 to $199,999","29,812","+/-2,757",16.2,+/-1.4
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",85,"$200,000 or more","28,344","+/-2,446",15.4,+/-1.3
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",86,Median family income (dollars),"111,264","+/-4,575",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",87,Mean family income (dollars),"132,828","+/-4,056",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",87.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",88,Per capita income (dollars),"46,380","+/-1,160",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",88.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",89,Nonfamily households,"96,795","+/-4,967","96,795",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",90,Median nonfamily income (dollars),"54,928","+/-5,360",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",91,Mean nonfamily income (dollars),"69,487","+/-3,839",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",91.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",92,Median earnings for workers (dollars),"47,812","+/-2,305",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",93,"Median earnings for male full-time, year-round workers (dollars)","69,549","+/-2,106",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",94,"Median earnings for female full-time, year-round workers (dollars)","52,123","+/-1,178",(X),(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",94.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",95,Civilian noninstitutionalized population,"689,656","+/-5,778","689,656",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",96,With health insurance coverage,"654,964","+/-6,680",95.0,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",97,With private health insurance,"534,976","+/-9,562",77.6,+/-1.3
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",98,With public coverage,"213,729","+/-8,724",31.0,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",99,No health insurance coverage,"34,692","+/-4,828",5.0,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",99.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",100,Civilian noninstitutionalized population under 19 years,"137,254","+/-3,544","137,254",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",101,No health insurance coverage,"5,671","+/-2,007",4.1,+/-1.4
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",101.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",102,Civilian noninstitutionalized population 19 to 64 years,"427,855","+/-5,294","427,855",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",103,In labor force:,"356,982","+/-6,757","356,982",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",104,Employed:,"345,362","+/-6,982","345,362",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",105,With health insurance coverage,"324,893","+/-7,148",94.1,+/-0.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",106,With private health insurance,"303,913","+/-7,325",88.0,+/-1.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",107,With public coverage,"29,787","+/-3,540",8.6,+/-1.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",108,No health insurance coverage,"20,469","+/-2,866",5.9,+/-0.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",109,Unemployed:,"11,620","+/-2,259","11,620",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",110,With health insurance coverage,"9,120","+/-1,842",78.5,+/-7.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",111,With private health insurance,"5,954","+/-1,599",51.2,+/-9.4
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",112,With public coverage,"3,206",+/-919,27.6,+/-6.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",113,No health insurance coverage,"2,500","+/-1,092",21.5,+/-7.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",114,Not in labor force:,"70,873","+/-4,414","70,873",(X)
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",115,With health insurance coverage,"65,260","+/-4,197",92.1,+/-1.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",116,With private health insurance,"44,855","+/-3,213",63.3,+/-3.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",117,With public coverage,"25,817","+/-3,393",36.4,+/-3.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",118,No health insurance coverage,"5,613","+/-1,348",7.9,+/-1.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",118.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",119,All families,(X),(X),4.3,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",120,With related children of the householder under 18 years,(X),(X),8.0,+/-1.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",121,With related children of the householder under 5 years only,(X),(X),7.2,+/-5.1
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",122,Married couple families,(X),(X),1.7,+/-0.6
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",123,With related children of the householder under 18 years,(X),(X),1.6,+/-0.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",124,With related children of the householder under 5 years only,(X),(X),1.1,+/-1.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",125,"Families with female householder, no spouse present",(X),(X),16.3,+/-3.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",126,With related children of the householder under 18 years,(X),(X),26.1,+/-5.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",127,With related children of the householder under 5 years only,(X),(X),27.7,+/-15.2
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",127.3,,,,,
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",128,All people,(X),(X),6.4,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",129,Under 18 years,(X),(X),8.0,+/-1.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",130,Related children of the householder under 18 years,(X),(X),7.3,+/-1.8
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",131,Related children of the householder under 5 years,(X),(X),8.6,+/-3.1
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",132,Related children of the householder 5 to 17 years,(X),(X),6.9,+/-2.0
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",133,18 years and over,(X),(X),6.1,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",134,18 to 64 years,(X),(X),5.8,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",135,65 years and over,(X),(X),7.0,+/-1.1
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",136,People in families,(X),(X),4.0,+/-0.7
+DP03,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",137,Unrelated individuals 15 years and over,(X),(X),15.7,+/-1.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",0.5,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",1,Population 16 years and over,"580,670","+/-5,515","580,670",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",2,In labor force,"376,778","+/-6,911",64.9,+/-1.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",3,Civilian labor force,"376,344","+/-6,945",64.8,+/-1.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",4,Employed,"361,794","+/-7,172",62.3,+/-1.1
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",5,Unemployed,"14,550","+/-2,031",2.5,+/-0.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",6,Armed Forces,434,+/-364,0.1,+/-0.1
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",7,Not in labor force,"203,892","+/-5,975",35.1,+/-1.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",7.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",8,Civilian labor force,"376,344","+/-6,945","376,344",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",9,Unemployment Rate,(X),(X),3.9,+/-0.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",9.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",10,Females 16 years and over,"289,033","+/-3,551","289,033",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",11,In labor force,"177,107","+/-4,722",61.3,+/-1.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",12,Civilian labor force,"177,040","+/-4,713",61.3,+/-1.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",13,Employed,"169,202","+/-5,064",58.5,+/-1.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",13.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",14,Own children of the householder under 6 years,"33,491","+/-2,229","33,491",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",15,All parents in family in labor force,"23,513","+/-2,144",70.2,+/-4.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",15.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",16,Own children of the householder 6 to 17 years,"88,600","+/-3,141","88,600",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",17,All parents in family in labor force,"66,752","+/-3,668",75.3,+/-2.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",17.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",18,Workers 16 years and over,"354,764","+/-7,487","354,764",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",19,"Car, truck, or van -- drove alone","252,675","+/-8,320",71.2,+/-1.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",20,"Car, truck, or van -- carpooled","25,656","+/-2,829",7.2,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",21,Public transportation (excluding taxicab),"1,271",+/-692,0.4,+/-0.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",22,Walked,"8,990","+/-1,619",2.5,+/-0.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",23,Other means,"4,111",+/-977,1.2,+/-0.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",24,Worked from home,"62,061","+/-4,411",17.5,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",24.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",25,Mean travel time to work (minutes),25.5,+/-0.8,(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",25.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",25.5,OCCUPATION,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",26,Civilian employed population 16 years and over,"361,794","+/-7,172","361,794",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",27,"Management, business, science, and arts occupations","157,810","+/-5,621",43.6,+/-1.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",28,Service occupations,"54,077","+/-4,450",14.9,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",29,Sales and office occupations,"70,763","+/-4,212",19.6,+/-1.1
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",30,"Natural resources, construction, and maintenance occupations","32,169","+/-3,335",8.9,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",31,"Production, transportation, and material moving occupations","46,975","+/-3,974",13.0,+/-1.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",31.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",31.5,INDUSTRY,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",32,Civilian employed population 16 years and over,"361,794","+/-7,172","361,794",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",33,"Agriculture, forestry, fishing and hunting, and mining","2,892",+/-808,0.8,+/-0.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",34,Construction,"27,700","+/-3,007",7.7,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",35,Manufacturing,"45,602","+/-3,616",12.6,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",36,Wholesale trade,"9,642","+/-1,485",2.7,+/-0.4
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",37,Retail trade,"44,994","+/-3,876",12.4,+/-1.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",38,"Transportation and warehousing, and utilities","13,064","+/-1,597",3.6,+/-0.4
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",39,Information,"7,418","+/-1,616",2.1,+/-0.4
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",40,"Finance and insurance, and real estate and rental and leasing","19,748","+/-2,696",5.5,+/-0.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",41,"Professional, scientific, and management, and administrative and waste management services","40,608","+/-3,547",11.2,+/-1.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",42,"Educational services, and health care and social assistance","95,630","+/-4,697",26.4,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",43,"Arts, entertainment, and recreation, and accommodation and food services","25,481","+/-2,719",7.0,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",44,"Other services, except public administration","13,074","+/-1,862",3.6,+/-0.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",45,Public administration,"15,941","+/-2,059",4.4,+/-0.6
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",45.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",46,Civilian employed population 16 years and over,"361,794","+/-7,172","361,794",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",47,Private wage and salary workers,"290,965","+/-7,934",80.4,+/-1.1
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",48,Government workers,"48,892","+/-3,252",13.5,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",49,Self-employed in own not incorporated business workers,"20,423","+/-2,277",5.6,+/-0.6
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",50,Unpaid family workers,"1,514",+/-932,0.4,+/-0.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",50.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",51,Total households,"267,064","+/-4,148","267,064",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",52,"Less than $10,000","9,318","+/-1,357",3.5,+/-0.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",53,"$10,000 to $14,999","7,333","+/-1,269",2.7,+/-0.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",54,"$15,000 to $24,999","16,966","+/-1,917",6.4,+/-0.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",55,"$25,000 to $34,999","18,687","+/-2,305",7.0,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",56,"$35,000 to $49,999","27,555","+/-2,795",10.3,+/-1.1
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",57,"$50,000 to $74,999","41,539","+/-3,194",15.6,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",58,"$75,000 to $99,999","32,142","+/-2,542",12.0,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",59,"$100,000 to $149,999","54,946","+/-3,359",20.6,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",60,"$150,000 to $199,999","28,672","+/-2,170",10.7,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",61,"$200,000 or more","29,906","+/-2,385",11.2,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",62,Median household income (dollars),"84,417","+/-3,669",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",63,Mean household income (dollars),"110,510","+/-3,801",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",63.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",64,With earnings,"205,638","+/-4,620",77.0,+/-1.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",65,Mean earnings (dollars),"111,780","+/-3,263",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",66,With Social Security,"96,089","+/-3,485",36.0,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",67,Mean Social Security income (dollars),"22,938",+/-571,(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",68,With retirement income,"73,661","+/-3,304",27.6,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",69,Mean retirement income (dollars),"29,765","+/-3,134",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",69.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",70,With Supplemental Security Income,"12,248","+/-1,666",4.6,+/-0.6
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",71,Mean Supplemental Security Income (dollars),"12,042","+/-1,125",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",72,With cash public assistance income,"8,712","+/-1,591",3.3,+/-0.6
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",73,Mean cash public assistance income (dollars),"4,006","+/-1,000",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",74,With Food Stamp/SNAP benefits in the past 12 months,"16,648","+/-2,016",6.2,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",74.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",75,Families,"177,042","+/-4,026","177,042",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",76,"Less than $10,000","5,222","+/-1,258",2.9,+/-0.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",77,"$10,000 to $14,999","1,626",+/-659,0.9,+/-0.4
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",78,"$15,000 to $24,999","4,680","+/-1,094",2.6,+/-0.6
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",79,"$25,000 to $34,999","7,076","+/-1,482",4.0,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",80,"$35,000 to $49,999","14,116","+/-1,938",8.0,+/-1.1
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",81,"$50,000 to $74,999","26,110","+/-2,545",14.7,+/-1.4
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",82,"$75,000 to $99,999","22,071","+/-2,332",12.5,+/-1.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",83,"$100,000 to $149,999","45,288","+/-3,208",25.6,+/-1.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",84,"$150,000 to $199,999","25,143","+/-2,170",14.2,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",85,"$200,000 or more","25,710","+/-2,386",14.5,+/-1.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",86,Median family income (dollars),"105,826","+/-2,597",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",87,Mean family income (dollars),"129,868","+/-4,563",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",87.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",88,Per capita income (dollars),"44,341","+/-1,442",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",88.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",89,Nonfamily households,"90,022","+/-4,345","90,022",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",90,Median nonfamily income (dollars),"43,912","+/-1,821",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",91,Mean nonfamily income (dollars),"65,285","+/-6,483",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",91.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",92,Median earnings for workers (dollars),"43,334","+/-1,258",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",93,"Median earnings for male full-time, year-round workers (dollars)","67,030","+/-3,156",(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",94,"Median earnings for female full-time, year-round workers (dollars)","51,557",+/-946,(X),(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",94.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",95,Civilian noninstitutionalized population,"683,262","+/-6,060","683,262",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",96,With health insurance coverage,"647,443","+/-7,570",94.8,+/-0.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",97,With private health insurance,"516,393","+/-10,327",75.6,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",98,With public coverage,"234,287","+/-6,657",34.3,+/-1.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",99,No health insurance coverage,"35,819","+/-4,720",5.2,+/-0.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",99.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",100,Civilian noninstitutionalized population under 19 years,"136,175","+/-3,235","136,175",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",101,No health insurance coverage,"5,148","+/-1,439",3.8,+/-1.1
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",101.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",102,Civilian noninstitutionalized population 19 to 64 years,"410,615","+/-5,419","410,615",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",103,In labor force:,"329,217","+/-6,262","329,217",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",104,Employed:,"316,220","+/-6,687","316,220",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",105,With health insurance coverage,"296,420","+/-6,820",93.7,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",106,With private health insurance,"278,730","+/-7,281",88.1,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",107,With public coverage,"26,741","+/-2,659",8.5,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",108,No health insurance coverage,"19,800","+/-2,977",6.3,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",109,Unemployed:,"12,997","+/-2,048","12,997",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",110,With health insurance coverage,"10,678","+/-1,992",82.2,+/-6.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",111,With private health insurance,"6,162","+/-1,252",47.4,+/-7.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",112,With public coverage,"4,590","+/-1,244",35.3,+/-6.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",113,No health insurance coverage,"2,319",+/-914,17.8,+/-6.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",114,Not in labor force:,"81,398","+/-4,382","81,398",(X)
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",115,With health insurance coverage,"73,587","+/-4,322",90.4,+/-2.1
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",116,With private health insurance,"45,637","+/-3,355",56.1,+/-3.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",117,With public coverage,"33,891","+/-3,357",41.6,+/-3.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",118,No health insurance coverage,"7,811","+/-1,798",9.6,+/-2.1
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",118.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",119,All families,(X),(X),5.2,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",120,With related children of the householder under 18 years,(X),(X),9.4,+/-2.0
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",121,With related children of the householder under 5 years only,(X),(X),4.0,+/-2.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",122,Married couple families,(X),(X),2.8,+/-0.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",123,With related children of the householder under 18 years,(X),(X),3.1,+/-1.4
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",124,With related children of the householder under 5 years only,(X),(X),0.5,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",125,"Families with female householder, no spouse present",(X),(X),16.3,+/-4.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",126,With related children of the householder under 18 years,(X),(X),26.3,+/-7.3
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",127,With related children of the householder under 5 years only,(X),(X),22.8,+/-14.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",127.3,,,,,
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",128,All people,(X),(X),8.0,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",129,Under 18 years,(X),(X),10.4,+/-2.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",130,Related children of the householder under 18 years,(X),(X),10.3,+/-2.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",131,Related children of the householder under 5 years,(X),(X),9.1,+/-3.5
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",132,Related children of the householder 5 to 17 years,(X),(X),10.7,+/-2.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",133,18 years and over,(X),(X),7.5,+/-0.7
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",134,18 to 64 years,(X),(X),7.7,+/-0.8
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",135,65 years and over,(X),(X),6.7,+/-1.2
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",136,People in families,(X),(X),5.4,+/-0.9
+DP03,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",137,Unrelated individuals 15 years and over,(X),(X),18.2,+/-1.7

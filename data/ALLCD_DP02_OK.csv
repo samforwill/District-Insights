@@ -1,0 +1,1001 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",0.5,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",1,Total households,"316,712","+/-1,803","316,712",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",2,Married-couple household,"143,817","+/-3,462",45.4,+/-1.0
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",3,With children of the householder under 18 years,"56,804","+/-2,688",17.9,+/-0.9
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",4,Cohabiting couple household,"20,787","+/-1,615",6.6,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",5,With children of the householder under 18 years,"7,313",+/-941,2.3,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",6,"Male householder, no spouse/partner present","62,103","+/-2,466",19.6,+/-0.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",7,With children of the householder under 18 years,"5,625","+/-1,028",1.8,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",8,Householder living alone,"43,198","+/-2,293",13.6,+/-0.7
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",9,65 years and over,"12,091","+/-1,033",3.8,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",10,"Female householder, no spouse/partner present","90,005","+/-2,716",28.4,+/-0.9
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",11,With children of the householder under 18 years,"15,485","+/-1,445",4.9,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",12,Householder living alone,"52,708","+/-2,603",16.6,+/-0.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",13,65 years and over,"22,832","+/-1,602",7.2,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",13.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",14,Households with one or more people under 18 years,"95,945","+/-3,150",30.3,+/-1.0
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",15,Households with one or more people 65 years and over,"89,638","+/-1,568",28.3,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",15.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",16,Average household size,2.50,+/-0.01,(X),(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",17,Average family size,3.16,+/-0.04,(X),(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",17.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",17.5,RELATIONSHIP,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",18,Population in households,"790,366","+/-3,726","790,366",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",19,Householder,"316,712","+/-1,803",40.1,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",20,Spouse,"144,153","+/-3,517",18.2,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",21,Unmarried partner,"20,548","+/-1,643",2.6,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",22,Child,"235,910","+/-4,193",29.8,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",23,Other relatives,"51,234","+/-3,981",6.5,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",24,Other nonrelatives,"21,809","+/-2,503",2.8,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",24.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",24.5,MARITAL STATUS,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",25,Males 15 years and over,"308,078","+/-1,598","308,078",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",26,Never married,"106,718","+/-3,119",34.6,+/-1.0
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",27,"Now married, except separated","154,260","+/-3,867",50.1,+/-1.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",28,Separated,"4,793",+/-810,1.6,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",29,Widowed,"9,544","+/-1,161",3.1,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",30,Divorced,"32,763","+/-2,130",10.6,+/-0.7
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",30.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",31,Females 15 years and over,"324,957","+/-1,492","324,957",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",32,Never married,"92,268","+/-2,392",28.4,+/-0.7
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",33,"Now married, except separated","152,212","+/-3,630",46.8,+/-1.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",34,Separated,"6,742","+/-1,004",2.1,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",35,Widowed,"27,109","+/-1,764",8.3,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",36,Divorced,"46,626","+/-2,647",14.3,+/-0.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",36.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",36.5,FERTILITY,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"11,688","+/-1,319","11,688",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",38,"Unmarried women (widowed, divorced, and never married)","4,008",+/-818,34.3,+/-5.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",39,"Per 1,000 unmarried women",39,+/-8,(X),(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",40,"Per 1,000 women 15 to 50 years old",62,+/-7,(X),(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",41,"Per 1,000 women 15 to 19 years old",13,+/-8,(X),(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",42,"Per 1,000 women 20 to 34 years old",107,+/-14,(X),(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",43,"Per 1,000 women 35 to 50 years old",31,+/-8,(X),(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",43.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",43.5,GRANDPARENTS,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",44,Number of grandparents living with own grandchildren under 18 years,"15,931","+/-1,952","15,931",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",45,Grandparents responsible for grandchildren,"6,698","+/-1,162",42.0,+/-5.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",46,Less than 1 year,"1,079",+/-478,6.8,+/-2.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",47,1 or 2 years,"1,287",+/-493,8.1,+/-3.0
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",48,3 or 4 years,"1,397",+/-531,8.8,+/-3.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",49,5 or more years,"2,935",+/-786,18.4,+/-4.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",49.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",50,Number of grandparents responsible for own grandchildren under 18 years,"6,698","+/-1,162","6,698",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",51,Who are female,"4,292",+/-776,64.1,+/-4.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",52,Who are married,"4,542","+/-1,009",67.8,+/-7.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",52.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",53,Population 3 years and over enrolled in school,"198,644","+/-3,618","198,644",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",54,"Nursery school, preschool","12,069","+/-1,309",6.1,+/-0.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",55,Kindergarten,"12,040","+/-1,279",6.1,+/-0.7
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",56,Elementary school (grades 1-8),"90,564","+/-2,186",45.6,+/-1.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",57,High school (grades 9-12),"43,078","+/-1,851",21.7,+/-0.9
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",58,College or graduate school,"40,893","+/-2,518",20.6,+/-1.0
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",58.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",59,Population 25 years and over,"530,026","+/-1,895","530,026",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",60,Less than 9th grade,"21,792","+/-1,945",4.1,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",61,"9th to 12th grade, no diploma","29,938","+/-2,255",5.6,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",62,High school graduate (includes equivalency),"140,367","+/-3,913",26.5,+/-0.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",63,"Some college, no degree","115,573","+/-4,179",21.8,+/-0.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",64,Associate's degree,"44,063","+/-2,473",8.3,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",65,Bachelor's degree,"115,733","+/-4,249",21.8,+/-0.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",66,Graduate or professional degree,"62,560","+/-3,061",11.8,+/-0.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",66.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",67,High school graduate or higher,"478,296","+/-3,331",90.2,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",68,Bachelor's degree or higher,"178,293","+/-4,978",33.6,+/-0.9
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",68.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",68.5,VETERAN STATUS,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",69,Civilian population 18 years and over,"598,447","+/-2,361","598,447",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",70,Civilian veterans,"44,160","+/-2,430",7.4,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",70.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",71,Total Civilian Noninstitutionalized Population,"793,180","+/-3,657","793,180",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",72,With a disability,"113,104","+/-4,294",14.3,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",72.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",73,Under 18 years,"199,276","+/-1,961","199,276",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",74,With a disability,"9,367","+/-1,564",4.7,+/-0.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",74.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",75,18 to 64 years,"474,228","+/-2,472","474,228",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",76,With a disability,"59,329","+/-3,113",12.5,+/-0.7
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",76.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",77,65 years and over,"119,676","+/-1,247","119,676",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",78,With a disability,"44,408","+/-1,980",37.1,+/-1.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",78.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",79,Population 1 year and over,"788,418","+/-3,651","788,418",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",80,Same house,"662,055","+/-8,162",84.0,+/-0.9
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",81,Different house (in the U.S. or abroad),"126,363","+/-7,348",16.0,+/-0.9
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",82,Different house in the U.S.,"124,647","+/-7,218",15.8,+/-0.9
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",83,Same county,"76,225","+/-5,463",9.7,+/-0.7
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",84,Different county,"48,422","+/-4,799",6.1,+/-0.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",85,Same state,"28,087","+/-3,391",3.6,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",86,Different state,"20,335","+/-2,957",2.6,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",87,Abroad,"1,716",+/-676,0.2,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",87.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",88,Total population,"798,974","+/-3,441","798,974",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",89,Native,"734,226","+/-4,508",91.9,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",90,Born in United States,"724,484","+/-4,659",90.7,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",91,State of residence,"465,434","+/-7,982",58.3,+/-0.9
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",92,Different state,"259,050","+/-7,665",32.4,+/-1.0
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","9,742","+/-1,961",1.2,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",94,Foreign born,"64,748","+/-3,128",8.1,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",94.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",95,Foreign-born population,"64,748","+/-3,128","64,748",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",96,Naturalized U.S. citizen,"26,533","+/-2,075",41.0,+/-2.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",97,Not a U.S. citizen,"38,215","+/-2,553",59.0,+/-2.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",97.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",98,Population born outside the United States,"74,490","+/-3,217","74,490",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",98.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",99,Native,"9,742","+/-1,961","9,742",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",100,Entered 2010 or later,"3,097","+/-1,043",31.8,+/-9.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",101,Entered before 2010,"6,645","+/-1,644",68.2,+/-9.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",101.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",102,Foreign born,"64,748","+/-3,128","64,748",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",103,Entered 2010 or later,"22,907","+/-2,387",35.4,+/-2.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",104,Entered before 2010,"41,841","+/-2,287",64.6,+/-2.8
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",104.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",105,"Foreign-born population, excluding population born at sea","64,748","+/-3,128","64,748",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",106,Europe,"3,965","+/-1,075",6.1,+/-1.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",107,Asia,"19,053","+/-1,471",29.4,+/-2.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",108,Africa,"3,057","+/-1,045",4.7,+/-1.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",109,Oceania,901,+/-378,1.4,+/-0.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",110,Latin America,"36,539","+/-2,229",56.4,+/-2.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",111,Northern America,"1,233",+/-490,1.9,+/-0.7
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",111.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",112,Population 5 years and over,"746,567","+/-3,129","746,567",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",113,English only,"642,382","+/-4,927",86.0,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",114,Language other than English,"104,185","+/-3,985",14.0,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",115,"Speak English less than ""very well""","39,944","+/-2,891",5.4,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",116,Spanish,"72,532","+/-2,847",9.7,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",117,"Speak English less than ""very well""","27,304","+/-2,330",3.7,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",118,Other Indo-European languages,"8,621","+/-1,509",1.2,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",119,"Speak English less than ""very well""","1,964",+/-699,0.3,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",120,Asian and Pacific Islander languages,"17,303","+/-1,991",2.3,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",121,"Speak English less than ""very well""","9,381","+/-1,462",1.3,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",122,Other languages,"5,729","+/-1,461",0.8,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",123,"Speak English less than ""very well""","1,295",+/-471,0.2,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",123.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",123.5,ANCESTRY,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",124,Total population,"798,974","+/-3,441","798,974",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",125,American,"38,130","+/-3,696",4.8,+/-0.5
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",126,Arab,"3,423","+/-1,235",0.4,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",127,Czech,"2,398",+/-700,0.3,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",128,Danish,"1,023",+/-485,0.1,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",129,Dutch,"6,887","+/-1,372",0.9,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",130,English,"103,154","+/-6,016",12.9,+/-0.7
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",131,French (except Basque),"14,968","+/-2,040",1.9,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",132,French Canadian,"1,280",+/-487,0.2,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",133,German,"102,859","+/-5,707",12.9,+/-0.7
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",134,Greek,"1,011",+/-534,0.1,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",135,Hungarian,789,+/-357,0.1,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",136,Irish,"80,599","+/-4,990",10.1,+/-0.6
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",137,Italian,"15,311","+/-2,107",1.9,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",138,Lithuanian,335,+/-210,0.0,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",139,Norwegian,"5,721","+/-1,327",0.7,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",140,Polish,"7,791","+/-1,577",1.0,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",141,Portuguese,"1,150",+/-707,0.1,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",142,Russian,"1,811",+/-729,0.2,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",143,Scotch-Irish,"7,395","+/-1,367",0.9,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",144,Scottish,"18,190","+/-2,263",2.3,+/-0.3
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",145,Slovak,209,+/-200,0.0,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",146,Subsaharan African,"6,571","+/-1,724",0.8,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",147,Swedish,"5,983","+/-1,527",0.7,+/-0.2
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",148,Swiss,"1,240",+/-458,0.2,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",149,Ukrainian,"1,293",+/-646,0.2,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",150,Welsh,"4,782",+/-958,0.6,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",151,West Indian (excluding Hispanic origin groups),"2,557",+/-805,0.3,+/-0.1
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",151.3,,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",152,Total households,"316,712","+/-1,803","316,712",(X)
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",153,With a computer,"301,999","+/-2,359",95.4,+/-0.4
+DP02,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",154,With a broadband Internet subscription,"287,622","+/-2,378",90.8,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",0.5,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",1,Total households,"306,467","+/-2,809","306,467",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",2,Married-couple household,"144,141","+/-3,553",47.0,+/-1.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",3,With children of the householder under 18 years,"49,362","+/-2,385",16.1,+/-0.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",4,Cohabiting couple household,"19,225","+/-1,596",6.3,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",5,With children of the householder under 18 years,"8,348","+/-1,015",2.7,+/-0.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",6,"Male householder, no spouse/partner present","57,650","+/-2,681",18.8,+/-0.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",7,With children of the householder under 18 years,"3,790",+/-691,1.2,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",8,Householder living alone,"43,090","+/-2,653",14.1,+/-0.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",9,65 years and over,"15,477","+/-1,231",5.1,+/-0.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",10,"Female householder, no spouse/partner present","85,451","+/-2,565",27.9,+/-0.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",11,With children of the householder under 18 years,"16,568","+/-1,631",5.4,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",12,Householder living alone,"47,120","+/-2,223",15.4,+/-0.7
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",13,65 years and over,"25,630","+/-1,547",8.4,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",13.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",14,Households with one or more people under 18 years,"91,520","+/-2,732",29.9,+/-0.9
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",15,Households with one or more people 65 years and over,"107,493","+/-1,727",35.1,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",15.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",16,Average household size,2.53,+/-0.02,(X),(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",17,Average family size,3.12,+/-0.04,(X),(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",17.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",17.5,RELATIONSHIP,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",18,Population in households,"774,704","+/-3,770","774,704",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",19,Householder,"306,467","+/-2,809",39.6,+/-0.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",20,Spouse,"144,150","+/-3,589",18.6,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",21,Unmarried partner,"19,156","+/-1,406",2.5,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",22,Child,"220,643","+/-4,706",28.5,+/-0.6
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",23,Other relatives,"61,439","+/-4,321",7.9,+/-0.6
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",24,Other nonrelatives,"22,849","+/-1,926",2.9,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",24.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",24.5,MARITAL STATUS,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",25,Males 15 years and over,"318,866","+/-2,269","318,866",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",26,Never married,"99,691","+/-3,176",31.3,+/-0.9
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",27,"Now married, except separated","156,342","+/-4,221",49.0,+/-1.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",28,Separated,"6,473","+/-1,058",2.0,+/-0.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",29,Widowed,"12,240","+/-1,098",3.8,+/-0.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",30,Divorced,"44,120","+/-2,395",13.8,+/-0.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",30.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",31,Females 15 years and over,"326,128","+/-1,888","326,128",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",32,Never married,"75,679","+/-2,442",23.2,+/-0.7
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",33,"Now married, except separated","154,900","+/-3,452",47.5,+/-1.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",34,Separated,"7,317",+/-995,2.2,+/-0.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",35,Widowed,"37,007","+/-2,130",11.3,+/-0.7
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",36,Divorced,"51,225","+/-2,394",15.7,+/-0.7
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",36.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",36.5,FERTILITY,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,309",+/-979,"9,309",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",38,"Unmarried women (widowed, divorced, and never married)","3,453",+/-729,37.1,+/-7.0
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",39,"Per 1,000 unmarried women",37,+/-8,(X),(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",40,"Per 1,000 women 15 to 50 years old",54,+/-6,(X),(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",41,"Per 1,000 women 15 to 19 years old",23,+/-12,(X),(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",42,"Per 1,000 women 20 to 34 years old",105,+/-12,(X),(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",43,"Per 1,000 women 35 to 50 years old",17,+/-4,(X),(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",43.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",43.5,GRANDPARENTS,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",44,Number of grandparents living with own grandchildren under 18 years,"17,920","+/-2,066","17,920",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",45,Grandparents responsible for grandchildren,"10,060","+/-1,383",56.1,+/-4.7
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",46,Less than 1 year,836,+/-358,4.7,+/-2.0
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",47,1 or 2 years,"2,090",+/-646,11.7,+/-3.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",48,3 or 4 years,"1,805",+/-584,10.1,+/-3.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",49,5 or more years,"5,329",+/-984,29.7,+/-4.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",49.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",50,Number of grandparents responsible for own grandchildren under 18 years,"10,060","+/-1,383","10,060",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",51,Who are female,"5,789",+/-866,57.5,+/-4.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",52,Who are married,"7,010","+/-1,134",69.7,+/-5.9
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",52.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",53,Population 3 years and over enrolled in school,"177,233","+/-3,089","177,233",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",54,"Nursery school, preschool","10,306","+/-1,151",5.8,+/-0.6
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",55,Kindergarten,"10,179","+/-1,137",5.7,+/-0.6
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",56,Elementary school (grades 1-8),"83,335","+/-2,494",47.0,+/-1.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",57,High school (grades 9-12),"41,721","+/-2,085",23.5,+/-1.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",58,College or graduate school,"31,692","+/-2,150",17.9,+/-1.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",58.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",59,Population 25 years and over,"538,527","+/-2,781","538,527",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",60,Less than 9th grade,"20,312","+/-1,589",3.8,+/-0.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",61,"9th to 12th grade, no diploma","51,691","+/-2,362",9.6,+/-0.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",62,High school graduate (includes equivalency),"201,257","+/-4,812",37.4,+/-0.9
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",63,"Some college, no degree","115,989","+/-3,870",21.5,+/-0.7
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",64,Associate's degree,"46,385","+/-2,445",8.6,+/-0.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",65,Bachelor's degree,"72,787","+/-3,233",13.5,+/-0.6
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",66,Graduate or professional degree,"30,106","+/-2,409",5.6,+/-0.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",66.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",67,High school graduate or higher,"466,524","+/-3,225",86.6,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",68,Bachelor's degree or higher,"102,893","+/-4,008",19.1,+/-0.7
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",68.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",68.5,VETERAN STATUS,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",69,Civilian population 18 years and over,"611,257","+/-2,454","611,257",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",70,Civilian veterans,"50,570","+/-2,471",8.3,+/-0.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",70.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",71,Total Civilian Noninstitutionalized Population,"780,533","+/-3,617","780,533",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",72,With a disability,"170,799","+/-4,315",21.9,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",72.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",73,Under 18 years,"183,380","+/-1,855","183,380",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",74,With a disability,"13,118","+/-1,447",7.2,+/-0.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",74.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",75,18 to 64 years,"449,310","+/-2,862","449,310",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",76,With a disability,"87,376","+/-3,343",19.4,+/-0.7
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",76.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",77,65 years and over,"147,843","+/-1,459","147,843",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",78,With a disability,"70,305","+/-2,758",47.6,+/-1.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",78.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",79,Population 1 year and over,"786,802","+/-3,511","786,802",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",80,Same house,"697,483","+/-5,428",88.6,+/-0.6
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",81,Different house (in the U.S. or abroad),"89,319","+/-5,037",11.4,+/-0.6
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",82,Different house in the U.S.,"88,368","+/-4,976",11.2,+/-0.6
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",83,Same county,"42,574","+/-3,882",5.4,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",84,Different county,"45,794","+/-4,047",5.8,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",85,Same state,"29,149","+/-3,109",3.7,+/-0.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",86,Different state,"16,645","+/-2,703",2.1,+/-0.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",87,Abroad,951,+/-410,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",87.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",88,Total population,"795,387","+/-3,316","795,387",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",89,Native,"776,420","+/-3,870",97.6,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",90,Born in United States,"772,183","+/-3,862",97.1,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",91,State of residence,"489,213","+/-6,849",61.5,+/-0.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",92,Different state,"282,970","+/-6,195",35.6,+/-0.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","4,237","+/-1,064",0.5,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",94,Foreign born,"18,967","+/-1,850",2.4,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",94.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",95,Foreign-born population,"18,967","+/-1,850","18,967",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",96,Naturalized U.S. citizen,"9,038","+/-1,229",47.7,+/-4.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",97,Not a U.S. citizen,"9,929","+/-1,260",52.3,+/-4.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",97.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",98,Population born outside the United States,"23,204","+/-1,945","23,204",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",98.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",99,Native,"4,237","+/-1,064","4,237",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",100,Entered 2010 or later,753,+/-589,17.8,+/-11.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",101,Entered before 2010,"3,484",+/-794,82.2,+/-11.8
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",101.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",102,Foreign born,"18,967","+/-1,850","18,967",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",103,Entered 2010 or later,"4,639","+/-1,208",24.5,+/-5.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",104,Entered before 2010,"14,328","+/-1,438",75.5,+/-5.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",104.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",106,Europe,N,N,N,N
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",107,Asia,N,N,N,N
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",108,Africa,N,N,N,N
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",109,Oceania,N,N,N,N
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",110,Latin America,N,N,N,N
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",111,Northern America,N,N,N,N
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",111.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",112,Population 5 years and over,"749,801","+/-3,075","749,801",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",113,English only,"709,837","+/-4,161",94.7,+/-0.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",114,Language other than English,"39,964","+/-2,784",5.3,+/-0.4
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",115,"Speak English less than ""very well""","12,007","+/-1,633",1.6,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",116,Spanish,"24,457","+/-2,303",3.3,+/-0.3
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",117,"Speak English less than ""very well""","8,424","+/-1,495",1.1,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",118,Other Indo-European languages,"3,911",+/-989,0.5,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",119,"Speak English less than ""very well""",869,+/-415,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",120,Asian and Pacific Islander languages,"4,851",+/-805,0.6,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",121,"Speak English less than ""very well""","1,931",+/-507,0.3,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",122,Other languages,"6,745","+/-1,202",0.9,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",123,"Speak English less than ""very well""",783,+/-317,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",123.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",123.5,ANCESTRY,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",124,Total population,"795,387","+/-3,316","795,387",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",125,American,"64,772","+/-4,109",8.1,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",126,Arab,476,+/-271,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",127,Czech,"1,444",+/-473,0.2,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",128,Danish,829,+/-340,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",129,Dutch,"6,793","+/-1,135",0.9,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",130,English,"76,919","+/-4,306",9.7,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",131,French (except Basque),"8,882","+/-1,081",1.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",132,French Canadian,587,+/-285,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",133,German,"82,299","+/-4,145",10.3,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",134,Greek,824,+/-402,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",135,Hungarian,857,+/-472,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",136,Irish,"83,419","+/-5,394",10.5,+/-0.7
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",137,Italian,"10,665","+/-1,778",1.3,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",138,Lithuanian,157,+/-126,0.0,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",139,Norwegian,"4,417","+/-1,250",0.6,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",140,Polish,"4,415","+/-1,136",0.6,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",141,Portuguese,587,+/-264,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",142,Russian,"1,830",+/-643,0.2,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",143,Scotch-Irish,"4,891","+/-1,188",0.6,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",144,Scottish,"11,850","+/-1,744",1.5,+/-0.2
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",145,Slovak,72,+/-102,0.0,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",146,Subsaharan African,"1,252",+/-480,0.2,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",147,Swedish,"3,458","+/-1,128",0.4,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",148,Swiss,725,+/-504,0.1,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",149,Ukrainian,286,+/-277,0.0,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",150,Welsh,"2,431",+/-884,0.3,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",151,West Indian (excluding Hispanic origin groups),"2,565",+/-707,0.3,+/-0.1
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",151.3,,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",152,Total households,"306,467","+/-2,809","306,467",(X)
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",153,With a computer,"278,061","+/-2,791",90.7,+/-0.5
+DP02,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",154,With a broadband Internet subscription,"245,637","+/-3,510",80.2,+/-0.9
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",0.5,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",1,Total households,"294,563","+/-4,770","294,563",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",2,Married-couple household,"136,832","+/-4,567",46.5,+/-1.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",3,With children of the householder under 18 years,"52,998","+/-2,657",18.0,+/-0.9
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",4,Cohabiting couple household,"18,889","+/-2,305",6.4,+/-0.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",5,With children of the householder under 18 years,"6,847","+/-1,253",2.3,+/-0.4
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",6,"Male householder, no spouse/partner present","58,329","+/-3,540",19.8,+/-1.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",7,With children of the householder under 18 years,"6,104","+/-1,307",2.1,+/-0.4
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",8,Householder living alone,"39,633","+/-3,020",13.5,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",9,65 years and over,"11,638","+/-1,469",4.0,+/-0.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",10,"Female householder, no spouse/partner present","80,513","+/-4,260",27.3,+/-1.3
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",11,With children of the householder under 18 years,"18,177","+/-2,666",6.2,+/-0.9
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",12,Householder living alone,"46,876","+/-3,130",15.9,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",13,65 years and over,"22,989","+/-1,814",7.8,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",13.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",14,Households with one or more people under 18 years,"94,014","+/-3,899",31.9,+/-1.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",15,Households with one or more people 65 years and over,"87,167","+/-2,636",29.6,+/-0.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",15.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",16,Average household size,2.57,+/-0.04,(X),(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",17,Average family size,3.20,+/-0.06,(X),(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",17.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",17.5,RELATIONSHIP,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",18,Population in households,"756,496","+/-9,848","756,496",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",19,Householder,"294,563","+/-4,770",38.9,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",20,Spouse,"137,108","+/-4,656",18.1,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",21,Unmarried partner,"19,326","+/-2,243",2.6,+/-0.3
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",22,Child,"230,646","+/-8,155",30.5,+/-0.9
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",23,Other relatives,"50,062","+/-4,926",6.6,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",24,Other nonrelatives,"24,791","+/-3,298",3.3,+/-0.4
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",24.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",24.5,MARITAL STATUS,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",25,Males 15 years and over,"315,813","+/-5,161","315,813",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",26,Never married,"114,897","+/-4,279",36.4,+/-1.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",27,"Now married, except separated","150,187","+/-4,738",47.6,+/-1.4
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",28,Separated,"4,761","+/-1,116",1.5,+/-0.4
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",29,Widowed,"11,026","+/-1,480",3.5,+/-0.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",30,Divorced,"34,942","+/-2,739",11.1,+/-0.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",30.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",31,Females 15 years and over,"309,737","+/-4,647","309,737",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",32,Never married,"85,979","+/-4,569",27.8,+/-1.3
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",33,"Now married, except separated","146,019","+/-5,095",47.1,+/-1.7
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",34,Separated,"6,608","+/-1,399",2.1,+/-0.4
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",35,Widowed,"30,493","+/-2,130",9.8,+/-0.7
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",36,Divorced,"40,638","+/-2,937",13.1,+/-0.9
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",36.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",36.5,FERTILITY,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,996","+/-1,784","8,996",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",38,"Unmarried women (widowed, divorced, and never married)","3,073","+/-1,140",34.2,+/-9.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",39,"Per 1,000 unmarried women",32,+/-12,(X),(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",40,"Per 1,000 women 15 to 50 years old",50,+/-10,(X),(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",41,"Per 1,000 women 15 to 19 years old",26,+/-15,(X),(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",42,"Per 1,000 women 20 to 34 years old",86,+/-21,(X),(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",43,"Per 1,000 women 35 to 50 years old",26,+/-8,(X),(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",43.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",43.5,GRANDPARENTS,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",44,Number of grandparents living with own grandchildren under 18 years,"15,426","+/-2,179","15,426",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",45,Grandparents responsible for grandchildren,"7,230","+/-1,260",46.9,+/-5.7
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",46,Less than 1 year,578,+/-348,3.7,+/-2.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",47,1 or 2 years,"1,603",+/-739,10.4,+/-4.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",48,3 or 4 years,772,+/-385,5.0,+/-2.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",49,5 or more years,"4,277",+/-902,27.7,+/-5.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",49.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",50,Number of grandparents responsible for own grandchildren under 18 years,"7,230","+/-1,260","7,230",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",51,Who are female,"5,121",+/-912,70.8,+/-5.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",52,Who are married,"4,793","+/-1,099",66.3,+/-7.4
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",52.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",53,Population 3 years and over enrolled in school,"206,792","+/-7,039","206,792",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",54,"Nursery school, preschool","11,041","+/-1,583",5.3,+/-0.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",55,Kindergarten,"12,059","+/-1,489",5.8,+/-0.7
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",56,Elementary school (grades 1-8),"89,400","+/-4,063",43.2,+/-1.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",57,High school (grades 9-12),"46,619","+/-3,148",22.5,+/-1.3
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",58,College or graduate school,"47,673","+/-3,846",23.1,+/-1.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",58.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",59,Population 25 years and over,"506,373","+/-6,576","506,373",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",60,Less than 9th grade,"32,616","+/-3,038",6.4,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",61,"9th to 12th grade, no diploma","47,615","+/-3,263",9.4,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",62,High school graduate (includes equivalency),"170,436","+/-5,656",33.7,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",63,"Some college, no degree","106,382","+/-4,872",21.0,+/-0.9
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",64,Associate's degree,"40,205","+/-3,261",7.9,+/-0.7
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",65,Bachelor's degree,"72,303","+/-4,419",14.3,+/-0.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",66,Graduate or professional degree,"36,816","+/-3,196",7.3,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",66.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",67,High school graduate or higher,"426,142","+/-6,652",84.2,+/-0.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",68,Bachelor's degree or higher,"109,119","+/-5,586",21.5,+/-1.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",68.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",68.5,VETERAN STATUS,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",69,Civilian population 18 years and over,"587,080","+/-7,215","587,080",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",70,Civilian veterans,"41,265","+/-2,875",7.0,+/-0.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",70.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",71,Total Civilian Noninstitutionalized Population,"763,539","+/-9,941","763,539",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",72,With a disability,"130,525","+/-5,730",17.1,+/-0.7
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",72.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",73,Under 18 years,"194,263","+/-5,105","194,263",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",74,With a disability,"11,259","+/-1,862",5.8,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",74.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",75,18 to 64 years,"449,499","+/-6,523","449,499",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",76,With a disability,"67,513","+/-4,044",15.0,+/-0.9
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",76.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",77,65 years and over,"119,777","+/-3,289","119,777",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",78,With a disability,"51,753","+/-2,493",43.2,+/-1.9
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",78.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",79,Population 1 year and over,"778,669","+/-10,137","778,669",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",80,Same house,"664,419","+/-12,586",85.3,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",81,Different house (in the U.S. or abroad),"114,250","+/-7,914",14.7,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",82,Different house in the U.S.,"111,190","+/-7,659",14.3,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",83,Same county,"57,984","+/-5,794",7.4,+/-0.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",84,Different county,"53,206","+/-5,249",6.8,+/-0.7
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",85,Same state,"35,545","+/-4,699",4.6,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",86,Different state,"17,661","+/-2,759",2.3,+/-0.4
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",87,Abroad,"3,060","+/-1,123",0.4,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",87.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",88,Total population,"786,296","+/-9,842","786,296",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",89,Native,"723,391","+/-9,800",92.0,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",90,Born in United States,"716,992","+/-9,655",91.2,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",91,State of residence,"480,789","+/-10,735",61.1,+/-1.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",92,Different state,"236,203","+/-8,017",30.0,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","6,399","+/-1,147",0.8,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",94,Foreign born,"62,905","+/-4,969",8.0,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",94.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",95,Foreign-born population,"62,905","+/-4,969","62,905",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",96,Naturalized U.S. citizen,"20,100","+/-2,510",32.0,+/-3.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",97,Not a U.S. citizen,"42,805","+/-4,615",68.0,+/-3.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",97.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",98,Population born outside the United States,"69,304","+/-4,954","69,304",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",98.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",99,Native,"6,399","+/-1,147","6,399",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",100,Entered 2010 or later,"1,822",+/-810,28.5,+/-9.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",101,Entered before 2010,"4,577",+/-782,71.5,+/-9.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",101.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",102,Foreign born,"62,905","+/-4,969","62,905",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",103,Entered 2010 or later,"17,273","+/-3,329",27.5,+/-4.3
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",104,Entered before 2010,"45,632","+/-3,924",72.5,+/-4.3
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",104.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",106,Europe,N,N,N,N
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",107,Asia,N,N,N,N
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",108,Africa,N,N,N,N
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",109,Oceania,N,N,N,N
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",110,Latin America,N,N,N,N
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",111,Northern America,N,N,N,N
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",111.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",112,Population 5 years and over,"739,803","+/-9,706","739,803",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",113,English only,"618,693","+/-9,134",83.6,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",114,Language other than English,"121,110","+/-7,699",16.4,+/-1.0
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",115,"Speak English less than ""very well""","44,394","+/-4,531",6.0,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",116,Spanish,"100,541","+/-7,191",13.6,+/-0.9
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",117,"Speak English less than ""very well""","37,472","+/-3,953",5.1,+/-0.5
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",118,Other Indo-European languages,"6,899","+/-1,704",0.9,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",119,"Speak English less than ""very well""","1,858",+/-901,0.3,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",120,Asian and Pacific Islander languages,"9,636","+/-2,337",1.3,+/-0.3
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",121,"Speak English less than ""very well""","4,465","+/-1,322",0.6,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",122,Other languages,"4,034","+/-1,178",0.5,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",123,"Speak English less than ""very well""",599,+/-513,0.1,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",123.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",123.5,ANCESTRY,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",124,Total population,"786,296","+/-9,842","786,296",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",125,American,"40,689","+/-4,717",5.2,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",126,Arab,"2,883","+/-2,171",0.4,+/-0.3
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",127,Czech,"3,948","+/-1,345",0.5,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",128,Danish,615,+/-289,0.1,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",129,Dutch,"7,695","+/-1,692",1.0,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",130,English,"72,731","+/-5,178",9.2,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",131,French (except Basque),"8,743","+/-1,577",1.1,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",132,French Canadian,642,+/-453,0.1,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",133,German,"105,330","+/-6,204",13.4,+/-0.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",134,Greek,673,+/-451,0.1,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",135,Hungarian,451,+/-425,0.1,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",136,Irish,"70,623","+/-4,801",9.0,+/-0.6
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",137,Italian,"8,770","+/-1,587",1.1,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",138,Lithuanian,300,+/-241,0.0,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",139,Norwegian,"4,205","+/-1,339",0.5,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",140,Polish,"4,117","+/-1,129",0.5,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",141,Portuguese,461,+/-333,0.1,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",142,Russian,"2,769","+/-1,319",0.4,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",143,Scotch-Irish,"6,514","+/-1,388",0.8,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",144,Scottish,"12,905","+/-2,873",1.6,+/-0.4
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",145,Slovak,77,+/-74,0.0,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",146,Subsaharan African,"1,736",+/-798,0.2,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",147,Swedish,"4,365","+/-1,469",0.6,+/-0.2
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",148,Swiss,"1,306",+/-649,0.2,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",149,Ukrainian,506,+/-355,0.1,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",150,Welsh,"2,282",+/-935,0.3,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",151,West Indian (excluding Hispanic origin groups),"1,255",+/-548,0.2,+/-0.1
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",151.3,,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",152,Total households,"294,563","+/-4,770","294,563",(X)
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",153,With a computer,"272,867","+/-5,046",92.6,+/-0.8
+DP02,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",154,With a broadband Internet subscription,"256,033","+/-5,167",86.9,+/-0.9
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",0.5,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",1,Total households,"307,721","+/-3,225","307,721",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",2,Married-couple household,"151,849","+/-3,936",49.3,+/-1.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",3,With children of the householder under 18 years,"61,323","+/-3,165",19.9,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",4,Cohabiting couple household,"21,734","+/-1,793",7.1,+/-0.6
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",5,With children of the householder under 18 years,"6,586","+/-1,150",2.1,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",6,"Male householder, no spouse/partner present","54,665","+/-3,128",17.8,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",7,With children of the householder under 18 years,"4,920","+/-1,075",1.6,+/-0.3
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",8,Householder living alone,"39,832","+/-3,208",12.9,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",9,65 years and over,"11,114","+/-1,548",3.6,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",10,"Female householder, no spouse/partner present","79,473","+/-3,385",25.8,+/-1.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",11,With children of the householder under 18 years,"16,539","+/-2,131",5.4,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",12,Householder living alone,"45,434","+/-2,676",14.8,+/-0.9
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",13,65 years and over,"22,823","+/-1,683",7.4,+/-0.6
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",13.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",14,Households with one or more people under 18 years,"99,257","+/-2,934",32.3,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",15,Households with one or more people 65 years and over,"88,613","+/-2,280",28.8,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",15.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",16,Average household size,2.50,+/-0.03,(X),(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",17,Average family size,3.06,+/-0.05,(X),(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",17.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",17.5,RELATIONSHIP,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",18,Population in households,"770,404","+/-5,666","770,404",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",19,Householder,"307,721","+/-3,225",39.9,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",20,Spouse,"152,071","+/-3,694",19.7,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",21,Unmarried partner,"21,525","+/-2,052",2.8,+/-0.3
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",22,Child,"219,974","+/-6,155",28.6,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",23,Other relatives,"43,803","+/-4,166",5.7,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",24,Other nonrelatives,"25,310","+/-2,937",3.3,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",24.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",24.5,MARITAL STATUS,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",25,Males 15 years and over,"319,873","+/-2,624","319,873",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",26,Never married,"108,532","+/-3,602",33.9,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",27,"Now married, except separated","161,755","+/-3,296",50.6,+/-1.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",28,Separated,"5,947","+/-1,098",1.9,+/-0.3
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",29,Widowed,"8,532","+/-1,394",2.7,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",30,Divorced,"35,107","+/-3,108",11.0,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",30.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",31,Females 15 years and over,"325,482","+/-2,376","325,482",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",32,Never married,"86,880","+/-3,034",26.7,+/-0.9
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",33,"Now married, except separated","159,630","+/-4,725",49.0,+/-1.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",34,Separated,"6,040","+/-1,144",1.9,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",35,Widowed,"28,369","+/-2,237",8.7,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",36,Divorced,"44,563","+/-3,367",13.7,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",36.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",36.5,FERTILITY,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"10,097","+/-1,659","10,097",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",38,"Unmarried women (widowed, divorced, and never married)","2,345",+/-750,23.2,+/-6.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",39,"Per 1,000 unmarried women",23,+/-7,(X),(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",40,"Per 1,000 women 15 to 50 years old",53,+/-9,(X),(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",41,"Per 1,000 women 15 to 19 years old",6,+/-7,(X),(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",42,"Per 1,000 women 20 to 34 years old",92,+/-18,(X),(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",43,"Per 1,000 women 35 to 50 years old",27,+/-11,(X),(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",43.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",43.5,GRANDPARENTS,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",44,Number of grandparents living with own grandchildren under 18 years,"16,608","+/-2,385","16,608",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",45,Grandparents responsible for grandchildren,"7,564","+/-1,503",45.5,+/-6.8
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",46,Less than 1 year,"1,062",+/-689,6.4,+/-4.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",47,1 or 2 years,"1,225",+/-506,7.4,+/-3.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",48,3 or 4 years,"1,429",+/-682,8.6,+/-4.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",49,5 or more years,"3,848","+/-1,170",23.2,+/-6.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",49.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",50,Number of grandparents responsible for own grandchildren under 18 years,"7,564","+/-1,503","7,564",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",51,Who are female,"4,460",+/-902,59.0,+/-4.6
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",52,Who are married,"5,621","+/-1,334",74.3,+/-7.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",52.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",53,Population 3 years and over enrolled in school,"202,420","+/-5,697","202,420",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",54,"Nursery school, preschool","10,901","+/-1,492",5.4,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",55,Kindergarten,"11,046","+/-1,449",5.5,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",56,Elementary school (grades 1-8),"85,987","+/-2,770",42.5,+/-1.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",57,High school (grades 9-12),"40,888","+/-2,065",20.2,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",58,College or graduate school,"53,598","+/-4,001",26.5,+/-1.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",58.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",59,Population 25 years and over,"524,505","+/-3,579","524,505",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",60,Less than 9th grade,"13,829","+/-2,059",2.6,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",61,"9th to 12th grade, no diploma","37,531","+/-3,014",7.2,+/-0.6
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",62,High school graduate (includes equivalency),"167,517","+/-5,729",31.9,+/-1.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",63,"Some college, no degree","119,351","+/-5,309",22.8,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",64,Associate's degree,"40,938","+/-3,063",7.8,+/-0.6
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",65,Bachelor's degree,"92,522","+/-4,381",17.6,+/-0.8
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",66,Graduate or professional degree,"52,817","+/-3,600",10.1,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",66.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",67,High school graduate or higher,"473,145","+/-4,809",90.2,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",68,Bachelor's degree or higher,"145,339","+/-5,003",27.7,+/-0.9
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",68.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",68.5,VETERAN STATUS,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",69,Civilian population 18 years and over,"599,201","+/-4,051","599,201",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",70,Civilian veterans,"55,255","+/-3,359",9.2,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",70.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",71,Total Civilian Noninstitutionalized Population,"771,553","+/-5,731","771,553",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",72,With a disability,"137,063","+/-5,941",17.8,+/-0.8
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",72.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",73,Under 18 years,"183,372","+/-3,032","183,372",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",74,With a disability,"10,738","+/-1,764",5.9,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",74.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",75,18 to 64 years,"466,596","+/-4,315","466,596",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",76,With a disability,"74,484","+/-4,548",16.0,+/-0.9
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",76.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",77,65 years and over,"121,585","+/-2,468","121,585",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",78,With a disability,"51,841","+/-2,753",42.6,+/-2.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",78.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",79,Population 1 year and over,"789,609","+/-4,761","789,609",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",80,Same house,"657,153","+/-8,337",83.2,+/-0.9
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",81,Different house (in the U.S. or abroad),"132,456","+/-6,777",16.8,+/-0.9
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",82,Different house in the U.S.,"128,509","+/-6,615",16.3,+/-0.8
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",83,Same county,"68,634","+/-6,166",8.7,+/-0.8
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",84,Different county,"59,875","+/-5,449",7.6,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",85,Same state,"29,691","+/-3,774",3.8,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",86,Different state,"30,184","+/-4,126",3.8,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",87,Abroad,"3,947","+/-1,883",0.5,+/-0.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",87.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",88,Total population,"797,575","+/-4,605","797,575",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",89,Native,"761,379","+/-5,700",95.5,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",90,Born in United States,"744,813","+/-6,160",93.4,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",91,State of residence,"479,565","+/-9,315",60.1,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",92,Different state,"265,248","+/-8,016",33.3,+/-1.0
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","16,566","+/-2,789",2.1,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",94,Foreign born,"36,196","+/-3,706",4.5,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",94.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",95,Foreign-born population,"36,196","+/-3,706","36,196",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",96,Naturalized U.S. citizen,"18,353","+/-2,667",50.7,+/-5.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",97,Not a U.S. citizen,"17,843","+/-2,708",49.3,+/-5.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",97.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",98,Population born outside the United States,"52,762","+/-4,245","52,762",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",98.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",99,Native,"16,566","+/-2,789","16,566",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",100,Entered 2010 or later,"3,118","+/-1,377",18.8,+/-6.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",101,Entered before 2010,"13,448","+/-2,158",81.2,+/-6.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",101.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",102,Foreign born,"36,196","+/-3,706","36,196",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",103,Entered 2010 or later,"9,834","+/-2,133",27.2,+/-4.6
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",104,Entered before 2010,"26,362","+/-2,837",72.8,+/-4.6
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",104.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",106,Europe,N,N,N,N
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",107,Asia,N,N,N,N
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",108,Africa,N,N,N,N
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",109,Oceania,N,N,N,N
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",110,Latin America,N,N,N,N
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",111,Northern America,N,N,N,N
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",111.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",112,Population 5 years and over,"753,104","+/-4,802","753,104",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",113,English only,"691,644","+/-5,874",91.8,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",114,Language other than English,"61,460","+/-3,977",8.2,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",115,"Speak English less than ""very well""","19,762","+/-2,408",2.6,+/-0.3
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",116,Spanish,"35,505","+/-2,827",4.7,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",117,"Speak English less than ""very well""","12,577","+/-1,716",1.7,+/-0.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",118,Other Indo-European languages,"8,950","+/-2,127",1.2,+/-0.3
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",119,"Speak English less than ""very well""","1,464",+/-796,0.2,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",120,Asian and Pacific Islander languages,"12,756","+/-2,215",1.7,+/-0.3
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",121,"Speak English less than ""very well""","5,068","+/-1,120",0.7,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",122,Other languages,"4,249","+/-1,224",0.6,+/-0.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",123,"Speak English less than ""very well""",653,+/-555,0.1,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",123.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",123.5,ANCESTRY,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",124,Total population,"797,575","+/-4,605","797,575",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",125,American,"55,139","+/-5,383",6.9,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",126,Arab,"1,425",+/-793,0.2,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",127,Czech,"2,153",+/-974,0.3,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",128,Danish,"1,090",+/-512,0.1,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",129,Dutch,"5,709","+/-1,118",0.7,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",130,English,"92,621","+/-6,016",11.6,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",131,French (except Basque),"10,963","+/-2,119",1.4,+/-0.3
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",132,French Canadian,"1,122",+/-552,0.1,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",133,German,"92,359","+/-6,000",11.6,+/-0.7
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",134,Greek,972,+/-609,0.1,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",135,Hungarian,"1,047",+/-684,0.1,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",136,Irish,"80,197","+/-6,469",10.1,+/-0.8
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",137,Italian,"14,153","+/-2,857",1.8,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",138,Lithuanian,532,+/-431,0.1,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",139,Norwegian,"5,112","+/-1,586",0.6,+/-0.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",140,Polish,"6,260","+/-1,573",0.8,+/-0.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",141,Portuguese,"1,105",+/-496,0.1,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",142,Russian,"2,831","+/-1,124",0.4,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",143,Scotch-Irish,"8,260","+/-2,267",1.0,+/-0.3
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",144,Scottish,"19,073","+/-3,285",2.4,+/-0.4
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",145,Slovak,61,+/-77,0.0,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",146,Subsaharan African,"5,509","+/-1,508",0.7,+/-0.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",147,Swedish,"4,382","+/-1,272",0.5,+/-0.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",148,Swiss,553,+/-296,0.1,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",149,Ukrainian,642,+/-429,0.1,+/-0.1
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",150,Welsh,"4,653","+/-1,197",0.6,+/-0.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",151,West Indian (excluding Hispanic origin groups),"4,375","+/-1,211",0.5,+/-0.2
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",151.3,,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",152,Total households,"307,721","+/-3,225","307,721",(X)
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",153,With a computer,"293,937","+/-3,394",95.5,+/-0.5
+DP02,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",154,With a broadband Internet subscription,"275,659","+/-3,324",89.6,+/-0.9
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",0.5,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",1,Total households,"322,504","+/-4,814","322,504",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",2,Married-couple household,"155,232","+/-4,409",48.1,+/-1.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",3,With children of the householder under 18 years,"61,291","+/-3,595",19.0,+/-1.0
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",4,Cohabiting couple household,"21,010","+/-2,550",6.5,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",5,With children of the householder under 18 years,"7,320","+/-1,467",2.3,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",6,"Male householder, no spouse/partner present","57,060","+/-3,680",17.7,+/-1.0
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",7,With children of the householder under 18 years,"4,203","+/-1,101",1.3,+/-0.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",8,Householder living alone,"41,653","+/-3,266",12.9,+/-1.0
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",9,65 years and over,"10,991","+/-1,396",3.4,+/-0.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",10,"Female householder, no spouse/partner present","89,202","+/-4,071",27.7,+/-1.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",11,With children of the householder under 18 years,"16,230","+/-2,129",5.0,+/-0.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",12,Householder living alone,"54,529","+/-3,513",16.9,+/-1.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",13,65 years and over,"23,585","+/-1,953",7.3,+/-0.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",13.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",14,Households with one or more people under 18 years,"98,080","+/-4,509",30.4,+/-1.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",15,Households with one or more people 65 years and over,"90,364","+/-2,487",28.0,+/-0.7
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",15.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",16,Average household size,2.46,+/-0.03,(X),(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",17,Average family size,3.07,+/-0.05,(X),(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",17.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",17.5,RELATIONSHIP,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",18,Population in households,"792,780","+/-10,970","792,780",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",19,Householder,"322,504","+/-4,814",40.7,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",20,Spouse,"154,263","+/-4,352",19.5,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",21,Unmarried partner,"21,259","+/-2,507",2.7,+/-0.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",22,Child,"235,390","+/-7,264",29.7,+/-0.7
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",23,Other relatives,"39,512","+/-4,226",5.0,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",24,Other nonrelatives,"19,852","+/-3,495",2.5,+/-0.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",24.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",24.5,MARITAL STATUS,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",25,Males 15 years and over,"312,466","+/-5,172","312,466",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",26,Never married,"104,523","+/-4,646",33.5,+/-1.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",27,"Now married, except separated","165,331","+/-5,075",52.9,+/-1.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",28,Separated,"3,983","+/-1,094",1.3,+/-0.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",29,Widowed,"7,827","+/-1,493",2.5,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",30,Divorced,"30,802","+/-3,055",9.9,+/-1.0
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",30.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",31,Females 15 years and over,"334,310","+/-4,699","334,310",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",32,Never married,"95,395","+/-4,860",28.5,+/-1.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",33,"Now married, except separated","161,825","+/-4,963",48.4,+/-1.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",34,Separated,"6,234","+/-1,347",1.9,+/-0.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",35,Widowed,"28,018","+/-2,039",8.4,+/-0.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",36,Divorced,"42,838","+/-3,253",12.8,+/-1.0
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",36.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",36.5,FERTILITY,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,976","+/-1,487","8,976",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",38,"Unmarried women (widowed, divorced, and never married)","2,220",+/-764,24.7,+/-7.7
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",39,"Per 1,000 unmarried women",21,+/-7,(X),(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",40,"Per 1,000 women 15 to 50 years old",45,+/-8,(X),(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",41,"Per 1,000 women 15 to 19 years old",17,+/-11,(X),(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",42,"Per 1,000 women 20 to 34 years old",70,+/-15,(X),(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",43,"Per 1,000 women 35 to 50 years old",29,+/-9,(X),(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",43.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",43.5,GRANDPARENTS,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",44,Number of grandparents living with own grandchildren under 18 years,"12,784","+/-2,216","12,784",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",45,Grandparents responsible for grandchildren,"5,233","+/-1,284",40.9,+/-7.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",46,Less than 1 year,920,+/-554,7.2,+/-4.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",47,1 or 2 years,"1,021",+/-644,8.0,+/-4.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",48,3 or 4 years,879,+/-502,6.9,+/-3.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",49,5 or more years,"2,413",+/-834,18.9,+/-6.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",49.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",50,Number of grandparents responsible for own grandchildren under 18 years,"5,233","+/-1,284","5,233",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",51,Who are female,"3,748","+/-1,077",71.6,+/-6.9
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",52,Who are married,"2,720",+/-913,52.0,+/-13.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",52.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",53,Population 3 years and over enrolled in school,"200,527","+/-5,594","200,527",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",54,"Nursery school, preschool","12,892","+/-1,767",6.4,+/-0.9
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",55,Kindergarten,"11,490","+/-1,795",5.7,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",56,Elementary school (grades 1-8),"88,343","+/-3,648",44.1,+/-1.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",57,High school (grades 9-12),"42,715","+/-2,611",21.3,+/-1.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",58,College or graduate school,"45,087","+/-3,865",22.5,+/-1.7
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",58.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",59,Population 25 years and over,"540,458","+/-7,028","540,458",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",60,Less than 9th grade,"13,689","+/-2,074",2.5,+/-0.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",61,"9th to 12th grade, no diploma","29,001","+/-2,847",5.4,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",62,High school graduate (includes equivalency),"132,084","+/-6,077",24.4,+/-1.0
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",63,"Some college, no degree","121,620","+/-5,155",22.5,+/-0.9
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",64,Associate's degree,"42,525","+/-3,647",7.9,+/-0.7
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",65,Bachelor's degree,"129,823","+/-5,902",24.0,+/-1.0
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",66,Graduate or professional degree,"71,716","+/-4,438",13.3,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",66.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",67,High school graduate or higher,"497,768","+/-7,192",92.1,+/-0.7
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",68,Bachelor's degree or higher,"201,539","+/-6,819",37.3,+/-1.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",68.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",68.5,VETERAN STATUS,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",69,Civilian population 18 years and over,"608,487","+/-7,331","608,487",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",70,Civilian veterans,"48,896","+/-3,350",8.0,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",70.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",71,Total Civilian Noninstitutionalized Population,"796,467","+/-10,761","796,467",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",72,With a disability,"120,257","+/-6,672",15.1,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",72.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",73,Under 18 years,"195,644","+/-5,576","195,644",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",74,With a disability,"9,281","+/-1,905",4.7,+/-1.0
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",74.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",75,18 to 64 years,"479,204","+/-6,987","479,204",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",76,With a disability,"66,884","+/-5,167",14.0,+/-1.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",76.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",77,65 years and over,"121,619","+/-3,006","121,619",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",78,With a disability,"44,092","+/-2,964",36.3,+/-2.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",78.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",79,Population 1 year and over,"799,945","+/-10,843","799,945",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",80,Same house,"666,310","+/-13,206",83.3,+/-1.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",81,Different house (in the U.S. or abroad),"133,635","+/-10,838",16.7,+/-1.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",82,Different house in the U.S.,"131,015","+/-10,753",16.4,+/-1.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",83,Same county,"71,922","+/-7,688",9.0,+/-0.9
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",84,Different county,"59,093","+/-8,378",7.4,+/-1.0
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",85,Same state,"35,630","+/-6,239",4.5,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",86,Different state,"23,463","+/-4,687",2.9,+/-0.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",87,Abroad,"2,620","+/-1,132",0.3,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",87.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",88,Total population,"808,407","+/-10,614","808,407",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",89,Native,"760,603","+/-10,052",94.1,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",90,Born in United States,"750,949","+/-10,098",92.9,+/-0.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",91,State of residence,"494,892","+/-10,791",61.2,+/-1.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",92,Different state,"256,057","+/-9,759",31.7,+/-1.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","9,654","+/-1,945",1.2,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",94,Foreign born,"47,804","+/-4,534",5.9,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",94.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",95,Foreign-born population,"47,804","+/-4,534","47,804",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",96,Naturalized U.S. citizen,"21,090","+/-2,557",44.1,+/-4.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",97,Not a U.S. citizen,"26,714","+/-3,674",55.9,+/-4.4
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",97.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",98,Population born outside the United States,"57,458","+/-5,174","57,458",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",98.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",99,Native,"9,654","+/-1,945","9,654",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",100,Entered 2010 or later,"2,325",+/-875,24.1,+/-7.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",101,Entered before 2010,"7,329","+/-1,609",75.9,+/-7.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",101.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",102,Foreign born,"47,804","+/-4,534","47,804",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",103,Entered 2010 or later,"15,100","+/-2,522",31.6,+/-3.9
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",104,Entered before 2010,"32,704","+/-3,413",68.4,+/-3.9
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",104.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",105,"Foreign-born population, excluding population born at sea","47,804","+/-4,534","47,804",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",106,Europe,"3,386",+/-808,7.1,+/-1.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",107,Asia,"16,750","+/-1,901",35.0,+/-4.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",108,Africa,"4,835","+/-1,423",10.1,+/-2.9
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",109,Oceania,409,+/-311,0.9,+/-0.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",110,Latin America,"21,535","+/-3,982",45.0,+/-5.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",111,Northern America,889,+/-445,1.9,+/-0.9
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",111.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",112,Population 5 years and over,"755,759","+/-10,123","755,759",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",113,English only,"683,680","+/-9,517",90.5,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",114,Language other than English,"72,079","+/-6,025",9.5,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",115,"Speak English less than ""very well""","24,978","+/-4,180",3.3,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",116,Spanish,"45,182","+/-5,830",6.0,+/-0.7
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",117,"Speak English less than ""very well""","16,791","+/-3,922",2.2,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",118,Other Indo-European languages,"9,518","+/-1,788",1.3,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",119,"Speak English less than ""very well""","1,445",+/-736,0.2,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",120,Asian and Pacific Islander languages,"12,324","+/-2,522",1.6,+/-0.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",121,"Speak English less than ""very well""","5,407","+/-1,402",0.7,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",122,Other languages,"5,055","+/-1,550",0.7,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",123,"Speak English less than ""very well""","1,335",+/-633,0.2,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",123.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",123.5,ANCESTRY,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",124,Total population,"808,407","+/-10,614","808,407",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",125,American,"38,710","+/-4,332",4.8,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",126,Arab,"5,167","+/-1,759",0.6,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",127,Czech,"6,144","+/-2,326",0.8,+/-0.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",128,Danish,896,+/-356,0.1,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",129,Dutch,"8,639","+/-2,721",1.1,+/-0.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",130,English,"109,171","+/-6,640",13.5,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",131,French (except Basque),"14,106","+/-2,556",1.7,+/-0.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",132,French Canadian,"1,034",+/-436,0.1,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",133,German,"105,847","+/-6,627",13.1,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",134,Greek,"1,036",+/-536,0.1,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",135,Hungarian,962,+/-458,0.1,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",136,Irish,"81,837","+/-6,745",10.1,+/-0.8
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",137,Italian,"18,147","+/-4,124",2.2,+/-0.5
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",138,Lithuanian,259,+/-252,0.0,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",139,Norwegian,"6,968","+/-1,797",0.9,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",140,Polish,"7,348","+/-1,710",0.9,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",141,Portuguese,"2,118","+/-1,486",0.3,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",142,Russian,"3,114","+/-1,321",0.4,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",143,Scotch-Irish,"7,084","+/-1,709",0.9,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",144,Scottish,"14,903","+/-2,169",1.8,+/-0.3
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",145,Slovak,317,+/-315,0.0,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",146,Subsaharan African,"6,008","+/-1,874",0.7,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",147,Swedish,"5,651","+/-1,601",0.7,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",148,Swiss,"1,178",+/-476,0.1,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",149,Ukrainian,"1,116",+/-814,0.1,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",150,Welsh,"5,164","+/-1,327",0.6,+/-0.2
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",151,West Indian (excluding Hispanic origin groups),"1,275",+/-744,0.2,+/-0.1
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",151.3,,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",152,Total households,"322,504","+/-4,814","322,504",(X)
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",153,With a computer,"308,935","+/-4,831",95.8,+/-0.6
+DP02,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",154,With a broadband Internet subscription,"294,319","+/-5,221",91.3,+/-0.9

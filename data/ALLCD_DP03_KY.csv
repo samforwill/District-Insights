@@ -1,0 +1,1009 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",0.5,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",1,Population 16 years and over,"599,679","+/-4,021","599,679",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",2,In labor force,"335,615","+/-5,803",56.0,+/-0.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",3,Civilian labor force,"326,721","+/-5,871",54.5,+/-0.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",4,Employed,"309,707","+/-6,376",51.6,+/-1.0
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",5,Unemployed,"17,014","+/-2,299",2.8,+/-0.4
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",6,Armed Forces,"8,894","+/-1,163",1.5,+/-0.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",7,Not in labor force,"264,064","+/-5,772",44.0,+/-0.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",7.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",8,Civilian labor force,"326,721","+/-5,871","326,721",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",9,Unemployment Rate,(X),(X),5.2,+/-0.7
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",9.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",10,Females 16 years and over,"304,468","+/-3,016","304,468",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",11,In labor force,"154,740","+/-3,717",50.8,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",12,Civilian labor force,"153,983","+/-3,840",50.6,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",13,Employed,"146,098","+/-3,892",48.0,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",13.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",14,Own children of the householder under 6 years,"48,588","+/-2,420","48,588",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",15,All parents in family in labor force,"26,644","+/-2,709",54.8,+/-4.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",15.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",16,Own children of the householder 6 to 17 years,"104,253","+/-3,173","104,253",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",17,All parents in family in labor force,"68,831","+/-3,939",66.0,+/-3.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",17.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",18,Workers 16 years and over,"311,542","+/-6,233","311,542",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",19,"Car, truck, or van -- drove alone","243,806","+/-6,901",78.3,+/-1.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",20,"Car, truck, or van -- carpooled","28,270","+/-3,805",9.1,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",21,Public transportation (excluding taxicab),"1,211",+/-805,0.4,+/-0.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",22,Walked,"9,705","+/-1,520",3.1,+/-0.5
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",23,Other means,"3,234",+/-796,1.0,+/-0.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",24,Worked from home,"25,316","+/-2,838",8.1,+/-0.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",24.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",25,Mean travel time to work (minutes),21.2,+/-0.6,(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",25.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",25.5,OCCUPATION,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",26,Civilian employed population 16 years and over,"309,707","+/-6,376","309,707",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",27,"Management, business, science, and arts occupations","100,155","+/-5,166",32.3,+/-1.5
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",28,Service occupations,"47,463","+/-3,794",15.3,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",29,Sales and office occupations,"59,803","+/-3,893",19.3,+/-1.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",30,"Natural resources, construction, and maintenance occupations","32,985","+/-3,565",10.7,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",31,"Production, transportation, and material moving occupations","69,301","+/-4,031",22.4,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",31.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",31.5,INDUSTRY,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",32,Civilian employed population 16 years and over,"309,707","+/-6,376","309,707",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",33,"Agriculture, forestry, fishing and hunting, and mining","9,492","+/-1,767",3.1,+/-0.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",34,Construction,"21,982","+/-2,483",7.1,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",35,Manufacturing,"56,809","+/-3,881",18.3,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",36,Wholesale trade,"5,322","+/-1,214",1.7,+/-0.4
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",37,Retail trade,"39,028","+/-3,642",12.6,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",38,"Transportation and warehousing, and utilities","18,041","+/-2,219",5.8,+/-0.7
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",39,Information,"2,457",+/-775,0.8,+/-0.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",40,"Finance and insurance, and real estate and rental and leasing","14,564","+/-1,929",4.7,+/-0.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",41,"Professional, scientific, and management, and administrative and waste management services","23,067","+/-2,942",7.4,+/-0.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",42,"Educational services, and health care and social assistance","65,672","+/-3,965",21.2,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",43,"Arts, entertainment, and recreation, and accommodation and food services","21,477","+/-2,430",6.9,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",44,"Other services, except public administration","15,075","+/-1,961",4.9,+/-0.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",45,Public administration,"16,721","+/-2,367",5.4,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",45.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",46,Civilian employed population 16 years and over,"309,707","+/-6,376","309,707",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",47,Private wage and salary workers,"240,039","+/-6,776",77.5,+/-1.4
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",48,Government workers,"48,644","+/-3,985",15.7,+/-1.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",49,Self-employed in own not incorporated business workers,"19,608","+/-2,162",6.3,+/-0.7
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",50,Unpaid family workers,"1,416",+/-706,0.5,+/-0.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",50.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",51,Total households,"297,513","+/-3,738","297,513",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",52,"Less than $10,000","25,190","+/-2,569",8.5,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",53,"$10,000 to $14,999","16,494","+/-1,893",5.5,+/-0.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",54,"$15,000 to $24,999","30,878","+/-2,739",10.4,+/-0.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",55,"$25,000 to $34,999","30,167","+/-2,541",10.1,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",56,"$35,000 to $49,999","38,701","+/-3,272",13.0,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",57,"$50,000 to $74,999","58,382","+/-4,332",19.6,+/-1.4
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",58,"$75,000 to $99,999","41,274","+/-2,884",13.9,+/-1.0
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",59,"$100,000 to $149,999","34,405","+/-2,995",11.6,+/-1.0
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",60,"$150,000 to $199,999","11,935","+/-1,715",4.0,+/-0.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",61,"$200,000 or more","10,087","+/-1,768",3.4,+/-0.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",62,Median household income (dollars),"51,974","+/-1,075",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",63,Mean household income (dollars),"67,220","+/-2,002",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",63.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",64,With earnings,"206,698","+/-4,736",69.5,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",65,Mean earnings (dollars),"69,035","+/-2,548",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",66,With Social Security,"108,735","+/-2,954",36.5,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",67,Mean Social Security income (dollars),"20,140",+/-527,(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",68,With retirement income,"84,115","+/-3,313",28.3,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",69,Mean retirement income (dollars),"23,381","+/-1,340",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",69.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",70,With Supplemental Security Income,"22,948","+/-2,402",7.7,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",71,Mean Supplemental Security Income (dollars),"9,354",+/-468,(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",72,With cash public assistance income,"5,260","+/-1,228",1.8,+/-0.4
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",73,Mean cash public assistance income (dollars),"3,456",+/-632,(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",74,With Food Stamp/SNAP benefits in the past 12 months,"40,799","+/-3,216",13.7,+/-1.0
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",74.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",75,Families,"196,335","+/-5,352","196,335",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",76,"Less than $10,000","8,844","+/-1,478",4.5,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",77,"$10,000 to $14,999","7,803","+/-1,435",4.0,+/-0.7
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",78,"$15,000 to $24,999","15,296","+/-1,929",7.8,+/-1.0
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",79,"$25,000 to $34,999","17,421","+/-2,227",8.9,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",80,"$35,000 to $49,999","24,026","+/-2,293",12.2,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",81,"$50,000 to $74,999","43,068","+/-3,310",21.9,+/-1.5
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",82,"$75,000 to $99,999","31,341","+/-2,521",16.0,+/-1.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",83,"$100,000 to $149,999","29,509","+/-2,881",15.0,+/-1.4
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",84,"$150,000 to $199,999","10,352","+/-1,632",5.3,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",85,"$200,000 or more","8,675","+/-1,728",4.4,+/-0.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",86,Median family income (dollars),"63,878","+/-2,032",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",87,Mean family income (dollars),"78,326","+/-2,548",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",87.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",88,Per capita income (dollars),"27,349",+/-763,(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",88.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",89,Nonfamily households,"101,178","+/-4,979","101,178",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",90,Median nonfamily income (dollars),"30,257","+/-1,812",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",91,Mean nonfamily income (dollars),"42,774","+/-3,068",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",91.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",92,Median earnings for workers (dollars),"32,284",+/-710,(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",93,"Median earnings for male full-time, year-round workers (dollars)","47,917","+/-2,367",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",94,"Median earnings for female full-time, year-round workers (dollars)","35,839","+/-1,146",(X),(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",94.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",95,Civilian noninstitutionalized population,"725,526","+/-5,183","725,526",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",96,With health insurance coverage,"679,298","+/-7,847",93.6,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",97,With private health insurance,"441,614","+/-11,583",60.9,+/-1.5
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",98,With public coverage,"346,217","+/-9,851",47.7,+/-1.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",99,No health insurance coverage,"46,228","+/-6,020",6.4,+/-0.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",99.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",100,Civilian noninstitutionalized population under 19 years,"176,163","+/-3,124","176,163",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",101,No health insurance coverage,"11,719","+/-3,038",6.7,+/-1.7
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",101.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",102,Civilian noninstitutionalized population 19 to 64 years,"411,720","+/-4,685","411,720",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",103,In labor force:,"293,748","+/-5,858","293,748",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",104,Employed:,"279,254","+/-6,331","279,254",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",105,With health insurance coverage,"257,766","+/-6,286",92.3,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",106,With private health insurance,"215,406","+/-6,483",77.1,+/-1.7
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",107,With public coverage,"51,970","+/-4,758",18.6,+/-1.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",108,No health insurance coverage,"21,488","+/-3,097",7.7,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",109,Unemployed:,"14,494","+/-2,029","14,494",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",110,With health insurance coverage,"11,424","+/-1,711",78.8,+/-6.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",111,With private health insurance,"4,373",+/-988,30.2,+/-5.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",112,With public coverage,"7,622","+/-1,274",52.6,+/-6.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",113,No health insurance coverage,"3,070","+/-1,071",21.2,+/-6.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",114,Not in labor force:,"117,972","+/-4,378","117,972",(X)
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",115,With health insurance coverage,"108,386","+/-3,931",91.9,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",116,With private health insurance,"46,882","+/-2,931",39.7,+/-2.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",117,With public coverage,"69,890","+/-4,627",59.2,+/-2.7
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",118,No health insurance coverage,"9,586","+/-1,490",8.1,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",118.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",119,All families,(X),(X),12.4,+/-1.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",120,With related children of the householder under 18 years,(X),(X),20.6,+/-2.5
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",121,With related children of the householder under 5 years only,(X),(X),24.2,+/-5.6
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",122,Married couple families,(X),(X),6.9,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",123,With related children of the householder under 18 years,(X),(X),10.2,+/-1.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",124,With related children of the householder under 5 years only,(X),(X),12.3,+/-4.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",125,"Families with female householder, no spouse present",(X),(X),33.7,+/-4.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",126,With related children of the householder under 18 years,(X),(X),45.0,+/-6.3
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",127,With related children of the householder under 5 years only,(X),(X),47.0,+/-13.4
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",127.3,,,,,
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",128,All people,(X),(X),17.0,+/-1.1
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",129,Under 18 years,(X),(X),22.7,+/-2.7
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",130,Related children of the householder under 18 years,(X),(X),22.4,+/-2.7
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",131,Related children of the householder under 5 years,(X),(X),26.2,+/-4.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",132,Related children of the householder 5 to 17 years,(X),(X),21.0,+/-2.8
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",133,18 years and over,(X),(X),15.3,+/-0.9
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",134,18 to 64 years,(X),(X),16.5,+/-1.2
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",135,65 years and over,(X),(X),11.3,+/-1.4
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",136,People in families,(X),(X),13.6,+/-1.4
+DP03,5001800US2101,"Congressional District 1 (118th Congress), Kentucky",137,Unrelated individuals 15 years and over,(X),(X),31.3,+/-2.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",0.5,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",1,Population 16 years and over,"599,146","+/-3,898","599,146",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",2,In labor force,"361,293","+/-7,042",60.3,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",3,Civilian labor force,"354,934","+/-7,085",59.2,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",4,Employed,"336,798","+/-7,081",56.2,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",5,Unemployed,"18,136","+/-2,466",3.0,+/-0.4
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",6,Armed Forces,"6,359","+/-1,456",1.1,+/-0.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",7,Not in labor force,"237,853","+/-6,857",39.7,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",7.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",8,Civilian labor force,"354,934","+/-7,085","354,934",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",9,Unemployment Rate,(X),(X),5.1,+/-0.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",9.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",10,Females 16 years and over,"303,794","+/-2,655","303,794",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",11,In labor force,"169,100","+/-4,779",55.7,+/-1.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",12,Civilian labor force,"168,086","+/-4,880",55.3,+/-1.6
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",13,Employed,"159,824","+/-4,755",52.6,+/-1.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",13.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",14,Own children of the householder under 6 years,"52,447","+/-2,426","52,447",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",15,All parents in family in labor force,"34,088","+/-2,934",65.0,+/-4.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",15.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",16,Own children of the householder 6 to 17 years,"114,151","+/-3,327","114,151",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",17,All parents in family in labor force,"77,530","+/-5,170",67.9,+/-3.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",17.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",18,Workers 16 years and over,"333,581","+/-7,057","333,581",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",19,"Car, truck, or van -- drove alone","265,728","+/-8,033",79.7,+/-1.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",20,"Car, truck, or van -- carpooled","30,120","+/-3,912",9.0,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",21,Public transportation (excluding taxicab),756,+/-507,0.2,+/-0.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",22,Walked,"5,650","+/-1,601",1.7,+/-0.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",23,Other means,"3,095","+/-1,099",0.9,+/-0.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",24,Worked from home,"28,232","+/-3,061",8.5,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",24.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",25,Mean travel time to work (minutes),24.8,+/-0.8,(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",25.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",25.5,OCCUPATION,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",26,Civilian employed population 16 years and over,"336,798","+/-7,081","336,798",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",27,"Management, business, science, and arts occupations","110,107","+/-5,962",32.7,+/-1.6
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",28,Service occupations,"50,214","+/-4,014",14.9,+/-1.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",29,Sales and office occupations,"72,650","+/-4,326",21.6,+/-1.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",30,"Natural resources, construction, and maintenance occupations","29,135","+/-3,099",8.7,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",31,"Production, transportation, and material moving occupations","74,692","+/-4,882",22.2,+/-1.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",31.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",31.5,INDUSTRY,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",32,Civilian employed population 16 years and over,"336,798","+/-7,081","336,798",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",33,"Agriculture, forestry, fishing and hunting, and mining","4,602","+/-1,262",1.4,+/-0.4
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",34,Construction,"19,521","+/-2,394",5.8,+/-0.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",35,Manufacturing,"60,460","+/-4,449",18.0,+/-1.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",36,Wholesale trade,"6,427","+/-1,860",1.9,+/-0.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",37,Retail trade,"43,178","+/-4,130",12.8,+/-1.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",38,"Transportation and warehousing, and utilities","22,530","+/-2,422",6.7,+/-0.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",39,Information,"3,712","+/-1,092",1.1,+/-0.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",40,"Finance and insurance, and real estate and rental and leasing","17,305","+/-2,532",5.1,+/-0.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",41,"Professional, scientific, and management, and administrative and waste management services","24,910","+/-2,674",7.4,+/-0.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",42,"Educational services, and health care and social assistance","75,481","+/-4,921",22.4,+/-1.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",43,"Arts, entertainment, and recreation, and accommodation and food services","26,435","+/-3,204",7.8,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",44,"Other services, except public administration","16,114","+/-2,299",4.8,+/-0.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",45,Public administration,"16,123","+/-2,462",4.8,+/-0.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",45.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",46,Civilian employed population 16 years and over,"336,798","+/-7,081","336,798",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",47,Private wage and salary workers,"270,879","+/-7,191",80.4,+/-1.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",48,Government workers,"49,007","+/-3,939",14.6,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",49,Self-employed in own not incorporated business workers,"16,208","+/-2,085",4.8,+/-0.6
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",50,Unpaid family workers,704,+/-573,0.2,+/-0.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",50.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",51,Total households,"289,169","+/-3,670","289,169",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",52,"Less than $10,000","21,207","+/-2,568",7.3,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",53,"$10,000 to $14,999","15,096","+/-2,309",5.2,+/-0.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",54,"$15,000 to $24,999","23,717","+/-2,481",8.2,+/-0.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",55,"$25,000 to $34,999","24,085","+/-2,531",8.3,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",56,"$35,000 to $49,999","39,230","+/-3,200",13.6,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",57,"$50,000 to $74,999","54,331","+/-3,440",18.8,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",58,"$75,000 to $99,999","38,649","+/-2,853",13.4,+/-1.0
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",59,"$100,000 to $149,999","42,249","+/-3,262",14.6,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",60,"$150,000 to $199,999","16,520","+/-2,265",5.7,+/-0.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",61,"$200,000 or more","14,085","+/-1,941",4.9,+/-0.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",62,Median household income (dollars),"59,005","+/-2,287",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",63,Mean household income (dollars),"77,049","+/-2,587",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",63.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",64,With earnings,"212,771","+/-4,699",73.6,+/-1.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",65,Mean earnings (dollars),"77,519","+/-2,494",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",66,With Social Security,"99,842","+/-3,488",34.5,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",67,Mean Social Security income (dollars),"19,321",+/-590,(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",68,With retirement income,"78,941","+/-3,544",27.3,+/-1.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",69,Mean retirement income (dollars),"25,049","+/-1,621",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",69.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",70,With Supplemental Security Income,"18,970","+/-2,303",6.6,+/-0.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",71,Mean Supplemental Security Income (dollars),"9,356",+/-798,(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",72,With cash public assistance income,"7,867","+/-1,344",2.7,+/-0.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",73,Mean cash public assistance income (dollars),"3,843",+/-934,(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",74,With Food Stamp/SNAP benefits in the past 12 months,"39,591","+/-3,681",13.7,+/-1.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",74.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",75,Families,"196,725","+/-4,830","196,725",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",76,"Less than $10,000","8,692","+/-1,624",4.4,+/-0.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",77,"$10,000 to $14,999","6,380","+/-1,552",3.2,+/-0.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",78,"$15,000 to $24,999","12,402","+/-1,860",6.3,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",79,"$25,000 to $34,999","13,315","+/-1,878",6.8,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",80,"$35,000 to $49,999","23,701","+/-2,273",12.0,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",81,"$50,000 to $74,999","38,032","+/-3,002",19.3,+/-1.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",82,"$75,000 to $99,999","29,637","+/-2,819",15.1,+/-1.4
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",83,"$100,000 to $149,999","36,542","+/-2,861",18.6,+/-1.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",84,"$150,000 to $199,999","15,408","+/-2,229",7.8,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",85,"$200,000 or more","12,616","+/-1,759",6.4,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",86,Median family income (dollars),"72,489","+/-1,645",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",87,Mean family income (dollars),"90,762","+/-3,293",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",87.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",88,Per capita income (dollars),"30,311",+/-971,(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",88.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",89,Nonfamily households,"92,444","+/-4,173","92,444",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",90,Median nonfamily income (dollars),"34,328","+/-2,070",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",91,Mean nonfamily income (dollars),"43,655","+/-2,342",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",91.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",92,Median earnings for workers (dollars),"35,026","+/-1,171",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",93,"Median earnings for male full-time, year-round workers (dollars)","52,152","+/-1,633",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",94,"Median earnings for female full-time, year-round workers (dollars)","40,782","+/-1,258",(X),(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",94.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",95,Civilian noninstitutionalized population,"740,920","+/-4,736","740,920",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",96,With health insurance coverage,"699,568","+/-6,915",94.4,+/-0.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",97,With private health insurance,"485,029","+/-11,088",65.5,+/-1.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",98,With public coverage,"325,683","+/-10,630",44.0,+/-1.4
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",99,No health insurance coverage,"41,352","+/-5,048",5.6,+/-0.7
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",99.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",100,Civilian noninstitutionalized population under 19 years,"187,178","+/-3,711","187,178",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",101,No health insurance coverage,"6,295","+/-1,955",3.4,+/-1.0
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",101.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",102,Civilian noninstitutionalized population 19 to 64 years,"432,246","+/-3,995","432,246",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",103,In labor force:,"323,666","+/-6,497","323,666",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",104,Employed:,"307,895","+/-6,694","307,895",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",105,With health insurance coverage,"287,171","+/-7,096",93.3,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",106,With private health insurance,"246,219","+/-7,225",80.0,+/-1.6
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",107,With public coverage,"55,860","+/-4,222",18.1,+/-1.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",108,No health insurance coverage,"20,724","+/-2,879",6.7,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",109,Unemployed:,"15,771","+/-2,329","15,771",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",110,With health insurance coverage,"12,261","+/-1,893",77.7,+/-5.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",111,With private health insurance,"5,272","+/-1,129",33.4,+/-6.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",112,With public coverage,"7,314","+/-1,530",46.4,+/-6.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",113,No health insurance coverage,"3,510","+/-1,125",22.3,+/-5.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",114,Not in labor force:,"108,580","+/-5,566","108,580",(X)
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",115,With health insurance coverage,"98,035","+/-5,808",90.3,+/-2.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",116,With private health insurance,"48,602","+/-3,532",44.8,+/-2.8
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",117,With public coverage,"57,356","+/-4,695",52.8,+/-2.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",118,No health insurance coverage,"10,545","+/-2,460",9.7,+/-2.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",118.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",119,All families,(X),(X),10.9,+/-1.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",120,With related children of the householder under 18 years,(X),(X),18.2,+/-2.4
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",121,With related children of the householder under 5 years only,(X),(X),11.6,+/-4.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",122,Married couple families,(X),(X),4.2,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",123,With related children of the householder under 18 years,(X),(X),5.3,+/-1.6
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",124,With related children of the householder under 5 years only,(X),(X),0.9,+/-1.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",125,"Families with female householder, no spouse present",(X),(X),36.3,+/-5.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",126,With related children of the householder under 18 years,(X),(X),48.3,+/-7.2
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",127,With related children of the householder under 5 years only,(X),(X),45.3,+/-15.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",127.3,,,,,
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",128,All people,(X),(X),15.0,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",129,Under 18 years,(X),(X),20.9,+/-2.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",130,Related children of the householder under 18 years,(X),(X),20.7,+/-2.3
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",131,Related children of the householder under 5 years,(X),(X),19.7,+/-3.6
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",132,Related children of the householder 5 to 17 years,(X),(X),21.0,+/-2.5
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",133,18 years and over,(X),(X),13.2,+/-0.9
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",134,18 to 64 years,(X),(X),13.7,+/-1.0
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",135,65 years and over,(X),(X),11.1,+/-1.4
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",136,People in families,(X),(X),11.9,+/-1.1
+DP03,5001800US2102,"Congressional District 2 (118th Congress), Kentucky",137,Unrelated individuals 15 years and over,(X),(X),29.7,+/-2.3
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",0.5,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",1,Population 16 years and over,"601,276","+/-2,790","601,276",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",2,In labor force,"388,105","+/-6,554",64.5,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",3,Civilian labor force,"386,665","+/-6,498",64.3,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",4,Employed,"367,218","+/-7,035",61.1,+/-1.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",5,Unemployed,"19,447","+/-2,773",3.2,+/-0.5
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",6,Armed Forces,"1,440",+/-816,0.2,+/-0.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",7,Not in labor force,"213,171","+/-6,076",35.5,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",7.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",8,Civilian labor force,"386,665","+/-6,498","386,665",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",9,Unemployment Rate,(X),(X),5.0,+/-0.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",9.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",10,Females 16 years and over,"313,850","+/-1,744","313,850",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",11,In labor force,"188,475","+/-4,944",60.1,+/-1.5
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",12,Civilian labor force,"188,388","+/-4,936",60.0,+/-1.5
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",13,Employed,"180,012","+/-4,805",57.4,+/-1.5
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",13.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",14,Own children of the householder under 6 years,"53,202","+/-2,488","53,202",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",15,All parents in family in labor force,"34,058","+/-3,646",64.0,+/-6.2
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",15.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",16,Own children of the householder 6 to 17 years,"98,957","+/-3,055","98,957",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",17,All parents in family in labor force,"69,665","+/-3,594",70.4,+/-3.3
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",17.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",18,Workers 16 years and over,"360,179","+/-7,162","360,179",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",19,"Car, truck, or van -- drove alone","260,642","+/-7,044",72.4,+/-1.2
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",20,"Car, truck, or van -- carpooled","27,078","+/-2,924",7.5,+/-0.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",21,Public transportation (excluding taxicab),"4,328","+/-1,213",1.2,+/-0.3
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",22,Walked,"5,210","+/-1,092",1.4,+/-0.3
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",23,Other means,"5,881","+/-1,624",1.6,+/-0.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",24,Worked from home,"57,040","+/-4,030",15.8,+/-1.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",24.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",25,Mean travel time to work (minutes),20.5,+/-0.5,(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",25.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",25.5,OCCUPATION,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",26,Civilian employed population 16 years and over,"367,218","+/-7,035","367,218",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",27,"Management, business, science, and arts occupations","142,688","+/-5,371",38.9,+/-1.3
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",28,Service occupations,"48,518","+/-3,819",13.2,+/-1.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",29,Sales and office occupations,"77,274","+/-5,025",21.0,+/-1.3
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",30,"Natural resources, construction, and maintenance occupations","22,886","+/-2,617",6.2,+/-0.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",31,"Production, transportation, and material moving occupations","75,852","+/-4,799",20.7,+/-1.2
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",31.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",31.5,INDUSTRY,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",32,Civilian employed population 16 years and over,"367,218","+/-7,035","367,218",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",33,"Agriculture, forestry, fishing and hunting, and mining",333,+/-270,0.1,+/-0.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",34,Construction,"17,050","+/-2,422",4.6,+/-0.6
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",35,Manufacturing,"43,251","+/-4,029",11.8,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",36,Wholesale trade,"7,818","+/-1,307",2.1,+/-0.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",37,Retail trade,"39,551","+/-3,469",10.8,+/-0.9
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",38,"Transportation and warehousing, and utilities","39,012","+/-4,233",10.6,+/-1.2
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",39,Information,"6,861","+/-1,344",1.9,+/-0.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",40,"Finance and insurance, and real estate and rental and leasing","31,040","+/-3,036",8.5,+/-0.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",41,"Professional, scientific, and management, and administrative and waste management services","39,779","+/-3,876",10.8,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",42,"Educational services, and health care and social assistance","85,256","+/-4,663",23.2,+/-1.3
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",43,"Arts, entertainment, and recreation, and accommodation and food services","31,693","+/-3,677",8.6,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",44,"Other services, except public administration","16,700","+/-2,655",4.5,+/-0.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",45,Public administration,"8,874","+/-1,451",2.4,+/-0.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",45.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",46,Civilian employed population 16 years and over,"367,218","+/-7,035","367,218",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",47,Private wage and salary workers,"313,100","+/-6,969",85.3,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",48,Government workers,"36,556","+/-2,925",10.0,+/-0.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",49,Self-employed in own not incorporated business workers,"17,314","+/-2,364",4.7,+/-0.6
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",50,Unpaid family workers,248,+/-256,0.1,+/-0.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",50.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",51,Total households,"318,872","+/-3,338","318,872",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",52,"Less than $10,000","21,587","+/-2,759",6.8,+/-0.9
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",53,"$10,000 to $14,999","12,276","+/-1,758",3.8,+/-0.6
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",54,"$15,000 to $24,999","25,658","+/-2,603",8.0,+/-0.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",55,"$25,000 to $34,999","33,762","+/-2,757",10.6,+/-0.9
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",56,"$35,000 to $49,999","43,823","+/-3,356",13.7,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",57,"$50,000 to $74,999","56,498","+/-3,297",17.7,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",58,"$75,000 to $99,999","40,644","+/-2,987",12.7,+/-0.9
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",59,"$100,000 to $149,999","44,879","+/-3,576",14.1,+/-1.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",60,"$150,000 to $199,999","18,012","+/-1,799",5.6,+/-0.6
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",61,"$200,000 or more","21,733","+/-2,078",6.8,+/-0.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",62,Median household income (dollars),"58,965","+/-1,836",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",63,Mean household income (dollars),"83,248","+/-2,535",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",63.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",64,With earnings,"247,074","+/-4,957",77.5,+/-1.2
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",65,Mean earnings (dollars),"82,335","+/-2,947",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",66,With Social Security,"99,888","+/-3,033",31.3,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",67,Mean Social Security income (dollars),"20,004",+/-544,(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",68,With retirement income,"82,069","+/-3,689",25.7,+/-1.2
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",69,Mean retirement income (dollars),"26,040","+/-1,849",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",69.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",70,With Supplemental Security Income,"16,071","+/-2,131",5.0,+/-0.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",71,Mean Supplemental Security Income (dollars),"9,670",+/-745,(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",72,With cash public assistance income,"7,069","+/-1,380",2.2,+/-0.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",73,Mean cash public assistance income (dollars),"4,429","+/-1,080",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",74,With Food Stamp/SNAP benefits in the past 12 months,"37,583","+/-3,070",11.8,+/-0.9
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",74.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",75,Families,"187,938","+/-5,403","187,938",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",76,"Less than $10,000","8,482","+/-1,828",4.5,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",77,"$10,000 to $14,999","4,555","+/-1,411",2.4,+/-0.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",78,"$15,000 to $24,999","9,802","+/-1,622",5.2,+/-0.9
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",79,"$25,000 to $34,999","15,103","+/-2,141",8.0,+/-1.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",80,"$35,000 to $49,999","22,586","+/-2,590",12.0,+/-1.3
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",81,"$50,000 to $74,999","33,379","+/-2,834",17.8,+/-1.5
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",82,"$75,000 to $99,999","26,576","+/-2,666",14.1,+/-1.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",83,"$100,000 to $149,999","33,481","+/-2,872",17.8,+/-1.5
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",84,"$150,000 to $199,999","15,470","+/-1,741",8.2,+/-0.9
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",85,"$200,000 or more","18,504","+/-1,945",9.8,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",86,Median family income (dollars),"75,061","+/-3,024",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",87,Mean family income (dollars),"101,167","+/-3,631",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",87.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",88,Per capita income (dollars),"35,717","+/-1,069",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",88.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",89,Nonfamily households,"130,934","+/-5,109","130,934",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",90,Median nonfamily income (dollars),"39,524","+/-1,695",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",91,Mean nonfamily income (dollars),"54,456","+/-2,557",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",91.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",92,Median earnings for workers (dollars),"36,876",+/-907,(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",93,"Median earnings for male full-time, year-round workers (dollars)","53,286","+/-2,365",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",94,"Median earnings for female full-time, year-round workers (dollars)","43,820","+/-2,778",(X),(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",94.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",95,Civilian noninstitutionalized population,"737,039","+/-3,834","737,039",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",96,With health insurance coverage,"693,374","+/-6,065",94.1,+/-0.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",97,With private health insurance,"479,509","+/-10,370",65.1,+/-1.5
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",98,With public coverage,"317,323","+/-10,854",43.1,+/-1.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",99,No health insurance coverage,"43,665","+/-5,500",5.9,+/-0.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",99.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",100,Civilian noninstitutionalized population under 19 years,"170,216","+/-2,131","170,216",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",101,No health insurance coverage,"6,371","+/-2,066",3.7,+/-1.2
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",101.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",102,Civilian noninstitutionalized population 19 to 64 years,"443,614","+/-2,737","443,614",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",103,In labor force:,"350,783","+/-5,887","350,783",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",104,Employed:,"334,703","+/-6,492","334,703",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",105,With health insurance coverage,"308,318","+/-7,089",92.1,+/-1.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",106,With private health insurance,"268,597","+/-7,603",80.2,+/-1.6
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",107,With public coverage,"51,333","+/-4,600",15.3,+/-1.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",108,No health insurance coverage,"26,385","+/-3,730",7.9,+/-1.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",109,Unemployed:,"16,080","+/-2,471","16,080",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",110,With health insurance coverage,"12,882","+/-2,085",80.1,+/-5.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",111,With private health insurance,"5,463","+/-1,215",34.0,+/-6.3
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",112,With public coverage,"8,217","+/-1,739",51.1,+/-6.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",113,No health insurance coverage,"3,198","+/-1,093",19.9,+/-5.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",114,Not in labor force:,"92,831","+/-5,366","92,831",(X)
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",115,With health insurance coverage,"85,614","+/-5,144",92.2,+/-1.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",116,With private health insurance,"39,849","+/-2,837",42.9,+/-2.9
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",117,With public coverage,"53,345","+/-4,590",57.5,+/-3.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",118,No health insurance coverage,"7,217","+/-1,731",7.8,+/-1.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",118.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",119,All families,(X),(X),10.5,+/-1.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",120,With related children of the householder under 18 years,(X),(X),16.2,+/-2.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",121,With related children of the householder under 5 years only,(X),(X),13.5,+/-5.8
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",122,Married couple families,(X),(X),5.2,+/-1.2
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",123,With related children of the householder under 18 years,(X),(X),7.8,+/-2.6
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",124,With related children of the householder under 5 years only,(X),(X),7.5,+/-5.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",125,"Families with female householder, no spouse present",(X),(X),25.5,+/-4.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",126,With related children of the householder under 18 years,(X),(X),31.8,+/-6.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",127,With related children of the householder under 5 years only,(X),(X),31.9,+/-15.1
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",127.3,,,,,
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",128,All people,(X),(X),14.6,+/-1.4
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",129,Under 18 years,(X),(X),21.1,+/-3.6
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",130,Related children of the householder under 18 years,(X),(X),20.7,+/-3.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",131,Related children of the householder under 5 years,(X),(X),24.4,+/-5.5
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",132,Related children of the householder 5 to 17 years,(X),(X),19.2,+/-3.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",133,18 years and over,(X),(X),12.8,+/-1.0
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",134,18 to 64 years,(X),(X),13.7,+/-1.2
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",135,65 years and over,(X),(X),9.6,+/-1.6
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",136,People in families,(X),(X),11.9,+/-1.7
+DP03,5001800US2103,"Congressional District 3 (118th Congress), Kentucky",137,Unrelated individuals 15 years and over,(X),(X),23.3,+/-1.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",0.5,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",1,Population 16 years and over,"602,717","+/-3,345","602,717",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",2,In labor force,"384,117","+/-5,467",63.7,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",3,Civilian labor force,"382,994","+/-5,474",63.5,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",4,Employed,"363,668","+/-5,630",60.3,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",5,Unemployed,"19,326","+/-2,295",3.2,+/-0.4
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",6,Armed Forces,"1,123",+/-714,0.2,+/-0.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",7,Not in labor force,"218,600","+/-5,414",36.3,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",7.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",8,Civilian labor force,"382,994","+/-5,474","382,994",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",9,Unemployment Rate,(X),(X),5.0,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",9.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",10,Females 16 years and over,"305,439","+/-2,515","305,439",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",11,In labor force,"181,239","+/-4,076",59.3,+/-1.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",12,Civilian labor force,"181,219","+/-4,074",59.3,+/-1.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",13,Employed,"172,276","+/-4,210",56.4,+/-1.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",13.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",14,Own children of the householder under 6 years,"48,981","+/-2,213","48,981",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",15,All parents in family in labor force,"36,161","+/-2,953",73.8,+/-4.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",15.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",16,Own children of the householder 6 to 17 years,"118,836","+/-2,898","118,836",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",17,All parents in family in labor force,"88,038","+/-3,992",74.1,+/-3.0
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",17.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",18,Workers 16 years and over,"358,490","+/-5,876","358,490",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",19,"Car, truck, or van -- drove alone","266,549","+/-7,855",74.4,+/-1.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",20,"Car, truck, or van -- carpooled","26,418","+/-3,497",7.4,+/-1.0
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",21,Public transportation (excluding taxicab),"1,725",+/-604,0.5,+/-0.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",22,Walked,"4,815","+/-1,177",1.3,+/-0.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",23,Other means,"5,887","+/-1,485",1.6,+/-0.4
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",24,Worked from home,"53,096","+/-4,408",14.8,+/-1.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",24.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",25,Mean travel time to work (minutes),25.9,+/-0.7,(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",25.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",25.5,OCCUPATION,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",26,Civilian employed population 16 years and over,"363,668","+/-5,630","363,668",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",27,"Management, business, science, and arts occupations","153,348","+/-5,452",42.2,+/-1.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",28,Service occupations,"45,403","+/-3,537",12.5,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",29,Sales and office occupations,"69,305","+/-4,873",19.1,+/-1.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",30,"Natural resources, construction, and maintenance occupations","31,987","+/-3,118",8.8,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",31,"Production, transportation, and material moving occupations","63,625","+/-3,511",17.5,+/-1.0
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",31.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",31.5,INDUSTRY,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",32,Civilian employed population 16 years and over,"363,668","+/-5,630","363,668",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",33,"Agriculture, forestry, fishing and hunting, and mining","5,223","+/-1,507",1.4,+/-0.4
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",34,Construction,"26,102","+/-2,549",7.2,+/-0.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",35,Manufacturing,"51,267","+/-4,531",14.1,+/-1.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",36,Wholesale trade,"10,007","+/-2,097",2.8,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",37,Retail trade,"41,804","+/-3,589",11.5,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",38,"Transportation and warehousing, and utilities","24,572","+/-2,814",6.8,+/-0.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",39,Information,"5,045","+/-1,248",1.4,+/-0.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",40,"Finance and insurance, and real estate and rental and leasing","25,725","+/-3,086",7.1,+/-0.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",41,"Professional, scientific, and management, and administrative and waste management services","39,071","+/-3,969",10.7,+/-1.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",42,"Educational services, and health care and social assistance","83,421","+/-4,823",22.9,+/-1.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",43,"Arts, entertainment, and recreation, and accommodation and food services","22,626","+/-2,713",6.2,+/-0.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",44,"Other services, except public administration","15,922","+/-1,976",4.4,+/-0.5
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",45,Public administration,"12,883","+/-2,353",3.5,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",45.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",46,Civilian employed population 16 years and over,"363,668","+/-5,630","363,668",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",47,Private wage and salary workers,"304,333","+/-5,961",83.7,+/-1.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",48,Government workers,"42,673","+/-3,708",11.7,+/-1.0
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",49,Self-employed in own not incorporated business workers,"15,943","+/-2,196",4.4,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",50,Unpaid family workers,719,+/-538,0.2,+/-0.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",50.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",51,Total households,"289,273","+/-3,149","289,273",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",52,"Less than $10,000","14,311","+/-1,758",4.9,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",53,"$10,000 to $14,999","9,358","+/-1,707",3.2,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",54,"$15,000 to $24,999","22,504","+/-2,210",7.8,+/-0.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",55,"$25,000 to $34,999","22,519","+/-2,334",7.8,+/-0.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",56,"$35,000 to $49,999","35,570","+/-3,349",12.3,+/-1.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",57,"$50,000 to $74,999","48,993","+/-3,632",16.9,+/-1.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",58,"$75,000 to $99,999","37,788","+/-2,941",13.1,+/-1.0
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",59,"$100,000 to $149,999","52,790","+/-3,355",18.2,+/-1.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",60,"$150,000 to $199,999","21,697","+/-2,251",7.5,+/-0.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",61,"$200,000 or more","23,743","+/-2,327",8.2,+/-0.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",62,Median household income (dollars),"70,561","+/-2,078",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",63,Mean household income (dollars),"94,292","+/-2,449",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",63.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",64,With earnings,"222,757","+/-3,410",77.0,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",65,Mean earnings (dollars),"97,162","+/-3,030",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",66,With Social Security,"89,545","+/-2,738",31.0,+/-1.0
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",67,Mean Social Security income (dollars),"21,445",+/-695,(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",68,With retirement income,"73,601","+/-3,233",25.4,+/-1.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",69,Mean retirement income (dollars),"28,174","+/-2,235",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",69.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",70,With Supplemental Security Income,"15,266","+/-1,844",5.3,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",71,Mean Supplemental Security Income (dollars),"9,247",+/-612,(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",72,With cash public assistance income,"6,355","+/-1,394",2.2,+/-0.5
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",73,Mean cash public assistance income (dollars),"4,831","+/-1,027",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",74,With Food Stamp/SNAP benefits in the past 12 months,"26,186","+/-2,249",9.1,+/-0.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",74.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",75,Families,"198,198","+/-4,754","198,198",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",76,"Less than $10,000","6,101","+/-1,254",3.1,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",77,"$10,000 to $14,999","3,147",+/-901,1.6,+/-0.5
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",78,"$15,000 to $24,999","10,589","+/-1,711",5.3,+/-0.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",79,"$25,000 to $34,999","12,348","+/-1,594",6.2,+/-0.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",80,"$35,000 to $49,999","19,121","+/-2,136",9.6,+/-1.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",81,"$50,000 to $74,999","33,905","+/-3,033",17.1,+/-1.5
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",82,"$75,000 to $99,999","29,030","+/-2,722",14.6,+/-1.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",83,"$100,000 to $149,999","43,698","+/-2,901",22.0,+/-1.4
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",84,"$150,000 to $199,999","18,737","+/-1,989",9.5,+/-1.0
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",85,"$200,000 or more","21,522","+/-2,279",10.9,+/-1.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",86,Median family income (dollars),"87,773","+/-2,393",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",87,Mean family income (dollars),"110,088","+/-2,688",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",87.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",88,Per capita income (dollars),"36,496","+/-1,007",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",88.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",89,Nonfamily households,"91,075","+/-4,275","91,075",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",90,Median nonfamily income (dollars),"40,828","+/-1,325",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",91,Mean nonfamily income (dollars),"55,190","+/-4,478",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",91.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",92,Median earnings for workers (dollars),"40,878",+/-793,(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",93,"Median earnings for male full-time, year-round workers (dollars)","61,464","+/-1,303",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",94,"Median earnings for female full-time, year-round workers (dollars)","47,338","+/-1,843",(X),(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",94.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",95,Civilian noninstitutionalized population,"749,288","+/-4,127","749,288",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",96,With health insurance coverage,"713,954","+/-5,865",95.3,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",97,With private health insurance,"536,029","+/-9,703",71.5,+/-1.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",98,With public coverage,"268,751","+/-9,398",35.9,+/-1.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",99,No health insurance coverage,"35,334","+/-4,276",4.7,+/-0.6
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",99.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",100,Civilian noninstitutionalized population under 19 years,"187,078","+/-2,692","187,078",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",101,No health insurance coverage,"5,610","+/-1,921",3.0,+/-1.0
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",101.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",102,Civilian noninstitutionalized population 19 to 64 years,"444,282","+/-3,207","444,282",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",103,In labor force:,"352,390","+/-4,892","352,390",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",104,Employed:,"335,990","+/-5,048","335,990",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",105,With health insurance coverage,"316,253","+/-4,930",94.1,+/-0.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",106,With private health insurance,"289,238","+/-5,717",86.1,+/-1.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",107,With public coverage,"37,260","+/-3,791",11.1,+/-1.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",108,No health insurance coverage,"19,737","+/-2,688",5.9,+/-0.8
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",109,Unemployed:,"16,400","+/-1,983","16,400",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",110,With health insurance coverage,"13,328","+/-1,732",81.3,+/-4.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",111,With private health insurance,"6,550","+/-1,526",39.9,+/-7.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",112,With public coverage,"7,203","+/-1,309",43.9,+/-7.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",113,No health insurance coverage,"3,072",+/-868,18.7,+/-4.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",114,Not in labor force:,"91,892","+/-4,014","91,892",(X)
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",115,With health insurance coverage,"85,362","+/-4,187",92.9,+/-1.4
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",116,With private health insurance,"44,992","+/-3,606",49.0,+/-3.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",117,With public coverage,"47,029","+/-3,712",51.2,+/-3.4
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",118,No health insurance coverage,"6,530","+/-1,268",7.1,+/-1.4
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",118.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",119,All families,(X),(X),7.3,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",120,With related children of the householder under 18 years,(X),(X),11.1,+/-1.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",121,With related children of the householder under 5 years only,(X),(X),8.3,+/-3.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",122,Married couple families,(X),(X),3.5,+/-0.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",123,With related children of the householder under 18 years,(X),(X),3.9,+/-1.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",124,With related children of the householder under 5 years only,(X),(X),2.9,+/-2.2
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",125,"Families with female householder, no spouse present",(X),(X),24.2,+/-4.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",126,With related children of the householder under 18 years,(X),(X),33.2,+/-5.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",127,With related children of the householder under 5 years only,(X),(X),30.8,+/-15.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",127.3,,,,,
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",128,All people,(X),(X),10.5,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",129,Under 18 years,(X),(X),13.8,+/-2.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",130,Related children of the householder under 18 years,(X),(X),13.3,+/-2.3
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",131,Related children of the householder under 5 years,(X),(X),14.5,+/-3.5
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",132,Related children of the householder 5 to 17 years,(X),(X),12.9,+/-2.4
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",133,18 years and over,(X),(X),9.5,+/-0.7
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",134,18 to 64 years,(X),(X),9.8,+/-0.9
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",135,65 years and over,(X),(X),8.5,+/-1.4
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",136,People in families,(X),(X),8.1,+/-1.1
+DP03,5001800US2104,"Congressional District 4 (118th Congress), Kentucky",137,Unrelated individuals 15 years and over,(X),(X),22.4,+/-2.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",0.5,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",1,Population 16 years and over,"600,798","+/-4,316","600,798",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",2,In labor force,"273,252","+/-6,271",45.5,+/-1.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",3,Civilian labor force,"273,055","+/-6,255",45.4,+/-1.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",4,Employed,"251,493","+/-6,520",41.9,+/-1.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",5,Unemployed,"21,562","+/-2,748",3.6,+/-0.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",6,Armed Forces,197,+/-249,0.0,+/-0.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",7,Not in labor force,"327,546","+/-7,467",54.5,+/-1.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",7.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",8,Civilian labor force,"273,055","+/-6,255","273,055",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",9,Unemployment Rate,(X),(X),7.9,+/-1.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",9.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",10,Females 16 years and over,"301,752","+/-2,696","301,752",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",11,In labor force,"131,698","+/-4,336",43.6,+/-1.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",12,Civilian labor force,"131,682","+/-4,333",43.6,+/-1.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",13,Employed,"122,260","+/-4,230",40.5,+/-1.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",13.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",14,Own children of the householder under 6 years,"44,409","+/-2,120","44,409",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",15,All parents in family in labor force,"26,266","+/-3,159",59.1,+/-6.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",15.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",16,Own children of the householder 6 to 17 years,"99,551","+/-3,923","99,551",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",17,All parents in family in labor force,"55,883","+/-4,305",56.1,+/-3.9
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",17.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",18,Workers 16 years and over,"242,360","+/-6,695","242,360",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",19,"Car, truck, or van -- drove alone","192,647","+/-6,693",79.5,+/-1.8
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",20,"Car, truck, or van -- carpooled","27,634","+/-3,614",11.4,+/-1.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",21,Public transportation (excluding taxicab),443,+/-357,0.2,+/-0.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",22,Walked,"4,747","+/-1,491",2.0,+/-0.6
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",23,Other means,"1,027",+/-427,0.4,+/-0.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",24,Worked from home,"15,862","+/-2,424",6.5,+/-1.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",24.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",25,Mean travel time to work (minutes),26.1,+/-1.1,(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",25.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",25.5,OCCUPATION,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",26,Civilian employed population 16 years and over,"251,493","+/-6,520","251,493",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",27,"Management, business, science, and arts occupations","77,227","+/-4,230",30.7,+/-1.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",28,Service occupations,"45,351","+/-4,532",18.0,+/-1.7
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",29,Sales and office occupations,"55,797","+/-3,832",22.2,+/-1.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",30,"Natural resources, construction, and maintenance occupations","26,533","+/-2,782",10.6,+/-1.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",31,"Production, transportation, and material moving occupations","46,585","+/-3,709",18.5,+/-1.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",31.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",31.5,INDUSTRY,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",32,Civilian employed population 16 years and over,"251,493","+/-6,520","251,493",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",33,"Agriculture, forestry, fishing and hunting, and mining","7,128","+/-1,600",2.8,+/-0.6
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",34,Construction,"18,913","+/-2,617",7.5,+/-1.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",35,Manufacturing,"29,031","+/-2,956",11.5,+/-1.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",36,Wholesale trade,"4,532","+/-1,229",1.8,+/-0.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",37,Retail trade,"34,665","+/-3,802",13.8,+/-1.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",38,"Transportation and warehousing, and utilities","14,480","+/-2,219",5.8,+/-0.9
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",39,Information,"3,853","+/-1,016",1.5,+/-0.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",40,"Finance and insurance, and real estate and rental and leasing","10,045","+/-1,877",4.0,+/-0.7
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",41,"Professional, scientific, and management, and administrative and waste management services","14,919","+/-2,515",5.9,+/-1.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",42,"Educational services, and health care and social assistance","68,900","+/-4,413",27.4,+/-1.6
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",43,"Arts, entertainment, and recreation, and accommodation and food services","17,647","+/-2,626",7.0,+/-1.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",44,"Other services, except public administration","11,150","+/-2,273",4.4,+/-0.9
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",45,Public administration,"16,230","+/-2,545",6.5,+/-1.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",45.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",46,Civilian employed population 16 years and over,"251,493","+/-6,520","251,493",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",47,Private wage and salary workers,"186,704","+/-6,712",74.2,+/-1.8
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",48,Government workers,"48,536","+/-4,264",19.3,+/-1.6
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",49,Self-employed in own not incorporated business workers,"15,514","+/-2,609",6.2,+/-1.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",50,Unpaid family workers,739,+/-464,0.3,+/-0.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",50.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",51,Total households,"284,234","+/-4,900","284,234",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",52,"Less than $10,000","39,487","+/-3,448",13.9,+/-1.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",53,"$10,000 to $14,999","26,267","+/-3,184",9.2,+/-1.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",54,"$15,000 to $24,999","42,238","+/-3,464",14.9,+/-1.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",55,"$25,000 to $34,999","28,230","+/-2,457",9.9,+/-0.9
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",56,"$35,000 to $49,999","36,130","+/-3,138",12.7,+/-1.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",57,"$50,000 to $74,999","46,041","+/-3,431",16.2,+/-1.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",58,"$75,000 to $99,999","26,116","+/-2,615",9.2,+/-0.9
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",59,"$100,000 to $149,999","27,268","+/-2,676",9.6,+/-0.9
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",60,"$150,000 to $199,999","6,407","+/-1,399",2.3,+/-0.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",61,"$200,000 or more","6,050","+/-1,380",2.1,+/-0.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",62,Median household income (dollars),"37,910","+/-2,382",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",63,Mean household income (dollars),"54,663","+/-2,946",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",63.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",64,With earnings,"170,362","+/-5,332",59.9,+/-1.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",65,Mean earnings (dollars),"60,636","+/-4,144",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",66,With Social Security,"123,889","+/-4,518",43.6,+/-1.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",67,Mean Social Security income (dollars),"17,968",+/-504,(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",68,With retirement income,"66,550","+/-3,293",23.4,+/-1.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",69,Mean retirement income (dollars),"22,139","+/-2,737",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",69.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",70,With Supplemental Security Income,"40,359","+/-3,178",14.2,+/-1.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",71,Mean Supplemental Security Income (dollars),"9,626",+/-566,(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",72,With cash public assistance income,"5,871","+/-1,275",2.1,+/-0.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",73,Mean cash public assistance income (dollars),"4,482","+/-1,319",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",74,With Food Stamp/SNAP benefits in the past 12 months,"73,399","+/-4,208",25.8,+/-1.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",74.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",75,Families,"191,354","+/-5,858","191,354",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",76,"Less than $10,000","19,413","+/-2,578",10.1,+/-1.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",77,"$10,000 to $14,999","8,904","+/-1,727",4.7,+/-0.9
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",78,"$15,000 to $24,999","24,548","+/-2,436",12.8,+/-1.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",79,"$25,000 to $34,999","18,105","+/-2,391",9.5,+/-1.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",80,"$35,000 to $49,999","25,798","+/-2,739",13.5,+/-1.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",81,"$50,000 to $74,999","37,289","+/-3,677",19.5,+/-1.8
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",82,"$75,000 to $99,999","22,940","+/-2,500",12.0,+/-1.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",83,"$100,000 to $149,999","23,194","+/-2,531",12.1,+/-1.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",84,"$150,000 to $199,999","6,000","+/-1,300",3.1,+/-0.7
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",85,"$200,000 or more","5,163","+/-1,389",2.7,+/-0.7
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",86,Median family income (dollars),"49,308","+/-2,559",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",87,Mean family income (dollars),"63,220","+/-2,662",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",87.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",88,Per capita income (dollars),"21,368","+/-1,072",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",88.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",89,Nonfamily households,"92,880","+/-5,985","92,880",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",90,Median nonfamily income (dollars),"17,791","+/-1,311",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",91,Mean nonfamily income (dollars),"33,902","+/-7,740",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",91.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",92,Median earnings for workers (dollars),"29,485","+/-1,264",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",93,"Median earnings for male full-time, year-round workers (dollars)","43,209","+/-3,190",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",94,"Median earnings for female full-time, year-round workers (dollars)","33,628","+/-1,956",(X),(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",94.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",95,Civilian noninstitutionalized population,"732,347","+/-4,346","732,347",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",96,With health insurance coverage,"694,318","+/-6,494",94.8,+/-0.7
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",97,With private health insurance,"342,335","+/-10,622",46.7,+/-1.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",98,With public coverage,"457,486","+/-11,837",62.5,+/-1.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",99,No health insurance coverage,"38,029","+/-4,823",5.2,+/-0.7
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",99.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",100,Civilian noninstitutionalized population under 19 years,"178,181","+/-3,313","178,181",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",101,No health insurance coverage,"5,361","+/-2,123",3.0,+/-1.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",101.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",102,Civilian noninstitutionalized population 19 to 64 years,"420,027","+/-4,094","420,027",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",103,In labor force:,"249,164","+/-6,093","249,164",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",104,Employed:,"229,612","+/-6,411","229,612",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",105,With health insurance coverage,"211,202","+/-6,657",92.0,+/-1.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",106,With private health insurance,"159,689","+/-7,363",69.5,+/-2.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",107,With public coverage,"64,696","+/-4,337",28.2,+/-2.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",108,No health insurance coverage,"18,410","+/-2,726",8.0,+/-1.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",109,Unemployed:,"19,552","+/-2,466","19,552",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",110,With health insurance coverage,"16,944","+/-2,347",86.7,+/-6.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",111,With private health insurance,"4,518","+/-1,232",23.1,+/-6.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",112,With public coverage,"13,065","+/-2,211",66.8,+/-7.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",113,No health insurance coverage,"2,608","+/-1,262",13.3,+/-6.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",114,Not in labor force:,"170,863","+/-5,984","170,863",(X)
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",115,With health insurance coverage,"159,443","+/-6,145",93.3,+/-1.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",116,With private health insurance,"45,486","+/-4,420",26.6,+/-2.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",117,With public coverage,"130,041","+/-5,813",76.1,+/-2.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",118,No health insurance coverage,"11,420","+/-2,264",6.7,+/-1.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",118.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",119,All families,(X),(X),22.4,+/-1.7
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",120,With related children of the householder under 18 years,(X),(X),31.3,+/-2.8
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",121,With related children of the householder under 5 years only,(X),(X),33.1,+/-7.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",122,Married couple families,(X),(X),14.1,+/-1.6
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",123,With related children of the householder under 18 years,(X),(X),17.1,+/-2.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",124,With related children of the householder under 5 years only,(X),(X),13.1,+/-8.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",125,"Families with female householder, no spouse present",(X),(X),48.6,+/-5.2
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",126,With related children of the householder under 18 years,(X),(X),59.0,+/-6.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",127,With related children of the householder under 5 years only,(X),(X),68.6,+/-15.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",127.3,,,,,
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",128,All people,(X),(X),27.9,+/-1.4
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",129,Under 18 years,(X),(X),37.4,+/-3.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",130,Related children of the householder under 18 years,(X),(X),36.6,+/-3.1
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",131,Related children of the householder under 5 years,(X),(X),42.8,+/-5.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",132,Related children of the householder 5 to 17 years,(X),(X),34.6,+/-3.6
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",133,18 years and over,(X),(X),25.2,+/-1.3
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",134,18 to 64 years,(X),(X),27.4,+/-1.5
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",135,65 years and over,(X),(X),18.2,+/-2.0
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",136,People in families,(X),(X),24.1,+/-1.8
+DP03,5001800US2105,"Congressional District 5 (118th Congress), Kentucky",137,Unrelated individuals 15 years and over,(X),(X),45.5,+/-2.3
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",0.5,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",1,Population 16 years and over,"609,242","+/-3,926","609,242",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",2,In labor force,"383,287","+/-6,600",62.9,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",3,Civilian labor force,"382,617","+/-6,622",62.8,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",4,Employed,"363,447","+/-6,523",59.7,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",5,Unemployed,"19,170","+/-2,896",3.1,+/-0.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",6,Armed Forces,670,+/-486,0.1,+/-0.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",7,Not in labor force,"225,955","+/-7,066",37.1,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",7.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",8,Civilian labor force,"382,617","+/-6,622","382,617",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",9,Unemployment Rate,(X),(X),5.0,+/-0.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",9.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",10,Females 16 years and over,"314,118","+/-2,481","314,118",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",11,In labor force,"182,628","+/-4,434",58.1,+/-1.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",12,Civilian labor force,"182,510","+/-4,436",58.1,+/-1.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",13,Employed,"174,811","+/-4,472",55.7,+/-1.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",13.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",14,Own children of the householder under 6 years,"50,189","+/-2,203","50,189",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",15,All parents in family in labor force,"33,463","+/-2,565",66.7,+/-4.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",15.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",16,Own children of the householder 6 to 17 years,"99,561","+/-2,692","99,561",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",17,All parents in family in labor force,"73,987","+/-3,805",74.3,+/-3.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",17.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",18,Workers 16 years and over,"356,276","+/-6,389","356,276",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",19,"Car, truck, or van -- drove alone","270,346","+/-7,347",75.9,+/-1.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",20,"Car, truck, or van -- carpooled","25,805","+/-3,078",7.2,+/-0.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",21,Public transportation (excluding taxicab),"2,034",+/-784,0.6,+/-0.2
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",22,Walked,"9,384","+/-1,816",2.6,+/-0.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",23,Other means,"3,544",+/-961,1.0,+/-0.3
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",24,Worked from home,"45,163","+/-3,998",12.7,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",24.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",25,Mean travel time to work (minutes),23.4,+/-0.7,(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",25.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",25.5,OCCUPATION,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",26,Civilian employed population 16 years and over,"363,447","+/-6,523","363,447",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",27,"Management, business, science, and arts occupations","155,043","+/-6,607",42.7,+/-1.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",28,Service occupations,"57,542","+/-4,693",15.8,+/-1.2
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",29,Sales and office occupations,"71,474","+/-5,247",19.7,+/-1.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",30,"Natural resources, construction, and maintenance occupations","25,327","+/-2,652",7.0,+/-0.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",31,"Production, transportation, and material moving occupations","54,061","+/-3,639",14.9,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",31.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",31.5,INDUSTRY,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",32,Civilian employed population 16 years and over,"363,447","+/-6,523","363,447",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",33,"Agriculture, forestry, fishing and hunting, and mining","7,338","+/-1,450",2.0,+/-0.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",34,Construction,"19,750","+/-2,175",5.4,+/-0.6
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",35,Manufacturing,"45,450","+/-3,219",12.5,+/-0.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",36,Wholesale trade,"5,451","+/-1,058",1.5,+/-0.3
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",37,Retail trade,"46,991","+/-3,825",12.9,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",38,"Transportation and warehousing, and utilities","21,527","+/-3,114",5.9,+/-0.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",39,Information,"3,843","+/-1,088",1.1,+/-0.3
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",40,"Finance and insurance, and real estate and rental and leasing","16,316","+/-1,584",4.5,+/-0.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",41,"Professional, scientific, and management, and administrative and waste management services","38,881","+/-3,136",10.7,+/-0.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",42,"Educational services, and health care and social assistance","94,565","+/-5,603",26.0,+/-1.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",43,"Arts, entertainment, and recreation, and accommodation and food services","29,264","+/-3,086",8.1,+/-0.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",44,"Other services, except public administration","18,449","+/-2,351",5.1,+/-0.6
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",45,Public administration,"15,622","+/-2,098",4.3,+/-0.6
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",45.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",46,Civilian employed population 16 years and over,"363,447","+/-6,523","363,447",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",47,Private wage and salary workers,"280,568","+/-6,092",77.2,+/-1.2
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",48,Government workers,"59,782","+/-4,177",16.4,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",49,Self-employed in own not incorporated business workers,"21,926","+/-2,807",6.0,+/-0.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",50,Unpaid family workers,"1,171",+/-735,0.3,+/-0.2
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",50.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",51,Total households,"306,621","+/-3,166","306,621",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",52,"Less than $10,000","22,810","+/-2,664",7.4,+/-0.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",53,"$10,000 to $14,999","12,735","+/-1,980",4.2,+/-0.6
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",54,"$15,000 to $24,999","27,756","+/-2,686",9.1,+/-0.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",55,"$25,000 to $34,999","27,478","+/-2,448",9.0,+/-0.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",56,"$35,000 to $49,999","38,891","+/-3,101",12.7,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",57,"$50,000 to $74,999","56,640","+/-3,927",18.5,+/-1.2
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",58,"$75,000 to $99,999","40,432","+/-3,014",13.2,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",59,"$100,000 to $149,999","45,156","+/-2,788",14.7,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",60,"$150,000 to $199,999","18,171","+/-2,039",5.9,+/-0.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",61,"$200,000 or more","16,552","+/-1,901",5.4,+/-0.6
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",62,Median household income (dollars),"58,668","+/-2,122",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",63,Mean household income (dollars),"79,879","+/-2,507",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",63.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",64,With earnings,"237,239","+/-3,962",77.4,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",65,Mean earnings (dollars),"79,148","+/-3,062",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",66,With Social Security,"91,591","+/-3,101",29.9,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",67,Mean Social Security income (dollars),"21,188",+/-595,(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",68,With retirement income,"73,856","+/-2,916",24.1,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",69,Mean retirement income (dollars),"28,883","+/-3,037",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",69.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",70,With Supplemental Security Income,"18,205","+/-2,117",5.9,+/-0.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",71,Mean Supplemental Security Income (dollars),"10,374",+/-807,(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",72,With cash public assistance income,"6,105","+/-1,062",2.0,+/-0.3
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",73,Mean cash public assistance income (dollars),"5,267","+/-1,562",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",74,With Food Stamp/SNAP benefits in the past 12 months,"36,576","+/-2,944",11.9,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",74.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",75,Families,"188,982","+/-4,548","188,982",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",76,"Less than $10,000","8,369","+/-1,641",4.4,+/-0.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",77,"$10,000 to $14,999","3,080",+/-814,1.6,+/-0.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",78,"$15,000 to $24,999","11,490","+/-1,840",6.1,+/-0.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",79,"$25,000 to $34,999","11,697","+/-1,653",6.2,+/-0.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",80,"$35,000 to $49,999","20,620","+/-1,910",10.9,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",81,"$50,000 to $74,999","35,459","+/-3,092",18.8,+/-1.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",82,"$75,000 to $99,999","31,429","+/-2,276",16.6,+/-1.2
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",83,"$100,000 to $149,999","37,491","+/-2,866",19.8,+/-1.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",84,"$150,000 to $199,999","15,781","+/-1,960",8.4,+/-1.0
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",85,"$200,000 or more","13,566","+/-1,566",7.2,+/-0.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",86,Median family income (dollars),"77,295","+/-2,275",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",87,Mean family income (dollars),"96,929","+/-3,319",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",87.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",88,Per capita income (dollars),"33,072","+/-1,004",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",88.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",89,Nonfamily households,"117,639","+/-4,751","117,639",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",90,Median nonfamily income (dollars),"35,087","+/-2,651",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",91,Mean nonfamily income (dollars),"49,134","+/-3,754",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",91.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",92,Median earnings for workers (dollars),"34,369","+/-1,376",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",93,"Median earnings for male full-time, year-round workers (dollars)","52,451","+/-2,026",(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",94,"Median earnings for female full-time, year-round workers (dollars)","42,049",+/-863,(X),(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",94.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",95,Civilian noninstitutionalized population,"743,272","+/-4,168","743,272",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",96,With health insurance coverage,"697,093","+/-6,506",93.8,+/-0.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",97,With private health insurance,"497,510","+/-10,303",66.9,+/-1.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",98,With public coverage,"296,668","+/-9,253",39.9,+/-1.2
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",99,No health insurance coverage,"46,179","+/-5,489",6.2,+/-0.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",99.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",100,Civilian noninstitutionalized population under 19 years,"174,146","+/-2,831","174,146",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",101,No health insurance coverage,"7,334","+/-1,876",4.2,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",101.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",102,Civilian noninstitutionalized population 19 to 64 years,"453,636","+/-3,606","453,636",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",103,In labor force:,"349,084","+/-5,859","349,084",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",104,Employed:,"333,181","+/-5,474","333,181",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",105,With health insurance coverage,"309,372","+/-6,373",92.9,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",106,With private health insurance,"270,507","+/-6,450",81.2,+/-1.6
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",107,With public coverage,"51,401","+/-4,799",15.4,+/-1.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",108,No health insurance coverage,"23,809","+/-3,623",7.1,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",109,Unemployed:,"15,903","+/-2,673","15,903",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",110,With health insurance coverage,"12,661","+/-2,306",79.6,+/-6.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",111,With private health insurance,"6,196","+/-1,346",39.0,+/-7.2
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",112,With public coverage,"7,189","+/-1,829",45.2,+/-7.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",113,No health insurance coverage,"3,242","+/-1,259",20.4,+/-6.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",114,Not in labor force:,"104,552","+/-5,586","104,552",(X)
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",115,With health insurance coverage,"93,822","+/-5,071",89.7,+/-1.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",116,With private health insurance,"49,222","+/-3,788",47.1,+/-2.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",117,With public coverage,"52,084","+/-3,873",49.8,+/-2.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",118,No health insurance coverage,"10,730","+/-2,157",10.3,+/-1.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",118.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",119,All families,(X),(X),9.9,+/-1.3
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",120,With related children of the householder under 18 years,(X),(X),15.6,+/-2.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",121,With related children of the householder under 5 years only,(X),(X),21.8,+/-7.7
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",122,Married couple families,(X),(X),3.4,+/-0.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",123,With related children of the householder under 18 years,(X),(X),5.0,+/-1.6
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",124,With related children of the householder under 5 years only,(X),(X),3.5,+/-2.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",125,"Families with female householder, no spouse present",(X),(X),30.6,+/-5.3
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",126,With related children of the householder under 18 years,(X),(X),41.4,+/-7.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",127,With related children of the householder under 5 years only,(X),(X),57.9,+/-16.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",127.3,,,,,
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",128,All people,(X),(X),14.1,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",129,Under 18 years,(X),(X),17.1,+/-2.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",130,Related children of the householder under 18 years,(X),(X),16.7,+/-2.5
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",131,Related children of the householder under 5 years,(X),(X),18.4,+/-3.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",132,Related children of the householder 5 to 17 years,(X),(X),16.1,+/-2.8
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",133,18 years and over,(X),(X),13.3,+/-0.9
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",134,18 to 64 years,(X),(X),14.0,+/-1.1
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",135,65 years and over,(X),(X),10.4,+/-1.4
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",136,People in families,(X),(X),10.2,+/-1.3
+DP03,5001800US2106,"Congressional District 6 (118th Congress), Kentucky",137,Unrelated individuals 15 years and over,(X),(X),28.0,+/-2.4

@@ -1,0 +1,673 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",0.5,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",1,Population 16 years and over,"632,707","+/-7,231","632,707",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",2,In labor force,"440,882","+/-7,431",69.7,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",3,Civilian labor force,"435,926","+/-7,494",68.9,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",4,Employed,"424,383","+/-7,735",67.1,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",5,Unemployed,"11,543","+/-1,762",1.8,+/-0.3
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",6,Armed Forces,"4,956","+/-1,563",0.8,+/-0.2
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",7,Not in labor force,"191,825","+/-6,301",30.3,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",7.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",8,Civilian labor force,"435,926","+/-7,494","435,926",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",9,Unemployment Rate,(X),(X),2.6,+/-0.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",9.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",10,Females 16 years and over,"313,916","+/-4,146","313,916",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",11,In labor force,"196,464","+/-5,311",62.6,+/-1.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",12,Civilian labor force,"195,919","+/-5,243",62.4,+/-1.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",13,Employed,"190,649","+/-5,428",60.7,+/-1.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",13.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",14,Own children of the householder under 6 years,"64,178","+/-3,246","64,178",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",15,All parents in family in labor force,"36,762","+/-3,410",57.3,+/-4.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",15.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",16,Own children of the householder 6 to 17 years,"159,449","+/-3,887","159,449",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",17,All parents in family in labor force,"105,462","+/-5,729",66.1,+/-3.2
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",17.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",18,Workers 16 years and over,"421,965","+/-7,706","421,965",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",19,"Car, truck, or van -- drove alone","287,171","+/-6,861",68.1,+/-1.3
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",20,"Car, truck, or van -- carpooled","35,315","+/-4,002",8.4,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",21,Public transportation (excluding taxicab),"5,636","+/-1,239",1.3,+/-0.3
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",22,Walked,"9,351","+/-1,483",2.2,+/-0.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",23,Other means,"7,693","+/-1,576",1.8,+/-0.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",24,Worked from home,"76,799","+/-4,428",18.2,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",24.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",25,Mean travel time to work (minutes),21.6,+/-0.7,(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",25.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",25.5,OCCUPATION,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",26,Civilian employed population 16 years and over,"424,383","+/-7,735","424,383",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",27,"Management, business, science, and arts occupations","180,609","+/-6,544",42.6,+/-1.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",28,Service occupations,"57,272","+/-4,356",13.5,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",29,Sales and office occupations,"88,407","+/-3,996",20.8,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",30,"Natural resources, construction, and maintenance occupations","34,409","+/-3,307",8.1,+/-0.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",31,"Production, transportation, and material moving occupations","63,686","+/-5,181",15.0,+/-1.2
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",31.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",31.5,INDUSTRY,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",32,Civilian employed population 16 years and over,"424,383","+/-7,735","424,383",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",33,"Agriculture, forestry, fishing and hunting, and mining","4,342","+/-1,179",1.0,+/-0.3
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",34,Construction,"30,078","+/-3,341",7.1,+/-0.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",35,Manufacturing,"58,342","+/-3,920",13.7,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",36,Wholesale trade,"8,514","+/-1,503",2.0,+/-0.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",37,Retail trade,"44,780","+/-3,947",10.6,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",38,"Transportation and warehousing, and utilities","21,504","+/-2,706",5.1,+/-0.6
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",39,Information,"5,871","+/-1,289",1.4,+/-0.3
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",40,"Finance and insurance, and real estate and rental and leasing","24,412","+/-2,756",5.8,+/-0.6
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",41,"Professional, scientific, and management, and administrative and waste management services","50,516","+/-4,181",11.9,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",42,"Educational services, and health care and social assistance","96,674","+/-4,463",22.8,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",43,"Arts, entertainment, and recreation, and accommodation and food services","29,541","+/-2,910",7.0,+/-0.7
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",44,"Other services, except public administration","17,731","+/-2,228",4.2,+/-0.5
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",45,Public administration,"32,078","+/-2,906",7.6,+/-0.7
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",45.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",46,Civilian employed population 16 years and over,"424,383","+/-7,735","424,383",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",47,Private wage and salary workers,"325,112","+/-7,184",76.6,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",48,Government workers,"78,085","+/-4,331",18.4,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",49,Self-employed in own not incorporated business workers,"20,542","+/-2,526",4.8,+/-0.6
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",50,Unpaid family workers,644,+/-432,0.2,+/-0.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",50.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",51,Total households,"281,730","+/-3,840","281,730",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",52,"Less than $10,000","13,720","+/-1,839",4.9,+/-0.6
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",53,"$10,000 to $14,999","6,404","+/-1,302",2.3,+/-0.5
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",54,"$15,000 to $24,999","14,665","+/-1,929",5.2,+/-0.7
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",55,"$25,000 to $34,999","20,553","+/-2,088",7.3,+/-0.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",56,"$35,000 to $49,999","29,255","+/-2,769",10.4,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",57,"$50,000 to $74,999","51,427","+/-3,841",18.3,+/-1.3
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",58,"$75,000 to $99,999","37,616","+/-2,702",13.4,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",59,"$100,000 to $149,999","53,025","+/-3,171",18.8,+/-1.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",60,"$150,000 to $199,999","25,242","+/-2,514",9.0,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",61,"$200,000 or more","29,823","+/-2,400",10.6,+/-0.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",62,Median household income (dollars),"77,807","+/-2,000",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",63,Mean household income (dollars),"106,302","+/-3,401",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",63.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",64,With earnings,"237,120","+/-4,344",84.2,+/-0.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",65,Mean earnings (dollars),"103,869","+/-3,262",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",66,With Social Security,"63,928","+/-2,966",22.7,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",67,Mean Social Security income (dollars),"22,028",+/-763,(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",68,With retirement income,"59,899","+/-2,919",21.3,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",69,Mean retirement income (dollars),"31,484","+/-3,217",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",69.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",70,With Supplemental Security Income,"8,694","+/-1,545",3.1,+/-0.6
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",71,Mean Supplemental Security Income (dollars),"10,528","+/-1,002",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",72,With cash public assistance income,"6,181","+/-1,399",2.2,+/-0.5
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",73,Mean cash public assistance income (dollars),"5,371","+/-1,143",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",74,With Food Stamp/SNAP benefits in the past 12 months,"16,390","+/-2,120",5.8,+/-0.7
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",74.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",75,Families,"200,943","+/-4,214","200,943",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",76,"Less than $10,000","5,589","+/-1,473",2.8,+/-0.7
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",77,"$10,000 to $14,999","2,198",+/-826,1.1,+/-0.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",78,"$15,000 to $24,999","6,559","+/-1,303",3.3,+/-0.6
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",79,"$25,000 to $34,999","10,586","+/-1,645",5.3,+/-0.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",80,"$35,000 to $49,999","17,213","+/-2,355",8.6,+/-1.2
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",81,"$50,000 to $74,999","36,096","+/-2,970",18.0,+/-1.5
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",82,"$75,000 to $99,999","28,717","+/-2,389",14.3,+/-1.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",83,"$100,000 to $149,999","45,194","+/-3,136",22.5,+/-1.5
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",84,"$150,000 to $199,999","22,073","+/-2,226",11.0,+/-1.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",85,"$200,000 or more","26,718","+/-2,255",13.3,+/-1.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",86,Median family income (dollars),"94,000","+/-2,821",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",87,Mean family income (dollars),"123,260","+/-4,737",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",87.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",88,Per capita income (dollars),"36,884","+/-1,137",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",88.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",89,Nonfamily households,"80,787","+/-3,861","80,787",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",90,Median nonfamily income (dollars),"43,759","+/-2,233",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",91,Mean nonfamily income (dollars),"59,060","+/-3,093",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",91.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",92,Median earnings for workers (dollars),"37,344","+/-1,094",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",93,"Median earnings for male full-time, year-round workers (dollars)","61,299","+/-1,305",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",94,"Median earnings for female full-time, year-round workers (dollars)","44,113","+/-2,213",(X),(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",94.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",95,Civilian noninstitutionalized population,"827,847","+/-7,981","827,847",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",96,With health insurance coverage,"766,137","+/-9,151",92.5,+/-0.7
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",97,With private health insurance,"653,834","+/-10,660",79.0,+/-1.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",98,With public coverage,"191,506","+/-9,317",23.1,+/-1.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",99,No health insurance coverage,"61,710","+/-5,980",7.5,+/-0.7
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",99.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",100,Civilian noninstitutionalized population under 19 years,"244,190","+/-4,582","244,190",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",101,No health insurance coverage,"14,739","+/-2,619",6.0,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",101.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",102,Civilian noninstitutionalized population 19 to 64 years,"491,647","+/-6,651","491,647",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",103,In labor force:,"398,702","+/-6,612","398,702",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",104,Employed:,"388,675","+/-6,896","388,675",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",105,With health insurance coverage,"356,564","+/-7,139",91.7,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",106,With private health insurance,"340,911","+/-7,264",87.7,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",107,With public coverage,"26,001","+/-2,824",6.7,+/-0.7
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",108,No health insurance coverage,"32,111","+/-3,664",8.3,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",109,Unemployed:,"10,027","+/-1,756","10,027",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",110,With health insurance coverage,"7,267","+/-1,421",72.5,+/-8.3
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",111,With private health insurance,"4,685","+/-1,217",46.7,+/-9.5
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",112,With public coverage,"2,769",+/-895,27.6,+/-8.2
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",113,No health insurance coverage,"2,760","+/-1,015",27.5,+/-8.3
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",114,Not in labor force:,"92,945","+/-4,913","92,945",(X)
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",115,With health insurance coverage,"81,337","+/-4,627",87.5,+/-2.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",116,With private health insurance,"61,119","+/-3,783",65.8,+/-2.7
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",117,With public coverage,"26,894","+/-3,106",28.9,+/-2.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",118,No health insurance coverage,"11,608","+/-2,032",12.5,+/-2.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",118.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",119,All families,(X),(X),6.5,+/-1.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",120,With related children of the householder under 18 years,(X),(X),8.4,+/-1.4
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",121,With related children of the householder under 5 years only,(X),(X),10.5,+/-3.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",122,Married couple families,(X),(X),4.0,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",123,With related children of the householder under 18 years,(X),(X),4.0,+/-1.3
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",124,With related children of the householder under 5 years only,(X),(X),4.3,+/-3.0
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",125,"Families with female householder, no spouse present",(X),(X),23.3,+/-5.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",126,With related children of the householder under 18 years,(X),(X),31.7,+/-7.2
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",127,With related children of the householder under 5 years only,(X),(X),52.1,+/-16.2
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",127.3,,,,,
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",128,All people,(X),(X),9.1,+/-0.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",129,Under 18 years,(X),(X),9.4,+/-1.5
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",130,Related children of the householder under 18 years,(X),(X),9.1,+/-1.5
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",131,Related children of the householder under 5 years,(X),(X),14.0,+/-3.1
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",132,Related children of the householder 5 to 17 years,(X),(X),7.6,+/-1.6
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",133,18 years and over,(X),(X),9.0,+/-0.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",134,18 to 64 years,(X),(X),9.0,+/-0.8
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",135,65 years and over,(X),(X),8.6,+/-1.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",136,People in families,(X),(X),6.5,+/-0.9
+DP03,5001800US4901,"Congressional District 1 (118th Congress), Utah",137,Unrelated individuals 15 years and over,(X),(X),23.4,+/-2.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",0.5,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",1,Population 16 years and over,"645,855","+/-9,069","645,855",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",2,In labor force,"430,410","+/-8,479",66.6,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",3,Civilian labor force,"429,774","+/-8,519",66.5,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",4,Employed,"411,471","+/-8,789",63.7,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",5,Unemployed,"18,303","+/-2,228",2.8,+/-0.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",6,Armed Forces,636,+/-395,0.1,+/-0.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",7,Not in labor force,"215,445","+/-7,218",33.4,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",7.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",8,Civilian labor force,"429,774","+/-8,519","429,774",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",9,Unemployment Rate,(X),(X),4.3,+/-0.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",9.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",10,Females 16 years and over,"318,213","+/-6,042","318,213",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",11,In labor force,"189,342","+/-6,309",59.5,+/-1.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",12,Civilian labor force,"189,342","+/-6,309",59.5,+/-1.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",13,Employed,"181,632","+/-6,377",57.1,+/-1.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",13.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",14,Own children of the householder under 6 years,"62,166","+/-3,148","62,166",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",15,All parents in family in labor force,"35,973","+/-3,304",57.9,+/-4.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",15.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",16,Own children of the householder 6 to 17 years,"146,064","+/-5,460","146,064",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",17,All parents in family in labor force,"96,552","+/-7,294",66.1,+/-3.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",17.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",18,Workers 16 years and over,"404,741","+/-8,928","404,741",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",19,"Car, truck, or van -- drove alone","273,753","+/-8,746",67.6,+/-1.7
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",20,"Car, truck, or van -- carpooled","39,802","+/-4,985",9.8,+/-1.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",21,Public transportation (excluding taxicab),"5,759","+/-1,629",1.4,+/-0.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",22,Walked,"6,618","+/-1,692",1.6,+/-0.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",23,Other means,"5,767","+/-1,500",1.4,+/-0.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",24,Worked from home,"73,042","+/-5,183",18.0,+/-1.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",24.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",25,Mean travel time to work (minutes),20.4,+/-0.6,(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",25.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",25.5,OCCUPATION,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",26,Civilian employed population 16 years and over,"411,471","+/-8,789","411,471",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",27,"Management, business, science, and arts occupations","153,608","+/-7,360",37.3,+/-1.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",28,Service occupations,"58,534","+/-4,788",14.2,+/-1.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",29,Sales and office occupations,"93,792","+/-6,339",22.8,+/-1.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",30,"Natural resources, construction, and maintenance occupations","39,698","+/-3,913",9.6,+/-0.9
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",31,"Production, transportation, and material moving occupations","65,839","+/-4,566",16.0,+/-1.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",31.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",31.5,INDUSTRY,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",32,Civilian employed population 16 years and over,"411,471","+/-8,789","411,471",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",33,"Agriculture, forestry, fishing and hunting, and mining","6,777","+/-1,426",1.6,+/-0.3
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",34,Construction,"36,040","+/-3,915",8.8,+/-0.9
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",35,Manufacturing,"47,132","+/-4,071",11.5,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",36,Wholesale trade,"10,055","+/-1,985",2.4,+/-0.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",37,Retail trade,"46,469","+/-3,672",11.3,+/-0.9
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",38,"Transportation and warehousing, and utilities","27,084","+/-3,512",6.6,+/-0.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",39,Information,"5,591","+/-1,461",1.4,+/-0.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",40,"Finance and insurance, and real estate and rental and leasing","30,008","+/-3,702",7.3,+/-0.9
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",41,"Professional, scientific, and management, and administrative and waste management services","48,826","+/-3,825",11.9,+/-0.9
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",42,"Educational services, and health care and social assistance","84,526","+/-5,992",20.5,+/-1.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",43,"Arts, entertainment, and recreation, and accommodation and food services","35,192","+/-3,652",8.6,+/-0.9
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",44,"Other services, except public administration","17,916","+/-2,232",4.4,+/-0.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",45,Public administration,"15,855","+/-2,596",3.9,+/-0.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",45.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",46,Civilian employed population 16 years and over,"411,471","+/-8,789","411,471",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",47,Private wage and salary workers,"328,806","+/-8,602",79.9,+/-1.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",48,Government workers,"60,588","+/-4,965",14.7,+/-1.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",49,Self-employed in own not incorporated business workers,"21,147","+/-2,917",5.1,+/-0.7
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",50,Unpaid family workers,930,+/-583,0.2,+/-0.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",50.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",51,Total households,"293,199","+/-5,356","293,199",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",52,"Less than $10,000","13,853","+/-2,490",4.7,+/-0.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",53,"$10,000 to $14,999","10,443","+/-2,253",3.6,+/-0.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",54,"$15,000 to $24,999","15,050","+/-2,140",5.1,+/-0.7
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",55,"$25,000 to $34,999","23,767","+/-3,040",8.1,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",56,"$35,000 to $49,999","35,231","+/-3,058",12.0,+/-1.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",57,"$50,000 to $74,999","53,135","+/-3,975",18.1,+/-1.3
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",58,"$75,000 to $99,999","44,888","+/-3,306",15.3,+/-1.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",59,"$100,000 to $149,999","57,965","+/-3,742",19.8,+/-1.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",60,"$150,000 to $199,999","19,737","+/-2,648",6.7,+/-0.9
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",61,"$200,000 or more","19,130","+/-1,883",6.5,+/-0.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",62,Median household income (dollars),"72,791","+/-2,139",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",63,Mean household income (dollars),"92,699","+/-3,214",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",63.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",64,With earnings,"232,989","+/-5,187",79.5,+/-1.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",65,Mean earnings (dollars),"94,042","+/-3,443",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",66,With Social Security,"77,374","+/-3,504",26.4,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",67,Mean Social Security income (dollars),"21,918",+/-870,(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",68,With retirement income,"62,184","+/-3,166",21.2,+/-1.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",69,Mean retirement income (dollars),"29,092","+/-2,142",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",69.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",70,With Supplemental Security Income,"11,127","+/-1,935",3.8,+/-0.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",71,Mean Supplemental Security Income (dollars),"10,235","+/-1,134",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",72,With cash public assistance income,"5,647","+/-1,263",1.9,+/-0.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",73,Mean cash public assistance income (dollars),"5,365","+/-1,764",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",74,With Food Stamp/SNAP benefits in the past 12 months,"20,588","+/-2,346",7.0,+/-0.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",74.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",75,Families,"196,761","+/-5,572","196,761",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",76,"Less than $10,000","3,155",+/-939,1.6,+/-0.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",77,"$10,000 to $14,999","3,196","+/-1,282",1.6,+/-0.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",78,"$15,000 to $24,999","6,231","+/-1,417",3.2,+/-0.7
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",79,"$25,000 to $34,999","11,858","+/-1,996",6.0,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",80,"$35,000 to $49,999","20,923","+/-2,717",10.6,+/-1.3
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",81,"$50,000 to $74,999","39,035","+/-3,654",19.8,+/-1.7
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",82,"$75,000 to $99,999","34,293","+/-3,021",17.4,+/-1.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",83,"$100,000 to $149,999","46,446","+/-3,178",23.6,+/-1.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",84,"$150,000 to $199,999","15,311","+/-2,251",7.8,+/-1.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",85,"$200,000 or more","16,313","+/-1,714",8.3,+/-0.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",86,Median family income (dollars),"84,097","+/-3,248",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",87,Mean family income (dollars),"106,804","+/-4,216",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",87.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",88,Per capita income (dollars),"33,016","+/-1,104",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",88.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",89,Nonfamily households,"96,438","+/-5,805","96,438",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",90,Median nonfamily income (dollars),"42,524","+/-2,066",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",91,Mean nonfamily income (dollars),"58,315","+/-3,654",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",91.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",92,Median earnings for workers (dollars),"36,035",+/-942,(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",93,"Median earnings for male full-time, year-round workers (dollars)","53,801","+/-2,647",(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",94,"Median earnings for female full-time, year-round workers (dollars)","41,421",+/-752,(X),(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",94.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",95,Civilian noninstitutionalized population,"825,232","+/-10,353","825,232",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",96,With health insurance coverage,"727,315","+/-12,776",88.1,+/-1.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",97,With private health insurance,"600,959","+/-14,729",72.8,+/-1.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",98,With public coverage,"216,648","+/-10,257",26.3,+/-1.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",99,No health insurance coverage,"97,917","+/-10,101",11.9,+/-1.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",99.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",100,Civilian noninstitutionalized population under 19 years,"230,302","+/-6,278","230,302",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",101,No health insurance coverage,"26,795","+/-6,395",11.6,+/-2.7
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",101.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",102,Civilian noninstitutionalized population 19 to 64 years,"480,895","+/-8,297","480,895",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",103,In labor force:,"389,257","+/-7,689","389,257",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",104,Employed:,"372,484","+/-7,934","372,484",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",105,With health insurance coverage,"322,563","+/-9,155",86.6,+/-1.3
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",106,With private health insurance,"307,400","+/-9,529",82.5,+/-1.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",107,With public coverage,"21,719","+/-2,881",5.8,+/-0.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",108,No health insurance coverage,"49,921","+/-4,716",13.4,+/-1.3
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",109,Unemployed:,"16,773","+/-2,182","16,773",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",110,With health insurance coverage,"11,929","+/-2,061",71.1,+/-6.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",111,With private health insurance,"8,830","+/-1,963",52.6,+/-8.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",112,With public coverage,"3,639","+/-1,117",21.7,+/-6.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",113,No health insurance coverage,"4,844","+/-1,234",28.9,+/-6.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",114,Not in labor force:,"91,638","+/-5,402","91,638",(X)
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",115,With health insurance coverage,"76,211","+/-4,816",83.2,+/-2.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",116,With private health insurance,"56,339","+/-4,208",61.5,+/-3.4
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",117,With public coverage,"26,019","+/-3,068",28.4,+/-2.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",118,No health insurance coverage,"15,427","+/-2,675",16.8,+/-2.6
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",118.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",119,All families,(X),(X),5.9,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",120,With related children of the householder under 18 years,(X),(X),7.6,+/-1.7
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",121,With related children of the householder under 5 years only,(X),(X),6.4,+/-3.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",122,Married couple families,(X),(X),3.6,+/-0.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",123,With related children of the householder under 18 years,(X),(X),3.7,+/-1.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",124,With related children of the householder under 5 years only,(X),(X),4.6,+/-2.8
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",125,"Families with female householder, no spouse present",(X),(X),17.8,+/-4.7
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",126,With related children of the householder under 18 years,(X),(X),22.1,+/-6.3
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",127,With related children of the householder under 5 years only,(X),(X),11.3,+/-13.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",127.3,,,,,
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",128,All people,(X),(X),9.1,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",129,Under 18 years,(X),(X),8.7,+/-2.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",130,Related children of the householder under 18 years,(X),(X),8.3,+/-2.2
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",131,Related children of the householder under 5 years,(X),(X),9.2,+/-3.3
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",132,Related children of the householder 5 to 17 years,(X),(X),8.1,+/-2.3
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",133,18 years and over,(X),(X),9.3,+/-0.9
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",134,18 to 64 years,(X),(X),9.3,+/-1.0
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",135,65 years and over,(X),(X),9.2,+/-1.5
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",136,People in families,(X),(X),5.8,+/-1.1
+DP03,5001800US4902,"Congressional District 2 (118th Congress), Utah",137,Unrelated individuals 15 years and over,(X),(X),24.0,+/-2.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",0.5,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",1,Population 16 years and over,"631,772","+/-7,107","631,772",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",2,In labor force,"425,433","+/-7,532",67.3,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",3,Civilian labor force,"424,278","+/-7,499",67.2,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",4,Employed,"409,470","+/-7,060",64.8,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",5,Unemployed,"14,808","+/-2,069",2.3,+/-0.3
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",6,Armed Forces,"1,155",+/-912,0.2,+/-0.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",7,Not in labor force,"206,339","+/-6,222",32.7,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",7.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",8,Civilian labor force,"424,278","+/-7,499","424,278",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",9,Unemployment Rate,(X),(X),3.5,+/-0.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",9.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",10,Females 16 years and over,"317,872","+/-4,964","317,872",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",11,In labor force,"187,212","+/-5,375",58.9,+/-1.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",12,Civilian labor force,"186,953","+/-5,385",58.8,+/-1.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",13,Employed,"180,069","+/-5,109",56.6,+/-1.3
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",13.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",14,Own children of the householder under 6 years,"66,070","+/-3,583","66,070",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",15,All parents in family in labor force,"30,851","+/-3,657",46.7,+/-4.7
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",15.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",16,Own children of the householder 6 to 17 years,"151,439","+/-5,168","151,439",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",17,All parents in family in labor force,"87,682","+/-5,352",57.9,+/-3.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",17.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",18,Workers 16 years and over,"404,373","+/-7,120","404,373",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",19,"Car, truck, or van -- drove alone","258,009","+/-6,621",63.8,+/-1.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",20,"Car, truck, or van -- carpooled","32,726","+/-3,624",8.1,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",21,Public transportation (excluding taxicab),"6,084","+/-1,367",1.5,+/-0.3
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",22,Walked,"10,950","+/-1,635",2.7,+/-0.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",23,Other means,"7,679","+/-1,804",1.9,+/-0.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",24,Worked from home,"88,925","+/-4,924",22.0,+/-1.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",24.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",25,Mean travel time to work (minutes),20.5,+/-0.6,(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",25.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",25.5,OCCUPATION,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",26,Civilian employed population 16 years and over,"409,470","+/-7,060","409,470",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",27,"Management, business, science, and arts occupations","191,070","+/-6,298",46.7,+/-1.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",28,Service occupations,"57,186","+/-3,670",14.0,+/-0.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",29,Sales and office occupations,"89,308","+/-5,241",21.8,+/-1.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",30,"Natural resources, construction, and maintenance occupations","31,354","+/-3,370",7.7,+/-0.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",31,"Production, transportation, and material moving occupations","40,552","+/-3,221",9.9,+/-0.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",31.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",31.5,INDUSTRY,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",32,Civilian employed population 16 years and over,"409,470","+/-7,060","409,470",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",33,"Agriculture, forestry, fishing and hunting, and mining","8,127","+/-1,679",2.0,+/-0.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",34,Construction,"28,776","+/-2,763",7.0,+/-0.7
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",35,Manufacturing,"29,609","+/-2,647",7.2,+/-0.6
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",36,Wholesale trade,"8,978","+/-1,551",2.2,+/-0.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",37,Retail trade,"51,136","+/-3,794",12.5,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",38,"Transportation and warehousing, and utilities","17,400","+/-2,151",4.2,+/-0.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",39,Information,"7,638","+/-1,489",1.9,+/-0.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",40,"Finance and insurance, and real estate and rental and leasing","34,772","+/-2,651",8.5,+/-0.6
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",41,"Professional, scientific, and management, and administrative and waste management services","63,591","+/-4,139",15.5,+/-1.0
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",42,"Educational services, and health care and social assistance","96,155","+/-5,325",23.5,+/-1.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",43,"Arts, entertainment, and recreation, and accommodation and food services","32,603","+/-2,793",8.0,+/-0.7
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",44,"Other services, except public administration","15,508","+/-1,885",3.8,+/-0.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",45,Public administration,"15,177","+/-2,000",3.7,+/-0.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",45.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",46,Civilian employed population 16 years and over,"409,470","+/-7,060","409,470",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",47,Private wage and salary workers,"329,167","+/-7,051",80.4,+/-1.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",48,Government workers,"56,176","+/-4,465",13.7,+/-1.0
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",49,Self-employed in own not incorporated business workers,"23,716","+/-2,547",5.8,+/-0.6
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",50,Unpaid family workers,411,+/-235,0.1,+/-0.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",50.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",51,Total households,"272,673","+/-4,057","272,673",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",52,"Less than $10,000","12,526","+/-2,046",4.6,+/-0.7
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",53,"$10,000 to $14,999","5,686","+/-1,229",2.1,+/-0.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",54,"$15,000 to $24,999","13,877","+/-1,963",5.1,+/-0.7
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",55,"$25,000 to $34,999","17,759","+/-2,377",6.5,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",56,"$35,000 to $49,999","27,630","+/-2,653",10.1,+/-1.0
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",57,"$50,000 to $74,999","48,693","+/-3,224",17.9,+/-1.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",58,"$75,000 to $99,999","36,744","+/-3,323",13.5,+/-1.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",59,"$100,000 to $149,999","50,043","+/-3,235",18.4,+/-1.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",60,"$150,000 to $199,999","24,887","+/-2,456",9.1,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",61,"$200,000 or more","34,828","+/-2,405",12.8,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",62,Median household income (dollars),"80,915","+/-1,837",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",63,Mean household income (dollars),"114,503","+/-3,604",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",63.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",64,With earnings,"230,357","+/-3,579",84.5,+/-1.0
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",65,Mean earnings (dollars),"110,789","+/-3,996",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",66,With Social Security,"67,480","+/-3,422",24.7,+/-1.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",67,Mean Social Security income (dollars),"23,634",+/-842,(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",68,With retirement income,"53,509","+/-2,831",19.6,+/-1.0
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",69,Mean retirement income (dollars),"33,216","+/-3,032",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",69.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",70,With Supplemental Security Income,"8,494","+/-1,421",3.1,+/-0.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",71,Mean Supplemental Security Income (dollars),"11,726","+/-1,613",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",72,With cash public assistance income,"5,453","+/-1,090",2.0,+/-0.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",73,Mean cash public assistance income (dollars),"4,776","+/-1,229",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",74,With Food Stamp/SNAP benefits in the past 12 months,"13,511","+/-1,851",5.0,+/-0.7
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",74.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",75,Families,"199,886","+/-4,526","199,886",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",76,"Less than $10,000","5,401","+/-1,067",2.7,+/-0.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",77,"$10,000 to $14,999","2,542",+/-911,1.3,+/-0.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",78,"$15,000 to $24,999","5,542","+/-1,130",2.8,+/-0.6
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",79,"$25,000 to $34,999","9,944","+/-1,741",5.0,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",80,"$35,000 to $49,999","18,794","+/-2,206",9.4,+/-1.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",81,"$50,000 to $74,999","34,420","+/-2,607",17.2,+/-1.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",82,"$75,000 to $99,999","28,700","+/-3,036",14.4,+/-1.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",83,"$100,000 to $149,999","42,432","+/-2,677",21.2,+/-1.3
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",84,"$150,000 to $199,999","21,611","+/-2,354",10.8,+/-1.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",85,"$200,000 or more","30,500","+/-2,447",15.3,+/-1.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",86,Median family income (dollars),"94,987","+/-3,237",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",87,Mean family income (dollars),"129,025","+/-4,425",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",87.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",88,Per capita income (dollars),"38,089","+/-1,333",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",88.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",89,Nonfamily households,"72,787","+/-4,769","72,787",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",90,Median nonfamily income (dollars),"48,286","+/-3,253",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",91,Mean nonfamily income (dollars),"67,533","+/-5,517",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",91.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",92,Median earnings for workers (dollars),"35,261","+/-1,000",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",93,"Median earnings for male full-time, year-round workers (dollars)","64,887","+/-2,158",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",94,"Median earnings for female full-time, year-round workers (dollars)","46,221","+/-1,909",(X),(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",94.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",95,Civilian noninstitutionalized population,"822,980","+/-8,850","822,980",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",96,With health insurance coverage,"754,473","+/-9,560",91.7,+/-0.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",97,With private health insurance,"649,527","+/-10,786",78.9,+/-1.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",98,With public coverage,"176,643","+/-7,514",21.5,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",99,No health insurance coverage,"68,507","+/-7,012",8.3,+/-0.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",99.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",100,Civilian noninstitutionalized population under 19 years,"240,253","+/-6,599","240,253",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",101,No health insurance coverage,"17,531","+/-3,795",7.3,+/-1.5
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",101.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",102,Civilian noninstitutionalized population 19 to 64 years,"483,915","+/-7,015","483,915",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",103,In labor force:,"380,798","+/-6,642","380,798",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",104,Employed:,"368,154","+/-6,313","368,154",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",105,With health insurance coverage,"333,706","+/-6,662",90.6,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",106,With private health insurance,"322,544","+/-6,836",87.6,+/-1.0
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",107,With public coverage,"18,527","+/-2,582",5.0,+/-0.7
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",108,No health insurance coverage,"34,448","+/-3,162",9.4,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",109,Unemployed:,"12,644","+/-1,988","12,644",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",110,With health insurance coverage,"9,635","+/-1,832",76.2,+/-8.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",111,With private health insurance,"6,822","+/-1,519",54.0,+/-8.0
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",112,With public coverage,"3,220","+/-1,133",25.5,+/-8.3
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",113,No health insurance coverage,"3,009","+/-1,106",23.8,+/-8.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",114,Not in labor force:,"103,117","+/-4,646","103,117",(X)
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",115,With health insurance coverage,"90,252","+/-4,362",87.5,+/-1.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",116,With private health insurance,"69,772","+/-3,708",67.7,+/-2.6
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",117,With public coverage,"26,015","+/-3,037",25.2,+/-2.6
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",118,No health insurance coverage,"12,865","+/-2,010",12.5,+/-1.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",118.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",119,All families,(X),(X),6.0,+/-0.7
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",120,With related children of the householder under 18 years,(X),(X),6.8,+/-1.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",121,With related children of the householder under 5 years only,(X),(X),8.9,+/-3.1
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",122,Married couple families,(X),(X),4.4,+/-0.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",123,With related children of the householder under 18 years,(X),(X),4.2,+/-1.0
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",124,With related children of the householder under 5 years only,(X),(X),5.2,+/-2.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",125,"Families with female householder, no spouse present",(X),(X),16.4,+/-3.7
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",126,With related children of the householder under 18 years,(X),(X),22.8,+/-5.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",127,With related children of the householder under 5 years only,(X),(X),41.4,+/-20.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",127.3,,,,,
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",128,All people,(X),(X),9.1,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",129,Under 18 years,(X),(X),7.6,+/-1.6
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",130,Related children of the householder under 18 years,(X),(X),7.4,+/-1.6
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",131,Related children of the householder under 5 years,(X),(X),8.2,+/-2.2
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",132,Related children of the householder 5 to 17 years,(X),(X),7.1,+/-1.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",133,18 years and over,(X),(X),9.7,+/-0.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",134,18 to 64 years,(X),(X),10.3,+/-0.9
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",135,65 years and over,(X),(X),6.7,+/-1.4
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",136,People in families,(X),(X),5.6,+/-0.8
+DP03,5001800US4903,"Congressional District 3 (118th Congress), Utah",137,Unrelated individuals 15 years and over,(X),(X),28.3,+/-2.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",0.5,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",1,Population 16 years and over,"596,695","+/-8,891","596,695",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",2,In labor force,"424,417","+/-11,090",71.1,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",3,Civilian labor force,"423,483","+/-11,125",71.0,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",4,Employed,"408,444","+/-10,918",68.5,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",5,Unemployed,"15,039","+/-2,036",2.5,+/-0.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",6,Armed Forces,934,+/-505,0.2,+/-0.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",7,Not in labor force,"172,278","+/-6,438",28.9,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",7.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",8,Civilian labor force,"423,483","+/-11,125","423,483",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",9,Unemployment Rate,(X),(X),3.6,+/-0.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",9.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",10,Females 16 years and over,"294,824","+/-5,418","294,824",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",11,In labor force,"188,068","+/-6,445",63.8,+/-1.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",12,Civilian labor force,"187,829","+/-6,497",63.7,+/-1.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",13,Employed,"179,369","+/-6,243",60.8,+/-1.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",13.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",14,Own children of the householder under 6 years,"85,423","+/-4,818","85,423",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",15,All parents in family in labor force,"45,601","+/-4,869",53.4,+/-4.4
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",15.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",16,Own children of the householder 6 to 17 years,"178,317","+/-6,451","178,317",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",17,All parents in family in labor force,"114,930","+/-6,295",64.5,+/-2.8
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",17.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",18,Workers 16 years and over,"402,633","+/-10,863","402,633",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",19,"Car, truck, or van -- drove alone","264,896","+/-8,957",65.8,+/-1.4
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",20,"Car, truck, or van -- carpooled","36,468","+/-4,179",9.1,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",21,Public transportation (excluding taxicab),"4,270","+/-1,373",1.1,+/-0.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",22,Walked,"3,641","+/-1,201",0.9,+/-0.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",23,Other means,"4,790","+/-1,395",1.2,+/-0.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",24,Worked from home,"88,568","+/-5,755",22.0,+/-1.4
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",24.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",25,Mean travel time to work (minutes),23.3,+/-0.6,(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",25.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",25.5,OCCUPATION,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",26,Civilian employed population 16 years and over,"408,444","+/-10,918","408,444",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",27,"Management, business, science, and arts occupations","172,310","+/-6,821",42.2,+/-1.6
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",28,Service occupations,"53,615","+/-4,674",13.1,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",29,Sales and office occupations,"92,565","+/-6,971",22.7,+/-1.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",30,"Natural resources, construction, and maintenance occupations","37,719","+/-4,203",9.2,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",31,"Production, transportation, and material moving occupations","52,235","+/-4,401",12.8,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",31.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",31.5,INDUSTRY,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",32,Civilian employed population 16 years and over,"408,444","+/-10,918","408,444",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",33,"Agriculture, forestry, fishing and hunting, and mining","3,999","+/-1,127",1.0,+/-0.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",34,Construction,"38,720","+/-3,846",9.5,+/-0.9
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",35,Manufacturing,"45,134","+/-3,683",11.1,+/-0.9
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",36,Wholesale trade,"11,610","+/-2,105",2.8,+/-0.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",37,Retail trade,"50,136","+/-5,010",12.3,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",38,"Transportation and warehousing, and utilities","19,584","+/-2,881",4.8,+/-0.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",39,Information,"9,960","+/-1,703",2.4,+/-0.4
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",40,"Finance and insurance, and real estate and rental and leasing","35,211","+/-4,486",8.6,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",41,"Professional, scientific, and management, and administrative and waste management services","48,636","+/-4,496",11.9,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",42,"Educational services, and health care and social assistance","83,247","+/-5,224",20.4,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",43,"Arts, entertainment, and recreation, and accommodation and food services","29,063","+/-3,768",7.1,+/-0.9
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",44,"Other services, except public administration","18,449","+/-2,196",4.5,+/-0.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",45,Public administration,"14,695","+/-1,955",3.6,+/-0.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",45.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",46,Civilian employed population 16 years and over,"408,444","+/-10,918","408,444",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",47,Private wage and salary workers,"333,586","+/-10,423",81.7,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",48,Government workers,"53,519","+/-3,530",13.1,+/-0.9
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",49,Self-employed in own not incorporated business workers,"21,037","+/-2,988",5.2,+/-0.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",50,Unpaid family workers,302,+/-316,0.1,+/-0.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",50.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",51,Total households,"253,897","+/-5,421","253,897",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",52,"Less than $10,000","7,513","+/-1,778",3.0,+/-0.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",53,"$10,000 to $14,999","6,333","+/-1,694",2.5,+/-0.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",54,"$15,000 to $24,999","7,672","+/-1,246",3.0,+/-0.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",55,"$25,000 to $34,999","11,621","+/-2,097",4.6,+/-0.8
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",56,"$35,000 to $49,999","23,377","+/-2,617",9.2,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",57,"$50,000 to $74,999","49,222","+/-4,252",19.4,+/-1.6
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",58,"$75,000 to $99,999","40,685","+/-3,066",16.0,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",59,"$100,000 to $149,999","56,786","+/-4,108",22.4,+/-1.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",60,"$150,000 to $199,999","26,338","+/-2,608",10.4,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",61,"$200,000 or more","24,350","+/-2,349",9.6,+/-0.9
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",62,Median household income (dollars),"87,320","+/-2,180",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",63,Mean household income (dollars),"107,883","+/-2,848",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",63.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",64,With earnings,"222,679","+/-4,960",87.7,+/-0.9
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",65,Mean earnings (dollars),"106,509","+/-3,034",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",66,With Social Security,"54,866","+/-3,167",21.6,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",67,Mean Social Security income (dollars),"21,992","+/-1,068",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",68,With retirement income,"45,389","+/-3,203",17.9,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",69,Mean retirement income (dollars),"27,250","+/-2,625",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",69.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",70,With Supplemental Security Income,"8,366","+/-1,723",3.3,+/-0.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",71,Mean Supplemental Security Income (dollars),"10,944","+/-1,976",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",72,With cash public assistance income,"6,377","+/-1,513",2.5,+/-0.6
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",73,Mean cash public assistance income (dollars),"4,750","+/-1,011",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",74,With Food Stamp/SNAP benefits in the past 12 months,"11,301","+/-1,636",4.5,+/-0.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",74.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",75,Families,"200,455","+/-4,658","200,455",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",76,"Less than $10,000","2,890","+/-1,007",1.4,+/-0.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",77,"$10,000 to $14,999","4,618","+/-1,758",2.3,+/-0.9
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",78,"$15,000 to $24,999","3,639",+/-986,1.8,+/-0.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",79,"$25,000 to $34,999","6,899","+/-1,507",3.4,+/-0.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",80,"$35,000 to $49,999","15,630","+/-2,189",7.8,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",81,"$50,000 to $74,999","37,750","+/-3,327",18.8,+/-1.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",82,"$75,000 to $99,999","33,233","+/-2,988",16.6,+/-1.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",83,"$100,000 to $149,999","48,174","+/-3,491",24.0,+/-1.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",84,"$150,000 to $199,999","24,561","+/-2,581",12.3,+/-1.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",85,"$200,000 or more","23,061","+/-2,405",11.5,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",86,Median family income (dollars),"95,387","+/-2,685",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",87,Mean family income (dollars),"118,588","+/-3,723",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",87.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",88,Per capita income (dollars),"32,927",+/-980,(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",88.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",89,Nonfamily households,"53,442","+/-4,143","53,442",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",90,Median nonfamily income (dollars),"53,149","+/-6,003",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",91,Mean nonfamily income (dollars),"60,097","+/-3,684",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",91.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",92,Median earnings for workers (dollars),"41,285",+/-689,(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",93,"Median earnings for male full-time, year-round workers (dollars)","64,526","+/-2,084",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",94,"Median earnings for female full-time, year-round workers (dollars)","48,846","+/-2,427",(X),(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",94.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",95,Civilian noninstitutionalized population,"833,535","+/-11,382","833,535",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",96,With health insurance coverage,"762,881","+/-13,202",91.5,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",97,With private health insurance,"669,444","+/-13,572",80.3,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",98,With public coverage,"153,572","+/-9,721",18.4,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",99,No health insurance coverage,"70,654","+/-8,059",8.5,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",99.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",100,Civilian noninstitutionalized population under 19 years,"282,825","+/-7,951","282,825",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",101,No health insurance coverage,"19,972","+/-4,170",7.1,+/-1.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",101.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",102,Civilian noninstitutionalized population 19 to 64 years,"471,914","+/-7,598","471,914",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",103,In labor force:,"385,649","+/-10,077","385,649",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",104,Employed:,"372,686","+/-9,975","372,686",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",105,With health insurance coverage,"335,248","+/-9,610",90.0,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",106,With private health insurance,"326,433","+/-9,658",87.6,+/-1.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",107,With public coverage,"17,499","+/-2,930",4.7,+/-0.8
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",108,No health insurance coverage,"37,438","+/-4,405",10.0,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",109,Unemployed:,"12,963","+/-1,955","12,963",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",110,With health insurance coverage,"9,543","+/-1,758",73.6,+/-7.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",111,With private health insurance,"7,056","+/-1,344",54.4,+/-6.9
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",112,With public coverage,"2,903","+/-1,017",22.4,+/-7.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",113,No health insurance coverage,"3,420","+/-1,006",26.4,+/-7.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",114,Not in labor force:,"86,265","+/-6,378","86,265",(X)
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",115,With health insurance coverage,"76,756","+/-6,635",89.0,+/-2.4
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",116,With private health insurance,"61,830","+/-6,251",71.7,+/-3.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",117,With public coverage,"19,764","+/-2,299",22.9,+/-2.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",118,No health insurance coverage,"9,509","+/-2,015",11.0,+/-2.4
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",118.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",119,All families,(X),(X),5.2,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",120,With related children of the householder under 18 years,(X),(X),6.8,+/-1.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",121,With related children of the householder under 5 years only,(X),(X),10.0,+/-5.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",122,Married couple families,(X),(X),3.2,+/-1.0
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",123,With related children of the householder under 18 years,(X),(X),3.8,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",124,With related children of the householder under 5 years only,(X),(X),4.2,+/-3.4
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",125,"Families with female householder, no spouse present",(X),(X),18.6,+/-4.8
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",126,With related children of the householder under 18 years,(X),(X),24.0,+/-6.8
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",127,With related children of the householder under 5 years only,(X),(X),41.5,+/-24.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",127.3,,,,,
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",128,All people,(X),(X),7.0,+/-1.2
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",129,Under 18 years,(X),(X),7.1,+/-1.4
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",130,Related children of the householder under 18 years,(X),(X),6.8,+/-1.4
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",131,Related children of the householder under 5 years,(X),(X),8.1,+/-2.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",132,Related children of the householder 5 to 17 years,(X),(X),6.3,+/-1.6
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",133,18 years and over,(X),(X),6.9,+/-1.5
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",134,18 to 64 years,(X),(X),7.1,+/-1.7
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",135,65 years and over,(X),(X),5.6,+/-1.3
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",136,People in families,(X),(X),5.4,+/-1.1
+DP03,5001800US4904,"Congressional District 4 (118th Congress), Utah",137,Unrelated individuals 15 years and over,(X),(X),20.3,+/-3.6

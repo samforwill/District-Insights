@@ -1,0 +1,401 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",0.5,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",1,Total households,"226,537","+/-3,064","226,537",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",2,Married-couple household,"109,858","+/-4,579",48.5,+/-1.9
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",3,With children of the householder under 18 years,"35,716","+/-2,948",15.8,+/-1.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",4,Cohabiting couple household,"22,314","+/-2,804",9.9,+/-1.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",5,With children of the householder under 18 years,"4,633","+/-1,350",2.0,+/-0.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",6,"Male householder, no spouse/partner present","44,893","+/-3,339",19.8,+/-1.4
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",7,With children of the householder under 18 years,"1,976",+/-703,0.9,+/-0.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",8,Householder living alone,"32,395","+/-3,037",14.3,+/-1.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",9,65 years and over,"11,029","+/-1,583",4.9,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",10,"Female householder, no spouse/partner present","49,472","+/-3,156",21.8,+/-1.4
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",11,With children of the householder under 18 years,"5,986","+/-1,577",2.6,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",12,Householder living alone,"31,220","+/-2,695",13.8,+/-1.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",13,65 years and over,"16,910","+/-1,850",7.5,+/-0.8
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",13.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",14,Households with one or more people under 18 years,"53,496","+/-3,039",23.6,+/-1.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",15,Households with one or more people 65 years and over,"76,735","+/-1,834",33.9,+/-0.9
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",15.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",16,Average household size,2.39,+/-0.03,(X),(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",17,Average family size,2.97,+/-0.06,(X),(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",17.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",17.5,RELATIONSHIP,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",18,Population in households,"540,919","+/-2,168","540,919",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",19,Householder,"226,537","+/-3,064",41.9,+/-0.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",20,Spouse,"109,527","+/-4,598",20.2,+/-0.9
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",21,Unmarried partner,"22,524","+/-3,034",4.2,+/-0.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",22,Child,"132,551","+/-3,669",24.5,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",23,Other relatives,"23,415","+/-3,720",4.3,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",24,Other nonrelatives,"26,365","+/-4,113",4.9,+/-0.8
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",24.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",24.5,MARITAL STATUS,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",25,Males 15 years and over,"236,424","+/-1,902","236,424",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",26,Never married,"87,090","+/-3,986",36.8,+/-1.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",27,"Now married, except separated","115,154","+/-5,058",48.7,+/-2.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",28,Separated,"2,365","+/-1,146",1.0,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",29,Widowed,"6,415","+/-1,334",2.7,+/-0.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",30,Divorced,"25,400","+/-2,559",10.7,+/-1.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",30.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",31,Females 15 years and over,"229,687","+/-1,721","229,687",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",32,Never married,"65,238","+/-2,869",28.4,+/-1.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",33,"Now married, except separated","116,195","+/-4,147",50.6,+/-1.8
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",34,Separated,"3,681","+/-1,040",1.6,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",35,Widowed,"16,866","+/-1,823",7.3,+/-0.8
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",36,Divorced,"27,707","+/-3,043",12.1,+/-1.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",36.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",36.5,FERTILITY,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"4,937","+/-1,285","4,937",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",38,"Unmarried women (widowed, divorced, and never married)",747,+/-501,15.1,+/-9.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",39,"Per 1,000 unmarried women",11,+/-7,(X),(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",40,"Per 1,000 women 15 to 50 years old",40,+/-10,(X),(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",41,"Per 1,000 women 15 to 19 years old",4,+/-5,(X),(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",42,"Per 1,000 women 20 to 34 years old",66,+/-21,(X),(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",43,"Per 1,000 women 35 to 50 years old",24,+/-11,(X),(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",43.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",43.5,GRANDPARENTS,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",44,Number of grandparents living with own grandchildren under 18 years,"6,028","+/-1,616","6,028",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",45,Grandparents responsible for grandchildren,"2,829","+/-1,036",46.9,+/-11.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",46,Less than 1 year,679,+/-576,11.3,+/-8.9
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",47,1 or 2 years,381,+/-244,6.3,+/-4.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",48,3 or 4 years,296,+/-204,4.9,+/-3.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",49,5 or more years,"1,473",+/-826,24.4,+/-11.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",49.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",50,Number of grandparents responsible for own grandchildren under 18 years,"2,829","+/-1,036","2,829",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",51,Who are female,"1,510",+/-696,53.4,+/-12.4
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",52,Who are married,"2,074",+/-918,73.3,+/-16.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",52.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",53,Population 3 years and over enrolled in school,"122,579","+/-4,067","122,579",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",54,"Nursery school, preschool","6,662","+/-1,554",5.4,+/-1.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",55,Kindergarten,"6,167","+/-1,044",5.0,+/-0.9
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",56,Elementary school (grades 1-8),"48,386","+/-2,254",39.5,+/-1.8
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",57,High school (grades 9-12),"24,934","+/-1,815",20.3,+/-1.4
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",58,College or graduate school,"36,430","+/-3,290",29.7,+/-2.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",58.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",59,Population 25 years and over,"388,089","+/-2,137","388,089",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",60,Less than 9th grade,"4,283","+/-1,021",1.1,+/-0.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",61,"9th to 12th grade, no diploma","16,047","+/-2,275",4.1,+/-0.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",62,High school graduate (includes equivalency),"97,051","+/-4,886",25.0,+/-1.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",63,"Some college, no degree","89,269","+/-4,535",23.0,+/-1.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",64,Associate's degree,"30,171","+/-2,679",7.8,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",65,Bachelor's degree,"93,409","+/-4,176",24.1,+/-1.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",66,Graduate or professional degree,"57,859","+/-4,152",14.9,+/-1.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",66.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",67,High school graduate or higher,"367,759","+/-3,083",94.8,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",68,Bachelor's degree or higher,"151,268","+/-6,177",39.0,+/-1.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",68.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",68.5,VETERAN STATUS,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",69,Civilian population 18 years and over,"445,950","+/-1,823","445,950",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",70,Civilian veterans,"39,991","+/-3,085",9.0,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",70.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",71,Total Civilian Noninstitutionalized Population,"550,791","+/-1,923","550,791",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",72,With a disability,"74,073","+/-4,447",13.4,+/-0.8
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",72.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",73,Under 18 years,"109,578","+/-1,275","109,578",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",74,With a disability,"4,204","+/-1,258",3.8,+/-1.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",74.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",75,18 to 64 years,"333,542","+/-2,023","333,542",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",76,With a disability,"34,813","+/-3,504",10.4,+/-1.0
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",76.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",77,65 years and over,"107,671","+/-1,194","107,671",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",78,With a disability,"35,056","+/-2,460",32.6,+/-2.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",78.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",79,Population 1 year and over,"551,401","+/-2,210","551,401",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",80,Same house,"467,924","+/-6,835",84.9,+/-1.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",81,Different house (in the U.S. or abroad),"83,477","+/-6,312",15.1,+/-1.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",82,Different house in the U.S.,"80,006","+/-6,321",14.5,+/-1.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",83,Same county,"37,448","+/-4,719",6.8,+/-0.9
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",84,Different county,"42,558","+/-4,331",7.7,+/-0.8
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",85,Same state,"17,158","+/-3,113",3.1,+/-0.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",86,Different state,"25,400","+/-3,378",4.6,+/-0.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",87,Abroad,"3,471","+/-2,545",0.6,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",87.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",88,Total population,"556,300","+/-1,780","556,300",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",89,Native,"540,505","+/-3,211",97.2,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",90,Born in United States,"535,660","+/-3,567",96.3,+/-0.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",91,State of residence,"253,039","+/-7,289",45.5,+/-1.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",92,Different state,"282,621","+/-7,663",50.8,+/-1.4
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","4,845","+/-1,246",0.9,+/-0.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",94,Foreign born,"15,795","+/-2,725",2.8,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",94.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",95,Foreign-born population,"15,795","+/-2,725","15,795",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",96,Naturalized U.S. citizen,"8,250","+/-1,699",52.2,+/-7.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",97,Not a U.S. citizen,"7,545","+/-1,905",47.8,+/-7.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",97.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",98,Population born outside the United States,"20,640","+/-3,088","20,640",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",98.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",99,Native,"4,845","+/-1,246","4,845",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",100,Entered 2010 or later,986,+/-688,20.4,+/-11.9
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",101,Entered before 2010,"3,859","+/-1,001",79.6,+/-11.9
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",101.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",102,Foreign born,"15,795","+/-2,725","15,795",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",103,Entered 2010 or later,"6,277","+/-1,614",39.7,+/-7.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",104,Entered before 2010,"9,518","+/-1,943",60.3,+/-7.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",104.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",106,Europe,N,N,N,N
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",107,Asia,N,N,N,N
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",108,Africa,N,N,N,N
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",109,Oceania,N,N,N,N
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",110,Latin America,N,N,N,N
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",111,Northern America,N,N,N,N
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",111.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",112,Population 5 years and over,"530,104","+/-1,995","530,104",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",113,English only,"506,935","+/-3,819",95.6,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",114,Language other than English,"23,169","+/-3,607",4.4,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",115,"Speak English less than ""very well""","4,965","+/-1,274",0.9,+/-0.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",116,Spanish,"7,669","+/-1,621",1.4,+/-0.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",117,"Speak English less than ""very well""","1,893",+/-838,0.4,+/-0.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",118,Other Indo-European languages,"10,302","+/-2,690",1.9,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",119,"Speak English less than ""very well""","1,409",+/-630,0.3,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",120,Asian and Pacific Islander languages,"3,182",+/-950,0.6,+/-0.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",121,"Speak English less than ""very well""","1,462",+/-667,0.3,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",122,Other languages,"2,016","+/-1,087",0.4,+/-0.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",123,"Speak English less than ""very well""",201,+/-169,0.0,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",123.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",123.5,ANCESTRY,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",124,Total population,"556,300","+/-1,780","556,300",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",125,American,"24,631","+/-3,360",4.4,+/-0.6
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",126,Arab,"1,736","+/-1,437",0.3,+/-0.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",127,Czech,"1,780",+/-501,0.3,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",128,Danish,"5,665","+/-1,536",1.0,+/-0.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",129,Dutch,"11,677","+/-2,638",2.1,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",130,English,"75,703","+/-5,656",13.6,+/-1.0
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",131,French (except Basque),"16,481","+/-2,865",3.0,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",132,French Canadian,"2,115",+/-749,0.4,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",133,German,"117,536","+/-7,341",21.1,+/-1.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",134,Greek,"1,527","+/-1,457",0.3,+/-0.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",135,Hungarian,"4,532","+/-2,381",0.8,+/-0.4
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",136,Irish,"86,556","+/-6,335",15.6,+/-1.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",137,Italian,"23,906","+/-3,825",4.3,+/-0.7
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",138,Lithuanian,661,+/-446,0.1,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",139,Norwegian,"36,099","+/-4,283",6.5,+/-0.8
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",140,Polish,"9,787","+/-2,133",1.8,+/-0.4
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",141,Portuguese,"1,156",+/-611,0.2,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",142,Russian,"4,622","+/-1,508",0.8,+/-0.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",143,Scotch-Irish,"7,480","+/-1,648",1.3,+/-0.3
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",144,Scottish,"16,809","+/-3,065",3.0,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",145,Slovak,709,+/-322,0.1,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",146,Subsaharan African,488,+/-385,0.1,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",147,Swedish,"16,391","+/-2,847",2.9,+/-0.5
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",148,Swiss,"3,070",+/-876,0.6,+/-0.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",149,Ukrainian,"2,436","+/-1,327",0.4,+/-0.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",150,Welsh,"4,723","+/-1,300",0.8,+/-0.2
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",151,West Indian (excluding Hispanic origin groups),245,+/-255,0.0,+/-0.1
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",151.3,,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",152,Total households,"226,537","+/-3,064","226,537",(X)
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",153,With a computer,"213,850","+/-3,837",94.4,+/-0.8
+DP02,5001800US3001,"Congressional District 1 (118th Congress), Montana",154,With a broadband Internet subscription,"203,737","+/-3,985",89.9,+/-1.0
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",0.5,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",1,Total households,"222,412","+/-2,780","222,412",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",2,Married-couple household,"109,198","+/-3,853",49.1,+/-1.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",3,With children of the householder under 18 years,"37,364","+/-2,648",16.8,+/-1.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",4,Cohabiting couple household,"15,008","+/-2,120",6.7,+/-0.9
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",5,With children of the householder under 18 years,"5,557","+/-1,312",2.5,+/-0.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",6,"Male householder, no spouse/partner present","45,550","+/-2,593",20.5,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",7,With children of the householder under 18 years,"4,189","+/-1,221",1.9,+/-0.5
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",8,Householder living alone,"33,621","+/-2,302",15.1,+/-1.0
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",9,65 years and over,"11,245","+/-1,294",5.1,+/-0.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",10,"Female householder, no spouse/partner present","52,656","+/-2,642",23.7,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",11,With children of the householder under 18 years,"7,111","+/-1,205",3.2,+/-0.5
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",12,Householder living alone,"33,804","+/-2,213",15.2,+/-1.0
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",13,65 years and over,"18,184","+/-1,384",8.2,+/-0.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",13.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",14,Households with one or more people under 18 years,"58,985","+/-2,793",26.5,+/-1.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",15,Households with one or more people 65 years and over,"75,654","+/-1,600",34.0,+/-0.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",15.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",16,Average household size,2.41,+/-0.03,(X),(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",17,Average family size,3.01,+/-0.06,(X),(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",17.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",17.5,RELATIONSHIP,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",18,Population in households,"536,102","+/-2,168","536,102",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",19,Householder,"222,412","+/-2,780",41.5,+/-0.5
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",20,Spouse,"109,304","+/-3,830",20.4,+/-0.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",21,Unmarried partner,"14,992","+/-2,067",2.8,+/-0.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",22,Child,"149,339","+/-3,931",27.9,+/-0.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",23,Other relatives,"25,160","+/-2,780",4.7,+/-0.5
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",24,Other nonrelatives,"14,895","+/-2,432",2.8,+/-0.5
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",24.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",24.5,MARITAL STATUS,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",25,Males 15 years and over,"223,345","+/-1,608","223,345",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",26,Never married,"70,789","+/-3,296",31.7,+/-1.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",27,"Now married, except separated","116,351","+/-3,971",52.1,+/-1.8
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",28,Separated,"2,727",+/-861,1.2,+/-0.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",29,Widowed,"6,926","+/-1,321",3.1,+/-0.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",30,Divorced,"26,552","+/-2,385",11.9,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",30.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",31,Females 15 years and over,"221,143","+/-1,469","221,143",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",32,Never married,"55,628","+/-2,828",25.2,+/-1.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",33,"Now married, except separated","115,404","+/-3,709",52.2,+/-1.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",34,Separated,"2,430",+/-766,1.1,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",35,Widowed,"18,813","+/-1,591",8.5,+/-0.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",36,Divorced,"28,868","+/-2,364",13.1,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",36.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",36.5,FERTILITY,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,347","+/-1,375","7,347",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",38,"Unmarried women (widowed, divorced, and never married)","1,793",+/-650,24.4,+/-8.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",39,"Per 1,000 unmarried women",29,+/-11,(X),(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",40,"Per 1,000 women 15 to 50 years old",64,+/-12,(X),(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",41,"Per 1,000 women 15 to 19 years old",1,+/-3,(X),(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",42,"Per 1,000 women 20 to 34 years old",118,+/-23,(X),(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",43,"Per 1,000 women 35 to 50 years old",32,+/-14,(X),(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",43.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",43.5,GRANDPARENTS,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",44,Number of grandparents living with own grandchildren under 18 years,"6,970","+/-1,379","6,970",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",45,Grandparents responsible for grandchildren,"3,603","+/-1,146",51.7,+/-10.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",46,Less than 1 year,454,+/-224,6.5,+/-3.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",47,1 or 2 years,364,+/-239,5.2,+/-3.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",48,3 or 4 years,814,+/-485,11.7,+/-6.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",49,5 or more years,"1,971",+/-908,28.3,+/-9.9
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",49.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",50,Number of grandparents responsible for own grandchildren under 18 years,"3,603","+/-1,146","3,603",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",51,Who are female,"2,485",+/-781,69.0,+/-7.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",52,Who are married,"1,866",+/-906,51.8,+/-14.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",52.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",53,Population 3 years and over enrolled in school,"124,658","+/-2,901","124,658",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",54,"Nursery school, preschool","7,716","+/-1,358",6.2,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",55,Kindergarten,"8,446","+/-1,393",6.8,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",56,Elementary school (grades 1-8),"56,226","+/-2,082",45.1,+/-1.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",57,High school (grades 9-12),"28,955","+/-2,003",23.2,+/-1.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",58,College or graduate school,"23,315","+/-2,383",18.7,+/-1.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",58.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",59,Population 25 years and over,"378,669","+/-2,336","378,669",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",60,Less than 9th grade,"6,533","+/-1,289",1.7,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",61,"9th to 12th grade, no diploma","16,445","+/-2,122",4.3,+/-0.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",62,High school graduate (includes equivalency),"108,476","+/-4,471",28.6,+/-1.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",63,"Some college, no degree","92,402","+/-3,782",24.4,+/-1.0
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",64,Associate's degree,"39,261","+/-3,272",10.4,+/-0.9
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",65,Bachelor's degree,"77,968","+/-4,043",20.6,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",66,Graduate or professional degree,"37,584","+/-2,853",9.9,+/-0.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",66.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",67,High school graduate or higher,"355,691","+/-2,526",93.9,+/-0.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",68,Bachelor's degree or higher,"115,552","+/-4,546",30.5,+/-1.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",68.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",68.5,VETERAN STATUS,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",69,Civilian population 18 years and over,"418,797","+/-1,908","418,797",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",70,Civilian veterans,"40,962","+/-2,575",9.8,+/-0.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",70.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",71,Total Civilian Noninstitutionalized Population,"537,705","+/-1,976","537,705",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",72,With a disability,"79,900","+/-4,103",14.9,+/-0.8
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",72.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",73,Under 18 years,"124,347","+/-1,144","124,347",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",74,With a disability,"5,855","+/-1,591",4.7,+/-1.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",74.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",75,18 to 64 years,"307,688","+/-1,888","307,688",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",76,With a disability,"37,945","+/-3,360",12.3,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",76.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",77,65 years and over,"105,670",+/-956,"105,670",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",78,With a disability,"36,100","+/-2,178",34.2,+/-2.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",78.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",79,Population 1 year and over,"542,487","+/-2,007","542,487",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",80,Same house,"476,519","+/-6,405",87.8,+/-1.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",81,Different house (in the U.S. or abroad),"65,968","+/-6,510",12.2,+/-1.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",82,Different house in the U.S.,"64,905","+/-6,477",12.0,+/-1.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",83,Same county,"31,781","+/-4,169",5.9,+/-0.8
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",84,Different county,"33,124","+/-4,440",6.1,+/-0.8
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",85,Same state,"13,993","+/-2,136",2.6,+/-0.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",86,Different state,"19,131","+/-3,976",3.5,+/-0.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",87,Abroad,"1,063",+/-472,0.2,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",87.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",88,Total population,"547,971","+/-1,780","547,971",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",89,Native,"539,309","+/-2,469",98.4,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",90,Born in United States,"534,936","+/-2,667",97.6,+/-0.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",91,State of residence,"321,963","+/-7,211",58.8,+/-1.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",92,Different state,"212,973","+/-7,485",38.9,+/-1.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","4,373","+/-1,220",0.8,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",94,Foreign born,"8,662","+/-1,634",1.6,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",94.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",95,Foreign-born population,"8,662","+/-1,634","8,662",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",96,Naturalized U.S. citizen,"3,917","+/-1,053",45.2,+/-10.0
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",97,Not a U.S. citizen,"4,745","+/-1,360",54.8,+/-10.0
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",97.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",98,Population born outside the United States,"13,035","+/-2,025","13,035",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",98.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",99,Native,"4,373","+/-1,220","4,373",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",100,Entered 2010 or later,506,+/-352,11.6,+/-7.8
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",101,Entered before 2010,"3,867","+/-1,164",88.4,+/-7.8
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",101.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",102,Foreign born,"8,662","+/-1,634","8,662",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",103,Entered 2010 or later,"2,476",+/-990,28.6,+/-9.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",104,Entered before 2010,"6,186","+/-1,403",71.4,+/-9.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",104.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",106,Europe,N,N,N,N
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",107,Asia,N,N,N,N
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",108,Africa,N,N,N,N
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",109,Oceania,N,N,N,N
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",110,Latin America,N,N,N,N
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",111,Northern America,N,N,N,N
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",111.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",112,Population 5 years and over,"518,076","+/-2,252","518,076",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",113,English only,"500,554","+/-3,621",96.6,+/-0.5
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",114,Language other than English,"17,522","+/-2,524",3.4,+/-0.5
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",115,"Speak English less than ""very well""","2,978","+/-1,114",0.6,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",116,Spanish,"5,364","+/-1,553",1.0,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",117,"Speak English less than ""very well""","1,666",+/-934,0.3,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",118,Other Indo-European languages,"5,080","+/-1,168",1.0,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",119,"Speak English less than ""very well""",857,+/-391,0.2,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",120,Asian and Pacific Islander languages,"1,669",+/-772,0.3,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",121,"Speak English less than ""very well""",256,+/-231,0.0,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",122,Other languages,"5,409","+/-1,245",1.0,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",123,"Speak English less than ""very well""",199,+/-163,0.0,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",123.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",123.5,ANCESTRY,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",124,Total population,"547,971","+/-1,780","547,971",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",125,American,"34,986","+/-5,917",6.4,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",126,Arab,87,+/-120,0.0,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",127,Czech,"2,993","+/-1,248",0.5,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",128,Danish,"8,482","+/-1,864",1.5,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",129,Dutch,"9,003","+/-1,980",1.6,+/-0.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",130,English,"67,459","+/-5,238",12.3,+/-1.0
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",131,French (except Basque),"11,135","+/-1,795",2.0,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",132,French Canadian,"3,165","+/-1,059",0.6,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",133,German,"138,674","+/-6,747",25.3,+/-1.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",134,Greek,"1,901","+/-1,285",0.3,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",135,Hungarian,"1,660",+/-709,0.3,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",136,Irish,"68,470","+/-5,807",12.5,+/-1.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",137,Italian,"15,851","+/-2,372",2.9,+/-0.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",138,Lithuanian,245,+/-280,0.0,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",139,Norwegian,"46,160","+/-3,928",8.4,+/-0.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",140,Polish,"6,834","+/-1,352",1.2,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",141,Portuguese,"1,742","+/-1,381",0.3,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",142,Russian,"4,040","+/-1,118",0.7,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",143,Scotch-Irish,"7,250","+/-2,128",1.3,+/-0.4
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",144,Scottish,"12,748","+/-1,789",2.3,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",145,Slovak,465,+/-300,0.1,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",146,Subsaharan African,825,+/-483,0.2,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",147,Swedish,"15,385","+/-3,022",2.8,+/-0.6
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",148,Swiss,"2,775","+/-1,058",0.5,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",149,Ukrainian,"2,537","+/-1,439",0.5,+/-0.3
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",150,Welsh,"3,161",+/-850,0.6,+/-0.2
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",151,West Indian (excluding Hispanic origin groups),805,+/-576,0.1,+/-0.1
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",151.3,,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",152,Total households,"222,412","+/-2,780","222,412",(X)
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",153,With a computer,"208,930","+/-3,208",93.9,+/-0.7
+DP02,5001800US3002,"Congressional District 2 (118th Congress), Montana",154,With a broadband Internet subscription,"194,841","+/-3,510",87.6,+/-0.9

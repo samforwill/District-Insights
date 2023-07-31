@@ -1,0 +1,1345 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",0.5,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",1,Population 16 years and over,"617,389","+/-6,899","617,389",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",2,In labor force,"395,698","+/-8,628",64.1,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",3,Civilian labor force,"394,686","+/-8,583",63.9,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",4,Employed,"369,279","+/-8,378",59.8,+/-1.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",5,Unemployed,"25,407","+/-3,332",4.1,+/-0.5
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",6,Armed Forces,"1,012",+/-667,0.2,+/-0.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",7,Not in labor force,"221,691","+/-6,084",35.9,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",7.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",8,Civilian labor force,"394,686","+/-8,583","394,686",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",9,Unemployment Rate,(X),(X),6.4,+/-0.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",9.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",10,Females 16 years and over,"332,461","+/-4,190","332,461",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",11,In labor force,"207,295","+/-5,031",62.4,+/-1.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",12,Civilian labor force,"207,211","+/-5,030",62.3,+/-1.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",13,Employed,"192,147","+/-5,520",57.8,+/-1.5
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",13.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",14,Own children of the householder under 6 years,"50,260","+/-3,293","50,260",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",15,All parents in family in labor force,"38,501","+/-3,259",76.6,+/-4.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",15.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",16,Own children of the householder 6 to 17 years,"100,853","+/-4,102","100,853",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",17,All parents in family in labor force,"79,531","+/-4,751",78.9,+/-3.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",17.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",18,Workers 16 years and over,"362,551","+/-8,479","362,551",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",19,"Car, truck, or van -- drove alone","237,014","+/-8,010",65.4,+/-1.6
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",20,"Car, truck, or van -- carpooled","24,758","+/-2,781",6.8,+/-0.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",21,Public transportation (excluding taxicab),"12,841","+/-2,494",3.5,+/-0.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",22,Walked,"8,610","+/-1,326",2.4,+/-0.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",23,Other means,"5,955","+/-1,548",1.6,+/-0.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",24,Worked from home,"73,373","+/-5,521",20.2,+/-1.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",24.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",25,Mean travel time to work (minutes),23.0,+/-0.7,(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",25.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",25.5,OCCUPATION,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",26,Civilian employed population 16 years and over,"369,279","+/-8,378","369,279",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",27,"Management, business, science, and arts occupations","161,422","+/-6,639",43.7,+/-1.6
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",28,Service occupations,"67,820","+/-4,887",18.4,+/-1.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",29,Sales and office occupations,"72,801","+/-4,642",19.7,+/-1.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",30,"Natural resources, construction, and maintenance occupations","16,805","+/-2,456",4.6,+/-0.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",31,"Production, transportation, and material moving occupations","50,431","+/-4,156",13.7,+/-1.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",31.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",31.5,INDUSTRY,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",32,Civilian employed population 16 years and over,"369,279","+/-8,378","369,279",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",33,"Agriculture, forestry, fishing and hunting, and mining","1,705",+/-839,0.5,+/-0.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",34,Construction,"13,280","+/-2,352",3.6,+/-0.6
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",35,Manufacturing,"36,605","+/-3,580",9.9,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",36,Wholesale trade,"6,915","+/-1,746",1.9,+/-0.5
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",37,Retail trade,"34,112","+/-4,434",9.2,+/-1.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",38,"Transportation and warehousing, and utilities","24,824","+/-3,378",6.7,+/-0.9
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",39,Information,"5,919","+/-1,528",1.6,+/-0.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",40,"Finance and insurance, and real estate and rental and leasing","31,349","+/-3,295",8.5,+/-0.9
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",41,"Professional, scientific, and management, and administrative and waste management services","47,064","+/-3,856",12.7,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",42,"Educational services, and health care and social assistance","98,489","+/-5,586",26.7,+/-1.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",43,"Arts, entertainment, and recreation, and accommodation and food services","34,890","+/-3,516",9.4,+/-0.9
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",44,"Other services, except public administration","18,993","+/-2,644",5.1,+/-0.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",45,Public administration,"15,134","+/-2,779",4.1,+/-0.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",45.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",46,Civilian employed population 16 years and over,"369,279","+/-8,378","369,279",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",47,Private wage and salary workers,"307,785","+/-8,996",83.3,+/-1.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",48,Government workers,"42,985","+/-4,249",11.6,+/-1.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",49,Self-employed in own not incorporated business workers,"17,917","+/-2,873",4.9,+/-0.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",50,Unpaid family workers,592,+/-479,0.2,+/-0.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",50.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",51,Total households,"335,475","+/-4,997","335,475",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",52,"Less than $10,000","32,832","+/-3,403",9.8,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",53,"$10,000 to $14,999","16,879","+/-2,310",5.0,+/-0.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",54,"$15,000 to $24,999","31,563","+/-3,833",9.4,+/-1.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",55,"$25,000 to $34,999","31,224","+/-2,905",9.3,+/-0.9
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",56,"$35,000 to $49,999","48,517","+/-3,836",14.5,+/-1.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",57,"$50,000 to $74,999","60,905","+/-4,263",18.2,+/-1.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",58,"$75,000 to $99,999","37,395","+/-2,691",11.1,+/-0.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",59,"$100,000 to $149,999","39,976","+/-2,644",11.9,+/-0.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",60,"$150,000 to $199,999","16,884","+/-2,204",5.0,+/-0.6
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",61,"$200,000 or more","19,300","+/-1,856",5.8,+/-0.5
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",62,Median household income (dollars),"51,770","+/-1,261",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",63,Mean household income (dollars),"76,605","+/-2,613",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",63.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",64,With earnings,"255,424","+/-5,975",76.1,+/-1.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",65,Mean earnings (dollars),"80,608","+/-2,939",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",66,With Social Security,"95,072","+/-3,752",28.3,+/-1.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",67,Mean Social Security income (dollars),"19,471",+/-626,(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",68,With retirement income,"77,353","+/-4,126",23.1,+/-1.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",69,Mean retirement income (dollars),"21,983","+/-1,475",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",69.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",70,With Supplemental Security Income,"23,072","+/-2,293",6.9,+/-0.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",71,Mean Supplemental Security Income (dollars),"10,247",+/-743,(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",72,With cash public assistance income,"7,899","+/-1,625",2.4,+/-0.5
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",73,Mean cash public assistance income (dollars),"3,675",+/-845,(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",74,With Food Stamp/SNAP benefits in the past 12 months,"55,825","+/-3,979",16.6,+/-1.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",74.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",75,Families,"170,655","+/-5,872","170,655",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",76,"Less than $10,000","8,827","+/-2,163",5.2,+/-1.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",77,"$10,000 to $14,999","6,165","+/-1,571",3.6,+/-0.9
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",78,"$15,000 to $24,999","12,797","+/-2,281",7.5,+/-1.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",79,"$25,000 to $34,999","10,401","+/-1,795",6.1,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",80,"$35,000 to $49,999","22,959","+/-2,975",13.5,+/-1.6
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",81,"$50,000 to $74,999","33,239","+/-3,536",19.5,+/-1.9
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",82,"$75,000 to $99,999","22,832","+/-2,521",13.4,+/-1.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",83,"$100,000 to $149,999","25,403","+/-2,393",14.9,+/-1.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",84,"$150,000 to $199,999","12,805","+/-1,716",7.5,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",85,"$200,000 or more","15,227","+/-1,767",8.9,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",86,Median family income (dollars),"66,608","+/-2,468",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",87,Mean family income (dollars),"98,657","+/-4,663",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",87.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",88,Per capita income (dollars),"34,685","+/-1,190",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",88.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",89,Nonfamily households,"164,820","+/-5,863","164,820",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",90,Median nonfamily income (dollars),"37,148","+/-2,152",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",91,Mean nonfamily income (dollars),"51,553","+/-2,662",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",91.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",92,Median earnings for workers (dollars),"35,606","+/-1,125",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",93,"Median earnings for male full-time, year-round workers (dollars)","52,415","+/-2,299",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",94,"Median earnings for female full-time, year-round workers (dollars)","46,086","+/-1,629",(X),(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",94.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",95,Civilian noninstitutionalized population,"753,117","+/-8,430","753,117",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",96,With health insurance coverage,"681,589","+/-10,030",90.5,+/-0.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",97,With private health insurance,"496,680","+/-12,513",65.9,+/-1.5
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",98,With public coverage,"262,114","+/-9,366",34.8,+/-1.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",99,No health insurance coverage,"71,528","+/-6,258",9.5,+/-0.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",99.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",100,Civilian noninstitutionalized population under 19 years,"172,515","+/-4,110","172,515",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",101,No health insurance coverage,"6,963","+/-2,165",4.0,+/-1.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",101.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",102,Civilian noninstitutionalized population 19 to 64 years,"461,502","+/-6,085","461,502",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",103,In labor force:,"362,148","+/-8,184","362,148",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",104,Employed:,"339,661","+/-8,069","339,661",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",105,With health insurance coverage,"299,826","+/-8,443",88.3,+/-1.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",106,With private health insurance,"282,677","+/-8,023",83.2,+/-1.5
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",107,With public coverage,"25,231","+/-3,456",7.4,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",108,No health insurance coverage,"39,835","+/-5,026",11.7,+/-1.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",109,Unemployed:,"22,487","+/-3,234","22,487",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",110,With health insurance coverage,"14,116","+/-2,467",62.8,+/-7.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",111,With private health insurance,"9,913","+/-2,100",44.1,+/-7.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",112,With public coverage,"5,058","+/-1,519",22.5,+/-6.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",113,No health insurance coverage,"8,371","+/-2,202",37.2,+/-7.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",114,Not in labor force:,"99,354","+/-6,207","99,354",(X)
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",115,With health insurance coverage,"83,717","+/-5,397",84.3,+/-2.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",116,With private health insurance,"48,392","+/-4,193",48.7,+/-3.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",117,With public coverage,"41,923","+/-4,038",42.2,+/-3.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",118,No health insurance coverage,"15,637","+/-2,440",15.7,+/-2.1
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",118.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",119,All families,(X),(X),13.6,+/-1.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",120,With related children of the householder under 18 years,(X),(X),23.1,+/-2.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",121,With related children of the householder under 5 years only,(X),(X),22.5,+/-6.6
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",122,Married couple families,(X),(X),4.0,+/-1.2
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",123,With related children of the householder under 18 years,(X),(X),5.1,+/-2.4
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",124,With related children of the householder under 5 years only,(X),(X),2.9,+/-3.9
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",125,"Families with female householder, no spouse present",(X),(X),28.9,+/-4.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",126,With related children of the householder under 18 years,(X),(X),40.3,+/-5.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",127,With related children of the householder under 5 years only,(X),(X),52.3,+/-15.9
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",127.3,,,,,
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",128,All people,(X),(X),17.5,+/-1.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",129,Under 18 years,(X),(X),25.6,+/-3.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",130,Related children of the householder under 18 years,(X),(X),25.2,+/-3.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",131,Related children of the householder under 5 years,(X),(X),25.8,+/-5.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",132,Related children of the householder 5 to 17 years,(X),(X),25.0,+/-3.8
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",133,18 years and over,(X),(X),15.2,+/-1.0
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",134,18 to 64 years,(X),(X),15.8,+/-1.3
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",135,65 years and over,(X),(X),12.9,+/-1.6
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",136,People in families,(X),(X),14.8,+/-1.7
+DP03,5001800US2901,"Congressional District 1 (118th Congress), Missouri",137,Unrelated individuals 15 years and over,(X),(X),24.0,+/-1.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",0.5,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",1,Population 16 years and over,"620,223","+/-8,823","620,223",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",2,In labor force,"403,771","+/-7,742",65.1,+/-0.9
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",3,Civilian labor force,"403,175","+/-7,720",65.0,+/-0.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",4,Employed,"387,189","+/-8,233",62.4,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",5,Unemployed,"15,986","+/-2,641",2.6,+/-0.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",6,Armed Forces,596,+/-593,0.1,+/-0.1
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",7,Not in labor force,"216,452","+/-6,209",34.9,+/-0.9
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",7.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",8,Civilian labor force,"403,175","+/-7,720","403,175",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",9,Unemployment Rate,(X),(X),4.0,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",9.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",10,Females 16 years and over,"317,018","+/-5,298","317,018",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",11,In labor force,"189,028","+/-5,492",59.6,+/-1.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",12,Civilian labor force,"189,028","+/-5,492",59.6,+/-1.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",13,Employed,"182,667","+/-5,804",57.6,+/-1.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",13.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",14,Own children of the householder under 6 years,"50,637","+/-3,546","50,637",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",15,All parents in family in labor force,"37,238","+/-3,041",73.5,+/-3.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",15.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",16,Own children of the householder 6 to 17 years,"114,535","+/-3,695","114,535",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",17,All parents in family in labor force,"88,135","+/-4,148",77.0,+/-2.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",17.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",18,Workers 16 years and over,"381,363","+/-8,260","381,363",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",19,"Car, truck, or van -- drove alone","271,588","+/-7,756",71.2,+/-1.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",20,"Car, truck, or van -- carpooled","17,971","+/-3,018",4.7,+/-0.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",21,Public transportation (excluding taxicab),"1,083",+/-660,0.3,+/-0.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",22,Walked,"3,120","+/-1,155",0.8,+/-0.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",23,Other means,"2,955","+/-1,280",0.8,+/-0.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",24,Worked from home,"84,646","+/-5,128",22.2,+/-1.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",24.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",25,Mean travel time to work (minutes),23.7,+/-0.6,(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",25.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",25.5,OCCUPATION,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",26,Civilian employed population 16 years and over,"387,189","+/-8,233","387,189",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",27,"Management, business, science, and arts occupations","201,270","+/-6,977",52.0,+/-1.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",28,Service occupations,"45,464","+/-3,663",11.7,+/-0.9
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",29,Sales and office occupations,"79,567","+/-5,230",20.5,+/-1.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",30,"Natural resources, construction, and maintenance occupations","23,299","+/-1,919",6.0,+/-0.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",31,"Production, transportation, and material moving occupations","37,589","+/-3,290",9.7,+/-0.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",31.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",31.5,INDUSTRY,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",32,Civilian employed population 16 years and over,"387,189","+/-8,233","387,189",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",33,"Agriculture, forestry, fishing and hunting, and mining","2,543",+/-961,0.7,+/-0.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",34,Construction,"22,843","+/-2,203",5.9,+/-0.6
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",35,Manufacturing,"44,424","+/-3,617",11.5,+/-0.9
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",36,Wholesale trade,"10,223","+/-1,939",2.6,+/-0.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",37,Retail trade,"39,705","+/-4,077",10.3,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",38,"Transportation and warehousing, and utilities","17,240","+/-2,264",4.5,+/-0.6
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",39,Information,"7,833","+/-1,475",2.0,+/-0.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",40,"Finance and insurance, and real estate and rental and leasing","39,418","+/-3,169",10.2,+/-0.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",41,"Professional, scientific, and management, and administrative and waste management services","57,123","+/-4,197",14.8,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",42,"Educational services, and health care and social assistance","92,793","+/-5,017",24.0,+/-1.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",43,"Arts, entertainment, and recreation, and accommodation and food services","26,605","+/-2,989",6.9,+/-0.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",44,"Other services, except public administration","15,901","+/-2,120",4.1,+/-0.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",45,Public administration,"10,538","+/-1,655",2.7,+/-0.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",45.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",46,Civilian employed population 16 years and over,"387,189","+/-8,233","387,189",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",47,Private wage and salary workers,"332,104","+/-9,130",85.8,+/-1.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",48,Government workers,"36,850","+/-3,894",9.5,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",49,Self-employed in own not incorporated business workers,"17,724","+/-2,260",4.6,+/-0.6
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",50,Unpaid family workers,511,+/-355,0.1,+/-0.1
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",50.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",51,Total households,"305,831","+/-4,579","305,831",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",52,"Less than $10,000","10,011","+/-1,615",3.3,+/-0.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",53,"$10,000 to $14,999","6,823","+/-1,111",2.2,+/-0.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",54,"$15,000 to $24,999","16,823","+/-2,248",5.5,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",55,"$25,000 to $34,999","18,114","+/-2,294",5.9,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",56,"$35,000 to $49,999","28,185","+/-2,737",9.2,+/-0.9
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",57,"$50,000 to $74,999","46,846","+/-3,561",15.3,+/-1.1
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",58,"$75,000 to $99,999","42,420","+/-3,272",13.9,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",59,"$100,000 to $149,999","58,288","+/-3,822",19.1,+/-1.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",60,"$150,000 to $199,999","33,694","+/-2,895",11.0,+/-0.9
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",61,"$200,000 or more","44,627","+/-3,117",14.6,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",62,Median household income (dollars),"89,358","+/-2,538",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",63,Mean household income (dollars),"124,364","+/-3,693",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",63.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",64,With earnings,"237,596","+/-4,732",77.7,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",65,Mean earnings (dollars),"125,251","+/-4,225",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",66,With Social Security,"99,313","+/-3,522",32.5,+/-1.1
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",67,Mean Social Security income (dollars),"24,215",+/-778,(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",68,With retirement income,"85,143","+/-3,477",27.8,+/-1.1
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",69,Mean retirement income (dollars),"32,657","+/-2,346",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",69.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",70,With Supplemental Security Income,"8,515","+/-1,563",2.8,+/-0.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",71,Mean Supplemental Security Income (dollars),"11,607",+/-981,(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",72,With cash public assistance income,"4,805","+/-1,373",1.6,+/-0.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",73,Mean cash public assistance income (dollars),"7,207","+/-1,782",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",74,With Food Stamp/SNAP benefits in the past 12 months,"13,376","+/-2,001",4.4,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",74.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",75,Families,"209,339","+/-4,894","209,339",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",76,"Less than $10,000","3,045",+/-904,1.5,+/-0.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",77,"$10,000 to $14,999","1,762",+/-595,0.8,+/-0.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",78,"$15,000 to $24,999","5,560","+/-1,288",2.7,+/-0.6
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",79,"$25,000 to $34,999","5,944","+/-1,153",2.8,+/-0.6
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",80,"$35,000 to $49,999","14,337","+/-2,182",6.8,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",81,"$50,000 to $74,999","28,354","+/-2,982",13.5,+/-1.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",82,"$75,000 to $99,999","32,189","+/-2,856",15.4,+/-1.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",83,"$100,000 to $149,999","46,562","+/-3,252",22.2,+/-1.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",84,"$150,000 to $199,999","30,984","+/-2,690",14.8,+/-1.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",85,"$200,000 or more","40,602","+/-3,006",19.4,+/-1.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",86,Median family income (dollars),"112,824","+/-3,887",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",87,Mean family income (dollars),"150,863","+/-5,011",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",87.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",88,Per capita income (dollars),"49,899","+/-1,460",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",88.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",89,Nonfamily households,"96,492","+/-4,765","96,492",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",90,Median nonfamily income (dollars),"47,293","+/-2,838",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",91,Mean nonfamily income (dollars),"64,132","+/-3,580",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",91.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",92,Median earnings for workers (dollars),"50,473",+/-715,(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",93,"Median earnings for male full-time, year-round workers (dollars)","73,729","+/-2,920",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",94,"Median earnings for female full-time, year-round workers (dollars)","59,444","+/-3,056",(X),(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",94.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",95,Civilian noninstitutionalized population,"762,185","+/-10,915","762,185",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",96,With health insurance coverage,"729,902","+/-11,615",95.8,+/-0.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",97,With private health insurance,"611,222","+/-12,065",80.2,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",98,With public coverage,"206,044","+/-7,908",27.0,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",99,No health insurance coverage,"32,283","+/-4,002",4.2,+/-0.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",99.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",100,Civilian noninstitutionalized population under 19 years,"179,258","+/-4,924","179,258",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",101,No health insurance coverage,"4,584","+/-1,333",2.6,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",101.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",102,Civilian noninstitutionalized population 19 to 64 years,"437,115","+/-7,615","437,115",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",103,In labor force:,"362,466","+/-7,381","362,466",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",104,Employed:,"348,858","+/-7,799","348,858",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",105,With health insurance coverage,"334,540","+/-8,209",95.9,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",106,With private health insurance,"327,624","+/-7,996",93.9,+/-0.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",107,With public coverage,"15,671","+/-2,096",4.5,+/-0.6
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",108,No health insurance coverage,"14,318","+/-2,471",4.1,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",109,Unemployed:,"13,608","+/-2,609","13,608",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",110,With health insurance coverage,"10,621","+/-2,032",78.0,+/-7.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",111,With private health insurance,"9,441","+/-2,034",69.4,+/-8.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",112,With public coverage,"1,687",+/-639,12.4,+/-4.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",113,No health insurance coverage,"2,987","+/-1,256",22.0,+/-7.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",114,Not in labor force:,"74,649","+/-4,181","74,649",(X)
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",115,With health insurance coverage,"64,696","+/-3,953",86.7,+/-2.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",116,With private health insurance,"52,225","+/-3,625",70.0,+/-3.4
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",117,With public coverage,"16,447","+/-2,381",22.0,+/-2.9
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",118,No health insurance coverage,"9,953","+/-1,755",13.3,+/-2.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",118.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",119,All families,(X),(X),3.4,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",120,With related children of the householder under 18 years,(X),(X),5.0,+/-1.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",121,With related children of the householder under 5 years only,(X),(X),7.6,+/-4.1
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",122,Married couple families,(X),(X),2.2,+/-0.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",123,With related children of the householder under 18 years,(X),(X),2.6,+/-0.9
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",124,With related children of the householder under 5 years only,(X),(X),3.5,+/-3.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",125,"Families with female householder, no spouse present",(X),(X),13.1,+/-4.1
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",126,With related children of the householder under 18 years,(X),(X),18.3,+/-6.3
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",127,With related children of the householder under 5 years only,(X),(X),32.7,+/-24.2
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",127.3,,,,,
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",128,All people,(X),(X),5.7,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",129,Under 18 years,(X),(X),5.5,+/-1.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",130,Related children of the householder under 18 years,(X),(X),5.3,+/-1.5
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",131,Related children of the householder under 5 years,(X),(X),6.2,+/-2.6
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",132,Related children of the householder 5 to 17 years,(X),(X),5.1,+/-1.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",133,18 years and over,(X),(X),5.7,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",134,18 to 64 years,(X),(X),5.5,+/-0.8
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",135,65 years and over,(X),(X),6.3,+/-1.0
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",136,People in families,(X),(X),3.5,+/-0.7
+DP03,5001800US2902,"Congressional District 2 (118th Congress), Missouri",137,Unrelated individuals 15 years and over,(X),(X),16.6,+/-2.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",0.5,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",1,Population 16 years and over,"626,572","+/-7,699","626,572",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",2,In labor force,"406,692","+/-8,806",64.9,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",3,Civilian labor force,"405,561","+/-8,919",64.7,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",4,Employed,"390,964","+/-8,627",62.4,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",5,Unemployed,"14,597","+/-1,960",2.3,+/-0.3
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",6,Armed Forces,"1,131",+/-620,0.2,+/-0.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",7,Not in labor force,"219,880","+/-6,487",35.1,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",7.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",8,Civilian labor force,"405,561","+/-8,919","405,561",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",9,Unemployment Rate,(X),(X),3.6,+/-0.5
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",9.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",10,Females 16 years and over,"316,967","+/-4,707","316,967",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",11,In labor force,"196,605","+/-5,682",62.0,+/-1.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",12,Civilian labor force,"196,605","+/-5,682",62.0,+/-1.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",13,Employed,"189,759","+/-5,411",59.9,+/-1.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",13.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",14,Own children of the householder under 6 years,"48,612","+/-2,835","48,612",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",15,All parents in family in labor force,"36,477","+/-2,817",75.0,+/-4.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",15.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",16,Own children of the householder 6 to 17 years,"112,490","+/-4,633","112,490",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",17,All parents in family in labor force,"88,909","+/-4,723",79.0,+/-3.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",17.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",18,Workers 16 years and over,"385,896","+/-8,276","385,896",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",19,"Car, truck, or van -- drove alone","291,033","+/-7,982",75.4,+/-1.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",20,"Car, truck, or van -- carpooled","26,789","+/-3,886",6.9,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",21,Public transportation (excluding taxicab),807,+/-506,0.2,+/-0.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",22,Walked,"6,549","+/-1,674",1.7,+/-0.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",23,Other means,"3,630","+/-1,062",0.9,+/-0.3
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",24,Worked from home,"57,088","+/-4,094",14.8,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",24.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",25,Mean travel time to work (minutes),23.3,+/-0.6,(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",25.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",25.5,OCCUPATION,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",26,Civilian employed population 16 years and over,"390,964","+/-8,627","390,964",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",27,"Management, business, science, and arts occupations","172,061","+/-6,102",44.0,+/-1.3
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",28,Service occupations,"50,062","+/-4,021",12.8,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",29,Sales and office occupations,"82,462","+/-4,876",21.1,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",30,"Natural resources, construction, and maintenance occupations","32,073","+/-2,459",8.2,+/-0.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",31,"Production, transportation, and material moving occupations","54,306","+/-5,071",13.9,+/-1.3
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",31.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",31.5,INDUSTRY,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",32,Civilian employed population 16 years and over,"390,964","+/-8,627","390,964",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",33,"Agriculture, forestry, fishing and hunting, and mining","5,323","+/-1,093",1.4,+/-0.3
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",34,Construction,"28,535","+/-2,626",7.3,+/-0.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",35,Manufacturing,"45,255","+/-3,431",11.6,+/-0.9
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",36,Wholesale trade,"8,128","+/-1,720",2.1,+/-0.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",37,Retail trade,"47,712","+/-3,939",12.2,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",38,"Transportation and warehousing, and utilities","19,636","+/-2,299",5.0,+/-0.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",39,Information,"5,735","+/-1,410",1.5,+/-0.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",40,"Finance and insurance, and real estate and rental and leasing","30,971","+/-2,946",7.9,+/-0.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",41,"Professional, scientific, and management, and administrative and waste management services","40,168","+/-3,637",10.3,+/-0.9
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",42,"Educational services, and health care and social assistance","93,128","+/-4,538",23.8,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",43,"Arts, entertainment, and recreation, and accommodation and food services","29,578","+/-2,658",7.6,+/-0.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",44,"Other services, except public administration","17,668","+/-2,371",4.5,+/-0.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",45,Public administration,"19,127","+/-2,434",4.9,+/-0.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",45.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",46,Civilian employed population 16 years and over,"390,964","+/-8,627","390,964",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",47,Private wage and salary workers,"312,799","+/-8,286",80.0,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",48,Government workers,"56,731","+/-4,109",14.5,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",49,Self-employed in own not incorporated business workers,"20,342","+/-2,393",5.2,+/-0.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",50,Unpaid family workers,"1,092",+/-514,0.3,+/-0.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",50.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",51,Total households,"301,159","+/-3,839","301,159",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",52,"Less than $10,000","14,084","+/-1,877",4.7,+/-0.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",53,"$10,000 to $14,999","10,236","+/-1,726",3.4,+/-0.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",54,"$15,000 to $24,999","18,518","+/-2,270",6.1,+/-0.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",55,"$25,000 to $34,999","25,594","+/-2,789",8.5,+/-0.9
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",56,"$35,000 to $49,999","36,936","+/-3,124",12.3,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",57,"$50,000 to $74,999","52,645","+/-3,570",17.5,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",58,"$75,000 to $99,999","42,084","+/-3,253",14.0,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",59,"$100,000 to $149,999","52,561","+/-2,933",17.5,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",60,"$150,000 to $199,999","25,025","+/-2,539",8.3,+/-0.8
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",61,"$200,000 or more","23,476","+/-2,079",7.8,+/-0.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",62,Median household income (dollars),"71,309","+/-2,119",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",63,Mean household income (dollars),"93,293","+/-2,969",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",63.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",64,With earnings,"235,234","+/-4,801",78.1,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",65,Mean earnings (dollars),"93,329","+/-3,551",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",66,With Social Security,"97,486","+/-3,175",32.4,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",67,Mean Social Security income (dollars),"22,086",+/-588,(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",68,With retirement income,"83,365","+/-3,410",27.7,+/-1.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",69,Mean retirement income (dollars),"27,591","+/-2,154",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",69.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",70,With Supplemental Security Income,"11,036","+/-2,000",3.7,+/-0.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",71,Mean Supplemental Security Income (dollars),"11,260","+/-1,005",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",72,With cash public assistance income,"4,747","+/-1,179",1.6,+/-0.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",73,Mean cash public assistance income (dollars),"5,218","+/-1,872",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",74,With Food Stamp/SNAP benefits in the past 12 months,"18,760","+/-2,189",6.2,+/-0.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",74.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",75,Families,"196,589","+/-4,114","196,589",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",76,"Less than $10,000","3,963","+/-1,079",2.0,+/-0.5
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",77,"$10,000 to $14,999","3,476","+/-1,090",1.8,+/-0.5
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",78,"$15,000 to $24,999","6,773","+/-1,251",3.4,+/-0.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",79,"$25,000 to $34,999","10,686","+/-1,932",5.4,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",80,"$35,000 to $49,999","18,935","+/-2,496",9.6,+/-1.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",81,"$50,000 to $74,999","33,457","+/-2,864",17.0,+/-1.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",82,"$75,000 to $99,999","31,458","+/-2,798",16.0,+/-1.4
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",83,"$100,000 to $149,999","44,862","+/-3,133",22.8,+/-1.5
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",84,"$150,000 to $199,999","21,791","+/-2,245",11.1,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",85,"$200,000 or more","21,188","+/-2,059",10.8,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",86,Median family income (dollars),"91,762","+/-2,760",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",87,Mean family income (dollars),"112,638","+/-3,985",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",87.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",88,Per capita income (dollars),"37,104","+/-1,160",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",88.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",89,Nonfamily households,"104,570","+/-4,265","104,570",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",90,Median nonfamily income (dollars),"39,563","+/-2,125",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",91,Mean nonfamily income (dollars),"52,545","+/-2,734",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",91.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",92,Median earnings for workers (dollars),"40,488",+/-709,(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",93,"Median earnings for male full-time, year-round workers (dollars)","58,967","+/-3,518",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",94,"Median earnings for female full-time, year-round workers (dollars)","47,480","+/-2,661",(X),(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",94.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",95,Civilian noninstitutionalized population,"760,402","+/-11,000","760,402",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",96,With health insurance coverage,"711,629","+/-10,713",93.6,+/-0.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",97,With private health insurance,"581,946","+/-11,535",76.5,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",98,With public coverage,"217,657","+/-7,268",28.6,+/-0.9
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",99,No health insurance coverage,"48,773","+/-5,515",6.4,+/-0.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",99.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",100,Civilian noninstitutionalized population under 19 years,"180,880","+/-5,798","180,880",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",101,No health insurance coverage,"6,676","+/-1,568",3.7,+/-0.8
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",101.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",102,Civilian noninstitutionalized population 19 to 64 years,"448,542","+/-7,430","448,542",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",103,In labor force:,"363,085","+/-8,434","363,085",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",104,Employed:,"352,083","+/-8,450","352,083",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",105,With health insurance coverage,"324,914","+/-7,949",92.3,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",106,With private health insurance,"314,319","+/-8,072",89.3,+/-1.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",107,With public coverage,"19,096","+/-2,558",5.4,+/-0.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",108,No health insurance coverage,"27,169","+/-3,548",7.7,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",109,Unemployed:,"11,002","+/-1,599","11,002",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",110,With health insurance coverage,"7,666","+/-1,710",69.7,+/-9.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",111,With private health insurance,"6,526","+/-1,467",59.3,+/-10.1
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",112,With public coverage,"1,540",+/-935,14.0,+/-7.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",113,No health insurance coverage,"3,336",+/-987,30.3,+/-9.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",114,Not in labor force:,"85,457","+/-4,612","85,457",(X)
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",115,With health insurance coverage,"74,253","+/-4,464",86.9,+/-2.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",116,With private health insurance,"52,873","+/-4,098",61.9,+/-3.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",117,With public coverage,"27,417","+/-2,745",32.1,+/-3.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",118,No health insurance coverage,"11,204","+/-1,928",13.1,+/-2.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",118.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",119,All families,(X),(X),6.0,+/-0.9
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",120,With related children of the householder under 18 years,(X),(X),10.0,+/-1.9
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",121,With related children of the householder under 5 years only,(X),(X),15.2,+/-6.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",122,Married couple families,(X),(X),2.8,+/-0.8
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",123,With related children of the householder under 18 years,(X),(X),3.4,+/-1.7
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",124,With related children of the householder under 5 years only,(X),(X),7.1,+/-5.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",125,"Families with female householder, no spouse present",(X),(X),22.0,+/-4.5
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",126,With related children of the householder under 18 years,(X),(X),32.5,+/-6.6
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",127,With related children of the householder under 5 years only,(X),(X),52.5,+/-20.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",127.3,,,,,
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",128,All people,(X),(X),9.6,+/-0.9
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",129,Under 18 years,(X),(X),10.2,+/-1.8
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",130,Related children of the householder under 18 years,(X),(X),9.7,+/-1.8
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",131,Related children of the householder under 5 years,(X),(X),12.9,+/-4.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",132,Related children of the householder 5 to 17 years,(X),(X),8.6,+/-1.9
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",133,18 years and over,(X),(X),9.4,+/-0.8
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",134,18 to 64 years,(X),(X),10.1,+/-1.0
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",135,65 years and over,(X),(X),7.1,+/-1.2
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",136,People in families,(X),(X),5.8,+/-0.9
+DP03,5001800US2903,"Congressional District 3 (118th Congress), Missouri",137,Unrelated individuals 15 years and over,(X),(X),24.7,+/-2.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",0.5,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",1,Population 16 years and over,"616,196","+/-7,570","616,196",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",2,In labor force,"381,564","+/-7,385",61.9,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",3,Civilian labor force,"365,014","+/-7,506",59.2,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",4,Employed,"347,428","+/-7,232",56.4,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",5,Unemployed,"17,586","+/-2,862",2.9,+/-0.5
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",6,Armed Forces,"16,550","+/-1,568",2.7,+/-0.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",7,Not in labor force,"234,632","+/-6,376",38.1,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",7.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",8,Civilian labor force,"365,014","+/-7,506","365,014",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",9,Unemployment Rate,(X),(X),4.8,+/-0.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",9.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",10,Females 16 years and over,"307,711","+/-4,486","307,711",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",11,In labor force,"175,690","+/-4,766",57.1,+/-1.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",12,Civilian labor force,"172,946","+/-4,695",56.2,+/-1.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",13,Employed,"163,989","+/-4,481",53.3,+/-1.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",13.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",14,Own children of the householder under 6 years,"51,074","+/-3,094","51,074",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",15,All parents in family in labor force,"34,156","+/-3,079",66.9,+/-4.4
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",15.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",16,Own children of the householder 6 to 17 years,"113,644","+/-4,227","113,644",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",17,All parents in family in labor force,"86,158","+/-4,519",75.8,+/-2.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",17.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",18,Workers 16 years and over,"357,587","+/-7,217","357,587",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",19,"Car, truck, or van -- drove alone","273,713","+/-7,206",76.5,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",20,"Car, truck, or van -- carpooled","31,622","+/-2,597",8.8,+/-0.7
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",21,Public transportation (excluding taxicab),384,+/-306,0.1,+/-0.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",22,Walked,"11,054","+/-2,348",3.1,+/-0.7
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",23,Other means,"4,589","+/-1,183",1.3,+/-0.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",24,Worked from home,"36,225","+/-3,789",10.1,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",24.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",25,Mean travel time to work (minutes),24.8,+/-0.8,(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",25.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",25.5,OCCUPATION,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",26,Civilian employed population 16 years and over,"347,428","+/-7,232","347,428",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",27,"Management, business, science, and arts occupations","121,047","+/-5,137",34.8,+/-1.4
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",28,Service occupations,"59,339","+/-4,478",17.1,+/-1.2
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",29,Sales and office occupations,"69,856","+/-4,265",20.1,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",30,"Natural resources, construction, and maintenance occupations","41,954","+/-3,559",12.1,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",31,"Production, transportation, and material moving occupations","55,232","+/-3,599",15.9,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",31.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",31.5,INDUSTRY,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",32,Civilian employed population 16 years and over,"347,428","+/-7,232","347,428",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",33,"Agriculture, forestry, fishing and hunting, and mining","9,515","+/-1,668",2.7,+/-0.5
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",34,Construction,"31,521","+/-3,088",9.1,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",35,Manufacturing,"40,706","+/-3,644",11.7,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",36,Wholesale trade,"8,343","+/-1,724",2.4,+/-0.5
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",37,Retail trade,"38,864","+/-3,425",11.2,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",38,"Transportation and warehousing, and utilities","20,411","+/-2,780",5.9,+/-0.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",39,Information,"4,457","+/-1,077",1.3,+/-0.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",40,"Finance and insurance, and real estate and rental and leasing","21,968","+/-2,310",6.3,+/-0.6
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",41,"Professional, scientific, and management, and administrative and waste management services","24,289","+/-2,900",7.0,+/-0.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",42,"Educational services, and health care and social assistance","86,989","+/-4,431",25.0,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",43,"Arts, entertainment, and recreation, and accommodation and food services","26,271","+/-3,247",7.6,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",44,"Other services, except public administration","16,922","+/-2,249",4.9,+/-0.6
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",45,Public administration,"17,172","+/-2,587",4.9,+/-0.7
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",45.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",46,Civilian employed population 16 years and over,"347,428","+/-7,232","347,428",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",47,Private wage and salary workers,"264,252","+/-7,154",76.1,+/-1.4
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",48,Government workers,"55,350","+/-4,230",15.9,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",49,Self-employed in own not incorporated business workers,"26,444","+/-3,015",7.6,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",50,Unpaid family workers,"1,382",+/-708,0.4,+/-0.2
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",50.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",51,Total households,"294,140","+/-4,235","294,140",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",52,"Less than $10,000","14,603","+/-2,097",5.0,+/-0.7
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",53,"$10,000 to $14,999","14,579","+/-1,707",5.0,+/-0.6
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",54,"$15,000 to $24,999","26,547","+/-2,543",9.0,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",55,"$25,000 to $34,999","28,582","+/-3,058",9.7,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",56,"$35,000 to $49,999","39,710","+/-3,365",13.5,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",57,"$50,000 to $74,999","57,504","+/-3,553",19.5,+/-1.2
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",58,"$75,000 to $99,999","41,326","+/-3,576",14.0,+/-1.2
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",59,"$100,000 to $149,999","41,415","+/-3,253",14.1,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",60,"$150,000 to $199,999","16,550","+/-2,160",5.6,+/-0.7
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",61,"$200,000 or more","13,324","+/-1,859",4.5,+/-0.6
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",62,Median household income (dollars),"59,197","+/-2,440",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",63,Mean household income (dollars),"76,488","+/-2,443",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",63.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",64,With earnings,"219,572","+/-4,469",74.6,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",65,Mean earnings (dollars),"77,258","+/-2,725",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",66,With Social Security,"104,280","+/-3,581",35.5,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",67,Mean Social Security income (dollars),"20,333",+/-519,(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",68,With retirement income,"81,126","+/-3,862",27.6,+/-1.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",69,Mean retirement income (dollars),"24,722","+/-1,915",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",69.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",70,With Supplemental Security Income,"15,098","+/-1,808",5.1,+/-0.6
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",71,Mean Supplemental Security Income (dollars),"9,947",+/-635,(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",72,With cash public assistance income,"7,603","+/-1,570",2.6,+/-0.5
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",73,Mean cash public assistance income (dollars),"4,181","+/-1,303",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",74,With Food Stamp/SNAP benefits in the past 12 months,"29,145","+/-2,629",9.9,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",74.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",75,Families,"200,725","+/-4,477","200,725",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",76,"Less than $10,000","5,384","+/-1,005",2.7,+/-0.5
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",77,"$10,000 to $14,999","4,617","+/-1,092",2.3,+/-0.5
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",78,"$15,000 to $24,999","11,318","+/-1,600",5.6,+/-0.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",79,"$25,000 to $34,999","16,914","+/-2,309",8.4,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",80,"$35,000 to $49,999","23,141","+/-2,306",11.5,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",81,"$50,000 to $74,999","42,861","+/-2,892",21.4,+/-1.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",82,"$75,000 to $99,999","32,517","+/-3,259",16.2,+/-1.6
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",83,"$100,000 to $149,999","37,124","+/-3,158",18.5,+/-1.6
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",84,"$150,000 to $199,999","14,699","+/-1,999",7.3,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",85,"$200,000 or more","12,150","+/-1,842",6.1,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",86,Median family income (dollars),"72,393","+/-2,077",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",87,Mean family income (dollars),"90,356","+/-3,408",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",87.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",88,Per capita income (dollars),"30,177",+/-885,(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",88.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",89,Nonfamily households,"93,415","+/-5,339","93,415",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",90,Median nonfamily income (dollars),"32,199","+/-1,455",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",91,Mean nonfamily income (dollars),"42,702","+/-2,305",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",91.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",92,Median earnings for workers (dollars),"33,908","+/-1,419",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",93,"Median earnings for male full-time, year-round workers (dollars)","50,426",+/-950,(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",94,"Median earnings for female full-time, year-round workers (dollars)","40,141","+/-1,397",(X),(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",94.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",95,Civilian noninstitutionalized population,"747,264","+/-9,127","747,264",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",96,With health insurance coverage,"664,457","+/-10,390",88.9,+/-0.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",97,With private health insurance,"507,413","+/-10,047",67.9,+/-1.2
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",98,With public coverage,"261,696","+/-8,842",35.0,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",99,No health insurance coverage,"82,807","+/-6,194",11.1,+/-0.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",99.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",100,Civilian noninstitutionalized population under 19 years,"185,702","+/-5,680","185,702",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",101,No health insurance coverage,"16,509","+/-3,093",8.9,+/-1.6
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",101.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",102,Civilian noninstitutionalized population 19 to 64 years,"426,834","+/-6,518","426,834",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",103,In labor force:,"328,912","+/-7,226","328,912",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",104,Employed:,"312,818","+/-6,851","312,818",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",105,With health insurance coverage,"273,196","+/-7,459",87.3,+/-1.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",106,With private health insurance,"259,297","+/-7,191",82.9,+/-1.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",107,With public coverage,"25,348","+/-2,709",8.1,+/-0.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",108,No health insurance coverage,"39,622","+/-3,937",12.7,+/-1.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",109,Unemployed:,"16,094","+/-2,837","16,094",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",110,With health insurance coverage,"9,588","+/-2,399",59.6,+/-7.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",111,With private health insurance,"5,315","+/-1,578",33.0,+/-7.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",112,With public coverage,"4,536","+/-1,504",28.2,+/-7.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",113,No health insurance coverage,"6,506","+/-1,424",40.4,+/-7.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",114,Not in labor force:,"97,922","+/-5,300","97,922",(X)
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",115,With health insurance coverage,"78,341","+/-4,492",80.0,+/-2.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",116,With private health insurance,"47,205","+/-3,774",48.2,+/-3.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",117,With public coverage,"38,840","+/-3,154",39.7,+/-2.6
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",118,No health insurance coverage,"19,581","+/-2,631",20.0,+/-2.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",118.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",119,All families,(X),(X),8.4,+/-1.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",120,With related children of the householder under 18 years,(X),(X),13.5,+/-1.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",121,With related children of the householder under 5 years only,(X),(X),15.1,+/-4.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",122,Married couple families,(X),(X),4.9,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",123,With related children of the householder under 18 years,(X),(X),7.3,+/-1.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",124,With related children of the householder under 5 years only,(X),(X),4.0,+/-3.5
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",125,"Families with female householder, no spouse present",(X),(X),25.6,+/-4.4
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",126,With related children of the householder under 18 years,(X),(X),32.7,+/-6.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",127,With related children of the householder under 5 years only,(X),(X),48.1,+/-13.8
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",127.3,,,,,
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",128,All people,(X),(X),13.3,+/-1.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",129,Under 18 years,(X),(X),16.4,+/-2.2
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",130,Related children of the householder under 18 years,(X),(X),16.0,+/-2.2
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",131,Related children of the householder under 5 years,(X),(X),19.7,+/-4.0
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",132,Related children of the householder 5 to 17 years,(X),(X),14.7,+/-2.1
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",133,18 years and over,(X),(X),12.4,+/-0.9
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",134,18 to 64 years,(X),(X),13.1,+/-1.2
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",135,65 years and over,(X),(X),9.9,+/-1.3
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",136,People in families,(X),(X),9.7,+/-1.2
+DP03,5001800US2904,"Congressional District 4 (118th Congress), Missouri",137,Unrelated individuals 15 years and over,(X),(X),30.5,+/-2.5
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",0.5,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",1,Population 16 years and over,"613,957","+/-4,899","613,957",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",2,In labor force,"412,875","+/-5,801",67.2,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",3,Civilian labor force,"411,091","+/-5,777",67.0,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",4,Employed,"386,598","+/-6,178",63.0,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",5,Unemployed,"24,493","+/-2,734",4.0,+/-0.4
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",6,Armed Forces,"1,784",+/-854,0.3,+/-0.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",7,Not in labor force,"201,082","+/-5,245",32.8,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",7.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",8,Civilian labor force,"411,091","+/-5,777","411,091",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",9,Unemployment Rate,(X),(X),6.0,+/-0.7
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",9.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",10,Females 16 years and over,"319,145","+/-3,113","319,145",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",11,In labor force,"201,143","+/-4,462",63.0,+/-1.2
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",12,Civilian labor force,"200,916","+/-4,463",63.0,+/-1.2
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",13,Employed,"190,061","+/-4,797",59.6,+/-1.3
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",13.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",14,Own children of the householder under 6 years,"55,655","+/-2,864","55,655",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",15,All parents in family in labor force,"40,875","+/-3,430",73.4,+/-4.6
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",15.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",16,Own children of the householder 6 to 17 years,"110,805","+/-3,895","110,805",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",17,All parents in family in labor force,"85,174","+/-4,695",76.9,+/-3.5
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",17.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",18,Workers 16 years and over,"382,238","+/-6,181","382,238",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",19,"Car, truck, or van -- drove alone","270,542","+/-6,564",70.8,+/-1.4
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",20,"Car, truck, or van -- carpooled","26,564","+/-3,073",6.9,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",21,Public transportation (excluding taxicab),"4,339","+/-1,183",1.1,+/-0.3
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",22,Walked,"4,625","+/-1,226",1.2,+/-0.3
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",23,Other means,"5,541","+/-1,691",1.4,+/-0.4
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",24,Worked from home,"70,627","+/-4,194",18.5,+/-1.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",24.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",25,Mean travel time to work (minutes),22.0,+/-0.6,(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",25.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",25.5,OCCUPATION,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",26,Civilian employed population 16 years and over,"386,598","+/-6,178","386,598",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",27,"Management, business, science, and arts occupations","161,307","+/-5,528",41.7,+/-1.3
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",28,Service occupations,"60,266","+/-4,442",15.6,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",29,Sales and office occupations,"85,469","+/-4,708",22.1,+/-1.2
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",30,"Natural resources, construction, and maintenance occupations","28,129","+/-2,789",7.3,+/-0.7
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",31,"Production, transportation, and material moving occupations","51,427","+/-4,001",13.3,+/-1.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",31.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",31.5,INDUSTRY,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",32,Civilian employed population 16 years and over,"386,598","+/-6,178","386,598",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",33,"Agriculture, forestry, fishing and hunting, and mining","2,198",+/-962,0.6,+/-0.2
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",34,Construction,"22,501","+/-2,299",5.8,+/-0.6
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",35,Manufacturing,"32,065","+/-3,549",8.3,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",36,Wholesale trade,"10,310","+/-1,748",2.7,+/-0.5
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",37,Retail trade,"41,974","+/-3,747",10.9,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",38,"Transportation and warehousing, and utilities","25,964","+/-3,147",6.7,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",39,Information,"5,844","+/-1,353",1.5,+/-0.3
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",40,"Finance and insurance, and real estate and rental and leasing","31,813","+/-3,198",8.2,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",41,"Professional, scientific, and management, and administrative and waste management services","50,928","+/-4,248",13.2,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",42,"Educational services, and health care and social assistance","88,791","+/-4,056",23.0,+/-1.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",43,"Arts, entertainment, and recreation, and accommodation and food services","36,583","+/-3,532",9.5,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",44,"Other services, except public administration","20,134","+/-2,806",5.2,+/-0.7
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",45,Public administration,"17,493","+/-2,403",4.5,+/-0.6
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",45.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",46,Civilian employed population 16 years and over,"386,598","+/-6,178","386,598",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",47,Private wage and salary workers,"320,111","+/-6,936",82.8,+/-1.2
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",48,Government workers,"46,067","+/-3,806",11.9,+/-1.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",49,Self-employed in own not incorporated business workers,"20,001","+/-2,370",5.2,+/-0.6
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",50,Unpaid family workers,419,+/-283,0.1,+/-0.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",50.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",51,Total households,"329,409","+/-3,917","329,409",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",52,"Less than $10,000","18,700","+/-2,353",5.7,+/-0.7
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",53,"$10,000 to $14,999","13,710","+/-2,048",4.2,+/-0.6
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",54,"$15,000 to $24,999","26,026","+/-2,602",7.9,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",55,"$25,000 to $34,999","32,266","+/-3,071",9.8,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",56,"$35,000 to $49,999","44,731","+/-3,981",13.6,+/-1.2
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",57,"$50,000 to $74,999","61,194","+/-4,515",18.6,+/-1.4
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",58,"$75,000 to $99,999","44,895","+/-3,496",13.6,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",59,"$100,000 to $149,999","48,048","+/-3,686",14.6,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",60,"$150,000 to $199,999","22,236","+/-2,626",6.8,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",61,"$200,000 or more","17,603","+/-1,860",5.3,+/-0.6
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",62,Median household income (dollars),"61,749","+/-1,873",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",63,Mean household income (dollars),"81,220","+/-2,541",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",63.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",64,With earnings,"263,077","+/-4,126",79.9,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",65,Mean earnings (dollars),"80,861","+/-2,325",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",66,With Social Security,"92,511","+/-3,874",28.1,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",67,Mean Social Security income (dollars),"20,658",+/-722,(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",68,With retirement income,"74,359","+/-3,145",22.6,+/-1.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",69,Mean retirement income (dollars),"27,990","+/-5,047",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",69.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",70,With Supplemental Security Income,"13,057","+/-1,793",4.0,+/-0.5
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",71,Mean Supplemental Security Income (dollars),"9,348",+/-723,(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",72,With cash public assistance income,"11,134","+/-2,013",3.4,+/-0.6
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",73,Mean cash public assistance income (dollars),"5,073",+/-946,(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",74,With Food Stamp/SNAP benefits in the past 12 months,"32,656","+/-3,178",9.9,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",74.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",75,Families,"189,433","+/-5,419","189,433",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",76,"Less than $10,000","5,924","+/-1,532",3.1,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",77,"$10,000 to $14,999","4,330","+/-1,226",2.3,+/-0.6
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",78,"$15,000 to $24,999","8,714","+/-1,779",4.6,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",79,"$25,000 to $34,999","14,901","+/-2,344",7.9,+/-1.2
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",80,"$35,000 to $49,999","21,400","+/-2,259",11.3,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",81,"$50,000 to $74,999","36,149","+/-3,554",19.1,+/-1.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",82,"$75,000 to $99,999","29,643","+/-2,879",15.6,+/-1.5
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",83,"$100,000 to $149,999","37,217","+/-3,555",19.6,+/-1.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",84,"$150,000 to $199,999","16,910","+/-2,203",8.9,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",85,"$200,000 or more","14,245","+/-1,660",7.5,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",86,Median family income (dollars),"77,713","+/-3,923",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",87,Mean family income (dollars),"96,811","+/-3,225",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",87.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",88,Per capita income (dollars),"34,672",+/-964,(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",88.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",89,Nonfamily households,"139,976","+/-5,428","139,976",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",90,Median nonfamily income (dollars),"40,706","+/-1,524",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",91,Mean nonfamily income (dollars),"56,798","+/-3,835",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",91.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",92,Median earnings for workers (dollars),"38,148","+/-1,510",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",93,"Median earnings for male full-time, year-round workers (dollars)","55,870","+/-2,368",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",94,"Median earnings for female full-time, year-round workers (dollars)","43,074","+/-1,516",(X),(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",94.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",95,Civilian noninstitutionalized population,"764,111","+/-5,763","764,111",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",96,With health insurance coverage,"673,938","+/-9,289",88.2,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",97,With private health insurance,"532,359","+/-9,852",69.7,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",98,With public coverage,"231,847","+/-7,489",30.3,+/-1.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",99,No health insurance coverage,"90,173","+/-6,587",11.8,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",99.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",100,Civilian noninstitutionalized population under 19 years,"184,071","+/-4,151","184,071",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",101,No health insurance coverage,"13,547","+/-3,088",7.4,+/-1.6
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",101.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",102,Civilian noninstitutionalized population 19 to 64 years,"461,911","+/-4,466","461,911",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",103,In labor force:,"377,775","+/-5,823","377,775",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",104,Employed:,"355,299","+/-6,333","355,299",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",105,With health insurance coverage,"307,679","+/-7,055",86.6,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",106,With private health insurance,"296,788","+/-7,354",83.5,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",107,With public coverage,"19,965","+/-2,701",5.6,+/-0.8
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",108,No health insurance coverage,"47,620","+/-4,080",13.4,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",109,Unemployed:,"22,476","+/-2,598","22,476",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",110,With health insurance coverage,"13,337","+/-2,044",59.3,+/-7.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",111,With private health insurance,"10,784","+/-1,976",48.0,+/-7.7
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",112,With public coverage,"3,425",+/-984,15.2,+/-4.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",113,No health insurance coverage,"9,139","+/-2,014",40.7,+/-7.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",114,Not in labor force:,"84,136","+/-4,451","84,136",(X)
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",115,With health insurance coverage,"65,026","+/-3,911",77.3,+/-2.3
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",116,With private health insurance,"37,753","+/-3,013",44.9,+/-3.2
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",117,With public coverage,"31,862","+/-3,403",37.9,+/-3.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",118,No health insurance coverage,"19,110","+/-2,191",22.7,+/-2.3
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",118.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",119,All families,(X),(X),8.6,+/-1.2
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",120,With related children of the householder under 18 years,(X),(X),14.8,+/-2.3
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",121,With related children of the householder under 5 years only,(X),(X),10.9,+/-4.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",122,Married couple families,(X),(X),3.8,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",123,With related children of the householder under 18 years,(X),(X),6.0,+/-1.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",124,With related children of the householder under 5 years only,(X),(X),1.0,+/-1.4
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",125,"Families with female householder, no spouse present",(X),(X),21.9,+/-3.7
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",126,With related children of the householder under 18 years,(X),(X),30.0,+/-5.4
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",127,With related children of the householder under 5 years only,(X),(X),26.6,+/-12.5
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",127.3,,,,,
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",128,All people,(X),(X),13.1,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",129,Under 18 years,(X),(X),18.4,+/-3.0
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",130,Related children of the householder under 18 years,(X),(X),17.9,+/-2.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",131,Related children of the householder under 5 years,(X),(X),17.8,+/-4.3
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",132,Related children of the householder 5 to 17 years,(X),(X),18.0,+/-3.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",133,18 years and over,(X),(X),11.5,+/-0.9
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",134,18 to 64 years,(X),(X),12.0,+/-1.1
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",135,65 years and over,(X),(X),9.4,+/-1.4
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",136,People in families,(X),(X),9.9,+/-1.4
+DP03,5001800US2905,"Congressional District 5 (118th Congress), Missouri",137,Unrelated individuals 15 years and over,(X),(X),22.5,+/-1.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",0.5,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",1,Population 16 years and over,"616,202","+/-4,067","616,202",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",2,In labor force,"372,857","+/-6,057",60.5,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",3,Civilian labor force,"370,759","+/-5,950",60.2,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",4,Employed,"356,202","+/-6,128",57.8,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",5,Unemployed,"14,557","+/-2,416",2.4,+/-0.4
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",6,Armed Forces,"2,098",+/-894,0.3,+/-0.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",7,Not in labor force,"243,345","+/-5,634",39.5,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",7.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",8,Civilian labor force,"370,759","+/-5,950","370,759",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",9,Unemployment Rate,(X),(X),3.9,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",9.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",10,Females 16 years and over,"310,005","+/-2,638","310,005",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",11,In labor force,"174,955","+/-4,275",56.4,+/-1.2
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",12,Civilian labor force,"174,469","+/-4,282",56.3,+/-1.2
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",13,Employed,"168,094","+/-4,239",54.2,+/-1.2
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",13.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",14,Own children of the householder under 6 years,"52,686","+/-2,524","52,686",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",15,All parents in family in labor force,"35,741","+/-2,726",67.8,+/-4.0
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",15.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",16,Own children of the householder 6 to 17 years,"116,956","+/-3,553","116,956",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",17,All parents in family in labor force,"87,553","+/-4,057",74.9,+/-2.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",17.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",18,Workers 16 years and over,"352,450","+/-6,102","352,450",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",19,"Car, truck, or van -- drove alone","271,619","+/-6,359",77.1,+/-1.2
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",20,"Car, truck, or van -- carpooled","29,776","+/-3,312",8.4,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",21,Public transportation (excluding taxicab),"1,335",+/-683,0.4,+/-0.2
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",22,Walked,"5,826","+/-1,056",1.7,+/-0.3
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",23,Other means,"4,452",+/-979,1.3,+/-0.3
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",24,Worked from home,"39,442","+/-3,289",11.2,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",24.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",25,Mean travel time to work (minutes),22.7,+/-0.7,(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",25.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",25.5,OCCUPATION,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",26,Civilian employed population 16 years and over,"356,202","+/-6,128","356,202",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",27,"Management, business, science, and arts occupations","134,762","+/-4,794",37.8,+/-1.2
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",28,Service occupations,"51,196","+/-3,483",14.4,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",29,Sales and office occupations,"69,303","+/-4,033",19.5,+/-1.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",30,"Natural resources, construction, and maintenance occupations","34,628","+/-2,686",9.7,+/-0.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",31,"Production, transportation, and material moving occupations","66,313","+/-4,060",18.6,+/-1.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",31.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",31.5,INDUSTRY,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",32,Civilian employed population 16 years and over,"356,202","+/-6,128","356,202",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",33,"Agriculture, forestry, fishing and hunting, and mining","10,056","+/-1,280",2.8,+/-0.4
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",34,Construction,"23,326","+/-2,413",6.5,+/-0.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",35,Manufacturing,"49,988","+/-3,416",14.0,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",36,Wholesale trade,"10,657","+/-1,724",3.0,+/-0.5
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",37,Retail trade,"42,285","+/-3,552",11.9,+/-1.0
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",38,"Transportation and warehousing, and utilities","21,688","+/-2,229",6.1,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",39,Information,"5,006",+/-908,1.4,+/-0.3
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",40,"Finance and insurance, and real estate and rental and leasing","22,033","+/-2,465",6.2,+/-0.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",41,"Professional, scientific, and management, and administrative and waste management services","28,320","+/-2,806",8.0,+/-0.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",42,"Educational services, and health care and social assistance","85,960","+/-3,549",24.1,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",43,"Arts, entertainment, and recreation, and accommodation and food services","23,858","+/-2,795",6.7,+/-0.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",44,"Other services, except public administration","17,519","+/-2,186",4.9,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",45,Public administration,"15,506","+/-1,962",4.4,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",45.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",46,Civilian employed population 16 years and over,"356,202","+/-6,128","356,202",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",47,Private wage and salary workers,"284,782","+/-6,438",79.9,+/-1.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",48,Government workers,"48,134","+/-2,903",13.5,+/-0.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",49,Self-employed in own not incorporated business workers,"22,617","+/-2,229",6.3,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",50,Unpaid family workers,669,+/-453,0.2,+/-0.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",50.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",51,Total households,"292,468","+/-3,604","292,468",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",52,"Less than $10,000","16,610","+/-2,016",5.7,+/-0.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",53,"$10,000 to $14,999","12,662","+/-1,777",4.3,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",54,"$15,000 to $24,999","23,276","+/-2,120",8.0,+/-0.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",55,"$25,000 to $34,999","26,032","+/-1,852",8.9,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",56,"$35,000 to $49,999","35,992","+/-2,577",12.3,+/-0.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",57,"$50,000 to $74,999","53,177","+/-3,114",18.2,+/-1.0
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",58,"$75,000 to $99,999","45,286","+/-3,359",15.5,+/-1.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",59,"$100,000 to $149,999","45,119","+/-3,062",15.4,+/-1.0
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",60,"$150,000 to $199,999","19,523","+/-1,893",6.7,+/-0.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",61,"$200,000 or more","14,791","+/-1,685",5.1,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",62,Median household income (dollars),"64,857","+/-1,768",(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",63,Mean household income (dollars),"82,960","+/-2,115",(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",63.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",64,With earnings,"221,261","+/-3,906",75.7,+/-1.0
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",65,Mean earnings (dollars),"84,824","+/-2,578",(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",66,With Social Security,"98,876","+/-2,566",33.8,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",67,Mean Social Security income (dollars),"20,671",+/-548,(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",68,With retirement income,"79,139","+/-3,231",27.1,+/-1.0
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",69,Mean retirement income (dollars),"23,710","+/-1,609",(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",69.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",70,With Supplemental Security Income,"15,163","+/-1,508",5.2,+/-0.5
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",71,Mean Supplemental Security Income (dollars),"10,631",+/-685,(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",72,With cash public assistance income,"6,446","+/-1,333",2.2,+/-0.5
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",73,Mean cash public assistance income (dollars),"2,854",+/-641,(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",74,With Food Stamp/SNAP benefits in the past 12 months,"25,690","+/-2,640",8.8,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",74.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",75,Families,"194,382","+/-4,134","194,382",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",76,"Less than $10,000","6,614","+/-1,448",3.4,+/-0.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",77,"$10,000 to $14,999","3,952",+/-892,2.0,+/-0.5
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",78,"$15,000 to $24,999","8,429","+/-1,245",4.3,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",79,"$25,000 to $34,999","12,405","+/-1,674",6.4,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",80,"$35,000 to $49,999","21,897","+/-2,224",11.3,+/-1.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",81,"$50,000 to $74,999","35,174","+/-2,563",18.1,+/-1.3
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",82,"$75,000 to $99,999","36,017","+/-2,785",18.5,+/-1.3
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",83,"$100,000 to $149,999","39,251","+/-2,649",20.2,+/-1.3
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",84,"$150,000 to $199,999","17,567","+/-1,828",9.0,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",85,"$200,000 or more","13,076","+/-1,518",6.7,+/-0.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",86,Median family income (dollars),"80,123","+/-1,834",(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",87,Mean family income (dollars),"99,033","+/-2,699",(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",87.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",88,Per capita income (dollars),"32,329",+/-842,(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",88.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",89,Nonfamily households,"98,086","+/-3,932","98,086",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",90,Median nonfamily income (dollars),"34,024","+/-2,180",(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",91,Mean nonfamily income (dollars),"47,302","+/-3,057",(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",91.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",92,Median earnings for workers (dollars),"38,371","+/-1,035",(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",93,"Median earnings for male full-time, year-round workers (dollars)","51,972",+/-743,(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",94,"Median earnings for female full-time, year-round workers (dollars)","41,681",+/-916,(X),(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",94.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",95,Civilian noninstitutionalized population,"753,436","+/-5,128","753,436",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",96,With health insurance coverage,"682,747","+/-6,831",90.6,+/-0.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",97,With private health insurance,"539,188","+/-9,029",71.6,+/-1.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",98,With public coverage,"241,878","+/-5,678",32.1,+/-0.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",99,No health insurance coverage,"70,689","+/-5,862",9.4,+/-0.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",99.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",100,Civilian noninstitutionalized population under 19 years,"190,646","+/-3,806","190,646",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",101,No health insurance coverage,"13,518","+/-2,784",7.1,+/-1.4
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",101.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",102,Civilian noninstitutionalized population 19 to 64 years,"432,474","+/-3,809","432,474",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",103,In labor force:,"333,552","+/-5,489","333,552",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",104,Employed:,"320,297","+/-5,622","320,297",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",105,With health insurance coverage,"286,965","+/-6,211",89.6,+/-0.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",106,With private health insurance,"275,304","+/-6,468",86.0,+/-1.0
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",107,With public coverage,"19,242","+/-2,068",6.0,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",108,No health insurance coverage,"33,332","+/-2,586",10.4,+/-0.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",109,Unemployed:,"13,255","+/-2,191","13,255",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",110,With health insurance coverage,"8,184","+/-1,766",61.7,+/-9.4
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",111,With private health insurance,"5,674","+/-1,468",42.8,+/-8.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",112,With public coverage,"2,707",+/-886,20.4,+/-6.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",113,No health insurance coverage,"5,071","+/-1,546",38.3,+/-9.4
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",114,Not in labor force:,"98,922","+/-4,691","98,922",(X)
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",115,With health insurance coverage,"80,425","+/-3,998",81.3,+/-2.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",116,With private health insurance,"52,092","+/-3,465",52.7,+/-2.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",117,With public coverage,"34,154","+/-2,480",34.5,+/-2.2
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",118,No health insurance coverage,"18,497","+/-2,349",18.7,+/-2.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",118.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",119,All families,(X),(X),8.0,+/-1.0
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",120,With related children of the householder under 18 years,(X),(X),12.8,+/-2.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",121,With related children of the householder under 5 years only,(X),(X),15.6,+/-5.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",122,Married couple families,(X),(X),3.6,+/-0.6
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",123,With related children of the householder under 18 years,(X),(X),4.0,+/-1.0
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",124,With related children of the householder under 5 years only,(X),(X),4.9,+/-2.8
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",125,"Families with female householder, no spouse present",(X),(X),29.9,+/-5.2
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",126,With related children of the householder under 18 years,(X),(X),39.1,+/-7.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",127,With related children of the householder under 5 years only,(X),(X),41.7,+/-18.4
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",127.3,,,,,
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",128,All people,(X),(X),12.2,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",129,Under 18 years,(X),(X),15.1,+/-2.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",130,Related children of the householder under 18 years,(X),(X),14.9,+/-2.1
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",131,Related children of the householder under 5 years,(X),(X),17.7,+/-3.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",132,Related children of the householder 5 to 17 years,(X),(X),14.0,+/-2.4
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",133,18 years and over,(X),(X),11.2,+/-0.7
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",134,18 to 64 years,(X),(X),12.1,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",135,65 years and over,(X),(X),8.4,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",136,People in families,(X),(X),8.8,+/-0.9
+DP03,5001800US2906,"Congressional District 6 (118th Congress), Missouri",137,Unrelated individuals 15 years and over,(X),(X),27.0,+/-1.6
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",0.5,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",1,Population 16 years and over,"620,194","+/-2,875","620,194",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",2,In labor force,"379,186","+/-5,394",61.1,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",3,Civilian labor force,"378,053","+/-5,436",61.0,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",4,Employed,"363,287","+/-6,182",58.6,+/-1.0
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",5,Unemployed,"14,766","+/-2,437",2.4,+/-0.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",6,Armed Forces,"1,133",+/-753,0.2,+/-0.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",7,Not in labor force,"241,008","+/-5,312",38.9,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",7.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",8,Civilian labor force,"378,053","+/-5,436","378,053",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",9,Unemployment Rate,(X),(X),3.9,+/-0.7
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",9.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",10,Females 16 years and over,"319,302","+/-2,176","319,302",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",11,In labor force,"179,548","+/-4,165",56.2,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",12,Civilian labor force,"179,548","+/-4,165",56.2,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",13,Employed,"172,153","+/-4,552",53.9,+/-1.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",13.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",14,Own children of the householder under 6 years,"50,979","+/-2,202","50,979",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",15,All parents in family in labor force,"32,448","+/-3,203",63.6,+/-5.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",15.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",16,Own children of the householder 6 to 17 years,"113,197","+/-2,856","113,197",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",17,All parents in family in labor force,"72,931","+/-4,285",64.4,+/-3.5
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",17.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",18,Workers 16 years and over,"356,257","+/-6,594","356,257",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",19,"Car, truck, or van -- drove alone","268,694","+/-7,881",75.4,+/-1.7
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",20,"Car, truck, or van -- carpooled","33,112","+/-3,725",9.3,+/-1.0
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",21,Public transportation (excluding taxicab),865,+/-495,0.2,+/-0.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",22,Walked,"9,366","+/-2,706",2.6,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",23,Other means,"3,969","+/-1,100",1.1,+/-0.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",24,Worked from home,"40,251","+/-3,993",11.3,+/-1.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",24.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",25,Mean travel time to work (minutes),21.5,+/-0.7,(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",25.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",25.5,OCCUPATION,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",26,Civilian employed population 16 years and over,"363,287","+/-6,182","363,287",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",27,"Management, business, science, and arts occupations","139,670","+/-6,677",38.4,+/-1.7
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",28,Service occupations,"54,860","+/-4,880",15.1,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",29,Sales and office occupations,"79,234","+/-4,718",21.8,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",30,"Natural resources, construction, and maintenance occupations","29,881","+/-3,057",8.2,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",31,"Production, transportation, and material moving occupations","59,642","+/-4,800",16.4,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",31.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",31.5,INDUSTRY,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",32,Civilian employed population 16 years and over,"363,287","+/-6,182","363,287",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",33,"Agriculture, forestry, fishing and hunting, and mining","6,314","+/-1,608",1.7,+/-0.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",34,Construction,"22,212","+/-3,136",6.1,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",35,Manufacturing,"44,184","+/-3,657",12.2,+/-1.0
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",36,Wholesale trade,"7,150","+/-1,479",2.0,+/-0.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",37,Retail trade,"50,451","+/-4,314",13.9,+/-1.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",38,"Transportation and warehousing, and utilities","24,462","+/-2,928",6.7,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",39,Information,"4,171","+/-1,118",1.1,+/-0.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",40,"Finance and insurance, and real estate and rental and leasing","18,534","+/-2,188",5.1,+/-0.6
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",41,"Professional, scientific, and management, and administrative and waste management services","34,374","+/-3,626",9.5,+/-1.0
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",42,"Educational services, and health care and social assistance","91,351","+/-5,409",25.1,+/-1.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",43,"Arts, entertainment, and recreation, and accommodation and food services","31,401","+/-3,316",8.6,+/-0.9
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",44,"Other services, except public administration","19,045","+/-2,805",5.2,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",45,Public administration,"9,638","+/-1,842",2.7,+/-0.5
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",45.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",46,Civilian employed population 16 years and over,"363,287","+/-6,182","363,287",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",47,Private wage and salary workers,"295,372","+/-7,307",81.3,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",48,Government workers,"42,322","+/-3,652",11.6,+/-1.0
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",49,Self-employed in own not incorporated business workers,"24,226","+/-3,233",6.7,+/-0.9
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",50,Unpaid family workers,"1,367",+/-795,0.4,+/-0.2
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",50.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",51,Total households,"311,029","+/-3,747","311,029",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",52,"Less than $10,000","18,803","+/-2,495",6.0,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",53,"$10,000 to $14,999","13,439","+/-2,234",4.3,+/-0.7
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",54,"$15,000 to $24,999","30,506","+/-2,700",9.8,+/-0.9
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",55,"$25,000 to $34,999","33,452","+/-3,109",10.8,+/-1.0
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",56,"$35,000 to $49,999","45,737","+/-3,886",14.7,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",57,"$50,000 to $74,999","61,351","+/-3,540",19.7,+/-1.2
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",58,"$75,000 to $99,999","40,871","+/-3,562",13.1,+/-1.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",59,"$100,000 to $149,999","37,774","+/-2,942",12.1,+/-0.9
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",60,"$150,000 to $199,999","14,883","+/-1,976",4.8,+/-0.6
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",61,"$200,000 or more","14,213","+/-2,144",4.6,+/-0.7
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",62,Median household income (dollars),"54,711","+/-1,757",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",63,Mean household income (dollars),"75,760","+/-2,831",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",63.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",64,With earnings,"233,619","+/-4,355",75.1,+/-1.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",65,Mean earnings (dollars),"75,761","+/-3,158",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",66,With Social Security,"109,237","+/-2,863",35.1,+/-0.9
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",67,Mean Social Security income (dollars),"20,764",+/-600,(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",68,With retirement income,"75,673","+/-3,621",24.3,+/-1.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",69,Mean retirement income (dollars),"22,489","+/-1,762",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",69.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",70,With Supplemental Security Income,"14,310","+/-2,163",4.6,+/-0.7
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",71,Mean Supplemental Security Income (dollars),"10,163","+/-1,046",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",72,With cash public assistance income,"5,953","+/-1,251",1.9,+/-0.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",73,Mean cash public assistance income (dollars),"3,410",+/-648,(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",74,With Food Stamp/SNAP benefits in the past 12 months,"32,257","+/-2,874",10.4,+/-0.9
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",74.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",75,Families,"198,392","+/-5,554","198,392",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",76,"Less than $10,000","6,287","+/-1,199",3.2,+/-0.6
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",77,"$10,000 to $14,999","4,396","+/-1,358",2.2,+/-0.7
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",78,"$15,000 to $24,999","11,500","+/-1,675",5.8,+/-0.9
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",79,"$25,000 to $34,999","17,351","+/-2,587",8.7,+/-1.2
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",80,"$35,000 to $49,999","25,682","+/-3,004",12.9,+/-1.5
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",81,"$50,000 to $74,999","41,347","+/-3,300",20.8,+/-1.6
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",82,"$75,000 to $99,999","33,545","+/-3,243",16.9,+/-1.5
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",83,"$100,000 to $149,999","32,630","+/-3,078",16.4,+/-1.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",84,"$150,000 to $199,999","13,199","+/-1,740",6.7,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",85,"$200,000 or more","12,455","+/-1,990",6.3,+/-1.0
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",86,Median family income (dollars),"69,640","+/-2,624",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",87,Mean family income (dollars),"91,938","+/-3,987",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",87.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",88,Per capita income (dollars),"30,612","+/-1,203",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",88.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",89,Nonfamily households,"112,637","+/-4,568","112,637",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",90,Median nonfamily income (dollars),"31,743","+/-2,034",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",91,Mean nonfamily income (dollars),"44,485","+/-2,613",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",91.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",92,Median earnings for workers (dollars),"31,884",+/-742,(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",93,"Median earnings for male full-time, year-round workers (dollars)","50,058","+/-2,731",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",94,"Median earnings for female full-time, year-round workers (dollars)","37,865","+/-1,537",(X),(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",94.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",95,Civilian noninstitutionalized population,"766,932","+/-3,670","766,932",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",96,With health insurance coverage,"675,831","+/-6,171",88.1,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",97,With private health insurance,"492,603","+/-9,453",64.2,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",98,With public coverage,"277,099","+/-8,894",36.1,+/-1.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",99,No health insurance coverage,"91,101","+/-6,443",11.9,+/-0.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",99.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",100,Civilian noninstitutionalized population under 19 years,"184,815","+/-2,604","184,815",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",101,No health insurance coverage,"13,089","+/-2,800",7.1,+/-1.5
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",101.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",102,Civilian noninstitutionalized population 19 to 64 years,"445,754","+/-3,045","445,754",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",103,In labor force:,"340,352","+/-5,209","340,352",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",104,Employed:,"327,898","+/-6,113","327,898",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",105,With health insurance coverage,"277,647","+/-6,483",84.7,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",106,With private health insurance,"260,805","+/-6,828",79.5,+/-1.5
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",107,With public coverage,"24,830","+/-3,475",7.6,+/-1.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",108,No health insurance coverage,"50,251","+/-4,472",15.3,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",109,Unemployed:,"12,454","+/-2,367","12,454",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",110,With health insurance coverage,"7,024","+/-1,859",56.4,+/-8.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",111,With private health insurance,"5,195","+/-1,340",41.7,+/-8.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",112,With public coverage,"2,054","+/-1,106",16.5,+/-7.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",113,No health insurance coverage,"5,430","+/-1,343",43.6,+/-8.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",114,Not in labor force:,"105,402","+/-4,982","105,402",(X)
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",115,With health insurance coverage,"83,540","+/-4,361",79.3,+/-2.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",116,With private health insurance,"49,822","+/-3,543",47.3,+/-2.9
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",117,With public coverage,"40,707","+/-3,444",38.6,+/-2.6
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",118,No health insurance coverage,"21,862","+/-2,541",20.7,+/-2.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",118.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",119,All families,(X),(X),9.5,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",120,With related children of the householder under 18 years,(X),(X),14.7,+/-2.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",121,With related children of the householder under 5 years only,(X),(X),17.1,+/-5.6
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",122,Married couple families,(X),(X),5.5,+/-1.0
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",123,With related children of the householder under 18 years,(X),(X),8.5,+/-2.2
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",124,With related children of the householder under 5 years only,(X),(X),7.0,+/-3.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",125,"Families with female householder, no spouse present",(X),(X),28.6,+/-5.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",126,With related children of the householder under 18 years,(X),(X),33.4,+/-6.7
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",127,With related children of the householder under 5 years only,(X),(X),41.7,+/-15.6
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",127.3,,,,,
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",128,All people,(X),(X),14.8,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",129,Under 18 years,(X),(X),18.1,+/-2.8
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",130,Related children of the householder under 18 years,(X),(X),17.6,+/-2.7
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",131,Related children of the householder under 5 years,(X),(X),21.7,+/-4.5
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",132,Related children of the householder 5 to 17 years,(X),(X),16.2,+/-2.9
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",133,18 years and over,(X),(X),13.9,+/-1.1
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",134,18 to 64 years,(X),(X),15.1,+/-1.3
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",135,65 years and over,(X),(X),10.0,+/-1.4
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",136,People in families,(X),(X),11.1,+/-1.5
+DP03,5001800US2907,"Congressional District 7 (118th Congress), Missouri",137,Unrelated individuals 15 years and over,(X),(X),29.1,+/-2.3
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",0.5,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",1,Population 16 years and over,"618,895","+/-4,472","618,895",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",2,In labor force,"354,364","+/-6,353",57.3,+/-0.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",3,Civilian labor force,"353,589","+/-6,397",57.1,+/-0.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",4,Employed,"338,484","+/-6,730",54.7,+/-1.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",5,Unemployed,"15,105","+/-2,386",2.4,+/-0.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",6,Armed Forces,775,+/-599,0.1,+/-0.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",7,Not in labor force,"264,531","+/-5,524",42.7,+/-0.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",7.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",8,Civilian labor force,"353,589","+/-6,397","353,589",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",9,Unemployment Rate,(X),(X),4.3,+/-0.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",9.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",10,Females 16 years and over,"310,279","+/-2,723","310,279",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",11,In labor force,"165,348","+/-4,548",53.3,+/-1.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",12,Civilian labor force,"165,348","+/-4,548",53.3,+/-1.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",13,Employed,"157,900","+/-4,980",50.9,+/-1.5
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",13.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",14,Own children of the householder under 6 years,"50,561","+/-2,371","50,561",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",15,All parents in family in labor force,"34,049","+/-2,954",67.3,+/-5.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",15.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",16,Own children of the householder 6 to 17 years,"108,569","+/-3,750","108,569",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",17,All parents in family in labor force,"78,439","+/-4,515",72.2,+/-2.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",17.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",18,Workers 16 years and over,"331,654","+/-6,995","331,654",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",19,"Car, truck, or van -- drove alone","267,146","+/-6,236",80.5,+/-1.2
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",20,"Car, truck, or van -- carpooled","30,017","+/-3,056",9.1,+/-0.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",21,Public transportation (excluding taxicab),676,+/-541,0.2,+/-0.2
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",22,Walked,"4,494","+/-1,202",1.4,+/-0.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",23,Other means,"3,009",+/-772,0.9,+/-0.2
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",24,Worked from home,"26,312","+/-3,116",7.9,+/-0.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",24.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",25,Mean travel time to work (minutes),23.8,+/-0.8,(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",25.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",25.5,OCCUPATION,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",26,Civilian employed population 16 years and over,"338,484","+/-6,730","338,484",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",27,"Management, business, science, and arts occupations","108,310","+/-5,697",32.0,+/-1.6
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",28,Service occupations,"56,754","+/-4,554",16.8,+/-1.3
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",29,Sales and office occupations,"71,107","+/-4,862",21.0,+/-1.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",30,"Natural resources, construction, and maintenance occupations","39,258","+/-2,812",11.6,+/-0.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",31,"Production, transportation, and material moving occupations","63,055","+/-4,043",18.6,+/-1.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",31.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",31.5,INDUSTRY,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",32,Civilian employed population 16 years and over,"338,484","+/-6,730","338,484",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",33,"Agriculture, forestry, fishing and hunting, and mining","11,073","+/-1,375",3.3,+/-0.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",34,Construction,"24,853","+/-2,870",7.3,+/-0.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",35,Manufacturing,"47,014","+/-4,173",13.9,+/-1.2
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",36,Wholesale trade,"9,623","+/-1,822",2.8,+/-0.5
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",37,Retail trade,"48,804","+/-3,525",14.4,+/-1.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",38,"Transportation and warehousing, and utilities","17,345","+/-1,856",5.1,+/-0.6
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",39,Information,"3,740",+/-917,1.1,+/-0.3
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",40,"Finance and insurance, and real estate and rental and leasing","15,764","+/-2,470",4.7,+/-0.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",41,"Professional, scientific, and management, and administrative and waste management services","18,691","+/-2,184",5.5,+/-0.6
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",42,"Educational services, and health care and social assistance","81,770","+/-4,097",24.2,+/-1.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",43,"Arts, entertainment, and recreation, and accommodation and food services","27,672","+/-2,771",8.2,+/-0.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",44,"Other services, except public administration","15,916","+/-2,872",4.7,+/-0.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",45,Public administration,"16,219","+/-2,268",4.8,+/-0.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",45.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",46,Civilian employed population 16 years and over,"338,484","+/-6,730","338,484",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",47,Private wage and salary workers,"266,554","+/-6,754",78.7,+/-1.3
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",48,Government workers,"50,452","+/-4,186",14.9,+/-1.2
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",49,Self-employed in own not incorporated business workers,"20,429","+/-2,215",6.0,+/-0.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",50,Unpaid family workers,"1,049",+/-467,0.3,+/-0.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",50.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",51,Total households,"299,215","+/-4,364","299,215",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",52,"Less than $10,000","20,832","+/-2,342",7.0,+/-0.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",53,"$10,000 to $14,999","17,865","+/-2,170",6.0,+/-0.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",54,"$15,000 to $24,999","33,566","+/-2,937",11.2,+/-1.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",55,"$25,000 to $34,999","29,478","+/-2,226",9.9,+/-0.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",56,"$35,000 to $49,999","40,485","+/-3,145",13.5,+/-1.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",57,"$50,000 to $74,999","58,663","+/-3,570",19.6,+/-1.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",58,"$75,000 to $99,999","35,370","+/-2,394",11.8,+/-0.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",59,"$100,000 to $149,999","38,670","+/-3,053",12.9,+/-1.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",60,"$150,000 to $199,999","14,031","+/-1,897",4.7,+/-0.6
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",61,"$200,000 or more","10,255","+/-1,608",3.4,+/-0.5
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",62,Median household income (dollars),"52,952","+/-1,531",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",63,Mean household income (dollars),"69,299","+/-2,032",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",63.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",64,With earnings,"211,509","+/-4,649",70.7,+/-1.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",65,Mean earnings (dollars),"72,307","+/-2,106",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",66,With Social Security,"116,127","+/-3,060",38.8,+/-0.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",67,Mean Social Security income (dollars),"19,274",+/-473,(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",68,With retirement income,"75,825","+/-2,980",25.3,+/-1.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",69,Mean retirement income (dollars),"20,998","+/-1,061",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",69.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",70,With Supplemental Security Income,"19,980","+/-2,176",6.7,+/-0.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",71,Mean Supplemental Security Income (dollars),"10,112",+/-856,(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",72,With cash public assistance income,"5,616","+/-1,310",1.9,+/-0.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",73,Mean cash public assistance income (dollars),"5,598","+/-1,712",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",74,With Food Stamp/SNAP benefits in the past 12 months,"43,585","+/-3,264",14.6,+/-1.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",74.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",75,Families,"196,228","+/-5,811","196,228",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",76,"Less than $10,000","7,682","+/-1,409",3.9,+/-0.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",77,"$10,000 to $14,999","4,460","+/-1,118",2.3,+/-0.6
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",78,"$15,000 to $24,999","13,602","+/-1,999",6.9,+/-1.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",79,"$25,000 to $34,999","15,523","+/-1,935",7.9,+/-0.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",80,"$35,000 to $49,999","27,119","+/-2,807",13.8,+/-1.3
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",81,"$50,000 to $74,999","44,423","+/-3,172",22.6,+/-1.5
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",82,"$75,000 to $99,999","28,168","+/-2,403",14.4,+/-1.2
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",83,"$100,000 to $149,999","34,360","+/-2,875",17.5,+/-1.5
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",84,"$150,000 to $199,999","12,047","+/-1,655",6.1,+/-0.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",85,"$200,000 or more","8,844","+/-1,464",4.5,+/-0.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",86,Median family income (dollars),"66,082","+/-2,069",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",87,Mean family income (dollars),"82,947","+/-2,774",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",87.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",88,Per capita income (dollars),"27,332",+/-748,(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",88.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",89,Nonfamily households,"102,987","+/-4,598","102,987",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",90,Median nonfamily income (dollars),"26,552","+/-1,636",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",91,Mean nonfamily income (dollars),"38,855","+/-2,620",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",91.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",92,Median earnings for workers (dollars),"33,025","+/-1,058",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",93,"Median earnings for male full-time, year-round workers (dollars)","50,067","+/-1,460",(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",94,"Median earnings for female full-time, year-round workers (dollars)","36,116",+/-811,(X),(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",94.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",95,Civilian noninstitutionalized population,"755,854","+/-6,219","755,854",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",96,With health insurance coverage,"672,310","+/-8,014",88.9,+/-0.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",97,With private health insurance,"470,433","+/-11,519",62.2,+/-1.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",98,With public coverage,"296,311","+/-7,967",39.2,+/-1.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",99,No health insurance coverage,"83,544","+/-5,712",11.1,+/-0.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",99.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",100,Civilian noninstitutionalized population under 19 years,"184,285","+/-3,182","184,285",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",101,No health insurance coverage,"10,735","+/-2,659",5.8,+/-1.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",101.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",102,Civilian noninstitutionalized population 19 to 64 years,"434,790","+/-4,764","434,790",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",103,In labor force:,"322,220","+/-5,606","322,220",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",104,Employed:,"307,992","+/-6,184","307,992",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",105,With health insurance coverage,"263,341","+/-7,002",85.5,+/-1.3
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",106,With private health insurance,"247,423","+/-7,512",80.3,+/-1.5
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",107,With public coverage,"24,321","+/-2,888",7.9,+/-1.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",108,No health insurance coverage,"44,651","+/-3,919",14.5,+/-1.3
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",109,Unemployed:,"14,228","+/-2,303","14,228",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",110,With health insurance coverage,"9,043","+/-1,657",63.6,+/-6.6
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",111,With private health insurance,"4,536","+/-1,295",31.9,+/-7.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",112,With public coverage,"4,854","+/-1,334",34.1,+/-7.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",113,No health insurance coverage,"5,185","+/-1,331",36.4,+/-6.6
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",114,Not in labor force:,"112,570","+/-4,462","112,570",(X)
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",115,With health insurance coverage,"90,165","+/-4,617",80.1,+/-2.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",116,With private health insurance,"46,669","+/-3,184",41.5,+/-2.5
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",117,With public coverage,"53,056","+/-3,856",47.1,+/-2.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",118,No health insurance coverage,"22,405","+/-2,782",19.9,+/-2.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",118.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",119,All families,(X),(X),10.7,+/-1.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",120,With related children of the householder under 18 years,(X),(X),17.8,+/-2.4
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",121,With related children of the householder under 5 years only,(X),(X),16.1,+/-4.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",122,Married couple families,(X),(X),5.6,+/-0.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",123,With related children of the householder under 18 years,(X),(X),7.4,+/-2.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",124,With related children of the householder under 5 years only,(X),(X),5.6,+/-4.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",125,"Families with female householder, no spouse present",(X),(X),33.2,+/-5.1
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",126,With related children of the householder under 18 years,(X),(X),45.6,+/-6.7
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",127,With related children of the householder under 5 years only,(X),(X),50.4,+/-16.3
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",127.3,,,,,
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",128,All people,(X),(X),15.5,+/-1.2
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",129,Under 18 years,(X),(X),20.4,+/-2.8
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",130,Related children of the householder under 18 years,(X),(X),20.2,+/-2.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",131,Related children of the householder under 5 years,(X),(X),20.7,+/-4.2
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",132,Related children of the householder 5 to 17 years,(X),(X),20.0,+/-2.9
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",133,18 years and over,(X),(X),14.1,+/-1.0
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",134,18 to 64 years,(X),(X),14.7,+/-1.2
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",135,65 years and over,(X),(X),12.3,+/-1.6
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",136,People in families,(X),(X),11.8,+/-1.3
+DP03,5001800US2908,"Congressional District 8 (118th Congress), Missouri",137,Unrelated individuals 15 years and over,(X),(X),31.0,+/-2.1

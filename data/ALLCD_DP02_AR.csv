@@ -1,0 +1,801 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",0.5,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",1,Total households,"288,862","+/-3,653","288,862",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",2,Married-couple household,"131,088","+/-5,012",45.4,+/-1.6
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",3,With children of the householder under 18 years,"47,437","+/-2,927",16.4,+/-1.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",4,Cohabiting couple household,"19,154","+/-2,558",6.6,+/-0.9
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",5,With children of the householder under 18 years,"6,915","+/-1,550",2.4,+/-0.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",6,"Male householder, no spouse/partner present","53,264","+/-2,862",18.4,+/-1.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",7,With children of the householder under 18 years,"4,662","+/-1,314",1.6,+/-0.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",8,Householder living alone,"38,202","+/-2,858",13.2,+/-1.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",9,65 years and over,"13,838","+/-1,645",4.8,+/-0.6
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",10,"Female householder, no spouse/partner present","85,356","+/-3,626",29.5,+/-1.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",11,With children of the householder under 18 years,"17,783","+/-2,177",6.2,+/-0.8
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",12,Householder living alone,"47,888","+/-2,877",16.6,+/-1.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",13,65 years and over,"25,815","+/-1,870",8.9,+/-0.6
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",13.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",14,Households with one or more people under 18 years,"90,109","+/-3,783",31.2,+/-1.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",15,Households with one or more people 65 years and over,"100,737","+/-2,806",34.9,+/-0.9
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",15.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",16,Average household size,2.54,+/-0.03,(X),(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",17,Average family size,3.15,+/-0.07,(X),(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",17.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",17.5,RELATIONSHIP,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",18,Population in households,"732,373","+/-6,202","732,373",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",19,Householder,"288,862","+/-3,653",39.4,+/-0.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",20,Spouse,"132,023","+/-5,025",18.0,+/-0.7
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",21,Unmarried partner,"18,377","+/-2,505",2.5,+/-0.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",22,Child,"212,437","+/-6,877",29.0,+/-0.9
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",23,Other relatives,"60,723","+/-5,432",8.3,+/-0.7
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",24,Other nonrelatives,"19,951","+/-3,188",2.7,+/-0.4
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",24.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",24.5,MARITAL STATUS,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",25,Males 15 years and over,"298,054","+/-3,305","298,054",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",26,Never married,"92,500","+/-4,264",31.0,+/-1.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",27,"Now married, except separated","139,249","+/-5,388",46.7,+/-1.8
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",28,Separated,"8,710","+/-1,847",2.9,+/-0.6
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",29,Widowed,"11,038","+/-1,631",3.7,+/-0.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",30,Divorced,"46,557","+/-3,846",15.6,+/-1.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",30.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",31,Females 15 years and over,"309,515","+/-2,818","309,515",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",32,Never married,"75,903","+/-3,918",24.5,+/-1.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",33,"Now married, except separated","140,351","+/-5,171",45.3,+/-1.7
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",34,Separated,"8,793","+/-1,592",2.8,+/-0.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",35,Widowed,"35,259","+/-2,731",11.4,+/-0.9
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",36,Divorced,"49,209","+/-3,962",15.9,+/-1.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",36.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",36.5,FERTILITY,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,040","+/-1,455","8,040",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",38,"Unmarried women (widowed, divorced, and never married)","3,384","+/-1,173",42.1,+/-10.7
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",39,"Per 1,000 unmarried women",39,+/-14,(X),(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",40,"Per 1,000 women 15 to 50 years old",50,+/-9,(X),(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",41,"Per 1,000 women 15 to 19 years old",10,+/-9,(X),(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",42,"Per 1,000 women 20 to 34 years old",106,+/-20,(X),(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",43,"Per 1,000 women 35 to 50 years old",12,+/-6,(X),(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",43.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",43.5,GRANDPARENTS,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",44,Number of grandparents living with own grandchildren under 18 years,"21,347","+/-2,719","21,347",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",45,Grandparents responsible for grandchildren,"11,599","+/-2,031",54.3,+/-7.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",46,Less than 1 year,"2,187","+/-1,212",10.2,+/-5.4
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",47,1 or 2 years,"2,438","+/-1,074",11.4,+/-4.8
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",48,3 or 4 years,"1,504",+/-482,7.0,+/-2.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",49,5 or more years,"5,470","+/-1,490",25.6,+/-6.7
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",49.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",50,Number of grandparents responsible for own grandchildren under 18 years,"11,599","+/-2,031","11,599",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",51,Who are female,"7,780","+/-1,413",67.1,+/-4.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",52,Who are married,"7,757","+/-1,758",66.9,+/-7.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",52.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",53,Population 3 years and over enrolled in school,"167,574","+/-4,976","167,574",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",54,"Nursery school, preschool","9,404","+/-1,822",5.6,+/-1.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",55,Kindergarten,"8,472","+/-1,738",5.1,+/-1.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",56,Elementary school (grades 1-8),"77,592","+/-3,123",46.3,+/-1.6
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",57,High school (grades 9-12),"40,925","+/-2,396",24.4,+/-1.4
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",58,College or graduate school,"31,181","+/-3,127",18.6,+/-1.6
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",58.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",59,Population 25 years and over,"514,142","+/-4,336","514,142",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",60,Less than 9th grade,"24,099","+/-2,707",4.7,+/-0.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",61,"9th to 12th grade, no diploma","46,237","+/-3,831",9.0,+/-0.7
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",62,High school graduate (includes equivalency),"186,515","+/-6,496",36.3,+/-1.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",63,"Some college, no degree","117,420","+/-5,323",22.8,+/-1.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",64,Associate's degree,"45,298","+/-3,296",8.8,+/-0.7
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",65,Bachelor's degree,"62,609","+/-3,892",12.2,+/-0.8
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",66,Graduate or professional degree,"31,964","+/-3,458",6.2,+/-0.7
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",66.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",67,High school graduate or higher,"443,806","+/-5,548",86.3,+/-0.8
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",68,Bachelor's degree or higher,"94,573","+/-5,177",18.4,+/-1.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",68.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",68.5,VETERAN STATUS,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",69,Civilian population 18 years and over,"574,335","+/-4,260","574,335",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",70,Civilian veterans,"44,705","+/-2,893",7.8,+/-0.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",70.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",71,Total Civilian Noninstitutionalized Population,"733,570","+/-6,285","733,570",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",72,With a disability,"156,215","+/-6,835",21.3,+/-0.9
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",72.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",73,Under 18 years,"176,485","+/-3,025","176,485",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",74,With a disability,"13,813","+/-2,250",7.8,+/-1.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",74.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",75,18 to 64 years,"419,552","+/-4,643","419,552",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",76,With a disability,"80,735","+/-5,756",19.2,+/-1.4
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",76.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",77,65 years and over,"137,533","+/-2,309","137,533",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",78,With a disability,"61,667","+/-2,909",44.8,+/-2.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",78.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",79,Population 1 year and over,"745,153","+/-5,413","745,153",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",80,Same house,"637,982","+/-9,642",85.6,+/-1.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",81,Different house (in the U.S. or abroad),"107,171","+/-8,316",14.4,+/-1.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",82,Different house in the U.S.,"105,837","+/-8,242",14.2,+/-1.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",83,Same county,"60,078","+/-7,886",8.1,+/-1.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",84,Different county,"45,759","+/-4,277",6.1,+/-0.6
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",85,Same state,"25,492","+/-3,208",3.4,+/-0.4
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",86,Different state,"20,267","+/-3,203",2.7,+/-0.4
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",87,Abroad,"1,334",+/-763,0.2,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",87.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",88,Total population,"753,369","+/-5,611","753,369",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",89,Native,"740,701","+/-5,788",98.3,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",90,Born in United States,"735,979","+/-5,805",97.7,+/-0.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",91,State of residence,"501,139","+/-7,384",66.5,+/-0.9
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",92,Different state,"234,840","+/-7,117",31.2,+/-0.9
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","4,722","+/-1,217",0.6,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",94,Foreign born,"12,668","+/-1,884",1.7,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",94.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",95,Foreign-born population,"12,668","+/-1,884","12,668",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",96,Naturalized U.S. citizen,"4,642","+/-1,224",36.6,+/-7.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",97,Not a U.S. citizen,"8,026","+/-1,460",63.4,+/-7.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",97.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",98,Population born outside the United States,"17,390","+/-2,255","17,390",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",98.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",99,Native,"4,722","+/-1,217","4,722",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",100,Entered 2010 or later,408,+/-354,8.6,+/-7.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",101,Entered before 2010,"4,314","+/-1,154",91.4,+/-7.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",101.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",102,Foreign born,"12,668","+/-1,884","12,668",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",103,Entered 2010 or later,"2,730",+/-838,21.6,+/-6.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",104,Entered before 2010,"9,938","+/-1,836",78.4,+/-6.5
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",104.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",106,Europe,N,N,N,N
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",107,Asia,N,N,N,N
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",108,Africa,N,N,N,N
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",109,Oceania,N,N,N,N
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",110,Latin America,N,N,N,N
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",111,Northern America,N,N,N,N
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",111.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",112,Population 5 years and over,"708,204","+/-5,296","708,204",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",113,English only,"686,411","+/-6,089",96.9,+/-0.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",114,Language other than English,"21,793","+/-2,440",3.1,+/-0.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",115,"Speak English less than ""very well""","7,021","+/-1,285",1.0,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",116,Spanish,"15,214","+/-2,036",2.1,+/-0.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",117,"Speak English less than ""very well""","4,934","+/-1,077",0.7,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",118,Other Indo-European languages,"3,648","+/-1,302",0.5,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",119,"Speak English less than ""very well""",855,+/-618,0.1,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",120,Asian and Pacific Islander languages,"2,559","+/-1,101",0.4,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",121,"Speak English less than ""very well""","1,121",+/-519,0.2,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",122,Other languages,372,+/-366,0.1,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",123,"Speak English less than ""very well""",111,+/-132,0.0,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",123.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",123.5,ANCESTRY,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",124,Total population,"753,369","+/-5,611","753,369",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",125,American,"74,792","+/-6,993",9.9,+/-0.9
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",126,Arab,592,+/-450,0.1,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",127,Czech,"1,835","+/-1,064",0.2,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",128,Danish,871,+/-636,0.1,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",129,Dutch,"4,984","+/-1,374",0.7,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",130,English,"87,829","+/-7,624",11.7,+/-1.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",131,French (except Basque),"9,750","+/-2,105",1.3,+/-0.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",132,French Canadian,915,+/-594,0.1,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",133,German,"81,359","+/-6,867",10.8,+/-0.9
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",134,Greek,221,+/-246,0.0,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",135,Hungarian,283,+/-218,0.0,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",136,Irish,"88,476","+/-7,790",11.7,+/-1.0
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",137,Italian,"9,376","+/-2,206",1.2,+/-0.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",138,Lithuanian,108,+/-153,0.0,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",139,Norwegian,"2,281","+/-1,108",0.3,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",140,Polish,"8,376","+/-2,082",1.1,+/-0.3
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",141,Portuguese,416,+/-482,0.1,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",142,Russian,668,+/-515,0.1,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",143,Scotch-Irish,"6,937","+/-1,749",0.9,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",144,Scottish,"9,374","+/-1,800",1.2,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",145,Slovak,395,+/-325,0.1,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",146,Subsaharan African,"1,973","+/-1,054",0.3,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",147,Swedish,"2,573","+/-1,305",0.3,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",148,Swiss,823,+/-447,0.1,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",149,Ukrainian,84,+/-119,0.0,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",150,Welsh,"3,260","+/-1,142",0.4,+/-0.2
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",151,West Indian (excluding Hispanic origin groups),91,+/-95,0.0,+/-0.1
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",151.3,,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",152,Total households,"288,862","+/-3,653","288,862",(X)
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",153,With a computer,"260,732","+/-3,867",90.3,+/-0.8
+DP02,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",154,With a broadband Internet subscription,"238,764","+/-4,578",82.7,+/-1.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",0.5,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",1,Total households,"314,244","+/-3,820","314,244",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",2,Married-couple household,"151,790","+/-5,021",48.3,+/-1.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",3,With children of the householder under 18 years,"57,751","+/-3,850",18.4,+/-1.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",4,Cohabiting couple household,"21,785","+/-3,249",6.9,+/-1.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",5,With children of the householder under 18 years,"6,886","+/-2,017",2.2,+/-0.6
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",6,"Male householder, no spouse/partner present","51,586","+/-3,831",16.4,+/-1.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",7,With children of the householder under 18 years,"4,364","+/-1,421",1.4,+/-0.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",8,Householder living alone,"38,914","+/-3,739",12.4,+/-1.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",9,65 years and over,"9,594","+/-1,341",3.1,+/-0.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",10,"Female householder, no spouse/partner present","89,083","+/-3,713",28.3,+/-1.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",11,With children of the householder under 18 years,"17,104","+/-2,271",5.4,+/-0.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",12,Householder living alone,"50,827","+/-3,842",16.2,+/-1.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",13,65 years and over,"21,722","+/-2,235",6.9,+/-0.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",13.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",14,Households with one or more people under 18 years,"95,193","+/-4,567",30.3,+/-1.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",15,Households with one or more people 65 years and over,"90,037","+/-2,300",28.7,+/-0.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",15.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",16,Average household size,2.37,+/-0.03,(X),(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",17,Average family size,2.93,+/-0.06,(X),(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",17.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",17.5,RELATIONSHIP,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",18,Population in households,"743,489","+/-6,237","743,489",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",19,Householder,"314,244","+/-3,820",42.3,+/-0.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",20,Spouse,"152,113","+/-4,978",20.5,+/-0.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",21,Unmarried partner,"21,678","+/-3,227",2.9,+/-0.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",22,Child,"204,417","+/-6,316",27.5,+/-0.8
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",23,Other relatives,"36,387","+/-4,416",4.9,+/-0.6
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",24,Other nonrelatives,"14,650","+/-2,955",2.0,+/-0.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",24.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",24.5,MARITAL STATUS,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",25,Males 15 years and over,"295,081","+/-3,064","295,081",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",26,Never married,"94,481","+/-5,023",32.0,+/-1.6
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",27,"Now married, except separated","159,444","+/-5,648",54.0,+/-2.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",28,Separated,"3,449","+/-1,033",1.2,+/-0.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",29,Widowed,"6,114","+/-1,291",2.1,+/-0.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",30,Divorced,"31,593","+/-3,555",10.7,+/-1.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",30.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",31,Females 15 years and over,"321,865","+/-2,905","321,865",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",32,Never married,"87,781","+/-4,385",27.3,+/-1.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",33,"Now married, except separated","156,970","+/-5,176",48.8,+/-1.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",34,Separated,"7,806","+/-1,650",2.4,+/-0.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",35,Widowed,"26,467","+/-2,375",8.2,+/-0.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",36,Divorced,"42,841","+/-2,948",13.3,+/-0.9
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",36.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",36.5,FERTILITY,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,715","+/-2,094","9,715",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",38,"Unmarried women (widowed, divorced, and never married)","2,360","+/-1,002",24.3,+/-8.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",39,"Per 1,000 unmarried women",25,+/-10,(X),(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",40,"Per 1,000 women 15 to 50 years old",53,+/-11,(X),(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",41,"Per 1,000 women 15 to 19 years old",12,+/-12,(X),(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",42,"Per 1,000 women 20 to 34 years old",96,+/-21,(X),(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",43,"Per 1,000 women 35 to 50 years old",23,+/-11,(X),(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",43.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",43.5,GRANDPARENTS,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",44,Number of grandparents living with own grandchildren under 18 years,"14,179","+/-2,469","14,179",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",45,Grandparents responsible for grandchildren,"6,681","+/-1,514",47.1,+/-8.6
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",46,Less than 1 year,"1,332",+/-629,9.4,+/-4.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",47,1 or 2 years,973,+/-726,6.9,+/-5.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",48,3 or 4 years,883,+/-611,6.2,+/-4.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",49,5 or more years,"3,493","+/-1,238",24.6,+/-7.9
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",49.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",50,Number of grandparents responsible for own grandchildren under 18 years,"6,681","+/-1,514","6,681",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",51,Who are female,"3,948",+/-999,59.1,+/-8.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",52,Who are married,"4,058","+/-1,357",60.7,+/-12.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",52.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",53,Population 3 years and over enrolled in school,"175,681","+/-5,386","175,681",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",54,"Nursery school, preschool","11,338","+/-2,249",6.5,+/-1.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",55,Kindergarten,"10,154","+/-2,371",5.8,+/-1.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",56,Elementary school (grades 1-8),"76,320","+/-3,304",43.4,+/-1.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",57,High school (grades 9-12),"34,370","+/-2,263",19.6,+/-1.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",58,College or graduate school,"43,499","+/-3,926",24.8,+/-1.8
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",58.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",59,Population 25 years and over,"515,876","+/-4,371","515,876",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",60,Less than 9th grade,"15,595","+/-2,490",3.0,+/-0.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",61,"9th to 12th grade, no diploma","25,565","+/-3,287",5.0,+/-0.6
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",62,High school graduate (includes equivalency),"149,516","+/-5,563",29.0,+/-1.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",63,"Some college, no degree","111,847","+/-5,148",21.7,+/-1.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",64,Associate's degree,"41,983","+/-3,544",8.1,+/-0.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",65,Bachelor's degree,"102,557","+/-5,054",19.9,+/-1.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",66,Graduate or professional degree,"68,813","+/-4,419",13.3,+/-0.9
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",66.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",67,High school graduate or higher,"474,716","+/-5,306",92.0,+/-0.8
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",68,Bachelor's degree or higher,"171,370","+/-6,818",33.2,+/-1.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",68.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",68.5,VETERAN STATUS,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",69,Civilian population 18 years and over,"584,359","+/-4,576","584,359",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",70,Civilian veterans,"46,323","+/-2,935",7.9,+/-0.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",70.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",71,Total Civilian Noninstitutionalized Population,"748,209","+/-6,313","748,209",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",72,With a disability,"118,241","+/-5,621",15.8,+/-0.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",72.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",73,Under 18 years,"169,746","+/-2,934","169,746",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",74,With a disability,"10,747","+/-2,239",6.3,+/-1.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",74.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",75,18 to 64 years,"453,033","+/-4,204","453,033",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",76,With a disability,"61,834","+/-4,338",13.6,+/-0.9
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",76.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",77,65 years and over,"125,430","+/-2,150","125,430",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",78,With a disability,"45,660","+/-3,314",36.4,+/-2.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",78.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",79,Population 1 year and over,"750,862","+/-6,377","750,862",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",80,Same house,"645,164","+/-11,721",85.9,+/-1.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",81,Different house (in the U.S. or abroad),"105,698","+/-9,863",14.1,+/-1.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",82,Different house in the U.S.,"103,864","+/-9,769",13.8,+/-1.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",83,Same county,"63,936","+/-7,933",8.5,+/-1.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",84,Different county,"39,928","+/-5,717",5.3,+/-0.8
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",85,Same state,"21,453","+/-3,815",2.9,+/-0.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",86,Different state,"18,475","+/-4,017",2.5,+/-0.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",87,Abroad,"1,834",+/-918,0.2,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",87.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",88,Total population,"758,976","+/-6,168","758,976",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",89,Native,"731,156","+/-6,272",96.3,+/-0.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",90,Born in United States,"726,457","+/-6,339",95.7,+/-0.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",91,State of residence,"509,114","+/-9,561",67.1,+/-1.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",92,Different state,"217,343","+/-7,680",28.6,+/-1.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","4,699","+/-1,241",0.6,+/-0.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",94,Foreign born,"27,820","+/-3,223",3.7,+/-0.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",94.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",95,Foreign-born population,"27,820","+/-3,223","27,820",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",96,Naturalized U.S. citizen,"12,218","+/-2,303",43.9,+/-6.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",97,Not a U.S. citizen,"15,602","+/-2,620",56.1,+/-6.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",97.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",98,Population born outside the United States,"32,519","+/-3,256","32,519",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",98.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",99,Native,"4,699","+/-1,241","4,699",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",100,Entered 2010 or later,152,+/-158,3.2,+/-3.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",101,Entered before 2010,"4,547","+/-1,245",96.8,+/-3.5
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",101.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",102,Foreign born,"27,820","+/-3,223","27,820",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",103,Entered 2010 or later,"9,492","+/-2,374",34.1,+/-7.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",104,Entered before 2010,"18,328","+/-2,625",65.9,+/-7.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",104.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",106,Europe,N,N,N,N
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",107,Asia,N,N,N,N
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",108,Africa,N,N,N,N
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",109,Oceania,N,N,N,N
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",110,Latin America,N,N,N,N
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",111,Northern America,N,N,N,N
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",111.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",112,Population 5 years and over,"715,041","+/-5,989","715,041",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",113,English only,"668,960","+/-6,426",93.6,+/-0.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",114,Language other than English,"46,081","+/-4,780",6.4,+/-0.7
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",115,"Speak English less than ""very well""","14,580","+/-2,222",2.0,+/-0.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",116,Spanish,"28,443","+/-2,940",4.0,+/-0.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",117,"Speak English less than ""very well""","10,149","+/-1,940",1.4,+/-0.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",118,Other Indo-European languages,"7,411","+/-2,243",1.0,+/-0.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",119,"Speak English less than ""very well""",698,+/-602,0.1,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",120,Asian and Pacific Islander languages,"7,171","+/-1,962",1.0,+/-0.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",121,"Speak English less than ""very well""","3,504","+/-1,156",0.5,+/-0.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",122,Other languages,"3,056","+/-2,099",0.4,+/-0.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",123,"Speak English less than ""very well""",229,+/-195,0.0,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",123.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",123.5,ANCESTRY,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",124,Total population,"758,976","+/-6,168","758,976",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",125,American,"55,211","+/-6,359",7.3,+/-0.8
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",126,Arab,"1,812","+/-1,091",0.2,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",127,Czech,926,+/-500,0.1,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",128,Danish,"1,240",+/-753,0.2,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",129,Dutch,"4,712","+/-1,487",0.6,+/-0.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",130,English,"100,796","+/-7,325",13.3,+/-1.0
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",131,French (except Basque),"11,610","+/-2,124",1.5,+/-0.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",132,French Canadian,702,+/-426,0.1,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",133,German,"70,067","+/-5,767",9.2,+/-0.8
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",134,Greek,"1,514",+/-840,0.2,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",135,Hungarian,144,+/-144,0.0,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",136,Irish,"69,787","+/-6,294",9.2,+/-0.8
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",137,Italian,"11,899","+/-2,356",1.6,+/-0.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",138,Lithuanian,173,+/-207,0.0,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",139,Norwegian,"1,697",+/-746,0.2,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",140,Polish,"5,834","+/-1,685",0.8,+/-0.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",141,Portuguese,620,+/-435,0.1,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",142,Russian,"1,346",+/-924,0.2,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",143,Scotch-Irish,"7,988","+/-1,697",1.1,+/-0.2
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",144,Scottish,"11,916","+/-2,209",1.6,+/-0.3
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",145,Slovak,191,+/-299,0.0,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",146,Subsaharan African,"6,573","+/-2,861",0.9,+/-0.4
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",147,Swedish,"3,198","+/-1,030",0.4,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",148,Swiss,"1,142",+/-695,0.2,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",149,Ukrainian,189,+/-195,0.0,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",150,Welsh,"2,983","+/-1,120",0.4,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",151,West Indian (excluding Hispanic origin groups),"1,688",+/-940,0.2,+/-0.1
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",151.3,,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",152,Total households,"314,244","+/-3,820","314,244",(X)
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",153,With a computer,"297,170","+/-4,308",94.6,+/-0.8
+DP02,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",154,With a broadband Internet subscription,"280,165","+/-4,908",89.2,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",0.5,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",1,Total households,"289,283","+/-3,959","289,283",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",2,Married-couple household,"148,859","+/-5,662",51.5,+/-1.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",3,With children of the householder under 18 years,"59,853","+/-3,549",20.7,+/-1.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",4,Cohabiting couple household,"18,020","+/-2,798",6.2,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",5,With children of the householder under 18 years,"7,442","+/-1,814",2.6,+/-0.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",6,"Male householder, no spouse/partner present","53,157","+/-4,112",18.4,+/-1.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",7,With children of the householder under 18 years,"5,035","+/-1,522",1.7,+/-0.5
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",8,Householder living alone,"35,853","+/-3,140",12.4,+/-1.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",9,65 years and over,"9,340","+/-1,463",3.2,+/-0.5
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",10,"Female householder, no spouse/partner present","69,247","+/-3,761",23.9,+/-1.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",11,With children of the householder under 18 years,"16,526","+/-2,388",5.7,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",12,Householder living alone,"34,890","+/-2,867",12.1,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",13,65 years and over,"17,007","+/-1,850",5.9,+/-0.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",13.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",14,Households with one or more people under 18 years,"99,102","+/-3,746",34.3,+/-1.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",15,Households with one or more people 65 years and over,"75,682","+/-2,345",26.2,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",15.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",16,Average household size,2.60,+/-0.03,(X),(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",17,Average family size,3.08,+/-0.06,(X),(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",17.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",17.5,RELATIONSHIP,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",18,Population in households,"752,471","+/-3,639","752,471",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",19,Householder,"289,283","+/-3,959",38.4,+/-0.5
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",20,Spouse,"147,890","+/-5,851",19.7,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",21,Unmarried partner,"18,368","+/-2,742",2.4,+/-0.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",22,Child,"225,821","+/-6,337",30.0,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",23,Other relatives,"42,847","+/-5,212",5.7,+/-0.7
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",24,Other nonrelatives,"28,262","+/-5,087",3.8,+/-0.7
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",24.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",24.5,MARITAL STATUS,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",25,Males 15 years and over,"303,242","+/-1,894","303,242",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",26,Never married,"101,672","+/-4,537",33.5,+/-1.5
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",27,"Now married, except separated","156,494","+/-6,253",51.6,+/-2.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",28,Separated,"4,081","+/-1,123",1.3,+/-0.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",29,Widowed,"8,571","+/-1,744",2.8,+/-0.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",30,Divorced,"32,424","+/-3,533",10.7,+/-1.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",30.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",31,Females 15 years and over,"308,310","+/-1,922","308,310",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",32,Never married,"84,245","+/-4,215",27.3,+/-1.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",33,"Now married, except separated","155,626","+/-5,907",50.5,+/-1.9
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",34,Separated,"5,666","+/-1,429",1.8,+/-0.5
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",35,Widowed,"23,550","+/-2,693",7.6,+/-0.9
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",36,Divorced,"39,223","+/-3,087",12.7,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",36.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",36.5,FERTILITY,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"10,299","+/-1,710","10,299",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",38,"Unmarried women (widowed, divorced, and never married)","3,791","+/-1,370",36.8,+/-11.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",39,"Per 1,000 unmarried women",39,+/-14,(X),(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",40,"Per 1,000 women 15 to 50 years old",55,+/-9,(X),(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",41,"Per 1,000 women 15 to 19 years old",0,+/-7,(X),(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",42,"Per 1,000 women 20 to 34 years old",104,+/-19,(X),(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",43,"Per 1,000 women 35 to 50 years old",23,+/-11,(X),(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",43.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",43.5,GRANDPARENTS,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",44,Number of grandparents living with own grandchildren under 18 years,"14,600","+/-2,748","14,600",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",45,Grandparents responsible for grandchildren,"6,847","+/-1,826",46.9,+/-9.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",46,Less than 1 year,277,+/-289,1.9,+/-2.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",47,1 or 2 years,"2,012",+/-990,13.8,+/-6.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",48,3 or 4 years,"1,064",+/-767,7.3,+/-4.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",49,5 or more years,"3,494","+/-1,209",23.9,+/-8.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",49.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",50,Number of grandparents responsible for own grandchildren under 18 years,"6,847","+/-1,826","6,847",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",51,Who are female,"4,082","+/-1,040",59.6,+/-7.7
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",52,Who are married,"4,404","+/-1,691",64.3,+/-12.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",52.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",53,Population 3 years and over enrolled in school,"187,883","+/-4,650","187,883",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",54,"Nursery school, preschool","8,690","+/-1,595",4.6,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",55,Kindergarten,"9,010","+/-1,780",4.8,+/-0.9
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",56,Elementary school (grades 1-8),"84,625","+/-2,902",45.0,+/-1.9
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",57,High school (grades 9-12),"42,105","+/-2,737",22.4,+/-1.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",58,College or graduate school,"43,453","+/-3,761",23.1,+/-1.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",58.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",59,Population 25 years and over,"499,836","+/-3,522","499,836",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",60,Less than 9th grade,"28,671","+/-3,815",5.7,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",61,"9th to 12th grade, no diploma","28,361","+/-3,448",5.7,+/-0.7
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",62,High school graduate (includes equivalency),"160,913","+/-6,799",32.2,+/-1.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",63,"Some college, no degree","95,521","+/-4,975",19.1,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",64,Associate's degree,"34,876","+/-3,408",7.0,+/-0.7
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",65,Bachelor's degree,"96,784","+/-4,901",19.4,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",66,Graduate or professional degree,"54,710","+/-3,858",10.9,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",66.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",67,High school graduate or higher,"442,804","+/-4,968",88.6,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",68,Bachelor's degree or higher,"151,494","+/-5,750",30.3,+/-1.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",68.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",68.5,VETERAN STATUS,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",69,Civilian population 18 years and over,"578,954","+/-2,391","578,954",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",70,Civilian veterans,"43,476","+/-4,134",7.5,+/-0.7
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",70.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",71,Total Civilian Noninstitutionalized Population,"760,769","+/-3,213","760,769",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",72,With a disability,"94,382","+/-6,716",12.4,+/-0.9
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",72.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",73,Under 18 years,"186,813","+/-1,645","186,813",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",74,With a disability,"11,048","+/-2,521",5.9,+/-1.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",74.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",75,18 to 64 years,"467,514","+/-3,160","467,514",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",76,With a disability,"49,742","+/-4,871",10.6,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",76.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",77,65 years and over,"106,442","+/-1,690","106,442",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",78,With a disability,"33,592","+/-2,495",31.6,+/-2.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",78.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",79,Population 1 year and over,"754,379","+/-3,397","754,379",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",80,Same house,"659,088","+/-10,154",87.4,+/-1.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",81,Different house (in the U.S. or abroad),"95,291","+/-9,657",12.6,+/-1.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",82,Different house in the U.S.,"93,760","+/-9,605",12.4,+/-1.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",83,Same county,"50,881","+/-7,565",6.7,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",84,Different county,"42,879","+/-5,239",5.7,+/-0.7
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",85,Same state,"20,569","+/-3,480",2.7,+/-0.5
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",86,Different state,"22,310","+/-4,231",3.0,+/-0.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",87,Abroad,"1,531",+/-869,0.2,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",87.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",88,Total population,"766,477","+/-2,993","766,477",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",89,Native,"690,308","+/-5,411",90.1,+/-0.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",90,Born in United States,"681,856","+/-5,128",89.0,+/-0.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",91,State of residence,"376,316","+/-9,953",49.1,+/-1.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",92,Different state,"305,540","+/-10,226",39.9,+/-1.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","8,452","+/-1,711",1.1,+/-0.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",94,Foreign born,"76,169","+/-4,877",9.9,+/-0.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",94.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",95,Foreign-born population,"76,169","+/-4,877","76,169",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",96,Naturalized U.S. citizen,"26,120","+/-3,673",34.3,+/-4.5
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",97,Not a U.S. citizen,"50,049","+/-4,849",65.7,+/-4.5
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",97.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",98,Population born outside the United States,"84,621","+/-4,683","84,621",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",98.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",99,Native,"8,452","+/-1,711","8,452",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",100,Entered 2010 or later,"2,881","+/-1,138",34.1,+/-12.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",101,Entered before 2010,"5,571","+/-1,503",65.9,+/-12.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",101.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",102,Foreign born,"76,169","+/-4,877","76,169",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",103,Entered 2010 or later,"22,945","+/-4,378",30.1,+/-4.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",104,Entered before 2010,"53,224","+/-3,513",69.9,+/-4.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",104.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",106,Europe,N,N,N,N
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",107,Asia,N,N,N,N
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",108,Africa,N,N,N,N
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",109,Oceania,N,N,N,N
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",110,Latin America,N,N,N,N
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",111,Northern America,N,N,N,N
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",111.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",112,Population 5 years and over,"718,256","+/-3,038","718,256",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",113,English only,"616,419","+/-7,719",85.8,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",114,Language other than English,"101,837","+/-7,072",14.2,+/-1.0
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",115,"Speak English less than ""very well""","44,936","+/-5,517",6.3,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",116,Spanish,"72,768","+/-5,925",10.1,+/-0.8
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",117,"Speak English less than ""very well""","33,773","+/-4,490",4.7,+/-0.6
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",118,Other Indo-European languages,"7,117","+/-1,941",1.0,+/-0.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",119,"Speak English less than ""very well""","1,174",+/-612,0.2,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",120,Asian and Pacific Islander languages,"20,096","+/-2,462",2.8,+/-0.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",121,"Speak English less than ""very well""","9,720","+/-2,264",1.4,+/-0.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",122,Other languages,"1,856","+/-1,118",0.3,+/-0.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",123,"Speak English less than ""very well""",269,+/-253,0.0,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",123.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",123.5,ANCESTRY,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",124,Total population,"766,477","+/-2,993","766,477",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",125,American,"41,646","+/-5,254",5.4,+/-0.7
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",126,Arab,"4,548","+/-2,350",0.6,+/-0.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",127,Czech,"3,574","+/-1,566",0.5,+/-0.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",128,Danish,"1,886",+/-989,0.2,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",129,Dutch,"6,667","+/-1,411",0.9,+/-0.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",130,English,"87,374","+/-7,274",11.4,+/-0.9
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",131,French (except Basque),"11,628","+/-2,598",1.5,+/-0.3
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",132,French Canadian,"1,409",+/-638,0.2,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",133,German,"87,188","+/-6,911",11.4,+/-0.9
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",134,Greek,346,+/-243,0.0,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",135,Hungarian,933,+/-612,0.1,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",136,Irish,"64,155","+/-6,937",8.4,+/-0.9
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",137,Italian,"13,110","+/-2,897",1.7,+/-0.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",138,Lithuanian,396,+/-410,0.1,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",139,Norwegian,"4,885","+/-1,320",0.6,+/-0.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",140,Polish,"7,395","+/-1,500",1.0,+/-0.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",141,Portuguese,532,+/-349,0.1,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",142,Russian,"1,366",+/-735,0.2,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",143,Scotch-Irish,"7,603","+/-1,671",1.0,+/-0.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",144,Scottish,"16,569","+/-3,375",2.2,+/-0.4
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",145,Slovak,289,+/-277,0.0,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",146,Subsaharan African,"2,788","+/-1,722",0.4,+/-0.2
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",147,Swedish,"3,401","+/-1,122",0.4,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",148,Swiss,"1,034",+/-562,0.1,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",149,Ukrainian,697,+/-638,0.1,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",150,Welsh,"3,045","+/-1,077",0.4,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",151,West Indian (excluding Hispanic origin groups),323,+/-393,0.0,+/-0.1
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",151.3,,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",152,Total households,"289,283","+/-3,959","289,283",(X)
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",153,With a computer,"276,128","+/-4,328",95.5,+/-0.7
+DP02,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",154,With a broadband Internet subscription,"260,719","+/-4,775",90.1,+/-1.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",0.5,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",1,Total households,"291,286","+/-4,881","291,286",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",2,Married-couple household,"134,156","+/-4,702",46.1,+/-1.6
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",3,With children of the householder under 18 years,"45,382","+/-3,272",15.6,+/-1.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",4,Cohabiting couple household,"14,737","+/-2,347",5.1,+/-0.8
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",5,With children of the householder under 18 years,"5,387","+/-1,347",1.8,+/-0.5
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",6,"Male householder, no spouse/partner present","54,218","+/-3,723",18.6,+/-1.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",7,With children of the householder under 18 years,"3,831","+/-1,300",1.3,+/-0.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",8,Householder living alone,"39,984","+/-3,140",13.7,+/-1.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",9,65 years and over,"15,137","+/-1,510",5.2,+/-0.5
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",10,"Female householder, no spouse/partner present","88,175","+/-3,910",30.3,+/-1.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",11,With children of the householder under 18 years,"17,014","+/-2,275",5.8,+/-0.8
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",12,Householder living alone,"52,839","+/-3,578",18.1,+/-1.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",13,65 years and over,"28,271","+/-2,052",9.7,+/-0.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",13.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",14,Households with one or more people under 18 years,"86,405","+/-3,864",29.7,+/-1.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",15,Households with one or more people 65 years and over,"104,477","+/-2,627",35.9,+/-0.9
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",15.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",16,Average household size,2.48,+/-0.04,(X),(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",17,Average family size,3.15,+/-0.07,(X),(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",17.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",17.5,RELATIONSHIP,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",18,Population in households,"721,766","+/-6,233","721,766",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",19,Householder,"291,286","+/-4,881",40.4,+/-0.6
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",20,Spouse,"133,956","+/-4,662",18.6,+/-0.6
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",21,Unmarried partner,"15,168","+/-2,356",2.1,+/-0.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",22,Child,"197,177","+/-6,041",27.3,+/-0.8
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",23,Other relatives,"67,074","+/-6,202",9.3,+/-0.9
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",24,Other nonrelatives,"17,105","+/-3,250",2.4,+/-0.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",24.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",24.5,MARITAL STATUS,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",25,Males 15 years and over,"298,689","+/-3,617","298,689",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",26,Never married,"96,626","+/-4,094",32.4,+/-1.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",27,"Now married, except separated","147,399","+/-4,359",49.3,+/-1.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",28,Separated,"5,152","+/-1,498",1.7,+/-0.5
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",29,Widowed,"11,751","+/-1,429",3.9,+/-0.5
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",30,Divorced,"37,761","+/-3,383",12.6,+/-1.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",30.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",31,Females 15 years and over,"310,450","+/-3,219","310,450",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",32,Never married,"81,416","+/-3,850",26.2,+/-1.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",33,"Now married, except separated","139,414","+/-5,822",44.9,+/-1.8
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",34,Separated,"6,550","+/-1,416",2.1,+/-0.5
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",35,Widowed,"37,846","+/-2,983",12.2,+/-1.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",36,Divorced,"45,224","+/-3,932",14.6,+/-1.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",36.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",36.5,FERTILITY,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,675","+/-1,647","8,675",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",38,"Unmarried women (widowed, divorced, and never married)","3,320",+/-965,38.3,+/-10.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",39,"Per 1,000 unmarried women",36,+/-11,(X),(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",40,"Per 1,000 women 15 to 50 years old",54,+/-10,(X),(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",41,"Per 1,000 women 15 to 19 years old",17,+/-18,(X),(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",42,"Per 1,000 women 20 to 34 years old",117,+/-23,(X),(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",43,"Per 1,000 women 35 to 50 years old",13,+/-7,(X),(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",43.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",43.5,GRANDPARENTS,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",44,Number of grandparents living with own grandchildren under 18 years,"20,443","+/-2,871","20,443",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",45,Grandparents responsible for grandchildren,"9,860","+/-1,784",48.2,+/-5.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",46,Less than 1 year,"1,872",+/-706,9.2,+/-3.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",47,1 or 2 years,"2,045",+/-943,10.0,+/-4.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",48,3 or 4 years,"1,449",+/-807,7.1,+/-3.8
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",49,5 or more years,"4,494","+/-1,135",22.0,+/-5.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",49.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",50,Number of grandparents responsible for own grandchildren under 18 years,"9,860","+/-1,784","9,860",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",51,Who are female,"5,959","+/-1,163",60.4,+/-5.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",52,Who are married,"6,810","+/-1,532",69.1,+/-8.8
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",52.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",53,Population 3 years and over enrolled in school,"169,739","+/-5,642","169,739",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",54,"Nursery school, preschool","8,883","+/-1,766",5.2,+/-1.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",55,Kindergarten,"8,279","+/-1,513",4.9,+/-0.9
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",56,Elementary school (grades 1-8),"76,168","+/-3,407",44.9,+/-1.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",57,High school (grades 9-12),"38,966","+/-2,580",23.0,+/-1.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",58,College or graduate school,"37,443","+/-3,437",22.1,+/-1.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",58.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",59,Population 25 years and over,"507,909","+/-5,596","507,909",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",60,Less than 9th grade,"22,295","+/-2,978",4.4,+/-0.6
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",61,"9th to 12th grade, no diploma","40,067","+/-3,354",7.9,+/-0.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",62,High school graduate (includes equivalency),"198,118","+/-6,020",39.0,+/-1.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",63,"Some college, no degree","110,447","+/-5,001",21.7,+/-0.9
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",64,Associate's degree,"39,385","+/-3,160",7.8,+/-0.6
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",65,Bachelor's degree,"62,187","+/-3,858",12.2,+/-0.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",66,Graduate or professional degree,"35,410","+/-3,087",7.0,+/-0.6
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",66.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",67,High school graduate or higher,"445,547","+/-7,302",87.7,+/-0.9
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",68,Bachelor's degree or higher,"97,597","+/-4,983",19.2,+/-0.9
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",68.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",68.5,VETERAN STATUS,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",69,Civilian population 18 years and over,"576,845","+/-4,891","576,845",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",70,Civilian veterans,"42,672","+/-3,144",7.4,+/-0.5
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",70.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",71,Total Civilian Noninstitutionalized Population,"732,153","+/-6,092","732,153",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",72,With a disability,"148,213","+/-6,060",20.2,+/-0.8
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",72.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",73,Under 18 years,"168,831","+/-3,120","168,831",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",74,With a disability,"13,714","+/-2,272",8.1,+/-1.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",74.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",75,18 to 64 years,"420,582","+/-4,325","420,582",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",76,With a disability,"73,672","+/-4,544",17.5,+/-1.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",76.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",77,65 years and over,"142,740","+/-2,794","142,740",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",78,With a disability,"60,827","+/-2,830",42.6,+/-2.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",78.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",79,Population 1 year and over,"739,917","+/-6,062","739,917",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",80,Same house,"653,293","+/-8,030",88.3,+/-1.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",81,Different house (in the U.S. or abroad),"86,624","+/-7,228",11.7,+/-1.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",82,Different house in the U.S.,"85,495","+/-7,102",11.6,+/-0.9
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",83,Same county,"40,524","+/-4,794",5.5,+/-0.6
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",84,Different county,"44,971","+/-5,399",6.1,+/-0.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",85,Same state,"29,915","+/-5,096",4.0,+/-0.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",86,Different state,"15,056","+/-2,632",2.0,+/-0.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",87,Abroad,"1,129",+/-689,0.2,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",87.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",88,Total population,"747,069","+/-6,216","747,069",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",89,Native,"720,738","+/-6,911",96.5,+/-0.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",90,Born in United States,"717,789","+/-6,789",96.1,+/-0.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",91,State of residence,"475,747","+/-9,501",63.7,+/-1.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",92,Different state,"242,042","+/-8,057",32.4,+/-1.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","2,949","+/-1,060",0.4,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",94,Foreign born,"26,331","+/-2,816",3.5,+/-0.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",94.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",95,Foreign-born population,"26,331","+/-2,816","26,331",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",96,Naturalized U.S. citizen,"7,959","+/-1,550",30.2,+/-5.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",97,Not a U.S. citizen,"18,372","+/-2,535",69.8,+/-5.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",97.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",98,Population born outside the United States,"29,280","+/-2,841","29,280",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",98.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",99,Native,"2,949","+/-1,060","2,949",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",100,Entered 2010 or later,397,+/-286,13.5,+/-9.8
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",101,Entered before 2010,"2,552","+/-1,020",86.5,+/-9.8
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",101.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",102,Foreign born,"26,331","+/-2,816","26,331",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",103,Entered 2010 or later,"5,346","+/-1,519",20.3,+/-4.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",104,Entered before 2010,"20,985","+/-2,185",79.7,+/-4.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",104.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",106,Europe,N,N,N,N
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",107,Asia,N,N,N,N
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",108,Africa,N,N,N,N
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",109,Oceania,N,N,N,N
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",110,Latin America,N,N,N,N
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",111,Northern America,N,N,N,N
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",111.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",112,Population 5 years and over,"704,466","+/-6,265","704,466",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",113,English only,"659,786","+/-7,152",93.7,+/-0.5
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",114,Language other than English,"44,680","+/-3,747",6.3,+/-0.5
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",115,"Speak English less than ""very well""","17,901","+/-2,318",2.5,+/-0.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",116,Spanish,"36,707","+/-3,021",5.2,+/-0.4
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",117,"Speak English less than ""very well""","13,957","+/-1,860",2.0,+/-0.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",118,Other Indo-European languages,"3,320","+/-1,310",0.5,+/-0.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",119,"Speak English less than ""very well""",954,+/-689,0.1,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",120,Asian and Pacific Islander languages,"4,193","+/-1,593",0.6,+/-0.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",121,"Speak English less than ""very well""","2,836","+/-1,224",0.4,+/-0.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",122,Other languages,460,+/-296,0.1,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",123,"Speak English less than ""very well""",154,+/-169,0.0,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",123.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",123.5,ANCESTRY,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",124,Total population,"747,069","+/-6,216","747,069",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",125,American,"60,410","+/-6,563",8.1,+/-0.9
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",126,Arab,320,+/-343,0.0,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",127,Czech,649,+/-595,0.1,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",128,Danish,513,+/-364,0.1,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",129,Dutch,"5,673","+/-1,664",0.8,+/-0.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",130,English,"80,362","+/-7,239",10.8,+/-1.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",131,French (except Basque),"8,795","+/-2,364",1.2,+/-0.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",132,French Canadian,"1,142",+/-541,0.2,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",133,German,"53,599","+/-5,636",7.2,+/-0.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",134,Greek,"1,084","+/-1,380",0.1,+/-0.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",135,Hungarian,977,+/-628,0.1,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",136,Irish,"60,856","+/-5,426",8.1,+/-0.7
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",137,Italian,"8,307","+/-1,842",1.1,+/-0.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",138,Lithuanian,317,+/-301,0.0,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",139,Norwegian,"2,846","+/-1,092",0.4,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",140,Polish,"2,957","+/-1,097",0.4,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",141,Portuguese,388,+/-376,0.1,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",142,Russian,773,+/-702,0.1,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",143,Scotch-Irish,"7,811","+/-2,206",1.0,+/-0.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",144,Scottish,"9,879","+/-2,380",1.3,+/-0.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",145,Slovak,389,+/-583,0.1,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",146,Subsaharan African,"6,822","+/-2,093",0.9,+/-0.3
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",147,Swedish,"1,365",+/-604,0.2,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",148,Swiss,950,+/-884,0.1,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",149,Ukrainian,0,+/-213,0.0,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",150,Welsh,"2,031","+/-1,143",0.3,+/-0.2
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",151,West Indian (excluding Hispanic origin groups),"1,614",+/-791,0.2,+/-0.1
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",151.3,,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",152,Total households,"291,286","+/-4,881","291,286",(X)
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",153,With a computer,"262,151","+/-5,132",90.0,+/-1.0
+DP02,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",154,With a broadband Internet subscription,"232,560","+/-5,453",79.8,+/-1.3

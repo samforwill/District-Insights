@@ -1,0 +1,505 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",0.5,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",1,Population 16 years and over,"519,915","+/-3,604","519,915",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",2,In labor force,"367,191","+/-5,773",70.6,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",3,Civilian labor force,"363,155","+/-5,833",69.8,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",4,Employed,"354,238","+/-5,862",68.1,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",5,Unemployed,"8,917","+/-1,658",1.7,+/-0.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",6,Armed Forces,"4,036",+/-899,0.8,+/-0.2
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",7,Not in labor force,"152,724","+/-5,199",29.4,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",7.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",8,Civilian labor force,"363,155","+/-5,833","363,155",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",9,Unemployment Rate,(X),(X),2.5,+/-0.5
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",9.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",10,Females 16 years and over,"259,284","+/-2,601","259,284",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",11,In labor force,"173,174","+/-3,678",66.8,+/-1.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",12,Civilian labor force,"172,676","+/-3,626",66.6,+/-1.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",13,Employed,"167,925","+/-3,618",64.8,+/-1.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",13.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",14,Own children of the householder under 6 years,"48,979","+/-2,205","48,979",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",15,All parents in family in labor force,"36,956","+/-2,468",75.5,+/-3.5
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",15.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",16,Own children of the householder 6 to 17 years,"101,664","+/-2,800","101,664",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",17,All parents in family in labor force,"81,021","+/-4,093",79.7,+/-3.4
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",17.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",18,Workers 16 years and over,"352,720","+/-5,672","352,720",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",19,"Car, truck, or van -- drove alone","262,479","+/-6,631",74.4,+/-1.2
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",20,"Car, truck, or van -- carpooled","32,246","+/-2,992",9.1,+/-0.9
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",21,Public transportation (excluding taxicab),"1,596",+/-741,0.5,+/-0.2
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",22,Walked,"7,846","+/-1,466",2.2,+/-0.4
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",23,Other means,"5,233","+/-1,263",1.5,+/-0.4
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",24,Worked from home,"43,320","+/-3,504",12.3,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",24.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",25,Mean travel time to work (minutes),19.6,+/-0.4,(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",25.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",25.5,OCCUPATION,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",26,Civilian employed population 16 years and over,"354,238","+/-5,862","354,238",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",27,"Management, business, science, and arts occupations","143,226","+/-5,270",40.4,+/-1.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",28,Service occupations,"55,943","+/-3,743",15.8,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",29,Sales and office occupations,"73,360","+/-4,226",20.7,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",30,"Natural resources, construction, and maintenance occupations","33,566","+/-2,859",9.5,+/-0.8
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",31,"Production, transportation, and material moving occupations","48,143","+/-3,140",13.6,+/-0.9
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",31.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",31.5,INDUSTRY,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",32,Civilian employed population 16 years and over,"354,238","+/-5,862","354,238",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",33,"Agriculture, forestry, fishing and hunting, and mining","8,828","+/-1,429",2.5,+/-0.4
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",34,Construction,"24,143","+/-2,608",6.8,+/-0.8
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",35,Manufacturing,"41,018","+/-3,872",11.6,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",36,Wholesale trade,"7,962","+/-1,397",2.2,+/-0.4
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",37,Retail trade,"38,948","+/-3,298",11.0,+/-0.9
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",38,"Transportation and warehousing, and utilities","18,587","+/-2,241",5.2,+/-0.6
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",39,Information,"4,660","+/-1,043",1.3,+/-0.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",40,"Finance and insurance, and real estate and rental and leasing","28,462","+/-2,779",8.0,+/-0.8
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",41,"Professional, scientific, and management, and administrative and waste management services","33,301","+/-3,051",9.4,+/-0.8
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",42,"Educational services, and health care and social assistance","88,952","+/-3,940",25.1,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",43,"Arts, entertainment, and recreation, and accommodation and food services","24,328","+/-2,503",6.9,+/-0.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",44,"Other services, except public administration","14,592","+/-2,141",4.1,+/-0.6
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",45,Public administration,"20,457","+/-2,379",5.8,+/-0.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",45.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",46,Civilian employed population 16 years and over,"354,238","+/-5,862","354,238",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",47,Private wage and salary workers,"273,932","+/-6,680",77.3,+/-1.4
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",48,Government workers,"60,357","+/-4,218",17.0,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",49,Self-employed in own not incorporated business workers,"19,360","+/-2,420",5.5,+/-0.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",50,Unpaid family workers,589,+/-389,0.2,+/-0.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",50.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",51,Total households,"261,275","+/-3,108","261,275",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",52,"Less than $10,000","11,871","+/-1,690",4.5,+/-0.6
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",53,"$10,000 to $14,999","7,670","+/-1,304",2.9,+/-0.5
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",54,"$15,000 to $24,999","18,968","+/-2,226",7.3,+/-0.8
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",55,"$25,000 to $34,999","22,051","+/-2,685",8.4,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",56,"$35,000 to $49,999","32,725","+/-2,876",12.5,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",57,"$50,000 to $74,999","47,972","+/-3,130",18.4,+/-1.2
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",58,"$75,000 to $99,999","36,863","+/-3,014",14.1,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",59,"$100,000 to $149,999","47,310","+/-2,850",18.1,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",60,"$150,000 to $199,999","19,671","+/-1,987",7.5,+/-0.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",61,"$200,000 or more","16,174","+/-1,921",6.2,+/-0.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",62,Median household income (dollars),"68,908","+/-2,540",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",63,Mean household income (dollars),"87,825","+/-2,162",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",63.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",64,With earnings,"212,817","+/-3,934",81.5,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",65,Mean earnings (dollars),"86,733","+/-2,544",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",66,With Social Security,"68,981","+/-2,314",26.4,+/-0.9
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",67,Mean Social Security income (dollars),"22,362",+/-744,(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",68,With retirement income,"58,028","+/-2,762",22.2,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",69,Mean retirement income (dollars),"25,277","+/-1,892",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",69.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",70,With Supplemental Security Income,"10,183","+/-1,554",3.9,+/-0.6
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",71,Mean Supplemental Security Income (dollars),"10,796",+/-881,(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",72,With cash public assistance income,"5,575","+/-1,206",2.1,+/-0.5
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",73,Mean cash public assistance income (dollars),"3,399",+/-941,(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",74,With Food Stamp/SNAP benefits in the past 12 months,"18,782","+/-2,118",7.2,+/-0.8
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",74.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",75,Families,"164,371","+/-4,089","164,371",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",76,"Less than $10,000","3,989","+/-1,014",2.4,+/-0.6
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",77,"$10,000 to $14,999","1,218",+/-512,0.7,+/-0.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",78,"$15,000 to $24,999","6,290","+/-1,138",3.8,+/-0.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",79,"$25,000 to $34,999","8,247","+/-1,480",5.0,+/-0.9
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",80,"$35,000 to $49,999","16,332","+/-1,931",9.9,+/-1.2
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",81,"$50,000 to $74,999","28,179","+/-2,711",17.1,+/-1.5
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",82,"$75,000 to $99,999","28,491","+/-2,834",17.3,+/-1.6
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",83,"$100,000 to $149,999","39,396","+/-2,655",24.0,+/-1.5
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",84,"$150,000 to $199,999","17,627","+/-1,618",10.7,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",85,"$200,000 or more","14,602","+/-1,783",8.9,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",86,Median family income (dollars),"89,950","+/-2,621",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",87,Mean family income (dollars),"107,599","+/-2,865",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",87.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",88,Per capita income (dollars),"35,459",+/-811,(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",88.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",89,Nonfamily households,"96,904","+/-3,540","96,904",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",90,Median nonfamily income (dollars),"40,081","+/-2,395",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",91,Mean nonfamily income (dollars),"51,075","+/-2,518",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",91.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",92,Median earnings for workers (dollars),"37,857","+/-1,549",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",93,"Median earnings for male full-time, year-round workers (dollars)","55,751","+/-1,841",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",94,"Median earnings for female full-time, year-round workers (dollars)","44,843","+/-1,758",(X),(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",94.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",95,Civilian noninstitutionalized population,"646,733","+/-4,714","646,733",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",96,With health insurance coverage,"608,231","+/-6,055",94.0,+/-0.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",97,With private health insurance,"505,027","+/-9,597",78.1,+/-1.4
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",98,With public coverage,"183,077","+/-7,563",28.3,+/-1.2
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",99,No health insurance coverage,"38,502","+/-4,427",6.0,+/-0.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",99.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",100,Civilian noninstitutionalized population under 19 years,"165,820","+/-2,672","165,820",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",101,No health insurance coverage,"6,625","+/-1,912",4.0,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",101.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",102,Civilian noninstitutionalized population 19 to 64 years,"383,129","+/-3,860","383,129",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",103,In labor force:,"327,045","+/-5,500","327,045",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",104,Employed:,"318,718","+/-5,588","318,718",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",105,With health insurance coverage,"296,000","+/-6,172",92.9,+/-0.9
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",106,With private health insurance,"283,934","+/-6,129",89.1,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",107,With public coverage,"21,707","+/-2,190",6.8,+/-0.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",108,No health insurance coverage,"22,718","+/-2,717",7.1,+/-0.9
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",109,Unemployed:,"8,327","+/-1,575","8,327",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",110,With health insurance coverage,"6,300","+/-1,332",75.7,+/-9.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",111,With private health insurance,"4,409","+/-1,094",52.9,+/-10.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",112,With public coverage,"2,311",+/-877,27.8,+/-8.8
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",113,No health insurance coverage,"2,027",+/-912,24.3,+/-9.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",114,Not in labor force:,"56,084","+/-3,678","56,084",(X)
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",115,With health insurance coverage,"49,785","+/-3,439",88.8,+/-2.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",116,With private health insurance,"33,792","+/-2,834",60.3,+/-3.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",117,With public coverage,"21,039","+/-2,345",37.5,+/-3.2
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",118,No health insurance coverage,"6,299","+/-1,361",11.2,+/-2.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",118.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",119,All families,(X),(X),5.8,+/-1.1
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",120,With related children of the householder under 18 years,(X),(X),9.4,+/-2.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",121,With related children of the householder under 5 years only,(X),(X),14.5,+/-5.5
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",122,Married couple families,(X),(X),2.9,+/-0.8
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",123,With related children of the householder under 18 years,(X),(X),4.0,+/-1.5
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",124,With related children of the householder under 5 years only,(X),(X),4.9,+/-3.6
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",125,"Families with female householder, no spouse present",(X),(X),19.1,+/-4.9
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",126,With related children of the householder under 18 years,(X),(X),24.9,+/-6.6
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",127,With related children of the householder under 5 years only,(X),(X),44.1,+/-14.6
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",127.3,,,,,
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",128,All people,(X),(X),10.2,+/-1.2
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",129,Under 18 years,(X),(X),11.2,+/-2.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",130,Related children of the householder under 18 years,(X),(X),10.7,+/-2.7
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",131,Related children of the householder under 5 years,(X),(X),15.5,+/-4.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",132,Related children of the householder 5 to 17 years,(X),(X),9.0,+/-2.8
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",133,18 years and over,(X),(X),9.9,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",134,18 to 64 years,(X),(X),10.9,+/-1.2
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",135,65 years and over,(X),(X),6.2,+/-1.0
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",136,People in families,(X),(X),6.2,+/-1.3
+DP03,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",137,Unrelated individuals 15 years and over,(X),(X),25.1,+/-2.4
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",0.5,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",1,Population 16 years and over,"504,793","+/-3,203","504,793",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",2,In labor force,"357,076","+/-5,058",70.7,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",3,Civilian labor force,"354,864","+/-5,199",70.3,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",4,Employed,"342,835","+/-5,220",67.9,+/-1.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",5,Unemployed,"12,029","+/-1,596",2.4,+/-0.3
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",6,Armed Forces,"2,212",+/-984,0.4,+/-0.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",7,Not in labor force,"147,717","+/-4,576",29.3,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",7.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",8,Civilian labor force,"354,864","+/-5,199","354,864",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",9,Unemployment Rate,(X),(X),3.4,+/-0.4
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",9.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",10,Females 16 years and over,"256,040","+/-2,080","256,040",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",11,In labor force,"170,322","+/-2,949",66.5,+/-1.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",12,Civilian labor force,"170,279","+/-2,950",66.5,+/-1.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",13,Employed,"163,915","+/-3,038",64.0,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",13.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",14,Own children of the householder under 6 years,"52,540","+/-2,030","52,540",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",15,All parents in family in labor force,"35,836","+/-2,757",68.2,+/-4.6
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",15.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",16,Own children of the householder 6 to 17 years,"111,118","+/-2,382","111,118",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",17,All parents in family in labor force,"88,256","+/-3,276",79.4,+/-2.5
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",17.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",18,Workers 16 years and over,"341,197","+/-5,164","341,197",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",19,"Car, truck, or van -- drove alone","241,797","+/-5,592",70.9,+/-1.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",20,"Car, truck, or van -- carpooled","23,306","+/-2,572",6.8,+/-0.7
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",21,Public transportation (excluding taxicab),"2,328",+/-745,0.7,+/-0.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",22,Walked,"5,945","+/-1,161",1.7,+/-0.3
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",23,Other means,"3,996","+/-1,028",1.2,+/-0.3
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",24,Worked from home,"63,825","+/-3,875",18.7,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",24.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",25,Mean travel time to work (minutes),20.3,+/-0.5,(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",25.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",25.5,OCCUPATION,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",26,Civilian employed population 16 years and over,"342,835","+/-5,220","342,835",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",27,"Management, business, science, and arts occupations","154,059","+/-4,930",44.9,+/-1.3
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",28,Service occupations,"50,641","+/-4,131",14.8,+/-1.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",29,Sales and office occupations,"68,878","+/-4,085",20.1,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",30,"Natural resources, construction, and maintenance occupations","27,654","+/-2,632",8.1,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",31,"Production, transportation, and material moving occupations","41,603","+/-3,872",12.1,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",31.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",31.5,INDUSTRY,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",32,Civilian employed population 16 years and over,"342,835","+/-5,220","342,835",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",33,"Agriculture, forestry, fishing and hunting, and mining","2,517",+/-635,0.7,+/-0.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",34,Construction,"26,714","+/-2,604",7.8,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",35,Manufacturing,"28,768","+/-2,874",8.4,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",36,Wholesale trade,"9,080","+/-1,565",2.6,+/-0.5
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",37,Retail trade,"30,996","+/-2,823",9.0,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",38,"Transportation and warehousing, and utilities","19,403","+/-2,300",5.7,+/-0.7
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",39,Information,"4,686","+/-1,109",1.4,+/-0.3
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",40,"Finance and insurance, and real estate and rental and leasing","38,375","+/-3,221",11.2,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",41,"Professional, scientific, and management, and administrative and waste management services","45,276","+/-2,670",13.2,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",42,"Educational services, and health care and social assistance","81,541","+/-3,942",23.8,+/-1.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",43,"Arts, entertainment, and recreation, and accommodation and food services","27,005","+/-3,062",7.9,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",44,"Other services, except public administration","15,906","+/-2,251",4.6,+/-0.6
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",45,Public administration,"12,568","+/-2,091",3.7,+/-0.6
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",45.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",46,Civilian employed population 16 years and over,"342,835","+/-5,220","342,835",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",47,Private wage and salary workers,"285,411","+/-6,093",83.3,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",48,Government workers,"41,450","+/-3,160",12.1,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",49,Self-employed in own not incorporated business workers,"15,611","+/-2,244",4.6,+/-0.7
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",50,Unpaid family workers,363,+/-233,0.1,+/-0.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",50.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",51,Total households,"260,954","+/-2,682","260,954",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",52,"Less than $10,000","15,197","+/-2,241",5.8,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",53,"$10,000 to $14,999","9,936","+/-1,453",3.8,+/-0.6
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",54,"$15,000 to $24,999","15,471","+/-2,107",5.9,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",55,"$25,000 to $34,999","19,338","+/-2,320",7.4,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",56,"$35,000 to $49,999","29,840","+/-2,478",11.4,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",57,"$50,000 to $74,999","44,421","+/-2,925",17.0,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",58,"$75,000 to $99,999","34,844","+/-2,772",13.4,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",59,"$100,000 to $149,999","42,914","+/-2,788",16.4,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",60,"$150,000 to $199,999","22,740","+/-2,029",8.7,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",61,"$200,000 or more","26,253","+/-2,063",10.1,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",62,Median household income (dollars),"72,455","+/-2,363",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",63,Mean household income (dollars),"101,929","+/-3,443",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",63.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",64,With earnings,"213,524","+/-3,155",81.8,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",65,Mean earnings (dollars),"102,912","+/-3,318",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",66,With Social Security,"67,239","+/-2,291",25.8,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",67,Mean Social Security income (dollars),"21,623",+/-751,(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",68,With retirement income,"53,395","+/-2,447",20.5,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",69,Mean retirement income (dollars),"28,279","+/-2,875",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",69.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",70,With Supplemental Security Income,"9,731","+/-1,617",3.7,+/-0.6
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",71,Mean Supplemental Security Income (dollars),"9,848",+/-939,(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",72,With cash public assistance income,"5,213","+/-1,197",2.0,+/-0.5
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",73,Mean cash public assistance income (dollars),"4,563","+/-1,117",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",74,With Food Stamp/SNAP benefits in the past 12 months,"26,387","+/-2,424",10.1,+/-1.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",74.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",75,Families,"161,603","+/-4,093","161,603",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",76,"Less than $10,000","4,627",+/-963,2.9,+/-0.6
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",77,"$10,000 to $14,999","2,549",+/-810,1.6,+/-0.5
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",78,"$15,000 to $24,999","5,796","+/-1,573",3.6,+/-1.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",79,"$25,000 to $34,999","7,693","+/-1,546",4.8,+/-1.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",80,"$35,000 to $49,999","13,222","+/-1,989",8.2,+/-1.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",81,"$50,000 to $74,999","24,243","+/-2,105",15.0,+/-1.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",82,"$75,000 to $99,999","24,083","+/-2,715",14.9,+/-1.6
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",83,"$100,000 to $149,999","35,534","+/-2,643",22.0,+/-1.5
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",84,"$150,000 to $199,999","20,733","+/-1,963",12.8,+/-1.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",85,"$200,000 or more","23,123","+/-1,940",14.3,+/-1.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",86,Median family income (dollars),"98,820","+/-2,710",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",87,Mean family income (dollars),"128,486","+/-5,064",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",87.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",88,Per capita income (dollars),"40,956","+/-1,384",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",88.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",89,Nonfamily households,"99,351","+/-3,827","99,351",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",90,Median nonfamily income (dollars),"41,245","+/-1,182",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",91,Mean nonfamily income (dollars),"55,336","+/-3,481",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",91.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",92,Median earnings for workers (dollars),"41,753",+/-620,(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",93,"Median earnings for male full-time, year-round workers (dollars)","62,075","+/-1,211",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",94,"Median earnings for female full-time, year-round workers (dollars)","50,242","+/-2,536",(X),(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",94.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",95,Civilian noninstitutionalized population,"648,856","+/-3,962","648,856",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",96,With health insurance coverage,"597,769","+/-6,483",92.1,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",97,With private health insurance,"476,512","+/-9,091",73.4,+/-1.3
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",98,With public coverage,"185,458","+/-6,089",28.6,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",99,No health insurance coverage,"51,087","+/-5,280",7.9,+/-0.8
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",99.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",100,Civilian noninstitutionalized population under 19 years,"179,109","+/-2,281","179,109",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",101,No health insurance coverage,"8,384","+/-2,108",4.7,+/-1.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",101.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",102,Civilian noninstitutionalized population 19 to 64 years,"382,522","+/-3,221","382,522",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",103,In labor force:,"320,274","+/-4,431","320,274",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",104,Employed:,"310,411","+/-4,437","310,411",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",105,With health insurance coverage,"281,640","+/-5,464",90.7,+/-1.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",106,With private health insurance,"267,248","+/-5,333",86.1,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",107,With public coverage,"22,767","+/-2,761",7.3,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",108,No health insurance coverage,"28,771","+/-3,149",9.3,+/-1.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",109,Unemployed:,"9,863","+/-1,468","9,863",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",110,With health insurance coverage,"7,382","+/-1,501",74.8,+/-8.4
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",111,With private health insurance,"3,559",+/-822,36.1,+/-7.6
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",112,With public coverage,"4,147","+/-1,342",42.0,+/-10.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",113,No health insurance coverage,"2,481",+/-826,25.2,+/-8.4
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",114,Not in labor force:,"62,248","+/-3,480","62,248",(X)
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",115,With health insurance coverage,"51,688","+/-3,148",83.0,+/-2.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",116,With private health insurance,"33,219","+/-2,373",53.4,+/-3.5
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",117,With public coverage,"22,975","+/-2,541",36.9,+/-3.3
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",118,No health insurance coverage,"10,560","+/-1,981",17.0,+/-2.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",118.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",119,All families,(X),(X),7.3,+/-1.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",120,With related children of the householder under 18 years,(X),(X),10.4,+/-1.7
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",121,With related children of the householder under 5 years only,(X),(X),9.2,+/-3.6
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",122,Married couple families,(X),(X),4.2,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",123,With related children of the householder under 18 years,(X),(X),5.7,+/-1.7
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",124,With related children of the householder under 5 years only,(X),(X),4.5,+/-2.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",125,"Families with female householder, no spouse present",(X),(X),18.7,+/-4.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",126,With related children of the householder under 18 years,(X),(X),23.9,+/-6.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",127,With related children of the householder under 5 years only,(X),(X),30.4,+/-18.2
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",127.3,,,,,
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",128,All people,(X),(X),11.2,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",129,Under 18 years,(X),(X),13.8,+/-2.3
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",130,Related children of the householder under 18 years,(X),(X),13.6,+/-2.4
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",131,Related children of the householder under 5 years,(X),(X),15.3,+/-4.0
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",132,Related children of the householder 5 to 17 years,(X),(X),12.9,+/-2.5
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",133,18 years and over,(X),(X),10.3,+/-0.9
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",134,18 to 64 years,(X),(X),10.7,+/-1.1
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",135,65 years and over,(X),(X),8.9,+/-1.4
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",136,People in families,(X),(X),8.4,+/-1.3
+DP03,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",137,Unrelated individuals 15 years and over,(X),(X),21.9,+/-1.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",0.5,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",1,Population 16 years and over,"510,188","+/-2,806","510,188",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",2,In labor force,"329,199","+/-4,864",64.5,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",3,Civilian labor force,"328,907","+/-4,860",64.5,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",4,Employed,"322,027","+/-4,823",63.1,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",5,Unemployed,"6,880","+/-1,052",1.3,+/-0.2
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",6,Armed Forces,292,+/-241,0.1,+/-0.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",7,Not in labor force,"180,989","+/-4,158",35.5,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",7.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",8,Civilian labor force,"328,907","+/-4,860","328,907",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",9,Unemployment Rate,(X),(X),2.1,+/-0.3
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",9.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",10,Females 16 years and over,"254,508","+/-2,088","254,508",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",11,In labor force,"151,028","+/-3,323",59.3,+/-1.2
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",12,Civilian labor force,"151,028","+/-3,323",59.3,+/-1.2
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",13,Employed,"148,427","+/-3,241",58.3,+/-1.2
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",13.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",14,Own children of the householder under 6 years,"46,569","+/-2,012","46,569",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",15,All parents in family in labor force,"34,286","+/-2,106",73.6,+/-3.2
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",15.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",16,Own children of the householder 6 to 17 years,"100,873","+/-2,595","100,873",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",17,All parents in family in labor force,"77,565","+/-2,950",76.9,+/-2.4
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",17.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",18,Workers 16 years and over,"315,995","+/-5,042","315,995",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",19,"Car, truck, or van -- drove alone","252,860","+/-5,443",80.0,+/-1.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",20,"Car, truck, or van -- carpooled","25,345","+/-2,428",8.0,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",21,Public transportation (excluding taxicab),334,+/-227,0.1,+/-0.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",22,Walked,"10,440","+/-1,274",3.3,+/-0.4
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",23,Other means,"4,664","+/-1,146",1.5,+/-0.4
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",24,Worked from home,"22,352","+/-2,046",7.1,+/-0.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",24.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",25,Mean travel time to work (minutes),17.9,+/-0.6,(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",25.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",25.5,OCCUPATION,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",26,Civilian employed population 16 years and over,"322,027","+/-4,823","322,027",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",27,"Management, business, science, and arts occupations","113,223","+/-4,789",35.2,+/-1.3
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",28,Service occupations,"50,979","+/-2,487",15.8,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",29,Sales and office occupations,"60,676","+/-3,223",18.8,+/-1.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",30,"Natural resources, construction, and maintenance occupations","37,957","+/-2,425",11.8,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",31,"Production, transportation, and material moving occupations","59,192","+/-3,273",18.4,+/-1.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",31.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",31.5,INDUSTRY,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",32,Civilian employed population 16 years and over,"322,027","+/-4,823","322,027",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",33,"Agriculture, forestry, fishing and hunting, and mining","30,833","+/-1,992",9.6,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",34,Construction,"18,968","+/-1,942",5.9,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",35,Manufacturing,"38,330","+/-2,488",11.9,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",36,Wholesale trade,"7,909","+/-1,206",2.5,+/-0.4
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",37,Retail trade,"34,994","+/-2,522",10.9,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",38,"Transportation and warehousing, and utilities","23,463","+/-1,904",7.3,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",39,Information,"4,259","+/-1,004",1.3,+/-0.3
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",40,"Finance and insurance, and real estate and rental and leasing","16,610","+/-1,462",5.2,+/-0.4
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",41,"Professional, scientific, and management, and administrative and waste management services","18,174","+/-2,091",5.6,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",42,"Educational services, and health care and social assistance","78,304","+/-3,445",24.3,+/-1.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",43,"Arts, entertainment, and recreation, and accommodation and food services","21,629","+/-2,547",6.7,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",44,"Other services, except public administration","13,977","+/-1,684",4.3,+/-0.5
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",45,Public administration,"14,577","+/-1,530",4.5,+/-0.5
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",45.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",46,Civilian employed population 16 years and over,"322,027","+/-4,823","322,027",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",47,Private wage and salary workers,"239,287","+/-4,898",74.3,+/-1.2
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",48,Government workers,"52,314","+/-3,294",16.2,+/-0.9
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",49,Self-employed in own not incorporated business workers,"29,360","+/-2,172",9.1,+/-0.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",50,Unpaid family workers,"1,066",+/-332,0.3,+/-0.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",50.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",51,Total households,"263,753","+/-2,865","263,753",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",52,"Less than $10,000","13,738","+/-1,624",5.2,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",53,"$10,000 to $14,999","12,550","+/-1,333",4.8,+/-0.5
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",54,"$15,000 to $24,999","24,479","+/-1,981",9.3,+/-0.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",55,"$25,000 to $34,999","22,985","+/-1,722",8.7,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",56,"$35,000 to $49,999","35,569","+/-2,316",13.5,+/-0.9
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",57,"$50,000 to $74,999","48,911","+/-2,736",18.5,+/-1.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",58,"$75,000 to $99,999","38,851","+/-2,740",14.7,+/-1.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",59,"$100,000 to $149,999","41,773","+/-2,456",15.8,+/-0.9
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",60,"$150,000 to $199,999","14,263","+/-1,274",5.4,+/-0.5
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",61,"$200,000 or more","10,634","+/-1,247",4.0,+/-0.5
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",62,Median household income (dollars),"60,513","+/-1,545",(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",63,Mean household income (dollars),"77,994","+/-2,405",(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",63.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",64,With earnings,"201,386","+/-3,781",76.4,+/-1.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",65,Mean earnings (dollars),"77,867","+/-2,767",(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",66,With Social Security,"93,105","+/-2,587",35.3,+/-1.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",67,Mean Social Security income (dollars),"20,416",+/-534,(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",68,With retirement income,"53,734","+/-2,218",20.4,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",69,Mean retirement income (dollars),"23,999","+/-3,108",(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",69.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",70,With Supplemental Security Income,"12,132","+/-1,253",4.6,+/-0.5
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",71,Mean Supplemental Security Income (dollars),"9,551",+/-636,(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",72,With cash public assistance income,"4,883",+/-948,1.9,+/-0.4
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",73,Mean cash public assistance income (dollars),"2,963",+/-521,(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",74,With Food Stamp/SNAP benefits in the past 12 months,"21,341","+/-1,881",8.1,+/-0.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",74.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",75,Families,"169,168","+/-3,908","169,168",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",76,"Less than $10,000","4,310",+/-945,2.5,+/-0.5
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",77,"$10,000 to $14,999","3,784",+/-953,2.2,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",78,"$15,000 to $24,999","7,312","+/-1,116",4.3,+/-0.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",79,"$25,000 to $34,999","9,634","+/-1,048",5.7,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",80,"$35,000 to $49,999","20,261","+/-1,767",12.0,+/-1.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",81,"$50,000 to $74,999","33,328","+/-2,247",19.7,+/-1.3
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",82,"$75,000 to $99,999","31,278","+/-2,411",18.5,+/-1.3
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",83,"$100,000 to $149,999","36,885","+/-2,397",21.8,+/-1.3
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",84,"$150,000 to $199,999","12,921","+/-1,339",7.6,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",85,"$200,000 or more","9,455","+/-1,173",5.6,+/-0.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",86,Median family income (dollars),"78,633","+/-1,560",(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",87,Mean family income (dollars),"94,046","+/-2,746",(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",87.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",88,Per capita income (dollars),"32,226",+/-916,(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",88.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",89,Nonfamily households,"94,585","+/-3,496","94,585",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",90,Median nonfamily income (dollars),"32,241","+/-1,391",(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",91,Mean nonfamily income (dollars),"46,331","+/-3,771",(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",91.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",92,Median earnings for workers (dollars),"36,047",+/-583,(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",93,"Median earnings for male full-time, year-round workers (dollars)","51,920",+/-578,(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",94,"Median earnings for female full-time, year-round workers (dollars)","38,624","+/-1,300",(X),(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",94.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",95,Civilian noninstitutionalized population,"640,601","+/-3,065","640,601",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",96,With health insurance coverage,"592,586","+/-4,511",92.5,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",97,With private health insurance,"467,056","+/-7,062",72.9,+/-1.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",98,With public coverage,"221,545","+/-6,003",34.6,+/-0.9
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",99,No health insurance coverage,"48,015","+/-3,998",7.5,+/-0.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",99.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",100,Civilian noninstitutionalized population under 19 years,"164,366","+/-2,538","164,366",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",101,No health insurance coverage,"8,969","+/-2,135",5.5,+/-1.3
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",101.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",102,Civilian noninstitutionalized population 19 to 64 years,"347,660","+/-2,896","347,660",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",103,In labor force:,"287,776","+/-4,167","287,776",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",104,Employed:,"281,887","+/-4,143","281,887",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",105,With health insurance coverage,"254,704","+/-4,500",90.4,+/-0.9
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",106,With private health insurance,"240,803","+/-4,881",85.4,+/-1.2
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",107,With public coverage,"22,406","+/-2,391",7.9,+/-0.9
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",108,No health insurance coverage,"27,183","+/-2,557",9.6,+/-0.9
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",109,Unemployed:,"5,889",+/-959,"5,889",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",110,With health insurance coverage,"3,946",+/-799,67.0,+/-8.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",111,With private health insurance,"2,353",+/-638,40.0,+/-8.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",112,With public coverage,"1,716",+/-541,29.1,+/-8.3
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",113,No health insurance coverage,"1,943",+/-555,33.0,+/-8.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",114,Not in labor force:,"59,884","+/-3,265","59,884",(X)
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",115,With health insurance coverage,"50,550","+/-2,907",84.4,+/-2.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",116,With private health insurance,"31,146","+/-2,411",52.0,+/-2.9
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",117,With public coverage,"24,624","+/-2,149",41.1,+/-3.0
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",118,No health insurance coverage,"9,334","+/-1,404",15.6,+/-2.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",118.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",119,All families,(X),(X),7.0,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",120,With related children of the householder under 18 years,(X),(X),10.9,+/-1.5
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",121,With related children of the householder under 5 years only,(X),(X),12.5,+/-4.3
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",122,Married couple families,(X),(X),3.7,+/-0.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",123,With related children of the householder under 18 years,(X),(X),4.4,+/-1.2
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",124,With related children of the householder under 5 years only,(X),(X),3.7,+/-3.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",125,"Families with female householder, no spouse present",(X),(X),29.0,+/-4.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",126,With related children of the householder under 18 years,(X),(X),38.8,+/-5.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",127,With related children of the householder under 5 years only,(X),(X),55.6,+/-15.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",127.3,,,,,
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",128,All people,(X),(X),10.8,+/-0.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",129,Under 18 years,(X),(X),12.5,+/-1.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",130,Related children of the householder under 18 years,(X),(X),11.8,+/-1.6
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",131,Related children of the householder under 5 years,(X),(X),13.4,+/-2.5
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",132,Related children of the householder 5 to 17 years,(X),(X),11.3,+/-1.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",133,18 years and over,(X),(X),10.2,+/-0.7
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",134,18 to 64 years,(X),(X),10.1,+/-0.8
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",135,65 years and over,(X),(X),10.6,+/-1.1
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",136,People in families,(X),(X),7.5,+/-0.9
+DP03,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",137,Unrelated individuals 15 years and over,(X),(X),24.0,+/-1.8

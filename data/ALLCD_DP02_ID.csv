@@ -1,0 +1,401 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",0.5,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",1,Total households,"352,443","+/-4,629","352,443",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",2,Married-couple household,"202,332","+/-6,611",57.4,+/-1.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",3,With children of the householder under 18 years,"78,834","+/-4,388",22.4,+/-1.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",4,Cohabiting couple household,"22,442","+/-3,420",6.4,+/-1.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",5,With children of the householder under 18 years,"7,280","+/-1,915",2.1,+/-0.5
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",6,"Male householder, no spouse/partner present","56,560","+/-3,956",16.0,+/-1.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",7,With children of the householder under 18 years,"6,935","+/-2,023",2.0,+/-0.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",8,Householder living alone,"37,275","+/-3,843",10.6,+/-1.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",9,65 years and over,"15,285","+/-2,210",4.3,+/-0.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",10,"Female householder, no spouse/partner present","71,109","+/-4,589",20.2,+/-1.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",11,With children of the householder under 18 years,"10,747","+/-2,247",3.0,+/-0.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",12,Householder living alone,"41,857","+/-3,739",11.9,+/-1.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",13,65 years and over,"24,148","+/-2,537",6.9,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",13.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",14,Households with one or more people under 18 years,"114,449","+/-4,767",32.5,+/-1.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",15,Households with one or more people 65 years and over,"118,648","+/-3,716",33.7,+/-1.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",15.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",16,Average household size,2.70,+/-0.04,(X),(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",17,Average family size,3.14,+/-0.06,(X),(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",17.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",17.5,RELATIONSHIP,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",18,Population in households,"950,245","+/-7,445","950,245",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",19,Householder,"352,443","+/-4,629",37.1,+/-0.5
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",20,Spouse,"201,863","+/-6,599",21.2,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",21,Unmarried partner,"22,815","+/-3,466",2.4,+/-0.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",22,Child,"273,869","+/-6,830",28.8,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",23,Other relatives,"57,687","+/-7,694",6.1,+/-0.8
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",24,Other nonrelatives,"41,568","+/-6,492",4.4,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",24.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",24.5,MARITAL STATUS,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",25,Males 15 years and over,"390,695","+/-4,597","390,695",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",26,Never married,"113,919","+/-6,777",29.2,+/-1.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",27,"Now married, except separated","220,760","+/-5,845",56.5,+/-1.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",28,Separated,"3,498","+/-1,346",0.9,+/-0.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",29,Widowed,"9,864","+/-1,792",2.5,+/-0.5
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",30,Divorced,"42,654","+/-3,983",10.9,+/-1.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",30.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",31,Females 15 years and over,"390,212","+/-3,719","390,212",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",32,Never married,"89,242","+/-4,322",22.9,+/-1.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",33,"Now married, except separated","214,905","+/-7,231",55.1,+/-1.9
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",34,Separated,"4,995","+/-1,559",1.3,+/-0.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",35,Widowed,"29,594","+/-2,663",7.6,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",36,Divorced,"51,476","+/-4,970",13.2,+/-1.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",36.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",36.5,FERTILITY,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"10,618","+/-2,066","10,618",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",38,"Unmarried women (widowed, divorced, and never married)","1,577",+/-771,14.9,+/-6.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",39,"Per 1,000 unmarried women",15,+/-7,(X),(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",40,"Per 1,000 women 15 to 50 years old",49,+/-10,(X),(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",41,"Per 1,000 women 15 to 19 years old",0,+/-6,(X),(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",42,"Per 1,000 women 20 to 34 years old",90,+/-20,(X),(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",43,"Per 1,000 women 35 to 50 years old",30,+/-13,(X),(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",43.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",43.5,GRANDPARENTS,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",44,Number of grandparents living with own grandchildren under 18 years,"18,915","+/-3,480","18,915",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",45,Grandparents responsible for grandchildren,"7,647","+/-2,685",40.4,+/-8.9
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",46,Less than 1 year,561,+/-380,3.0,+/-2.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",47,1 or 2 years,"2,124","+/-1,591",11.2,+/-7.5
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",48,3 or 4 years,"1,297",+/-683,6.9,+/-3.9
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",49,5 or more years,"3,665","+/-1,964",19.4,+/-8.5
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",49.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",50,Number of grandparents responsible for own grandchildren under 18 years,"7,647","+/-2,685","7,647",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",51,Who are female,"4,694","+/-1,899",61.4,+/-10.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",52,Who are married,"5,538","+/-1,910",72.4,+/-15.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",52.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",53,Population 3 years and over enrolled in school,"230,365","+/-7,489","230,365",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",54,"Nursery school, preschool","13,531","+/-2,436",5.9,+/-1.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",55,Kindergarten,"13,459","+/-2,317",5.8,+/-1.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",56,Elementary school (grades 1-8),"103,152","+/-4,645",44.8,+/-1.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",57,High school (grades 9-12),"53,236","+/-2,663",23.1,+/-1.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",58,College or graduate school,"46,987","+/-4,543",20.4,+/-1.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",58.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",59,Population 25 years and over,"657,403","+/-5,751","657,403",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",60,Less than 9th grade,"20,361","+/-3,394",3.1,+/-0.5
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",61,"9th to 12th grade, no diploma","38,521","+/-4,364",5.9,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",62,High school graduate (includes equivalency),"185,662","+/-8,444",28.2,+/-1.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",63,"Some college, no degree","160,748","+/-6,911",24.5,+/-1.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",64,Associate's degree,"66,906","+/-5,475",10.2,+/-0.8
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",65,Bachelor's degree,"121,534","+/-7,554",18.5,+/-1.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",66,Graduate or professional degree,"63,671","+/-5,332",9.7,+/-0.8
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",66.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",67,High school graduate or higher,"598,521","+/-7,763",91.0,+/-0.9
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",68,Bachelor's degree or higher,"185,205","+/-8,807",28.2,+/-1.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",68.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",68.5,VETERAN STATUS,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",69,Civilian population 18 years and over,"737,567","+/-5,986","737,567",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",70,Civilian veterans,"69,807","+/-4,625",9.5,+/-0.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",70.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",71,Total Civilian Noninstitutionalized Population,"954,637","+/-7,474","954,637",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",72,With a disability,"136,489","+/-7,758",14.3,+/-0.8
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",72.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",73,Under 18 years,"228,017","+/-5,065","228,017",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",74,With a disability,"11,688","+/-2,547",5.1,+/-1.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",74.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",75,18 to 64 years,"555,514","+/-5,977","555,514",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",76,With a disability,"64,027","+/-6,306",11.5,+/-1.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",76.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",77,65 years and over,"171,106","+/-3,686","171,106",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",78,With a disability,"60,774","+/-4,024",35.5,+/-2.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",78.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",79,Population 1 year and over,"957,584","+/-7,256","957,584",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",80,Same house,"828,036","+/-12,303",86.5,+/-1.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",81,Different house (in the U.S. or abroad),"129,548","+/-11,439",13.5,+/-1.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",82,Different house in the U.S.,"128,054","+/-11,295",13.4,+/-1.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",83,Same county,"51,547","+/-7,127",5.4,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",84,Different county,"76,507","+/-8,550",8.0,+/-0.9
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",85,Same state,"23,751","+/-3,305",2.5,+/-0.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",86,Different state,"52,756","+/-8,064",5.5,+/-0.8
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",87,Abroad,"1,494",+/-564,0.2,+/-0.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",87.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",88,Total population,"967,737","+/-7,258","967,737",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",89,Native,"918,797","+/-8,822",94.9,+/-0.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",90,Born in United States,"910,382","+/-9,143",94.1,+/-0.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",91,State of residence,"384,749","+/-13,260",39.8,+/-1.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",92,Different state,"525,633","+/-13,940",54.3,+/-1.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","8,415","+/-2,042",0.9,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",94,Foreign born,"48,940","+/-5,749",5.1,+/-0.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",94.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",95,Foreign-born population,"48,940","+/-5,749","48,940",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",96,Naturalized U.S. citizen,"23,128","+/-3,094",47.3,+/-6.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",97,Not a U.S. citizen,"25,812","+/-4,974",52.7,+/-6.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",97.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",98,Population born outside the United States,"57,355","+/-5,990","57,355",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",98.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",99,Native,"8,415","+/-2,042","8,415",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",100,Entered 2010 or later,300,+/-257,3.6,+/-3.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",101,Entered before 2010,"8,115","+/-2,000",96.4,+/-3.0
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",101.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",102,Foreign born,"48,940","+/-5,749","48,940",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",103,Entered 2010 or later,"12,696","+/-4,446",25.9,+/-7.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",104,Entered before 2010,"36,244","+/-4,138",74.1,+/-7.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",104.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",106,Europe,N,N,N,N
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",107,Asia,N,N,N,N
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",108,Africa,N,N,N,N
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",109,Oceania,N,N,N,N
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",110,Latin America,N,N,N,N
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",111,Northern America,N,N,N,N
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",111.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",112,Population 5 years and over,"913,396","+/-6,392","913,396",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",113,English only,"828,126","+/-8,929",90.7,+/-0.8
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",114,Language other than English,"85,270","+/-7,289",9.3,+/-0.8
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",115,"Speak English less than ""very well""","28,794","+/-4,150",3.2,+/-0.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",116,Spanish,"61,695","+/-6,055",6.8,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",117,"Speak English less than ""very well""","22,119","+/-3,561",2.4,+/-0.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",118,Other Indo-European languages,"13,279","+/-3,654",1.5,+/-0.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",119,"Speak English less than ""very well""","3,935","+/-2,035",0.4,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",120,Asian and Pacific Islander languages,"6,515","+/-2,042",0.7,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",121,"Speak English less than ""very well""","2,168",+/-926,0.2,+/-0.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",122,Other languages,"3,781","+/-2,212",0.4,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",123,"Speak English less than ""very well""",572,+/-347,0.1,+/-0.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",123.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",123.5,ANCESTRY,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",124,Total population,"967,737","+/-7,258","967,737",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",125,American,"45,141","+/-6,694",4.7,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",126,Arab,"2,129","+/-1,156",0.2,+/-0.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",127,Czech,"3,568","+/-1,581",0.4,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",128,Danish,"11,392","+/-3,204",1.2,+/-0.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",129,Dutch,"14,646","+/-3,161",1.5,+/-0.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",130,English,"171,262","+/-10,977",17.7,+/-1.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",131,French (except Basque),"19,839","+/-3,436",2.1,+/-0.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",132,French Canadian,"4,524","+/-1,460",0.5,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",133,German,"183,009","+/-12,151",18.9,+/-1.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",134,Greek,"3,540","+/-1,666",0.4,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",135,Hungarian,"1,774",+/-962,0.2,+/-0.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",136,Irish,"102,174","+/-8,783",10.6,+/-0.9
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",137,Italian,"33,063","+/-5,558",3.4,+/-0.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",138,Lithuanian,646,+/-479,0.1,+/-0.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",139,Norwegian,"25,879","+/-3,799",2.7,+/-0.4
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",140,Polish,"12,923","+/-3,156",1.3,+/-0.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",141,Portuguese,"4,836","+/-2,030",0.5,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",142,Russian,"4,503","+/-1,689",0.5,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",143,Scotch-Irish,"7,924","+/-1,880",0.8,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",144,Scottish,"25,911","+/-4,894",2.7,+/-0.5
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",145,Slovak,586,+/-438,0.1,+/-0.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",146,Subsaharan African,"1,743","+/-1,256",0.2,+/-0.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",147,Swedish,"21,774","+/-5,649",2.2,+/-0.6
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",148,Swiss,"3,839","+/-2,312",0.4,+/-0.2
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",149,Ukrainian,"5,269","+/-3,380",0.5,+/-0.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",150,Welsh,"8,389","+/-3,070",0.9,+/-0.3
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",151,West Indian (excluding Hispanic origin groups),350,+/-284,0.0,+/-0.1
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",151.3,,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",152,Total households,"352,443","+/-4,629","352,443",(X)
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",153,With a computer,"336,525","+/-5,229",95.5,+/-0.7
+DP02,5001800US1601,"Congressional District 1 (118th Congress), Idaho",154,With a broadband Internet subscription,"318,667","+/-5,334",90.4,+/-1.0
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",0.5,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",1,Total households,"341,439","+/-4,030","341,439",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",2,Married-couple household,"183,372","+/-5,290",53.7,+/-1.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",3,With children of the householder under 18 years,"76,422","+/-3,837",22.4,+/-1.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",4,Cohabiting couple household,"22,427","+/-3,026",6.6,+/-0.9
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",5,With children of the householder under 18 years,"7,274","+/-1,531",2.1,+/-0.4
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",6,"Male householder, no spouse/partner present","57,718","+/-3,597",16.9,+/-1.0
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",7,With children of the householder under 18 years,"6,446","+/-1,552",1.9,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",8,Householder living alone,"40,564","+/-3,342",11.9,+/-0.9
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",9,65 years and over,"12,836","+/-1,721",3.8,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",10,"Female householder, no spouse/partner present","77,922","+/-4,081",22.8,+/-1.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",11,With children of the householder under 18 years,"12,243","+/-1,951",3.6,+/-0.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",12,Householder living alone,"48,322","+/-3,281",14.2,+/-0.9
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",13,65 years and over,"24,010","+/-2,211",7.0,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",13.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",14,Households with one or more people under 18 years,"112,575","+/-4,903",33.0,+/-1.4
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",15,Households with one or more people 65 years and over,"99,351","+/-3,109",29.1,+/-0.9
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",15.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",16,Average household size,2.70,+/-0.03,(X),(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",17,Average family size,3.28,+/-0.05,(X),(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",17.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",17.5,RELATIONSHIP,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",18,Population in households,"921,716","+/-7,445","921,716",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",19,Householder,"341,439","+/-4,030",37.0,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",20,Spouse,"182,771","+/-5,443",19.8,+/-0.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",21,Unmarried partner,"23,050","+/-3,019",2.5,+/-0.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",22,Child,"281,894","+/-7,798",30.6,+/-0.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",23,Other relatives,"55,248","+/-6,517",6.0,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",24,Other nonrelatives,"37,314","+/-5,397",4.0,+/-0.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",24.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",24.5,MARITAL STATUS,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",25,Males 15 years and over,"366,802","+/-4,321","366,802",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",26,Never married,"116,672","+/-5,178",31.8,+/-1.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",27,"Now married, except separated","200,894","+/-5,815",54.8,+/-1.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",28,Separated,"3,303","+/-1,187",0.9,+/-0.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",29,Widowed,"7,149","+/-1,316",1.9,+/-0.4
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",30,Divorced,"38,784","+/-3,521",10.6,+/-1.0
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",30.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",31,Females 15 years and over,"368,136","+/-4,168","368,136",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",32,Never married,"95,552","+/-5,471",26.0,+/-1.4
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",33,"Now married, except separated","194,283","+/-6,235",52.8,+/-1.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",34,Separated,"4,320","+/-1,260",1.2,+/-0.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",35,Widowed,"25,817","+/-2,464",7.0,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",36,Divorced,"48,164","+/-3,947",13.1,+/-1.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",36.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",36.5,FERTILITY,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"12,469","+/-1,592","12,469",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",38,"Unmarried women (widowed, divorced, and never married)","2,180",+/-924,17.5,+/-7.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",39,"Per 1,000 unmarried women",20,+/-8,(X),(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",40,"Per 1,000 women 15 to 50 years old",56,+/-7,(X),(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",41,"Per 1,000 women 15 to 19 years old",14,+/-10,(X),(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",42,"Per 1,000 women 20 to 34 years old",99,+/-14,(X),(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",43,"Per 1,000 women 35 to 50 years old",29,+/-10,(X),(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",43.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",43.5,GRANDPARENTS,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",44,Number of grandparents living with own grandchildren under 18 years,"16,787","+/-2,647","16,787",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",45,Grandparents responsible for grandchildren,"4,889","+/-1,681",29.1,+/-8.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",46,Less than 1 year,148,+/-141,0.9,+/-0.9
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",47,1 or 2 years,"1,551","+/-1,507",9.2,+/-8.4
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",48,3 or 4 years,"1,256",+/-645,7.5,+/-3.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",49,5 or more years,"1,934",+/-719,11.5,+/-4.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",49.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",50,Number of grandparents responsible for own grandchildren under 18 years,"4,889","+/-1,681","4,889",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",51,Who are female,"2,814",+/-968,57.6,+/-6.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",52,Who are married,"3,848","+/-1,736",78.7,+/-12.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",52.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",53,Population 3 years and over enrolled in school,"251,467","+/-5,910","251,467",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",54,"Nursery school, preschool","10,648","+/-1,646",4.2,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",55,Kindergarten,"11,139","+/-1,484",4.4,+/-0.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",56,Elementary school (grades 1-8),"111,728","+/-4,498",44.4,+/-1.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",57,High school (grades 9-12),"57,129","+/-3,463",22.7,+/-1.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",58,College or graduate school,"60,823","+/-4,358",24.2,+/-1.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",58.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",59,Population 25 years and over,"600,163","+/-6,085","600,163",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",60,Less than 9th grade,"19,459","+/-3,069",3.2,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",61,"9th to 12th grade, no diploma","31,572","+/-3,498",5.3,+/-0.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",62,High school graduate (includes equivalency),"152,620","+/-6,782",25.4,+/-1.0
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",63,"Some college, no degree","135,835","+/-4,897",22.6,+/-0.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",64,Associate's degree,"59,618","+/-4,392",9.9,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",65,Bachelor's degree,"132,228","+/-5,569",22.0,+/-0.9
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",66,Graduate or professional degree,"68,831","+/-4,300",11.5,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",66.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",67,High school graduate or higher,"549,132","+/-7,137",91.5,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",68,Bachelor's degree or higher,"201,059","+/-6,916",33.5,+/-1.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",68.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",68.5,VETERAN STATUS,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",69,Civilian population 18 years and over,"688,678","+/-6,006","688,678",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",70,Civilian veterans,"52,524","+/-4,344",7.6,+/-0.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",70.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",71,Total Civilian Noninstitutionalized Population,"924,611","+/-7,331","924,611",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",72,With a disability,"124,731","+/-4,932",13.5,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",72.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",73,Under 18 years,"241,107","+/-5,027","241,107",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",74,With a disability,"11,935","+/-1,995",5.0,+/-0.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",74.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",75,18 to 64 years,"544,602","+/-6,149","544,602",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",76,With a disability,"64,721","+/-4,501",11.9,+/-0.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",76.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",77,65 years and over,"138,902","+/-3,618","138,902",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",78,With a disability,"48,075","+/-3,106",34.6,+/-2.0
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",78.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",79,Population 1 year and over,"922,135","+/-7,415","922,135",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",80,Same house,"773,532","+/-12,357",83.9,+/-1.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",81,Different house (in the U.S. or abroad),"148,603","+/-10,051",16.1,+/-1.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",82,Different house in the U.S.,"144,792","+/-9,834",15.7,+/-1.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",83,Same county,"69,121","+/-7,149",7.5,+/-0.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",84,Different county,"75,671","+/-7,175",8.2,+/-0.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",85,Same state,"32,039","+/-5,009",3.5,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",86,Different state,"43,632","+/-4,949",4.7,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",87,Abroad,"3,811","+/-1,391",0.4,+/-0.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",87.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",88,Total population,"933,186","+/-7,258","933,186",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",89,Native,"866,734","+/-9,350",92.9,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",90,Born in United States,"857,386","+/-9,263",91.9,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",91,State of residence,"452,937","+/-11,757",48.5,+/-1.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",92,Different state,"404,449","+/-11,370",43.3,+/-1.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","9,348","+/-1,850",1.0,+/-0.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",94,Foreign born,"66,452","+/-6,608",7.1,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",94.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",95,Foreign-born population,"66,452","+/-6,608","66,452",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",96,Naturalized U.S. citizen,"28,726","+/-4,797",43.2,+/-4.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",97,Not a U.S. citizen,"37,726","+/-4,257",56.8,+/-4.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",97.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",98,Population born outside the United States,"75,800","+/-6,586","75,800",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",98.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",99,Native,"9,348","+/-1,850","9,348",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",100,Entered 2010 or later,"2,945","+/-1,237",31.5,+/-9.9
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",101,Entered before 2010,"6,403","+/-1,323",68.5,+/-9.9
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",101.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",102,Foreign born,"66,452","+/-6,608","66,452",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",103,Entered 2010 or later,"21,181","+/-4,280",31.9,+/-4.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",104,Entered before 2010,"45,271","+/-4,560",68.1,+/-4.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",104.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",105,"Foreign-born population, excluding population born at sea","66,452","+/-6,608","66,452",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",106,Europe,"6,886","+/-1,901",10.4,+/-2.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",107,Asia,"14,325","+/-2,356",21.6,+/-3.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",108,Africa,"2,315","+/-1,465",3.5,+/-2.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",109,Oceania,535,+/-528,0.8,+/-0.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",110,Latin America,"40,087","+/-4,703",60.3,+/-3.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",111,Northern America,"2,304",+/-820,3.5,+/-1.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",111.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",112,Population 5 years and over,"874,476","+/-6,195","874,476",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",113,English only,"760,650","+/-8,919",87.0,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",114,Language other than English,"113,826","+/-5,968",13.0,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",115,"Speak English less than ""very well""","42,111","+/-5,051",4.8,+/-0.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",116,Spanish,"86,557","+/-4,798",9.9,+/-0.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",117,"Speak English less than ""very well""","33,090","+/-4,350",3.8,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",118,Other Indo-European languages,"13,386","+/-2,645",1.5,+/-0.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",119,"Speak English less than ""very well""","2,920","+/-1,475",0.3,+/-0.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",120,Asian and Pacific Islander languages,"9,980","+/-1,855",1.1,+/-0.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",121,"Speak English less than ""very well""","4,199","+/-1,484",0.5,+/-0.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",122,Other languages,"3,903","+/-1,401",0.4,+/-0.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",123,"Speak English less than ""very well""","1,902","+/-1,225",0.2,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",123.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",123.5,ANCESTRY,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",124,Total population,"933,186","+/-7,258","933,186",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",125,American,"62,688","+/-7,958",6.7,+/-0.8
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",126,Arab,"1,554",+/-817,0.2,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",127,Czech,"2,161",+/-921,0.2,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",128,Danish,"17,278","+/-3,000",1.9,+/-0.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",129,Dutch,"13,360","+/-2,502",1.4,+/-0.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",130,English,"199,334","+/-11,128",21.4,+/-1.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",131,French (except Basque),"15,694","+/-2,784",1.7,+/-0.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",132,French Canadian,"3,353","+/-1,365",0.4,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",133,German,"127,213","+/-9,343",13.6,+/-1.0
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",134,Greek,"1,434",+/-517,0.2,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",135,Hungarian,"1,663",+/-899,0.2,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",136,Irish,"79,698","+/-6,820",8.5,+/-0.7
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",137,Italian,"30,246","+/-4,596",3.2,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",138,Lithuanian,"1,614","+/-1,130",0.2,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",139,Norwegian,"18,913","+/-3,064",2.0,+/-0.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",140,Polish,"6,995","+/-1,415",0.7,+/-0.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",141,Portuguese,"3,430","+/-1,118",0.4,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",142,Russian,"3,058","+/-1,247",0.3,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",143,Scotch-Irish,"7,859","+/-1,681",0.8,+/-0.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",144,Scottish,"33,927","+/-5,687",3.6,+/-0.6
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",145,Slovak,577,+/-332,0.1,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",146,Subsaharan African,"3,281","+/-1,652",0.4,+/-0.2
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",147,Swedish,"23,378","+/-3,406",2.5,+/-0.4
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",148,Swiss,"9,175","+/-2,939",1.0,+/-0.3
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",149,Ukrainian,"1,963","+/-1,126",0.2,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",150,Welsh,"15,652","+/-3,524",1.7,+/-0.4
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",151,West Indian (excluding Hispanic origin groups),952,+/-712,0.1,+/-0.1
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",151.3,,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",152,Total households,"341,439","+/-4,030","341,439",(X)
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",153,With a computer,"325,473","+/-4,328",95.3,+/-0.5
+DP02,5001800US1602,"Congressional District 2 (118th Congress), Idaho",154,With a broadband Internet subscription,"308,967","+/-4,844",90.5,+/-0.9

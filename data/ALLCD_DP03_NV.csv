@@ -1,0 +1,673 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",0.5,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",1,Population 16 years and over,"604,465","+/-12,008","604,465",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",2,In labor force,"375,837","+/-9,990",62.2,+/-1.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",3,Civilian labor force,"373,731","+/-10,099",61.8,+/-1.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",4,Employed,"333,471","+/-9,237",55.2,+/-1.0
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",5,Unemployed,"40,260","+/-3,847",6.7,+/-0.6
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",6,Armed Forces,"2,106",+/-967,0.3,+/-0.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",7,Not in labor force,"228,628","+/-7,773",37.8,+/-1.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",7.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",8,Civilian labor force,"373,731","+/-10,099","373,731",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",9,Unemployment Rate,(X),(X),10.8,+/-0.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",9.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",10,Females 16 years and over,"301,562","+/-7,158","301,562",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",11,In labor force,"173,959","+/-6,177",57.7,+/-1.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",12,Civilian labor force,"173,625","+/-6,195",57.6,+/-1.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",13,Employed,"154,286","+/-5,999",51.2,+/-1.6
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",13.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",14,Own children of the householder under 6 years,"48,494","+/-3,530","48,494",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",15,All parents in family in labor force,"31,059","+/-3,272",64.0,+/-5.0
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",15.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",16,Own children of the householder 6 to 17 years,"115,173","+/-6,513","115,173",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",17,All parents in family in labor force,"78,157","+/-6,108",67.9,+/-3.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",17.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",18,Workers 16 years and over,"325,689","+/-9,139","325,689",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",19,"Car, truck, or van -- drove alone","222,385","+/-7,623",68.3,+/-1.8
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",20,"Car, truck, or van -- carpooled","37,142","+/-4,381",11.4,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",21,Public transportation (excluding taxicab),"8,424","+/-1,723",2.6,+/-0.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",22,Walked,"5,184","+/-1,146",1.6,+/-0.4
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",23,Other means,"11,052","+/-2,168",3.4,+/-0.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",24,Worked from home,"41,502","+/-3,762",12.7,+/-1.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",24.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",25,Mean travel time to work (minutes),24.7,+/-0.6,(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",25.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",25.5,OCCUPATION,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",26,Civilian employed population 16 years and over,"333,471","+/-9,237","333,471",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",27,"Management, business, science, and arts occupations","101,025","+/-5,665",30.3,+/-1.4
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",28,Service occupations,"83,694","+/-4,999",25.1,+/-1.4
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",29,Sales and office occupations,"77,372","+/-4,969",23.2,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",30,"Natural resources, construction, and maintenance occupations","29,621","+/-3,054",8.9,+/-0.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",31,"Production, transportation, and material moving occupations","41,759","+/-3,507",12.5,+/-1.0
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",31.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",31.5,INDUSTRY,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",32,Civilian employed population 16 years and over,"333,471","+/-9,237","333,471",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",33,"Agriculture, forestry, fishing and hunting, and mining","1,168",+/-475,0.4,+/-0.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",34,Construction,"24,511","+/-3,188",7.4,+/-0.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",35,Manufacturing,"15,263","+/-2,352",4.6,+/-0.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",36,Wholesale trade,"5,183","+/-1,181",1.6,+/-0.4
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",37,Retail trade,"42,564","+/-4,106",12.8,+/-1.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",38,"Transportation and warehousing, and utilities","24,765","+/-2,783",7.4,+/-0.8
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",39,Information,"4,802","+/-1,196",1.4,+/-0.4
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",40,"Finance and insurance, and real estate and rental and leasing","19,719","+/-2,476",5.9,+/-0.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",41,"Professional, scientific, and management, and administrative and waste management services","42,655","+/-3,144",12.8,+/-0.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",42,"Educational services, and health care and social assistance","55,586","+/-5,117",16.7,+/-1.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",43,"Arts, entertainment, and recreation, and accommodation and food services","70,121","+/-5,077",21.0,+/-1.4
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",44,"Other services, except public administration","15,029","+/-2,245",4.5,+/-0.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",45,Public administration,"12,105","+/-1,580",3.6,+/-0.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",45.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",46,Civilian employed population 16 years and over,"333,471","+/-9,237","333,471",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",47,Private wage and salary workers,"273,331","+/-8,020",82.0,+/-1.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",48,Government workers,"40,898","+/-3,594",12.3,+/-1.0
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",49,Self-employed in own not incorporated business workers,"18,588","+/-2,887",5.6,+/-0.8
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",50,Unpaid family workers,654,+/-430,0.2,+/-0.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",50.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",51,Total households,"284,998","+/-5,041","284,998",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",52,"Less than $10,000","23,558","+/-2,705",8.3,+/-0.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",53,"$10,000 to $14,999","10,865","+/-1,570",3.8,+/-0.6
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",54,"$15,000 to $24,999","24,458","+/-2,624",8.6,+/-0.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",55,"$25,000 to $34,999","29,950","+/-3,523",10.5,+/-1.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",56,"$35,000 to $49,999","34,731","+/-2,987",12.2,+/-1.0
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",57,"$50,000 to $74,999","51,947","+/-3,633",18.2,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",58,"$75,000 to $99,999","38,213","+/-3,267",13.4,+/-1.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",59,"$100,000 to $149,999","35,652","+/-3,231",12.5,+/-1.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",60,"$150,000 to $199,999","19,122","+/-2,437",6.7,+/-0.8
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",61,"$200,000 or more","16,502","+/-2,006",5.8,+/-0.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",62,Median household income (dollars),"57,599","+/-2,156",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",63,Mean household income (dollars),"80,430","+/-3,191",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",63.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",64,With earnings,"211,158","+/-4,752",74.1,+/-1.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",65,Mean earnings (dollars),"79,135","+/-3,095",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",66,With Social Security,"87,902","+/-3,982",30.8,+/-1.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",67,Mean Social Security income (dollars),"20,652",+/-699,(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",68,With retirement income,"65,058","+/-3,389",22.8,+/-1.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",69,Mean retirement income (dollars),"27,966","+/-2,487",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",69.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",70,With Supplemental Security Income,"14,802","+/-2,050",5.2,+/-0.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",71,Mean Supplemental Security Income (dollars),"8,610",+/-680,(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",72,With cash public assistance income,"14,157","+/-1,884",5.0,+/-0.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",73,Mean cash public assistance income (dollars),"4,788",+/-821,(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",74,With Food Stamp/SNAP benefits in the past 12 months,"47,846","+/-3,590",16.8,+/-1.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",74.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",75,Families,"180,781","+/-5,283","180,781",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",76,"Less than $10,000","10,140","+/-2,015",5.6,+/-1.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",77,"$10,000 to $14,999","4,730","+/-1,255",2.6,+/-0.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",78,"$15,000 to $24,999","10,888","+/-1,667",6.0,+/-0.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",79,"$25,000 to $34,999","16,798","+/-2,391",9.3,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",80,"$35,000 to $49,999","21,253","+/-2,488",11.8,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",81,"$50,000 to $74,999","33,812","+/-2,762",18.7,+/-1.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",82,"$75,000 to $99,999","26,580","+/-2,650",14.7,+/-1.4
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",83,"$100,000 to $149,999","27,314","+/-2,775",15.1,+/-1.6
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",84,"$150,000 to $199,999","16,641","+/-2,309",9.2,+/-1.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",85,"$200,000 or more","12,625","+/-1,645",7.0,+/-0.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",86,Median family income (dollars),"70,130","+/-2,568",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",87,Mean family income (dollars),"93,162","+/-4,474",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",87.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",88,Per capita income (dollars),"31,108","+/-1,198",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",88.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",89,Nonfamily households,"104,217","+/-4,796","104,217",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",90,Median nonfamily income (dollars),"36,979","+/-3,031",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",91,Mean nonfamily income (dollars),"52,308","+/-2,983",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",91.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",92,Median earnings for workers (dollars),"33,017","+/-1,049",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",93,"Median earnings for male full-time, year-round workers (dollars)","47,077","+/-1,907",(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",94,"Median earnings for female full-time, year-round workers (dollars)","41,094",+/-920,(X),(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",94.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",95,Civilian noninstitutionalized population,"753,252","+/-14,253","753,252",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",96,With health insurance coverage,"652,622","+/-13,730",86.6,+/-1.0
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",97,With private health insurance,"431,464","+/-12,999",57.3,+/-1.6
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",98,With public coverage,"298,817","+/-13,229",39.7,+/-1.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",99,No health insurance coverage,"100,630","+/-7,726",13.4,+/-1.0
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",99.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",100,Civilian noninstitutionalized population under 19 years,"182,475","+/-7,030","182,475",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",101,No health insurance coverage,"18,876","+/-3,506",10.3,+/-1.8
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",101.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",102,Civilian noninstitutionalized population 19 to 64 years,"445,128","+/-10,810","445,128",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",103,In labor force:,"339,615","+/-9,346","339,615",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",104,Employed:,"304,227","+/-8,924","304,227",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",105,With health insurance coverage,"257,728","+/-8,964",84.7,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",106,With private health insurance,"228,666","+/-8,837",75.2,+/-1.6
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",107,With public coverage,"40,842","+/-3,690",13.4,+/-1.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",108,No health insurance coverage,"46,499","+/-4,032",15.3,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",109,Unemployed:,"35,388","+/-3,475","35,388",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",110,With health insurance coverage,"26,194","+/-2,811",74.0,+/-5.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",111,With private health insurance,"11,118","+/-1,836",31.4,+/-4.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",112,With public coverage,"15,794","+/-2,197",44.6,+/-4.8
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",113,No health insurance coverage,"9,194","+/-2,173",26.0,+/-5.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",114,Not in labor force:,"105,513","+/-5,773","105,513",(X)
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",115,With health insurance coverage,"82,366","+/-4,868",78.1,+/-2.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",116,With private health insurance,"41,470","+/-3,642",39.3,+/-2.8
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",117,With public coverage,"46,377","+/-3,590",44.0,+/-2.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",118,No health insurance coverage,"23,147","+/-2,632",21.9,+/-2.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",118.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",119,All families,(X),(X),13.0,+/-1.4
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",120,With related children of the householder under 18 years,(X),(X),20.4,+/-2.6
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",121,With related children of the householder under 5 years only,(X),(X),22.0,+/-7.5
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",122,Married couple families,(X),(X),7.7,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",123,With related children of the householder under 18 years,(X),(X),10.6,+/-2.4
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",124,With related children of the householder under 5 years only,(X),(X),11.0,+/-7.2
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",125,"Families with female householder, no spouse present",(X),(X),27.2,+/-3.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",126,With related children of the householder under 18 years,(X),(X),36.4,+/-5.7
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",127,With related children of the householder under 5 years only,(X),(X),38.3,+/-15.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",127.3,,,,,
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",128,All people,(X),(X),16.6,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",129,Under 18 years,(X),(X),22.5,+/-2.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",130,Related children of the householder under 18 years,(X),(X),22.3,+/-2.9
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",131,Related children of the householder under 5 years,(X),(X),26.8,+/-5.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",132,Related children of the householder 5 to 17 years,(X),(X),20.9,+/-3.0
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",133,18 years and over,(X),(X),14.8,+/-1.1
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",134,18 to 64 years,(X),(X),15.7,+/-1.3
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",135,65 years and over,(X),(X),11.5,+/-1.8
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",136,People in families,(X),(X),13.8,+/-1.6
+DP03,5001800US3201,"Congressional District 1 (118th Congress), Nevada",137,Unrelated individuals 15 years and over,(X),(X),26.7,+/-2.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",0.5,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",1,Population 16 years and over,"639,395","+/-2,549","639,395",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",2,In labor force,"403,606","+/-6,900",63.1,+/-1.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",3,Civilian labor force,"401,035","+/-6,914",62.7,+/-1.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",4,Employed,"377,816","+/-7,439",59.1,+/-1.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",5,Unemployed,"23,219","+/-3,376",3.6,+/-0.5
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",6,Armed Forces,"2,571",+/-977,0.4,+/-0.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",7,Not in labor force,"235,789","+/-6,516",36.9,+/-1.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",7.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",8,Civilian labor force,"401,035","+/-6,914","401,035",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",9,Unemployment Rate,(X),(X),5.8,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",9.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",10,Females 16 years and over,"311,054","+/-1,642","311,054",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",11,In labor force,"183,666","+/-4,423",59.0,+/-1.3
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",12,Civilian labor force,"182,747","+/-4,480",58.8,+/-1.3
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",13,Employed,"172,055","+/-4,646",55.3,+/-1.4
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",13.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",14,Own children of the householder under 6 years,"48,761","+/-2,513","48,761",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",15,All parents in family in labor force,"34,808","+/-3,053",71.4,+/-5.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",15.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",16,Own children of the householder 6 to 17 years,"107,032","+/-2,998","107,032",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",17,All parents in family in labor force,"80,782","+/-5,358",75.5,+/-4.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",17.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",18,Workers 16 years and over,"374,131","+/-7,570","374,131",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",19,"Car, truck, or van -- drove alone","261,393","+/-7,785",69.9,+/-1.7
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",20,"Car, truck, or van -- carpooled","38,180","+/-4,835",10.2,+/-1.3
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",21,Public transportation (excluding taxicab),"8,967","+/-2,140",2.4,+/-0.6
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",22,Walked,"5,907","+/-1,428",1.6,+/-0.4
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",23,Other means,"12,999","+/-2,552",3.5,+/-0.7
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",24,Worked from home,"46,685","+/-4,142",12.5,+/-1.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",24.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",25,Mean travel time to work (minutes),24.7,+/-0.7,(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",25.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",25.5,OCCUPATION,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",26,Civilian employed population 16 years and over,"377,816","+/-7,439","377,816",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",27,"Management, business, science, and arts occupations","133,096","+/-5,587",35.2,+/-1.4
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",28,Service occupations,"67,549","+/-4,960",17.9,+/-1.3
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",29,Sales and office occupations,"77,897","+/-4,946",20.6,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",30,"Natural resources, construction, and maintenance occupations","41,927","+/-4,291",11.1,+/-1.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",31,"Production, transportation, and material moving occupations","57,347","+/-4,702",15.2,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",31.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",31.5,INDUSTRY,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",32,Civilian employed population 16 years and over,"377,816","+/-7,439","377,816",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",33,"Agriculture, forestry, fishing and hunting, and mining","13,228","+/-2,103",3.5,+/-0.6
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",34,Construction,"29,554","+/-3,422",7.8,+/-0.9
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",35,Manufacturing,"35,179","+/-3,529",9.3,+/-0.9
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",36,Wholesale trade,"7,328","+/-1,695",1.9,+/-0.4
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",37,Retail trade,"35,659","+/-3,375",9.4,+/-0.9
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",38,"Transportation and warehousing, and utilities","27,656","+/-3,194",7.3,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",39,Information,"6,595","+/-1,714",1.7,+/-0.5
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",40,"Finance and insurance, and real estate and rental and leasing","21,178","+/-2,828",5.6,+/-0.7
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",41,"Professional, scientific, and management, and administrative and waste management services","41,810","+/-3,159",11.1,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",42,"Educational services, and health care and social assistance","72,233","+/-4,199",19.1,+/-1.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",43,"Arts, entertainment, and recreation, and accommodation and food services","43,879","+/-4,179",11.6,+/-1.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",44,"Other services, except public administration","17,623","+/-2,845",4.7,+/-0.7
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",45,Public administration,"25,894","+/-3,240",6.9,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",45.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",46,Civilian employed population 16 years and over,"377,816","+/-7,439","377,816",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",47,Private wage and salary workers,"296,889","+/-8,205",78.6,+/-1.5
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",48,Government workers,"61,365","+/-5,104",16.2,+/-1.3
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",49,Self-employed in own not incorporated business workers,"19,324","+/-2,676",5.1,+/-0.7
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",50,Unpaid family workers,238,+/-200,0.1,+/-0.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",50.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",51,Total households,"310,401","+/-3,223","310,401",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",52,"Less than $10,000","18,639","+/-2,343",6.0,+/-0.7
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",53,"$10,000 to $14,999","9,671","+/-1,969",3.1,+/-0.6
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",54,"$15,000 to $24,999","17,921","+/-1,922",5.8,+/-0.6
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",55,"$25,000 to $34,999","24,039","+/-2,287",7.7,+/-0.7
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",56,"$35,000 to $49,999","32,964","+/-3,422",10.6,+/-1.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",57,"$50,000 to $74,999","53,481","+/-4,153",17.2,+/-1.3
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",58,"$75,000 to $99,999","43,384","+/-3,006",14.0,+/-1.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",59,"$100,000 to $149,999","58,911","+/-3,763",19.0,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",60,"$150,000 to $199,999","25,859","+/-2,585",8.3,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",61,"$200,000 or more","25,532","+/-2,437",8.2,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",62,Median household income (dollars),"74,058","+/-2,508",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",63,Mean household income (dollars),"99,082","+/-3,713",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",63.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",64,With earnings,"235,081","+/-4,855",75.7,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",65,Mean earnings (dollars),"96,970","+/-4,178",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",66,With Social Security,"98,971","+/-3,146",31.9,+/-1.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",67,Mean Social Security income (dollars),"20,799",+/-741,(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",68,With retirement income,"80,533","+/-3,900",25.9,+/-1.3
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",69,Mean retirement income (dollars),"39,105","+/-2,917",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",69.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",70,With Supplemental Security Income,"12,166","+/-1,855",3.9,+/-0.6
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",71,Mean Supplemental Security Income (dollars),"10,195",+/-825,(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",72,With cash public assistance income,"8,811","+/-1,602",2.8,+/-0.5
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",73,Mean cash public assistance income (dollars),"3,841",+/-909,(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",74,With Food Stamp/SNAP benefits in the past 12 months,"36,483","+/-3,388",11.8,+/-1.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",74.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",75,Families,"193,403","+/-4,605","193,403",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",76,"Less than $10,000","5,629","+/-1,447",2.9,+/-0.7
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",77,"$10,000 to $14,999","3,671","+/-1,201",1.9,+/-0.6
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",78,"$15,000 to $24,999","7,193","+/-1,499",3.7,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",79,"$25,000 to $34,999","10,218","+/-1,799",5.3,+/-0.9
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",80,"$35,000 to $49,999","18,023","+/-2,336",9.3,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",81,"$50,000 to $74,999","34,310","+/-3,108",17.7,+/-1.5
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",82,"$75,000 to $99,999","31,087","+/-3,140",16.1,+/-1.5
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",83,"$100,000 to $149,999","42,584","+/-3,174",22.0,+/-1.6
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",84,"$150,000 to $199,999","20,314","+/-2,155",10.5,+/-1.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",85,"$200,000 or more","20,374","+/-2,229",10.5,+/-1.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",86,Median family income (dollars),"89,587","+/-3,311",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",87,Mean family income (dollars),"116,176","+/-5,300",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",87.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",88,Per capita income (dollars),"39,802","+/-1,431",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",88.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",89,Nonfamily households,"116,998","+/-3,866","116,998",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",90,Median nonfamily income (dollars),"45,383","+/-3,400",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",91,Mean nonfamily income (dollars),"64,877","+/-3,451",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",91.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",92,Median earnings for workers (dollars),"40,290",+/-567,(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",93,"Median earnings for male full-time, year-round workers (dollars)","57,214","+/-3,131",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",94,"Median earnings for female full-time, year-round workers (dollars)","45,713","+/-1,810",(X),(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",94.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",95,Civilian noninstitutionalized population,"774,053","+/-3,480","774,053",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",96,With health insurance coverage,"705,913","+/-6,440",91.2,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",97,With private health insurance,"535,990","+/-9,287",69.2,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",98,With public coverage,"264,698","+/-9,025",34.2,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",99,No health insurance coverage,"68,140","+/-6,011",8.8,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",99.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",100,Civilian noninstitutionalized population under 19 years,"175,037","+/-2,288","175,037",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",101,No health insurance coverage,"11,803","+/-2,684",6.7,+/-1.5
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",101.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",102,Civilian noninstitutionalized population 19 to 64 years,"454,252","+/-3,290","454,252",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",103,In labor force:,"360,481","+/-5,708","360,481",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",104,Employed:,"341,197","+/-5,862","341,197",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",105,With health insurance coverage,"303,594","+/-7,006",89.0,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",106,With private health insurance,"286,697","+/-6,856",84.0,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",107,With public coverage,"28,130","+/-2,618",8.2,+/-0.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",108,No health insurance coverage,"37,603","+/-3,989",11.0,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",109,Unemployed:,"19,284","+/-2,813","19,284",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",110,With health insurance coverage,"13,299","+/-2,365",69.0,+/-7.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",111,With private health insurance,"6,863","+/-1,601",35.6,+/-7.4
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",112,With public coverage,"6,717","+/-1,795",34.8,+/-6.9
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",113,No health insurance coverage,"5,985","+/-1,592",31.0,+/-7.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",114,Not in labor force:,"93,771","+/-5,626","93,771",(X)
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",115,With health insurance coverage,"82,497","+/-5,206",88.0,+/-1.9
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",116,With private health insurance,"50,010","+/-3,416",53.3,+/-3.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",117,With public coverage,"38,188","+/-4,029",40.7,+/-3.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",118,No health insurance coverage,"11,274","+/-1,919",12.0,+/-1.9
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",118.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",119,All families,(X),(X),7.1,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",120,With related children of the householder under 18 years,(X),(X),8.4,+/-1.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",121,With related children of the householder under 5 years only,(X),(X),5.5,+/-3.7
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",122,Married couple families,(X),(X),4.5,+/-1.0
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",123,With related children of the householder under 18 years,(X),(X),3.2,+/-1.4
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",124,With related children of the householder under 5 years only,(X),(X),1.4,+/-1.5
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",125,"Families with female householder, no spouse present",(X),(X),14.1,+/-3.8
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",126,With related children of the householder under 18 years,(X),(X),18.2,+/-5.9
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",127,With related children of the householder under 5 years only,(X),(X),19.0,+/-18.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",127.3,,,,,
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",128,All people,(X),(X),10.7,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",129,Under 18 years,(X),(X),11.3,+/-2.4
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",130,Related children of the householder under 18 years,(X),(X),10.6,+/-2.4
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",131,Related children of the householder under 5 years,(X),(X),9.2,+/-3.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",132,Related children of the householder 5 to 17 years,(X),(X),11.0,+/-2.6
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",133,18 years and over,(X),(X),10.5,+/-1.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",134,18 to 64 years,(X),(X),10.1,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",135,65 years and over,(X),(X),12.1,+/-2.1
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",136,People in families,(X),(X),7.3,+/-1.2
+DP03,5001800US3202,"Congressional District 2 (118th Congress), Nevada",137,Unrelated individuals 15 years and over,(X),(X),21.6,+/-2.5
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",0.5,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",1,Population 16 years and over,"655,032","+/-14,020","655,032",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",2,In labor force,"433,695","+/-10,829",66.2,+/-0.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",3,Civilian labor force,"432,584","+/-10,763",66.0,+/-0.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",4,Employed,"385,382","+/-9,401",58.8,+/-0.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",5,Unemployed,"47,202","+/-4,424",7.2,+/-0.6
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",6,Armed Forces,"1,111",+/-583,0.2,+/-0.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",7,Not in labor force,"221,337","+/-7,261",33.8,+/-0.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",7.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",8,Civilian labor force,"432,584","+/-10,763","432,584",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",9,Unemployment Rate,(X),(X),10.9,+/-0.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",9.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",10,Females 16 years and over,"332,447","+/-8,141","332,447",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",11,In labor force,"204,923","+/-7,024",61.6,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",12,Civilian labor force,"204,829","+/-7,004",61.6,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",13,Employed,"185,411","+/-6,345",55.8,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",13.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",14,Own children of the householder under 6 years,"55,813","+/-4,783","55,813",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",15,All parents in family in labor force,"35,801","+/-4,224",64.1,+/-5.0
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",15.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",16,Own children of the householder 6 to 17 years,"101,572","+/-6,518","101,572",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",17,All parents in family in labor force,"72,168","+/-6,709",71.1,+/-4.7
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",17.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",18,Workers 16 years and over,"376,103","+/-9,369","376,103",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",19,"Car, truck, or van -- drove alone","258,976","+/-8,229",68.9,+/-1.5
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",20,"Car, truck, or van -- carpooled","36,419","+/-4,630",9.7,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",21,Public transportation (excluding taxicab),"4,912","+/-1,443",1.3,+/-0.4
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",22,Walked,"3,202","+/-1,064",0.9,+/-0.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",23,Other means,"10,868","+/-2,505",2.9,+/-0.7
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",24,Worked from home,"61,726","+/-5,018",16.4,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",24.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",25,Mean travel time to work (minutes),22.8,+/-0.6,(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",25.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",25.5,OCCUPATION,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",26,Civilian employed population 16 years and over,"385,382","+/-9,401","385,382",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",27,"Management, business, science, and arts occupations","157,661","+/-7,333",40.9,+/-1.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",28,Service occupations,"83,290","+/-7,098",21.6,+/-1.7
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",29,Sales and office occupations,"87,812","+/-6,198",22.8,+/-1.5
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",30,"Natural resources, construction, and maintenance occupations","21,306","+/-2,820",5.5,+/-0.7
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",31,"Production, transportation, and material moving occupations","35,313","+/-3,240",9.2,+/-0.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",31.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",31.5,INDUSTRY,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",32,Civilian employed population 16 years and over,"385,382","+/-9,401","385,382",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",33,"Agriculture, forestry, fishing and hunting, and mining",593,+/-475,0.2,+/-0.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",34,Construction,"21,762","+/-3,082",5.6,+/-0.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",35,Manufacturing,"12,430","+/-2,300",3.2,+/-0.6
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",36,Wholesale trade,"5,136","+/-1,491",1.3,+/-0.4
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",37,Retail trade,"44,026","+/-4,434",11.4,+/-1.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",38,"Transportation and warehousing, and utilities","24,249","+/-3,278",6.3,+/-0.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",39,Information,"7,523","+/-1,512",2.0,+/-0.4
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",40,"Finance and insurance, and real estate and rental and leasing","33,982","+/-3,543",8.8,+/-0.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",41,"Professional, scientific, and management, and administrative and waste management services","47,167","+/-4,387",12.2,+/-1.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",42,"Educational services, and health care and social assistance","73,435","+/-4,945",19.1,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",43,"Arts, entertainment, and recreation, and accommodation and food services","88,002","+/-7,180",22.8,+/-1.7
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",44,"Other services, except public administration","13,746","+/-2,515",3.6,+/-0.6
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",45,Public administration,"13,331","+/-2,369",3.5,+/-0.6
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",45.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",46,Civilian employed population 16 years and over,"385,382","+/-9,401","385,382",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",47,Private wage and salary workers,"321,332","+/-9,701",83.4,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",48,Government workers,"41,816","+/-3,634",10.9,+/-1.0
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",49,Self-employed in own not incorporated business workers,"22,193","+/-3,135",5.8,+/-0.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",50,Unpaid family workers,41,+/-68,0.0,+/-0.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",50.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",51,Total households,"317,951","+/-6,192","317,951",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",52,"Less than $10,000","23,850","+/-3,108",7.5,+/-0.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",53,"$10,000 to $14,999","7,749","+/-1,773",2.4,+/-0.6
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",54,"$15,000 to $24,999","24,308","+/-2,596",7.6,+/-0.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",55,"$25,000 to $34,999","25,486","+/-2,803",8.0,+/-0.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",56,"$35,000 to $49,999","36,364","+/-3,642",11.4,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",57,"$50,000 to $74,999","51,952","+/-4,076",16.3,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",58,"$75,000 to $99,999","38,233","+/-3,669",12.0,+/-1.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",59,"$100,000 to $149,999","52,541","+/-4,103",16.5,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",60,"$150,000 to $199,999","25,464","+/-2,763",8.0,+/-0.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",61,"$200,000 or more","32,004","+/-2,840",10.1,+/-0.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",62,Median household income (dollars),"69,204","+/-3,211",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",63,Mean household income (dollars),"97,791","+/-3,515",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",63.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",64,With earnings,"250,450","+/-5,313",78.8,+/-1.0
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",65,Mean earnings (dollars),"96,753","+/-3,842",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",66,With Social Security,"89,060","+/-4,440",28.0,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",67,Mean Social Security income (dollars),"20,734",+/-632,(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",68,With retirement income,"64,334","+/-3,304",20.2,+/-0.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",69,Mean retirement income (dollars),"29,786","+/-2,137",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",69.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",70,With Supplemental Security Income,"10,586","+/-1,692",3.3,+/-0.5
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",71,Mean Supplemental Security Income (dollars),"9,935",+/-923,(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",72,With cash public assistance income,"14,468","+/-2,117",4.6,+/-0.7
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",73,Mean cash public assistance income (dollars),"7,655","+/-1,800",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",74,With Food Stamp/SNAP benefits in the past 12 months,"32,492","+/-3,562",10.2,+/-1.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",74.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",75,Families,"191,616","+/-5,891","191,616",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",76,"Less than $10,000","10,848","+/-1,969",5.7,+/-1.0
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",77,"$10,000 to $14,999","2,637",+/-880,1.4,+/-0.5
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",78,"$15,000 to $24,999","9,211","+/-1,874",4.8,+/-1.0
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",79,"$25,000 to $34,999","12,761","+/-2,138",6.7,+/-1.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",80,"$35,000 to $49,999","20,634","+/-2,878",10.8,+/-1.4
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",81,"$50,000 to $74,999","30,160","+/-2,844",15.7,+/-1.4
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",82,"$75,000 to $99,999","26,488","+/-2,926",13.8,+/-1.4
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",83,"$100,000 to $149,999","35,645","+/-3,261",18.6,+/-1.7
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",84,"$150,000 to $199,999","18,276","+/-2,249",9.5,+/-1.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",85,"$200,000 or more","24,956","+/-2,662",13.0,+/-1.4
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",86,Median family income (dollars),"83,375","+/-2,702",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",87,Mean family income (dollars),"113,266","+/-4,861",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",87.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",88,Per capita income (dollars),"39,472","+/-1,307",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",88.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",89,Nonfamily households,"126,335","+/-6,486","126,335",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",90,Median nonfamily income (dollars),"47,276","+/-4,335",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",91,Mean nonfamily income (dollars),"69,112","+/-4,281",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",91.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",92,Median earnings for workers (dollars),"41,190",+/-854,(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",93,"Median earnings for male full-time, year-round workers (dollars)","60,963","+/-2,342",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",94,"Median earnings for female full-time, year-round workers (dollars)","51,682","+/-1,759",(X),(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",94.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",95,Civilian noninstitutionalized population,"804,711","+/-17,042","804,711",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",96,With health insurance coverage,"715,591","+/-17,177",88.9,+/-0.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",97,With private health insurance,"530,123","+/-15,454",65.9,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",98,With public coverage,"266,304","+/-11,917",33.1,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",99,No health insurance coverage,"89,120","+/-7,383",11.1,+/-0.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",99.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",100,Civilian noninstitutionalized population under 19 years,"174,818","+/-8,346","174,818",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",101,No health insurance coverage,"14,382","+/-3,408",8.2,+/-1.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",101.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",102,Civilian noninstitutionalized population 19 to 64 years,"501,142","+/-11,354","501,142",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",103,In labor force:,"402,051","+/-10,814","402,051",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",104,Employed:,"359,239","+/-9,640","359,239",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",105,With health insurance coverage,"318,080","+/-9,208",88.5,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",106,With private health insurance,"292,583","+/-8,765",81.4,+/-1.4
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",107,With public coverage,"37,815","+/-4,940",10.5,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",108,No health insurance coverage,"41,159","+/-4,596",11.5,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",109,Unemployed:,"42,812","+/-4,168","42,812",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",110,With health insurance coverage,"31,221","+/-3,654",72.9,+/-4.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",111,With private health insurance,"18,987","+/-2,479",44.3,+/-4.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",112,With public coverage,"13,389","+/-2,687",31.3,+/-5.0
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",113,No health insurance coverage,"11,591","+/-2,097",27.1,+/-4.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",114,Not in labor force:,"99,091","+/-5,678","99,091",(X)
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",115,With health insurance coverage,"78,458","+/-4,507",79.2,+/-2.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",116,With private health insurance,"50,749","+/-4,002",51.2,+/-2.9
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",117,With public coverage,"33,977","+/-3,490",34.3,+/-3.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",118,No health insurance coverage,"20,633","+/-2,774",20.8,+/-2.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",118.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",119,All families,(X),(X),10.4,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",120,With related children of the householder under 18 years,(X),(X),15.4,+/-2.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",121,With related children of the householder under 5 years only,(X),(X),18.8,+/-5.6
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",122,Married couple families,(X),(X),8.1,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",123,With related children of the householder under 18 years,(X),(X),12.9,+/-2.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",124,With related children of the householder under 5 years only,(X),(X),20.0,+/-7.8
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",125,"Families with female householder, no spouse present",(X),(X),19.5,+/-3.5
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",126,With related children of the householder under 18 years,(X),(X),26.8,+/-5.6
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",127,With related children of the householder under 5 years only,(X),(X),27.2,+/-14.7
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",127.3,,,,,
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",128,All people,(X),(X),13.8,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",129,Under 18 years,(X),(X),18.4,+/-3.0
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",130,Related children of the householder under 18 years,(X),(X),18.1,+/-3.0
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",131,Related children of the householder under 5 years,(X),(X),24.2,+/-5.1
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",132,Related children of the householder 5 to 17 years,(X),(X),15.6,+/-3.0
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",133,18 years and over,(X),(X),12.6,+/-1.2
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",134,18 to 64 years,(X),(X),13.0,+/-1.3
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",135,65 years and over,(X),(X),10.7,+/-1.7
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",136,People in families,(X),(X),11.6,+/-1.5
+DP03,5001800US3203,"Congressional District 3 (118th Congress), Nevada",137,Unrelated individuals 15 years and over,(X),(X),20.8,+/-2.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",0.5,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",1,Population 16 years and over,"627,436","+/-12,820","627,436",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",2,In labor force,"377,466","+/-11,140",60.2,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",3,Civilian labor force,"370,218","+/-11,285",59.0,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",4,Employed,"328,024","+/-10,756",52.3,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",5,Unemployed,"42,194","+/-4,796",6.7,+/-0.7
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",6,Armed Forces,"7,248","+/-1,524",1.2,+/-0.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",7,Not in labor force,"249,970","+/-8,310",39.8,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",7.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",8,Civilian labor force,"370,218","+/-11,285","370,218",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",9,Unemployment Rate,(X),(X),11.4,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",9.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",10,Females 16 years and over,"312,942","+/-7,648","312,942",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",11,In labor force,"174,583","+/-6,529",55.8,+/-1.4
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",12,Civilian labor force,"173,523","+/-6,569",55.4,+/-1.4
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",13,Employed,"153,416","+/-6,772",49.0,+/-1.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",13.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",14,Own children of the householder under 6 years,"52,175","+/-5,197","52,175",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",15,All parents in family in labor force,"33,186","+/-3,877",63.6,+/-4.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",15.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",16,Own children of the householder 6 to 17 years,"129,120","+/-6,356","129,120",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",17,All parents in family in labor force,"82,716","+/-5,771",64.1,+/-3.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",17.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",18,Workers 16 years and over,"329,474","+/-10,566","329,474",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",19,"Car, truck, or van -- drove alone","246,771","+/-9,396",74.9,+/-1.7
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",20,"Car, truck, or van -- carpooled","32,329","+/-3,373",9.8,+/-1.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",21,Public transportation (excluding taxicab),"5,593","+/-1,324",1.7,+/-0.4
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",22,Walked,"4,140","+/-1,159",1.3,+/-0.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",23,Other means,"8,220","+/-2,448",2.5,+/-0.7
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",24,Worked from home,"32,421","+/-3,785",9.8,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",24.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",25,Mean travel time to work (minutes),26.2,+/-0.8,(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",25.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",25.5,OCCUPATION,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",26,Civilian employed population 16 years and over,"328,024","+/-10,756","328,024",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",27,"Management, business, science, and arts occupations","91,646","+/-6,586",27.9,+/-1.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",28,Service occupations,"80,180","+/-5,461",24.4,+/-1.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",29,Sales and office occupations,"73,930","+/-5,463",22.5,+/-1.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",30,"Natural resources, construction, and maintenance occupations","38,664","+/-3,341",11.8,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",31,"Production, transportation, and material moving occupations","43,604","+/-3,975",13.3,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",31.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",31.5,INDUSTRY,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",32,Civilian employed population 16 years and over,"328,024","+/-10,756","328,024",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",33,"Agriculture, forestry, fishing and hunting, and mining","2,956","+/-1,074",0.9,+/-0.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",34,Construction,"31,353","+/-3,123",9.6,+/-0.9
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",35,Manufacturing,"13,461","+/-2,044",4.1,+/-0.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",36,Wholesale trade,"4,806","+/-1,702",1.5,+/-0.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",37,Retail trade,"43,816","+/-3,927",13.4,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",38,"Transportation and warehousing, and utilities","24,117","+/-3,271",7.4,+/-1.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",39,Information,"4,324","+/-1,558",1.3,+/-0.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",40,"Finance and insurance, and real estate and rental and leasing","19,263","+/-2,880",5.9,+/-0.8
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",41,"Professional, scientific, and management, and administrative and waste management services","34,384","+/-3,693",10.5,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",42,"Educational services, and health care and social assistance","54,989","+/-5,154",16.8,+/-1.4
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",43,"Arts, entertainment, and recreation, and accommodation and food services","61,113","+/-4,320",18.6,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",44,"Other services, except public administration","16,188","+/-2,579",4.9,+/-0.7
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",45,Public administration,"17,254","+/-2,243",5.3,+/-0.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",45.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",46,Civilian employed population 16 years and over,"328,024","+/-10,756","328,024",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",47,Private wage and salary workers,"265,131","+/-8,677",80.8,+/-1.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",48,Government workers,"46,302","+/-4,440",14.1,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",49,Self-employed in own not incorporated business workers,"15,495","+/-2,304",4.7,+/-0.7
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",50,Unpaid family workers,"1,096",+/-569,0.3,+/-0.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",50.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",51,Total households,"278,030","+/-6,403","278,030",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",52,"Less than $10,000","19,913","+/-2,361",7.2,+/-0.9
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",53,"$10,000 to $14,999","10,096","+/-1,648",3.6,+/-0.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",54,"$15,000 to $24,999","20,285","+/-2,276",7.3,+/-0.8
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",55,"$25,000 to $34,999","24,636","+/-2,983",8.9,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",56,"$35,000 to $49,999","34,128","+/-2,687",12.3,+/-0.9
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",57,"$50,000 to $74,999","53,349","+/-3,954",19.2,+/-1.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",58,"$75,000 to $99,999","39,094","+/-3,335",14.1,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",59,"$100,000 to $149,999","44,015","+/-4,023",15.8,+/-1.4
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",60,"$150,000 to $199,999","16,671","+/-2,184",6.0,+/-0.8
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",61,"$200,000 or more","15,843","+/-2,257",5.7,+/-0.8
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",62,Median household income (dollars),"63,987","+/-1,614",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",63,Mean household income (dollars),"80,593","+/-2,496",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",63.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",64,With earnings,"206,896","+/-6,274",74.4,+/-1.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",65,Mean earnings (dollars),"80,007","+/-2,907",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",66,With Social Security,"86,675","+/-3,946",31.2,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",67,Mean Social Security income (dollars),"19,552",+/-725,(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",68,With retirement income,"69,498","+/-3,828",25.0,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",69,Mean retirement income (dollars),"30,742","+/-2,266",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",69.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",70,With Supplemental Security Income,"13,403","+/-1,655",4.8,+/-0.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",71,Mean Supplemental Security Income (dollars),"9,984",+/-701,(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",72,With cash public assistance income,"12,816","+/-1,976",4.6,+/-0.7
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",73,Mean cash public assistance income (dollars),"5,177","+/-1,141",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",74,With Food Stamp/SNAP benefits in the past 12 months,"45,117","+/-3,697",16.2,+/-1.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",74.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",75,Families,"187,896","+/-5,518","187,896",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",76,"Less than $10,000","9,737","+/-1,621",5.2,+/-0.9
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",77,"$10,000 to $14,999","4,428","+/-1,179",2.4,+/-0.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",78,"$15,000 to $24,999","10,326","+/-1,469",5.5,+/-0.8
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",79,"$25,000 to $34,999","15,184","+/-2,344",8.1,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",80,"$35,000 to $49,999","20,959","+/-1,991",11.2,+/-1.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",81,"$50,000 to $74,999","35,532","+/-3,333",18.9,+/-1.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",82,"$75,000 to $99,999","29,950","+/-3,015",15.9,+/-1.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",83,"$100,000 to $149,999","35,715","+/-3,699",19.0,+/-1.9
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",84,"$150,000 to $199,999","13,061","+/-1,970",7.0,+/-1.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",85,"$200,000 or more","13,004","+/-2,240",6.9,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",86,Median family income (dollars),"73,239","+/-3,499",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",87,Mean family income (dollars),"89,290","+/-3,468",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",87.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",88,Per capita income (dollars),"29,158",+/-969,(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",88.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",89,Nonfamily households,"90,134","+/-4,517","90,134",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",90,Median nonfamily income (dollars),"39,526","+/-2,565",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",91,Mean nonfamily income (dollars),"55,886","+/-4,012",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",91.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",92,Median earnings for workers (dollars),"34,255","+/-1,545",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",93,"Median earnings for male full-time, year-round workers (dollars)","50,744","+/-1,028",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",94,"Median earnings for female full-time, year-round workers (dollars)","41,108","+/-1,188",(X),(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",94.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",95,Civilian noninstitutionalized population,"773,744","+/-16,745","773,744",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",96,With health insurance coverage,"669,970","+/-17,612",86.6,+/-1.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",97,With private health insurance,"449,397","+/-16,295",58.1,+/-1.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",98,With public coverage,"305,445","+/-13,535",39.5,+/-1.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",99,No health insurance coverage,"103,774","+/-8,078",13.4,+/-1.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",99.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",100,Civilian noninstitutionalized population under 19 years,"199,562","+/-9,214","199,562",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",101,No health insurance coverage,"18,171","+/-3,752",9.1,+/-1.8
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",101.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",102,Civilian noninstitutionalized population 19 to 64 years,"457,826","+/-12,049","457,826",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",103,In labor force:,"344,956","+/-10,742","344,956",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",104,Employed:,"306,973","+/-10,090","306,973",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",105,With health insurance coverage,"257,536","+/-9,847",83.9,+/-1.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",106,With private health insurance,"230,921","+/-9,137",75.2,+/-1.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",107,With public coverage,"39,140","+/-4,224",12.8,+/-1.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",108,No health insurance coverage,"49,437","+/-3,932",16.1,+/-1.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",109,Unemployed:,"37,983","+/-4,400","37,983",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",110,With health insurance coverage,"28,165","+/-3,782",74.2,+/-4.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",111,With private health insurance,"12,380","+/-2,057",32.6,+/-4.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",112,With public coverage,"17,068","+/-3,012",44.9,+/-5.4
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",113,No health insurance coverage,"9,818","+/-1,744",25.8,+/-4.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",114,Not in labor force:,"112,870","+/-6,323","112,870",(X)
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",115,With health insurance coverage,"87,238","+/-5,907",77.3,+/-2.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",116,With private health insurance,"47,716","+/-4,036",42.3,+/-2.8
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",117,With public coverage,"45,773","+/-4,314",40.6,+/-2.9
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",118,No health insurance coverage,"25,632","+/-2,970",22.7,+/-2.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",118.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",119,All families,(X),(X),12.0,+/-1.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",120,With related children of the householder under 18 years,(X),(X),18.4,+/-2.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",121,With related children of the householder under 5 years only,(X),(X),18.4,+/-7.1
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",122,Married couple families,(X),(X),6.8,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",123,With related children of the householder under 18 years,(X),(X),9.3,+/-2.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",124,With related children of the householder under 5 years only,(X),(X),9.1,+/-7.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",125,"Families with female householder, no spouse present",(X),(X),25.0,+/-4.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",126,With related children of the householder under 18 years,(X),(X),32.5,+/-5.4
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",127,With related children of the householder under 5 years only,(X),(X),27.3,+/-12.6
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",127.3,,,,,
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",128,All people,(X),(X),15.4,+/-1.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",129,Under 18 years,(X),(X),22.0,+/-2.9
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",130,Related children of the householder under 18 years,(X),(X),21.8,+/-2.9
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",131,Related children of the householder under 5 years,(X),(X),21.0,+/-5.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",132,Related children of the householder 5 to 17 years,(X),(X),22.0,+/-3.3
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",133,18 years and over,(X),(X),13.3,+/-1.0
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",134,18 to 64 years,(X),(X),13.9,+/-1.2
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",135,65 years and over,(X),(X),11.0,+/-1.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",136,People in families,(X),(X),13.2,+/-1.5
+DP03,5001800US3204,"Congressional District 4 (118th Congress), Nevada",137,Unrelated individuals 15 years and over,(X),(X),24.9,+/-2.2

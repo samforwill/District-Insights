@@ -1,0 +1,337 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",0.5,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",1,Population 16 years and over,"577,614","+/-3,851","577,614",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",2,In labor force,"369,254","+/-5,226",63.9,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",3,Civilian labor force,"368,356","+/-5,249",63.8,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",4,Employed,"352,849","+/-5,809",61.1,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",5,Unemployed,"15,507","+/-1,993",2.7,+/-0.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",6,Armed Forces,898,+/-494,0.2,+/-0.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",7,Not in labor force,"208,360","+/-4,546",36.1,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",7.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",8,Civilian labor force,"368,356","+/-5,249","368,356",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",9,Unemployment Rate,(X),(X),4.2,+/-0.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",9.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",10,Females 16 years and over,"297,168","+/-2,543","297,168",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",11,In labor force,"178,000","+/-3,716",59.9,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",12,Civilian labor force,"177,622","+/-3,742",59.8,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",13,Employed,"170,590","+/-3,980",57.4,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",13.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",14,Own children of the householder under 6 years,"35,737","+/-1,714","35,737",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",15,All parents in family in labor force,"25,977","+/-2,373",72.7,+/-5.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",15.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",16,Own children of the householder 6 to 17 years,"83,866","+/-2,290","83,866",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",17,All parents in family in labor force,"65,344","+/-3,189",77.9,+/-3.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",17.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",18,Workers 16 years and over,"346,586","+/-5,973","346,586",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",19,"Car, truck, or van -- drove alone","227,784","+/-6,680",65.7,+/-1.5
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",20,"Car, truck, or van -- carpooled","24,013","+/-2,672",6.9,+/-0.7
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",21,Public transportation (excluding taxicab),"1,016",+/-535,0.3,+/-0.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",22,Walked,"15,761","+/-2,690",4.5,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",23,Other means,"4,652","+/-1,282",1.3,+/-0.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",24,Worked from home,"73,360","+/-3,890",21.2,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",24.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",25,Mean travel time to work (minutes),24.5,+/-0.9,(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",25.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",25.5,OCCUPATION,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",26,Civilian employed population 16 years and over,"352,849","+/-5,809","352,849",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",27,"Management, business, science, and arts occupations","163,702","+/-6,010",46.4,+/-1.7
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",28,Service occupations,"48,834","+/-3,843",13.8,+/-1.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",29,Sales and office occupations,"70,446","+/-4,226",20.0,+/-1.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",30,"Natural resources, construction, and maintenance occupations","31,797","+/-3,098",9.0,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",31,"Production, transportation, and material moving occupations","38,070","+/-3,244",10.8,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",31.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",31.5,INDUSTRY,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",32,Civilian employed population 16 years and over,"352,849","+/-5,809","352,849",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",33,"Agriculture, forestry, fishing and hunting, and mining","5,591","+/-1,362",1.6,+/-0.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",34,Construction,"27,570","+/-3,027",7.8,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",35,Manufacturing,"36,506","+/-3,293",10.3,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",36,Wholesale trade,"7,572","+/-1,644",2.1,+/-0.5
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",37,Retail trade,"36,853","+/-3,214",10.4,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",38,"Transportation and warehousing, and utilities","13,757","+/-2,407",3.9,+/-0.7
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",39,Information,"6,521","+/-1,399",1.8,+/-0.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",40,"Finance and insurance, and real estate and rental and leasing","31,267","+/-3,806",8.9,+/-1.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",41,"Professional, scientific, and management, and administrative and waste management services","43,626","+/-3,583",12.4,+/-1.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",42,"Educational services, and health care and social assistance","92,729","+/-4,792",26.3,+/-1.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",43,"Arts, entertainment, and recreation, and accommodation and food services","23,852","+/-2,732",6.8,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",44,"Other services, except public administration","13,650","+/-2,076",3.9,+/-0.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",45,Public administration,"13,355","+/-1,910",3.8,+/-0.5
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",45.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",46,Civilian employed population 16 years and over,"352,849","+/-5,809","352,849",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",47,Private wage and salary workers,"273,343","+/-6,327",77.5,+/-1.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",48,Government workers,"47,315","+/-4,003",13.4,+/-1.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",49,Self-employed in own not incorporated business workers,"31,977","+/-3,147",9.1,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",50,Unpaid family workers,214,+/-249,0.1,+/-0.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",50.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",51,Total households,"294,515","+/-4,037","294,515",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",52,"Less than $10,000","13,566","+/-1,845",4.6,+/-0.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",53,"$10,000 to $14,999","8,801","+/-1,617",3.0,+/-0.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",54,"$15,000 to $24,999","19,661","+/-2,550",6.7,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",55,"$25,000 to $34,999","20,455","+/-2,081",6.9,+/-0.7
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",56,"$35,000 to $49,999","31,486","+/-3,136",10.7,+/-1.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",57,"$50,000 to $74,999","51,541","+/-3,722",17.5,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",58,"$75,000 to $99,999","44,523","+/-3,613",15.1,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",59,"$100,000 to $149,999","52,716","+/-3,785",17.9,+/-1.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",60,"$150,000 to $199,999","24,055","+/-2,308",8.2,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",61,"$200,000 or more","27,711","+/-2,427",9.4,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",62,Median household income (dollars),"76,039","+/-2,572",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",63,Mean household income (dollars),"102,082","+/-3,360",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",63.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",64,With earnings,"221,233","+/-4,390",75.1,+/-1.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",65,Mean earnings (dollars),"101,457","+/-3,799",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",66,With Social Security,"104,201","+/-2,776",35.4,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",67,Mean Social Security income (dollars),"21,399",+/-559,(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",68,With retirement income,"78,307","+/-3,797",26.6,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",69,Mean retirement income (dollars),"30,189","+/-1,874",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",69.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",70,With Supplemental Security Income,"12,772","+/-1,895",4.3,+/-0.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",71,Mean Supplemental Security Income (dollars),"10,370",+/-733,(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",72,With cash public assistance income,"8,188","+/-1,488",2.8,+/-0.5
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",73,Mean cash public assistance income (dollars),"4,662","+/-1,013",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",74,With Food Stamp/SNAP benefits in the past 12 months,"23,189","+/-2,570",7.9,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",74.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",75,Families,"181,706","+/-5,094","181,706",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",76,"Less than $10,000","3,655","+/-1,227",2.0,+/-0.7
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",77,"$10,000 to $14,999","1,695",+/-772,0.9,+/-0.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",78,"$15,000 to $24,999","5,436","+/-1,737",3.0,+/-1.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",79,"$25,000 to $34,999","9,708","+/-1,673",5.3,+/-0.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",80,"$35,000 to $49,999","15,718","+/-1,790",8.7,+/-1.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",81,"$50,000 to $74,999","30,368","+/-2,791",16.7,+/-1.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",82,"$75,000 to $99,999","32,344","+/-2,648",17.8,+/-1.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",83,"$100,000 to $149,999","39,419","+/-3,038",21.7,+/-1.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",84,"$150,000 to $199,999","19,569","+/-1,951",10.8,+/-1.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",85,"$200,000 or more","23,794","+/-2,075",13.1,+/-1.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",86,Median family income (dollars),"93,614","+/-1,911",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",87,Mean family income (dollars),"124,661","+/-4,857",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",87.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",88,Per capita income (dollars),"44,475","+/-1,441",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",88.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",89,Nonfamily households,"112,809","+/-4,620","112,809",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",90,Median nonfamily income (dollars),"44,158","+/-3,232",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",91,Mean nonfamily income (dollars),"61,296","+/-4,234",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",91.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",92,Median earnings for workers (dollars),"42,887","+/-1,337",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",93,"Median earnings for male full-time, year-round workers (dollars)","62,940","+/-1,968",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",94,"Median earnings for female full-time, year-round workers (dollars)","51,569","+/-1,071",(X),(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",94.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",95,Civilian noninstitutionalized population,"679,900","+/-4,593","679,900",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",96,With health insurance coverage,"648,658","+/-5,224",95.4,+/-0.5
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",97,With private health insurance,"518,075","+/-10,370",76.2,+/-1.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",98,With public coverage,"237,883","+/-7,984",35.0,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",99,No health insurance coverage,"31,242","+/-3,604",4.6,+/-0.5
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",99.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",100,Civilian noninstitutionalized population under 19 years,"129,961","+/-2,637","129,961",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",101,No health insurance coverage,"4,680","+/-1,607",3.6,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",101.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",102,Civilian noninstitutionalized population 19 to 64 years,"405,938","+/-3,406","405,938",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",103,In labor force:,"331,042","+/-4,799","331,042",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",104,Employed:,"318,590","+/-5,292","318,590",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",105,With health insurance coverage,"299,966","+/-6,070",94.2,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",106,With private health insurance,"280,969","+/-6,473",88.2,+/-1.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",107,With public coverage,"32,493","+/-3,712",10.2,+/-1.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",108,No health insurance coverage,"18,624","+/-2,515",5.8,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",109,Unemployed:,"12,452","+/-2,020","12,452",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",110,With health insurance coverage,"10,122","+/-1,859",81.3,+/-6.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",111,With private health insurance,"5,869","+/-1,284",47.1,+/-9.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",112,With public coverage,"4,624","+/-1,670",37.1,+/-10.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",113,No health insurance coverage,"2,330",+/-834,18.7,+/-6.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",114,Not in labor force:,"74,896","+/-4,058","74,896",(X)
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",115,With health insurance coverage,"69,305","+/-3,870",92.5,+/-1.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",116,With private health insurance,"45,279","+/-3,953",60.5,+/-4.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",117,With public coverage,"29,938","+/-3,220",40.0,+/-3.9
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",118,No health insurance coverage,"5,591","+/-1,272",7.5,+/-1.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",118.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",119,All families,(X),(X),4.7,+/-1.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",120,With related children of the householder under 18 years,(X),(X),7.4,+/-2.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",121,With related children of the householder under 5 years only,(X),(X),5.4,+/-4.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",122,Married couple families,(X),(X),1.8,+/-0.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",123,With related children of the householder under 18 years,(X),(X),1.3,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",124,With related children of the householder under 5 years only,(X),(X),1.3,+/-1.6
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",125,"Families with female householder, no spouse present",(X),(X),18.6,+/-5.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",126,With related children of the householder under 18 years,(X),(X),27.3,+/-8.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",127,With related children of the householder under 5 years only,(X),(X),34.2,+/-30.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",127.3,,,,,
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",128,All people,(X),(X),8.2,+/-1.1
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",129,Under 18 years,(X),(X),9.7,+/-3.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",130,Related children of the householder under 18 years,(X),(X),9.6,+/-3.4
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",131,Related children of the householder under 5 years,(X),(X),10.4,+/-4.7
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",132,Related children of the householder 5 to 17 years,(X),(X),9.3,+/-3.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",133,18 years and over,(X),(X),7.8,+/-0.8
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",134,18 to 64 years,(X),(X),7.9,+/-1.0
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",135,65 years and over,(X),(X),7.7,+/-1.3
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",136,People in families,(X),(X),5.0,+/-1.2
+DP03,5001800US2301,"Congressional District 1 (118th Congress), Maine",137,Unrelated individuals 15 years and over,(X),(X),18.5,+/-1.8
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",0.5,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",1,Population 16 years and over,"578,085","+/-3,435","578,085",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",2,In labor force,"339,652","+/-6,218",58.8,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",3,Civilian labor force,"338,555","+/-6,268",58.6,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",4,Employed,"319,631","+/-6,797",55.3,+/-1.2
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",5,Unemployed,"18,924","+/-2,312",3.3,+/-0.4
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",6,Armed Forces,"1,097",+/-657,0.2,+/-0.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",7,Not in labor force,"238,433","+/-6,271",41.2,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",7.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",8,Civilian labor force,"338,555","+/-6,268","338,555",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",9,Unemployment Rate,(X),(X),5.6,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",9.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",10,Females 16 years and over,"295,167","+/-2,286","295,167",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",11,In labor force,"164,844","+/-3,754",55.8,+/-1.2
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",12,Civilian labor force,"164,831","+/-3,752",55.8,+/-1.2
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",13,Employed,"155,925","+/-4,188",52.8,+/-1.4
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",13.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",14,Own children of the householder under 6 years,"36,135","+/-1,824","36,135",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",15,All parents in family in labor force,"23,772","+/-1,922",65.8,+/-4.4
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",15.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",16,Own children of the householder 6 to 17 years,"81,253","+/-2,309","81,253",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",17,All parents in family in labor force,"58,191","+/-3,864",71.6,+/-3.8
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",17.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",18,Workers 16 years and over,"313,879","+/-6,445","313,879",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",19,"Car, truck, or van -- drove alone","229,569","+/-6,641",73.1,+/-1.5
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",20,"Car, truck, or van -- carpooled","26,774","+/-2,905",8.5,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",21,Public transportation (excluding taxicab),686,+/-455,0.2,+/-0.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",22,Walked,"9,058","+/-1,387",2.9,+/-0.4
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",23,Other means,"3,960",+/-883,1.3,+/-0.3
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",24,Worked from home,"43,832","+/-3,598",14.0,+/-1.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",24.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",25,Mean travel time to work (minutes),24.0,+/-0.8,(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",25.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",25.5,OCCUPATION,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",26,Civilian employed population 16 years and over,"319,631","+/-6,797","319,631",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",27,"Management, business, science, and arts occupations","122,929","+/-4,954",38.5,+/-1.3
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",28,Service occupations,"54,385","+/-3,003",17.0,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",29,Sales and office occupations,"63,249","+/-4,019",19.8,+/-1.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",30,"Natural resources, construction, and maintenance occupations","34,857","+/-2,559",10.9,+/-0.8
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",31,"Production, transportation, and material moving occupations","44,211","+/-3,431",13.8,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",31.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",31.5,INDUSTRY,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",32,Civilian employed population 16 years and over,"319,631","+/-6,797","319,631",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",33,"Agriculture, forestry, fishing and hunting, and mining","10,251","+/-1,352",3.2,+/-0.4
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",34,Construction,"25,228","+/-2,314",7.9,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",35,Manufacturing,"29,271","+/-2,841",9.2,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",36,Wholesale trade,"5,095","+/-1,069",1.6,+/-0.3
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",37,Retail trade,"42,596","+/-3,464",13.3,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",38,"Transportation and warehousing, and utilities","15,295","+/-1,825",4.8,+/-0.6
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",39,Information,"4,332",+/-955,1.4,+/-0.3
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",40,"Finance and insurance, and real estate and rental and leasing","16,443","+/-2,107",5.1,+/-0.6
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",41,"Professional, scientific, and management, and administrative and waste management services","27,427","+/-2,861",8.6,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",42,"Educational services, and health care and social assistance","90,759","+/-4,502",28.4,+/-1.3
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",43,"Arts, entertainment, and recreation, and accommodation and food services","20,855","+/-2,417",6.5,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",44,"Other services, except public administration","13,698","+/-1,771",4.3,+/-0.5
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",45,Public administration,"18,381","+/-1,875",5.8,+/-0.6
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",45.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",46,Civilian employed population 16 years and over,"319,631","+/-6,797","319,631",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",47,Private wage and salary workers,"242,445","+/-6,978",75.9,+/-1.2
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",48,Government workers,"49,771","+/-3,084",15.6,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",49,Self-employed in own not incorporated business workers,"26,686","+/-2,347",8.3,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",50,Unpaid family workers,729,+/-299,0.2,+/-0.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",50.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",51,Total households,"299,111","+/-3,114","299,111",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",52,"Less than $10,000","18,608","+/-2,065",6.2,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",53,"$10,000 to $14,999","17,959","+/-2,192",6.0,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",54,"$15,000 to $24,999","29,031","+/-2,241",9.7,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",55,"$25,000 to $34,999","29,236","+/-2,680",9.8,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",56,"$35,000 to $49,999","40,656","+/-2,595",13.6,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",57,"$50,000 to $74,999","52,435","+/-3,080",17.5,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",58,"$75,000 to $99,999","40,752","+/-2,917",13.6,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",59,"$100,000 to $149,999","43,731","+/-2,839",14.6,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",60,"$150,000 to $199,999","14,582","+/-1,944",4.9,+/-0.6
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",61,"$200,000 or more","12,121","+/-1,451",4.1,+/-0.5
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",62,Median household income (dollars),"55,629","+/-1,724",(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",63,Mean household income (dollars),"73,650","+/-2,327",(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",63.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",64,With earnings,"210,664","+/-3,993",70.4,+/-1.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",65,Mean earnings (dollars),"76,323","+/-2,486",(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",66,With Social Security,"112,936","+/-2,724",37.8,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",67,Mean Social Security income (dollars),"19,096",+/-428,(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",68,With retirement income,"76,017","+/-3,096",25.4,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",69,Mean retirement income (dollars),"23,696","+/-1,241",(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",69.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",70,With Supplemental Security Income,"20,615","+/-2,137",6.9,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",71,Mean Supplemental Security Income (dollars),"10,425",+/-511,(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",72,With cash public assistance income,"10,550","+/-1,534",3.5,+/-0.5
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",73,Mean cash public assistance income (dollars),"3,649",+/-476,(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",74,With Food Stamp/SNAP benefits in the past 12 months,"44,970","+/-3,469",15.0,+/-1.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",74.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",75,Families,"183,520","+/-4,138","183,520",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",76,"Less than $10,000","6,354","+/-1,276",3.5,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",77,"$10,000 to $14,999","3,845",+/-914,2.1,+/-0.5
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",78,"$15,000 to $24,999","11,309","+/-1,671",6.2,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",79,"$25,000 to $34,999","14,323","+/-1,721",7.8,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",80,"$35,000 to $49,999","22,707","+/-2,075",12.4,+/-1.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",81,"$50,000 to $74,999","36,217","+/-2,761",19.7,+/-1.5
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",82,"$75,000 to $99,999","31,047","+/-2,618",16.9,+/-1.4
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",83,"$100,000 to $149,999","35,217","+/-2,756",19.2,+/-1.4
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",84,"$150,000 to $199,999","12,078","+/-1,594",6.6,+/-0.8
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",85,"$200,000 or more","10,423","+/-1,340",5.7,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",86,Median family income (dollars),"73,087","+/-2,305",(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",87,Mean family income (dollars),"89,372","+/-3,169",(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",87.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",88,Per capita income (dollars),"32,483",+/-890,(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",88.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",89,Nonfamily households,"115,591","+/-4,024","115,591",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",90,Median nonfamily income (dollars),"31,698","+/-1,407",(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",91,Mean nonfamily income (dollars),"44,537","+/-2,319",(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",91.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",92,Median earnings for workers (dollars),"36,027",+/-899,(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",93,"Median earnings for male full-time, year-round workers (dollars)","52,026",+/-800,(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",94,"Median earnings for female full-time, year-round workers (dollars)","42,672","+/-1,419",(X),(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",94.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",95,Civilian noninstitutionalized population,"677,220","+/-4,761","677,220",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",96,With health insurance coverage,"630,823","+/-6,756",93.1,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",97,With private health insurance,"439,559","+/-9,331",64.9,+/-1.4
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",98,With public coverage,"302,504","+/-8,671",44.7,+/-1.2
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",99,No health insurance coverage,"46,397","+/-4,480",6.9,+/-0.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",99.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",100,Civilian noninstitutionalized population under 19 years,"133,527","+/-2,341","133,527",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",101,No health insurance coverage,"6,604","+/-1,783",4.9,+/-1.3
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",101.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",102,Civilian noninstitutionalized population 19 to 64 years,"397,896","+/-3,691","397,896",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",103,In labor force:,"298,545","+/-5,544","298,545",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",104,Employed:,"282,897","+/-5,621","282,897",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",105,With health insurance coverage,"257,098","+/-6,276",90.9,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",106,With private health insurance,"231,695","+/-6,087",81.9,+/-1.3
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",107,With public coverage,"38,427","+/-3,233",13.6,+/-1.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",108,No health insurance coverage,"25,799","+/-2,832",9.1,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",109,Unemployed:,"15,648","+/-2,232","15,648",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",110,With health insurance coverage,"11,463","+/-2,137",73.3,+/-6.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",111,With private health insurance,"4,818","+/-1,232",30.8,+/-6.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",112,With public coverage,"7,208","+/-1,693",46.1,+/-6.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",113,No health insurance coverage,"4,185",+/-934,26.7,+/-6.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",114,Not in labor force:,"99,351","+/-4,851","99,351",(X)
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",115,With health insurance coverage,"89,751","+/-4,376",90.3,+/-1.5
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",116,With private health insurance,"41,455","+/-3,302",41.7,+/-2.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",117,With public coverage,"57,668","+/-3,800",58.0,+/-2.5
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",118,No health insurance coverage,"9,600","+/-1,665",9.7,+/-1.5
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",118.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",119,All families,(X),(X),9.7,+/-1.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",120,With related children of the householder under 18 years,(X),(X),17.1,+/-2.6
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",121,With related children of the householder under 5 years only,(X),(X),19.4,+/-6.3
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",122,Married couple families,(X),(X),5.6,+/-0.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",123,With related children of the householder under 18 years,(X),(X),8.5,+/-2.3
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",124,With related children of the householder under 5 years only,(X),(X),7.1,+/-6.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",125,"Families with female householder, no spouse present",(X),(X),28.4,+/-4.7
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",126,With related children of the householder under 18 years,(X),(X),39.8,+/-6.6
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",127,With related children of the householder under 5 years only,(X),(X),54.3,+/-16.9
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",127.3,,,,,
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",128,All people,(X),(X),14.9,+/-1.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",129,Under 18 years,(X),(X),20.5,+/-3.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",130,Related children of the householder under 18 years,(X),(X),19.8,+/-3.1
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",131,Related children of the householder under 5 years,(X),(X),22.1,+/-4.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",132,Related children of the householder 5 to 17 years,(X),(X),19.1,+/-3.4
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",133,18 years and over,(X),(X),13.6,+/-1.0
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",134,18 to 64 years,(X),(X),14.8,+/-1.2
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",135,65 years and over,(X),(X),10.6,+/-1.2
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",136,People in families,(X),(X),10.8,+/-1.2
+DP03,5001800US2302,"Congressional District 2 (118th Congress), Maine",137,Unrelated individuals 15 years and over,(X),(X),27.9,+/-2.0

@@ -1,0 +1,1601 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",0.5,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",1,Total households,"304,917","+/-3,566","304,917",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",2,Married-couple household,"158,294","+/-4,377",51.9,+/-1.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",3,With children of the householder under 18 years,"52,414","+/-3,350",17.2,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",4,Cohabiting couple household,"20,253","+/-2,820",6.6,+/-0.9
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",5,With children of the householder under 18 years,"5,944","+/-1,246",1.9,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",6,"Male householder, no spouse/partner present","48,097","+/-3,327",15.8,+/-1.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",7,With children of the householder under 18 years,"3,778",+/-973,1.2,+/-0.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",8,Householder living alone,"35,050","+/-2,946",11.5,+/-0.9
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",9,65 years and over,"11,855","+/-1,539",3.9,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",10,"Female householder, no spouse/partner present","78,273","+/-3,114",25.7,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",11,With children of the householder under 18 years,"14,576","+/-1,887",4.8,+/-0.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",12,Householder living alone,"42,999","+/-2,684",14.1,+/-0.9
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",13,65 years and over,"24,284","+/-1,877",8.0,+/-0.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",13.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",14,Households with one or more people under 18 years,"85,025","+/-4,210",27.9,+/-1.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",15,Households with one or more people 65 years and over,"105,075","+/-2,635",34.5,+/-0.8
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",15.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",16,Average household size,2.51,+/-0.03,(X),(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",17,Average family size,3.02,+/-0.05,(X),(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",17.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",17.5,RELATIONSHIP,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",18,Population in households,"764,262","+/-7,519","764,262",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",19,Householder,"304,917","+/-3,566",39.9,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",20,Spouse,"158,248","+/-4,277",20.7,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",21,Unmarried partner,"20,149","+/-2,767",2.6,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",22,Child,"214,714","+/-5,872",28.1,+/-0.7
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",23,Other relatives,"48,731","+/-4,553",6.4,+/-0.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",24,Other nonrelatives,"17,503","+/-3,715",2.3,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",24.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",24.5,MARITAL STATUS,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",25,Males 15 years and over,"314,873","+/-2,880","314,873",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",26,Never married,"105,663","+/-4,651",33.6,+/-1.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",27,"Now married, except separated","166,072","+/-5,119",52.7,+/-1.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",28,Separated,"4,159",+/-963,1.3,+/-0.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",29,Widowed,"9,404","+/-1,564",3.0,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",30,Divorced,"29,575","+/-3,036",9.4,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",30.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",31,Females 15 years and over,"331,588","+/-3,275","331,588",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",32,Never married,"89,921","+/-3,978",27.1,+/-1.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",33,"Now married, except separated","167,519","+/-4,676",50.5,+/-1.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",34,Separated,"6,493","+/-1,366",2.0,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",35,Widowed,"29,761","+/-2,295",9.0,+/-0.7
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",36,Divorced,"37,894","+/-3,124",11.4,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",36.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",36.5,FERTILITY,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,134","+/-1,753","9,134",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",38,"Unmarried women (widowed, divorced, and never married)","2,339","+/-1,120",25.6,+/-10.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",39,"Per 1,000 unmarried women",25,+/-12,(X),(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",40,"Per 1,000 women 15 to 50 years old",54,+/-10,(X),(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",41,"Per 1,000 women 15 to 19 years old",0,+/-8,(X),(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",42,"Per 1,000 women 20 to 34 years old",89,+/-22,(X),(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",43,"Per 1,000 women 35 to 50 years old",39,+/-15,(X),(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",43.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",43.5,GRANDPARENTS,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",44,Number of grandparents living with own grandchildren under 18 years,"15,527","+/-2,549","15,527",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",45,Grandparents responsible for grandchildren,"4,604","+/-1,308",29.7,+/-6.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",46,Less than 1 year,793,+/-500,5.1,+/-3.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",47,1 or 2 years,590,+/-360,3.8,+/-2.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",48,3 or 4 years,718,+/-523,4.6,+/-3.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",49,5 or more years,"2,503","+/-1,003",16.1,+/-5.8
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",49.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",50,Number of grandparents responsible for own grandchildren under 18 years,"4,604","+/-1,308","4,604",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",51,Who are female,"2,881",+/-849,62.6,+/-8.7
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",52,Who are married,"3,072","+/-1,059",66.7,+/-11.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",52.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",53,Population 3 years and over enrolled in school,"178,554","+/-4,914","178,554",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",54,"Nursery school, preschool","9,239","+/-1,454",5.2,+/-0.8
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",55,Kindergarten,"8,592","+/-1,390",4.8,+/-0.8
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",56,Elementary school (grades 1-8),"73,853","+/-3,169",41.4,+/-1.8
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",57,High school (grades 9-12),"42,311","+/-2,728",23.7,+/-1.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",58,College or graduate school,"44,559","+/-3,525",25.0,+/-1.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",58.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",59,Population 25 years and over,"544,716","+/-5,327","544,716",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",60,Less than 9th grade,"12,237","+/-1,745",2.2,+/-0.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",61,"9th to 12th grade, no diploma","31,571","+/-2,785",5.8,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",62,High school graduate (includes equivalency),"165,688","+/-5,718",30.4,+/-1.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",63,"Some college, no degree","106,517","+/-5,317",19.6,+/-0.9
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",64,Associate's degree,"45,012","+/-3,633",8.3,+/-0.7
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",65,Bachelor's degree,"110,294","+/-5,598",20.2,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",66,Graduate or professional degree,"73,397","+/-4,705",13.5,+/-0.9
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",66.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",67,High school graduate or higher,"500,908","+/-5,333",92.0,+/-0.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",68,Bachelor's degree or higher,"183,691","+/-7,154",33.7,+/-1.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",68.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",68.5,VETERAN STATUS,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",69,Civilian population 18 years and over,"612,858","+/-5,039","612,858",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",70,Civilian veterans,"48,370","+/-2,744",7.9,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",70.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",71,Total Civilian Noninstitutionalized Population,"769,102","+/-7,210","769,102",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",72,With a disability,"91,440","+/-4,499",11.9,+/-0.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",72.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",73,Under 18 years,"164,844","+/-3,469","164,844",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",74,With a disability,"8,141","+/-1,582",4.9,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",74.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",75,18 to 64 years,"458,448","+/-5,073","458,448",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",76,With a disability,"42,236","+/-3,900",9.2,+/-0.8
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",76.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",77,65 years and over,"145,810","+/-2,616","145,810",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",78,With a disability,"41,063","+/-2,474",28.2,+/-1.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",78.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",79,Population 1 year and over,"773,473","+/-6,422","773,473",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",80,Same house,"692,227","+/-9,781",89.5,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",81,Different house (in the U.S. or abroad),"81,246","+/-8,045",10.5,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",82,Different house in the U.S.,"78,817","+/-7,636",10.2,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",83,Same county,"33,718","+/-5,286",4.4,+/-0.7
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",84,Different county,"45,099","+/-6,196",5.8,+/-0.8
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",85,Same state,"26,846","+/-5,246",3.5,+/-0.7
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",86,Different state,"18,253","+/-3,918",2.4,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",87,Abroad,"2,429","+/-1,567",0.3,+/-0.2
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",87.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",88,Total population,"780,224","+/-6,453","780,224",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",89,Native,"734,445","+/-7,482",94.1,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",90,Born in United States,"723,644","+/-7,191",92.7,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",91,State of residence,"485,009","+/-9,225",62.2,+/-1.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",92,Different state,"238,635","+/-7,987",30.6,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","10,801","+/-1,887",1.4,+/-0.2
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",94,Foreign born,"45,779","+/-4,005",5.9,+/-0.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",94.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",95,Foreign-born population,"45,779","+/-4,005","45,779",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",96,Naturalized U.S. citizen,"25,205","+/-3,033",55.1,+/-5.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",97,Not a U.S. citizen,"20,574","+/-3,017",44.9,+/-5.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",97.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",98,Population born outside the United States,"56,580","+/-4,203","56,580",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",98.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",99,Native,"10,801","+/-1,887","10,801",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",100,Entered 2010 or later,"2,511",+/-961,23.2,+/-8.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",101,Entered before 2010,"8,290","+/-1,693",76.8,+/-8.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",101.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",102,Foreign born,"45,779","+/-4,005","45,779",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",103,Entered 2010 or later,"11,665","+/-2,328",25.5,+/-3.9
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",104,Entered before 2010,"34,114","+/-2,868",74.5,+/-3.9
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",104.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",105,"Foreign-born population, excluding population born at sea","45,779","+/-4,005","45,779",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",106,Europe,"6,558","+/-1,470",14.3,+/-3.2
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",107,Asia,"14,334","+/-2,419",31.3,+/-4.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",108,Africa,"5,521","+/-2,016",12.1,+/-4.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",109,Oceania,128,+/-137,0.3,+/-0.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",110,Latin America,"18,129","+/-2,712",39.6,+/-4.7
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",111,Northern America,"1,109",+/-705,2.4,+/-1.5
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",111.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",112,Population 5 years and over,"740,996","+/-5,969","740,996",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",113,English only,"676,011","+/-5,739",91.2,+/-0.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",114,Language other than English,"64,985","+/-4,473",8.8,+/-0.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",115,"Speak English less than ""very well""","21,758","+/-2,958",2.9,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",116,Spanish,"29,909","+/-2,441",4.0,+/-0.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",117,"Speak English less than ""very well""","10,847","+/-1,893",1.5,+/-0.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",118,Other Indo-European languages,"19,878","+/-3,333",2.7,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",119,"Speak English less than ""very well""","6,814","+/-1,984",0.9,+/-0.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",120,Asian and Pacific Islander languages,"8,178","+/-2,195",1.1,+/-0.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",121,"Speak English less than ""very well""","2,982","+/-1,237",0.4,+/-0.2
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",122,Other languages,"7,020","+/-2,822",0.9,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",123,"Speak English less than ""very well""","1,115","+/-1,013",0.2,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",123.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",123.5,ANCESTRY,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",124,Total population,"780,224","+/-6,453","780,224",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",125,American,"50,802","+/-5,399",6.5,+/-0.7
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",126,Arab,913,+/-518,0.1,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",127,Czech,"2,968",+/-860,0.4,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",128,Danish,513,+/-328,0.1,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",129,Dutch,"5,921","+/-1,556",0.8,+/-0.2
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",130,English,"107,753","+/-6,088",13.8,+/-0.8
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",131,French (except Basque),"14,083","+/-2,754",1.8,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",132,French Canadian,"2,451","+/-1,039",0.3,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",133,German,"135,592","+/-7,685",17.4,+/-1.0
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",134,Greek,"3,032",+/-995,0.4,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",135,Hungarian,"2,520",+/-874,0.3,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",136,Irish,"108,737","+/-6,215",13.9,+/-0.8
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",137,Italian,"53,991","+/-5,189",6.9,+/-0.7
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",138,Lithuanian,"3,013","+/-1,206",0.4,+/-0.2
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",139,Norwegian,"3,753","+/-1,161",0.5,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",140,Polish,"29,097","+/-3,076",3.7,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",141,Portuguese,316,+/-246,0.0,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",142,Russian,"2,957",+/-856,0.4,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",143,Scotch-Irish,"5,716","+/-1,392",0.7,+/-0.2
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",144,Scottish,"16,537","+/-2,859",2.1,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",145,Slovak,"1,181",+/-620,0.2,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",146,Subsaharan African,"8,863","+/-2,863",1.1,+/-0.4
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",147,Swedish,"5,157","+/-1,731",0.7,+/-0.2
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",148,Swiss,"1,105",+/-713,0.1,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",149,Ukrainian,"1,805",+/-760,0.2,+/-0.1
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",150,Welsh,"7,006","+/-1,753",0.9,+/-0.2
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",151,West Indian (excluding Hispanic origin groups),"7,251","+/-2,482",0.9,+/-0.3
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",151.3,,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",152,Total households,"304,917","+/-3,566","304,917",(X)
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",153,With a computer,"291,712","+/-4,210",95.7,+/-0.6
+DP02,5001800US2401,"Congressional District 1 (118th Congress), Maryland",154,With a broadband Internet subscription,"275,449","+/-4,506",90.3,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",0.5,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",1,Total households,"302,845","+/-4,753","302,845",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",2,Married-couple household,"145,974","+/-5,147",48.2,+/-1.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",3,With children of the householder under 18 years,"54,632","+/-3,334",18.0,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",4,Cohabiting couple household,"19,078","+/-2,903",6.3,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",5,With children of the householder under 18 years,"4,798","+/-1,805",1.6,+/-0.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",6,"Male householder, no spouse/partner present","50,014","+/-3,514",16.5,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",7,With children of the householder under 18 years,"3,280","+/-1,110",1.1,+/-0.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",8,Householder living alone,"35,205","+/-3,292",11.6,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",9,65 years and over,"11,389","+/-1,647",3.8,+/-0.5
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",10,"Female householder, no spouse/partner present","87,779","+/-4,493",29.0,+/-1.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",11,With children of the householder under 18 years,"16,795","+/-2,245",5.5,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",12,Householder living alone,"50,453","+/-3,705",16.7,+/-1.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",13,65 years and over,"28,096","+/-2,642",9.3,+/-0.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",13.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",14,Households with one or more people under 18 years,"86,659","+/-4,142",28.6,+/-1.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",15,Households with one or more people 65 years and over,"101,789","+/-3,270",33.6,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",15.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",16,Average household size,2.48,+/-0.03,(X),(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",17,Average family size,3.09,+/-0.06,(X),(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",17.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",17.5,RELATIONSHIP,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",18,Population in households,"751,802","+/-13,353","751,802",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",19,Householder,"302,845","+/-4,753",40.3,+/-0.5
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",20,Spouse,"146,061","+/-4,847",19.4,+/-0.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",21,Unmarried partner,"19,317","+/-2,846",2.6,+/-0.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",22,Child,"222,531","+/-8,093",29.6,+/-0.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",23,Other relatives,"45,926","+/-5,621",6.1,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",24,Other nonrelatives,"15,122","+/-2,756",2.0,+/-0.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",24.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",24.5,MARITAL STATUS,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",25,Males 15 years and over,"300,526","+/-5,335","300,526",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",26,Never married,"106,058","+/-5,395",35.3,+/-1.5
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",27,"Now married, except separated","156,831","+/-5,000",52.2,+/-1.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",28,Separated,"4,188","+/-1,205",1.4,+/-0.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",29,Widowed,"8,195","+/-1,428",2.7,+/-0.5
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",30,Divorced,"25,254","+/-2,718",8.4,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",30.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",31,Females 15 years and over,"337,138","+/-6,926","337,138",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",32,Never married,"111,362","+/-5,654",33.0,+/-1.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",33,"Now married, except separated","152,642","+/-5,320",45.3,+/-1.5
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",34,Separated,"7,571","+/-1,834",2.2,+/-0.5
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",35,Widowed,"29,119","+/-2,306",8.6,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",36,Divorced,"36,444","+/-3,330",10.8,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",36.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",36.5,FERTILITY,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,670","+/-1,730","9,670",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",38,"Unmarried women (widowed, divorced, and never married)","2,641","+/-1,225",27.3,+/-10.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",39,"Per 1,000 unmarried women",25,+/-12,(X),(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",40,"Per 1,000 women 15 to 50 years old",53,+/-9,(X),(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",41,"Per 1,000 women 15 to 19 years old",4,+/-5,(X),(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",42,"Per 1,000 women 20 to 34 years old",79,+/-17,(X),(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",43,"Per 1,000 women 35 to 50 years old",44,+/-15,(X),(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",43.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",43.5,GRANDPARENTS,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",44,Number of grandparents living with own grandchildren under 18 years,"10,727","+/-2,036","10,727",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",45,Grandparents responsible for grandchildren,"3,126","+/-1,130",29.1,+/-8.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",46,Less than 1 year,592,+/-339,5.5,+/-3.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",47,1 or 2 years,919,+/-641,8.6,+/-5.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",48,3 or 4 years,205,+/-246,1.9,+/-2.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",49,5 or more years,"1,410",+/-673,13.1,+/-5.5
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",49.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",50,Number of grandparents responsible for own grandchildren under 18 years,"3,126","+/-1,130","3,126",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",51,Who are female,"2,215",+/-958,70.9,+/-11.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",52,Who are married,"1,519",+/-722,48.6,+/-17.0
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",52.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",53,Population 3 years and over enrolled in school,"194,088","+/-7,130","194,088",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",54,"Nursery school, preschool","8,899","+/-1,678",4.6,+/-0.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",55,Kindergarten,"9,107","+/-1,878",4.7,+/-1.0
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",56,Elementary school (grades 1-8),"72,460","+/-4,354",37.3,+/-1.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",57,High school (grades 9-12),"40,394","+/-2,864",20.8,+/-1.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",58,College or graduate school,"63,228","+/-4,413",32.6,+/-1.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",58.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",59,Population 25 years and over,"538,287","+/-8,187","538,287",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",60,Less than 9th grade,"14,149","+/-2,485",2.6,+/-0.5
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",61,"9th to 12th grade, no diploma","22,801","+/-3,704",4.2,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",62,High school graduate (includes equivalency),"125,218","+/-6,228",23.3,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",63,"Some college, no degree","98,546","+/-6,193",18.3,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",64,Associate's degree,"36,008","+/-3,607",6.7,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",65,Bachelor's degree,"127,523","+/-5,933",23.7,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",66,Graduate or professional degree,"114,042","+/-5,769",21.2,+/-1.0
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",66.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",67,High school graduate or higher,"501,337","+/-8,526",93.1,+/-0.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",68,Bachelor's degree or higher,"241,565","+/-7,951",44.9,+/-1.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",68.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",68.5,VETERAN STATUS,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",69,Civilian population 18 years and over,"606,100","+/-10,077","606,100",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",70,Civilian veterans,"39,629","+/-4,110",6.5,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",70.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",71,Total Civilian Noninstitutionalized Population,"766,586","+/-13,492","766,586",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",72,With a disability,"92,921","+/-5,914",12.1,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",72.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",73,Under 18 years,"166,963","+/-6,539","166,963",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",74,With a disability,"8,321","+/-1,739",5.0,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",74.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",75,18 to 64 years,"461,511","+/-9,226","461,511",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",76,With a disability,"42,667","+/-4,493",9.2,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",76.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",77,65 years and over,"138,112","+/-3,343","138,112",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",78,With a disability,"41,933","+/-3,177",30.4,+/-2.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",78.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",79,Population 1 year and over,"765,453","+/-13,019","765,453",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",80,Same house,"685,734","+/-14,255",89.6,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",81,Different house (in the U.S. or abroad),"79,719","+/-8,381",10.4,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",82,Different house in the U.S.,"78,120","+/-8,221",10.2,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",83,Same county,"37,718","+/-5,536",4.9,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",84,Different county,"40,402","+/-5,829",5.3,+/-0.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",85,Same state,"28,239","+/-4,544",3.7,+/-0.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",86,Different state,"12,163","+/-2,609",1.6,+/-0.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",87,Abroad,"1,599",+/-621,0.2,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",87.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",88,Total population,"774,740","+/-13,310","774,740",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",89,Native,"689,990","+/-14,006",89.1,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",90,Born in United States,"680,240","+/-13,928",87.8,+/-0.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",91,State of residence,"482,144","+/-13,536",62.2,+/-1.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",92,Different state,"198,096","+/-8,072",25.6,+/-1.0
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","9,750","+/-1,879",1.3,+/-0.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",94,Foreign born,"84,750","+/-5,542",10.9,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",94.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",95,Foreign-born population,"84,750","+/-5,542","84,750",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",96,Naturalized U.S. citizen,"54,260","+/-3,975",64.0,+/-3.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",97,Not a U.S. citizen,"30,490","+/-4,244",36.0,+/-3.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",97.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",98,Population born outside the United States,"94,500","+/-6,070","94,500",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",98.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",99,Native,"9,750","+/-1,879","9,750",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",100,Entered 2010 or later,"2,061",+/-887,21.1,+/-7.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",101,Entered before 2010,"7,689","+/-1,611",78.9,+/-7.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",101.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",102,Foreign born,"84,750","+/-5,542","84,750",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",103,Entered 2010 or later,"29,222","+/-4,683",34.5,+/-4.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",104,Entered before 2010,"55,528","+/-4,148",65.5,+/-4.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",104.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",105,"Foreign-born population, excluding population born at sea","84,750","+/-5,542","84,750",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",106,Europe,"13,937","+/-2,349",16.4,+/-2.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",107,Asia,"36,265","+/-3,254",42.8,+/-3.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",108,Africa,"16,600","+/-4,154",19.6,+/-4.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",109,Oceania,356,+/-263,0.4,+/-0.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",110,Latin America,"16,196","+/-2,968",19.1,+/-3.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",111,Northern America,"1,396",+/-735,1.6,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",111.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",112,Population 5 years and over,"731,543","+/-12,413","731,543",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",113,English only,"631,154","+/-13,356",86.3,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",114,Language other than English,"100,389","+/-6,327",13.7,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",115,"Speak English less than ""very well""","32,939","+/-3,980",4.5,+/-0.5
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",116,Spanish,"24,636","+/-4,102",3.4,+/-0.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",117,"Speak English less than ""very well""","8,638","+/-2,327",1.2,+/-0.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",118,Other Indo-European languages,"37,916","+/-4,551",5.2,+/-0.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",119,"Speak English less than ""very well""","12,220","+/-2,781",1.7,+/-0.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",120,Asian and Pacific Islander languages,"18,797","+/-3,219",2.6,+/-0.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",121,"Speak English less than ""very well""","8,432","+/-1,706",1.2,+/-0.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",122,Other languages,"19,040","+/-4,452",2.6,+/-0.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",123,"Speak English less than ""very well""","3,649","+/-1,445",0.5,+/-0.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",123.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",123.5,ANCESTRY,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",124,Total population,"774,740","+/-13,310","774,740",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",125,American,"40,383","+/-6,182",5.2,+/-0.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",126,Arab,"3,333","+/-1,292",0.4,+/-0.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",127,Czech,"2,749",+/-879,0.4,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",128,Danish,"1,423",+/-732,0.2,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",129,Dutch,"4,916","+/-1,567",0.6,+/-0.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",130,English,"76,404","+/-5,910",9.9,+/-0.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",131,French (except Basque),"9,832","+/-1,761",1.3,+/-0.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",132,French Canadian,"1,602",+/-554,0.2,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",133,German,"122,061","+/-7,192",15.8,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",134,Greek,"6,185","+/-2,258",0.8,+/-0.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",135,Hungarian,"1,857",+/-727,0.2,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",136,Irish,"95,401","+/-6,935",12.3,+/-0.9
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",137,Italian,"47,163","+/-5,009",6.1,+/-0.6
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",138,Lithuanian,"2,878",+/-788,0.4,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",139,Norwegian,"2,709","+/-1,388",0.3,+/-0.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",140,Polish,"27,548","+/-2,989",3.6,+/-0.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",141,Portuguese,547,+/-333,0.1,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",142,Russian,"11,696","+/-2,199",1.5,+/-0.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",143,Scotch-Irish,"4,124",+/-976,0.5,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",144,Scottish,"11,663","+/-2,047",1.5,+/-0.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",145,Slovak,999,+/-470,0.1,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",146,Subsaharan African,"24,036","+/-5,285",3.1,+/-0.7
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",147,Swedish,"3,602","+/-1,380",0.5,+/-0.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",148,Swiss,"1,736",+/-846,0.2,+/-0.1
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",149,Ukrainian,"5,189","+/-2,204",0.7,+/-0.3
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",150,Welsh,"4,529","+/-1,338",0.6,+/-0.2
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",151,West Indian (excluding Hispanic origin groups),"8,575","+/-2,859",1.1,+/-0.4
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",151.3,,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",152,Total households,"302,845","+/-4,753","302,845",(X)
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",153,With a computer,"289,871","+/-5,034",95.7,+/-0.8
+DP02,5001800US2402,"Congressional District 2 (118th Congress), Maryland",154,With a broadband Internet subscription,"279,059","+/-4,655",92.1,+/-0.9
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",0.5,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",1,Total households,"289,086","+/-3,185","289,086",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",2,Married-couple household,"163,911","+/-4,574",56.7,+/-1.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",3,With children of the householder under 18 years,"71,581","+/-3,793",24.8,+/-1.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",4,Cohabiting couple household,"15,269","+/-2,060",5.3,+/-0.7
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",5,With children of the householder under 18 years,"4,858","+/-1,280",1.7,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",6,"Male householder, no spouse/partner present","40,580","+/-3,006",14.0,+/-1.0
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",7,With children of the householder under 18 years,"3,312","+/-1,192",1.1,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",8,Householder living alone,"26,586","+/-2,470",9.2,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",9,65 years and over,"6,336","+/-1,028",2.2,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",10,"Female householder, no spouse/partner present","69,326","+/-3,776",24.0,+/-1.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",11,With children of the householder under 18 years,"14,897","+/-2,223",5.2,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",12,Householder living alone,"35,852","+/-2,946",12.4,+/-1.0
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",13,65 years and over,"18,696","+/-1,990",6.5,+/-0.7
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",13.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",14,Households with one or more people under 18 years,"102,085","+/-3,821",35.3,+/-1.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",15,Households with one or more people 65 years and over,"83,585","+/-2,219",28.9,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",15.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",16,Average household size,2.63,+/-0.03,(X),(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",17,Average family size,3.10,+/-0.05,(X),(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",17.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",17.5,RELATIONSHIP,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",18,Population in households,"761,444","+/-10,039","761,444",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",19,Householder,"289,086","+/-3,185",38.0,+/-0.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",20,Spouse,"164,127","+/-4,180",21.6,+/-0.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",21,Unmarried partner,"15,461","+/-1,954",2.0,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",22,Child,"233,552","+/-7,632",30.7,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",23,Other relatives,"42,715","+/-4,785",5.6,+/-0.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",24,Other nonrelatives,"16,503","+/-3,026",2.2,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",24.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",24.5,MARITAL STATUS,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",25,Males 15 years and over,"304,294","+/-4,739","304,294",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",26,Never married,"97,531","+/-4,795",32.1,+/-1.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",27,"Now married, except separated","176,815","+/-4,543",58.1,+/-1.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",28,Separated,"3,714","+/-1,251",1.2,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",29,Widowed,"6,888","+/-1,358",2.3,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",30,Divorced,"19,346","+/-2,468",6.4,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",30.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",31,Females 15 years and over,"321,137","+/-4,734","321,137",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",32,Never married,"87,114","+/-4,580",27.1,+/-1.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",33,"Now married, except separated","170,711","+/-4,754",53.2,+/-1.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",34,Separated,"4,406","+/-1,164",1.4,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",35,Widowed,"23,351","+/-2,269",7.3,+/-0.7
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",36,Divorced,"35,555","+/-3,592",11.1,+/-1.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",36.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",36.5,FERTILITY,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,921","+/-1,469","7,921",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",38,"Unmarried women (widowed, divorced, and never married)","1,140",+/-639,14.4,+/-7.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",39,"Per 1,000 unmarried women",12,+/-7,(X),(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",40,"Per 1,000 women 15 to 50 years old",44,+/-8,(X),(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",41,"Per 1,000 women 15 to 19 years old",0,+/-9,(X),(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",42,"Per 1,000 women 20 to 34 years old",72,+/-17,(X),(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",43,"Per 1,000 women 35 to 50 years old",32,+/-10,(X),(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",43.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",43.5,GRANDPARENTS,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",44,Number of grandparents living with own grandchildren under 18 years,"14,036","+/-2,299","14,036",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",45,Grandparents responsible for grandchildren,"3,529","+/-1,428",25.1,+/-8.7
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",46,Less than 1 year,531,+/-450,3.8,+/-3.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",47,1 or 2 years,824,+/-810,5.9,+/-5.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",48,3 or 4 years,668,+/-548,4.8,+/-3.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",49,5 or more years,"1,506",+/-825,10.7,+/-5.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",49.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",50,Number of grandparents responsible for own grandchildren under 18 years,"3,529","+/-1,428","3,529",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",51,Who are female,"2,319",+/-951,65.7,+/-12.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",52,Who are married,"2,328","+/-1,184",66.0,+/-16.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",52.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",53,Population 3 years and over enrolled in school,"197,492","+/-6,064","197,492",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",54,"Nursery school, preschool","9,931","+/-2,093",5.0,+/-1.0
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",55,Kindergarten,"9,283","+/-1,564",4.7,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",56,Elementary school (grades 1-8),"80,271","+/-3,105",40.6,+/-1.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",57,High school (grades 9-12),"40,915","+/-2,636",20.7,+/-1.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",58,College or graduate school,"57,092","+/-3,709",28.9,+/-1.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",58.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",59,Population 25 years and over,"536,101","+/-5,570","536,101",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",60,Less than 9th grade,"14,628","+/-2,893",2.7,+/-0.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",61,"9th to 12th grade, no diploma","18,288","+/-2,425",3.4,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",62,High school graduate (includes equivalency),"98,518","+/-5,516",18.4,+/-1.0
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",63,"Some college, no degree","92,907","+/-5,874",17.3,+/-1.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",64,Associate's degree,"38,058","+/-4,071",7.1,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",65,Bachelor's degree,"141,216","+/-6,167",26.3,+/-1.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",66,Graduate or professional degree,"132,486","+/-5,807",24.7,+/-1.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",66.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",67,High school graduate or higher,"503,185","+/-6,233",93.9,+/-0.7
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",68,Bachelor's degree or higher,"273,702","+/-6,976",51.1,+/-1.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",68.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",68.5,VETERAN STATUS,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",69,Civilian population 18 years and over,"583,092","+/-7,218","583,092",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",70,Civilian veterans,"46,583","+/-3,669",8.0,+/-0.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",70.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",71,Total Civilian Noninstitutionalized Population,"755,345","+/-9,979","755,345",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",72,With a disability,"69,520","+/-4,873",9.2,+/-0.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",72.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",73,Under 18 years,"176,400","+/-4,854","176,400",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",74,With a disability,"5,241","+/-1,378",3.0,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",74.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",75,18 to 64 years,"459,920","+/-7,563","459,920",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",76,With a disability,"34,384","+/-3,528",7.5,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",76.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",77,65 years and over,"119,025","+/-2,361","119,025",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",78,With a disability,"29,895","+/-2,426",25.1,+/-1.9
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",78.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",79,Population 1 year and over,"762,792","+/-10,713","762,792",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",80,Same house,"679,614","+/-12,585",89.1,+/-1.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",81,Different house (in the U.S. or abroad),"83,178","+/-8,174",10.9,+/-1.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",82,Different house in the U.S.,"80,765","+/-8,333",10.6,+/-1.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",83,Same county,"38,518","+/-6,252",5.0,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",84,Different county,"42,247","+/-6,523",5.5,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",85,Same state,"24,113","+/-4,157",3.2,+/-0.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",86,Different state,"18,134","+/-4,994",2.4,+/-0.7
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",87,Abroad,"2,413","+/-1,259",0.3,+/-0.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",87.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",88,Total population,"771,084","+/-10,697","771,084",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",89,Native,"648,858","+/-11,196",84.1,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",90,Born in United States,"632,768","+/-11,645",82.1,+/-0.9
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",91,State of residence,"374,277","+/-12,611",48.5,+/-1.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",92,Different state,"258,491","+/-9,063",33.5,+/-1.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","16,090","+/-2,426",2.1,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",94,Foreign born,"122,226","+/-6,253",15.9,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",94.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",95,Foreign-born population,"122,226","+/-6,253","122,226",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",96,Naturalized U.S. citizen,"76,723","+/-6,141",62.8,+/-3.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",97,Not a U.S. citizen,"45,503","+/-4,517",37.2,+/-3.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",97.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",98,Population born outside the United States,"138,316","+/-6,729","138,316",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",98.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",99,Native,"16,090","+/-2,426","16,090",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",100,Entered 2010 or later,"5,117","+/-1,503",31.8,+/-7.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",101,Entered before 2010,"10,973","+/-1,888",68.2,+/-7.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",101.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",102,Foreign born,"122,226","+/-6,253","122,226",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",103,Entered 2010 or later,"32,525","+/-4,043",26.6,+/-3.0
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",104,Entered before 2010,"89,701","+/-5,698",73.4,+/-3.0
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",104.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",105,"Foreign-born population, excluding population born at sea","122,226","+/-6,253","122,226",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",106,Europe,"8,900","+/-1,696",7.3,+/-1.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",107,Asia,"59,411","+/-2,670",48.6,+/-2.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",108,Africa,"21,905","+/-3,734",17.9,+/-2.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",109,Oceania,428,+/-341,0.4,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",110,Latin America,"30,081","+/-3,012",24.6,+/-2.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",111,Northern America,"1,501",+/-624,1.2,+/-0.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",111.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",112,Population 5 years and over,"727,651","+/-10,182","727,651",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",113,English only,"583,387","+/-10,716",80.2,+/-1.0
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",114,Language other than English,"144,264","+/-7,741",19.8,+/-1.0
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",115,"Speak English less than ""very well""","43,853","+/-4,421",6.0,+/-0.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",116,Spanish,"45,993","+/-4,464",6.3,+/-0.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",117,"Speak English less than ""very well""","16,941","+/-2,858",2.3,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",118,Other Indo-European languages,"37,701","+/-5,534",5.2,+/-0.8
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",119,"Speak English less than ""very well""","7,946","+/-1,905",1.1,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",120,Asian and Pacific Islander languages,"43,071","+/-4,116",5.9,+/-0.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",121,"Speak English less than ""very well""","15,957","+/-2,446",2.2,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",122,Other languages,"17,499","+/-3,708",2.4,+/-0.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",123,"Speak English less than ""very well""","3,009","+/-1,217",0.4,+/-0.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",123.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",123.5,ANCESTRY,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",124,Total population,"771,084","+/-10,697","771,084",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",125,American,"27,108","+/-3,697",3.5,+/-0.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",126,Arab,"5,889","+/-2,207",0.8,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",127,Czech,"2,500",+/-746,0.3,+/-0.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",128,Danish,"1,712",+/-905,0.2,+/-0.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",129,Dutch,"5,355","+/-1,309",0.7,+/-0.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",130,English,"84,910","+/-6,838",11.0,+/-0.9
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",131,French (except Basque),"11,837","+/-2,200",1.5,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",132,French Canadian,"3,925","+/-2,219",0.5,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",133,German,"109,681","+/-6,766",14.2,+/-0.9
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",134,Greek,"6,308","+/-2,286",0.8,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",135,Hungarian,"2,634",+/-985,0.3,+/-0.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",136,Irish,"91,956","+/-7,284",11.9,+/-0.9
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",137,Italian,"43,003","+/-4,473",5.6,+/-0.6
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",138,Lithuanian,"3,004","+/-1,274",0.4,+/-0.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",139,Norwegian,"4,003","+/-1,195",0.5,+/-0.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",140,Polish,"26,081","+/-3,644",3.4,+/-0.5
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",141,Portuguese,"2,503","+/-1,088",0.3,+/-0.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",142,Russian,"6,248","+/-1,714",0.8,+/-0.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",143,Scotch-Irish,"7,739","+/-2,114",1.0,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",144,Scottish,"13,166","+/-2,417",1.7,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",145,Slovak,"1,641",+/-921,0.2,+/-0.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",146,Subsaharan African,"27,100","+/-4,949",3.5,+/-0.7
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",147,Swedish,"5,045","+/-1,410",0.7,+/-0.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",148,Swiss,562,+/-296,0.1,+/-0.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",149,Ukrainian,"2,214","+/-1,262",0.3,+/-0.2
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",150,Welsh,"3,851","+/-1,016",0.5,+/-0.1
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",151,West Indian (excluding Hispanic origin groups),"5,946","+/-2,206",0.8,+/-0.3
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",151.3,,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",152,Total households,"289,086","+/-3,185","289,086",(X)
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",153,With a computer,"283,263","+/-3,359",98.0,+/-0.4
+DP02,5001800US2403,"Congressional District 3 (118th Congress), Maryland",154,With a broadband Internet subscription,"277,411","+/-3,662",96.0,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",0.5,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",1,Total households,"272,010","+/-4,038","272,010",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",2,Married-couple household,"96,983","+/-4,160",35.7,+/-1.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",3,With children of the householder under 18 years,"38,784","+/-3,275",14.3,+/-1.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",4,Cohabiting couple household,"18,447","+/-2,551",6.8,+/-0.9
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",5,With children of the householder under 18 years,"7,412","+/-1,585",2.7,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",6,"Male householder, no spouse/partner present","58,004","+/-4,061",21.3,+/-1.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",7,With children of the householder under 18 years,"3,590","+/-1,096",1.3,+/-0.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",8,Householder living alone,"38,188","+/-3,424",14.0,+/-1.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",9,65 years and over,"8,076","+/-1,332",3.0,+/-0.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",10,"Female householder, no spouse/partner present","98,576","+/-4,458",36.2,+/-1.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",11,With children of the householder under 18 years,"18,758","+/-2,785",6.9,+/-1.0
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",12,Householder living alone,"47,521","+/-3,759",17.5,+/-1.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",13,65 years and over,"18,052","+/-1,789",6.6,+/-0.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",13.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",14,Households with one or more people under 18 years,"84,133","+/-4,357",30.9,+/-1.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",15,Households with one or more people 65 years and over,"76,540","+/-2,508",28.1,+/-0.9
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",15.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",16,Average household size,2.70,+/-0.04,(X),(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",17,Average family size,3.42,+/-0.06,(X),(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",17.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",17.5,RELATIONSHIP,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",18,Population in households,"733,260","+/-11,399","733,260",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",19,Householder,"272,010","+/-4,038",37.1,+/-0.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",20,Spouse,"95,998","+/-4,205",13.1,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",21,Unmarried partner,"18,814","+/-2,536",2.6,+/-0.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",22,Child,"211,743","+/-7,598",28.9,+/-0.8
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",23,Other relatives,"94,857","+/-6,788",12.9,+/-0.9
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",24,Other nonrelatives,"39,838","+/-4,609",5.4,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",24.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",24.5,MARITAL STATUS,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",25,Males 15 years and over,"288,897","+/-5,987","288,897",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",26,Never married,"136,954","+/-6,159",47.4,+/-1.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",27,"Now married, except separated","117,038","+/-5,107",40.5,+/-1.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",28,Separated,"7,068","+/-1,574",2.4,+/-0.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",29,Widowed,"6,042","+/-1,420",2.1,+/-0.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",30,Divorced,"21,795","+/-2,399",7.5,+/-0.8
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",30.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",31,Females 15 years and over,"315,725","+/-4,999","315,725",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",32,Never married,"138,839","+/-5,526",44.0,+/-1.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",33,"Now married, except separated","108,174","+/-4,988",34.3,+/-1.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",34,Separated,"7,693","+/-1,455",2.4,+/-0.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",35,Widowed,"23,017","+/-2,173",7.3,+/-0.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",36,Divorced,"38,002","+/-3,549",12.0,+/-1.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",36.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",36.5,FERTILITY,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"12,401","+/-2,045","12,401",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",38,"Unmarried women (widowed, divorced, and never married)","5,462","+/-1,299",44.0,+/-8.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",39,"Per 1,000 unmarried women",43,+/-10,(X),(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",40,"Per 1,000 women 15 to 50 years old",67,+/-11,(X),(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",41,"Per 1,000 women 15 to 19 years old",3,+/-4,(X),(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",42,"Per 1,000 women 20 to 34 years old",99,+/-22,(X),(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",43,"Per 1,000 women 35 to 50 years old",56,+/-13,(X),(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",43.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",43.5,GRANDPARENTS,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",44,Number of grandparents living with own grandchildren under 18 years,"25,395","+/-3,390","25,395",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",45,Grandparents responsible for grandchildren,"6,055","+/-1,635",23.8,+/-5.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",46,Less than 1 year,754,+/-399,3.0,+/-1.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",47,1 or 2 years,"1,386",+/-705,5.5,+/-2.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",48,3 or 4 years,"1,156",+/-733,4.6,+/-2.8
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",49,5 or more years,"2,759",+/-930,10.9,+/-3.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",49.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",50,Number of grandparents responsible for own grandchildren under 18 years,"6,055","+/-1,635","6,055",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",51,Who are female,"4,144","+/-1,104",68.4,+/-10.0
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",52,Who are married,"3,064","+/-1,292",50.6,+/-13.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",52.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",53,Population 3 years and over enrolled in school,"186,315","+/-6,661","186,315",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",54,"Nursery school, preschool","6,167","+/-1,511",3.3,+/-0.8
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",55,Kindergarten,"10,795","+/-1,962",5.8,+/-1.0
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",56,Elementary school (grades 1-8),"71,307","+/-3,678",38.3,+/-1.8
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",57,High school (grades 9-12),"35,264","+/-2,848",18.9,+/-1.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",58,College or graduate school,"62,782","+/-4,072",33.7,+/-1.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",58.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",59,Population 25 years and over,"506,630","+/-8,587","506,630",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",60,Less than 9th grade,"45,737","+/-3,797",9.0,+/-0.8
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",61,"9th to 12th grade, no diploma","31,949","+/-3,536",6.3,+/-0.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",62,High school graduate (includes equivalency),"141,151","+/-6,304",27.9,+/-1.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",63,"Some college, no degree","96,279","+/-5,889",19.0,+/-1.0
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",64,Associate's degree,"28,212","+/-3,145",5.6,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",65,Bachelor's degree,"95,456","+/-6,421",18.8,+/-1.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",66,Graduate or professional degree,"67,846","+/-4,187",13.4,+/-0.8
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",66.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",67,High school graduate or higher,"428,944","+/-9,362",84.7,+/-1.0
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",68,Bachelor's degree or higher,"163,302","+/-6,899",32.2,+/-1.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",68.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",68.5,VETERAN STATUS,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",69,Civilian population 18 years and over,"575,435","+/-9,374","575,435",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",70,Civilian veterans,"33,060","+/-3,178",5.7,+/-0.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",70.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",71,Total Civilian Noninstitutionalized Population,"741,256","+/-10,954","741,256",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",72,With a disability,"74,962","+/-4,680",10.1,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",72.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",73,Under 18 years,"168,209","+/-4,552","168,209",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",74,With a disability,"5,023","+/-1,248",3.0,+/-0.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",74.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",75,18 to 64 years,"470,837","+/-8,425","470,837",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",76,With a disability,"41,033","+/-3,405",8.7,+/-0.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",76.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",77,65 years and over,"102,210","+/-2,882","102,210",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",78,With a disability,"28,906","+/-2,877",28.3,+/-2.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",78.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",79,Population 1 year and over,"735,462","+/-11,081","735,462",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",80,Same house,"652,788","+/-12,549",88.8,+/-1.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",81,Different house (in the U.S. or abroad),"82,674","+/-8,687",11.2,+/-1.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",82,Different house in the U.S.,"78,177","+/-8,529",10.6,+/-1.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",83,Same county,"43,285","+/-7,554",5.9,+/-1.0
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",84,Different county,"34,892","+/-5,271",4.7,+/-0.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",85,Same state,"14,623","+/-3,152",2.0,+/-0.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",86,Different state,"20,269","+/-4,036",2.8,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",87,Abroad,"4,497","+/-1,483",0.6,+/-0.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",87.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",88,Total population,"746,989","+/-11,092","746,989",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",89,Native,"537,423","+/-12,801",71.9,+/-1.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",90,Born in United States,"526,067","+/-12,802",70.4,+/-1.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",91,State of residence,"189,725","+/-8,982",25.4,+/-1.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",92,Different state,"336,342","+/-12,027",45.0,+/-1.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","11,356","+/-2,473",1.5,+/-0.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",94,Foreign born,"209,566","+/-9,231",28.1,+/-1.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",94.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",95,Foreign-born population,"209,566","+/-9,231","209,566",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",96,Naturalized U.S. citizen,"86,144","+/-6,614",41.1,+/-2.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",97,Not a U.S. citizen,"123,422","+/-6,501",58.9,+/-2.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",97.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",98,Population born outside the United States,"220,922","+/-9,955","220,922",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",98.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",99,Native,"11,356","+/-2,473","11,356",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",100,Entered 2010 or later,"4,087","+/-1,484",36.0,+/-10.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",101,Entered before 2010,"7,269","+/-1,949",64.0,+/-10.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",101.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",102,Foreign born,"209,566","+/-9,231","209,566",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",103,Entered 2010 or later,"76,278","+/-6,273",36.4,+/-2.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",104,Entered before 2010,"133,288","+/-7,520",63.6,+/-2.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",104.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",105,"Foreign-born population, excluding population born at sea","209,566","+/-9,231","209,566",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",106,Europe,"4,355","+/-1,315",2.1,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",107,Asia,"28,503","+/-2,629",13.6,+/-1.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",108,Africa,"47,127","+/-5,792",22.5,+/-2.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",109,Oceania,52,+/-89,0.0,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",110,Latin America,"129,253","+/-6,404",61.7,+/-2.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",111,Northern America,276,+/-185,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",111.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",112,Population 5 years and over,"698,944","+/-10,693","698,944",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",113,English only,"460,652","+/-10,932",65.9,+/-1.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",114,Language other than English,"238,292","+/-8,280",34.1,+/-1.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",115,"Speak English less than ""very well""","117,150","+/-5,834",16.8,+/-0.9
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",116,Spanish,"156,288","+/-4,040",22.4,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",117,"Speak English less than ""very well""","91,654","+/-4,694",13.1,+/-0.7
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",118,Other Indo-European languages,"24,840","+/-3,902",3.6,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",119,"Speak English less than ""very well""","7,494","+/-1,856",1.1,+/-0.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",120,Asian and Pacific Islander languages,"21,213","+/-2,766",3.0,+/-0.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",121,"Speak English less than ""very well""","8,135","+/-1,680",1.2,+/-0.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",122,Other languages,"35,951","+/-5,713",5.1,+/-0.8
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",123,"Speak English less than ""very well""","9,867","+/-3,190",1.4,+/-0.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",123.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",123.5,ANCESTRY,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",124,Total population,"746,989","+/-11,092","746,989",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",125,American,"19,904","+/-3,536",2.7,+/-0.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",126,Arab,"5,535","+/-2,911",0.7,+/-0.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",127,Czech,286,+/-275,0.0,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",128,Danish,261,+/-216,0.0,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",129,Dutch,"1,066",+/-530,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",130,English,"15,321","+/-1,986",2.1,+/-0.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",131,French (except Basque),"2,755",+/-813,0.4,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",132,French Canadian,"1,363",+/-754,0.2,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",133,German,"18,209","+/-2,378",2.4,+/-0.3
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",134,Greek,770,+/-518,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",135,Hungarian,478,+/-363,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",136,Irish,"18,276","+/-2,982",2.4,+/-0.4
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",137,Italian,"7,977","+/-1,489",1.1,+/-0.2
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",138,Lithuanian,593,+/-562,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",139,Norwegian,"1,935",+/-999,0.3,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",140,Polish,"2,707",+/-776,0.4,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",141,Portuguese,441,+/-480,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",142,Russian,"1,806",+/-763,0.2,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",143,Scotch-Irish,"1,509",+/-696,0.2,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",144,Scottish,"3,080","+/-1,086",0.4,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",145,Slovak,143,+/-115,0.0,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",146,Subsaharan African,"58,624","+/-7,174",7.8,+/-0.9
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",147,Swedish,"1,009",+/-589,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",148,Swiss,617,+/-420,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",149,Ukrainian,960,+/-529,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",150,Welsh,832,+/-398,0.1,+/-0.1
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",151,West Indian (excluding Hispanic origin groups),"22,954","+/-4,302",3.1,+/-0.6
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",151.3,,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",152,Total households,"272,010","+/-4,038","272,010",(X)
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",153,With a computer,"263,460","+/-4,316",96.9,+/-0.5
+DP02,5001800US2404,"Congressional District 4 (118th Congress), Maryland",154,With a broadband Internet subscription,"252,680","+/-4,361",92.9,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",0.5,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",1,Total households,"285,346","+/-4,572","285,346",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",2,Married-couple household,"153,552","+/-4,900",53.8,+/-1.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",3,With children of the householder under 18 years,"61,721","+/-3,785",21.6,+/-1.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",4,Cohabiting couple household,"15,849","+/-2,385",5.6,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",5,With children of the householder under 18 years,"5,682","+/-1,633",2.0,+/-0.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",6,"Male householder, no spouse/partner present","42,285","+/-3,650",14.8,+/-1.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",7,With children of the householder under 18 years,"3,732","+/-1,034",1.3,+/-0.4
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",8,Householder living alone,"27,820","+/-3,034",9.7,+/-1.0
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",9,65 years and over,"7,791","+/-1,388",2.7,+/-0.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",10,"Female householder, no spouse/partner present","73,660","+/-3,088",25.8,+/-1.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",11,With children of the householder under 18 years,"12,480","+/-2,081",4.4,+/-0.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",12,Householder living alone,"39,253","+/-2,976",13.8,+/-1.0
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",13,65 years and over,"16,451","+/-1,942",5.8,+/-0.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",13.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",14,Households with one or more people under 18 years,"94,940","+/-4,066",33.3,+/-1.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",15,Households with one or more people 65 years and over,"81,235","+/-3,406",28.5,+/-1.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",15.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",16,Average household size,2.71,+/-0.05,(X),(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",17,Average family size,3.22,+/-0.06,(X),(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",17.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",17.5,RELATIONSHIP,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",18,Population in households,"772,948","+/-13,543","772,948",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",19,Householder,"285,346","+/-4,572",36.9,+/-0.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",20,Spouse,"153,867","+/-5,041",19.9,+/-0.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",21,Unmarried partner,"15,725","+/-2,286",2.0,+/-0.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",22,Child,"243,398","+/-7,962",31.5,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",23,Other relatives,"56,947","+/-5,860",7.4,+/-0.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",24,Other nonrelatives,"17,665","+/-3,407",2.3,+/-0.4
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",24.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",24.5,MARITAL STATUS,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",25,Males 15 years and over,"315,961","+/-7,108","315,961",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",26,Never married,"110,385","+/-6,118",34.9,+/-1.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",27,"Now married, except separated","167,265","+/-5,727",52.9,+/-1.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",28,Separated,"3,786","+/-1,277",1.2,+/-0.4
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",29,Widowed,"6,928","+/-1,262",2.2,+/-0.4
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",30,Divorced,"27,597","+/-3,400",8.7,+/-1.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",30.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",31,Females 15 years and over,"328,343","+/-6,556","328,343",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",32,Never married,"96,250","+/-5,277",29.3,+/-1.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",33,"Now married, except separated","160,099","+/-5,486",48.8,+/-1.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",34,Separated,"5,806","+/-1,469",1.8,+/-0.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",35,Widowed,"25,514","+/-2,625",7.8,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",36,Divorced,"40,674","+/-3,558",12.4,+/-1.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",36.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",36.5,FERTILITY,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,729","+/-1,941","9,729",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",38,"Unmarried women (widowed, divorced, and never married)","2,771","+/-1,141",28.5,+/-9.4
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",39,"Per 1,000 unmarried women",28,+/-11,(X),(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",40,"Per 1,000 women 15 to 50 years old",54,+/-11,(X),(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",41,"Per 1,000 women 15 to 19 years old",0,+/-8,(X),(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",42,"Per 1,000 women 20 to 34 years old",98,+/-21,(X),(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",43,"Per 1,000 women 35 to 50 years old",33,+/-13,(X),(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",43.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",43.5,GRANDPARENTS,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",44,Number of grandparents living with own grandchildren under 18 years,"19,089","+/-2,604","19,089",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",45,Grandparents responsible for grandchildren,"4,919","+/-1,591",25.8,+/-7.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",46,Less than 1 year,218,+/-255,1.1,+/-1.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",47,1 or 2 years,711,+/-574,3.7,+/-3.0
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",48,3 or 4 years,"1,373","+/-1,048",7.2,+/-5.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",49,5 or more years,"2,617",+/-970,13.7,+/-4.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",49.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",50,Number of grandparents responsible for own grandchildren under 18 years,"4,919","+/-1,591","4,919",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",51,Who are female,"3,226","+/-1,137",65.6,+/-8.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",52,Who are married,"3,508","+/-1,355",71.3,+/-13.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",52.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",53,Population 3 years and over enrolled in school,"196,163","+/-7,363","196,163",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",54,"Nursery school, preschool","9,443","+/-1,474",4.8,+/-0.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",55,Kindergarten,"9,738","+/-1,892",5.0,+/-1.0
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",56,Elementary school (grades 1-8),"79,224","+/-3,987",40.4,+/-1.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",57,High school (grades 9-12),"42,078","+/-3,032",21.5,+/-1.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",58,College or graduate school,"55,680","+/-4,234",28.4,+/-1.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",58.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",59,Population 25 years and over,"542,905","+/-9,461","542,905",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",60,Less than 9th grade,"10,438","+/-2,114",1.9,+/-0.4
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",61,"9th to 12th grade, no diploma","19,693","+/-2,633",3.6,+/-0.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",62,High school graduate (includes equivalency),"132,395","+/-6,516",24.4,+/-1.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",63,"Some college, no degree","114,513","+/-6,273",21.1,+/-1.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",64,Associate's degree,"45,991","+/-3,863",8.5,+/-0.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",65,Bachelor's degree,"123,105","+/-7,138",22.7,+/-1.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",66,Graduate or professional degree,"96,770","+/-5,318",17.8,+/-1.0
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",66.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",67,High school graduate or higher,"512,774","+/-9,472",94.5,+/-0.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",68,Bachelor's degree or higher,"219,875","+/-8,961",40.5,+/-1.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",68.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",68.5,VETERAN STATUS,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",69,Civilian population 18 years and over,"596,030","+/-10,343","596,030",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",70,Civilian veterans,"69,386","+/-4,175",11.6,+/-0.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",70.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",71,Total Civilian Noninstitutionalized Population,"763,075","+/-13,174","763,075",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",72,With a disability,"80,982","+/-5,098",10.6,+/-0.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",72.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",73,Under 18 years,"177,042","+/-6,087","177,042",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",74,With a disability,"5,736","+/-1,368",3.2,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",74.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",75,18 to 64 years,"473,683","+/-9,887","473,683",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",76,With a disability,"40,876","+/-3,865",8.6,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",76.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",77,65 years and over,"112,350","+/-4,202","112,350",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",78,With a disability,"34,370","+/-3,218",30.6,+/-2.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",78.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",79,Population 1 year and over,"782,512","+/-13,500","782,512",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",80,Same house,"681,832","+/-15,081",87.1,+/-1.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",81,Different house (in the U.S. or abroad),"100,680","+/-8,934",12.9,+/-1.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",82,Different house in the U.S.,"96,345","+/-8,654",12.3,+/-1.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",83,Same county,"44,923","+/-7,366",5.7,+/-0.9
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",84,Different county,"51,422","+/-7,556",6.6,+/-1.0
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",85,Same state,"27,309","+/-5,551",3.5,+/-0.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",86,Different state,"24,113","+/-5,453",3.1,+/-0.7
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",87,Abroad,"4,335","+/-1,842",0.6,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",87.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",88,Total population,"789,756","+/-13,602","789,756",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",89,Native,"718,524","+/-12,574",91.0,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",90,Born in United States,"702,321","+/-12,943",88.9,+/-0.9
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",91,State of residence,"308,922","+/-10,123",39.1,+/-1.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",92,Different state,"393,399","+/-13,615",49.8,+/-1.4
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","16,203","+/-3,112",2.1,+/-0.4
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",94,Foreign born,"71,232","+/-6,330",9.0,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",94.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",95,Foreign-born population,"71,232","+/-6,330","71,232",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",96,Naturalized U.S. citizen,"47,539","+/-4,104",66.7,+/-4.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",97,Not a U.S. citizen,"23,693","+/-4,192",33.3,+/-4.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",97.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",98,Population born outside the United States,"87,435","+/-7,562","87,435",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",98.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",99,Native,"16,203","+/-3,112","16,203",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",100,Entered 2010 or later,"3,544","+/-1,434",21.9,+/-7.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",101,Entered before 2010,"12,659","+/-2,687",78.1,+/-7.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",101.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",102,Foreign born,"71,232","+/-6,330","71,232",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",103,Entered 2010 or later,"21,009","+/-4,482",29.5,+/-4.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",104,Entered before 2010,"50,223","+/-4,535",70.5,+/-4.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",104.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",105,"Foreign-born population, excluding population born at sea","71,232","+/-6,330","71,232",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",106,Europe,"8,288","+/-2,019",11.6,+/-2.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",107,Asia,"16,716","+/-2,333",23.5,+/-3.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",108,Africa,"22,133","+/-4,386",31.1,+/-4.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",109,Oceania,0,+/-216,0.0,+/-0.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",110,Latin America,"23,487","+/-3,820",33.0,+/-4.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",111,Northern America,608,+/-396,0.9,+/-0.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",111.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",112,Population 5 years and over,"744,620","+/-13,118","744,620",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",113,English only,"666,666","+/-12,751",89.5,+/-1.0
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",114,Language other than English,"77,954","+/-7,628",10.5,+/-1.0
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",115,"Speak English less than ""very well""","20,661","+/-3,680",2.8,+/-0.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",116,Spanish,"29,202","+/-3,726",3.9,+/-0.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",117,"Speak English less than ""very well""","9,711","+/-2,508",1.3,+/-0.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",118,Other Indo-European languages,"21,810","+/-4,432",2.9,+/-0.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",119,"Speak English less than ""very well""","4,836","+/-1,344",0.6,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",120,Asian and Pacific Islander languages,"10,721","+/-2,401",1.4,+/-0.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",121,"Speak English less than ""very well""","3,557","+/-1,284",0.5,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",122,Other languages,"16,221","+/-3,816",2.2,+/-0.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",123,"Speak English less than ""very well""","2,557","+/-1,109",0.3,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",123.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",123.5,ANCESTRY,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",124,Total population,"789,756","+/-13,602","789,756",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",125,American,"35,112","+/-4,430",4.4,+/-0.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",126,Arab,"3,304","+/-2,233",0.4,+/-0.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",127,Czech,"1,280",+/-777,0.2,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",128,Danish,821,+/-466,0.1,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",129,Dutch,"5,625","+/-1,901",0.7,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",130,English,"71,650","+/-6,427",9.1,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",131,French (except Basque),"8,742","+/-2,470",1.1,+/-0.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",132,French Canadian,"2,381","+/-1,060",0.3,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",133,German,"71,356","+/-6,315",9.0,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",134,Greek,"1,726","+/-1,039",0.2,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",135,Hungarian,"1,917",+/-782,0.2,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",136,Irish,"65,302","+/-6,056",8.3,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",137,Italian,"29,035","+/-3,849",3.7,+/-0.5
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",138,Lithuanian,"1,170",+/-744,0.1,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",139,Norwegian,"2,971","+/-1,425",0.4,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",140,Polish,"13,104","+/-2,097",1.7,+/-0.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",141,Portuguese,"1,439","+/-1,021",0.2,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",142,Russian,"4,065","+/-1,435",0.5,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",143,Scotch-Irish,"4,703","+/-1,471",0.6,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",144,Scottish,"8,389","+/-1,619",1.1,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",145,Slovak,"1,525",+/-776,0.2,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",146,Subsaharan African,"34,253","+/-5,979",4.3,+/-0.8
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",147,Swedish,"3,659","+/-1,200",0.5,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",148,Swiss,"1,134",+/-644,0.1,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",149,Ukrainian,"1,955","+/-1,083",0.2,+/-0.1
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",150,Welsh,"3,241","+/-1,249",0.4,+/-0.2
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",151,West Indian (excluding Hispanic origin groups),"10,851","+/-2,726",1.4,+/-0.3
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",151.3,,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",152,Total households,"285,346","+/-4,572","285,346",(X)
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",153,With a computer,"277,258","+/-4,415",97.2,+/-0.6
+DP02,5001800US2405,"Congressional District 5 (118th Congress), Maryland",154,With a broadband Internet subscription,"268,040","+/-4,871",93.9,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",0.5,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",1,Total households,"294,285","+/-4,873","294,285",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",2,Married-couple household,"149,392","+/-4,780",50.8,+/-1.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",3,With children of the householder under 18 years,"61,490","+/-3,612",20.9,+/-1.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",4,Cohabiting couple household,"19,928","+/-2,846",6.8,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",5,With children of the householder under 18 years,"6,865","+/-1,541",2.3,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",6,"Male householder, no spouse/partner present","49,387","+/-3,247",16.8,+/-1.0
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",7,With children of the householder under 18 years,"3,768","+/-1,144",1.3,+/-0.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",8,Householder living alone,"35,067","+/-2,703",11.9,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",9,65 years and over,"8,977","+/-1,120",3.1,+/-0.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",10,"Female householder, no spouse/partner present","75,578","+/-3,954",25.7,+/-1.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",11,With children of the householder under 18 years,"14,137","+/-2,319",4.8,+/-0.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",12,Householder living alone,"43,335","+/-3,248",14.7,+/-1.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",13,65 years and over,"19,673","+/-1,885",6.7,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",13.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",14,Households with one or more people under 18 years,"94,331","+/-4,071",32.1,+/-1.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",15,Households with one or more people 65 years and over,"85,217","+/-2,750",29.0,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",15.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",16,Average household size,2.56,+/-0.03,(X),(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",17,Average family size,3.11,+/-0.05,(X),(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",17.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",17.5,RELATIONSHIP,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",18,Population in households,"754,001","+/-11,334","754,001",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",19,Householder,"294,285","+/-4,873",39.0,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",20,Spouse,"150,052","+/-4,647",19.9,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",21,Unmarried partner,"19,646","+/-2,735",2.6,+/-0.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",22,Child,"225,493","+/-7,734",29.9,+/-0.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",23,Other relatives,"43,543","+/-4,115",5.8,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",24,Other nonrelatives,"20,982","+/-3,220",2.8,+/-0.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",24.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",24.5,MARITAL STATUS,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",25,Males 15 years and over,"315,482","+/-4,310","315,482",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",26,Never married,"116,311","+/-5,261",36.9,+/-1.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",27,"Now married, except separated","160,809","+/-5,521",51.0,+/-1.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",28,Separated,"5,275","+/-1,224",1.7,+/-0.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",29,Widowed,"7,740","+/-1,347",2.5,+/-0.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",30,Divorced,"25,347","+/-2,960",8.0,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",30.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",31,Females 15 years and over,"321,429","+/-4,510","321,429",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",32,Never married,"93,157","+/-4,515",29.0,+/-1.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",33,"Now married, except separated","158,665","+/-4,101",49.4,+/-1.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",34,Separated,"5,121","+/-1,238",1.6,+/-0.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",35,Widowed,"25,574","+/-2,010",8.0,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",36,Divorced,"38,912","+/-3,499",12.1,+/-1.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",36.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",36.5,FERTILITY,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,432","+/-1,730","9,432",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",38,"Unmarried women (widowed, divorced, and never married)","3,201","+/-1,176",33.9,+/-9.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",39,"Per 1,000 unmarried women",33,+/-12,(X),(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",40,"Per 1,000 women 15 to 50 years old",52,+/-10,(X),(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",41,"Per 1,000 women 15 to 19 years old",3,+/-4,(X),(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",42,"Per 1,000 women 20 to 34 years old",91,+/-19,(X),(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",43,"Per 1,000 women 35 to 50 years old",33,+/-10,(X),(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",43.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",43.5,GRANDPARENTS,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",44,Number of grandparents living with own grandchildren under 18 years,"13,656","+/-2,400","13,656",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",45,Grandparents responsible for grandchildren,"3,256",+/-830,23.8,+/-5.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",46,Less than 1 year,500,+/-418,3.7,+/-3.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",47,1 or 2 years,330,+/-363,2.4,+/-2.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",48,3 or 4 years,725,+/-668,5.3,+/-4.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",49,5 or more years,"1,701",+/-597,12.5,+/-4.0
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",49.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",50,Number of grandparents responsible for own grandchildren under 18 years,"3,256",+/-830,"3,256",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",51,Who are female,"1,865",+/-501,57.3,+/-9.0
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",52,Who are married,"1,990",+/-743,61.1,+/-14.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",52.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",53,Population 3 years and over enrolled in school,"186,941","+/-6,978","186,941",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",54,"Nursery school, preschool","8,258","+/-1,523",4.4,+/-0.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",55,Kindergarten,"9,073","+/-1,869",4.9,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",56,Elementary school (grades 1-8),"77,675","+/-3,758",41.6,+/-1.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",57,High school (grades 9-12),"40,917","+/-2,939",21.9,+/-1.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",58,College or graduate school,"51,018","+/-4,059",27.3,+/-1.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",58.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",59,Population 25 years and over,"539,640","+/-5,867","539,640",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",60,Less than 9th grade,"19,871","+/-2,994",3.7,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",61,"9th to 12th grade, no diploma","33,119","+/-3,118",6.1,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",62,High school graduate (includes equivalency),"142,783","+/-4,838",26.5,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",63,"Some college, no degree","87,966","+/-5,058",16.3,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",64,Associate's degree,"40,630","+/-3,174",7.5,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",65,Bachelor's degree,"117,352","+/-5,743",21.7,+/-1.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",66,Graduate or professional degree,"97,919","+/-5,170",18.1,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",66.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",67,High school graduate or higher,"486,650","+/-5,970",90.2,+/-0.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",68,Bachelor's degree or higher,"215,271","+/-7,169",39.9,+/-1.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",68.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",68.5,VETERAN STATUS,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",69,Civilian population 18 years and over,"603,529","+/-6,641","603,529",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",70,Civilian veterans,"38,598","+/-3,082",6.4,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",70.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",71,Total Civilian Noninstitutionalized Population,"757,567","+/-11,651","757,567",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",72,With a disability,"84,045","+/-4,656",11.1,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",72.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",73,Under 18 years,"172,587","+/-5,703","172,587",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",74,With a disability,"7,097","+/-1,750",4.1,+/-1.0
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",74.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",75,18 to 64 years,"468,648","+/-9,349","468,648",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",76,With a disability,"45,437","+/-3,577",9.7,+/-0.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",76.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",77,65 years and over,"116,332","+/-2,809","116,332",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",78,With a disability,"31,511","+/-2,259",27.1,+/-1.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",78.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",79,Population 1 year and over,"771,872","+/-9,934","771,872",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",80,Same house,"682,828","+/-11,484",88.5,+/-1.0
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",81,Different house (in the U.S. or abroad),"89,044","+/-7,534",11.5,+/-1.0
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",82,Different house in the U.S.,"84,531","+/-7,082",11.0,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",83,Same county,"43,402","+/-5,497",5.6,+/-0.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",84,Different county,"41,129","+/-5,121",5.3,+/-0.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",85,Same state,"20,782","+/-3,940",2.7,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",86,Different state,"20,347","+/-3,476",2.6,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",87,Abroad,"4,513","+/-1,627",0.6,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",87.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",88,Total population,"779,649","+/-9,943","779,649",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",89,Native,"646,323","+/-9,029",82.9,+/-0.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",90,Born in United States,"635,147","+/-9,057",81.5,+/-0.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",91,State of residence,"381,740","+/-10,193",49.0,+/-1.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",92,Different state,"253,407","+/-8,256",32.5,+/-1.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","11,176","+/-1,675",1.4,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",94,Foreign born,"133,326","+/-6,877",17.1,+/-0.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",94.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",95,Foreign-born population,"133,326","+/-6,877","133,326",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",96,Naturalized U.S. citizen,"74,957","+/-5,237",56.2,+/-3.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",97,Not a U.S. citizen,"58,369","+/-6,460",43.8,+/-3.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",97.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",98,Population born outside the United States,"144,502","+/-7,246","144,502",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",98.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",99,Native,"11,176","+/-1,675","11,176",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",100,Entered 2010 or later,"2,865","+/-1,009",25.6,+/-7.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",101,Entered before 2010,"8,311","+/-1,383",74.4,+/-7.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",101.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",102,Foreign born,"133,326","+/-6,877","133,326",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",103,Entered 2010 or later,"38,341","+/-5,260",28.8,+/-3.0
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",104,Entered before 2010,"94,985","+/-4,652",71.2,+/-3.0
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",104.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",105,"Foreign-born population, excluding population born at sea","133,326","+/-6,877","133,326",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",106,Europe,"11,033","+/-2,436",8.3,+/-1.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",107,Asia,"55,910","+/-4,115",41.9,+/-2.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",108,Africa,"19,170","+/-3,180",14.4,+/-2.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",109,Oceania,365,+/-295,0.3,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",110,Latin America,"45,645","+/-4,811",34.2,+/-2.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",111,Northern America,"1,203",+/-569,0.9,+/-0.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",111.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",112,Population 5 years and over,"734,586","+/-9,170","734,586",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",113,English only,"567,894","+/-9,014",77.3,+/-1.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",114,Language other than English,"166,692","+/-8,583",22.7,+/-1.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",115,"Speak English less than ""very well""","61,251","+/-5,588",8.3,+/-0.7
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",116,Spanish,"69,469","+/-7,072",9.5,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",117,"Speak English less than ""very well""","30,430","+/-4,735",4.1,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",118,Other Indo-European languages,"41,426","+/-4,444",5.6,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",119,"Speak English less than ""very well""","11,356","+/-2,368",1.5,+/-0.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",120,Asian and Pacific Islander languages,"40,566","+/-3,658",5.5,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",121,"Speak English less than ""very well""","16,607","+/-2,531",2.3,+/-0.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",122,Other languages,"15,231","+/-3,364",2.1,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",123,"Speak English less than ""very well""","2,858","+/-1,169",0.4,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",123.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",123.5,ANCESTRY,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",124,Total population,"779,649","+/-9,943","779,649",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",125,American,"28,988","+/-3,938",3.7,+/-0.5
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",126,Arab,"3,693","+/-1,315",0.5,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",127,Czech,"3,202","+/-1,318",0.4,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",128,Danish,963,+/-462,0.1,+/-0.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",129,Dutch,"4,791","+/-1,464",0.6,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",130,English,"86,956","+/-6,193",11.2,+/-0.8
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",131,French (except Basque),"11,278","+/-2,554",1.4,+/-0.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",132,French Canadian,"1,892",+/-698,0.2,+/-0.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",133,German,"134,198","+/-7,579",17.2,+/-1.0
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",134,Greek,"3,872","+/-1,616",0.5,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",135,Hungarian,"3,091","+/-1,134",0.4,+/-0.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",136,Irish,"85,459","+/-7,056",11.0,+/-0.9
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",137,Italian,"32,469","+/-4,394",4.2,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",138,Lithuanian,"1,029",+/-516,0.1,+/-0.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",139,Norwegian,"4,665","+/-1,848",0.6,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",140,Polish,"16,039","+/-2,740",2.1,+/-0.4
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",141,Portuguese,"2,094",+/-927,0.3,+/-0.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",142,Russian,"6,425","+/-2,024",0.8,+/-0.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",143,Scotch-Irish,"7,467","+/-2,236",1.0,+/-0.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",144,Scottish,"13,758","+/-2,353",1.8,+/-0.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",145,Slovak,"1,391",+/-573,0.2,+/-0.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",146,Subsaharan African,"22,522","+/-4,745",2.9,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",147,Swedish,"5,458","+/-1,542",0.7,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",148,Swiss,"3,473","+/-1,530",0.4,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",149,Ukrainian,"1,462",+/-828,0.2,+/-0.1
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",150,Welsh,"5,289","+/-1,370",0.7,+/-0.2
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",151,West Indian (excluding Hispanic origin groups),"8,070","+/-2,572",1.0,+/-0.3
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",151.3,,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",152,Total households,"294,285","+/-4,873","294,285",(X)
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",153,With a computer,"280,838","+/-4,931",95.4,+/-0.6
+DP02,5001800US2406,"Congressional District 6 (118th Congress), Maryland",154,With a broadband Internet subscription,"265,930","+/-4,939",90.4,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",0.5,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",1,Total households,"320,046","+/-5,387","320,046",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",2,Married-couple household,"84,775","+/-4,087",26.5,+/-1.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",3,With children of the householder under 18 years,"26,516","+/-3,141",8.3,+/-1.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",4,Cohabiting couple household,"23,607","+/-2,635",7.4,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",5,With children of the householder under 18 years,"5,579","+/-1,413",1.7,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",6,"Male householder, no spouse/partner present","73,618","+/-3,772",23.0,+/-1.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",7,With children of the householder under 18 years,"3,410","+/-1,420",1.1,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",8,Householder living alone,"55,833","+/-3,786",17.4,+/-1.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",9,65 years and over,"14,235","+/-2,055",4.4,+/-0.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",10,"Female householder, no spouse/partner present","138,046","+/-4,950",43.1,+/-1.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",11,With children of the householder under 18 years,"26,307","+/-2,966",8.2,+/-0.9
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",12,Householder living alone,"71,739","+/-4,715",22.4,+/-1.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",13,65 years and over,"29,227","+/-2,687",9.1,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",13.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",14,Households with one or more people under 18 years,"75,648","+/-5,175",23.6,+/-1.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",15,Households with one or more people 65 years and over,"91,988","+/-3,008",28.7,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",15.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",16,Average household size,2.25,+/-0.03,(X),(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",17,Average family size,3.10,+/-0.07,(X),(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",17.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",17.5,RELATIONSHIP,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",18,Population in households,"719,204","+/-11,639","719,204",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",19,Householder,"320,046","+/-5,387",44.5,+/-0.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",20,Spouse,"84,507","+/-4,066",11.8,+/-0.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",21,Unmarried partner,"23,732","+/-2,842",3.3,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",22,Child,"197,034","+/-9,100",27.4,+/-1.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",23,Other relatives,"64,846","+/-5,706",9.0,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",24,Other nonrelatives,"29,039","+/-3,605",4.0,+/-0.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",24.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",24.5,MARITAL STATUS,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",25,Males 15 years and over,"285,184","+/-5,026","285,184",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",26,Never married,"147,675","+/-5,018",51.8,+/-1.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",27,"Now married, except separated","95,369","+/-4,508",33.4,+/-1.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",28,Separated,"8,788","+/-2,069",3.1,+/-0.7
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",29,Widowed,"6,797","+/-1,281",2.4,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",30,Divorced,"26,555","+/-2,679",9.3,+/-0.9
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",30.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",31,Females 15 years and over,"329,658","+/-5,644","329,658",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",32,Never married,"154,862","+/-4,960",47.0,+/-1.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",33,"Now married, except separated","93,471","+/-4,538",28.4,+/-1.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",34,Separated,"9,158","+/-1,742",2.8,+/-0.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",35,Widowed,"32,260","+/-2,806",9.8,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",36,Divorced,"39,907","+/-3,484",12.1,+/-1.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",36.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",36.5,FERTILITY,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"10,465","+/-2,133","10,465",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",38,"Unmarried women (widowed, divorced, and never married)","5,234","+/-1,652",50.0,+/-11.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",39,"Per 1,000 unmarried women",37,+/-12,(X),(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",40,"Per 1,000 women 15 to 50 years old",55,+/-11,(X),(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",41,"Per 1,000 women 15 to 19 years old",19,+/-19,(X),(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",42,"Per 1,000 women 20 to 34 years old",82,+/-21,(X),(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",43,"Per 1,000 women 35 to 50 years old",32,+/-12,(X),(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",43.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",43.5,GRANDPARENTS,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",44,Number of grandparents living with own grandchildren under 18 years,"19,009","+/-3,215","19,009",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",45,Grandparents responsible for grandchildren,"8,195","+/-2,305",43.1,+/-7.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",46,Less than 1 year,"1,251",+/-798,6.6,+/-4.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",47,1 or 2 years,"1,721","+/-1,059",9.1,+/-5.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",48,3 or 4 years,"1,311",+/-746,6.9,+/-3.7
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",49,5 or more years,"3,912","+/-1,660",20.6,+/-7.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",49.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",50,Number of grandparents responsible for own grandchildren under 18 years,"8,195","+/-2,305","8,195",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",51,Who are female,"5,886","+/-1,577",71.8,+/-6.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",52,Who are married,"4,412","+/-1,906",53.8,+/-12.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",52.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",53,Population 3 years and over enrolled in school,"179,573","+/-8,465","179,573",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",54,"Nursery school, preschool","7,625","+/-1,659",4.2,+/-0.9
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",55,Kindergarten,"9,785","+/-1,949",5.4,+/-1.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",56,Elementary school (grades 1-8),"64,419","+/-4,098",35.9,+/-2.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",57,High school (grades 9-12),"32,552","+/-3,024",18.1,+/-1.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",58,College or graduate school,"65,192","+/-6,373",36.3,+/-2.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",58.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",59,Population 25 years and over,"523,400","+/-7,471","523,400",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",60,Less than 9th grade,"20,128","+/-2,175",3.8,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",61,"9th to 12th grade, no diploma","43,009","+/-3,283",8.2,+/-0.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",62,High school graduate (includes equivalency),"148,309","+/-6,418",28.3,+/-1.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",63,"Some college, no degree","103,347","+/-6,220",19.7,+/-1.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",64,Associate's degree,"34,124","+/-3,944",6.5,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",65,Bachelor's degree,"94,265","+/-5,693",18.0,+/-1.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",66,Graduate or professional degree,"80,218","+/-4,518",15.3,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",66.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",67,High school graduate or higher,"460,263","+/-8,210",87.9,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",68,Bachelor's degree or higher,"174,483","+/-7,391",33.3,+/-1.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",68.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",68.5,VETERAN STATUS,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",69,Civilian population 18 years and over,"589,676","+/-8,783","589,676",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",70,Civilian veterans,"33,292","+/-3,106",5.6,+/-0.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",70.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",71,Total Civilian Noninstitutionalized Population,"736,092","+/-11,471","736,092",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",72,With a disability,"121,901","+/-7,010",16.6,+/-1.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",72.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",73,Under 18 years,"155,216","+/-5,552","155,216",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",74,With a disability,"9,233","+/-2,158",5.9,+/-1.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",74.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",75,18 to 64 years,"470,654","+/-8,088","470,654",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",76,With a disability,"71,569","+/-5,113",15.2,+/-1.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",76.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",77,65 years and over,"110,222","+/-2,962","110,222",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",78,With a disability,"41,099","+/-2,692",37.3,+/-2.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",78.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",79,Population 1 year and over,"737,480","+/-11,188","737,480",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",80,Same house,"643,440","+/-11,891",87.2,+/-1.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",81,Different house (in the U.S. or abroad),"94,040","+/-8,887",12.8,+/-1.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",82,Different house in the U.S.,"91,086","+/-8,995",12.4,+/-1.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",83,Same county,"41,911","+/-5,974",5.7,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",84,Different county,"49,175","+/-6,931",6.7,+/-0.9
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",85,Same state,"29,202","+/-5,715",4.0,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",86,Different state,"19,973","+/-3,536",2.7,+/-0.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",87,Abroad,"2,954","+/-1,094",0.4,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",87.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",88,Total population,"745,963","+/-11,352","745,963",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",89,Native,"677,941","+/-13,101",90.9,+/-1.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",90,Born in United States,"666,369","+/-12,804",89.3,+/-1.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",91,State of residence,"500,513","+/-10,854",67.1,+/-1.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",92,Different state,"165,856","+/-6,869",22.2,+/-0.8
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","11,572","+/-3,078",1.6,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",94,Foreign born,"68,022","+/-7,072",9.1,+/-1.0
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",94.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",95,Foreign-born population,"68,022","+/-7,072","68,022",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",96,Naturalized U.S. citizen,"37,070","+/-4,166",54.5,+/-4.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",97,Not a U.S. citizen,"30,952","+/-5,103",45.5,+/-4.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",97.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",98,Population born outside the United States,"79,594","+/-7,384","79,594",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",98.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",99,Native,"11,572","+/-3,078","11,572",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",100,Entered 2010 or later,"4,695","+/-2,898",40.6,+/-16.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",101,Entered before 2010,"6,877","+/-1,377",59.4,+/-16.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",101.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",102,Foreign born,"68,022","+/-7,072","68,022",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",103,Entered 2010 or later,"25,496","+/-5,049",37.5,+/-4.7
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",104,Entered before 2010,"42,526","+/-3,960",62.5,+/-4.7
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",104.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",105,"Foreign-born population, excluding population born at sea","68,022","+/-7,072","68,022",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",106,Europe,"5,780","+/-1,786",8.5,+/-2.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",107,Asia,"18,857","+/-2,830",27.7,+/-4.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",108,Africa,"17,963","+/-5,000",26.4,+/-5.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",109,Oceania,408,+/-394,0.6,+/-0.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",110,Latin America,"24,708","+/-3,068",36.3,+/-4.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",111,Northern America,306,+/-267,0.4,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",111.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",112,Population 5 years and over,"702,252","+/-10,556","702,252",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",113,English only,"610,561","+/-13,064",86.9,+/-1.3
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",114,Language other than English,"91,691","+/-9,228",13.1,+/-1.3
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",115,"Speak English less than ""very well""","31,788","+/-5,166",4.5,+/-0.7
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",116,Spanish,"40,659","+/-5,270",5.8,+/-0.7
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",117,"Speak English less than ""very well""","16,361","+/-3,111",2.3,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",118,Other Indo-European languages,"19,907","+/-4,112",2.8,+/-0.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",119,"Speak English less than ""very well""","4,787","+/-2,422",0.7,+/-0.3
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",120,Asian and Pacific Islander languages,"17,225","+/-3,283",2.5,+/-0.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",121,"Speak English less than ""very well""","6,832","+/-1,587",1.0,+/-0.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",122,Other languages,"13,900","+/-5,219",2.0,+/-0.7
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",123,"Speak English less than ""very well""","3,808","+/-3,526",0.5,+/-0.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",123.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",123.5,ANCESTRY,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",124,Total population,"745,963","+/-11,352","745,963",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",125,American,"19,915","+/-3,859",2.7,+/-0.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",126,Arab,"2,093",+/-928,0.3,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",127,Czech,"1,206",+/-609,0.2,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",128,Danish,393,+/-228,0.1,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",129,Dutch,"2,654",+/-894,0.4,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",130,English,"32,316","+/-3,844",4.3,+/-0.5
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",131,French (except Basque),"5,353","+/-1,434",0.7,+/-0.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",132,French Canadian,906,+/-521,0.1,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",133,German,"60,043","+/-5,072",8.0,+/-0.7
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",134,Greek,"2,776","+/-1,131",0.4,+/-0.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",135,Hungarian,"1,448",+/-628,0.2,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",136,Irish,"51,085","+/-4,269",6.8,+/-0.6
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",137,Italian,"20,625","+/-2,605",2.8,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",138,Lithuanian,"1,679",+/-919,0.2,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",139,Norwegian,"1,469",+/-553,0.2,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",140,Polish,"18,809","+/-2,666",2.5,+/-0.4
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",141,Portuguese,347,+/-214,0.0,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",142,Russian,"4,722","+/-1,604",0.6,+/-0.2
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",143,Scotch-Irish,"3,123","+/-1,088",0.4,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",144,Scottish,"4,106",+/-882,0.6,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",145,Slovak,717,+/-377,0.1,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",146,Subsaharan African,"33,175","+/-7,089",4.4,+/-0.9
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",147,Swedish,"2,606",+/-949,0.3,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",148,Swiss,"1,101",+/-467,0.1,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",149,Ukrainian,"1,571",+/-599,0.2,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",150,Welsh,"2,684",+/-840,0.4,+/-0.1
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",151,West Indian (excluding Hispanic origin groups),"7,799","+/-1,881",1.0,+/-0.3
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",151.3,,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",152,Total households,"320,046","+/-5,387","320,046",(X)
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",153,With a computer,"300,502","+/-5,794",93.9,+/-0.9
+DP02,5001800US2407,"Congressional District 7 (118th Congress), Maryland",154,With a broadband Internet subscription,"268,692","+/-6,452",84.0,+/-1.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",0.5,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",1,Total households,"287,117","+/-3,715","287,117",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",2,Married-couple household,"155,575","+/-4,067",54.2,+/-1.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",3,With children of the householder under 18 years,"70,418","+/-3,583",24.5,+/-1.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",4,Cohabiting couple household,"14,053","+/-2,001",4.9,+/-0.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",5,With children of the householder under 18 years,"4,063","+/-1,385",1.4,+/-0.5
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",6,"Male householder, no spouse/partner present","42,019","+/-2,748",14.6,+/-0.9
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",7,With children of the householder under 18 years,"3,311","+/-1,220",1.2,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",8,Householder living alone,"29,099","+/-2,348",10.1,+/-0.8
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",9,65 years and over,"10,207","+/-1,301",3.6,+/-0.5
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",10,"Female householder, no spouse/partner present","75,470","+/-4,030",26.3,+/-1.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",11,With children of the householder under 18 years,"11,998","+/-1,690",4.2,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",12,Householder living alone,"44,306","+/-3,287",15.4,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",13,65 years and over,"24,246","+/-1,927",8.4,+/-0.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",13.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",14,Households with one or more people under 18 years,"96,468","+/-4,301",33.6,+/-1.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",15,Households with one or more people 65 years and over,"98,278","+/-2,301",34.2,+/-0.8
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",15.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",16,Average household size,2.68,+/-0.03,(X),(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",17,Average family size,3.25,+/-0.05,(X),(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",17.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",17.5,RELATIONSHIP,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",18,Population in households,"770,454","+/-10,200","770,454",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",19,Householder,"287,117","+/-3,715",37.3,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",20,Spouse,"155,397","+/-4,158",20.2,+/-0.5
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",21,Unmarried partner,"13,823","+/-1,989",1.8,+/-0.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",22,Child,"236,729","+/-7,516",30.7,+/-0.8
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",23,Other relatives,"52,051","+/-5,338",6.8,+/-0.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",24,Other nonrelatives,"25,337","+/-4,363",3.3,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",24.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",24.5,MARITAL STATUS,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",25,Males 15 years and over,"303,725","+/-4,173","303,725",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",26,Never married,"101,859","+/-3,712",33.5,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",27,"Now married, except separated","175,050","+/-3,862",57.6,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",28,Separated,"4,117","+/-1,394",1.4,+/-0.5
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",29,Widowed,"6,060","+/-1,002",2.0,+/-0.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",30,Divorced,"16,639","+/-1,778",5.5,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",30.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",31,Females 15 years and over,"328,337","+/-4,714","328,337",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",32,Never married,"101,771","+/-4,172",31.0,+/-1.0
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",33,"Now married, except separated","166,374","+/-4,793",50.7,+/-1.5
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",34,Separated,"4,155","+/-1,103",1.3,+/-0.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",35,Widowed,"23,223","+/-2,295",7.1,+/-0.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",36,Divorced,"32,814","+/-3,095",10.0,+/-0.9
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",36.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",36.5,FERTILITY,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,141","+/-1,715","8,141",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",38,"Unmarried women (widowed, divorced, and never married)","1,848",+/-973,22.7,+/-10.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",39,"Per 1,000 unmarried women",20,+/-10,(X),(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",40,"Per 1,000 women 15 to 50 years old",46,+/-10,(X),(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",41,"Per 1,000 women 15 to 19 years old",0,+/-8,(X),(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",42,"Per 1,000 women 20 to 34 years old",59,+/-17,(X),(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",43,"Per 1,000 women 35 to 50 years old",49,+/-13,(X),(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",43.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",43.5,GRANDPARENTS,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",44,Number of grandparents living with own grandchildren under 18 years,"15,631","+/-2,594","15,631",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",45,Grandparents responsible for grandchildren,"2,474",+/-993,15.8,+/-6.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",46,Less than 1 year,261,+/-275,1.7,+/-1.8
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",47,1 or 2 years,629,+/-364,4.0,+/-2.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",48,3 or 4 years,133,+/-152,0.9,+/-1.0
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",49,5 or more years,"1,451",+/-831,9.3,+/-5.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",49.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",50,Number of grandparents responsible for own grandchildren under 18 years,"2,474",+/-993,"2,474",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",51,Who are female,"1,659",+/-732,67.1,+/-15.9
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",52,Who are married,"1,370",+/-788,55.4,+/-18.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",52.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",53,Population 3 years and over enrolled in school,"197,063","+/-6,627","197,063",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",54,"Nursery school, preschool","13,022","+/-2,013",6.6,+/-1.0
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",55,Kindergarten,"10,725","+/-1,613",5.4,+/-0.8
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",56,Elementary school (grades 1-8),"78,559","+/-3,790",39.9,+/-1.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",57,High school (grades 9-12),"45,388","+/-2,865",23.0,+/-1.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",58,College or graduate school,"49,369","+/-3,903",25.1,+/-1.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",58.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",59,Population 25 years and over,"541,581","+/-6,170","541,581",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",60,Less than 9th grade,"23,007","+/-3,130",4.2,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",61,"9th to 12th grade, no diploma","20,193","+/-2,596",3.7,+/-0.5
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",62,High school graduate (includes equivalency),"64,985","+/-4,725",12.0,+/-0.9
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",63,"Some college, no degree","60,276","+/-4,054",11.1,+/-0.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",64,Associate's degree,"26,807","+/-2,986",4.9,+/-0.5
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",65,Bachelor's degree,"147,322","+/-5,297",27.2,+/-0.9
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",66,Graduate or professional degree,"198,991","+/-6,065",36.7,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",66.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",67,High school graduate or higher,"498,381","+/-6,505",92.0,+/-0.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",68,Bachelor's degree or higher,"346,313","+/-6,914",63.9,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",68.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",68.5,VETERAN STATUS,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",69,Civilian population 18 years and over,"597,178","+/-6,842","597,178",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",70,Civilian veterans,"23,673","+/-2,751",4.0,+/-0.5
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",70.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",71,Total Civilian Noninstitutionalized Population,"770,275","+/-10,222","770,275",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",72,With a disability,"68,196","+/-4,399",8.9,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",72.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",73,Under 18 years,"177,345","+/-5,769","177,345",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",74,With a disability,"6,412","+/-1,483",3.6,+/-0.8
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",74.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",75,18 to 64 years,"453,782","+/-7,051","453,782",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",76,With a disability,"29,140","+/-2,968",6.4,+/-0.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",76.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",77,65 years and over,"139,148","+/-2,809","139,148",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",78,With a disability,"32,644","+/-2,539",23.5,+/-1.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",78.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",79,Population 1 year and over,"770,671","+/-9,997","770,671",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",80,Same house,"668,771","+/-13,020",86.8,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",81,Different house (in the U.S. or abroad),"101,900","+/-7,960",13.2,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",82,Different house in the U.S.,"91,749","+/-8,007",11.9,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",83,Same county,"51,626","+/-7,702",6.7,+/-1.0
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",84,Different county,"40,123","+/-4,431",5.2,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",85,Same state,"13,359","+/-3,221",1.7,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",86,Different state,"26,764","+/-3,353",3.5,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",87,Abroad,"10,151","+/-2,634",1.3,+/-0.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",87.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",88,Total population,"776,724","+/-9,780","776,724",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",89,Native,"532,574","+/-10,005",68.6,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",90,Born in United States,"517,136","+/-9,991",66.6,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",91,State of residence,"186,834","+/-9,302",24.1,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",92,Different state,"330,302","+/-9,274",42.5,+/-1.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","15,438","+/-2,055",2.0,+/-0.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",94,Foreign born,"244,150","+/-9,328",31.4,+/-1.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",94.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",95,Foreign-born population,"244,150","+/-9,328","244,150",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",96,Naturalized U.S. citizen,"141,324","+/-6,257",57.9,+/-2.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",97,Not a U.S. citizen,"102,826","+/-8,090",42.1,+/-2.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",97.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",98,Population born outside the United States,"259,588","+/-9,395","259,588",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",98.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",99,Native,"15,438","+/-2,055","15,438",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",100,Entered 2010 or later,"4,830","+/-1,285",31.3,+/-6.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",101,Entered before 2010,"10,608","+/-1,588",68.7,+/-6.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",101.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",102,Foreign born,"244,150","+/-9,328","244,150",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",103,Entered 2010 or later,"75,016","+/-7,213",30.7,+/-2.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",104,Entered before 2010,"169,134","+/-6,446",69.3,+/-2.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",104.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",105,"Foreign-born population, excluding population born at sea","244,150","+/-9,328","244,150",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",106,Europe,"26,574","+/-3,171",10.9,+/-1.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",107,Asia,"85,394","+/-4,581",35.0,+/-1.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",108,Africa,"42,911","+/-5,512",17.6,+/-2.0
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",109,Oceania,545,+/-395,0.2,+/-0.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",110,Latin America,"86,168","+/-6,499",35.3,+/-2.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",111,Northern America,"2,558",+/-882,1.0,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",111.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",112,Population 5 years and over,"733,887","+/-9,073","733,887",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",113,English only,"429,372","+/-10,236",58.5,+/-1.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",114,Language other than English,"304,515","+/-10,314",41.5,+/-1.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",115,"Speak English less than ""very well""","105,574","+/-5,680",14.4,+/-0.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",116,Spanish,"126,532","+/-7,057",17.2,+/-0.9
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",117,"Speak English less than ""very well""","48,159","+/-4,785",6.6,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",118,Other Indo-European languages,"75,263","+/-7,138",10.3,+/-0.9
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",119,"Speak English less than ""very well""","19,427","+/-3,216",2.6,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",120,Asian and Pacific Islander languages,"62,509","+/-4,373",8.5,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",121,"Speak English less than ""very well""","27,471","+/-3,234",3.7,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",122,Other languages,"40,211","+/-6,008",5.5,+/-0.8
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",123,"Speak English less than ""very well""","10,517","+/-2,040",1.4,+/-0.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",123.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",123.5,ANCESTRY,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",124,Total population,"776,724","+/-9,780","776,724",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",125,American,"23,043","+/-3,433",3.0,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",126,Arab,"10,170","+/-2,800",1.3,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",127,Czech,"1,679",+/-682,0.2,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",128,Danish,"1,540",+/-687,0.2,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",129,Dutch,"5,459","+/-1,400",0.7,+/-0.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",130,English,"61,258","+/-4,405",7.9,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",131,French (except Basque),"12,765","+/-2,426",1.6,+/-0.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",132,French Canadian,"1,729",+/-875,0.2,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",133,German,"69,706","+/-4,668",9.0,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",134,Greek,"6,440","+/-1,778",0.8,+/-0.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",135,Hungarian,"3,827","+/-1,128",0.5,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",136,Irish,"66,699","+/-5,440",8.6,+/-0.7
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",137,Italian,"33,480","+/-3,204",4.3,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",138,Lithuanian,"3,069",+/-856,0.4,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",139,Norwegian,"5,103","+/-1,534",0.7,+/-0.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",140,Polish,"19,403","+/-2,678",2.5,+/-0.3
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",141,Portuguese,"3,011","+/-1,145",0.4,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",142,Russian,"20,495","+/-3,152",2.6,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",143,Scotch-Irish,"5,662","+/-1,419",0.7,+/-0.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",144,Scottish,"11,599","+/-1,821",1.5,+/-0.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",145,Slovak,"1,038",+/-591,0.1,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",146,Subsaharan African,"49,858","+/-6,729",6.4,+/-0.8
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",147,Swedish,"5,805","+/-1,402",0.7,+/-0.2
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",148,Swiss,"1,475",+/-699,0.2,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",149,Ukrainian,"3,383",+/-881,0.4,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",150,Welsh,"2,791",+/-893,0.4,+/-0.1
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",151,West Indian (excluding Hispanic origin groups),"16,913","+/-4,809",2.2,+/-0.6
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",151.3,,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",152,Total households,"287,117","+/-3,715","287,117",(X)
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",153,With a computer,"282,156","+/-3,656",98.3,+/-0.4
+DP02,5001800US2408,"Congressional District 8 (118th Congress), Maryland",154,With a broadband Internet subscription,"274,944","+/-4,127",95.8,+/-0.6

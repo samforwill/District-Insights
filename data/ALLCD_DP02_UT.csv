@@ -1,0 +1,801 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",0.5,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",1,Total households,"281,730","+/-3,840","281,730",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",2,Married-couple household,"162,081","+/-4,491",57.5,+/-1.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",3,With children of the householder under 18 years,"77,835","+/-3,744",27.6,+/-1.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",4,Cohabiting couple household,"14,105","+/-2,276",5.0,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",5,With children of the householder under 18 years,"4,826","+/-1,207",1.7,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",6,"Male householder, no spouse/partner present","46,393","+/-3,099",16.5,+/-1.0
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",7,With children of the householder under 18 years,"5,157","+/-1,474",1.8,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",8,Householder living alone,"29,371","+/-2,909",10.4,+/-1.0
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",9,65 years and over,"7,774","+/-1,096",2.8,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",10,"Female householder, no spouse/partner present","59,151","+/-2,829",21.0,+/-1.0
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",11,With children of the householder under 18 years,"10,428","+/-1,747",3.7,+/-0.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",12,Householder living alone,"33,186","+/-2,303",11.8,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",13,65 years and over,"13,267","+/-1,485",4.7,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",13.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",14,Households with one or more people under 18 years,"106,648","+/-3,470",37.9,+/-1.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",15,Households with one or more people 65 years and over,"64,799","+/-2,258",23.0,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",15.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",16,Average household size,2.92,+/-0.03,(X),(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",17,Average family size,3.47,+/-0.05,(X),(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",17.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",17.5,RELATIONSHIP,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",18,Population in households,"823,882","+/-7,960","823,882",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",19,Householder,"281,730","+/-3,840",34.2,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",20,Spouse,"161,287","+/-4,466",19.6,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",21,Unmarried partner,"14,141","+/-2,233",1.7,+/-0.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",22,Child,"287,248","+/-7,369",34.9,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",23,Other relatives,"47,881","+/-5,022",5.8,+/-0.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",24,Other nonrelatives,"31,595","+/-4,248",3.8,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",24.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",24.5,MARITAL STATUS,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",25,Males 15 years and over,"327,035","+/-4,387","327,035",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",26,Never married,"113,371","+/-4,325",34.7,+/-1.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",27,"Now married, except separated","179,027","+/-4,879",54.7,+/-1.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",28,Separated,"4,600","+/-1,369",1.4,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",29,Widowed,"6,028","+/-1,152",1.8,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",30,Divorced,"24,009","+/-2,497",7.3,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",30.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",31,Females 15 years and over,"320,279","+/-4,099","320,279",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",32,Never married,"91,308","+/-3,934",28.5,+/-1.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",33,"Now married, except separated","173,721","+/-5,365",54.2,+/-1.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",34,Separated,"4,258","+/-1,058",1.3,+/-0.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",35,Widowed,"18,743","+/-2,052",5.9,+/-0.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",36,Divorced,"32,249","+/-3,121",10.1,+/-1.0
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",36.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",36.5,FERTILITY,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"11,463","+/-1,876","11,463",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",38,"Unmarried women (widowed, divorced, and never married)","1,359",+/-704,11.9,+/-5.9
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",39,"Per 1,000 unmarried women",13,+/-7,(X),(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",40,"Per 1,000 women 15 to 50 years old",53,+/-9,(X),(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",41,"Per 1,000 women 15 to 19 years old",5,+/-6,(X),(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",42,"Per 1,000 women 20 to 34 years old",91,+/-16,(X),(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",43,"Per 1,000 women 35 to 50 years old",28,+/-10,(X),(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",43.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",43.5,GRANDPARENTS,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",44,Number of grandparents living with own grandchildren under 18 years,"14,525","+/-1,962","14,525",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",45,Grandparents responsible for grandchildren,"3,428","+/-1,066",23.6,+/-6.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",46,Less than 1 year,631,+/-395,4.3,+/-2.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",47,1 or 2 years,742,+/-459,5.1,+/-3.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",48,3 or 4 years,365,+/-321,2.5,+/-2.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",49,5 or more years,"1,690",+/-842,11.6,+/-5.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",49.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",50,Number of grandparents responsible for own grandchildren under 18 years,"3,428","+/-1,066","3,428",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",51,Who are female,"2,169",+/-832,63.3,+/-9.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",52,Who are married,"2,461",+/-870,71.8,+/-13.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",52.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",53,Population 3 years and over enrolled in school,"261,338","+/-6,318","261,338",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",54,"Nursery school, preschool","13,195","+/-2,025",5.0,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",55,Kindergarten,"12,406","+/-1,795",4.7,+/-0.7
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",56,Elementary school (grades 1-8),"107,187","+/-3,430",41.0,+/-1.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",57,High school (grades 9-12),"55,809","+/-2,803",21.4,+/-1.0
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",58,College or graduate school,"72,741","+/-4,413",27.8,+/-1.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",58.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",59,Population 25 years and over,"505,855","+/-6,130","505,855",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",60,Less than 9th grade,"11,307","+/-1,843",2.2,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",61,"9th to 12th grade, no diploma","17,323","+/-2,378",3.4,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",62,High school graduate (includes equivalency),"114,394","+/-5,463",22.6,+/-1.0
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",63,"Some college, no degree","127,330","+/-5,285",25.2,+/-1.0
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",64,Associate's degree,"47,298","+/-3,751",9.4,+/-0.7
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",65,Bachelor's degree,"121,112","+/-5,200",23.9,+/-1.0
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",66,Graduate or professional degree,"67,091","+/-5,198",13.3,+/-1.0
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",66.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",67,High school graduate or higher,"477,225","+/-6,735",94.3,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",68,Bachelor's degree or higher,"188,203","+/-7,234",37.2,+/-1.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",68.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",68.5,VETERAN STATUS,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",69,Civilian population 18 years and over,"600,081","+/-6,872","600,081",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",70,Civilian veterans,"36,840","+/-3,041",6.1,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",70.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",71,Total Civilian Noninstitutionalized Population,"827,847","+/-7,981","827,847",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",72,With a disability,"82,838","+/-4,679",10.0,+/-0.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",72.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",73,Under 18 years,"230,837","+/-4,098","230,837",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",74,With a disability,"8,979","+/-1,711",3.9,+/-0.7
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",74.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",75,18 to 64 years,"505,000","+/-6,867","505,000",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",76,With a disability,"44,703","+/-3,247",8.9,+/-0.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",76.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",77,65 years and over,"92,010","+/-2,525","92,010",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",78,With a disability,"29,156","+/-2,524",31.7,+/-2.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",78.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",79,Population 1 year and over,"826,737","+/-7,831","826,737",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",80,Same house,"718,490","+/-9,517",86.9,+/-0.9
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",81,Different house (in the U.S. or abroad),"108,247","+/-7,195",13.1,+/-0.9
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",82,Different house in the U.S.,"103,758","+/-7,137",12.6,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",83,Same county,"50,933","+/-5,369",6.2,+/-0.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",84,Different county,"52,825","+/-4,929",6.4,+/-0.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",85,Same state,"28,258","+/-3,859",3.4,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",86,Different state,"24,567","+/-3,464",3.0,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",87,Abroad,"4,489","+/-1,706",0.5,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",87.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",88,Total population,"836,389","+/-7,686","836,389",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",89,Native,"786,905","+/-8,076",94.1,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",90,Born in United States,"775,659","+/-8,395",92.7,+/-0.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",91,State of residence,"531,069","+/-10,308",63.5,+/-1.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",92,Different state,"244,590","+/-9,390",29.2,+/-1.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","11,246","+/-1,891",1.3,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",94,Foreign born,"49,484","+/-4,195",5.9,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",94.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",95,Foreign-born population,"49,484","+/-4,195","49,484",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",96,Naturalized U.S. citizen,"25,884","+/-2,660",52.3,+/-3.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",97,Not a U.S. citizen,"23,600","+/-2,821",47.7,+/-3.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",97.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",98,Population born outside the United States,"60,730","+/-4,654","60,730",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",98.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",99,Native,"11,246","+/-1,891","11,246",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",100,Entered 2010 or later,"3,107","+/-1,031",27.6,+/-7.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",101,Entered before 2010,"8,139","+/-1,604",72.4,+/-7.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",101.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",102,Foreign born,"49,484","+/-4,195","49,484",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",103,Entered 2010 or later,"12,788","+/-2,305",25.8,+/-3.7
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",104,Entered before 2010,"36,696","+/-3,287",74.2,+/-3.7
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",104.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",105,"Foreign-born population, excluding population born at sea","49,484","+/-4,195","49,484",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",106,Europe,"5,740","+/-1,150",11.6,+/-2.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",107,Asia,"10,745","+/-2,187",21.7,+/-3.9
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",108,Africa,"1,997",+/-978,4.0,+/-1.9
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",109,Oceania,822,+/-320,1.7,+/-0.7
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",110,Latin America,"28,620","+/-3,318",57.8,+/-4.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",111,Northern America,"1,560",+/-527,3.2,+/-1.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",111.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",112,Population 5 years and over,"782,455","+/-7,309","782,455",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",113,English only,"692,685","+/-9,220",88.5,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",114,Language other than English,"89,770","+/-6,462",11.5,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",115,"Speak English less than ""very well""","25,285","+/-3,142",3.2,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",116,Spanish,"64,594","+/-5,613",8.3,+/-0.7
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",117,"Speak English less than ""very well""","18,286","+/-2,906",2.3,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",118,Other Indo-European languages,"11,958","+/-2,771",1.5,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",119,"Speak English less than ""very well""","2,299","+/-1,244",0.3,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",120,Asian and Pacific Islander languages,"11,064","+/-1,907",1.4,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",121,"Speak English less than ""very well""","4,444","+/-1,362",0.6,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",122,Other languages,"2,154",+/-995,0.3,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",123,"Speak English less than ""very well""",256,+/-218,0.0,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",123.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",123.5,ANCESTRY,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",124,Total population,"836,389","+/-7,686","836,389",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",125,American,"28,499","+/-4,412",3.4,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",126,Arab,"2,473","+/-1,552",0.3,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",127,Czech,"2,428","+/-1,361",0.3,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",128,Danish,"37,852","+/-4,483",4.5,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",129,Dutch,"13,807","+/-2,433",1.7,+/-0.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",130,English,"238,498","+/-11,344",28.5,+/-1.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",131,French (except Basque),"12,927","+/-2,556",1.5,+/-0.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",132,French Canadian,"1,121",+/-578,0.1,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",133,German,"85,981","+/-6,809",10.3,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",134,Greek,"2,794","+/-1,437",0.3,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",135,Hungarian,"1,449",+/-809,0.2,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",136,Irish,"55,601","+/-6,598",6.6,+/-0.8
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",137,Italian,"25,943","+/-4,402",3.1,+/-0.5
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",138,Lithuanian,145,+/-146,0.0,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",139,Norwegian,"19,954","+/-3,513",2.4,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",140,Polish,"6,844","+/-1,893",0.8,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",141,Portuguese,"1,689",+/-919,0.2,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",142,Russian,"2,666",+/-995,0.3,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",143,Scotch-Irish,"5,059","+/-1,334",0.6,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",144,Scottish,"37,071","+/-5,166",4.4,+/-0.6
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",145,Slovak,239,+/-243,0.0,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",146,Subsaharan African,"2,358","+/-1,159",0.3,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",147,Swedish,"24,123","+/-3,577",2.9,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",148,Swiss,"7,892","+/-1,591",0.9,+/-0.2
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",149,Ukrainian,924,+/-645,0.1,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",150,Welsh,"12,536","+/-2,832",1.5,+/-0.3
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",151,West Indian (excluding Hispanic origin groups),510,+/-421,0.1,+/-0.1
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",151.3,,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",152,Total households,"281,730","+/-3,840","281,730",(X)
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",153,With a computer,"273,962","+/-3,917",97.2,+/-0.4
+DP02,5001800US4901,"Congressional District 1 (118th Congress), Utah",154,With a broadband Internet subscription,"265,901","+/-3,855",94.4,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",0.5,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",1,Total households,"293,199","+/-5,356","293,199",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",2,Married-couple household,"156,386","+/-5,085",53.3,+/-1.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",3,With children of the householder under 18 years,"68,860","+/-3,908",23.5,+/-1.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",4,Cohabiting couple household,"18,090","+/-2,267",6.2,+/-0.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",5,With children of the householder under 18 years,"4,923","+/-1,205",1.7,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",6,"Male householder, no spouse/partner present","54,941","+/-4,636",18.7,+/-1.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",7,With children of the householder under 18 years,"3,564","+/-1,184",1.2,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",8,Householder living alone,"36,068","+/-3,971",12.3,+/-1.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",9,65 years and over,"8,388","+/-1,669",2.9,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",10,"Female householder, no spouse/partner present","63,782","+/-4,320",21.8,+/-1.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",11,With children of the householder under 18 years,"10,515","+/-1,825",3.6,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",12,Householder living alone,"36,835","+/-3,513",12.6,+/-1.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",13,65 years and over,"17,408","+/-1,935",5.9,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",13.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",14,Households with one or more people under 18 years,"98,821","+/-4,902",33.7,+/-1.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",15,Households with one or more people 65 years and over,"80,282","+/-3,605",27.4,+/-1.0
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",15.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",16,Average household size,2.81,+/-0.04,(X),(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",17,Average family size,3.42,+/-0.06,(X),(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",17.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",17.5,RELATIONSHIP,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",18,Population in households,"824,054","+/-10,352","824,054",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",19,Householder,"293,199","+/-5,356",35.6,+/-0.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",20,Spouse,"156,239","+/-4,989",19.0,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",21,Unmarried partner,"18,757","+/-2,323",2.3,+/-0.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",22,Child,"260,866","+/-7,560",31.7,+/-0.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",23,Other relatives,"58,230","+/-5,494",7.1,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",24,Other nonrelatives,"36,763","+/-5,642",4.5,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",24.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",24.5,MARITAL STATUS,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",25,Males 15 years and over,"335,321","+/-6,916","335,321",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",26,Never married,"123,095","+/-6,562",36.7,+/-1.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",27,"Now married, except separated","171,860","+/-5,495",51.3,+/-1.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",28,Separated,"4,509","+/-1,309",1.3,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",29,Widowed,"6,907","+/-1,526",2.1,+/-0.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",30,Divorced,"28,950","+/-3,676",8.6,+/-1.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",30.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",31,Females 15 years and over,"322,966","+/-6,171","322,966",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",32,Never married,"93,203","+/-5,070",28.9,+/-1.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",33,"Now married, except separated","168,542","+/-5,683",52.2,+/-1.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",34,Separated,"5,508","+/-1,336",1.7,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",35,Widowed,"18,275","+/-2,508",5.7,+/-0.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",36,Divorced,"37,438","+/-3,450",11.6,+/-1.0
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",36.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",36.5,FERTILITY,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"10,906","+/-1,978","10,906",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",38,"Unmarried women (widowed, divorced, and never married)","2,388","+/-1,077",21.9,+/-7.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",39,"Per 1,000 unmarried women",23,+/-10,(X),(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",40,"Per 1,000 women 15 to 50 years old",54,+/-9,(X),(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",41,"Per 1,000 women 15 to 19 years old",15,+/-13,(X),(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",42,"Per 1,000 women 20 to 34 years old",94,+/-19,(X),(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",43,"Per 1,000 women 35 to 50 years old",28,+/-11,(X),(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",43.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",43.5,GRANDPARENTS,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",44,Number of grandparents living with own grandchildren under 18 years,"16,910","+/-2,633","16,910",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",45,Grandparents responsible for grandchildren,"4,472","+/-1,503",26.4,+/-7.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",46,Less than 1 year,712,+/-651,4.2,+/-3.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",47,1 or 2 years,"1,685","+/-1,054",10.0,+/-5.9
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",48,3 or 4 years,398,+/-424,2.4,+/-2.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",49,5 or more years,"1,677","+/-1,039",9.9,+/-5.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",49.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",50,Number of grandparents responsible for own grandchildren under 18 years,"4,472","+/-1,503","4,472",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",51,Who are female,"2,386",+/-783,53.4,+/-8.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",52,Who are married,"3,266","+/-1,442",73.0,+/-16.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",52.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",53,Population 3 years and over enrolled in school,"230,077","+/-7,770","230,077",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",54,"Nursery school, preschool","11,160","+/-1,727",4.9,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",55,Kindergarten,"11,525","+/-1,972",5.0,+/-0.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",56,Elementary school (grades 1-8),"96,099","+/-4,756",41.8,+/-2.0
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",57,High school (grades 9-12),"54,755","+/-3,806",23.8,+/-1.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",58,College or graduate school,"56,538","+/-5,534",24.6,+/-1.9
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",58.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",59,Population 25 years and over,"527,878","+/-7,779","527,878",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",60,Less than 9th grade,"17,826","+/-2,930",3.4,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",61,"9th to 12th grade, no diploma","29,015","+/-2,997",5.5,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",62,High school graduate (includes equivalency),"132,660","+/-7,187",25.1,+/-1.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",63,"Some college, no degree","128,368","+/-6,190",24.3,+/-1.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",64,Associate's degree,"49,481","+/-3,860",9.4,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",65,Bachelor's degree,"107,757","+/-6,388",20.4,+/-1.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",66,Graduate or professional degree,"62,771","+/-4,589",11.9,+/-0.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",66.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",67,High school graduate or higher,"481,037","+/-8,639",91.1,+/-0.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",68,Bachelor's degree or higher,"170,528","+/-8,240",32.3,+/-1.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",68.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",68.5,VETERAN STATUS,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",69,Civilian population 18 years and over,"615,225","+/-8,999","615,225",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",70,Civilian veterans,"33,872","+/-2,579",5.5,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",70.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",71,Total Civilian Noninstitutionalized Population,"825,232","+/-10,353","825,232",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",72,With a disability,"96,384","+/-5,702",11.7,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",72.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",73,Under 18 years,"217,088","+/-6,313","217,088",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",74,With a disability,"9,986","+/-2,105",4.6,+/-0.9
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",74.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",75,18 to 64 years,"494,109","+/-8,745","494,109",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",76,With a disability,"52,574","+/-4,417",10.6,+/-0.9
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",76.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",77,65 years and over,"114,035","+/-4,256","114,035",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",78,With a disability,"33,824","+/-2,603",29.7,+/-2.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",78.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",79,Population 1 year and over,"825,084","+/-8,971","825,084",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",80,Same house,"701,221","+/-11,842",85.0,+/-1.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",81,Different house (in the U.S. or abroad),"123,863","+/-9,790",15.0,+/-1.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",82,Different house in the U.S.,"119,164","+/-9,729",14.4,+/-1.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",83,Same county,"72,288","+/-7,574",8.8,+/-0.9
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",84,Different county,"46,876","+/-6,488",5.7,+/-0.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",85,Same state,"22,234","+/-4,002",2.7,+/-0.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",86,Different state,"24,642","+/-4,719",3.0,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",87,Abroad,"4,699","+/-1,805",0.6,+/-0.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",87.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",88,Total population,"833,949","+/-9,143","833,949",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",89,Native,"744,911","+/-10,221",89.3,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",90,Born in United States,"736,242","+/-10,314",88.3,+/-0.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",91,State of residence,"479,126","+/-12,528",57.5,+/-1.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",92,Different state,"257,116","+/-9,443",30.8,+/-1.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","8,669","+/-2,304",1.0,+/-0.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",94,Foreign born,"89,038","+/-6,219",10.7,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",94.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",95,Foreign-born population,"89,038","+/-6,219","89,038",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",96,Naturalized U.S. citizen,"35,979","+/-4,536",40.4,+/-4.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",97,Not a U.S. citizen,"53,059","+/-5,712",59.6,+/-4.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",97.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",98,Population born outside the United States,"97,707","+/-6,729","97,707",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",98.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",99,Native,"8,669","+/-2,304","8,669",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",100,Entered 2010 or later,"2,756","+/-1,490",31.8,+/-13.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",101,Entered before 2010,"5,913","+/-1,708",68.2,+/-13.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",101.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",102,Foreign born,"89,038","+/-6,219","89,038",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",103,Entered 2010 or later,"30,009","+/-4,901",33.7,+/-4.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",104,Entered before 2010,"59,029","+/-5,503",66.3,+/-4.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",104.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",105,"Foreign-born population, excluding population born at sea","89,038","+/-6,219","89,038",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",106,Europe,"9,412","+/-2,385",10.6,+/-2.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",107,Asia,"16,590","+/-3,182",18.6,+/-3.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",108,Africa,"4,699","+/-1,885",5.3,+/-2.0
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",109,Oceania,"5,137","+/-1,945",5.8,+/-2.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",110,Latin America,"51,847","+/-5,097",58.2,+/-3.9
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",111,Northern America,"1,353",+/-694,1.5,+/-0.8
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",111.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",112,Population 5 years and over,"781,819","+/-8,303","781,819",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",113,English only,"630,611","+/-10,654",80.7,+/-1.0
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",114,Language other than English,"151,208","+/-8,214",19.3,+/-1.0
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",115,"Speak English less than ""very well""","54,455","+/-5,667",7.0,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",116,Spanish,"102,888","+/-8,306",13.2,+/-1.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",117,"Speak English less than ""very well""","38,118","+/-4,611",4.9,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",118,Other Indo-European languages,"19,006","+/-4,013",2.4,+/-0.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",119,"Speak English less than ""very well""","5,526","+/-2,119",0.7,+/-0.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",120,Asian and Pacific Islander languages,"21,914","+/-4,703",2.8,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",121,"Speak English less than ""very well""","8,345","+/-2,437",1.1,+/-0.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",122,Other languages,"7,400","+/-3,127",0.9,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",123,"Speak English less than ""very well""","2,466","+/-1,523",0.3,+/-0.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",123.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",123.5,ANCESTRY,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",124,Total population,"833,949","+/-9,143","833,949",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",125,American,"39,489","+/-6,153",4.7,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",126,Arab,"2,197","+/-2,060",0.3,+/-0.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",127,Czech,"1,128",+/-523,0.1,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",128,Danish,"29,341","+/-3,633",3.5,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",129,Dutch,"9,725","+/-1,947",1.2,+/-0.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",130,English,"225,785","+/-12,472",27.1,+/-1.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",131,French (except Basque),"13,779","+/-3,028",1.7,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",132,French Canadian,"1,552",+/-545,0.2,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",133,German,"91,083","+/-8,971",10.9,+/-1.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",134,Greek,"2,618","+/-1,294",0.3,+/-0.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",135,Hungarian,"1,553",+/-733,0.2,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",136,Irish,"53,608","+/-5,678",6.4,+/-0.7
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",137,Italian,"22,609","+/-3,520",2.7,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",138,Lithuanian,806,+/-419,0.1,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",139,Norwegian,"10,746","+/-2,325",1.3,+/-0.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",140,Polish,"5,302","+/-1,427",0.6,+/-0.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",141,Portuguese,689,+/-414,0.1,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",142,Russian,"2,922",+/-914,0.4,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",143,Scotch-Irish,"3,684","+/-1,128",0.4,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",144,Scottish,"29,426","+/-5,081",3.5,+/-0.6
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",145,Slovak,143,+/-173,0.0,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",146,Subsaharan African,"7,972","+/-2,854",1.0,+/-0.3
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",147,Swedish,"22,826","+/-3,556",2.7,+/-0.4
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",148,Swiss,"7,847","+/-1,860",0.9,+/-0.2
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",149,Ukrainian,"1,510","+/-1,105",0.2,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",150,Welsh,"16,607","+/-4,319",2.0,+/-0.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",151,West Indian (excluding Hispanic origin groups),579,+/-518,0.1,+/-0.1
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",151.3,,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",152,Total households,"293,199","+/-5,356","293,199",(X)
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",153,With a computer,"284,338","+/-5,365",97.0,+/-0.5
+DP02,5001800US4902,"Congressional District 2 (118th Congress), Utah",154,With a broadband Internet subscription,"271,081","+/-5,662",92.5,+/-1.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",0.5,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",1,Total households,"272,673","+/-4,057","272,673",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",2,Married-couple household,"169,515","+/-4,566",62.2,+/-1.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",3,With children of the householder under 18 years,"77,041","+/-3,708",28.3,+/-1.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",4,Cohabiting couple household,"14,017","+/-1,974",5.1,+/-0.7
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",5,With children of the householder under 18 years,"3,575","+/-1,079",1.3,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",6,"Male householder, no spouse/partner present","38,854","+/-3,278",14.2,+/-1.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",7,With children of the householder under 18 years,"2,524",+/-784,0.9,+/-0.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",8,Householder living alone,"24,655","+/-3,018",9.0,+/-1.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",9,65 years and over,"6,288","+/-1,403",2.3,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",10,"Female householder, no spouse/partner present","50,287","+/-3,717",18.4,+/-1.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",11,With children of the householder under 18 years,"7,332","+/-1,207",2.7,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",12,Householder living alone,"25,632","+/-2,738",9.4,+/-1.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",13,65 years and over,"11,114","+/-1,273",4.1,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",13.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",14,Households with one or more people under 18 years,"98,932","+/-4,092",36.3,+/-1.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",15,Households with one or more people 65 years and over,"68,799","+/-3,024",25.2,+/-1.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",15.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",16,Average household size,2.97,+/-0.04,(X),(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",17,Average family size,3.44,+/-0.05,(X),(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",17.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",17.5,RELATIONSHIP,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",18,Population in households,"810,702","+/-9,133","810,702",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",19,Householder,"272,673","+/-4,057",33.6,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",20,Spouse,"169,613","+/-4,466",20.9,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",21,Unmarried partner,"14,001","+/-1,918",1.7,+/-0.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",22,Child,"269,095","+/-7,549",33.2,+/-0.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",23,Other relatives,"48,114","+/-4,610",5.9,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",24,Other nonrelatives,"37,206","+/-4,585",4.6,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",24.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",24.5,MARITAL STATUS,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",25,Males 15 years and over,"321,139","+/-5,236","321,139",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",26,Never married,"108,755","+/-5,539",33.9,+/-1.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",27,"Now married, except separated","182,743","+/-4,904",56.9,+/-1.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",28,Separated,"2,976",+/-862,0.9,+/-0.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",29,Widowed,"4,697","+/-1,151",1.5,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",30,Divorced,"21,968","+/-2,547",6.8,+/-0.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",30.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",31,Females 15 years and over,"323,475","+/-5,194","323,475",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",32,Never married,"96,806","+/-4,924",29.9,+/-1.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",33,"Now married, except separated","181,796","+/-4,853",56.2,+/-1.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",34,Separated,"3,118",+/-889,1.0,+/-0.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",35,Widowed,"15,249","+/-1,566",4.7,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",36,Divorced,"26,506","+/-2,426",8.2,+/-0.7
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",36.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",36.5,FERTILITY,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"13,611","+/-1,972","13,611",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",38,"Unmarried women (widowed, divorced, and never married)","1,938",+/-859,14.2,+/-5.7
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",39,"Per 1,000 unmarried women",19,+/-8,(X),(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",40,"Per 1,000 women 15 to 50 years old",63,+/-9,(X),(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",41,"Per 1,000 women 15 to 19 years old",6,+/-7,(X),(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",42,"Per 1,000 women 20 to 34 years old",112,+/-17,(X),(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",43,"Per 1,000 women 35 to 50 years old",29,+/-10,(X),(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",43.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",43.5,GRANDPARENTS,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",44,Number of grandparents living with own grandchildren under 18 years,"13,658","+/-1,927","13,658",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",45,Grandparents responsible for grandchildren,"2,546",+/-833,18.6,+/-5.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",46,Less than 1 year,398,+/-306,2.9,+/-2.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",47,1 or 2 years,641,+/-376,4.7,+/-2.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",48,3 or 4 years,521,+/-360,3.8,+/-2.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",49,5 or more years,986,+/-555,7.2,+/-3.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",49.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",50,Number of grandparents responsible for own grandchildren under 18 years,"2,546",+/-833,"2,546",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",51,Who are female,"1,579",+/-618,62.0,+/-10.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",52,Who are married,"1,665",+/-641,65.4,+/-14.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",52.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",53,Population 3 years and over enrolled in school,"272,944","+/-8,031","272,944",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",54,"Nursery school, preschool","12,638","+/-1,831",4.6,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",55,Kindergarten,"10,672","+/-1,432",3.9,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",56,Elementary school (grades 1-8),"97,453","+/-4,390",35.7,+/-1.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",57,High school (grades 9-12),"57,280","+/-2,995",21.0,+/-1.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",58,College or graduate school,"94,901","+/-5,195",34.8,+/-1.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",58.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",59,Population 25 years and over,"485,716","+/-6,878","485,716",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",60,Less than 9th grade,"10,156","+/-1,856",2.1,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",61,"9th to 12th grade, no diploma","16,287","+/-2,540",3.4,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",62,High school graduate (includes equivalency),"85,531","+/-5,203",17.6,+/-1.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",63,"Some college, no degree","118,401","+/-6,119",24.4,+/-1.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",64,Associate's degree,"43,180","+/-3,181",8.9,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",65,Bachelor's degree,"139,916","+/-5,127",28.8,+/-1.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",66,Graduate or professional degree,"72,245","+/-3,765",14.9,+/-0.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",66.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",67,High school graduate or higher,"459,273","+/-7,776",94.6,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",68,Bachelor's degree or higher,"212,161","+/-6,278",43.7,+/-1.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",68.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",68.5,VETERAN STATUS,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",69,Civilian population 18 years and over,"600,815","+/-6,826","600,815",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",70,Civilian veterans,"22,425","+/-2,059",3.7,+/-0.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",70.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",71,Total Civilian Noninstitutionalized Population,"822,980","+/-8,850","822,980",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",72,With a disability,"89,710","+/-6,548",10.9,+/-0.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",72.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",73,Under 18 years,"224,897","+/-6,432","224,897",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",74,With a disability,"8,877","+/-1,750",3.9,+/-0.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",74.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",75,18 to 64 years,"499,271","+/-7,185","499,271",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",76,With a disability,"51,850","+/-5,500",10.4,+/-1.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",76.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",77,65 years and over,"98,812","+/-3,778","98,812",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",78,With a disability,"28,983","+/-2,324",29.3,+/-2.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",78.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",79,Population 1 year and over,"816,320","+/-8,743","816,320",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",80,Same house,"677,805","+/-11,436",83.0,+/-1.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",81,Different house (in the U.S. or abroad),"138,515","+/-9,507",17.0,+/-1.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",82,Different house in the U.S.,"134,411","+/-9,563",16.5,+/-1.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",83,Same county,"80,515","+/-7,079",9.9,+/-0.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",84,Different county,"53,896","+/-6,390",6.6,+/-0.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",85,Same state,"19,936","+/-3,381",2.4,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",86,Different state,"33,960","+/-4,991",4.2,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",87,Abroad,"4,104","+/-1,419",0.5,+/-0.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",87.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",88,Total population,"827,399","+/-8,826","827,399",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",89,Native,"761,326","+/-9,909",92.0,+/-0.7
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",90,Born in United States,"751,293","+/-9,921",90.8,+/-0.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",91,State of residence,"473,918","+/-10,415",57.3,+/-1.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",92,Different state,"277,375","+/-8,847",33.5,+/-1.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","10,033","+/-2,519",1.2,+/-0.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",94,Foreign born,"66,073","+/-6,165",8.0,+/-0.7
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",94.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",95,Foreign-born population,"66,073","+/-6,165","66,073",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",96,Naturalized U.S. citizen,"30,172","+/-3,442",45.7,+/-4.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",97,Not a U.S. citizen,"35,901","+/-4,701",54.3,+/-4.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",97.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",98,Population born outside the United States,"76,106","+/-6,372","76,106",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",98.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",99,Native,"10,033","+/-2,519","10,033",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",100,Entered 2010 or later,"4,030","+/-1,943",40.2,+/-13.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",101,Entered before 2010,"6,003","+/-1,581",59.8,+/-13.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",101.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",102,Foreign born,"66,073","+/-6,165","66,073",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",103,Entered 2010 or later,"24,409","+/-4,585",36.9,+/-4.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",104,Entered before 2010,"41,664","+/-3,436",63.1,+/-4.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",104.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",105,"Foreign-born population, excluding population born at sea","66,073","+/-6,165","66,073",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",106,Europe,"9,517","+/-2,079",14.4,+/-2.9
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",107,Asia,"14,879","+/-2,747",22.5,+/-3.9
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",108,Africa,"2,544","+/-1,207",3.9,+/-1.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",109,Oceania,"2,007",+/-946,3.0,+/-1.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",110,Latin America,"34,646","+/-4,456",52.4,+/-4.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",111,Northern America,"2,480",+/-677,3.8,+/-1.0
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",111.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",112,Population 5 years and over,"770,292","+/-8,332","770,292",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",113,English only,"658,416","+/-9,692",85.5,+/-0.9
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",114,Language other than English,"111,876","+/-7,299",14.5,+/-0.9
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",115,"Speak English less than ""very well""","31,681","+/-4,735",4.1,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",116,Spanish,"62,642","+/-5,357",8.1,+/-0.7
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",117,"Speak English less than ""very well""","21,082","+/-3,864",2.7,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",118,Other Indo-European languages,"23,531","+/-3,891",3.1,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",119,"Speak English less than ""very well""","3,561","+/-1,106",0.5,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",120,Asian and Pacific Islander languages,"16,701","+/-3,424",2.2,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",121,"Speak English less than ""very well""","4,644","+/-1,856",0.6,+/-0.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",122,Other languages,"9,002","+/-1,891",1.2,+/-0.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",123,"Speak English less than ""very well""","2,394",+/-656,0.3,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",123.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",123.5,ANCESTRY,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",124,Total population,"827,399","+/-8,826","827,399",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",125,American,"32,230","+/-4,618",3.9,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",126,Arab,"2,302",+/-967,0.3,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",127,Czech,"1,774","+/-1,143",0.2,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",128,Danish,"37,622","+/-5,342",4.5,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",129,Dutch,"12,755","+/-2,385",1.5,+/-0.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",130,English,"253,963","+/-12,146",30.7,+/-1.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",131,French (except Basque),"14,919","+/-3,284",1.8,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",132,French Canadian,"1,007",+/-543,0.1,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",133,German,"84,061","+/-6,872",10.2,+/-0.8
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",134,Greek,"2,542",+/-918,0.3,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",135,Hungarian,"1,533",+/-986,0.2,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",136,Irish,"49,823","+/-5,680",6.0,+/-0.7
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",137,Italian,"21,011","+/-3,162",2.5,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",138,Lithuanian,733,+/-396,0.1,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",139,Norwegian,"18,913","+/-4,115",2.3,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",140,Polish,"8,408","+/-2,145",1.0,+/-0.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",141,Portuguese,"1,092",+/-623,0.1,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",142,Russian,"4,163","+/-1,373",0.5,+/-0.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",143,Scotch-Irish,"4,647","+/-1,466",0.6,+/-0.2
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",144,Scottish,"35,266","+/-4,640",4.3,+/-0.6
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",145,Slovak,583,+/-473,0.1,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",146,Subsaharan African,"4,049","+/-1,183",0.5,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",147,Swedish,"27,786","+/-3,961",3.4,+/-0.5
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",148,Swiss,"8,537","+/-2,150",1.0,+/-0.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",149,Ukrainian,"1,376",+/-736,0.2,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",150,Welsh,"12,524","+/-2,648",1.5,+/-0.3
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",151,West Indian (excluding Hispanic origin groups),"1,219",+/-794,0.1,+/-0.1
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",151.3,,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",152,Total households,"272,673","+/-4,057","272,673",(X)
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",153,With a computer,"267,316","+/-4,147",98.0,+/-0.4
+DP02,5001800US4903,"Congressional District 3 (118th Congress), Utah",154,With a broadband Internet subscription,"250,838","+/-4,022",92.0,+/-0.9
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",0.5,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",1,Total households,"253,897","+/-5,421","253,897",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",2,Married-couple household,"164,756","+/-4,702",64.9,+/-1.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",3,With children of the householder under 18 years,"89,330","+/-4,007",35.2,+/-1.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",4,Cohabiting couple household,"11,557","+/-1,786",4.6,+/-0.7
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",5,With children of the householder under 18 years,"4,614","+/-1,265",1.8,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",6,"Male householder, no spouse/partner present","31,990","+/-3,484",12.6,+/-1.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",7,With children of the householder under 18 years,"2,752","+/-1,002",1.1,+/-0.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",8,Householder living alone,"18,584","+/-2,615",7.3,+/-1.0
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",9,65 years and over,"4,693","+/-1,129",1.8,+/-0.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",10,"Female householder, no spouse/partner present","45,594","+/-3,713",18.0,+/-1.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",11,With children of the householder under 18 years,"10,734","+/-1,914",4.2,+/-0.7
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",12,Householder living alone,"22,664","+/-2,535",8.9,+/-1.0
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",13,65 years and over,"9,445","+/-1,347",3.7,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",13.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",14,Households with one or more people under 18 years,"117,277","+/-4,406",46.2,+/-1.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",15,Households with one or more people 65 years and over,"55,681","+/-3,022",21.9,+/-1.0
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",15.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",16,Average household size,3.28,+/-0.06,(X),(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",17,Average family size,3.72,+/-0.06,(X),(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",17.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",17.5,RELATIONSHIP,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",18,Population in households,"832,280","+/-11,408","832,280",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",19,Householder,"253,897","+/-5,421",30.5,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",20,Spouse,"164,802","+/-4,823",19.8,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",21,Unmarried partner,"11,618","+/-1,704",1.4,+/-0.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",22,Child,"322,490","+/-8,678",38.7,+/-0.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",23,Other relatives,"58,131","+/-5,354",7.0,+/-0.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",24,Other nonrelatives,"21,342","+/-3,475",2.6,+/-0.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",24.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",24.5,MARITAL STATUS,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",25,Males 15 years and over,"309,633","+/-6,412","309,633",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",26,Never married,"101,799","+/-5,302",32.9,+/-1.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",27,"Now married, except separated","179,065","+/-5,072",57.8,+/-1.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",28,Separated,"2,605",+/-838,0.8,+/-0.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",29,Widowed,"4,271","+/-1,136",1.4,+/-0.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",30,Divorced,"21,893","+/-2,478",7.1,+/-0.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",30.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",31,Females 15 years and over,"301,708","+/-5,578","301,708",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",32,Never married,"77,673","+/-4,390",25.7,+/-1.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",33,"Now married, except separated","178,666","+/-4,558",59.2,+/-1.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",34,Separated,"2,794",+/-870,0.9,+/-0.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",35,Widowed,"15,086","+/-1,902",5.0,+/-0.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",36,Divorced,"27,489","+/-2,903",9.1,+/-0.9
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",36.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",36.5,FERTILITY,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"13,317","+/-2,068","13,317",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",38,"Unmarried women (widowed, divorced, and never married)","1,448",+/-666,10.9,+/-4.9
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",39,"Per 1,000 unmarried women",16,+/-8,(X),(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",40,"Per 1,000 women 15 to 50 years old",63,+/-10,(X),(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",41,"Per 1,000 women 15 to 19 years old",6,+/-8,(X),(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",42,"Per 1,000 women 20 to 34 years old",117,+/-21,(X),(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",43,"Per 1,000 women 35 to 50 years old",28,+/-9,(X),(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",43.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",43.5,GRANDPARENTS,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",44,Number of grandparents living with own grandchildren under 18 years,"20,480","+/-3,042","20,480",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",45,Grandparents responsible for grandchildren,"3,575","+/-1,240",17.5,+/-5.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",46,Less than 1 year,394,+/-277,1.9,+/-1.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",47,1 or 2 years,769,+/-671,3.8,+/-3.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",48,3 or 4 years,500,+/-419,2.4,+/-2.0
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",49,5 or more years,"1,912",+/-890,9.3,+/-4.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",49.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",50,Number of grandparents responsible for own grandchildren under 18 years,"3,575","+/-1,240","3,575",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",51,Who are female,"1,613",+/-638,45.1,+/-9.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",52,Who are married,"2,918","+/-1,180",81.6,+/-9.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",52.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",53,Population 3 years and over enrolled in school,"258,127","+/-8,292","258,127",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",54,"Nursery school, preschool","14,926","+/-2,369",5.8,+/-0.9
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",55,Kindergarten,"15,323","+/-2,412",5.9,+/-1.0
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",56,Elementary school (grades 1-8),"123,531","+/-5,481",47.9,+/-1.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",57,High school (grades 9-12),"56,370","+/-3,875",21.8,+/-1.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",58,College or graduate school,"47,977","+/-4,541",18.6,+/-1.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",58.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",59,Population 25 years and over,"491,278","+/-7,899","491,278",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",60,Less than 9th grade,"14,956","+/-2,730",3.0,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",61,"9th to 12th grade, no diploma","20,378","+/-2,672",4.1,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",62,High school graduate (includes equivalency),"112,425","+/-6,204",22.9,+/-1.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",63,"Some college, no degree","123,077","+/-6,701",25.1,+/-1.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",64,Associate's degree,"51,237","+/-4,286",10.4,+/-0.9
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",65,Bachelor's degree,"116,097","+/-6,074",23.6,+/-1.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",66,Graduate or professional degree,"53,108","+/-3,627",10.8,+/-0.7
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",66.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",67,High school graduate or higher,"455,944","+/-7,637",92.8,+/-0.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",68,Bachelor's degree or higher,"169,205","+/-6,839",34.4,+/-1.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",68.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",68.5,VETERAN STATUS,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",69,Civilian population 18 years and over,"568,716","+/-8,562","568,716",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",70,Civilian veterans,"21,666","+/-2,684",3.8,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",70.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",71,Total Civilian Noninstitutionalized Population,"833,535","+/-11,382","833,535",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",72,With a disability,"73,446","+/-5,063",8.8,+/-0.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",72.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",73,Under 18 years,"270,037","+/-7,608","270,037",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",74,With a disability,"7,591","+/-2,066",2.8,+/-0.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",74.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",75,18 to 64 years,"484,702","+/-7,984","484,702",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",76,With a disability,"43,928","+/-3,782",9.1,+/-0.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",76.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",77,65 years and over,"78,796","+/-4,153","78,796",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",78,With a disability,"21,927","+/-2,258",27.8,+/-2.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",78.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",79,Population 1 year and over,"827,420","+/-10,966","827,420",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",80,Same house,"719,692","+/-13,634",87.0,+/-1.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",81,Different house (in the U.S. or abroad),"107,728","+/-10,173",13.0,+/-1.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",82,Different house in the U.S.,"103,346","+/-9,848",12.5,+/-1.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",83,Same county,"67,154","+/-7,872",8.1,+/-0.9
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",84,Different county,"36,192","+/-6,455",4.4,+/-0.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",85,Same state,"18,310","+/-4,770",2.2,+/-0.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",86,Different state,"17,882","+/-3,769",2.2,+/-0.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",87,Abroad,"4,382","+/-1,876",0.5,+/-0.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",87.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",88,Total population,"840,238","+/-11,126","840,238",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",89,Native,"766,497","+/-10,339",91.2,+/-0.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",90,Born in United States,"758,492","+/-10,599",90.3,+/-0.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",91,State of residence,"552,723","+/-11,441",65.8,+/-1.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",92,Different state,"205,769","+/-9,891",24.5,+/-1.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","8,005","+/-2,205",1.0,+/-0.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",94,Foreign born,"73,741","+/-6,740",8.8,+/-0.8
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",94.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",95,Foreign-born population,"73,741","+/-6,740","73,741",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",96,Naturalized U.S. citizen,"32,127","+/-4,419",43.6,+/-4.7
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",97,Not a U.S. citizen,"41,614","+/-5,236",56.4,+/-4.7
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",97.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",98,Population born outside the United States,"81,746","+/-7,110","81,746",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",98.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",99,Native,"8,005","+/-2,205","8,005",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",100,Entered 2010 or later,"2,087",+/-875,26.1,+/-10.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",101,Entered before 2010,"5,918","+/-2,009",73.9,+/-10.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",101.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",102,Foreign born,"73,741","+/-6,740","73,741",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",103,Entered 2010 or later,"22,062","+/-4,036",29.9,+/-4.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",104,Entered before 2010,"51,679","+/-4,858",70.1,+/-4.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",104.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",105,"Foreign-born population, excluding population born at sea","73,741","+/-6,740","73,741",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",106,Europe,"5,880","+/-1,839",8.0,+/-2.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",107,Asia,"16,579","+/-3,374",22.5,+/-3.9
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",108,Africa,"3,642","+/-1,898",4.9,+/-2.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",109,Oceania,"2,270","+/-1,214",3.1,+/-1.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",110,Latin America,"43,516","+/-5,298",59.0,+/-4.7
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",111,Northern America,"1,854",+/-982,2.5,+/-1.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",111.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",112,Population 5 years and over,"769,128","+/-10,215","769,128",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",113,English only,"645,715","+/-10,900",84.0,+/-1.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",114,Language other than English,"123,413","+/-10,109",16.0,+/-1.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",115,"Speak English less than ""very well""","36,903","+/-4,314",4.8,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",116,Spanish,"83,257","+/-8,068",10.8,+/-1.0
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",117,"Speak English less than ""very well""","26,812","+/-3,765",3.5,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",118,Other Indo-European languages,"15,998","+/-4,012",2.1,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",119,"Speak English less than ""very well""","2,759","+/-1,385",0.4,+/-0.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",120,Asian and Pacific Islander languages,"18,419","+/-2,694",2.4,+/-0.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",121,"Speak English less than ""very well""","6,362","+/-1,548",0.8,+/-0.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",122,Other languages,"5,739","+/-3,158",0.7,+/-0.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",123,"Speak English less than ""very well""",970,+/-696,0.1,+/-0.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",123.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",123.5,ANCESTRY,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",124,Total population,"840,238","+/-11,126","840,238",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",125,American,"33,583","+/-5,643",4.0,+/-0.7
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",126,Arab,"4,265","+/-2,293",0.5,+/-0.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",127,Czech,765,+/-425,0.1,+/-0.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",128,Danish,"34,212","+/-4,663",4.1,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",129,Dutch,"10,484","+/-2,387",1.2,+/-0.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",130,English,"247,175","+/-12,554",29.4,+/-1.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",131,French (except Basque),"15,063","+/-3,671",1.8,+/-0.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",132,French Canadian,"1,956","+/-1,377",0.2,+/-0.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",133,German,"80,962","+/-9,335",9.6,+/-1.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",134,Greek,"3,100","+/-1,621",0.4,+/-0.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",135,Hungarian,626,+/-435,0.1,+/-0.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",136,Irish,"44,907","+/-7,426",5.3,+/-0.9
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",137,Italian,"20,797","+/-4,885",2.5,+/-0.6
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",138,Lithuanian,258,+/-237,0.0,+/-0.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",139,Norwegian,"17,980","+/-4,194",2.1,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",140,Polish,"6,375","+/-2,131",0.8,+/-0.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",141,Portuguese,"1,991",+/-775,0.2,+/-0.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",142,Russian,"2,556","+/-1,530",0.3,+/-0.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",143,Scotch-Irish,"4,370","+/-1,616",0.5,+/-0.2
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",144,Scottish,"30,426","+/-4,522",3.6,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",145,Slovak,134,+/-157,0.0,+/-0.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",146,Subsaharan African,"6,182","+/-3,147",0.7,+/-0.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",147,Swedish,"23,197","+/-3,985",2.8,+/-0.5
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",148,Swiss,"4,132","+/-1,243",0.5,+/-0.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",149,Ukrainian,642,+/-427,0.1,+/-0.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",150,Welsh,"12,416","+/-2,670",1.5,+/-0.3
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",151,West Indian (excluding Hispanic origin groups),434,+/-532,0.1,+/-0.1
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",151.3,,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",152,Total households,"253,897","+/-5,421","253,897",(X)
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",153,With a computer,"249,825","+/-5,416",98.4,+/-0.4
+DP02,5001800US4904,"Congressional District 4 (118th Congress), Utah",154,With a broadband Internet subscription,"241,929","+/-5,342",95.3,+/-0.7

@@ -1,0 +1,841 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",0.5,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",1,Population 16 years and over,"596,333","+/-6,790","596,333",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",2,In labor force,"387,305","+/-8,425",64.9,+/-1.2
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",3,Civilian labor force,"386,176","+/-8,483",64.8,+/-1.2
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",4,Employed,"359,206","+/-7,913",60.2,+/-1.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",5,Unemployed,"26,970","+/-3,067",4.5,+/-0.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",6,Armed Forces,"1,129",+/-515,0.2,+/-0.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",7,Not in labor force,"209,028","+/-7,103",35.1,+/-1.2
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",7.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",8,Civilian labor force,"386,176","+/-8,483","386,176",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",9,Unemployment Rate,(X),(X),7.0,+/-0.8
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",9.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",10,Females 16 years and over,"305,671","+/-4,668","305,671",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",11,In labor force,"186,368","+/-4,671",61.0,+/-1.3
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",12,Civilian labor force,"186,157","+/-4,694",60.9,+/-1.3
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",13,Employed,"173,509","+/-4,609",56.8,+/-1.3
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",13.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",14,Own children of the householder under 6 years,"39,139","+/-2,571","39,139",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",15,All parents in family in labor force,"29,716","+/-2,691",75.9,+/-4.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",15.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",16,Own children of the householder 6 to 17 years,"94,048","+/-4,114","94,048",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",17,All parents in family in labor force,"74,712","+/-4,655",79.4,+/-3.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",17.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",18,Workers 16 years and over,"354,231","+/-8,122","354,231",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",19,"Car, truck, or van -- drove alone","242,247","+/-7,043",68.4,+/-1.4
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",20,"Car, truck, or van -- carpooled","24,540","+/-3,415",6.9,+/-0.9
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",21,Public transportation (excluding taxicab),"8,428","+/-1,821",2.4,+/-0.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",22,Walked,"5,726","+/-1,323",1.6,+/-0.4
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",23,Other means,"5,007","+/-1,281",1.4,+/-0.4
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",24,Worked from home,"68,283","+/-5,143",19.3,+/-1.4
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",24.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",25,Mean travel time to work (minutes),22.4,+/-0.5,(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",25.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",25.5,OCCUPATION,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",26,Civilian employed population 16 years and over,"359,206","+/-7,913","359,206",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",27,"Management, business, science, and arts occupations","163,635","+/-5,712",45.6,+/-1.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",28,Service occupations,"57,963","+/-3,873",16.1,+/-1.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",29,Sales and office occupations,"71,067","+/-4,535",19.8,+/-1.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",30,"Natural resources, construction, and maintenance occupations","21,299","+/-2,693",5.9,+/-0.7
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",31,"Production, transportation, and material moving occupations","45,242","+/-3,577",12.6,+/-0.9
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",31.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",31.5,INDUSTRY,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",32,Civilian employed population 16 years and over,"359,206","+/-7,913","359,206",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",33,"Agriculture, forestry, fishing and hunting, and mining",703,+/-427,0.2,+/-0.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",34,Construction,"18,666","+/-2,622",5.2,+/-0.7
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",35,Manufacturing,"42,293","+/-3,632",11.8,+/-1.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",36,Wholesale trade,"7,594","+/-1,935",2.1,+/-0.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",37,Retail trade,"39,154","+/-3,731",10.9,+/-1.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",38,"Transportation and warehousing, and utilities","17,489","+/-2,676",4.9,+/-0.7
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",39,Information,"6,086","+/-1,295",1.7,+/-0.4
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",40,"Finance and insurance, and real estate and rental and leasing","35,277","+/-2,957",9.8,+/-0.8
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",41,"Professional, scientific, and management, and administrative and waste management services","42,662","+/-3,913",11.9,+/-1.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",42,"Educational services, and health care and social assistance","93,866","+/-5,105",26.1,+/-1.4
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",43,"Arts, entertainment, and recreation, and accommodation and food services","24,238","+/-2,971",6.7,+/-0.8
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",44,"Other services, except public administration","15,529","+/-2,126",4.3,+/-0.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",45,Public administration,"15,649","+/-2,137",4.4,+/-0.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",45.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",46,Civilian employed population 16 years and over,"359,206","+/-7,913","359,206",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",47,Private wage and salary workers,"292,904","+/-7,909",81.5,+/-1.2
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",48,Government workers,"48,590","+/-3,969",13.5,+/-1.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",49,Self-employed in own not incorporated business workers,"17,220","+/-2,417",4.8,+/-0.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",50,Unpaid family workers,492,+/-409,0.1,+/-0.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",50.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",51,Total households,"294,878","+/-4,345","294,878",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",52,"Less than $10,000","17,201","+/-2,427",5.8,+/-0.8
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",53,"$10,000 to $14,999","10,560","+/-1,939",3.6,+/-0.7
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",54,"$15,000 to $24,999","20,322","+/-2,513",6.9,+/-0.8
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",55,"$25,000 to $34,999","19,118","+/-2,321",6.5,+/-0.8
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",56,"$35,000 to $49,999","27,410","+/-2,812",9.3,+/-0.9
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",57,"$50,000 to $74,999","48,811","+/-3,554",16.6,+/-1.2
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",58,"$75,000 to $99,999","37,467","+/-2,885",12.7,+/-1.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",59,"$100,000 to $149,999","52,803","+/-3,617",17.9,+/-1.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",60,"$150,000 to $199,999","30,593","+/-2,497",10.4,+/-0.9
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",61,"$200,000 or more","30,593","+/-2,431",10.4,+/-0.8
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",62,Median household income (dollars),"77,023","+/-2,144",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",63,Mean household income (dollars),"100,933","+/-2,596",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",63.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",64,With earnings,"222,697","+/-5,309",75.5,+/-1.4
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",65,Mean earnings (dollars),"105,153","+/-2,924",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",66,With Social Security,"96,654","+/-3,072",32.8,+/-1.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",67,Mean Social Security income (dollars),"21,686",+/-650,(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",68,With retirement income,"77,472","+/-3,402",26.3,+/-1.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",69,Mean retirement income (dollars),"31,845","+/-2,602",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",69.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",70,With Supplemental Security Income,"16,099","+/-2,210",5.5,+/-0.7
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",71,Mean Supplemental Security Income (dollars),"9,829",+/-922,(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",72,With cash public assistance income,"11,446","+/-1,718",3.9,+/-0.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",73,Mean cash public assistance income (dollars),"4,340",+/-841,(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",74,With Food Stamp/SNAP benefits in the past 12 months,"36,910","+/-2,894",12.5,+/-1.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",74.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",75,Families,"183,627","+/-5,084","183,627",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",76,"Less than $10,000","5,082","+/-1,329",2.8,+/-0.7
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",77,"$10,000 to $14,999","3,154","+/-1,264",1.7,+/-0.7
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",78,"$15,000 to $24,999","7,115","+/-1,367",3.9,+/-0.7
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",79,"$25,000 to $34,999","9,192","+/-1,782",5.0,+/-1.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",80,"$35,000 to $49,999","14,436","+/-1,740",7.9,+/-0.9
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",81,"$50,000 to $74,999","28,722","+/-3,136",15.6,+/-1.7
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",82,"$75,000 to $99,999","25,138","+/-2,806",13.7,+/-1.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",83,"$100,000 to $149,999","39,557","+/-3,163",21.5,+/-1.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",84,"$150,000 to $199,999","25,419","+/-2,418",13.8,+/-1.3
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",85,"$200,000 or more","25,812","+/-2,283",14.1,+/-1.3
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",86,Median family income (dollars),"97,622","+/-5,243",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",87,Mean family income (dollars),"122,588","+/-3,699",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",87.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",88,Per capita income (dollars),"42,049",+/-956,(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",88.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",89,Nonfamily households,"111,251","+/-4,707","111,251",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",90,Median nonfamily income (dollars),"47,355","+/-2,593",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",91,Mean nonfamily income (dollars),"61,177","+/-2,662",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",91.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",92,Median earnings for workers (dollars),"45,612","+/-1,255",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",93,"Median earnings for male full-time, year-round workers (dollars)","69,939","+/-2,637",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",94,"Median earnings for female full-time, year-round workers (dollars)","56,063","+/-2,095",(X),(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",94.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",95,Civilian noninstitutionalized population,"709,281","+/-7,374","709,281",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",96,With health insurance coverage,"675,660","+/-8,706",95.3,+/-0.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",97,With private health insurance,"475,301","+/-11,799",67.0,+/-1.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",98,With public coverage,"285,875","+/-11,826",40.3,+/-1.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",99,No health insurance coverage,"33,621","+/-4,087",4.7,+/-0.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",99.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",100,Civilian noninstitutionalized population under 19 years,"148,782","+/-5,158","148,782",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",101,No health insurance coverage,"3,343","+/-1,461",2.2,+/-1.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",101.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",102,Civilian noninstitutionalized population 19 to 64 years,"432,641","+/-7,240","432,641",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",103,In labor force:,"349,781","+/-8,329","349,781",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",104,Employed:,"326,741","+/-7,995","326,741",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",105,With health insurance coverage,"305,465","+/-8,865",93.5,+/-1.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",106,With private health insurance,"264,514","+/-8,939",81.0,+/-1.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",107,With public coverage,"49,114","+/-5,295",15.0,+/-1.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",108,No health insurance coverage,"21,276","+/-3,374",6.5,+/-1.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",109,Unemployed:,"23,040","+/-2,879","23,040",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",110,With health insurance coverage,"21,537","+/-2,903",93.5,+/-2.9
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",111,With private health insurance,"11,245","+/-2,271",48.8,+/-7.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",112,With public coverage,"11,186","+/-2,254",48.6,+/-7.3
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",113,No health insurance coverage,"1,503",+/-649,6.5,+/-2.9
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",114,Not in labor force:,"82,860","+/-5,658","82,860",(X)
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",115,With health insurance coverage,"76,432","+/-5,351",92.2,+/-2.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",116,With private health insurance,"36,784","+/-2,790",44.4,+/-3.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",117,With public coverage,"44,759","+/-4,767",54.0,+/-3.6
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",118,No health insurance coverage,"6,428","+/-1,714",7.8,+/-2.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",118.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",119,All families,(X),(X),6.6,+/-1.2
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",120,With related children of the householder under 18 years,(X),(X),10.2,+/-2.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",121,With related children of the householder under 5 years only,(X),(X),12.2,+/-4.8
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",122,Married couple families,(X),(X),2.8,+/-0.9
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",123,With related children of the householder under 18 years,(X),(X),3.4,+/-1.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",124,With related children of the householder under 5 years only,(X),(X),3.7,+/-5.4
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",125,"Families with female householder, no spouse present",(X),(X),16.7,+/-4.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",126,With related children of the householder under 18 years,(X),(X),21.6,+/-5.4
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",127,With related children of the householder under 5 years only,(X),(X),27.7,+/-12.3
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",127.3,,,,,
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",128,All people,(X),(X),10.2,+/-1.1
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",129,Under 18 years,(X),(X),12.4,+/-2.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",130,Related children of the householder under 18 years,(X),(X),12.1,+/-2.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",131,Related children of the householder under 5 years,(X),(X),14.8,+/-4.3
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",132,Related children of the householder 5 to 17 years,(X),(X),11.3,+/-2.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",133,18 years and over,(X),(X),9.7,+/-1.0
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",134,18 to 64 years,(X),(X),9.4,+/-1.2
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",135,65 years and over,(X),(X),10.8,+/-1.5
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",136,People in families,(X),(X),7.0,+/-1.2
+DP03,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",137,Unrelated individuals 15 years and over,(X),(X),22.2,+/-1.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",0.5,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",1,Population 16 years and over,"610,534","+/-4,982","610,534",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",2,In labor force,"393,108","+/-7,716",64.4,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",3,Civilian labor force,"386,109","+/-7,786",63.2,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",4,Employed,"364,060","+/-7,258",59.6,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",5,Unemployed,"22,049","+/-2,625",3.6,+/-0.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",6,Armed Forces,"6,999","+/-1,075",1.1,+/-0.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",7,Not in labor force,"217,426","+/-5,707",35.6,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",7.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",8,Civilian labor force,"386,109","+/-7,786","386,109",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",9,Unemployment Rate,(X),(X),5.7,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",9.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",10,Females 16 years and over,"308,055","+/-3,176","308,055",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",11,In labor force,"185,647","+/-4,706",60.3,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",12,Civilian labor force,"185,481","+/-4,728",60.2,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",13,Employed,"176,453","+/-4,615",57.3,+/-1.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",13.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",14,Own children of the householder under 6 years,"37,350","+/-2,247","37,350",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",15,All parents in family in labor force,"26,713","+/-2,405",71.5,+/-5.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",15.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",16,Own children of the householder 6 to 17 years,"91,564","+/-3,228","91,564",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",17,All parents in family in labor force,"70,422","+/-4,096",76.9,+/-3.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",17.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",18,Workers 16 years and over,"362,204","+/-7,243","362,204",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",19,"Car, truck, or van -- drove alone","259,808","+/-7,118",71.7,+/-1.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",20,"Car, truck, or van -- carpooled","22,617","+/-3,435",6.2,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",21,Public transportation (excluding taxicab),"3,745","+/-1,378",1.0,+/-0.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",22,Walked,"7,094","+/-1,725",2.0,+/-0.5
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",23,Other means,"3,736","+/-1,194",1.0,+/-0.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",24,Worked from home,"65,204","+/-4,430",18.0,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",24.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",25,Mean travel time to work (minutes),25.4,+/-0.9,(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",25.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",25.5,OCCUPATION,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",26,Civilian employed population 16 years and over,"364,060","+/-7,258","364,060",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",27,"Management, business, science, and arts occupations","168,161","+/-6,772",46.2,+/-1.8
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",28,Service occupations,"56,687","+/-4,453",15.6,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",29,Sales and office occupations,"70,245","+/-4,829",19.3,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",30,"Natural resources, construction, and maintenance occupations","27,969","+/-3,025",7.7,+/-0.8
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",31,"Production, transportation, and material moving occupations","40,998","+/-3,503",11.3,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",31.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",31.5,INDUSTRY,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",32,Civilian employed population 16 years and over,"364,060","+/-7,258","364,060",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",33,"Agriculture, forestry, fishing and hunting, and mining","2,841","+/-1,085",0.8,+/-0.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",34,Construction,"21,146","+/-2,398",5.8,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",35,Manufacturing,"47,904","+/-3,066",13.2,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",36,Wholesale trade,"6,932","+/-1,510",1.9,+/-0.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",37,Retail trade,"44,528","+/-4,230",12.2,+/-1.1
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",38,"Transportation and warehousing, and utilities","17,381","+/-2,628",4.8,+/-0.7
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",39,Information,"4,720","+/-1,146",1.3,+/-0.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",40,"Finance and insurance, and real estate and rental and leasing","26,019","+/-2,331",7.1,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",41,"Professional, scientific, and management, and administrative and waste management services","38,765","+/-3,657",10.6,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",42,"Educational services, and health care and social assistance","97,856","+/-4,629",26.9,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",43,"Arts, entertainment, and recreation, and accommodation and food services","30,480","+/-3,260",8.4,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",44,"Other services, except public administration","11,690","+/-1,885",3.2,+/-0.5
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",45,Public administration,"13,798","+/-1,944",3.8,+/-0.5
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",45.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",46,Civilian employed population 16 years and over,"364,060","+/-7,258","364,060",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",47,Private wage and salary workers,"282,563","+/-7,342",77.6,+/-1.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",48,Government workers,"58,451","+/-4,086",16.1,+/-1.1
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",49,Self-employed in own not incorporated business workers,"22,568","+/-2,494",6.2,+/-0.7
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",50,Unpaid family workers,478,+/-653,0.1,+/-0.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",50.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",51,Total households,"291,752","+/-3,788","291,752",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",52,"Less than $10,000","12,490","+/-1,764",4.3,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",53,"$10,000 to $14,999","8,457","+/-1,668",2.9,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",54,"$15,000 to $24,999","19,043","+/-2,832",6.5,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",55,"$25,000 to $34,999","22,262","+/-2,757",7.6,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",56,"$35,000 to $49,999","24,698","+/-2,714",8.5,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",57,"$50,000 to $74,999","44,770","+/-3,482",15.3,+/-1.1
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",58,"$75,000 to $99,999","36,398","+/-2,767",12.5,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",59,"$100,000 to $149,999","56,896","+/-3,726",19.5,+/-1.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",60,"$150,000 to $199,999","31,498","+/-3,159",10.8,+/-1.1
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",61,"$200,000 or more","35,240","+/-2,689",12.1,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",62,Median household income (dollars),"83,734","+/-2,634",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",63,Mean household income (dollars),"108,744","+/-2,825",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",63.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",64,With earnings,"222,378","+/-4,418",76.2,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",65,Mean earnings (dollars),"110,445","+/-3,191",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",66,With Social Security,"96,538","+/-3,199",33.1,+/-1.1
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",67,Mean Social Security income (dollars),"22,752",+/-642,(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",68,With retirement income,"80,667","+/-3,272",27.6,+/-1.1
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",69,Mean retirement income (dollars),"33,715","+/-1,915",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",69.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",70,With Supplemental Security Income,"11,971","+/-1,759",4.1,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",71,Mean Supplemental Security Income (dollars),"11,470","+/-1,287",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",72,With cash public assistance income,"8,204","+/-1,761",2.8,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",73,Mean cash public assistance income (dollars),"7,352","+/-1,638",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",74,With Food Stamp/SNAP benefits in the past 12 months,"29,378","+/-2,896",10.1,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",74.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",75,Families,"187,051","+/-4,544","187,051",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",76,"Less than $10,000","5,623","+/-1,367",3.0,+/-0.7
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",77,"$10,000 to $14,999","1,988",+/-784,1.1,+/-0.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",78,"$15,000 to $24,999","5,894","+/-1,576",3.2,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",79,"$25,000 to $34,999","8,315","+/-1,708",4.4,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",80,"$35,000 to $49,999","13,308","+/-1,962",7.1,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",81,"$50,000 to $74,999","24,977","+/-2,724",13.4,+/-1.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",82,"$75,000 to $99,999","26,366","+/-2,466",14.1,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",83,"$100,000 to $149,999","45,378","+/-3,278",24.3,+/-1.7
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",84,"$150,000 to $199,999","25,274","+/-2,663",13.5,+/-1.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",85,"$200,000 or more","29,928","+/-2,384",16.0,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",86,Median family income (dollars),"105,957","+/-3,075",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",87,Mean family income (dollars),"129,678","+/-3,621",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",87.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",88,Per capita income (dollars),"43,948","+/-1,095",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",88.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",89,Nonfamily households,"104,701","+/-4,679","104,701",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",90,Median nonfamily income (dollars),"45,227","+/-4,242",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",91,Mean nonfamily income (dollars),"66,370","+/-3,310",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",91.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",92,Median earnings for workers (dollars),"43,840","+/-3,023",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",93,"Median earnings for male full-time, year-round workers (dollars)","72,315","+/-2,044",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",94,"Median earnings for female full-time, year-round workers (dollars)","60,840","+/-2,118",(X),(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",94.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",95,Civilian noninstitutionalized population,"709,105","+/-5,723","709,105",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",96,With health insurance coverage,"680,503","+/-6,914",96.0,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",97,With private health insurance,"517,757","+/-11,912",73.0,+/-1.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",98,With public coverage,"263,735","+/-8,523",37.2,+/-1.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",99,No health insurance coverage,"28,602","+/-4,167",4.0,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",99.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",100,Civilian noninstitutionalized population under 19 years,"148,645","+/-3,846","148,645",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",101,No health insurance coverage,"4,639","+/-1,733",3.1,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",101.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",102,Civilian noninstitutionalized population 19 to 64 years,"426,552","+/-5,548","426,552",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",103,In labor force:,"345,328","+/-7,542","345,328",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",104,Employed:,"327,322","+/-7,115","327,322",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",105,With health insurance coverage,"310,821","+/-7,262",95.0,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",106,With private health insurance,"276,462","+/-7,910",84.5,+/-1.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",107,With public coverage,"45,383","+/-3,883",13.9,+/-1.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",108,No health insurance coverage,"16,501","+/-2,824",5.0,+/-0.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",109,Unemployed:,"18,006","+/-2,406","18,006",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",110,With health insurance coverage,"15,299","+/-2,159",85.0,+/-5.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",111,With private health insurance,"10,137","+/-1,741",56.3,+/-7.8
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",112,With public coverage,"5,770","+/-1,607",32.0,+/-6.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",113,No health insurance coverage,"2,707",+/-999,15.0,+/-5.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",114,Not in labor force:,"81,224","+/-4,183","81,224",(X)
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",115,With health insurance coverage,"76,514","+/-4,087",94.2,+/-1.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",116,With private health insurance,"49,073","+/-3,223",60.4,+/-3.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",117,With public coverage,"32,904","+/-3,491",40.5,+/-3.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",118,No health insurance coverage,"4,710","+/-1,107",5.8,+/-1.3
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",118.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",119,All families,(X),(X),6.1,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",120,With related children of the householder under 18 years,(X),(X),10.8,+/-2.2
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",121,With related children of the householder under 5 years only,(X),(X),6.6,+/-3.7
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",122,Married couple families,(X),(X),1.9,+/-0.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",123,With related children of the householder under 18 years,(X),(X),3.0,+/-1.5
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",124,With related children of the householder under 5 years only,(X),(X),2.0,+/-2.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",125,"Families with female householder, no spouse present",(X),(X),23.6,+/-4.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",126,With related children of the householder under 18 years,(X),(X),30.7,+/-6.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",127,With related children of the householder under 5 years only,(X),(X),28.4,+/-19.4
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",127.3,,,,,
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",128,All people,(X),(X),9.7,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",129,Under 18 years,(X),(X),12.9,+/-2.6
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",130,Related children of the householder under 18 years,(X),(X),12.4,+/-2.7
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",131,Related children of the householder under 5 years,(X),(X),11.4,+/-3.8
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",132,Related children of the householder 5 to 17 years,(X),(X),12.7,+/-2.9
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",133,18 years and over,(X),(X),8.9,+/-0.8
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",134,18 to 64 years,(X),(X),9.5,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",135,65 years and over,(X),(X),7.0,+/-1.0
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",136,People in families,(X),(X),6.5,+/-1.1
+DP03,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",137,Unrelated individuals 15 years and over,(X),(X),21.1,+/-2.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",0.5,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",1,Population 16 years and over,"597,259","+/-8,085","597,259",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",2,In labor force,"398,549","+/-9,311",66.7,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",3,Civilian labor force,"397,956","+/-9,331",66.6,+/-1.2
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",4,Employed,"368,982","+/-8,827",61.8,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",5,Unemployed,"28,974","+/-3,184",4.9,+/-0.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",6,Armed Forces,593,+/-349,0.1,+/-0.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",7,Not in labor force,"198,710","+/-6,943",33.3,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",7.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",8,Civilian labor force,"397,956","+/-9,331","397,956",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",9,Unemployment Rate,(X),(X),7.3,+/-0.8
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",9.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",10,Females 16 years and over,"313,520","+/-4,939","313,520",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",11,In labor force,"200,946","+/-6,158",64.1,+/-1.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",12,Civilian labor force,"200,850","+/-6,182",64.1,+/-1.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",13,Employed,"187,593","+/-5,837",59.8,+/-1.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",13.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",14,Own children of the householder under 6 years,"41,277","+/-3,741","41,277",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",15,All parents in family in labor force,"31,274","+/-3,791",75.8,+/-5.7
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",15.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",16,Own children of the householder 6 to 17 years,"92,163","+/-4,754","92,163",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",17,All parents in family in labor force,"74,774","+/-5,167",81.1,+/-3.7
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",17.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",18,Workers 16 years and over,"360,243","+/-8,774","360,243",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",19,"Car, truck, or van -- drove alone","240,352","+/-8,000",66.7,+/-1.7
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",20,"Car, truck, or van -- carpooled","28,771","+/-3,577",8.0,+/-0.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",21,Public transportation (excluding taxicab),"9,840","+/-2,179",2.7,+/-0.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",22,Walked,"14,301","+/-2,016",4.0,+/-0.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",23,Other means,"5,794","+/-1,434",1.6,+/-0.4
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",24,Worked from home,"61,185","+/-4,640",17.0,+/-1.2
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",24.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",25,Mean travel time to work (minutes),25.3,+/-0.7,(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",25.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",25.5,OCCUPATION,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",26,Civilian employed population 16 years and over,"368,982","+/-8,827","368,982",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",27,"Management, business, science, and arts occupations","172,898","+/-6,980",46.9,+/-1.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",28,Service occupations,"60,801","+/-4,905",16.5,+/-1.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",29,Sales and office occupations,"69,388","+/-5,302",18.8,+/-1.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",30,"Natural resources, construction, and maintenance occupations","27,831","+/-3,000",7.5,+/-0.8
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",31,"Production, transportation, and material moving occupations","38,064","+/-3,330",10.3,+/-0.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",31.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",31.5,INDUSTRY,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",32,Civilian employed population 16 years and over,"368,982","+/-8,827","368,982",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",33,"Agriculture, forestry, fishing and hunting, and mining","1,096",+/-638,0.3,+/-0.2
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",34,Construction,"23,389","+/-2,940",6.3,+/-0.8
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",35,Manufacturing,"39,095","+/-3,710",10.6,+/-0.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",36,Wholesale trade,"5,055","+/-1,392",1.4,+/-0.4
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",37,Retail trade,"38,835","+/-4,090",10.5,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",38,"Transportation and warehousing, and utilities","14,298","+/-2,077",3.9,+/-0.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",39,Information,"6,333","+/-1,369",1.7,+/-0.4
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",40,"Finance and insurance, and real estate and rental and leasing","25,144","+/-2,814",6.8,+/-0.7
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",41,"Professional, scientific, and management, and administrative and waste management services","37,258","+/-3,141",10.1,+/-0.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",42,"Educational services, and health care and social assistance","121,778","+/-6,334",33.0,+/-1.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",43,"Arts, entertainment, and recreation, and accommodation and food services","24,852","+/-3,101",6.7,+/-0.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",44,"Other services, except public administration","18,576","+/-2,862",5.0,+/-0.7
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",45,Public administration,"13,273","+/-2,039",3.6,+/-0.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",45.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",46,Civilian employed population 16 years and over,"368,982","+/-8,827","368,982",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",47,Private wage and salary workers,"297,198","+/-8,387",80.5,+/-1.2
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",48,Government workers,"49,187","+/-4,068",13.3,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",49,Self-employed in own not incorporated business workers,"22,333","+/-2,616",6.1,+/-0.7
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",50,Unpaid family workers,264,+/-207,0.1,+/-0.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",50.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",51,Total households,"291,460","+/-4,671","291,460",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",52,"Less than $10,000","16,588","+/-1,971",5.7,+/-0.7
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",53,"$10,000 to $14,999","10,695","+/-2,062",3.7,+/-0.7
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",54,"$15,000 to $24,999","18,372","+/-2,705",6.3,+/-0.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",55,"$25,000 to $34,999","21,137","+/-3,205",7.3,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",56,"$35,000 to $49,999","28,398","+/-3,124",9.7,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",57,"$50,000 to $74,999","44,616","+/-3,829",15.3,+/-1.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",58,"$75,000 to $99,999","37,188","+/-3,583",12.8,+/-1.2
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",59,"$100,000 to $149,999","53,937","+/-3,713",18.5,+/-1.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",60,"$150,000 to $199,999","29,196","+/-2,719",10.0,+/-0.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",61,"$200,000 or more","31,333","+/-2,706",10.8,+/-1.0
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",62,Median household income (dollars),"78,911","+/-3,230",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",63,Mean household income (dollars),"104,429","+/-3,416",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",63.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",64,With earnings,"227,607","+/-5,613",78.1,+/-1.4
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",65,Mean earnings (dollars),"106,967","+/-4,038",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",66,With Social Security,"90,192","+/-4,153",30.9,+/-1.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",67,Mean Social Security income (dollars),"22,274",+/-600,(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",68,With retirement income,"71,452","+/-3,807",24.5,+/-1.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",69,Mean retirement income (dollars),"30,372","+/-2,484",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",69.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",70,With Supplemental Security Income,"13,155","+/-1,679",4.5,+/-0.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",71,Mean Supplemental Security Income (dollars),"10,525",+/-960,(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",72,With cash public assistance income,"8,826","+/-1,665",3.0,+/-0.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",73,Mean cash public assistance income (dollars),"4,612","+/-1,029",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",74,With Food Stamp/SNAP benefits in the past 12 months,"37,616","+/-3,373",12.9,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",74.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",75,Families,"180,160","+/-4,857","180,160",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",76,"Less than $10,000","4,300","+/-1,159",2.4,+/-0.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",77,"$10,000 to $14,999","2,889","+/-1,213",1.6,+/-0.7
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",78,"$15,000 to $24,999","6,570","+/-1,633",3.6,+/-0.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",79,"$25,000 to $34,999","8,036","+/-1,514",4.5,+/-0.8
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",80,"$35,000 to $49,999","13,696","+/-1,980",7.6,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",81,"$50,000 to $74,999","27,338","+/-2,874",15.2,+/-1.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",82,"$75,000 to $99,999","26,383","+/-2,921",14.6,+/-1.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",83,"$100,000 to $149,999","39,660","+/-3,499",22.0,+/-1.8
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",84,"$150,000 to $199,999","24,333","+/-2,632",13.5,+/-1.4
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",85,"$200,000 or more","26,955","+/-2,334",15.0,+/-1.4
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",86,Median family income (dollars),"100,806","+/-2,988",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",87,Mean family income (dollars),"128,023","+/-4,113",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",87.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",88,Per capita income (dollars),"42,653","+/-1,266",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",88.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",89,Nonfamily households,"111,300","+/-4,450","111,300",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",90,Median nonfamily income (dollars),"42,955","+/-2,809",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",91,Mean nonfamily income (dollars),"62,251","+/-4,118",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",91.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",92,Median earnings for workers (dollars),"43,525","+/-1,911",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",93,"Median earnings for male full-time, year-round workers (dollars)","67,361","+/-3,002",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",94,"Median earnings for female full-time, year-round workers (dollars)","60,099","+/-3,309",(X),(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",94.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",95,Civilian noninstitutionalized population,"713,650","+/-8,059","713,650",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",96,With health insurance coverage,"679,800","+/-8,218",95.3,+/-0.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",97,With private health insurance,"484,978","+/-12,818",68.0,+/-1.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",98,With public coverage,"275,070","+/-10,855",38.5,+/-1.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",99,No health insurance coverage,"33,850","+/-4,089",4.7,+/-0.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",99.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",100,Civilian noninstitutionalized population under 19 years,"149,455","+/-5,940","149,455",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",101,No health insurance coverage,"2,207",+/-876,1.5,+/-0.6
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",101.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",102,Civilian noninstitutionalized population 19 to 64 years,"441,031","+/-7,587","441,031",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",103,In labor force:,"356,601","+/-8,345","356,601",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",104,Employed:,"330,858","+/-8,013","330,858",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",105,With health insurance coverage,"308,952","+/-7,925",93.4,+/-1.0
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",106,With private health insurance,"268,120","+/-8,465",81.0,+/-1.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",107,With public coverage,"46,718","+/-4,776",14.1,+/-1.4
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",108,No health insurance coverage,"21,906","+/-3,255",6.6,+/-1.0
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",109,Unemployed:,"25,743","+/-2,912","25,743",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",110,With health insurance coverage,"23,299","+/-2,615",90.5,+/-3.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",111,With private health insurance,"10,440","+/-1,742",40.6,+/-6.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",112,With public coverage,"13,712","+/-2,446",53.3,+/-6.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",113,No health insurance coverage,"2,444","+/-1,110",9.5,+/-3.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",114,Not in labor force:,"84,430","+/-5,045","84,430",(X)
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",115,With health insurance coverage,"78,420","+/-5,079",92.9,+/-2.0
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",116,With private health insurance,"47,346","+/-4,107",56.1,+/-3.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",117,With public coverage,"35,759","+/-3,372",42.4,+/-3.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",118,No health insurance coverage,"6,010","+/-1,700",7.1,+/-2.0
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",118.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",119,All families,(X),(X),6.3,+/-1.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",120,With related children of the householder under 18 years,(X),(X),10.1,+/-2.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",121,With related children of the householder under 5 years only,(X),(X),6.4,+/-5.2
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",122,Married couple families,(X),(X),3.3,+/-0.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",123,With related children of the householder under 18 years,(X),(X),4.8,+/-2.1
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",124,With related children of the householder under 5 years only,(X),(X),6.8,+/-6.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",125,"Families with female householder, no spouse present",(X),(X),13.3,+/-2.8
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",126,With related children of the householder under 18 years,(X),(X),20.2,+/-5.5
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",127,With related children of the householder under 5 years only,(X),(X),5.5,+/-7.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",127.3,,,,,
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",128,All people,(X),(X),11.0,+/-1.2
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",129,Under 18 years,(X),(X),12.3,+/-3.0
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",130,Related children of the householder under 18 years,(X),(X),12.2,+/-3.0
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",131,Related children of the householder under 5 years,(X),(X),12.3,+/-4.9
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",132,Related children of the householder 5 to 17 years,(X),(X),12.2,+/-3.0
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",133,18 years and over,(X),(X),10.6,+/-1.0
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",134,18 to 64 years,(X),(X),11.3,+/-1.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",135,65 years and over,(X),(X),8.4,+/-1.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",136,People in families,(X),(X),7.2,+/-1.3
+DP03,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",137,Unrelated individuals 15 years and over,(X),(X),24.4,+/-2.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",0.5,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",1,Population 16 years and over,"579,277","+/-5,721","579,277",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",2,In labor force,"388,542","+/-7,075",67.1,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",3,Civilian labor force,"388,083","+/-7,134",67.0,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",4,Employed,"363,724","+/-7,034",62.8,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",5,Unemployed,"24,359","+/-2,911",4.2,+/-0.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",6,Armed Forces,459,+/-388,0.1,+/-0.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",7,Not in labor force,"190,735","+/-5,097",32.9,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",7.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",8,Civilian labor force,"388,083","+/-7,134","388,083",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",9,Unemployment Rate,(X),(X),6.3,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",9.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",10,Females 16 years and over,"296,731","+/-3,820","296,731",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",11,In labor force,"178,859","+/-5,165",60.3,+/-1.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",12,Civilian labor force,"178,795","+/-5,156",60.3,+/-1.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",13,Employed,"167,694","+/-5,217",56.5,+/-1.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",13.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",14,Own children of the householder under 6 years,"46,227","+/-3,073","46,227",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",15,All parents in family in labor force,"30,719","+/-3,050",66.5,+/-4.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",15.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",16,Own children of the householder 6 to 17 years,"107,764","+/-3,527","107,764",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",17,All parents in family in labor force,"73,612","+/-4,477",68.3,+/-3.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",17.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",18,Workers 16 years and over,"355,075","+/-7,263","355,075",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",19,"Car, truck, or van -- drove alone","204,115","+/-6,231",57.5,+/-1.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",20,"Car, truck, or van -- carpooled","26,323","+/-3,772",7.4,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",21,Public transportation (excluding taxicab),"17,033","+/-2,355",4.8,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",22,Walked,"11,104","+/-2,144",3.1,+/-0.6
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",23,Other means,"7,044","+/-1,736",2.0,+/-0.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",24,Worked from home,"89,456","+/-5,011",25.2,+/-1.3
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",24.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",25,Mean travel time to work (minutes),27.8,+/-1.0,(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",25.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",25.5,OCCUPATION,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",26,Civilian employed population 16 years and over,"363,724","+/-7,034","363,724",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",27,"Management, business, science, and arts occupations","184,056","+/-5,973",50.6,+/-1.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",28,Service occupations,"53,842","+/-4,302",14.8,+/-1.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",29,Sales and office occupations,"74,090","+/-4,917",20.4,+/-1.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",30,"Natural resources, construction, and maintenance occupations","20,673","+/-2,712",5.7,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",31,"Production, transportation, and material moving occupations","31,063","+/-3,660",8.5,+/-1.0
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",31.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",31.5,INDUSTRY,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",32,Civilian employed population 16 years and over,"363,724","+/-7,034","363,724",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",33,"Agriculture, forestry, fishing and hunting, and mining",334,+/-284,0.1,+/-0.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",34,Construction,"22,568","+/-2,679",6.2,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",35,Manufacturing,"29,401","+/-3,269",8.1,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",36,Wholesale trade,"9,141","+/-1,692",2.5,+/-0.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",37,Retail trade,"40,033","+/-3,568",11.0,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",38,"Transportation and warehousing, and utilities","15,459","+/-2,471",4.3,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",39,Information,"11,074","+/-2,217",3.0,+/-0.6
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",40,"Finance and insurance, and real estate and rental and leasing","48,051","+/-3,536",13.2,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",41,"Professional, scientific, and management, and administrative and waste management services","57,159","+/-3,791",15.7,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",42,"Educational services, and health care and social assistance","82,283","+/-4,912",22.6,+/-1.3
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",43,"Arts, entertainment, and recreation, and accommodation and food services","23,435","+/-2,749",6.4,+/-0.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",44,"Other services, except public administration","16,800","+/-2,362",4.6,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",45,Public administration,"7,986","+/-1,566",2.2,+/-0.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",45.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",46,Civilian employed population 16 years and over,"363,724","+/-7,034","363,724",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",47,Private wage and salary workers,"300,899","+/-8,198",82.7,+/-1.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",48,Government workers,"35,551","+/-3,853",9.8,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",49,Self-employed in own not incorporated business workers,"26,897","+/-2,746",7.4,+/-0.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",50,Unpaid family workers,377,+/-331,0.1,+/-0.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",50.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",51,Total households,"266,075","+/-3,983","266,075",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",52,"Less than $10,000","14,306","+/-2,247",5.4,+/-0.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",53,"$10,000 to $14,999","8,503","+/-1,736",3.2,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",54,"$15,000 to $24,999","15,113","+/-1,923",5.7,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",55,"$25,000 to $34,999","13,639","+/-1,915",5.1,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",56,"$35,000 to $49,999","22,013","+/-3,032",8.3,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",57,"$50,000 to $74,999","29,196","+/-3,214",11.0,+/-1.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",58,"$75,000 to $99,999","25,750","+/-2,688",9.7,+/-1.0
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",59,"$100,000 to $149,999","40,880","+/-2,956",15.4,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",60,"$150,000 to $199,999","26,836","+/-2,231",10.1,+/-0.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",61,"$200,000 or more","69,839","+/-3,399",26.2,+/-1.3
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",62,Median household income (dollars),"103,548","+/-3,324",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",63,Mean household income (dollars),"173,655","+/-5,604",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",63.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",64,With earnings,"214,530","+/-3,850",80.6,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",65,Mean earnings (dollars),"174,321","+/-6,683",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",66,With Social Security,"77,846","+/-3,746",29.3,+/-1.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",67,Mean Social Security income (dollars),"23,203",+/-849,(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",68,With retirement income,"59,566","+/-3,498",22.4,+/-1.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",69,Mean retirement income (dollars),"38,261","+/-3,197",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",69.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",70,With Supplemental Security Income,"10,297","+/-1,778",3.9,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",71,Mean Supplemental Security Income (dollars),"9,693",+/-998,(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",72,With cash public assistance income,"8,343","+/-1,662",3.1,+/-0.6
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",73,Mean cash public assistance income (dollars),"6,470","+/-1,451",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",74,With Food Stamp/SNAP benefits in the past 12 months,"27,344","+/-2,876",10.3,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",74.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",75,Families,"180,364","+/-4,057","180,364",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",76,"Less than $10,000","4,926","+/-1,318",2.7,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",77,"$10,000 to $14,999","3,181","+/-1,178",1.8,+/-0.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",78,"$15,000 to $24,999","6,657","+/-1,488",3.7,+/-0.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",79,"$25,000 to $34,999","6,651","+/-1,722",3.7,+/-1.0
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",80,"$35,000 to $49,999","12,109","+/-2,370",6.7,+/-1.3
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",81,"$50,000 to $74,999","17,675","+/-2,586",9.8,+/-1.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",82,"$75,000 to $99,999","17,497","+/-2,326",9.7,+/-1.3
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",83,"$100,000 to $149,999","29,064","+/-2,881",16.1,+/-1.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",84,"$150,000 to $199,999","22,026","+/-2,125",12.2,+/-1.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",85,"$200,000 or more","60,578","+/-3,162",33.6,+/-1.6
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",86,Median family income (dollars),"135,865","+/-5,346",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",87,Mean family income (dollars),"210,168","+/-7,070",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",87.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",88,Per capita income (dollars),"65,410","+/-2,045",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",88.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",89,Nonfamily households,"85,711","+/-4,537","85,711",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",90,Median nonfamily income (dollars),"50,275","+/-6,550",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",91,Mean nonfamily income (dollars),"89,050","+/-6,810",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",91.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",92,Median earnings for workers (dollars),"49,328","+/-3,097",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",93,"Median earnings for male full-time, year-round workers (dollars)","87,951","+/-5,355",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",94,"Median earnings for female full-time, year-round workers (dollars)","70,158","+/-2,742",(X),(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",94.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",95,Civilian noninstitutionalized population,"714,148","+/-6,996","714,148",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",96,With health insurance coverage,"664,581","+/-9,467",93.1,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",97,With private health insurance,"501,011","+/-12,702",70.2,+/-1.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",98,With public coverage,"233,939","+/-9,610",32.8,+/-1.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",99,No health insurance coverage,"49,567","+/-6,234",6.9,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",99.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",100,Civilian noninstitutionalized population under 19 years,"168,795","+/-4,697","168,795",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",101,No health insurance coverage,"4,006","+/-1,555",2.4,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",101.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",102,Civilian noninstitutionalized population 19 to 64 years,"429,173","+/-5,539","429,173",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",103,In labor force:,"349,937","+/-6,625","349,937",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",104,Employed:,"329,510","+/-6,466","329,510",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",105,With health insurance coverage,"298,750","+/-7,473",90.7,+/-1.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",106,With private health insurance,"262,826","+/-8,654",79.8,+/-1.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",107,With public coverage,"41,482","+/-5,130",12.6,+/-1.6
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",108,No health insurance coverage,"30,760","+/-4,855",9.3,+/-1.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",109,Unemployed:,"20,427","+/-2,525","20,427",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",110,With health insurance coverage,"17,331","+/-2,352",84.8,+/-5.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",111,With private health insurance,"9,212","+/-1,564",45.1,+/-7.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",112,With public coverage,"8,617","+/-1,961",42.2,+/-7.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",113,No health insurance coverage,"3,096","+/-1,259",15.2,+/-5.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",114,Not in labor force:,"79,236","+/-4,418","79,236",(X)
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",115,With health insurance coverage,"69,425","+/-4,022",87.6,+/-2.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",116,With private health insurance,"48,550","+/-3,244",61.3,+/-3.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",117,With public coverage,"23,377","+/-3,148",29.5,+/-3.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",118,No health insurance coverage,"9,811","+/-1,928",12.4,+/-2.2
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",118.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",119,All families,(X),(X),6.6,+/-1.0
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",120,With related children of the householder under 18 years,(X),(X),10.5,+/-2.0
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",121,With related children of the householder under 5 years only,(X),(X),6.7,+/-3.6
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",122,Married couple families,(X),(X),2.7,+/-0.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",123,With related children of the householder under 18 years,(X),(X),3.7,+/-1.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",124,With related children of the householder under 5 years only,(X),(X),3.4,+/-3.0
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",125,"Families with female householder, no spouse present",(X),(X),19.6,+/-3.8
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",126,With related children of the householder under 18 years,(X),(X),26.7,+/-6.7
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",127,With related children of the householder under 5 years only,(X),(X),17.3,+/-15.0
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",127.3,,,,,
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",128,All people,(X),(X),9.2,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",129,Under 18 years,(X),(X),12.2,+/-2.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",130,Related children of the householder under 18 years,(X),(X),11.8,+/-2.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",131,Related children of the householder under 5 years,(X),(X),13.4,+/-4.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",132,Related children of the householder 5 to 17 years,(X),(X),11.3,+/-2.4
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",133,18 years and over,(X),(X),8.4,+/-0.9
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",134,18 to 64 years,(X),(X),8.3,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",135,65 years and over,(X),(X),8.6,+/-1.5
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",136,People in families,(X),(X),6.8,+/-1.1
+DP03,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",137,Unrelated individuals 15 years and over,(X),(X),20.8,+/-2.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",0.5,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",1,Population 16 years and over,"587,911","+/-9,919","587,911",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",2,In labor force,"382,655","+/-9,969",65.1,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",3,Civilian labor force,"382,251","+/-9,862",65.0,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",4,Employed,"354,970","+/-9,676",60.4,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",5,Unemployed,"27,281","+/-2,862",4.6,+/-0.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",6,Armed Forces,404,+/-472,0.1,+/-0.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",7,Not in labor force,"205,256","+/-6,953",34.9,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",7.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",8,Civilian labor force,"382,251","+/-9,862","382,251",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",9,Unemployment Rate,(X),(X),7.1,+/-0.7
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",9.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",10,Females 16 years and over,"302,264","+/-6,276","302,264",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",11,In labor force,"185,306","+/-6,267",61.3,+/-1.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",12,Civilian labor force,"185,306","+/-6,267",61.3,+/-1.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",13,Employed,"172,659","+/-6,498",57.1,+/-1.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",13.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",14,Own children of the householder under 6 years,"44,234","+/-3,921","44,234",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",15,All parents in family in labor force,"33,164","+/-3,821",75.0,+/-4.7
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",15.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",16,Own children of the householder 6 to 17 years,"103,342","+/-5,971","103,342",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",17,All parents in family in labor force,"79,793","+/-5,586",77.2,+/-2.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",17.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",18,Workers 16 years and over,"346,977","+/-9,597","346,977",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",19,"Car, truck, or van -- drove alone","238,196","+/-9,609",68.6,+/-1.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",20,"Car, truck, or van -- carpooled","29,298","+/-3,926",8.4,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",21,Public transportation (excluding taxicab),"4,692","+/-1,405",1.4,+/-0.4
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",22,Walked,"6,823","+/-1,993",2.0,+/-0.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",23,Other means,"5,741","+/-1,553",1.7,+/-0.4
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",24,Worked from home,"62,227","+/-4,104",17.9,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",24.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",25,Mean travel time to work (minutes),27.2,+/-1.1,(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",25.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",25.5,OCCUPATION,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",26,Civilian employed population 16 years and over,"354,970","+/-9,676","354,970",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",27,"Management, business, science, and arts occupations","159,228","+/-5,906",44.9,+/-1.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",28,Service occupations,"57,107","+/-4,980",16.1,+/-1.3
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",29,Sales and office occupations,"68,631","+/-4,739",19.3,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",30,"Natural resources, construction, and maintenance occupations","26,354","+/-3,434",7.4,+/-0.9
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",31,"Production, transportation, and material moving occupations","43,650","+/-3,987",12.3,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",31.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",31.5,INDUSTRY,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",32,Civilian employed population 16 years and over,"354,970","+/-9,676","354,970",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",33,"Agriculture, forestry, fishing and hunting, and mining","2,330","+/-1,162",0.7,+/-0.3
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",34,Construction,"24,572","+/-3,500",6.9,+/-0.9
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",35,Manufacturing,"42,562","+/-3,715",12.0,+/-1.0
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",36,Wholesale trade,"8,486","+/-1,731",2.4,+/-0.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",37,Retail trade,"39,414","+/-4,051",11.1,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",38,"Transportation and warehousing, and utilities","15,251","+/-2,606",4.3,+/-0.7
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",39,Information,"6,739","+/-1,284",1.9,+/-0.4
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",40,"Finance and insurance, and real estate and rental and leasing","28,580","+/-2,899",8.1,+/-0.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",41,"Professional, scientific, and management, and administrative and waste management services","38,742","+/-3,173",10.9,+/-0.9
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",42,"Educational services, and health care and social assistance","95,665","+/-4,652",27.0,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",43,"Arts, entertainment, and recreation, and accommodation and food services","24,433","+/-3,115",6.9,+/-0.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",44,"Other services, except public administration","14,844","+/-2,297",4.2,+/-0.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",45,Public administration,"13,352","+/-2,101",3.8,+/-0.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",45.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",46,Civilian employed population 16 years and over,"354,970","+/-9,676","354,970",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",47,Private wage and salary workers,"277,764","+/-9,383",78.2,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",48,Government workers,"49,472","+/-4,156",13.9,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",49,Self-employed in own not incorporated business workers,"27,278","+/-3,043",7.7,+/-0.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",50,Unpaid family workers,456,+/-341,0.1,+/-0.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",50.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",51,Total households,"284,148","+/-5,461","284,148",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",52,"Less than $10,000","13,988","+/-2,072",4.9,+/-0.7
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",53,"$10,000 to $14,999","8,479","+/-1,614",3.0,+/-0.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",54,"$15,000 to $24,999","22,625","+/-2,822",8.0,+/-1.0
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",55,"$25,000 to $34,999","17,329","+/-2,212",6.1,+/-0.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",56,"$35,000 to $49,999","30,416","+/-3,497",10.7,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",57,"$50,000 to $74,999","41,502","+/-2,967",14.6,+/-1.0
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",58,"$75,000 to $99,999","31,199","+/-2,982",11.0,+/-1.0
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",59,"$100,000 to $149,999","51,107","+/-3,742",18.0,+/-1.3
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",60,"$150,000 to $199,999","26,313","+/-2,513",9.3,+/-0.9
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",61,"$200,000 or more","41,190","+/-3,125",14.5,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",62,Median household income (dollars),"80,655","+/-3,562",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",63,Mean household income (dollars),"117,118","+/-4,305",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",63.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",64,With earnings,"216,365","+/-5,406",76.1,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",65,Mean earnings (dollars),"120,068","+/-4,279",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",66,With Social Security,"93,336","+/-4,328",32.8,+/-1.4
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",67,Mean Social Security income (dollars),"21,840",+/-680,(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",68,With retirement income,"75,474","+/-3,652",26.6,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",69,Mean retirement income (dollars),"33,245","+/-3,831",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",69.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",70,With Supplemental Security Income,"14,405","+/-2,157",5.1,+/-0.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",71,Mean Supplemental Security Income (dollars),"10,224",+/-914,(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",72,With cash public assistance income,"8,508","+/-1,661",3.0,+/-0.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",73,Mean cash public assistance income (dollars),"4,525","+/-1,122",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",74,With Food Stamp/SNAP benefits in the past 12 months,"35,599","+/-3,075",12.5,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",74.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",75,Families,"185,160","+/-4,098","185,160",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",76,"Less than $10,000","5,410","+/-1,398",2.9,+/-0.7
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",77,"$10,000 to $14,999","3,603","+/-1,067",1.9,+/-0.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",78,"$15,000 to $24,999","7,592","+/-1,482",4.1,+/-0.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",79,"$25,000 to $34,999","7,312","+/-1,464",3.9,+/-0.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",80,"$35,000 to $49,999","15,816","+/-2,196",8.5,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",81,"$50,000 to $74,999","25,374","+/-2,625",13.7,+/-1.4
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",82,"$75,000 to $99,999","22,784","+/-2,747",12.3,+/-1.4
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",83,"$100,000 to $149,999","38,319","+/-3,088",20.7,+/-1.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",84,"$150,000 to $199,999","22,566","+/-2,302",12.2,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",85,"$200,000 or more","36,384","+/-2,742",19.7,+/-1.4
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",86,Median family income (dollars),"104,259","+/-2,977",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",87,Mean family income (dollars),"141,699","+/-4,970",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",87.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",88,Per capita income (dollars),"46,732","+/-1,663",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",88.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",89,Nonfamily households,"98,988","+/-5,385","98,988",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",90,Median nonfamily income (dollars),"42,679","+/-2,698",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",91,Mean nonfamily income (dollars),"65,861","+/-5,384",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",91.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",92,Median earnings for workers (dollars),"45,472","+/-1,416",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",93,"Median earnings for male full-time, year-round workers (dollars)","72,481","+/-3,005",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",94,"Median earnings for female full-time, year-round workers (dollars)","58,557","+/-3,810",(X),(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",94.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",95,Civilian noninstitutionalized population,"711,342","+/-11,018","711,342",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",96,With health insurance coverage,"673,451","+/-10,265",94.7,+/-0.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",97,With private health insurance,"482,534","+/-11,249",67.8,+/-1.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",98,With public coverage,"281,011","+/-11,055",39.5,+/-1.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",99,No health insurance coverage,"37,891","+/-4,672",5.3,+/-0.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",99.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",100,Civilian noninstitutionalized population under 19 years,"159,719","+/-8,306","159,719",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",101,No health insurance coverage,"4,427","+/-1,363",2.8,+/-0.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",101.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",102,Civilian noninstitutionalized population 19 to 64 years,"422,164","+/-9,695","422,164",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",103,In labor force:,"342,777","+/-9,742","342,777",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",104,Employed:,"318,779","+/-9,567","318,779",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",105,With health insurance coverage,"295,320","+/-8,823",92.6,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",106,With private health insurance,"257,679","+/-8,019",80.8,+/-1.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",107,With public coverage,"46,163","+/-4,042",14.5,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",108,No health insurance coverage,"23,459","+/-3,934",7.4,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",109,Unemployed:,"23,998","+/-2,685","23,998",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",110,With health insurance coverage,"22,183","+/-2,579",92.4,+/-2.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",111,With private health insurance,"10,760","+/-2,092",44.8,+/-7.3
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",112,With public coverage,"12,227","+/-2,196",51.0,+/-7.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",113,No health insurance coverage,"1,815",+/-658,7.6,+/-2.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",114,Not in labor force:,"79,387","+/-4,421","79,387",(X)
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",115,With health insurance coverage,"71,537","+/-4,460",90.1,+/-2.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",116,With private health insurance,"39,496","+/-3,384",49.8,+/-3.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",117,With public coverage,"36,118","+/-3,667",45.5,+/-3.4
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",118,No health insurance coverage,"7,850","+/-1,794",9.9,+/-2.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",118.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",119,All families,(X),(X),7.6,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",120,With related children of the householder under 18 years,(X),(X),11.7,+/-2.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",121,With related children of the householder under 5 years only,(X),(X),6.1,+/-3.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",122,Married couple families,(X),(X),3.4,+/-0.9
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",123,With related children of the householder under 18 years,(X),(X),4.4,+/-1.4
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",124,With related children of the householder under 5 years only,(X),(X),1.9,+/-1.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",125,"Families with female householder, no spouse present",(X),(X),19.0,+/-3.7
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",126,With related children of the householder under 18 years,(X),(X),26.3,+/-5.9
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",127,With related children of the householder under 5 years only,(X),(X),15.2,+/-11.8
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",127.3,,,,,
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",128,All people,(X),(X),10.4,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",129,Under 18 years,(X),(X),13.9,+/-2.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",130,Related children of the householder under 18 years,(X),(X),13.5,+/-2.6
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",131,Related children of the householder under 5 years,(X),(X),15.6,+/-4.9
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",132,Related children of the householder 5 to 17 years,(X),(X),12.8,+/-2.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",133,18 years and over,(X),(X),9.4,+/-1.1
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",134,18 to 64 years,(X),(X),9.9,+/-1.2
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",135,65 years and over,(X),(X),8.1,+/-1.5
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",136,People in families,(X),(X),8.1,+/-1.3
+DP03,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",137,Unrelated individuals 15 years and over,(X),(X),19.7,+/-2.0

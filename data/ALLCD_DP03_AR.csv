@@ -1,0 +1,673 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",0.5,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",1,Population 16 years and over,"597,622","+/-4,678","597,622",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",2,In labor force,"331,249","+/-6,907",55.4,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",3,Civilian labor force,"328,932","+/-6,902",55.0,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",4,Employed,"303,635","+/-7,253",50.8,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",5,Unemployed,"25,297","+/-3,323",4.2,+/-0.6
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",6,Armed Forces,"2,317",+/-876,0.4,+/-0.1
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",7,Not in labor force,"266,373","+/-7,851",44.6,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",7.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",8,Civilian labor force,"328,932","+/-6,902","328,932",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",9,Unemployment Rate,(X),(X),7.7,+/-1.0
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",9.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",10,Females 16 years and over,"305,599","+/-2,982","305,599",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",11,In labor force,"162,432","+/-4,508",53.2,+/-1.5
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",12,Civilian labor force,"162,085","+/-4,490",53.0,+/-1.5
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",13,Employed,"150,888","+/-4,675",49.4,+/-1.5
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",13.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",14,Own children of the householder under 6 years,"51,902","+/-2,846","51,902",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",15,All parents in family in labor force,"34,370","+/-2,506",66.2,+/-4.7
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",15.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",16,Own children of the householder 6 to 17 years,"107,323","+/-4,028","107,323",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",17,All parents in family in labor force,"77,989","+/-4,480",72.7,+/-3.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",17.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",18,Workers 16 years and over,"297,881","+/-7,573","297,881",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",19,"Car, truck, or van -- drove alone","238,724","+/-7,662",80.1,+/-1.6
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",20,"Car, truck, or van -- carpooled","31,484","+/-3,725",10.6,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",21,Public transportation (excluding taxicab),335,+/-317,0.1,+/-0.1
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",22,Walked,"4,913","+/-1,275",1.6,+/-0.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",23,Other means,"3,746","+/-1,249",1.3,+/-0.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",24,Worked from home,"18,679","+/-2,219",6.3,+/-0.7
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",24.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",25,Mean travel time to work (minutes),22.5,+/-0.8,(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",25.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",25.5,OCCUPATION,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",26,Civilian employed population 16 years and over,"303,635","+/-7,253","303,635",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",27,"Management, business, science, and arts occupations","99,623","+/-5,425",32.8,+/-1.7
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",28,Service occupations,"48,215","+/-3,624",15.9,+/-1.1
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",29,Sales and office occupations,"63,655","+/-4,984",21.0,+/-1.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",30,"Natural resources, construction, and maintenance occupations","35,426","+/-2,737",11.7,+/-0.9
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",31,"Production, transportation, and material moving occupations","56,716","+/-4,079",18.7,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",31.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",31.5,INDUSTRY,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",32,Civilian employed population 16 years and over,"303,635","+/-7,253","303,635",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",33,"Agriculture, forestry, fishing and hunting, and mining","9,360","+/-1,363",3.1,+/-0.5
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",34,Construction,"21,361","+/-2,578",7.0,+/-0.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",35,Manufacturing,"44,180","+/-3,813",14.6,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",36,Wholesale trade,"7,186","+/-1,590",2.4,+/-0.5
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",37,Retail trade,"39,554","+/-3,583",13.0,+/-1.1
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",38,"Transportation and warehousing, and utilities","20,780","+/-2,416",6.8,+/-0.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",39,Information,"3,749",+/-965,1.2,+/-0.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",40,"Finance and insurance, and real estate and rental and leasing","13,826","+/-2,000",4.6,+/-0.6
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",41,"Professional, scientific, and management, and administrative and waste management services","16,961","+/-2,333",5.6,+/-0.7
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",42,"Educational services, and health care and social assistance","75,028","+/-4,252",24.7,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",43,"Arts, entertainment, and recreation, and accommodation and food services","20,966","+/-2,603",6.9,+/-0.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",44,"Other services, except public administration","15,475","+/-2,093",5.1,+/-0.7
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",45,Public administration,"15,209","+/-2,504",5.0,+/-0.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",45.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",46,Civilian employed population 16 years and over,"303,635","+/-7,253","303,635",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",47,Private wage and salary workers,"231,052","+/-6,626",76.1,+/-1.5
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",48,Government workers,"50,282","+/-4,012",16.6,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",49,Self-employed in own not incorporated business workers,"21,902","+/-2,525",7.2,+/-0.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",50,Unpaid family workers,399,+/-283,0.1,+/-0.1
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",50.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",51,Total households,"288,862","+/-3,653","288,862",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",52,"Less than $10,000","25,145","+/-2,666",8.7,+/-0.9
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",53,"$10,000 to $14,999","21,096","+/-2,461",7.3,+/-0.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",54,"$15,000 to $24,999","35,439","+/-2,889",12.3,+/-1.0
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",55,"$25,000 to $34,999","32,240","+/-2,783",11.2,+/-0.9
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",56,"$35,000 to $49,999","40,680","+/-2,820",14.1,+/-1.0
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",57,"$50,000 to $74,999","52,279","+/-3,691",18.1,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",58,"$75,000 to $99,999","30,568","+/-2,810",10.6,+/-1.0
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",59,"$100,000 to $149,999","30,635","+/-2,832",10.6,+/-1.0
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",60,"$150,000 to $199,999","11,010","+/-2,022",3.8,+/-0.7
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",61,"$200,000 or more","9,770","+/-1,649",3.4,+/-0.6
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",62,Median household income (dollars),"45,517","+/-1,977",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",63,Mean household income (dollars),"62,674","+/-2,038",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",63.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",64,With earnings,"195,578","+/-4,779",67.7,+/-1.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",65,Mean earnings (dollars),"66,487","+/-2,636",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",66,With Social Security,"115,172","+/-3,614",39.9,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",67,Mean Social Security income (dollars),"18,919",+/-526,(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",68,With retirement income,"69,234","+/-3,352",24.0,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",69,Mean retirement income (dollars),"20,725","+/-1,802",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",69.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",70,With Supplemental Security Income,"24,736","+/-2,992",8.6,+/-1.0
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",71,Mean Supplemental Security Income (dollars),"9,426",+/-686,(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",72,With cash public assistance income,"4,706","+/-1,009",1.6,+/-0.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",73,Mean cash public assistance income (dollars),"2,317",+/-463,(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",74,With Food Stamp/SNAP benefits in the past 12 months,"43,166","+/-3,910",14.9,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",74.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",75,Families,"188,723","+/-5,174","188,723",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",76,"Less than $10,000","9,206","+/-1,625",4.9,+/-0.9
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",77,"$10,000 to $14,999","6,484","+/-1,505",3.4,+/-0.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",78,"$15,000 to $24,999","16,730","+/-2,204",8.9,+/-1.1
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",79,"$25,000 to $34,999","20,407","+/-2,477",10.8,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",80,"$35,000 to $49,999","26,487","+/-2,561",14.0,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",81,"$50,000 to $74,999","39,493","+/-3,214",20.9,+/-1.6
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",82,"$75,000 to $99,999","24,663","+/-2,614",13.1,+/-1.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",83,"$100,000 to $149,999","27,198","+/-2,508",14.4,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",84,"$150,000 to $199,999","9,188","+/-1,751",4.9,+/-0.9
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",85,"$200,000 or more","8,867","+/-1,449",4.7,+/-0.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",86,Median family income (dollars),"57,385","+/-2,425",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",87,Mean family income (dollars),"75,299","+/-2,376",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",87.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",88,Per capita income (dollars),"25,019",+/-811,(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",88.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",89,Nonfamily households,"100,139","+/-4,176","100,139",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",90,Median nonfamily income (dollars),"23,868","+/-1,486",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",91,Mean nonfamily income (dollars),"35,842","+/-2,804",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",91.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",92,Median earnings for workers (dollars),"31,217",+/-755,(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",93,"Median earnings for male full-time, year-round workers (dollars)","44,056","+/-1,951",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",94,"Median earnings for female full-time, year-round workers (dollars)","35,822","+/-1,192",(X),(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",94.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",95,Civilian noninstitutionalized population,"733,570","+/-6,285","733,570",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",96,With health insurance coverage,"675,060","+/-7,502",92.0,+/-0.7
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",97,With private health insurance,"394,737","+/-9,788",53.8,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",98,With public coverage,"377,548","+/-10,385",51.5,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",99,No health insurance coverage,"58,510","+/-4,866",8.0,+/-0.7
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",99.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",100,Civilian noninstitutionalized population under 19 years,"186,518","+/-3,687","186,518",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",101,No health insurance coverage,"7,619","+/-1,881",4.1,+/-1.0
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",101.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",102,Civilian noninstitutionalized population 19 to 64 years,"409,519","+/-4,969","409,519",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",103,In labor force:,"299,614","+/-6,335","299,614",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",104,Employed:,"276,331","+/-6,720","276,331",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",105,With health insurance coverage,"245,596","+/-6,100",88.9,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",106,With private health insurance,"208,462","+/-6,507",75.4,+/-1.5
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",107,With public coverage,"47,485","+/-4,127",17.2,+/-1.5
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",108,No health insurance coverage,"30,735","+/-3,527",11.1,+/-1.2
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",109,Unemployed:,"23,283","+/-3,337","23,283",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",110,With health insurance coverage,"15,447","+/-2,776",66.3,+/-6.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",111,With private health insurance,"4,370","+/-1,241",18.8,+/-4.9
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",112,With public coverage,"11,726","+/-2,256",50.4,+/-6.1
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",113,No health insurance coverage,"7,836","+/-1,797",33.7,+/-6.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",114,Not in labor force:,"109,905","+/-6,527","109,905",(X)
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",115,With health insurance coverage,"98,160","+/-6,327",89.3,+/-1.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",116,With private health insurance,"37,707","+/-3,199",34.3,+/-2.6
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",117,With public coverage,"71,155","+/-5,634",64.7,+/-2.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",118,No health insurance coverage,"11,745","+/-1,991",10.7,+/-1.8
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",118.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",119,All families,(X),(X),13.4,+/-1.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",120,With related children of the householder under 18 years,(X),(X),20.4,+/-2.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",121,With related children of the householder under 5 years only,(X),(X),20.3,+/-7.0
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",122,Married couple families,(X),(X),6.4,+/-1.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",123,With related children of the householder under 18 years,(X),(X),9.5,+/-2.6
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",124,With related children of the householder under 5 years only,(X),(X),9.4,+/-6.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",125,"Families with female householder, no spouse present",(X),(X),36.2,+/-3.7
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",126,With related children of the householder under 18 years,(X),(X),43.6,+/-5.3
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",127,With related children of the householder under 5 years only,(X),(X),49.8,+/-17.1
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",127.3,,,,,
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",128,All people,(X),(X),19.1,+/-1.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",129,Under 18 years,(X),(X),25.6,+/-2.9
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",130,Related children of the householder under 18 years,(X),(X),25.4,+/-2.9
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",131,Related children of the householder under 5 years,(X),(X),30.1,+/-4.5
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",132,Related children of the householder 5 to 17 years,(X),(X),23.8,+/-3.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",133,18 years and over,(X),(X),17.1,+/-1.1
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",134,18 to 64 years,(X),(X),18.3,+/-1.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",135,65 years and over,(X),(X),13.4,+/-1.4
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",136,People in families,(X),(X),15.4,+/-1.6
+DP03,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",137,Unrelated individuals 15 years and over,(X),(X),35.3,+/-2.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",0.5,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",1,Population 16 years and over,"606,331","+/-4,969","606,331",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",2,In labor force,"375,162","+/-6,635",61.9,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",3,Civilian labor force,"370,638","+/-6,426",61.1,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",4,Employed,"351,693","+/-6,109",58.0,+/-0.9
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",5,Unemployed,"18,945","+/-2,568",3.1,+/-0.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",6,Armed Forces,"4,524","+/-1,302",0.7,+/-0.2
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",7,Not in labor force,"231,169","+/-6,681",38.1,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",7.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",8,Civilian labor force,"370,638","+/-6,426","370,638",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",9,Unemployment Rate,(X),(X),5.1,+/-0.7
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",9.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",10,Females 16 years and over,"317,586","+/-2,999","317,586",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",11,In labor force,"182,198","+/-4,278",57.4,+/-1.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",12,Civilian labor force,"181,494","+/-4,324",57.1,+/-1.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",13,Employed,"172,462","+/-4,471",54.3,+/-1.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",13.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",14,Own children of the householder under 6 years,"51,610","+/-2,709","51,610",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",15,All parents in family in labor force,"36,357","+/-4,244",70.4,+/-6.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",15.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",16,Own children of the householder 6 to 17 years,"110,149","+/-3,169","110,149",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",17,All parents in family in labor force,"82,366","+/-4,961",74.8,+/-3.7
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",17.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",18,Workers 16 years and over,"350,787","+/-6,168","350,787",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",19,"Car, truck, or van -- drove alone","274,001","+/-6,724",78.1,+/-1.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",20,"Car, truck, or van -- carpooled","31,295","+/-3,178",8.9,+/-0.9
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",21,Public transportation (excluding taxicab),545,+/-364,0.2,+/-0.1
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",22,Walked,"3,399",+/-982,1.0,+/-0.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",23,Other means,"2,840",+/-860,0.8,+/-0.2
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",24,Worked from home,"38,707","+/-3,619",11.0,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",24.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",25,Mean travel time to work (minutes),22.5,+/-0.6,(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",25.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",25.5,OCCUPATION,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",26,Civilian employed population 16 years and over,"351,693","+/-6,109","351,693",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",27,"Management, business, science, and arts occupations","151,293","+/-7,360",43.0,+/-2.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",28,Service occupations,"53,551","+/-4,903",15.2,+/-1.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",29,Sales and office occupations,"74,678","+/-5,945",21.2,+/-1.6
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",30,"Natural resources, construction, and maintenance occupations","29,702","+/-3,355",8.4,+/-0.9
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",31,"Production, transportation, and material moving occupations","42,469","+/-3,699",12.1,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",31.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",31.5,INDUSTRY,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",32,Civilian employed population 16 years and over,"351,693","+/-6,109","351,693",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",33,"Agriculture, forestry, fishing and hunting, and mining","2,977",+/-707,0.8,+/-0.2
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",34,Construction,"24,452","+/-3,379",7.0,+/-0.9
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",35,Manufacturing,"26,544","+/-2,986",7.5,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",36,Wholesale trade,"9,773","+/-2,032",2.8,+/-0.6
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",37,Retail trade,"42,501","+/-4,775",12.1,+/-1.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",38,"Transportation and warehousing, and utilities","19,950","+/-2,991",5.7,+/-0.9
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",39,Information,"5,624","+/-1,546",1.6,+/-0.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",40,"Finance and insurance, and real estate and rental and leasing","27,954","+/-3,718",7.9,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",41,"Professional, scientific, and management, and administrative and waste management services","34,251","+/-3,818",9.7,+/-1.1
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",42,"Educational services, and health care and social assistance","98,316","+/-6,688",28.0,+/-1.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",43,"Arts, entertainment, and recreation, and accommodation and food services","23,627","+/-3,663",6.7,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",44,"Other services, except public administration","15,771","+/-2,564",4.5,+/-0.7
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",45,Public administration,"19,953","+/-2,991",5.7,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",45.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",46,Civilian employed population 16 years and over,"351,693","+/-6,109","351,693",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",47,Private wage and salary workers,"269,789","+/-7,522",76.7,+/-1.6
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",48,Government workers,"60,657","+/-5,178",17.2,+/-1.5
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",49,Self-employed in own not incorporated business workers,"20,765","+/-2,931",5.9,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",50,Unpaid family workers,482,+/-364,0.1,+/-0.1
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",50.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",51,Total households,"314,244","+/-3,820","314,244",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",52,"Less than $10,000","24,589","+/-2,490",7.8,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",53,"$10,000 to $14,999","12,707","+/-2,162",4.0,+/-0.7
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",54,"$15,000 to $24,999","30,255","+/-3,325",9.6,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",55,"$25,000 to $34,999","28,341","+/-2,884",9.0,+/-0.9
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",56,"$35,000 to $49,999","44,062","+/-3,542",14.0,+/-1.1
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",57,"$50,000 to $74,999","55,552","+/-4,444",17.7,+/-1.5
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",58,"$75,000 to $99,999","40,054","+/-3,884",12.7,+/-1.2
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",59,"$100,000 to $149,999","44,757","+/-3,312",14.2,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",60,"$150,000 to $199,999","16,978","+/-1,838",5.4,+/-0.6
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",61,"$200,000 or more","16,949","+/-2,510",5.4,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",62,Median household income (dollars),"56,091","+/-1,801",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",63,Mean household income (dollars),"79,819","+/-2,889",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",63.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",64,With earnings,"237,659","+/-4,719",75.6,+/-1.1
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",65,Mean earnings (dollars),"80,456","+/-3,105",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",66,With Social Security,"98,057","+/-4,088",31.2,+/-1.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",67,Mean Social Security income (dollars),"20,844",+/-828,(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",68,With retirement income,"73,907","+/-4,105",23.5,+/-1.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",69,Mean retirement income (dollars),"28,917","+/-4,888",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",69.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",70,With Supplemental Security Income,"17,270","+/-2,664",5.5,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",71,Mean Supplemental Security Income (dollars),"9,928",+/-972,(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",72,With cash public assistance income,"5,675","+/-1,421",1.8,+/-0.5
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",73,Mean cash public assistance income (dollars),"5,096","+/-1,501",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",74,With Food Stamp/SNAP benefits in the past 12 months,"28,628","+/-3,464",9.1,+/-1.1
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",74.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",75,Families,"203,678","+/-5,640","203,678",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",76,"Less than $10,000","8,437","+/-1,752",4.1,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",77,"$10,000 to $14,999","5,133","+/-1,641",2.5,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",78,"$15,000 to $24,999","12,844","+/-2,169",6.3,+/-1.1
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",79,"$25,000 to $34,999","16,554","+/-2,411",8.1,+/-1.1
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",80,"$35,000 to $49,999","25,181","+/-2,838",12.4,+/-1.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",81,"$50,000 to $74,999","37,527","+/-3,361",18.4,+/-1.6
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",82,"$75,000 to $99,999","28,714","+/-3,103",14.1,+/-1.5
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",83,"$100,000 to $149,999","38,663","+/-3,259",19.0,+/-1.5
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",84,"$150,000 to $199,999","15,389","+/-1,805",7.6,+/-0.9
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",85,"$200,000 or more","15,236","+/-2,209",7.5,+/-1.0
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",86,Median family income (dollars),"72,238","+/-2,840",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",87,Mean family income (dollars),"96,470","+/-3,950",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",87.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",88,Per capita income (dollars),"33,233","+/-1,241",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",88.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",89,Nonfamily households,"110,566","+/-4,674","110,566",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",90,Median nonfamily income (dollars),"33,321","+/-3,508",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",91,Mean nonfamily income (dollars),"46,151","+/-3,139",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",91.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",92,Median earnings for workers (dollars),"35,944","+/-1,116",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",93,"Median earnings for male full-time, year-round workers (dollars)","51,340","+/-1,006",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",94,"Median earnings for female full-time, year-round workers (dollars)","42,337","+/-1,949",(X),(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",94.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",95,Civilian noninstitutionalized population,"748,209","+/-6,313","748,209",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",96,With health insurance coverage,"684,562","+/-7,974",91.5,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",97,With private health insurance,"487,384","+/-11,391",65.1,+/-1.5
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",98,With public coverage,"297,534","+/-10,546",39.8,+/-1.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",99,No health insurance coverage,"63,647","+/-5,873",8.5,+/-0.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",99.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",100,Civilian noninstitutionalized population under 19 years,"179,429","+/-3,360","179,429",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",101,No health insurance coverage,"10,044","+/-2,853",5.6,+/-1.6
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",101.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",102,Civilian noninstitutionalized population 19 to 64 years,"443,350","+/-4,379","443,350",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",103,In labor force:,"343,575","+/-6,612","343,575",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",104,Employed:,"326,562","+/-6,380","326,562",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",105,With health insurance coverage,"291,809","+/-6,134",89.4,+/-1.2
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",106,With private health insurance,"262,715","+/-7,022",80.4,+/-1.7
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",107,With public coverage,"39,125","+/-4,027",12.0,+/-1.2
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",108,No health insurance coverage,"34,753","+/-4,161",10.6,+/-1.2
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",109,Unemployed:,"17,013","+/-2,463","17,013",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",110,With health insurance coverage,"11,695","+/-1,967",68.7,+/-7.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",111,With private health insurance,"5,584","+/-1,603",32.8,+/-8.6
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",112,With public coverage,"6,580","+/-1,574",38.7,+/-7.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",113,No health insurance coverage,"5,318","+/-1,556",31.3,+/-7.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",114,Not in labor force:,"99,775","+/-6,340","99,775",(X)
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",115,With health insurance coverage,"86,350","+/-5,420",86.5,+/-2.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",116,With private health insurance,"47,293","+/-4,019",47.4,+/-3.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",117,With public coverage,"48,186","+/-4,186",48.3,+/-3.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",118,No health insurance coverage,"13,425","+/-2,712",13.5,+/-2.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",118.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",119,All families,(X),(X),10.7,+/-1.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",120,With related children of the householder under 18 years,(X),(X),16.3,+/-2.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",121,With related children of the householder under 5 years only,(X),(X),16.3,+/-5.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",122,Married couple families,(X),(X),5.4,+/-1.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",123,With related children of the householder under 18 years,(X),(X),6.4,+/-2.2
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",124,With related children of the householder under 5 years only,(X),(X),9.9,+/-6.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",125,"Families with female householder, no spouse present",(X),(X),28.5,+/-4.8
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",126,With related children of the householder under 18 years,(X),(X),37.9,+/-6.5
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",127,With related children of the householder under 5 years only,(X),(X),30.9,+/-17.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",127.3,,,,,
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",128,All people,(X),(X),15.2,+/-1.5
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",129,Under 18 years,(X),(X),20.7,+/-3.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",130,Related children of the householder under 18 years,(X),(X),20.5,+/-3.3
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",131,Related children of the householder under 5 years,(X),(X),23.8,+/-4.7
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",132,Related children of the householder 5 to 17 years,(X),(X),19.3,+/-3.6
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",133,18 years and over,(X),(X),13.6,+/-1.2
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",134,18 to 64 years,(X),(X),14.3,+/-1.4
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",135,65 years and over,(X),(X),11.2,+/-1.7
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",136,People in families,(X),(X),12.1,+/-1.6
+DP03,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",137,Unrelated individuals 15 years and over,(X),(X),28.2,+/-2.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",0.5,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",1,Population 16 years and over,"601,534","+/-3,085","601,534",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",2,In labor force,"380,546","+/-7,202",63.3,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",3,Civilian labor force,"380,048","+/-7,267",63.2,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",4,Employed,"364,364","+/-7,310",60.6,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",5,Unemployed,"15,684","+/-2,448",2.6,+/-0.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",6,Armed Forces,498,+/-363,0.1,+/-0.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",7,Not in labor force,"220,988","+/-7,138",36.7,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",7.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",8,Civilian labor force,"380,048","+/-7,267","380,048",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",9,Unemployment Rate,(X),(X),4.1,+/-0.6
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",9.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",10,Females 16 years and over,"302,308","+/-2,133","302,308",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",11,In labor force,"175,188","+/-4,667",58.0,+/-1.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",12,Civilian labor force,"175,049","+/-4,665",57.9,+/-1.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",13,Employed,"169,092","+/-4,829",55.9,+/-1.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",13.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",14,Own children of the householder under 6 years,"56,815","+/-2,429","56,815",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",15,All parents in family in labor force,"36,731","+/-3,072",64.7,+/-4.7
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",15.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",16,Own children of the householder 6 to 17 years,"119,601","+/-3,254","119,601",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",17,All parents in family in labor force,"84,757","+/-5,355",70.9,+/-4.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",17.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",18,Workers 16 years and over,"360,638","+/-6,952","360,638",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",19,"Car, truck, or van -- drove alone","271,831","+/-7,714",75.4,+/-1.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",20,"Car, truck, or van -- carpooled","28,566","+/-4,428",7.9,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",21,Public transportation (excluding taxicab),602,+/-453,0.2,+/-0.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",22,Walked,"4,082","+/-1,232",1.1,+/-0.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",23,Other means,"3,307",+/-884,0.9,+/-0.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",24,Worked from home,"52,250","+/-4,153",14.5,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",24.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",25,Mean travel time to work (minutes),21.0,+/-0.6,(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",25.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",25.5,OCCUPATION,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",26,Civilian employed population 16 years and over,"364,364","+/-7,310","364,364",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",27,"Management, business, science, and arts occupations","142,942","+/-6,795",39.2,+/-1.7
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",28,Service occupations,"52,219","+/-5,328",14.3,+/-1.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",29,Sales and office occupations,"73,038","+/-4,859",20.0,+/-1.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",30,"Natural resources, construction, and maintenance occupations","39,300","+/-4,121",10.8,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",31,"Production, transportation, and material moving occupations","56,865","+/-4,307",15.6,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",31.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",31.5,INDUSTRY,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",32,Civilian employed population 16 years and over,"364,364","+/-7,310","364,364",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",33,"Agriculture, forestry, fishing and hunting, and mining","6,974","+/-1,935",1.9,+/-0.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",34,Construction,"33,318","+/-3,563",9.1,+/-0.9
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",35,Manufacturing,"43,313","+/-3,989",11.9,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",36,Wholesale trade,"9,445","+/-1,814",2.6,+/-0.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",37,Retail trade,"60,121","+/-4,829",16.5,+/-1.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",38,"Transportation and warehousing, and utilities","24,368","+/-3,348",6.7,+/-0.9
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",39,Information,"4,150","+/-1,247",1.1,+/-0.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",40,"Finance and insurance, and real estate and rental and leasing","17,400","+/-2,594",4.8,+/-0.7
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",41,"Professional, scientific, and management, and administrative and waste management services","32,984","+/-3,463",9.1,+/-1.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",42,"Educational services, and health care and social assistance","74,532","+/-5,103",20.5,+/-1.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",43,"Arts, entertainment, and recreation, and accommodation and food services","31,132","+/-3,804",8.5,+/-1.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",44,"Other services, except public administration","17,333","+/-2,252",4.8,+/-0.6
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",45,Public administration,"9,294","+/-2,000",2.6,+/-0.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",45.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",46,Civilian employed population 16 years and over,"364,364","+/-7,310","364,364",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",47,Private wage and salary workers,"295,135","+/-7,782",81.0,+/-1.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",48,Government workers,"39,630","+/-3,434",10.9,+/-0.9
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",49,Self-employed in own not incorporated business workers,"28,548","+/-3,664",7.8,+/-1.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",50,Unpaid family workers,"1,051",+/-648,0.3,+/-0.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",50.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",51,Total households,"289,283","+/-3,959","289,283",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",52,"Less than $10,000","14,458","+/-2,306",5.0,+/-0.8
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",53,"$10,000 to $14,999","11,650","+/-2,189",4.0,+/-0.7
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",54,"$15,000 to $24,999","20,861","+/-2,525",7.2,+/-0.9
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",55,"$25,000 to $34,999","26,135","+/-3,283",9.0,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",56,"$35,000 to $49,999","36,525","+/-3,577",12.6,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",57,"$50,000 to $74,999","55,749","+/-3,582",19.3,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",58,"$75,000 to $99,999","42,842","+/-3,946",14.8,+/-1.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",59,"$100,000 to $149,999","40,196","+/-2,878",13.9,+/-1.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",60,"$150,000 to $199,999","18,470","+/-2,580",6.4,+/-0.9
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",61,"$200,000 or more","22,397","+/-2,158",7.7,+/-0.8
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",62,Median household income (dollars),"64,608","+/-1,959",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",63,Mean household income (dollars),"87,464","+/-2,579",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",63.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",64,With earnings,"227,153","+/-4,915",78.5,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",65,Mean earnings (dollars),"90,612","+/-2,843",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",66,With Social Security,"83,348","+/-3,130",28.8,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",67,Mean Social Security income (dollars),"21,315",+/-750,(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",68,With retirement income,"58,632","+/-3,311",20.3,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",69,Mean retirement income (dollars),"23,802","+/-1,914",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",69.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",70,With Supplemental Security Income,"10,959","+/-1,984",3.8,+/-0.7
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",71,Mean Supplemental Security Income (dollars),"9,979",+/-803,(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",72,With cash public assistance income,"5,157","+/-1,191",1.8,+/-0.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",73,Mean cash public assistance income (dollars),"5,891","+/-1,184",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",74,With Food Stamp/SNAP benefits in the past 12 months,"21,061","+/-2,629",7.3,+/-0.9
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",74.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",75,Families,"199,846","+/-5,402","199,846",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",76,"Less than $10,000","6,750","+/-1,520",3.4,+/-0.8
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",77,"$10,000 to $14,999","3,901","+/-1,136",2.0,+/-0.6
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",78,"$15,000 to $24,999","8,726","+/-1,627",4.4,+/-0.8
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",79,"$25,000 to $34,999","14,898","+/-2,518",7.5,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",80,"$35,000 to $49,999","23,776","+/-2,893",11.9,+/-1.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",81,"$50,000 to $74,999","39,950","+/-2,937",20.0,+/-1.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",82,"$75,000 to $99,999","31,898","+/-3,047",16.0,+/-1.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",83,"$100,000 to $149,999","32,791","+/-2,725",16.4,+/-1.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",84,"$150,000 to $199,999","16,478","+/-2,430",8.2,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",85,"$200,000 or more","20,678","+/-2,013",10.3,+/-1.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",86,Median family income (dollars),"76,472","+/-2,713",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",87,Mean family income (dollars),"101,430","+/-3,226",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",87.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",88,Per capita income (dollars),"33,297",+/-915,(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",88.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",89,Nonfamily households,"89,437","+/-4,335","89,437",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",90,Median nonfamily income (dollars),"37,093","+/-3,402",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",91,Mean nonfamily income (dollars),"52,247","+/-3,903",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",91.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",92,Median earnings for workers (dollars),"36,610",+/-914,(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",93,"Median earnings for male full-time, year-round workers (dollars)","51,030","+/-1,485",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",94,"Median earnings for female full-time, year-round workers (dollars)","42,168","+/-1,489",(X),(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",94.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",95,Civilian noninstitutionalized population,"760,769","+/-3,213","760,769",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",96,With health insurance coverage,"677,595","+/-9,190",89.1,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",97,With private health insurance,"471,076","+/-13,139",61.9,+/-1.7
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",98,With public coverage,"283,947","+/-10,099",37.3,+/-1.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",99,No health insurance coverage,"83,174","+/-8,442",10.9,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",99.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",100,Civilian noninstitutionalized population under 19 years,"197,882","+/-2,441","197,882",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",101,No health insurance coverage,"12,935","+/-3,054",6.5,+/-1.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",101.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",102,Civilian noninstitutionalized population 19 to 64 years,"456,445","+/-3,450","456,445",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",103,In labor force:,"354,720","+/-6,517","354,720",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",104,Employed:,"341,054","+/-6,623","341,054",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",105,With health insurance coverage,"292,482","+/-7,339",85.8,+/-1.6
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",106,With private health insurance,"262,118","+/-7,486",76.9,+/-1.9
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",107,With public coverage,"40,455","+/-3,899",11.9,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",108,No health insurance coverage,"48,572","+/-5,774",14.2,+/-1.6
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",109,Unemployed:,"13,666","+/-2,340","13,666",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",110,With health insurance coverage,"9,151","+/-1,770",67.0,+/-7.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",111,With private health insurance,"4,849","+/-1,265",35.5,+/-8.6
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",112,With public coverage,"4,806","+/-1,460",35.2,+/-7.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",113,No health insurance coverage,"4,515","+/-1,340",33.0,+/-7.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",114,Not in labor force:,"101,725","+/-5,800","101,725",(X)
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",115,With health insurance coverage,"85,819","+/-5,322",84.4,+/-2.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",116,With private health insurance,"47,470","+/-4,350",46.7,+/-3.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",117,With public coverage,"45,492","+/-4,150",44.7,+/-3.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",118,No health insurance coverage,"15,906","+/-2,668",15.6,+/-2.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",118.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",119,All families,(X),(X),8.8,+/-1.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",120,With related children of the householder under 18 years,(X),(X),14.8,+/-2.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",121,With related children of the householder under 5 years only,(X),(X),14.9,+/-6.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",122,Married couple families,(X),(X),4.9,+/-1.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",123,With related children of the householder under 18 years,(X),(X),7.7,+/-2.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",124,With related children of the householder under 5 years only,(X),(X),2.9,+/-2.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",125,"Families with female householder, no spouse present",(X),(X),22.7,+/-4.9
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",126,With related children of the householder under 18 years,(X),(X),32.2,+/-6.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",127,With related children of the householder under 5 years only,(X),(X),45.8,+/-17.3
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",127.3,,,,,
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",128,All people,(X),(X),12.5,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",129,Under 18 years,(X),(X),16.7,+/-2.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",130,Related children of the householder under 18 years,(X),(X),16.5,+/-2.6
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",131,Related children of the householder under 5 years,(X),(X),19.4,+/-3.4
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",132,Related children of the householder 5 to 17 years,(X),(X),15.5,+/-3.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",133,18 years and over,(X),(X),11.1,+/-1.0
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",134,18 to 64 years,(X),(X),11.7,+/-1.1
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",135,65 years and over,(X),(X),8.3,+/-1.5
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",136,People in families,(X),(X),9.5,+/-1.2
+DP03,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",137,Unrelated individuals 15 years and over,(X),(X),25.9,+/-2.6
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",0.5,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",1,Population 16 years and over,"599,548","+/-5,023","599,548",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",2,In labor force,"321,645","+/-6,232",53.6,+/-1.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",3,Civilian labor force,"321,379","+/-6,262",53.6,+/-1.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",4,Employed,"303,819","+/-6,492",50.7,+/-1.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",5,Unemployed,"17,560","+/-2,278",2.9,+/-0.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",6,Armed Forces,266,+/-244,0.0,+/-0.1
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",7,Not in labor force,"277,903","+/-6,873",46.4,+/-1.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",7.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",8,Civilian labor force,"321,379","+/-6,262","321,379",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",9,Unemployment Rate,(X),(X),5.5,+/-0.7
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",9.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",10,Females 16 years and over,"306,594","+/-3,202","306,594",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",11,In labor force,"149,678","+/-4,458",48.8,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",12,Civilian labor force,"149,678","+/-4,458",48.8,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",13,Employed,"143,337","+/-4,341",46.8,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",13.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",14,Own children of the householder under 6 years,"45,828","+/-2,722","45,828",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",15,All parents in family in labor force,"30,406","+/-2,629",66.3,+/-4.7
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",15.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",16,Own children of the householder 6 to 17 years,"108,251","+/-4,382","108,251",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",17,All parents in family in labor force,"75,526","+/-5,273",69.8,+/-3.6
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",17.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",18,Workers 16 years and over,"298,611","+/-6,438","298,611",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",19,"Car, truck, or van -- drove alone","247,595","+/-6,555",82.9,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",20,"Car, truck, or van -- carpooled","23,870","+/-3,166",8.0,+/-1.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",21,Public transportation (excluding taxicab),993,+/-687,0.3,+/-0.2
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",22,Walked,"5,240","+/-1,257",1.8,+/-0.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",23,Other means,"3,164",+/-955,1.1,+/-0.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",24,Worked from home,"17,749","+/-2,344",5.9,+/-0.8
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",24.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",25,Mean travel time to work (minutes),23.2,+/-0.8,(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",25.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",25.5,OCCUPATION,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",26,Civilian employed population 16 years and over,"303,819","+/-6,492","303,819",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",27,"Management, business, science, and arts occupations","95,639","+/-4,860",31.5,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",28,Service occupations,"54,653","+/-4,108",18.0,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",29,Sales and office occupations,"55,788","+/-4,136",18.4,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",30,"Natural resources, construction, and maintenance occupations","32,560","+/-3,003",10.7,+/-1.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",31,"Production, transportation, and material moving occupations","65,179","+/-4,353",21.5,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",31.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",31.5,INDUSTRY,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",32,Civilian employed population 16 years and over,"303,819","+/-6,492","303,819",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",33,"Agriculture, forestry, fishing and hunting, and mining","12,638","+/-2,478",4.2,+/-0.8
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",34,Construction,"17,698","+/-1,785",5.8,+/-0.6
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",35,Manufacturing,"53,177","+/-3,607",17.5,+/-1.2
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",36,Wholesale trade,"4,292","+/-1,332",1.4,+/-0.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",37,Retail trade,"33,713","+/-3,805",11.1,+/-1.2
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",38,"Transportation and warehousing, and utilities","18,285","+/-2,429",6.0,+/-0.8
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",39,Information,"2,727",+/-921,0.9,+/-0.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",40,"Finance and insurance, and real estate and rental and leasing","11,879","+/-1,721",3.9,+/-0.6
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",41,"Professional, scientific, and management, and administrative and waste management services","20,738","+/-2,388",6.8,+/-0.8
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",42,"Educational services, and health care and social assistance","77,694","+/-4,408",25.6,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",43,"Arts, entertainment, and recreation, and accommodation and food services","22,585","+/-2,727",7.4,+/-0.9
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",44,"Other services, except public administration","12,733","+/-2,003",4.2,+/-0.7
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",45,Public administration,"15,660","+/-2,117",5.2,+/-0.7
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",45.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",46,Civilian employed population 16 years and over,"303,819","+/-6,492","303,819",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",47,Private wage and salary workers,"227,994","+/-6,522",75.0,+/-1.5
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",48,Government workers,"54,772","+/-4,100",18.0,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",49,Self-employed in own not incorporated business workers,"20,672","+/-2,716",6.8,+/-0.9
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",50,Unpaid family workers,381,+/-333,0.1,+/-0.1
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",50.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",51,Total households,"291,286","+/-4,881","291,286",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",52,"Less than $10,000","25,626","+/-2,717",8.8,+/-0.9
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",53,"$10,000 to $14,999","18,521","+/-2,379",6.4,+/-0.8
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",54,"$15,000 to $24,999","36,671","+/-3,032",12.6,+/-1.1
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",55,"$25,000 to $34,999","31,975","+/-2,959",11.0,+/-1.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",56,"$35,000 to $49,999","43,409","+/-3,814",14.9,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",57,"$50,000 to $74,999","51,096","+/-3,166",17.5,+/-1.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",58,"$75,000 to $99,999","32,686","+/-2,662",11.2,+/-0.9
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",59,"$100,000 to $149,999","32,609","+/-3,431",11.2,+/-1.2
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",60,"$150,000 to $199,999","11,837","+/-1,765",4.1,+/-0.6
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",61,"$200,000 or more","6,856","+/-1,336",2.4,+/-0.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",62,Median household income (dollars),"45,508","+/-1,625",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",63,Mean household income (dollars),"62,030","+/-1,904",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",63.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",64,With earnings,"196,933","+/-4,998",67.6,+/-1.2
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",65,Mean earnings (dollars),"64,949","+/-2,132",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",66,With Social Security,"118,070","+/-3,577",40.5,+/-1.2
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",67,Mean Social Security income (dollars),"19,432",+/-565,(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",68,With retirement income,"69,537","+/-3,466",23.9,+/-1.2
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",69,Mean retirement income (dollars),"23,581","+/-1,802",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",69.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",70,With Supplemental Security Income,"22,834","+/-2,289",7.8,+/-0.8
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",71,Mean Supplemental Security Income (dollars),"9,252",+/-567,(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",72,With cash public assistance income,"6,223","+/-1,251",2.1,+/-0.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",73,Mean cash public assistance income (dollars),"4,624","+/-1,409",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",74,With Food Stamp/SNAP benefits in the past 12 months,"36,406","+/-2,736",12.5,+/-0.9
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",74.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",75,Families,"185,384","+/-5,029","185,384",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",76,"Less than $10,000","9,793","+/-1,828",5.3,+/-1.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",77,"$10,000 to $14,999","4,809","+/-1,207",2.6,+/-0.6
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",78,"$15,000 to $24,999","16,443","+/-2,160",8.9,+/-1.2
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",79,"$25,000 to $34,999","17,937","+/-2,057",9.7,+/-1.1
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",80,"$35,000 to $49,999","28,304","+/-2,798",15.3,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",81,"$50,000 to $74,999","37,775","+/-2,734",20.4,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",82,"$75,000 to $99,999","26,673","+/-2,457",14.4,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",83,"$100,000 to $149,999","27,335","+/-3,189",14.7,+/-1.7
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",84,"$150,000 to $199,999","10,392","+/-1,593",5.6,+/-0.9
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",85,"$200,000 or more","5,923","+/-1,214",3.2,+/-0.6
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",86,Median family income (dollars),"59,039","+/-2,109",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",87,Mean family income (dollars),"74,735","+/-2,389",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",87.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",88,Per capita income (dollars),"25,326",+/-686,(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",88.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",89,Nonfamily households,"105,902","+/-5,378","105,902",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",90,Median nonfamily income (dollars),"25,667","+/-1,557",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",91,Mean nonfamily income (dollars),"37,538","+/-2,195",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",91.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",92,Median earnings for workers (dollars),"31,556",+/-828,(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",93,"Median earnings for male full-time, year-round workers (dollars)","44,241","+/-1,856",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",94,"Median earnings for female full-time, year-round workers (dollars)","35,634","+/-1,377",(X),(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",94.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",95,Civilian noninstitutionalized population,"732,153","+/-6,092","732,153",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",96,With health insurance coverage,"664,455","+/-7,613",90.8,+/-0.7
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",97,With private health insurance,"402,669","+/-10,071",55.0,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",98,With public coverage,"363,107","+/-8,605",49.6,+/-1.1
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",99,No health insurance coverage,"67,698","+/-5,366",9.2,+/-0.7
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",99.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",100,Civilian noninstitutionalized population under 19 years,"179,096","+/-3,885","179,096",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",101,No health insurance coverage,"12,326","+/-2,439",6.9,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",101.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",102,Civilian noninstitutionalized population 19 to 64 years,"410,317","+/-4,446","410,317",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",103,In labor force:,"292,630","+/-6,009","292,630",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",104,Employed:,"277,308","+/-6,240","277,308",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",105,With health insurance coverage,"243,016","+/-6,079",87.6,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",106,With private health insurance,"209,492","+/-5,843",75.5,+/-1.5
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",107,With public coverage,"41,942","+/-3,942",15.1,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",108,No health insurance coverage,"34,292","+/-3,692",12.4,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",109,Unemployed:,"15,322","+/-2,058","15,322",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",110,With health insurance coverage,"10,801","+/-1,832",70.5,+/-6.5
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",111,With private health insurance,"4,962","+/-1,230",32.4,+/-7.0
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",112,With public coverage,"6,569","+/-1,473",42.9,+/-7.2
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",113,No health insurance coverage,"4,521","+/-1,116",29.5,+/-6.5
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",114,Not in labor force:,"117,687","+/-4,940","117,687",(X)
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",115,With health insurance coverage,"101,471","+/-4,977",86.2,+/-2.1
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",116,With private health insurance,"41,941","+/-3,829",35.6,+/-2.8
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",117,With public coverage,"68,295","+/-3,893",58.0,+/-2.6
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",118,No health insurance coverage,"16,216","+/-2,588",13.8,+/-2.1
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",118.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",119,All families,(X),(X),14.0,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",120,With related children of the householder under 18 years,(X),(X),23.0,+/-2.5
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",121,With related children of the householder under 5 years only,(X),(X),31.6,+/-8.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",122,Married couple families,(X),(X),7.8,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",123,With related children of the householder under 18 years,(X),(X),12.3,+/-2.8
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",124,With related children of the householder under 5 years only,(X),(X),12.0,+/-6.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",125,"Families with female householder, no spouse present",(X),(X),34.0,+/-4.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",126,With related children of the householder under 18 years,(X),(X),43.5,+/-5.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",127,With related children of the householder under 5 years only,(X),(X),57.2,+/-14.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",127.3,,,,,
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",128,All people,(X),(X),18.6,+/-1.3
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",129,Under 18 years,(X),(X),27.0,+/-2.9
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",130,Related children of the householder under 18 years,(X),(X),26.6,+/-2.9
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",131,Related children of the householder under 5 years,(X),(X),33.9,+/-4.9
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",132,Related children of the householder 5 to 17 years,(X),(X),24.2,+/-3.1
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",133,18 years and over,(X),(X),16.1,+/-1.1
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",134,18 to 64 years,(X),(X),17.1,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",135,65 years and over,(X),(X),13.1,+/-1.4
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",136,People in families,(X),(X),15.7,+/-1.6
+DP03,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",137,Unrelated individuals 15 years and over,(X),(X),30.9,+/-2.1

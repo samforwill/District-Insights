@@ -1,0 +1,801 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",0.5,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",1,Total households,"284,998","+/-5,041","284,998",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",2,Married-couple household,"119,102","+/-4,598",41.8,+/-1.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",3,With children of the householder under 18 years,"45,487","+/-3,185",16.0,+/-1.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",4,Cohabiting couple household,"25,514","+/-2,898",9.0,+/-1.0
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",5,With children of the householder under 18 years,"10,231","+/-1,941",3.6,+/-0.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",6,"Male householder, no spouse/partner present","62,994","+/-3,603",22.1,+/-1.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",7,With children of the householder under 18 years,"4,079","+/-1,009",1.4,+/-0.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",8,Householder living alone,"43,637","+/-3,514",15.3,+/-1.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",9,65 years and over,"15,590","+/-1,996",5.5,+/-0.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",10,"Female householder, no spouse/partner present","77,388","+/-4,224",27.2,+/-1.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",11,With children of the householder under 18 years,"17,280","+/-2,232",6.1,+/-0.8
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",12,Householder living alone,"37,710","+/-3,411",13.2,+/-1.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",13,65 years and over,"17,226","+/-1,944",6.0,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",13.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",14,Households with one or more people under 18 years,"86,010","+/-4,086",30.2,+/-1.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",15,Households with one or more people 65 years and over,"90,317","+/-3,827",31.7,+/-1.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",15.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",16,Average household size,2.64,+/-0.04,(X),(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",17,Average family size,3.27,+/-0.05,(X),(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",17.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",17.5,RELATIONSHIP,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",18,Population in households,"752,983","+/-14,065","752,983",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",19,Householder,"284,998","+/-5,041",37.8,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",20,Spouse,"118,133","+/-4,497",15.7,+/-0.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",21,Unmarried partner,"25,936","+/-3,068",3.4,+/-0.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",22,Child,"224,459","+/-8,095",29.8,+/-0.8
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",23,Other relatives,"67,904","+/-5,938",9.0,+/-0.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",24,Other nonrelatives,"31,553","+/-4,454",4.2,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",24.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",24.5,MARITAL STATUS,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",25,Males 15 years and over,"308,688","+/-6,838","308,688",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",26,Never married,"119,412","+/-4,851",38.7,+/-1.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",27,"Now married, except separated","135,717","+/-4,819",44.0,+/-1.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",28,Separated,"5,728","+/-1,439",1.9,+/-0.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",29,Widowed,"8,738","+/-1,669",2.8,+/-0.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",30,Divorced,"39,093","+/-3,032",12.7,+/-0.9
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",30.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",31,Females 15 years and over,"306,034","+/-7,390","306,034",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",32,Never married,"106,575","+/-4,595",34.8,+/-1.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",33,"Now married, except separated","128,328","+/-4,968",41.9,+/-1.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",34,Separated,"6,426","+/-1,365",2.1,+/-0.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",35,Widowed,"22,944","+/-2,121",7.5,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",36,Divorced,"41,761","+/-2,916",13.6,+/-0.9
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",36.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",36.5,FERTILITY,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"10,133","+/-1,929","10,133",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",38,"Unmarried women (widowed, divorced, and never married)","4,740","+/-1,239",46.8,+/-9.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",39,"Per 1,000 unmarried women",43,+/-11,(X),(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",40,"Per 1,000 women 15 to 50 years old",56,+/-11,(X),(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",41,"Per 1,000 women 15 to 19 years old",22,+/-19,(X),(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",42,"Per 1,000 women 20 to 34 years old",86,+/-19,(X),(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",43,"Per 1,000 women 35 to 50 years old",39,+/-12,(X),(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",43.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",43.5,GRANDPARENTS,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",44,Number of grandparents living with own grandchildren under 18 years,"18,121","+/-2,723","18,121",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",45,Grandparents responsible for grandchildren,"4,359","+/-1,493",24.1,+/-7.0
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",46,Less than 1 year,723,+/-463,4.0,+/-2.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",47,1 or 2 years,902,+/-530,5.0,+/-3.0
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",48,3 or 4 years,598,+/-395,3.3,+/-2.0
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",49,5 or more years,"2,136","+/-1,190",11.8,+/-6.0
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",49.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",50,Number of grandparents responsible for own grandchildren under 18 years,"4,359","+/-1,493","4,359",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",51,Who are female,"2,699",+/-863,61.9,+/-7.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",52,Who are married,"3,134","+/-1,373",71.9,+/-12.0
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",52.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",53,Population 3 years and over enrolled in school,"176,923","+/-7,240","176,923",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",54,"Nursery school, preschool","4,254","+/-1,150",2.4,+/-0.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",55,Kindergarten,"8,789","+/-1,730",5.0,+/-1.0
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",56,Elementary school (grades 1-8),"79,302","+/-5,189",44.8,+/-2.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",57,High school (grades 9-12),"42,643","+/-3,455",24.1,+/-1.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",58,College or graduate school,"41,935","+/-3,880",23.7,+/-2.0
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",58.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",59,Population 25 years and over,"519,318","+/-10,138","519,318",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",60,Less than 9th grade,"38,471","+/-4,021",7.4,+/-0.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",61,"9th to 12th grade, no diploma","42,183","+/-4,045",8.1,+/-0.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",62,High school graduate (includes equivalency),"151,503","+/-7,197",29.2,+/-1.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",63,"Some college, no degree","119,435","+/-6,198",23.0,+/-1.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",64,Associate's degree,"42,909","+/-3,341",8.3,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",65,Bachelor's degree,"81,483","+/-4,387",15.7,+/-0.9
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",66,Graduate or professional degree,"43,334","+/-4,121",8.3,+/-0.8
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",66.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",67,High school graduate or higher,"438,664","+/-9,542",84.5,+/-1.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",68,Bachelor's degree or higher,"124,817","+/-5,904",24.0,+/-1.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",68.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",68.5,VETERAN STATUS,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",69,Civilian population 18 years and over,"581,679","+/-11,836","581,679",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",70,Civilian veterans,"46,098","+/-3,557",7.9,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",70.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",71,Total Civilian Noninstitutionalized Population,"753,252","+/-14,253","753,252",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",72,With a disability,"111,119","+/-7,376",14.8,+/-0.9
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",72.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",73,Under 18 years,"172,977","+/-7,145","172,977",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",74,With a disability,"8,824","+/-1,869",5.1,+/-1.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",74.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",75,18 to 64 years,"454,626","+/-11,034","454,626",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",76,With a disability,"57,695","+/-4,471",12.7,+/-0.9
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",76.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",77,65 years and over,"125,649","+/-5,085","125,649",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",78,With a disability,"44,600","+/-3,337",35.5,+/-2.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",78.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",79,Population 1 year and over,"748,449","+/-14,520","748,449",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",80,Same house,"645,468","+/-17,452",86.2,+/-1.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",81,Different house (in the U.S. or abroad),"102,981","+/-10,462",13.8,+/-1.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",82,Different house in the U.S.,"100,805","+/-10,302",13.5,+/-1.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",83,Same county,"63,770","+/-7,366",8.5,+/-1.0
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",84,Different county,"37,035","+/-6,331",4.9,+/-0.9
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",85,Same state,"1,637",+/-920,0.2,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",86,Different state,"35,398","+/-6,309",4.7,+/-0.8
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",87,Abroad,"2,176","+/-1,084",0.3,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",87.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",88,Total population,"757,119","+/-14,104","757,119",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",89,Native,"592,824","+/-13,954",78.3,+/-1.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",90,Born in United States,"580,409","+/-13,856",76.7,+/-1.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",91,State of residence,"189,090","+/-8,069",25.0,+/-0.9
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",92,Different state,"391,319","+/-12,081",51.7,+/-1.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","12,415","+/-2,666",1.6,+/-0.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",94,Foreign born,"164,295","+/-9,756",21.7,+/-1.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",94.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",95,Foreign-born population,"164,295","+/-9,756","164,295",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",96,Naturalized U.S. citizen,"80,378","+/-6,101",48.9,+/-2.8
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",97,Not a U.S. citizen,"83,917","+/-7,300",51.1,+/-2.8
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",97.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",98,Population born outside the United States,"176,710","+/-10,275","176,710",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",98.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",99,Native,"12,415","+/-2,666","12,415",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",100,Entered 2010 or later,"3,559","+/-1,674",28.7,+/-9.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",101,Entered before 2010,"8,856","+/-1,710",71.3,+/-9.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",101.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",102,Foreign born,"164,295","+/-9,756","164,295",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",103,Entered 2010 or later,"30,521","+/-4,397",18.6,+/-2.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",104,Entered before 2010,"133,774","+/-7,648",81.4,+/-2.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",104.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",105,"Foreign-born population, excluding population born at sea","164,295","+/-9,756","164,295",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",106,Europe,"9,363","+/-1,900",5.7,+/-1.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",107,Asia,"42,757","+/-5,088",26.0,+/-2.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",108,Africa,"2,989","+/-1,336",1.8,+/-0.8
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",109,Oceania,"1,234",+/-847,0.8,+/-0.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",110,Latin America,"105,138","+/-6,821",64.0,+/-2.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",111,Northern America,"2,814",+/-782,1.7,+/-0.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",111.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",112,Population 5 years and over,"714,734","+/-13,943","714,734",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",113,English only,"464,138","+/-12,801",64.9,+/-1.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",114,Language other than English,"250,596","+/-13,065",35.1,+/-1.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",115,"Speak English less than ""very well""","101,441","+/-6,930",14.2,+/-0.9
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",116,Spanish,"191,998","+/-11,862",26.9,+/-1.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",117,"Speak English less than ""very well""","80,216","+/-6,261",11.2,+/-0.8
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",118,Other Indo-European languages,"15,451","+/-2,774",2.2,+/-0.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",119,"Speak English less than ""very well""","4,389","+/-1,171",0.6,+/-0.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",120,Asian and Pacific Islander languages,"37,765","+/-4,169",5.3,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",121,"Speak English less than ""very well""","14,285","+/-2,343",2.0,+/-0.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",122,Other languages,"5,382","+/-1,724",0.8,+/-0.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",123,"Speak English less than ""very well""","2,551","+/-1,372",0.4,+/-0.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",123.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",123.5,ANCESTRY,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",124,Total population,"757,119","+/-14,104","757,119",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",125,American,"20,443","+/-3,644",2.7,+/-0.5
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",126,Arab,"4,932","+/-1,613",0.7,+/-0.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",127,Czech,798,+/-455,0.1,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",128,Danish,"4,135","+/-2,174",0.5,+/-0.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",129,Dutch,"3,211",+/-940,0.4,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",130,English,"56,071","+/-5,092",7.4,+/-0.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",131,French (except Basque),"9,954","+/-2,096",1.3,+/-0.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",132,French Canadian,"2,197",+/-818,0.3,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",133,German,"60,026","+/-4,922",7.9,+/-0.7
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",134,Greek,"2,365","+/-1,003",0.3,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",135,Hungarian,"1,865",+/-608,0.2,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",136,Irish,"48,491","+/-4,635",6.4,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",137,Italian,"32,852","+/-4,497",4.3,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",138,Lithuanian,"1,196",+/-622,0.2,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",139,Norwegian,"6,287","+/-1,493",0.8,+/-0.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",140,Polish,"13,683","+/-3,321",1.8,+/-0.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",141,Portuguese,"2,465",+/-997,0.3,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",142,Russian,"5,833","+/-2,244",0.8,+/-0.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",143,Scotch-Irish,"4,003","+/-1,106",0.5,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",144,Scottish,"6,546","+/-1,371",0.9,+/-0.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",145,Slovak,683,+/-498,0.1,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",146,Subsaharan African,"8,688","+/-2,912",1.1,+/-0.4
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",147,Swedish,"4,884","+/-1,267",0.6,+/-0.2
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",148,Swiss,"2,051",+/-914,0.3,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",149,Ukrainian,997,+/-543,0.1,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",150,Welsh,"1,535",+/-500,0.2,+/-0.1
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",151,West Indian (excluding Hispanic origin groups),"3,362","+/-1,938",0.4,+/-0.3
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",151.3,,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",152,Total households,"284,998","+/-5,041","284,998",(X)
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",153,With a computer,"271,496","+/-5,132",95.3,+/-0.6
+DP02,5001800US3201,"Congressional District 1 (118th Congress), Nevada",154,With a broadband Internet subscription,"250,309","+/-5,692",87.8,+/-1.0
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",0.5,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",1,Total households,"310,401","+/-3,223","310,401",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",2,Married-couple household,"143,410","+/-4,640",46.2,+/-1.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",3,With children of the householder under 18 years,"54,545","+/-3,900",17.6,+/-1.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",4,Cohabiting couple household,"29,564","+/-2,951",9.5,+/-0.9
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",5,With children of the householder under 18 years,"8,700","+/-1,437",2.8,+/-0.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",6,"Male householder, no spouse/partner present","65,074","+/-2,851",21.0,+/-1.0
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",7,With children of the householder under 18 years,"5,877","+/-1,460",1.9,+/-0.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",8,Householder living alone,"43,549","+/-2,818",14.0,+/-0.9
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",9,65 years and over,"14,598","+/-1,839",4.7,+/-0.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",10,"Female householder, no spouse/partner present","72,353","+/-3,939",23.3,+/-1.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",11,With children of the householder under 18 years,"11,798","+/-2,225",3.8,+/-0.7
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",12,Householder living alone,"43,128","+/-2,594",13.9,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",13,65 years and over,"22,966","+/-1,822",7.4,+/-0.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",13.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",14,Households with one or more people under 18 years,"89,643","+/-4,117",28.9,+/-1.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",15,Households with one or more people 65 years and over,"105,056","+/-2,406",33.8,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",15.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",16,Average household size,2.49,+/-0.02,(X),(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",17,Average family size,3.04,+/-0.06,(X),(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",17.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",17.5,RELATIONSHIP,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",18,Population in households,"771,874","+/-3,589","771,874",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",19,Householder,"310,401","+/-3,223",40.2,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",20,Spouse,"143,145","+/-4,686",18.5,+/-0.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",21,Unmarried partner,"29,718","+/-2,918",3.9,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",22,Child,"202,673","+/-5,659",26.3,+/-0.7
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",23,Other relatives,"49,534","+/-4,453",6.4,+/-0.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",24,Other nonrelatives,"36,403","+/-5,609",4.7,+/-0.7
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",24.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",24.5,MARITAL STATUS,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",25,Males 15 years and over,"334,061","+/-2,113","334,061",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",26,Never married,"124,685","+/-5,145",37.3,+/-1.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",27,"Now married, except separated","157,057","+/-5,123",47.0,+/-1.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",28,Separated,"3,150",+/-982,0.9,+/-0.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",29,Widowed,"8,421","+/-1,302",2.5,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",30,Divorced,"40,748","+/-3,376",12.2,+/-1.0
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",30.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",31,Females 15 years and over,"315,191","+/-1,529","315,191",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",32,Never married,"87,211","+/-3,922",27.7,+/-1.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",33,"Now married, except separated","150,157","+/-5,156",47.6,+/-1.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",34,Separated,"4,524","+/-1,407",1.4,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",35,Widowed,"26,607","+/-2,384",8.4,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",36,Divorced,"46,692","+/-3,461",14.8,+/-1.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",36.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",36.5,FERTILITY,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,564","+/-1,811","8,564",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",38,"Unmarried women (widowed, divorced, and never married)","2,871","+/-1,023",33.5,+/-10.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",39,"Per 1,000 unmarried women",30,+/-10,(X),(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",40,"Per 1,000 women 15 to 50 years old",50,+/-11,(X),(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",41,"Per 1,000 women 15 to 19 years old",0,+/-10,(X),(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",42,"Per 1,000 women 20 to 34 years old",73,+/-19,(X),(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",43,"Per 1,000 women 35 to 50 years old",41,+/-15,(X),(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",43.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",43.5,GRANDPARENTS,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",44,Number of grandparents living with own grandchildren under 18 years,"14,785","+/-2,653","14,785",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",45,Grandparents responsible for grandchildren,"4,597","+/-1,345",31.1,+/-7.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",46,Less than 1 year,758,+/-489,5.1,+/-3.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",47,1 or 2 years,651,+/-452,4.4,+/-3.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",48,3 or 4 years,460,+/-345,3.1,+/-2.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",49,5 or more years,"2,728","+/-1,002",18.5,+/-5.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",49.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",50,Number of grandparents responsible for own grandchildren under 18 years,"4,597","+/-1,345","4,597",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",51,Who are female,"2,517",+/-752,54.8,+/-10.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",52,Who are married,"2,829","+/-1,095",61.5,+/-13.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",52.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",53,Population 3 years and over enrolled in school,"178,195","+/-4,205","178,195",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",54,"Nursery school, preschool","8,077","+/-1,438",4.5,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",55,Kindergarten,"8,166","+/-1,624",4.6,+/-0.9
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",56,Elementary school (grades 1-8),"74,738","+/-2,724",41.9,+/-1.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",57,High school (grades 9-12),"38,924","+/-2,632",21.8,+/-1.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",58,College or graduate school,"48,290","+/-3,300",27.1,+/-1.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",58.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",59,Population 25 years and over,"555,324","+/-2,584","555,324",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",60,Less than 9th grade,"27,537","+/-3,052",5.0,+/-0.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",61,"9th to 12th grade, no diploma","35,232","+/-3,559",6.3,+/-0.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",62,High school graduate (includes equivalency),"145,146","+/-6,171",26.1,+/-1.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",63,"Some college, no degree","131,571","+/-5,785",23.7,+/-1.0
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",64,Associate's degree,"52,572","+/-4,009",9.5,+/-0.7
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",65,Bachelor's degree,"98,546","+/-5,612",17.7,+/-1.0
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",66,Graduate or professional degree,"64,720","+/-4,498",11.7,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",66.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",67,High school graduate or higher,"492,555","+/-5,781",88.7,+/-0.9
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",68,Bachelor's degree or higher,"163,266","+/-6,641",29.4,+/-1.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",68.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",68.5,VETERAN STATUS,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",69,Civilian population 18 years and over,"617,439","+/-1,866","617,439",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",70,Civilian veterans,"52,293","+/-2,756",8.5,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",70.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",71,Total Civilian Noninstitutionalized Population,"774,053","+/-3,480","774,053",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",72,With a disability,"106,520","+/-6,428",13.8,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",72.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",73,Under 18 years,"165,307","+/-1,172","165,307",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",74,With a disability,"7,416","+/-1,528",4.5,+/-0.9
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",74.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",75,18 to 64 years,"463,982","+/-2,910","463,982",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",76,With a disability,"50,931","+/-5,054",11.0,+/-1.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",76.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",77,65 years and over,"144,764","+/-1,497","144,764",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",78,With a disability,"48,173","+/-2,949",33.3,+/-2.0
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",78.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",79,Population 1 year and over,"779,917","+/-2,563","779,917",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",80,Same house,"671,661","+/-9,050",86.1,+/-1.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",81,Different house (in the U.S. or abroad),"108,256","+/-8,434",13.9,+/-1.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",82,Different house in the U.S.,"105,240","+/-8,287",13.5,+/-1.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",83,Same county,"62,141","+/-7,183",8.0,+/-0.9
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",84,Different county,"43,099","+/-4,653",5.5,+/-0.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",85,Same state,"16,773","+/-2,877",2.2,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",86,Different state,"26,326","+/-4,079",3.4,+/-0.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",87,Abroad,"3,016","+/-1,514",0.4,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",87.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",88,Total population,"785,611","+/-2,162","785,611",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",89,Native,"697,771","+/-6,115",88.8,+/-0.7
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",90,Born in United States,"686,967","+/-5,720",87.4,+/-0.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",91,State of residence,"266,052","+/-8,250",33.9,+/-1.0
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",92,Different state,"420,915","+/-9,417",53.6,+/-1.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","10,804","+/-1,841",1.4,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",94,Foreign born,"87,840","+/-5,470",11.2,+/-0.7
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",94.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",95,Foreign-born population,"87,840","+/-5,470","87,840",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",96,Naturalized U.S. citizen,"44,581","+/-3,348",50.8,+/-3.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",97,Not a U.S. citizen,"43,259","+/-4,708",49.2,+/-3.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",97.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",98,Population born outside the United States,"98,644","+/-5,026","98,644",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",98.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",99,Native,"10,804","+/-1,841","10,804",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",100,Entered 2010 or later,"1,028",+/-648,9.5,+/-5.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",101,Entered before 2010,"9,776","+/-1,646",90.5,+/-5.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",101.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",102,Foreign born,"87,840","+/-5,470","87,840",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",103,Entered 2010 or later,"20,420","+/-3,502",23.2,+/-3.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",104,Entered before 2010,"67,420","+/-4,590",76.8,+/-3.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",104.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",105,"Foreign-born population, excluding population born at sea","87,840","+/-5,470","87,840",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",106,Europe,"7,262","+/-1,317",8.3,+/-1.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",107,Asia,"24,117","+/-2,393",27.5,+/-2.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",108,Africa,"2,861","+/-1,678",3.3,+/-1.9
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",109,Oceania,"1,464",+/-660,1.7,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",110,Latin America,"49,476","+/-4,115",56.3,+/-2.9
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",111,Northern America,"2,660",+/-761,3.0,+/-0.9
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",111.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",112,Population 5 years and over,"744,556","+/-2,327","744,556",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",113,English only,"619,563","+/-6,539",83.2,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",114,Language other than English,"124,993","+/-6,256",16.8,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",115,"Speak English less than ""very well""","39,458","+/-4,073",5.3,+/-0.5
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",116,Spanish,"86,171","+/-4,918",11.6,+/-0.7
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",117,"Speak English less than ""very well""","27,206","+/-3,329",3.7,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",118,Other Indo-European languages,"12,387","+/-2,735",1.7,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",119,"Speak English less than ""very well""","2,094",+/-822,0.3,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",120,Asian and Pacific Islander languages,"21,598","+/-2,590",2.9,+/-0.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",121,"Speak English less than ""very well""","8,597","+/-1,839",1.2,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",122,Other languages,"4,837","+/-1,916",0.6,+/-0.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",123,"Speak English less than ""very well""","1,561","+/-1,091",0.2,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",123.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",123.5,ANCESTRY,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",124,Total population,"785,611","+/-2,162","785,611",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",125,American,"33,357","+/-5,535",4.2,+/-0.7
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",126,Arab,"2,286","+/-1,423",0.3,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",127,Czech,"2,500",+/-899,0.3,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",128,Danish,"5,653","+/-1,293",0.7,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",129,Dutch,"8,106","+/-1,866",1.0,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",130,English,"97,009","+/-6,375",12.3,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",131,French (except Basque),"17,402","+/-2,728",2.2,+/-0.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",132,French Canadian,"2,805",+/-827,0.4,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",133,German,"97,117","+/-6,520",12.4,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",134,Greek,"3,003","+/-1,071",0.4,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",135,Hungarian,"2,111",+/-810,0.3,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",136,Irish,"87,380","+/-6,519",11.1,+/-0.8
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",137,Italian,"42,690","+/-5,525",5.4,+/-0.7
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",138,Lithuanian,"1,215",+/-606,0.2,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",139,Norwegian,"14,757","+/-2,487",1.9,+/-0.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",140,Polish,"13,890","+/-2,868",1.8,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",141,Portuguese,"4,807","+/-1,190",0.6,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",142,Russian,"4,439","+/-1,683",0.6,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",143,Scotch-Irish,"5,832","+/-1,594",0.7,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",144,Scottish,"18,173","+/-3,173",2.3,+/-0.4
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",145,Slovak,583,+/-374,0.1,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",146,Subsaharan African,"3,680","+/-1,384",0.5,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",147,Swedish,"8,736","+/-1,773",1.1,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",148,Swiss,"3,339","+/-2,054",0.4,+/-0.3
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",149,Ukrainian,"1,293",+/-581,0.2,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",150,Welsh,"5,907","+/-1,691",0.8,+/-0.2
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",151,West Indian (excluding Hispanic origin groups),906,+/-743,0.1,+/-0.1
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",151.3,,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",152,Total households,"310,401","+/-3,223","310,401",(X)
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",153,With a computer,"297,763","+/-3,655",95.9,+/-0.6
+DP02,5001800US3202,"Congressional District 2 (118th Congress), Nevada",154,With a broadband Internet subscription,"275,477","+/-4,206",88.7,+/-1.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",0.5,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",1,Total households,"317,951","+/-6,192","317,951",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",2,Married-couple household,"131,782","+/-5,177",41.4,+/-1.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",3,With children of the householder under 18 years,"51,419","+/-3,568",16.2,+/-1.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",4,Cohabiting couple household,"31,232","+/-3,447",9.8,+/-1.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",5,With children of the householder under 18 years,"9,540","+/-1,953",3.0,+/-0.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",6,"Male householder, no spouse/partner present","66,885","+/-4,026",21.0,+/-1.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",7,With children of the householder under 18 years,"4,174","+/-1,194",1.3,+/-0.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",8,Householder living alone,"46,594","+/-3,649",14.7,+/-1.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",9,65 years and over,"11,464","+/-1,466",3.6,+/-0.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",10,"Female householder, no spouse/partner present","88,052","+/-4,868",27.7,+/-1.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",11,With children of the householder under 18 years,"13,094","+/-2,513",4.1,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",12,Householder living alone,"49,584","+/-4,335",15.6,+/-1.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",13,65 years and over,"19,506","+/-1,943",6.1,+/-0.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",13.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",14,Households with one or more people under 18 years,"84,882","+/-4,379",26.7,+/-1.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",15,Households with one or more people 65 years and over,"93,052","+/-3,968",29.3,+/-1.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",15.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",16,Average household size,2.53,+/-0.05,(X),(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",17,Average family size,3.21,+/-0.06,(X),(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",17.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",17.5,RELATIONSHIP,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",18,Population in households,"805,351","+/-17,089","805,351",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",19,Householder,"317,951","+/-6,192",39.5,+/-0.7
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",20,Spouse,"132,356","+/-5,079",16.4,+/-0.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",21,Unmarried partner,"31,124","+/-3,383",3.9,+/-0.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",22,Child,"219,988","+/-9,303",27.3,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",23,Other relatives,"70,569","+/-6,625",8.8,+/-0.7
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",24,Other nonrelatives,"33,363","+/-4,864",4.1,+/-0.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",24.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",24.5,MARITAL STATUS,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",25,Males 15 years and over,"326,919","+/-7,888","326,919",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",26,Never married,"123,845","+/-7,288",37.9,+/-1.9
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",27,"Now married, except separated","150,000","+/-5,644",45.9,+/-1.7
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",28,Separated,"4,887","+/-1,338",1.5,+/-0.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",29,Widowed,"8,874","+/-1,645",2.7,+/-0.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",30,Divorced,"39,313","+/-4,337",12.0,+/-1.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",30.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",31,Females 15 years and over,"336,718","+/-8,199","336,718",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",32,Never married,"104,592","+/-5,830",31.1,+/-1.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",33,"Now married, except separated","147,678","+/-5,882",43.9,+/-1.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",34,Separated,"6,558","+/-1,895",1.9,+/-0.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",35,Widowed,"29,510","+/-3,303",8.8,+/-0.9
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",36,Divorced,"48,380","+/-3,304",14.4,+/-1.0
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",36.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",36.5,FERTILITY,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"10,683","+/-2,085","10,683",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",38,"Unmarried women (widowed, divorced, and never married)","2,994","+/-1,084",28.0,+/-9.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",39,"Per 1,000 unmarried women",26,+/-9,(X),(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",40,"Per 1,000 women 15 to 50 years old",55,+/-11,(X),(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",41,"Per 1,000 women 15 to 19 years old",13,+/-16,(X),(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",42,"Per 1,000 women 20 to 34 years old",82,+/-19,(X),(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",43,"Per 1,000 women 35 to 50 years old",39,+/-13,(X),(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",43.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",43.5,GRANDPARENTS,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",44,Number of grandparents living with own grandchildren under 18 years,"19,795","+/-3,009","19,795",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",45,Grandparents responsible for grandchildren,"3,857","+/-1,478",19.5,+/-6.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",46,Less than 1 year,"1,060",+/-729,5.4,+/-3.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",47,1 or 2 years,"1,331","+/-1,061",6.7,+/-5.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",48,3 or 4 years,389,+/-389,2.0,+/-1.9
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",49,5 or more years,"1,077",+/-520,5.4,+/-2.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",49.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",50,Number of grandparents responsible for own grandchildren under 18 years,"3,857","+/-1,478","3,857",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",51,Who are female,"3,015","+/-1,037",78.2,+/-11.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",52,Who are married,"2,146","+/-1,176",55.6,+/-17.7
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",52.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",53,Population 3 years and over enrolled in school,"170,574","+/-8,590","170,574",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",54,"Nursery school, preschool","7,795","+/-1,903",4.6,+/-1.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",55,Kindergarten,"8,816","+/-2,026",5.2,+/-1.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",56,Elementary school (grades 1-8),"69,278","+/-5,473",40.6,+/-2.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",57,High school (grades 9-12),"36,442","+/-3,563",21.4,+/-1.7
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",58,College or graduate school,"48,243","+/-4,336",28.3,+/-2.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",58.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",59,Population 25 years and over,"579,622","+/-11,794","579,622",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",60,Less than 9th grade,"22,563","+/-3,121",3.9,+/-0.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",61,"9th to 12th grade, no diploma","26,245","+/-3,738",4.5,+/-0.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",62,High school graduate (includes equivalency),"136,463","+/-8,436",23.5,+/-1.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",63,"Some college, no degree","134,950","+/-8,414",23.3,+/-1.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",64,Associate's degree,"54,703","+/-4,891",9.4,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",65,Bachelor's degree,"136,620","+/-7,798",23.6,+/-1.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",66,Graduate or professional degree,"68,078","+/-4,375",11.7,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",66.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",67,High school graduate or higher,"530,814","+/-11,314",91.6,+/-0.9
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",68,Bachelor's degree or higher,"204,698","+/-8,675",35.3,+/-1.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",68.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",68.5,VETERAN STATUS,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",69,Civilian population 18 years and over,"638,457","+/-13,136","638,457",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",70,Civilian veterans,"41,830","+/-3,495",6.6,+/-0.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",70.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",71,Total Civilian Noninstitutionalized Population,"804,711","+/-17,042","804,711",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",72,With a disability,"89,483","+/-7,242",11.1,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",72.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",73,Under 18 years,"166,976","+/-8,317","166,976",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",74,With a disability,"6,334","+/-1,946",3.8,+/-1.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",74.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",75,18 to 64 years,"508,984","+/-11,586","508,984",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",76,With a disability,"41,910","+/-4,865",8.2,+/-0.9
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",76.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",77,65 years and over,"128,751","+/-5,290","128,751",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",78,With a disability,"41,239","+/-3,592",32.0,+/-2.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",78.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",79,Population 1 year and over,"794,442","+/-17,120","794,442",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",80,Same house,"661,304","+/-18,955",83.2,+/-1.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",81,Different house (in the U.S. or abroad),"133,138","+/-11,913",16.8,+/-1.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",82,Different house in the U.S.,"131,083","+/-11,733",16.5,+/-1.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",83,Same county,"90,762","+/-9,357",11.4,+/-1.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",84,Different county,"40,321","+/-6,220",5.1,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",85,Same state,687,+/-471,0.1,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",86,Different state,"39,634","+/-6,233",5.0,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",87,Abroad,"2,055",+/-975,0.3,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",87.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",88,Total population,"806,554","+/-16,978","806,554",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",89,Native,"623,845","+/-16,583",77.3,+/-1.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",90,Born in United States,"602,181","+/-16,276",74.7,+/-1.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",91,State of residence,"181,250","+/-11,435",22.5,+/-1.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",92,Different state,"420,931","+/-14,488",52.2,+/-1.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","21,664","+/-3,666",2.7,+/-0.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",94,Foreign born,"182,709","+/-8,971",22.7,+/-1.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",94.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",95,Foreign-born population,"182,709","+/-8,971","182,709",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",96,Naturalized U.S. citizen,"120,397","+/-7,253",65.9,+/-2.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",97,Not a U.S. citizen,"62,312","+/-5,291",34.1,+/-2.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",97.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",98,Population born outside the United States,"204,373","+/-10,147","204,373",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",98.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",99,Native,"21,664","+/-3,666","21,664",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",100,Entered 2010 or later,"5,988","+/-1,765",27.6,+/-6.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",101,Entered before 2010,"15,676","+/-2,765",72.4,+/-6.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",101.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",102,Foreign born,"182,709","+/-8,971","182,709",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",103,Entered 2010 or later,"41,399","+/-4,791",22.7,+/-2.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",104,Entered before 2010,"141,310","+/-6,950",77.3,+/-2.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",104.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",105,"Foreign-born population, excluding population born at sea","182,709","+/-8,971","182,709",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",106,Europe,"16,795","+/-2,597",9.2,+/-1.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",107,Asia,"97,103","+/-6,539",53.1,+/-2.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",108,Africa,"11,187","+/-3,014",6.1,+/-1.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",109,Oceania,"2,256","+/-1,314",1.2,+/-0.7
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",110,Latin America,"50,868","+/-5,146",27.8,+/-2.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",111,Northern America,"4,500","+/-1,571",2.5,+/-0.9
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",111.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",112,Population 5 years and over,"757,584","+/-16,584","757,584",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",113,English only,"521,223","+/-15,229",68.8,+/-1.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",114,Language other than English,"236,361","+/-12,270",31.2,+/-1.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",115,"Speak English less than ""very well""","83,634","+/-5,782",11.0,+/-0.7
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",116,Spanish,"97,988","+/-8,274",12.9,+/-1.0
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",117,"Speak English less than ""very well""","29,352","+/-4,017",3.9,+/-0.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",118,Other Indo-European languages,"29,479","+/-5,302",3.9,+/-0.7
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",119,"Speak English less than ""very well""","8,029","+/-1,925",1.1,+/-0.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",120,Asian and Pacific Islander languages,"93,562","+/-6,318",12.4,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",121,"Speak English less than ""very well""","40,751","+/-3,858",5.4,+/-0.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",122,Other languages,"15,332","+/-3,748",2.0,+/-0.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",123,"Speak English less than ""very well""","5,502","+/-1,907",0.7,+/-0.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",123.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",123.5,ANCESTRY,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",124,Total population,"806,554","+/-16,978","806,554",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",125,American,"20,828","+/-4,100",2.6,+/-0.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",126,Arab,"9,091","+/-4,057",1.1,+/-0.5
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",127,Czech,"1,264",+/-556,0.2,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",128,Danish,"4,089","+/-2,192",0.5,+/-0.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",129,Dutch,"4,641","+/-1,324",0.6,+/-0.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",130,English,"61,143","+/-6,508",7.6,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",131,French (except Basque),"11,843","+/-2,618",1.5,+/-0.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",132,French Canadian,"2,280","+/-1,013",0.3,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",133,German,"77,181","+/-8,846",9.6,+/-1.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",134,Greek,"2,505",+/-767,0.3,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",135,Hungarian,"3,730","+/-1,847",0.5,+/-0.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",136,Irish,"59,955","+/-6,411",7.4,+/-0.8
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",137,Italian,"45,409","+/-5,367",5.6,+/-0.7
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",138,Lithuanian,"1,376",+/-719,0.2,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",139,Norwegian,"7,892","+/-2,133",1.0,+/-0.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",140,Polish,"11,711","+/-2,197",1.5,+/-0.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",141,Portuguese,"4,483","+/-1,516",0.6,+/-0.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",142,Russian,"7,185","+/-1,632",0.9,+/-0.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",143,Scotch-Irish,"2,497",+/-822,0.3,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",144,Scottish,"8,626","+/-2,023",1.1,+/-0.3
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",145,Slovak,"1,019",+/-608,0.1,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",146,Subsaharan African,"17,734","+/-4,715",2.2,+/-0.6
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",147,Swedish,"6,628","+/-1,459",0.8,+/-0.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",148,Swiss,884,+/-412,0.1,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",149,Ukrainian,"1,981","+/-1,021",0.2,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",150,Welsh,"1,843",+/-642,0.2,+/-0.1
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",151,West Indian (excluding Hispanic origin groups),"3,414","+/-1,414",0.4,+/-0.2
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",151.3,,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",152,Total households,"317,951","+/-6,192","317,951",(X)
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",153,With a computer,"311,340","+/-6,204",97.9,+/-0.4
+DP02,5001800US3203,"Congressional District 3 (118th Congress), Nevada",154,With a broadband Internet subscription,"298,385","+/-6,800",93.8,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",0.5,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",1,Total households,"278,030","+/-6,403","278,030",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",2,Married-couple household,"127,899","+/-5,752",46.0,+/-1.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",3,With children of the householder under 18 years,"47,698","+/-3,554",17.2,+/-1.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",4,Cohabiting couple household,"22,577","+/-2,297",8.1,+/-0.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",5,With children of the householder under 18 years,"8,858","+/-1,668",3.2,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",6,"Male householder, no spouse/partner present","54,060","+/-3,463",19.4,+/-1.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",7,With children of the householder under 18 years,"5,337","+/-1,545",1.9,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",8,Householder living alone,"34,403","+/-3,013",12.4,+/-1.0
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",9,65 years and over,"10,723","+/-1,531",3.9,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",10,"Female householder, no spouse/partner present","73,494","+/-4,127",26.4,+/-1.4
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",11,With children of the householder under 18 years,"17,124","+/-2,443",6.2,+/-0.9
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",12,Householder living alone,"34,690","+/-3,149",12.5,+/-1.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",13,65 years and over,"15,651","+/-1,996",5.6,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",13.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",14,Households with one or more people under 18 years,"92,228","+/-4,518",33.2,+/-1.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",15,Households with one or more people 65 years and over,"84,338","+/-3,547",30.3,+/-1.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",15.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",16,Average household size,2.80,+/-0.05,(X),(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",17,Average family size,3.37,+/-0.07,(X),(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",17.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",17.5,RELATIONSHIP,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",18,Population in households,"778,963","+/-16,654","778,963",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",19,Householder,"278,030","+/-6,403",35.7,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",20,Spouse,"127,390","+/-5,713",16.4,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",21,Unmarried partner,"23,202","+/-2,359",3.0,+/-0.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",22,Child,"239,041","+/-9,715",30.7,+/-0.9
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",23,Other relatives,"78,143","+/-6,972",10.0,+/-0.9
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",24,Other nonrelatives,"33,157","+/-4,540",4.3,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",24.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",24.5,MARITAL STATUS,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",25,Males 15 years and over,"320,497","+/-7,715","320,497",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",26,Never married,"126,206","+/-6,066",39.4,+/-1.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",27,"Now married, except separated","145,879","+/-6,048",45.5,+/-1.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",28,Separated,"6,534","+/-1,279",2.0,+/-0.4
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",29,Widowed,"10,057","+/-1,805",3.1,+/-0.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",30,Divorced,"31,821","+/-3,325",9.9,+/-1.0
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",30.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",31,Females 15 years and over,"319,433","+/-8,133","319,433",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",32,Never married,"105,554","+/-6,264",33.0,+/-1.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",33,"Now married, except separated","142,238","+/-6,637",44.5,+/-1.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",34,Separated,"7,997","+/-1,487",2.5,+/-0.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",35,Widowed,"22,890","+/-2,171",7.2,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",36,Divorced,"40,754","+/-3,494",12.8,+/-1.0
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",36.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",36.5,FERTILITY,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,872","+/-1,403","7,872",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",38,"Unmarried women (widowed, divorced, and never married)","3,030",+/-959,38.5,+/-10.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",39,"Per 1,000 unmarried women",27,+/-9,(X),(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",40,"Per 1,000 women 15 to 50 years old",42,+/-7,(X),(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",41,"Per 1,000 women 15 to 19 years old",9,+/-9,(X),(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",42,"Per 1,000 women 20 to 34 years old",71,+/-16,(X),(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",43,"Per 1,000 women 35 to 50 years old",25,+/-9,(X),(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",43.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",43.5,GRANDPARENTS,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",44,Number of grandparents living with own grandchildren under 18 years,"26,083","+/-4,054","26,083",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",45,Grandparents responsible for grandchildren,"6,426","+/-1,880",24.6,+/-6.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",46,Less than 1 year,"1,467",+/-921,5.6,+/-3.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",47,1 or 2 years,699,+/-467,2.7,+/-1.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",48,3 or 4 years,518,+/-569,2.0,+/-2.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",49,5 or more years,"3,742","+/-1,351",14.3,+/-5.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",49.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",50,Number of grandparents responsible for own grandchildren under 18 years,"6,426","+/-1,880","6,426",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",51,Who are female,"3,691","+/-1,065",57.4,+/-11.4
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",52,Who are married,"3,639","+/-1,349",56.6,+/-13.0
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",52.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",53,Population 3 years and over enrolled in school,"183,721","+/-8,721","183,721",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",54,"Nursery school, preschool","5,380","+/-1,416",2.9,+/-0.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",55,Kindergarten,"9,346","+/-2,213",5.1,+/-1.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",56,Elementary school (grades 1-8),"87,196","+/-4,789",47.5,+/-1.9
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",57,High school (grades 9-12),"46,512","+/-3,729",25.3,+/-1.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",58,College or graduate school,"35,287","+/-3,229",19.2,+/-1.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",58.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",59,Population 25 years and over,"538,562","+/-11,780","538,562",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",60,Less than 9th grade,"40,537","+/-3,635",7.5,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",61,"9th to 12th grade, no diploma","48,885","+/-4,344",9.1,+/-0.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",62,High school graduate (includes equivalency),"164,273","+/-8,546",30.5,+/-1.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",63,"Some college, no degree","126,570","+/-6,861",23.5,+/-1.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",64,Associate's degree,"46,452","+/-4,076",8.6,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",65,Bachelor's degree,"76,559","+/-5,783",14.2,+/-1.0
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",66,Graduate or professional degree,"35,286","+/-3,460",6.6,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",66.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",67,High school graduate or higher,"449,140","+/-12,267",83.4,+/-1.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",68,Bachelor's degree or higher,"111,845","+/-6,897",20.8,+/-1.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",68.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",68.5,VETERAN STATUS,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",69,Civilian population 18 years and over,"595,761","+/-12,417","595,761",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",70,Civilian veterans,"53,119","+/-3,952",8.9,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",70.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",71,Total Civilian Noninstitutionalized Population,"773,744","+/-16,745","773,744",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",72,With a disability,"98,830","+/-5,341",12.8,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",72.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",73,Under 18 years,"191,522","+/-9,055","191,522",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",74,With a disability,"6,984","+/-1,545",3.6,+/-0.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",74.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",75,18 to 64 years,"465,866","+/-12,278","465,866",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",76,With a disability,"52,203","+/-3,984",11.2,+/-0.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",76.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",77,65 years and over,"116,356","+/-4,873","116,356",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",78,With a disability,"39,643","+/-3,055",34.1,+/-2.4
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",78.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",79,Population 1 year and over,"788,914","+/-15,970","788,914",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",80,Same house,"683,184","+/-18,381",86.6,+/-1.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",81,Different house (in the U.S. or abroad),"105,730","+/-9,984",13.4,+/-1.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",82,Different house in the U.S.,"101,091","+/-10,209",12.8,+/-1.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",83,Same county,"66,166","+/-8,284",8.4,+/-1.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",84,Different county,"34,925","+/-5,351",4.4,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",85,Same state,"3,635","+/-1,830",0.5,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",86,Different state,"31,290","+/-4,972",4.0,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",87,Abroad,"4,639","+/-2,165",0.6,+/-0.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",87.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",88,Total population,"794,707","+/-16,063","794,707",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",89,Native,"649,859","+/-15,843",81.8,+/-0.9
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",90,Born in United States,"636,347","+/-15,466",80.1,+/-0.9
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",91,State of residence,"222,858","+/-10,310",28.0,+/-1.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",92,Different state,"413,489","+/-14,719",52.0,+/-1.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","13,512","+/-2,219",1.7,+/-0.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",94,Foreign born,"144,848","+/-7,227",18.2,+/-0.9
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",94.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",95,Foreign-born population,"144,848","+/-7,227","144,848",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",96,Naturalized U.S. citizen,"68,868","+/-4,347",47.5,+/-2.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",97,Not a U.S. citizen,"75,980","+/-5,935",52.5,+/-2.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",97.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",98,Population born outside the United States,"158,360","+/-7,269","158,360",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",98.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",99,Native,"13,512","+/-2,219","13,512",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",100,Entered 2010 or later,"4,149","+/-1,355",30.7,+/-7.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",101,Entered before 2010,"9,363","+/-1,669",69.3,+/-7.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",101.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",102,Foreign born,"144,848","+/-7,227","144,848",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",103,Entered 2010 or later,"23,988","+/-3,681",16.6,+/-2.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",104,Entered before 2010,"120,860","+/-6,107",83.4,+/-2.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",104.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",105,"Foreign-born population, excluding population born at sea","144,848","+/-7,227","144,848",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",106,Europe,"6,650","+/-1,380",4.6,+/-0.9
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",107,Asia,"28,107","+/-3,478",19.4,+/-2.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",108,Africa,"2,661","+/-1,343",1.8,+/-0.9
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",109,Oceania,"1,009",+/-850,0.7,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",110,Latin America,"103,897","+/-6,308",71.7,+/-2.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",111,Northern America,"2,524",+/-893,1.7,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",111.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",112,Population 5 years and over,"750,040","+/-15,025","750,040",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",113,English only,"521,826","+/-16,113",69.6,+/-1.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",114,Language other than English,"228,214","+/-12,101",30.4,+/-1.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",115,"Speak English less than ""very well""","94,230","+/-5,794",12.6,+/-0.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",116,Spanish,"192,937","+/-11,235",25.7,+/-1.4
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",117,"Speak English less than ""very well""","81,146","+/-5,535",10.8,+/-0.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",118,Other Indo-European languages,"7,199","+/-1,842",1.0,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",119,"Speak English less than ""very well""","2,237","+/-1,020",0.3,+/-0.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",120,Asian and Pacific Islander languages,"23,384","+/-3,429",3.1,+/-0.4
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",121,"Speak English less than ""very well""","9,925","+/-1,894",1.3,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",122,Other languages,"4,694","+/-2,257",0.6,+/-0.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",123,"Speak English less than ""very well""",922,+/-613,0.1,+/-0.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",123.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",123.5,ANCESTRY,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",124,Total population,"794,707","+/-16,063","794,707",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",125,American,"21,876","+/-4,029",2.8,+/-0.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",126,Arab,"2,930","+/-1,512",0.4,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",127,Czech,"1,377",+/-827,0.2,+/-0.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",128,Danish,"3,709","+/-1,311",0.5,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",129,Dutch,"5,288","+/-2,280",0.7,+/-0.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",130,English,"59,390","+/-6,139",7.5,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",131,French (except Basque),"8,714","+/-2,191",1.1,+/-0.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",132,French Canadian,"1,936","+/-1,161",0.2,+/-0.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",133,German,"59,141","+/-6,202",7.4,+/-0.8
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",134,Greek,"2,098","+/-1,199",0.3,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",135,Hungarian,"2,060","+/-1,294",0.3,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",136,Irish,"43,398","+/-4,756",5.5,+/-0.6
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",137,Italian,"27,058","+/-3,655",3.4,+/-0.5
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",138,Lithuanian,240,+/-181,0.0,+/-0.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",139,Norwegian,"7,190","+/-1,622",0.9,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",140,Polish,"9,293","+/-1,854",1.2,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",141,Portuguese,"3,140","+/-1,096",0.4,+/-0.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",142,Russian,"2,381",+/-880,0.3,+/-0.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",143,Scotch-Irish,"2,510",+/-915,0.3,+/-0.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",144,Scottish,"10,085","+/-2,653",1.3,+/-0.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",145,Slovak,691,+/-467,0.1,+/-0.1
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",146,Subsaharan African,"12,960","+/-3,446",1.6,+/-0.4
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",147,Swedish,"6,125","+/-1,932",0.8,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",148,Swiss,"2,991","+/-2,085",0.4,+/-0.3
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",149,Ukrainian,"1,780","+/-1,698",0.2,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",150,Welsh,"2,916","+/-1,867",0.4,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",151,West Indian (excluding Hispanic origin groups),"3,358","+/-1,954",0.4,+/-0.2
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",151.3,,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",152,Total households,"278,030","+/-6,403","278,030",(X)
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",153,With a computer,"266,200","+/-6,538",95.7,+/-0.7
+DP02,5001800US3204,"Congressional District 4 (118th Congress), Nevada",154,With a broadband Internet subscription,"254,593","+/-6,276",91.6,+/-0.8

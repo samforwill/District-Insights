@@ -1,0 +1,1345 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",0.5,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",1,Population 16 years and over,"635,920","+/-4,975","635,920",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",2,In labor force,"406,219","+/-7,183",63.9,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",3,Civilian labor force,"403,783","+/-6,996",63.5,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",4,Employed,"379,315","+/-7,183",59.6,+/-1.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",5,Unemployed,"24,468","+/-2,709",3.8,+/-0.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",6,Armed Forces,"2,436","+/-1,027",0.4,+/-0.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",7,Not in labor force,"229,701","+/-6,063",36.1,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",7.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",8,Civilian labor force,"403,783","+/-6,996","403,783",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",9,Unemployment Rate,(X),(X),6.1,+/-0.7
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",9.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",10,Females 16 years and over,"327,142","+/-3,208","327,142",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",11,In labor force,"193,658","+/-5,020",59.2,+/-1.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",12,Civilian labor force,"193,126","+/-4,998",59.0,+/-1.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",13,Employed,"181,567","+/-5,355",55.5,+/-1.5
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",13.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",14,Own children of the householder under 6 years,"46,914","+/-2,497","46,914",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",15,All parents in family in labor force,"32,536","+/-2,578",69.4,+/-4.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",15.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",16,Own children of the householder 6 to 17 years,"109,197","+/-3,332","109,197",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",17,All parents in family in labor force,"82,186","+/-4,289",75.3,+/-3.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",17.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",18,Workers 16 years and over,"375,088","+/-7,353","375,088",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",19,"Car, truck, or van -- drove alone","280,619","+/-6,518",74.8,+/-1.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",20,"Car, truck, or van -- carpooled","25,084","+/-2,911",6.7,+/-0.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",21,Public transportation (excluding taxicab),"1,067",+/-606,0.3,+/-0.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",22,Walked,"5,034","+/-1,168",1.3,+/-0.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",23,Other means,"5,081","+/-1,552",1.4,+/-0.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",24,Worked from home,"58,203","+/-3,644",15.5,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",24.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",25,Mean travel time to work (minutes),27.7,+/-0.8,(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",25.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",25.5,OCCUPATION,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",26,Civilian employed population 16 years and over,"379,315","+/-7,183","379,315",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",27,"Management, business, science, and arts occupations","159,570","+/-6,863",42.1,+/-1.5
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",28,Service occupations,"63,115","+/-4,258",16.6,+/-1.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",29,Sales and office occupations,"76,912","+/-4,771",20.3,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",30,"Natural resources, construction, and maintenance occupations","36,595","+/-2,770",9.6,+/-0.7
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",31,"Production, transportation, and material moving occupations","43,123","+/-4,402",11.4,+/-1.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",31.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",31.5,INDUSTRY,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",32,Civilian employed population 16 years and over,"379,315","+/-7,183","379,315",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",33,"Agriculture, forestry, fishing and hunting, and mining","5,713","+/-1,193",1.5,+/-0.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",34,Construction,"31,285","+/-3,326",8.2,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",35,Manufacturing,"27,458","+/-3,764",7.2,+/-1.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",36,Wholesale trade,"8,060","+/-1,678",2.1,+/-0.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",37,Retail trade,"43,306","+/-3,764",11.4,+/-1.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",38,"Transportation and warehousing, and utilities","19,010","+/-2,488",5.0,+/-0.7
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",39,Information,"4,880","+/-1,053",1.3,+/-0.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",40,"Finance and insurance, and real estate and rental and leasing","24,083","+/-2,641",6.3,+/-0.7
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",41,"Professional, scientific, and management, and administrative and waste management services","46,366","+/-3,626",12.2,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",42,"Educational services, and health care and social assistance","89,029","+/-5,371",23.5,+/-1.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",43,"Arts, entertainment, and recreation, and accommodation and food services","30,888","+/-3,200",8.1,+/-0.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",44,"Other services, except public administration","15,121","+/-2,256",4.0,+/-0.6
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",45,Public administration,"34,116","+/-3,456",9.0,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",45.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",46,Civilian employed population 16 years and over,"379,315","+/-7,183","379,315",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",47,Private wage and salary workers,"278,296","+/-6,511",73.4,+/-1.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",48,Government workers,"78,731","+/-5,250",20.8,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",49,Self-employed in own not incorporated business workers,"21,917","+/-3,353",5.8,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",50,Unpaid family workers,371,+/-341,0.1,+/-0.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",50.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",51,Total households,"304,917","+/-3,566","304,917",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",52,"Less than $10,000","15,148","+/-1,934",5.0,+/-0.6
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",53,"$10,000 to $14,999","8,234","+/-1,545",2.7,+/-0.5
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",54,"$15,000 to $24,999","20,518","+/-2,315",6.7,+/-0.7
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",55,"$25,000 to $34,999","19,112","+/-2,065",6.3,+/-0.7
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",56,"$35,000 to $49,999","27,964","+/-2,524",9.2,+/-0.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",57,"$50,000 to $74,999","50,212","+/-3,772",16.5,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",58,"$75,000 to $99,999","41,322","+/-3,454",13.6,+/-1.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",59,"$100,000 to $149,999","58,339","+/-3,045",19.1,+/-1.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",60,"$150,000 to $199,999","30,789","+/-2,638",10.1,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",61,"$200,000 or more","33,279","+/-2,807",10.9,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",62,Median household income (dollars),"80,984","+/-2,072",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",63,Mean household income (dollars),"105,071","+/-2,670",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",63.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",64,With earnings,"234,855","+/-4,085",77.0,+/-1.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",65,Mean earnings (dollars),"105,002","+/-2,920",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",66,With Social Security,"105,289","+/-3,417",34.5,+/-1.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",67,Mean Social Security income (dollars),"22,893",+/-732,(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",68,With retirement income,"89,952","+/-3,664",29.5,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",69,Mean retirement income (dollars),"30,144","+/-1,519",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",69.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",70,With Supplemental Security Income,"15,501","+/-2,163",5.1,+/-0.7
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",71,Mean Supplemental Security Income (dollars),"10,147",+/-759,(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",72,With cash public assistance income,"11,179","+/-1,991",3.7,+/-0.6
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",73,Mean cash public assistance income (dollars),"6,145","+/-1,495",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",74,With Food Stamp/SNAP benefits in the past 12 months,"37,606","+/-3,356",12.3,+/-1.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",74.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",75,Families,"208,302","+/-4,529","208,302",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",76,"Less than $10,000","4,622","+/-1,237",2.2,+/-0.6
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",77,"$10,000 to $14,999","3,065",+/-842,1.5,+/-0.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",78,"$15,000 to $24,999","9,657","+/-1,636",4.6,+/-0.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",79,"$25,000 to $34,999","8,949","+/-1,535",4.3,+/-0.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",80,"$35,000 to $49,999","17,540","+/-2,373",8.4,+/-1.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",81,"$50,000 to $74,999","31,808","+/-3,117",15.3,+/-1.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",82,"$75,000 to $99,999","29,949","+/-2,686",14.4,+/-1.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",83,"$100,000 to $149,999","46,261","+/-3,085",22.2,+/-1.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",84,"$150,000 to $199,999","26,273","+/-2,620",12.6,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",85,"$200,000 or more","30,178","+/-2,599",14.5,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",86,Median family income (dollars),"98,740","+/-2,840",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",87,Mean family income (dollars),"122,769","+/-3,219",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",87.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",88,Per capita income (dollars),"41,592","+/-1,106",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",88.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",89,Nonfamily households,"96,615","+/-4,018","96,615",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",90,Median nonfamily income (dollars),"47,659","+/-3,789",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",91,Mean nonfamily income (dollars),"62,892","+/-3,863",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",91.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",92,Median earnings for workers (dollars),"44,437","+/-1,897",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",93,"Median earnings for male full-time, year-round workers (dollars)","67,059","+/-2,511",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",94,"Median earnings for female full-time, year-round workers (dollars)","52,029","+/-1,767",(X),(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",94.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",95,Civilian noninstitutionalized population,"769,102","+/-7,210","769,102",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",96,With health insurance coverage,"728,023","+/-8,472",94.7,+/-0.5
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",97,With private health insurance,"548,681","+/-11,059",71.3,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",98,With public coverage,"306,709","+/-7,754",39.9,+/-1.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",99,No health insurance coverage,"41,079","+/-3,979",5.3,+/-0.5
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",99.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",100,Civilian noninstitutionalized population under 19 years,"174,616","+/-3,880","174,616",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",101,No health insurance coverage,"10,154","+/-2,249",5.8,+/-1.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",101.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",102,Civilian noninstitutionalized population 19 to 64 years,"448,676","+/-5,419","448,676",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",103,In labor force:,"359,547","+/-6,364","359,547",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",104,Employed:,"338,255","+/-6,381","338,255",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",105,With health insurance coverage,"317,959","+/-6,348",94.0,+/-0.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",106,With private health insurance,"284,051","+/-6,699",84.0,+/-1.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",107,With public coverage,"46,755","+/-4,082",13.8,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",108,No health insurance coverage,"20,296","+/-2,786",6.0,+/-0.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",109,Unemployed:,"21,292","+/-2,583","21,292",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",110,With health insurance coverage,"18,613","+/-2,331",87.4,+/-4.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",111,With private health insurance,"9,628","+/-1,581",45.2,+/-6.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",112,With public coverage,"9,645","+/-2,027",45.3,+/-7.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",113,No health insurance coverage,"2,679","+/-1,031",12.6,+/-4.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",114,Not in labor force:,"89,129","+/-5,112","89,129",(X)
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",115,With health insurance coverage,"82,032","+/-4,808",92.0,+/-1.5
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",116,With private health insurance,"46,748","+/-3,946",52.4,+/-3.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",117,With public coverage,"41,905","+/-3,673",47.0,+/-3.3
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",118,No health insurance coverage,"7,097","+/-1,371",8.0,+/-1.5
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",118.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",119,All families,(X),(X),6.6,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",120,With related children of the householder under 18 years,(X),(X),12.0,+/-2.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",121,With related children of the householder under 5 years only,(X),(X),9.6,+/-4.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",122,Married couple families,(X),(X),2.9,+/-0.7
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",123,With related children of the householder under 18 years,(X),(X),3.4,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",124,With related children of the householder under 5 years only,(X),(X),2.5,+/-2.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",125,"Families with female householder, no spouse present",(X),(X),20.7,+/-4.6
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",126,With related children of the householder under 18 years,(X),(X),32.3,+/-7.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",127,With related children of the householder under 5 years only,(X),(X),39.7,+/-22.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",127.3,,,,,
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",128,All people,(X),(X),9.8,+/-1.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",129,Under 18 years,(X),(X),13.8,+/-2.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",130,Related children of the householder under 18 years,(X),(X),13.5,+/-2.4
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",131,Related children of the householder under 5 years,(X),(X),11.8,+/-3.0
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",132,Related children of the householder 5 to 17 years,(X),(X),14.1,+/-2.7
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",133,18 years and over,(X),(X),8.7,+/-0.8
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",134,18 to 64 years,(X),(X),9.0,+/-0.9
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",135,65 years and over,(X),(X),8.0,+/-1.2
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",136,People in families,(X),(X),7.2,+/-1.1
+DP03,5001800US2401,"Congressional District 1 (118th Congress), Maryland",137,Unrelated individuals 15 years and over,(X),(X),22.0,+/-2.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",0.5,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",1,Population 16 years and over,"628,879","+/-10,321","628,879",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",2,In labor force,"416,701","+/-9,213",66.3,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",3,Civilian labor force,"415,344","+/-9,233",66.0,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",4,Employed,"394,896","+/-8,735",62.8,+/-0.9
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",5,Unemployed,"20,448","+/-2,860",3.3,+/-0.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",6,Armed Forces,"1,357",+/-745,0.2,+/-0.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",7,Not in labor force,"212,178","+/-5,782",33.7,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",7.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",8,Civilian labor force,"415,344","+/-9,233","415,344",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",9,Unemployment Rate,(X),(X),4.9,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",9.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",10,Females 16 years and over,"332,357","+/-6,874","332,357",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",11,In labor force,"208,307","+/-5,798",62.7,+/-1.2
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",12,Civilian labor force,"207,985","+/-5,837",62.6,+/-1.2
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",13,Employed,"198,034","+/-5,810",59.6,+/-1.3
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",13.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",14,Own children of the householder under 6 years,"48,602","+/-3,301","48,602",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",15,All parents in family in labor force,"35,603","+/-3,332",73.3,+/-4.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",15.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",16,Own children of the householder 6 to 17 years,"112,204","+/-5,140","112,204",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",17,All parents in family in labor force,"89,030","+/-5,393",79.3,+/-3.5
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",17.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",18,Workers 16 years and over,"389,035","+/-8,369","389,035",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",19,"Car, truck, or van -- drove alone","261,879","+/-8,729",67.3,+/-1.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",20,"Car, truck, or van -- carpooled","24,002","+/-3,320",6.2,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",21,Public transportation (excluding taxicab),"5,927","+/-1,906",1.5,+/-0.5
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",22,Walked,"6,616","+/-1,434",1.7,+/-0.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",23,Other means,"6,615","+/-1,658",1.7,+/-0.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",24,Worked from home,"83,996","+/-5,614",21.6,+/-1.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",24.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",25,Mean travel time to work (minutes),27.3,+/-0.7,(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",25.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",25.5,OCCUPATION,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",26,Civilian employed population 16 years and over,"394,896","+/-8,735","394,896",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",27,"Management, business, science, and arts occupations","200,335","+/-7,265",50.7,+/-1.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",28,Service occupations,"56,704","+/-4,371",14.4,+/-1.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",29,Sales and office occupations,"74,865","+/-4,379",19.0,+/-1.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",30,"Natural resources, construction, and maintenance occupations","23,890","+/-3,152",6.0,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",31,"Production, transportation, and material moving occupations","39,102","+/-3,908",9.9,+/-0.9
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",31.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",31.5,INDUSTRY,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",32,Civilian employed population 16 years and over,"394,896","+/-8,735","394,896",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",33,"Agriculture, forestry, fishing and hunting, and mining","1,623",+/-607,0.4,+/-0.2
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",34,Construction,"21,336","+/-2,633",5.4,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",35,Manufacturing,"24,326","+/-3,273",6.2,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",36,Wholesale trade,"8,082","+/-1,818",2.0,+/-0.5
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",37,Retail trade,"39,379","+/-3,864",10.0,+/-1.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",38,"Transportation and warehousing, and utilities","21,154","+/-2,979",5.4,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",39,Information,"8,287","+/-1,757",2.1,+/-0.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",40,"Finance and insurance, and real estate and rental and leasing","28,778","+/-3,083",7.3,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",41,"Professional, scientific, and management, and administrative and waste management services","54,553","+/-4,332",13.8,+/-1.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",42,"Educational services, and health care and social assistance","110,305","+/-5,929",27.9,+/-1.3
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",43,"Arts, entertainment, and recreation, and accommodation and food services","27,020","+/-2,894",6.8,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",44,"Other services, except public administration","18,298","+/-2,743",4.6,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",45,Public administration,"31,755","+/-3,231",8.0,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",45.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",46,Civilian employed population 16 years and over,"394,896","+/-8,735","394,896",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",47,Private wage and salary workers,"297,781","+/-8,677",75.4,+/-1.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",48,Government workers,"75,943","+/-5,140",19.2,+/-1.2
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",49,Self-employed in own not incorporated business workers,"20,716","+/-2,181",5.2,+/-0.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",50,Unpaid family workers,456,+/-440,0.1,+/-0.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",50.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",51,Total households,"302,845","+/-4,753","302,845",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",52,"Less than $10,000","13,408","+/-2,369",4.4,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",53,"$10,000 to $14,999","7,181","+/-1,801",2.4,+/-0.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",54,"$15,000 to $24,999","15,884","+/-2,271",5.2,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",55,"$25,000 to $34,999","20,060","+/-3,065",6.6,+/-1.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",56,"$35,000 to $49,999","24,661","+/-2,477",8.1,+/-0.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",57,"$50,000 to $74,999","49,121","+/-4,011",16.2,+/-1.3
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",58,"$75,000 to $99,999","42,843","+/-3,646",14.1,+/-1.2
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",59,"$100,000 to $149,999","53,918","+/-3,449",17.8,+/-1.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",60,"$150,000 to $199,999","33,357","+/-3,548",11.0,+/-1.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",61,"$200,000 or more","42,412","+/-3,005",14.0,+/-1.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",62,Median household income (dollars),"87,980","+/-2,407",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",63,Mean household income (dollars),"116,735","+/-3,823",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",63.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",64,With earnings,"240,320","+/-5,176",79.4,+/-1.2
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",65,Mean earnings (dollars),"117,970","+/-4,281",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",66,With Social Security,"94,158","+/-3,571",31.1,+/-1.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",67,Mean Social Security income (dollars),"22,978",+/-712,(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",68,With retirement income,"85,093","+/-3,812",28.1,+/-1.2
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",69,Mean retirement income (dollars),"32,054","+/-2,070",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",69.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",70,With Supplemental Security Income,"12,845","+/-1,989",4.2,+/-0.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",71,Mean Supplemental Security Income (dollars),"10,699",+/-919,(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",72,With cash public assistance income,"8,768","+/-1,841",2.9,+/-0.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",73,Mean cash public assistance income (dollars),"6,030","+/-1,238",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",74,With Food Stamp/SNAP benefits in the past 12 months,"33,201","+/-3,308",11.0,+/-1.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",74.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",75,Families,"198,522","+/-5,680","198,522",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",76,"Less than $10,000","5,080","+/-1,401",2.6,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",77,"$10,000 to $14,999","2,973","+/-1,320",1.5,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",78,"$15,000 to $24,999","5,593","+/-1,440",2.8,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",79,"$25,000 to $34,999","7,565","+/-1,968",3.8,+/-1.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",80,"$35,000 to $49,999","12,992","+/-2,002",6.5,+/-1.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",81,"$50,000 to $74,999","27,564","+/-3,019",13.9,+/-1.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",82,"$75,000 to $99,999","28,466","+/-2,970",14.3,+/-1.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",83,"$100,000 to $149,999","41,871","+/-3,038",21.1,+/-1.5
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",84,"$150,000 to $199,999","28,804","+/-3,311",14.5,+/-1.5
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",85,"$200,000 or more","37,614","+/-2,872",18.9,+/-1.5
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",86,Median family income (dollars),"109,024","+/-4,482",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",87,Mean family income (dollars),"140,543","+/-5,273",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",87.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",88,Per capita income (dollars),"46,373","+/-1,588",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",88.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",89,Nonfamily households,"104,323","+/-5,356","104,323",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",90,Median nonfamily income (dollars),"52,142","+/-3,300",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",91,Mean nonfamily income (dollars),"66,940","+/-3,855",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",91.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",92,Median earnings for workers (dollars),"50,397","+/-1,234",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",93,"Median earnings for male full-time, year-round workers (dollars)","73,854","+/-3,767",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",94,"Median earnings for female full-time, year-round workers (dollars)","60,094","+/-2,050",(X),(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",94.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",95,Civilian noninstitutionalized population,"766,586","+/-13,492","766,586",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",96,With health insurance coverage,"736,027","+/-12,954",96.0,+/-0.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",97,With private health insurance,"590,485","+/-15,732",77.0,+/-1.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",98,With public coverage,"265,209","+/-12,111",34.6,+/-1.5
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",99,No health insurance coverage,"30,559","+/-4,378",4.0,+/-0.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",99.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",100,Civilian noninstitutionalized population under 19 years,"178,774","+/-6,676","178,774",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",101,No health insurance coverage,"5,985","+/-1,792",3.3,+/-1.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",101.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",102,Civilian noninstitutionalized population 19 to 64 years,"449,700","+/-8,679","449,700",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",103,In labor force:,"371,477","+/-8,564","371,477",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",104,Employed:,"353,314","+/-8,398","353,314",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",105,With health insurance coverage,"339,530","+/-8,152",96.1,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",106,With private health insurance,"310,207","+/-9,018",87.8,+/-1.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",107,With public coverage,"40,880","+/-4,077",11.6,+/-1.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",108,No health insurance coverage,"13,784","+/-2,419",3.9,+/-0.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",109,Unemployed:,"18,163","+/-2,481","18,163",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",110,With health insurance coverage,"16,219","+/-2,536",89.3,+/-5.3
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",111,With private health insurance,"10,158","+/-1,912",55.9,+/-7.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",112,With public coverage,"6,651","+/-1,653",36.6,+/-7.2
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",113,No health insurance coverage,"1,944",+/-968,10.7,+/-5.3
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",114,Not in labor force:,"78,223","+/-4,627","78,223",(X)
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",115,With health insurance coverage,"69,679","+/-4,310",89.1,+/-2.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",116,With private health insurance,"44,944","+/-3,615",57.5,+/-3.9
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",117,With public coverage,"31,751","+/-3,734",40.6,+/-3.9
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",118,No health insurance coverage,"8,544","+/-2,139",10.9,+/-2.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",118.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",119,All families,(X),(X),6.2,+/-1.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",120,With related children of the householder under 18 years,(X),(X),10.0,+/-2.1
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",121,With related children of the householder under 5 years only,(X),(X),8.1,+/-4.5
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",122,Married couple families,(X),(X),3.8,+/-0.9
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",123,With related children of the householder under 18 years,(X),(X),5.0,+/-1.8
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",124,With related children of the householder under 5 years only,(X),(X),0.8,+/-0.9
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",125,"Families with female householder, no spouse present",(X),(X),13.6,+/-3.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",126,With related children of the householder under 18 years,(X),(X),20.2,+/-6.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",127,With related children of the householder under 5 years only,(X),(X),43.1,+/-20.6
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",127.3,,,,,
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",128,All people,(X),(X),8.9,+/-1.3
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",129,Under 18 years,(X),(X),13.0,+/-3.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",130,Related children of the householder under 18 years,(X),(X),12.8,+/-3.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",131,Related children of the householder under 5 years,(X),(X),14.3,+/-4.7
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",132,Related children of the householder 5 to 17 years,(X),(X),12.3,+/-3.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",133,18 years and over,(X),(X),7.8,+/-0.9
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",134,18 to 64 years,(X),(X),7.7,+/-1.0
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",135,65 years and over,(X),(X),7.9,+/-1.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",136,People in families,(X),(X),7.1,+/-1.4
+DP03,5001800US2402,"Congressional District 2 (118th Congress), Maryland",137,Unrelated individuals 15 years and over,(X),(X),17.0,+/-1.9
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",0.5,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",1,Population 16 years and over,"615,738","+/-8,428","615,738",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",2,In labor force,"422,342","+/-9,088",68.6,+/-1.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",3,Civilian labor force,"410,756","+/-8,628",66.7,+/-1.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",4,Employed,"394,199","+/-9,274",64.0,+/-1.3
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",5,Unemployed,"16,557","+/-2,639",2.7,+/-0.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",6,Armed Forces,"11,586","+/-4,985",1.9,+/-0.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",7,Not in labor force,"193,396","+/-6,684",31.4,+/-1.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",7.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",8,Civilian labor force,"410,756","+/-8,628","410,756",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",9,Unemployment Rate,(X),(X),4.0,+/-0.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",9.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",10,Females 16 years and over,"316,929","+/-4,908","316,929",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",11,In labor force,"199,636","+/-5,845",63.0,+/-1.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",12,Civilian labor force,"197,271","+/-5,741",62.2,+/-1.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",13,Employed,"189,046","+/-5,926",59.6,+/-1.5
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",13.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",14,Own children of the householder under 6 years,"52,093","+/-3,062","52,093",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",15,All parents in family in labor force,"37,281","+/-3,153",71.6,+/-4.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",15.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",16,Own children of the householder 6 to 17 years,"118,072","+/-4,058","118,072",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",17,All parents in family in labor force,"95,153","+/-4,715",80.6,+/-2.9
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",17.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",18,Workers 16 years and over,"397,487","+/-9,799","397,487",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",19,"Car, truck, or van -- drove alone","261,913","+/-8,691",65.9,+/-1.3
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",20,"Car, truck, or van -- carpooled","23,243","+/-2,903",5.8,+/-0.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",21,Public transportation (excluding taxicab),"3,249","+/-1,039",0.8,+/-0.3
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",22,Walked,"5,503","+/-1,741",1.4,+/-0.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",23,Other means,"5,503","+/-1,601",1.4,+/-0.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",24,Worked from home,"98,076","+/-5,247",24.7,+/-1.3
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",24.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",25,Mean travel time to work (minutes),27.0,+/-0.8,(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",25.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",25.5,OCCUPATION,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",26,Civilian employed population 16 years and over,"394,199","+/-9,274","394,199",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",27,"Management, business, science, and arts occupations","221,849","+/-7,098",56.3,+/-1.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",28,Service occupations,"45,144","+/-4,011",11.5,+/-1.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",29,Sales and office occupations,"74,422","+/-4,942",18.9,+/-1.1
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",30,"Natural resources, construction, and maintenance occupations","24,497","+/-2,975",6.2,+/-0.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",31,"Production, transportation, and material moving occupations","28,287","+/-2,876",7.2,+/-0.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",31.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",31.5,INDUSTRY,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",32,Civilian employed population 16 years and over,"394,199","+/-9,274","394,199",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",33,"Agriculture, forestry, fishing and hunting, and mining","1,706",+/-643,0.4,+/-0.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",34,Construction,"27,468","+/-2,807",7.0,+/-0.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",35,Manufacturing,"24,748","+/-2,119",6.3,+/-0.5
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",36,Wholesale trade,"8,322","+/-1,724",2.1,+/-0.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",37,Retail trade,"34,872","+/-4,003",8.8,+/-1.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",38,"Transportation and warehousing, and utilities","17,918","+/-2,409",4.5,+/-0.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",39,Information,"6,760","+/-1,341",1.7,+/-0.3
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",40,"Finance and insurance, and real estate and rental and leasing","24,920","+/-3,301",6.3,+/-0.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",41,"Professional, scientific, and management, and administrative and waste management services","75,371","+/-4,724",19.1,+/-1.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",42,"Educational services, and health care and social assistance","88,349","+/-5,038",22.4,+/-1.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",43,"Arts, entertainment, and recreation, and accommodation and food services","24,558","+/-3,547",6.2,+/-0.9
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",44,"Other services, except public administration","15,747","+/-2,380",4.0,+/-0.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",45,Public administration,"43,460","+/-4,558",11.0,+/-1.1
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",45.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",46,Civilian employed population 16 years and over,"394,199","+/-9,274","394,199",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",47,Private wage and salary workers,"285,872","+/-8,990",72.5,+/-1.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",48,Government workers,"87,896","+/-6,199",22.3,+/-1.5
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",49,Self-employed in own not incorporated business workers,"19,135","+/-2,620",4.9,+/-0.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",50,Unpaid family workers,"1,296",+/-783,0.3,+/-0.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",50.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",51,Total households,"289,086","+/-3,185","289,086",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",52,"Less than $10,000","8,767","+/-1,790",3.0,+/-0.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",53,"$10,000 to $14,999","4,577","+/-1,265",1.6,+/-0.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",54,"$15,000 to $24,999","9,014","+/-1,895",3.1,+/-0.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",55,"$25,000 to $34,999","9,770","+/-1,585",3.4,+/-0.5
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",56,"$35,000 to $49,999","21,136","+/-2,649",7.3,+/-0.9
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",57,"$50,000 to $74,999","34,481","+/-2,397",11.9,+/-0.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",58,"$75,000 to $99,999","33,533","+/-3,195",11.6,+/-1.1
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",59,"$100,000 to $149,999","61,055","+/-4,331",21.1,+/-1.5
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",60,"$150,000 to $199,999","44,702","+/-3,306",15.5,+/-1.1
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",61,"$200,000 or more","62,051","+/-3,821",21.5,+/-1.3
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",62,Median household income (dollars),"114,804","+/-3,951",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",63,Mean household income (dollars),"147,750","+/-5,633",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",63.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",64,With earnings,"238,940","+/-4,310",82.7,+/-1.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",65,Mean earnings (dollars),"145,646","+/-5,477",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",66,With Social Security,"73,589","+/-3,286",25.5,+/-1.1
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",67,Mean Social Security income (dollars),"25,257",+/-797,(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",68,With retirement income,"75,540","+/-3,453",26.1,+/-1.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",69,Mean retirement income (dollars),"44,305","+/-2,891",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",69.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",70,With Supplemental Security Income,"9,918","+/-1,694",3.4,+/-0.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",71,Mean Supplemental Security Income (dollars),"11,956",+/-989,(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",72,With cash public assistance income,"6,767","+/-1,702",2.3,+/-0.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",73,Mean cash public assistance income (dollars),"6,021","+/-1,337",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",74,With Food Stamp/SNAP benefits in the past 12 months,"20,864","+/-2,995",7.2,+/-1.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",74.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",75,Families,"209,956","+/-4,555","209,956",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",76,"Less than $10,000","5,210","+/-1,547",2.5,+/-0.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",77,"$10,000 to $14,999","2,722",+/-926,1.3,+/-0.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",78,"$15,000 to $24,999","4,583","+/-1,430",2.2,+/-0.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",79,"$25,000 to $34,999","5,372","+/-1,246",2.6,+/-0.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",80,"$35,000 to $49,999","12,029","+/-1,808",5.7,+/-0.9
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",81,"$50,000 to $74,999","19,041","+/-2,205",9.1,+/-1.1
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",82,"$75,000 to $99,999","23,163","+/-2,600",11.0,+/-1.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",83,"$100,000 to $149,999","44,722","+/-3,562",21.3,+/-1.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",84,"$150,000 to $199,999","36,939","+/-3,292",17.6,+/-1.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",85,"$200,000 or more","56,175","+/-3,587",26.8,+/-1.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",86,Median family income (dollars),"133,935","+/-5,339",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",87,Mean family income (dollars),"166,711","+/-7,201",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",87.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",88,Per capita income (dollars),"55,764","+/-2,234",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",88.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",89,Nonfamily households,"79,130","+/-4,788","79,130",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",90,Median nonfamily income (dollars),"72,663","+/-3,725",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",91,Mean nonfamily income (dollars),"90,508","+/-5,049",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",91.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",92,Median earnings for workers (dollars),"60,994","+/-1,514",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",93,"Median earnings for male full-time, year-round workers (dollars)","87,062","+/-3,741",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",94,"Median earnings for female full-time, year-round workers (dollars)","71,396","+/-2,888",(X),(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",94.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",95,Civilian noninstitutionalized population,"755,345","+/-9,979","755,345",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",96,With health insurance coverage,"720,948","+/-10,725",95.4,+/-0.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",97,With private health insurance,"611,969","+/-12,019",81.0,+/-1.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",98,With public coverage,"223,484","+/-10,783",29.6,+/-1.3
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",99,No health insurance coverage,"34,397","+/-4,470",4.6,+/-0.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",99.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",100,Civilian noninstitutionalized population under 19 years,"184,557","+/-5,094","184,557",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",101,No health insurance coverage,"5,715","+/-1,663",3.1,+/-0.9
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",101.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",102,Civilian noninstitutionalized population 19 to 64 years,"451,763","+/-7,545","451,763",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",103,In labor force:,"377,787","+/-8,059","377,787",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",104,Employed:,"362,423","+/-8,660","362,423",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",105,With health insurance coverage,"342,916","+/-8,670",94.6,+/-0.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",106,With private health insurance,"322,211","+/-8,982",88.9,+/-1.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",107,With public coverage,"33,991","+/-4,315",9.4,+/-1.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",108,No health insurance coverage,"19,507","+/-3,028",5.4,+/-0.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",109,Unemployed:,"15,364","+/-2,610","15,364",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",110,With health insurance coverage,"13,598","+/-2,478",88.5,+/-4.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",111,With private health insurance,"8,360","+/-1,473",54.4,+/-8.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",112,With public coverage,"5,959","+/-1,991",38.8,+/-9.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",113,No health insurance coverage,"1,766",+/-702,11.5,+/-4.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",114,Not in labor force:,"73,976","+/-4,937","73,976",(X)
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",115,With health insurance coverage,"67,307","+/-4,707",91.0,+/-2.1
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",116,With private health insurance,"48,534","+/-3,849",65.6,+/-3.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",117,With public coverage,"24,328","+/-3,237",32.9,+/-3.4
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",118,No health insurance coverage,"6,669","+/-1,588",9.0,+/-2.1
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",118.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",119,All families,(X),(X),5.6,+/-1.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",120,With related children of the householder under 18 years,(X),(X),8.4,+/-1.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",121,With related children of the householder under 5 years only,(X),(X),11.3,+/-5.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",122,Married couple families,(X),(X),2.8,+/-0.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",123,With related children of the householder under 18 years,(X),(X),3.0,+/-1.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",124,With related children of the householder under 5 years only,(X),(X),4.4,+/-3.6
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",125,"Families with female householder, no spouse present",(X),(X),16.9,+/-4.1
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",126,With related children of the householder under 18 years,(X),(X),23.7,+/-6.9
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",127,With related children of the householder under 5 years only,(X),(X),39.2,+/-23.0
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",127.3,,,,,
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",128,All people,(X),(X),6.4,+/-0.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",129,Under 18 years,(X),(X),8.2,+/-1.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",130,Related children of the householder under 18 years,(X),(X),7.9,+/-1.7
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",131,Related children of the householder under 5 years,(X),(X),8.7,+/-2.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",132,Related children of the householder 5 to 17 years,(X),(X),7.7,+/-1.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",133,18 years and over,(X),(X),5.9,+/-0.8
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",134,18 to 64 years,(X),(X),5.9,+/-0.9
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",135,65 years and over,(X),(X),6.1,+/-1.2
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",136,People in families,(X),(X),5.2,+/-0.9
+DP03,5001800US2403,"Congressional District 3 (118th Congress), Maryland",137,Unrelated individuals 15 years and over,(X),(X),13.5,+/-2.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",0.5,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",1,Population 16 years and over,"595,698","+/-9,539","595,698",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",2,In labor force,"409,236","+/-9,171",68.7,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",3,Civilian labor force,"405,919","+/-9,266",68.1,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",4,Employed,"372,283","+/-9,057",62.5,+/-1.1
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",5,Unemployed,"33,636","+/-3,347",5.6,+/-0.6
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",6,Armed Forces,"3,317","+/-1,105",0.6,+/-0.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",7,Not in labor force,"186,462","+/-6,594",31.3,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",7.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",8,Civilian labor force,"405,919","+/-9,266","405,919",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",9,Unemployment Rate,(X),(X),8.3,+/-0.8
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",9.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",10,Females 16 years and over,"310,918","+/-5,025","310,918",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",11,In labor force,"201,383","+/-5,191",64.8,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",12,Civilian labor force,"200,429","+/-5,225",64.5,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",13,Employed,"184,173","+/-5,390",59.2,+/-1.4
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",13.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",14,Own children of the householder under 6 years,"55,855","+/-2,872","55,855",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",15,All parents in family in labor force,"40,194","+/-3,201",72.0,+/-4.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",15.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",16,Own children of the householder 6 to 17 years,"101,829","+/-4,423","101,829",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",17,All parents in family in labor force,"77,491","+/-5,140",76.1,+/-3.6
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",17.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",18,Workers 16 years and over,"367,821","+/-8,496","367,821",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",19,"Car, truck, or van -- drove alone","207,730","+/-8,303",56.5,+/-1.8
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",20,"Car, truck, or van -- carpooled","40,149","+/-4,174",10.9,+/-1.1
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",21,Public transportation (excluding taxicab),"24,909","+/-3,097",6.8,+/-0.8
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",22,Walked,"5,451","+/-1,214",1.5,+/-0.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",23,Other means,"11,387","+/-2,565",3.1,+/-0.7
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",24,Worked from home,"78,195","+/-4,794",21.3,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",24.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",25,Mean travel time to work (minutes),32.9,+/-0.8,(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",25.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",25.5,OCCUPATION,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",26,Civilian employed population 16 years and over,"372,283","+/-9,057","372,283",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",27,"Management, business, science, and arts occupations","147,573","+/-6,590",39.6,+/-1.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",28,Service occupations,"70,045","+/-4,691",18.8,+/-1.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",29,Sales and office occupations,"69,352","+/-5,152",18.6,+/-1.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",30,"Natural resources, construction, and maintenance occupations","44,145","+/-3,988",11.9,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",31,"Production, transportation, and material moving occupations","41,168","+/-3,840",11.1,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",31.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",31.5,INDUSTRY,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",32,Civilian employed population 16 years and over,"372,283","+/-9,057","372,283",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",33,"Agriculture, forestry, fishing and hunting, and mining","1,346",+/-725,0.4,+/-0.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",34,Construction,"41,111","+/-4,083",11.0,+/-1.1
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",35,Manufacturing,"8,612","+/-1,702",2.3,+/-0.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",36,Wholesale trade,"5,644","+/-1,360",1.5,+/-0.4
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",37,Retail trade,"34,337","+/-3,889",9.2,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",38,"Transportation and warehousing, and utilities","25,251","+/-2,896",6.8,+/-0.8
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",39,Information,"6,716","+/-1,326",1.8,+/-0.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",40,"Finance and insurance, and real estate and rental and leasing","15,895","+/-2,356",4.3,+/-0.6
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",41,"Professional, scientific, and management, and administrative and waste management services","62,716","+/-4,708",16.8,+/-1.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",42,"Educational services, and health care and social assistance","84,342","+/-5,556",22.7,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",43,"Arts, entertainment, and recreation, and accommodation and food services","25,256","+/-2,323",6.8,+/-0.6
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",44,"Other services, except public administration","19,299","+/-2,454",5.2,+/-0.7
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",45,Public administration,"41,758","+/-3,679",11.2,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",45.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",46,Civilian employed population 16 years and over,"372,283","+/-9,057","372,283",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",47,Private wage and salary workers,"265,922","+/-8,481",71.4,+/-1.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",48,Government workers,"85,394","+/-5,315",22.9,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",49,Self-employed in own not incorporated business workers,"20,613","+/-2,776",5.5,+/-0.7
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",50,Unpaid family workers,354,+/-243,0.1,+/-0.1
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",50.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",51,Total households,"272,010","+/-4,038","272,010",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",52,"Less than $10,000","15,878","+/-2,602",5.8,+/-0.9
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",53,"$10,000 to $14,999","7,927","+/-1,743",2.9,+/-0.6
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",54,"$15,000 to $24,999","15,951","+/-2,181",5.9,+/-0.8
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",55,"$25,000 to $34,999","14,512","+/-2,047",5.3,+/-0.8
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",56,"$35,000 to $49,999","26,604","+/-2,892",9.8,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",57,"$50,000 to $74,999","46,538","+/-3,556",17.1,+/-1.4
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",58,"$75,000 to $99,999","38,986","+/-3,802",14.3,+/-1.4
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",59,"$100,000 to $149,999","53,769","+/-3,593",19.8,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",60,"$150,000 to $199,999","25,813","+/-2,652",9.5,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",61,"$200,000 or more","26,032","+/-2,613",9.6,+/-0.9
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",62,Median household income (dollars),"80,808","+/-2,873",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",63,Mean household income (dollars),"98,875","+/-2,520",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",63.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",64,With earnings,"224,918","+/-4,710",82.7,+/-1.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",65,Mean earnings (dollars),"96,793","+/-2,664",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",66,With Social Security,"66,105","+/-2,985",24.3,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",67,Mean Social Security income (dollars),"19,034",+/-761,(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",68,With retirement income,"67,592","+/-3,451",24.8,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",69,Mean retirement income (dollars),"36,072","+/-2,190",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",69.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",70,With Supplemental Security Income,"10,966","+/-2,011",4.0,+/-0.7
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",71,Mean Supplemental Security Income (dollars),"11,125","+/-1,212",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",72,With cash public assistance income,"9,181","+/-2,019",3.4,+/-0.7
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",73,Mean cash public assistance income (dollars),"5,109","+/-1,308",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",74,With Food Stamp/SNAP benefits in the past 12 months,"41,887","+/-3,331",15.4,+/-1.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",74.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",75,Families,"166,384","+/-4,775","166,384",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",76,"Less than $10,000","6,082","+/-1,335",3.7,+/-0.8
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",77,"$10,000 to $14,999","3,636","+/-1,040",2.2,+/-0.6
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",78,"$15,000 to $24,999","7,523","+/-1,500",4.5,+/-0.9
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",79,"$25,000 to $34,999","7,510","+/-1,667",4.5,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",80,"$35,000 to $49,999","13,469","+/-2,028",8.1,+/-1.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",81,"$50,000 to $74,999","27,227","+/-2,919",16.4,+/-1.7
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",82,"$75,000 to $99,999","23,992","+/-2,726",14.4,+/-1.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",83,"$100,000 to $149,999","35,633","+/-3,234",21.4,+/-1.9
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",84,"$150,000 to $199,999","20,923","+/-2,480",12.6,+/-1.4
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",85,"$200,000 or more","20,389","+/-2,275",12.3,+/-1.4
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",86,Median family income (dollars),"93,198","+/-4,223",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",87,Mean family income (dollars),"113,299","+/-3,809",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",87.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",88,Per capita income (dollars),"36,660","+/-1,011",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",88.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",89,Nonfamily households,"105,626","+/-4,862","105,626",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",90,Median nonfamily income (dollars),"58,013","+/-4,355",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",91,Mean nonfamily income (dollars),"68,687","+/-3,046",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",91.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",92,Median earnings for workers (dollars),"42,013",+/-770,(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",93,"Median earnings for male full-time, year-round workers (dollars)","54,113","+/-2,569",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",94,"Median earnings for female full-time, year-round workers (dollars)","59,162","+/-3,083",(X),(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",94.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",95,Civilian noninstitutionalized population,"741,256","+/-10,954","741,256",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",96,With health insurance coverage,"650,643","+/-13,144",87.8,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",97,With private health insurance,"464,423","+/-13,676",62.7,+/-1.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",98,With public coverage,"277,987","+/-9,895",37.5,+/-1.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",99,No health insurance coverage,"90,613","+/-7,578",12.2,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",99.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",100,Civilian noninstitutionalized population under 19 years,"179,600","+/-4,556","179,600",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",101,No health insurance coverage,"13,890","+/-3,346",7.7,+/-1.9
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",101.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",102,Civilian noninstitutionalized population 19 to 64 years,"459,446","+/-8,763","459,446",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",103,In labor force:,"372,734","+/-8,839","372,734",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",104,Employed:,"342,225","+/-8,699","342,225",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",105,With health insurance coverage,"291,009","+/-9,418",85.0,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",106,With private health insurance,"253,345","+/-8,660",74.0,+/-1.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",107,With public coverage,"47,833","+/-4,156",14.0,+/-1.1
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",108,No health insurance coverage,"51,216","+/-4,320",15.0,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",109,Unemployed:,"30,509","+/-3,327","30,509",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",110,With health insurance coverage,"22,606","+/-2,732",74.1,+/-4.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",111,With private health insurance,"11,476","+/-2,189",37.6,+/-6.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",112,With public coverage,"12,191","+/-2,206",40.0,+/-6.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",113,No health insurance coverage,"7,903","+/-1,677",25.9,+/-4.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",114,Not in labor force:,"86,712","+/-5,390","86,712",(X)
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",115,With health insurance coverage,"70,874","+/-5,070",81.7,+/-2.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",116,With private health insurance,"41,854","+/-3,822",48.3,+/-3.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",117,With public coverage,"34,855","+/-3,613",40.2,+/-3.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",118,No health insurance coverage,"15,838","+/-2,266",18.3,+/-2.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",118.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",119,All families,(X),(X),9.6,+/-1.1
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",120,With related children of the householder under 18 years,(X),(X),14.6,+/-2.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",121,With related children of the householder under 5 years only,(X),(X),9.3,+/-4.9
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",122,Married couple families,(X),(X),6.2,+/-1.1
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",123,With related children of the householder under 18 years,(X),(X),9.8,+/-2.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",124,With related children of the householder under 5 years only,(X),(X),2.4,+/-2.7
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",125,"Families with female householder, no spouse present",(X),(X),14.8,+/-2.5
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",126,With related children of the householder under 18 years,(X),(X),20.7,+/-3.9
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",127,With related children of the householder under 5 years only,(X),(X),21.9,+/-12.7
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",127.3,,,,,
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",128,All people,(X),(X),13.3,+/-1.2
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",129,Under 18 years,(X),(X),18.1,+/-3.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",130,Related children of the householder under 18 years,(X),(X),17.5,+/-3.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",131,Related children of the householder under 5 years,(X),(X),16.3,+/-3.9
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",132,Related children of the householder 5 to 17 years,(X),(X),18.0,+/-3.4
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",133,18 years and over,(X),(X),11.9,+/-0.9
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",134,18 to 64 years,(X),(X),12.3,+/-1.0
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",135,65 years and over,(X),(X),10.5,+/-1.8
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",136,People in families,(X),(X),10.7,+/-1.3
+DP03,5001800US2404,"Congressional District 4 (118th Congress), Maryland",137,Unrelated individuals 15 years and over,(X),(X),22.6,+/-1.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",0.5,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",1,Population 16 years and over,"632,783","+/-11,234","632,783",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",2,In labor force,"435,965","+/-10,445",68.9,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",3,Civilian labor force,"419,622","+/-9,700",66.3,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",4,Employed,"396,763","+/-9,492",62.7,+/-1.2
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",5,Unemployed,"22,859","+/-3,006",3.6,+/-0.5
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",6,Armed Forces,"16,343","+/-3,697",2.6,+/-0.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",7,Not in labor force,"196,818","+/-7,741",31.1,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",7.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",8,Civilian labor force,"419,622","+/-9,700","419,622",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",9,Unemployment Rate,(X),(X),5.4,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",9.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",10,Females 16 years and over,"323,738","+/-6,512","323,738",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",11,In labor force,"211,817","+/-6,618",65.4,+/-1.4
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",12,Civilian labor force,"208,897","+/-6,711",64.5,+/-1.4
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",13,Employed,"199,100","+/-6,740",61.5,+/-1.5
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",13.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",14,Own children of the householder under 6 years,"52,541","+/-3,180","52,541",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",15,All parents in family in labor force,"40,327","+/-3,467",76.8,+/-4.3
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",15.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",16,Own children of the householder 6 to 17 years,"118,834","+/-5,467","118,834",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",17,All parents in family in labor force,"94,869","+/-5,761",79.8,+/-2.9
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",17.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",18,Workers 16 years and over,"406,588","+/-10,157","406,588",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",19,"Car, truck, or van -- drove alone","262,373","+/-9,105",64.5,+/-1.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",20,"Car, truck, or van -- carpooled","27,282","+/-3,857",6.7,+/-0.9
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",21,Public transportation (excluding taxicab),"5,327","+/-1,466",1.3,+/-0.4
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",22,Walked,"5,126","+/-2,106",1.3,+/-0.5
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",23,Other means,"6,221","+/-1,599",1.5,+/-0.4
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",24,Worked from home,"100,259","+/-6,724",24.7,+/-1.5
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",24.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",25,Mean travel time to work (minutes),33.9,+/-1.0,(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",25.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",25.5,OCCUPATION,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",26,Civilian employed population 16 years and over,"396,763","+/-9,492","396,763",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",27,"Management, business, science, and arts occupations","210,527","+/-8,388",53.1,+/-1.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",28,Service occupations,"50,995","+/-4,543",12.9,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",29,Sales and office occupations,"75,045","+/-4,717",18.9,+/-1.0
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",30,"Natural resources, construction, and maintenance occupations","28,901","+/-2,958",7.3,+/-0.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",31,"Production, transportation, and material moving occupations","31,295","+/-2,894",7.9,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",31.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",31.5,INDUSTRY,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",32,Civilian employed population 16 years and over,"396,763","+/-9,492","396,763",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",33,"Agriculture, forestry, fishing and hunting, and mining","1,163",+/-567,0.3,+/-0.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",34,Construction,"29,692","+/-3,445",7.5,+/-0.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",35,Manufacturing,"14,401","+/-2,673",3.6,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",36,Wholesale trade,"7,274","+/-2,046",1.8,+/-0.5
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",37,Retail trade,"33,866","+/-3,694",8.5,+/-0.9
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",38,"Transportation and warehousing, and utilities","23,119","+/-2,868",5.8,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",39,Information,"6,349","+/-1,579",1.6,+/-0.4
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",40,"Finance and insurance, and real estate and rental and leasing","20,008","+/-2,869",5.0,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",41,"Professional, scientific, and management, and administrative and waste management services","63,729","+/-4,043",16.1,+/-1.0
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",42,"Educational services, and health care and social assistance","75,071","+/-4,277",18.9,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",43,"Arts, entertainment, and recreation, and accommodation and food services","25,167","+/-3,243",6.3,+/-0.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",44,"Other services, except public administration","19,934","+/-2,611",5.0,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",45,Public administration,"76,990","+/-5,449",19.4,+/-1.2
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",45.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",46,Civilian employed population 16 years and over,"396,763","+/-9,492","396,763",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",47,Private wage and salary workers,"252,788","+/-8,364",63.7,+/-1.5
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",48,Government workers,"128,854","+/-6,917",32.5,+/-1.5
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",49,Self-employed in own not incorporated business workers,"14,736","+/-2,142",3.7,+/-0.5
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",50,Unpaid family workers,385,+/-292,0.1,+/-0.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",50.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",51,Total households,"285,346","+/-4,572","285,346",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",52,"Less than $10,000","10,112","+/-1,887",3.5,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",53,"$10,000 to $14,999","3,864","+/-1,227",1.4,+/-0.4
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",54,"$15,000 to $24,999","9,130","+/-1,886",3.2,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",55,"$25,000 to $34,999","9,649","+/-1,650",3.4,+/-0.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",56,"$35,000 to $49,999","18,274","+/-2,581",6.4,+/-0.9
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",57,"$50,000 to $74,999","31,725","+/-3,304",11.1,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",58,"$75,000 to $99,999","35,568","+/-3,005",12.5,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",59,"$100,000 to $149,999","67,359","+/-3,990",23.6,+/-1.3
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",60,"$150,000 to $199,999","43,613","+/-3,512",15.3,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",61,"$200,000 or more","56,052","+/-3,790",19.6,+/-1.3
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",62,Median household income (dollars),"117,049","+/-2,919",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",63,Mean household income (dollars),"136,248","+/-3,676",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",63.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",64,With earnings,"237,091","+/-4,570",83.1,+/-1.0
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",65,Mean earnings (dollars),"133,166","+/-4,099",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",66,With Social Security,"71,797","+/-3,742",25.2,+/-1.2
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",67,Mean Social Security income (dollars),"22,384",+/-835,(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",68,With retirement income,"89,185","+/-4,861",31.3,+/-1.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",69,Mean retirement income (dollars),"43,169","+/-2,649",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",69.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",70,With Supplemental Security Income,"8,317","+/-1,746",2.9,+/-0.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",71,Mean Supplemental Security Income (dollars),"10,916","+/-1,193",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",72,With cash public assistance income,"7,303","+/-1,750",2.6,+/-0.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",73,Mean cash public assistance income (dollars),"5,443","+/-1,514",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",74,With Food Stamp/SNAP benefits in the past 12 months,"24,519","+/-2,866",8.6,+/-1.0
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",74.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",75,Families,"205,045","+/-5,142","205,045",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",76,"Less than $10,000","3,254","+/-1,071",1.6,+/-0.5
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",77,"$10,000 to $14,999",934,+/-428,0.5,+/-0.2
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",78,"$15,000 to $24,999","4,831","+/-1,527",2.4,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",79,"$25,000 to $34,999","4,712","+/-1,347",2.3,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",80,"$35,000 to $49,999","11,765","+/-2,074",5.7,+/-1.0
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",81,"$50,000 to $74,999","18,176","+/-2,312",8.9,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",82,"$75,000 to $99,999","24,800","+/-2,459",12.1,+/-1.2
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",83,"$100,000 to $149,999","47,983","+/-3,710",23.4,+/-1.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",84,"$150,000 to $199,999","38,166","+/-3,348",18.6,+/-1.4
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",85,"$200,000 or more","50,424","+/-3,751",24.6,+/-1.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",86,Median family income (dollars),"135,510","+/-4,000",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",87,Mean family income (dollars),"154,009","+/-4,461",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",87.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",88,Per capita income (dollars),"49,943","+/-1,230",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",88.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",89,Nonfamily households,"80,301","+/-4,524","80,301",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",90,Median nonfamily income (dollars),"70,933","+/-5,208",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",91,Mean nonfamily income (dollars),"83,045","+/-4,505",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",91.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",92,Median earnings for workers (dollars),"59,677","+/-2,587",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",93,"Median earnings for male full-time, year-round workers (dollars)","78,580","+/-3,010",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",94,"Median earnings for female full-time, year-round workers (dollars)","72,385","+/-3,154",(X),(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",94.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",95,Civilian noninstitutionalized population,"763,075","+/-13,174","763,075",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",96,With health insurance coverage,"729,135","+/-13,415",95.6,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",97,With private health insurance,"633,619","+/-14,333",83.0,+/-1.3
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",98,With public coverage,"210,967","+/-9,253",27.6,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",99,No health insurance coverage,"33,940","+/-5,181",4.4,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",99.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",100,Civilian noninstitutionalized population under 19 years,"185,702","+/-6,231","185,702",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",101,No health insurance coverage,"5,335","+/-2,081",2.9,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",101.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",102,Civilian noninstitutionalized population 19 to 64 years,"465,023","+/-10,087","465,023",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",103,In labor force:,"385,534","+/-9,553","385,534",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",104,Employed:,"364,823","+/-9,408","364,823",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",105,With health insurance coverage,"348,326","+/-9,964",95.5,+/-0.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",106,With private health insurance,"330,610","+/-10,313",90.6,+/-1.3
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",107,With public coverage,"35,499","+/-4,058",9.7,+/-1.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",108,No health insurance coverage,"16,497","+/-3,024",4.5,+/-0.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",109,Unemployed:,"20,711","+/-3,023","20,711",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",110,With health insurance coverage,"17,155","+/-2,543",82.8,+/-6.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",111,With private health insurance,"12,507","+/-2,178",60.4,+/-6.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",112,With public coverage,"5,401","+/-1,165",26.1,+/-4.9
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",113,No health insurance coverage,"3,556","+/-1,562",17.2,+/-6.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",114,Not in labor force:,"79,489","+/-4,839","79,489",(X)
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",115,With health insurance coverage,"71,906","+/-4,766",90.5,+/-2.2
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",116,With private health insurance,"55,393","+/-4,240",69.7,+/-3.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",117,With public coverage,"24,492","+/-2,976",30.8,+/-2.9
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",118,No health insurance coverage,"7,583","+/-1,804",9.5,+/-2.2
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",118.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",119,All families,(X),(X),3.4,+/-0.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",120,With related children of the householder under 18 years,(X),(X),4.3,+/-1.3
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",121,With related children of the householder under 5 years only,(X),(X),5.4,+/-4.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",122,Married couple families,(X),(X),1.5,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",123,With related children of the householder under 18 years,(X),(X),1.7,+/-1.2
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",124,With related children of the householder under 5 years only,(X),(X),3.0,+/-4.2
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",125,"Families with female householder, no spouse present",(X),(X),11.6,+/-3.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",126,With related children of the householder under 18 years,(X),(X),13.2,+/-4.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",127,With related children of the householder under 5 years only,(X),(X),15.9,+/-17.9
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",127.3,,,,,
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",128,All people,(X),(X),5.2,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",129,Under 18 years,(X),(X),5.1,+/-1.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",130,Related children of the householder under 18 years,(X),(X),5.0,+/-1.6
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",131,Related children of the householder under 5 years,(X),(X),8.3,+/-4.1
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",132,Related children of the householder 5 to 17 years,(X),(X),3.8,+/-1.4
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",133,18 years and over,(X),(X),5.2,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",134,18 to 64 years,(X),(X),4.9,+/-0.7
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",135,65 years and over,(X),(X),6.5,+/-1.3
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",136,People in families,(X),(X),3.4,+/-0.8
+DP03,5001800US2405,"Congressional District 5 (118th Congress), Maryland",137,Unrelated individuals 15 years and over,(X),(X),15.4,+/-2.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",0.5,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",1,Population 16 years and over,"627,367","+/-7,083","627,367",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",2,In labor force,"409,839","+/-8,485",65.3,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",3,Civilian labor force,"406,651","+/-8,610",64.8,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",4,Employed,"386,616","+/-8,389",61.6,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",5,Unemployed,"20,035","+/-2,463",3.2,+/-0.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",6,Armed Forces,"3,188","+/-1,143",0.5,+/-0.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",7,Not in labor force,"217,528","+/-8,164",34.7,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",7.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",8,Civilian labor force,"406,651","+/-8,610","406,651",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",9,Unemployment Rate,(X),(X),4.9,+/-0.6
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",9.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",10,Females 16 years and over,"316,770","+/-4,363","316,770",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",11,In labor force,"196,844","+/-5,102",62.1,+/-1.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",12,Civilian labor force,"196,407","+/-5,118",62.0,+/-1.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",13,Employed,"185,714","+/-5,264",58.6,+/-1.5
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",13.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",14,Own children of the householder under 6 years,"53,230","+/-3,144","53,230",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",15,All parents in family in labor force,"37,158","+/-3,578",69.8,+/-4.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",15.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",16,Own children of the householder 6 to 17 years,"113,355","+/-4,684","113,355",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",17,All parents in family in labor force,"81,609","+/-4,965",72.0,+/-3.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",17.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",18,Workers 16 years and over,"383,259","+/-8,238","383,259",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",19,"Car, truck, or van -- drove alone","243,795","+/-6,913",63.6,+/-1.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",20,"Car, truck, or van -- carpooled","29,213","+/-3,998",7.6,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",21,Public transportation (excluding taxicab),"5,599","+/-1,426",1.5,+/-0.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",22,Walked,"5,525","+/-1,069",1.4,+/-0.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",23,Other means,"7,996","+/-1,987",2.1,+/-0.5
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",24,Worked from home,"91,131","+/-4,217",23.8,+/-1.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",24.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",25,Mean travel time to work (minutes),28.5,+/-0.9,(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",25.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",25.5,OCCUPATION,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",26,Civilian employed population 16 years and over,"386,616","+/-8,389","386,616",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",27,"Management, business, science, and arts occupations","190,840","+/-6,232",49.4,+/-1.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",28,Service occupations,"55,492","+/-4,211",14.4,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",29,Sales and office occupations,"72,438","+/-4,419",18.7,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",30,"Natural resources, construction, and maintenance occupations","30,038","+/-3,138",7.8,+/-0.8
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",31,"Production, transportation, and material moving occupations","37,808","+/-3,675",9.8,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",31.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",31.5,INDUSTRY,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",32,Civilian employed population 16 years and over,"386,616","+/-8,389","386,616",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",33,"Agriculture, forestry, fishing and hunting, and mining","4,381","+/-1,141",1.1,+/-0.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",34,Construction,"30,325","+/-2,909",7.8,+/-0.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",35,Manufacturing,"22,519","+/-2,664",5.8,+/-0.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",36,Wholesale trade,"7,083","+/-1,461",1.8,+/-0.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",37,Retail trade,"37,881","+/-3,387",9.8,+/-0.9
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",38,"Transportation and warehousing, and utilities","18,983","+/-2,686",4.9,+/-0.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",39,Information,"6,313","+/-1,311",1.6,+/-0.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",40,"Finance and insurance, and real estate and rental and leasing","23,757","+/-2,613",6.1,+/-0.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",41,"Professional, scientific, and management, and administrative and waste management services","64,645","+/-4,392",16.7,+/-1.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",42,"Educational services, and health care and social assistance","84,220","+/-5,011",21.8,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",43,"Arts, entertainment, and recreation, and accommodation and food services","28,979","+/-3,428",7.5,+/-0.9
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",44,"Other services, except public administration","19,837","+/-2,582",5.1,+/-0.6
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",45,Public administration,"37,693","+/-3,736",9.7,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",45.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",46,Civilian employed population 16 years and over,"386,616","+/-8,389","386,616",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",47,Private wage and salary workers,"288,426","+/-8,104",74.6,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",48,Government workers,"79,381","+/-5,163",20.5,+/-1.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",49,Self-employed in own not incorporated business workers,"18,001","+/-2,057",4.7,+/-0.5
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",50,Unpaid family workers,808,+/-467,0.2,+/-0.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",50.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",51,Total households,"294,285","+/-4,873","294,285",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",52,"Less than $10,000","15,546","+/-2,211",5.3,+/-0.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",53,"$10,000 to $14,999","8,172","+/-1,600",2.8,+/-0.5
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",54,"$15,000 to $24,999","15,706","+/-2,017",5.3,+/-0.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",55,"$25,000 to $34,999","19,232","+/-2,215",6.5,+/-0.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",56,"$35,000 to $49,999","25,570","+/-2,393",8.7,+/-0.8
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",57,"$50,000 to $74,999","45,181","+/-2,992",15.4,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",58,"$75,000 to $99,999","38,379","+/-3,318",13.0,+/-1.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",59,"$100,000 to $149,999","56,457","+/-3,993",19.2,+/-1.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",60,"$150,000 to $199,999","31,343","+/-2,536",10.7,+/-0.9
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",61,"$200,000 or more","38,699","+/-3,060",13.2,+/-1.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",62,Median household income (dollars),"86,245","+/-2,762",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",63,Mean household income (dollars),"110,930","+/-2,984",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",63.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",64,With earnings,"235,575","+/-4,664",80.0,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",65,Mean earnings (dollars),"113,095","+/-3,225",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",66,With Social Security,"81,843","+/-3,288",27.8,+/-1.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",67,Mean Social Security income (dollars),"22,082",+/-794,(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",68,With retirement income,"71,714","+/-3,623",24.4,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",69,Mean retirement income (dollars),"31,315","+/-2,420",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",69.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",70,With Supplemental Security Income,"13,102","+/-1,901",4.5,+/-0.6
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",71,Mean Supplemental Security Income (dollars),"10,823","+/-1,353",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",72,With cash public assistance income,"9,693","+/-1,475",3.3,+/-0.5
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",73,Mean cash public assistance income (dollars),"4,518",+/-859,(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",74,With Food Stamp/SNAP benefits in the past 12 months,"36,534","+/-3,463",12.4,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",74.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",75,Families,"198,351","+/-4,739","198,351",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",76,"Less than $10,000","6,493","+/-1,542",3.3,+/-0.8
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",77,"$10,000 to $14,999","2,877",+/-949,1.5,+/-0.5
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",78,"$15,000 to $24,999","7,067","+/-1,416",3.6,+/-0.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",79,"$25,000 to $34,999","9,875","+/-1,780",5.0,+/-0.9
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",80,"$35,000 to $49,999","14,756","+/-1,809",7.4,+/-0.9
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",81,"$50,000 to $74,999","25,870","+/-2,801",13.0,+/-1.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",82,"$75,000 to $99,999","27,196","+/-2,846",13.7,+/-1.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",83,"$100,000 to $149,999","43,891","+/-3,556",22.1,+/-1.8
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",84,"$150,000 to $199,999","26,368","+/-2,216",13.3,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",85,"$200,000 or more","33,958","+/-2,843",17.1,+/-1.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",86,Median family income (dollars),"104,466","+/-3,566",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",87,Mean family income (dollars),"129,329","+/-4,277",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",87.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",88,Per capita income (dollars),"42,642","+/-1,300",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",88.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",89,Nonfamily households,"95,934","+/-4,610","95,934",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",90,Median nonfamily income (dollars),"50,730","+/-1,587",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",91,Mean nonfamily income (dollars),"67,456","+/-4,709",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",91.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",92,Median earnings for workers (dollars),"47,732","+/-1,729",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",93,"Median earnings for male full-time, year-round workers (dollars)","71,904","+/-2,818",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",94,"Median earnings for female full-time, year-round workers (dollars)","60,973","+/-2,476",(X),(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",94.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",95,Civilian noninstitutionalized population,"757,567","+/-11,651","757,567",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",96,With health insurance coverage,"711,075","+/-10,792",93.9,+/-0.8
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",97,With private health insurance,"547,323","+/-13,592",72.2,+/-1.6
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",98,With public coverage,"262,746","+/-9,364",34.7,+/-1.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",99,No health insurance coverage,"46,492","+/-6,595",6.1,+/-0.8
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",99.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",100,Civilian noninstitutionalized population under 19 years,"183,568","+/-6,204","183,568",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",101,No health insurance coverage,"6,463","+/-1,858",3.5,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",101.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",102,Civilian noninstitutionalized population 19 to 64 years,"457,667","+/-8,923","457,667",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",103,In labor force:,"367,930","+/-7,881","367,930",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",104,Employed:,"350,016","+/-7,613","350,016",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",105,With health insurance coverage,"324,360","+/-7,449",92.7,+/-1.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",106,With private health insurance,"296,475","+/-8,365",84.7,+/-1.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",107,With public coverage,"37,620","+/-3,164",10.7,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",108,No health insurance coverage,"25,656","+/-4,052",7.3,+/-1.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",109,Unemployed:,"17,914","+/-2,341","17,914",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",110,With health insurance coverage,"15,152","+/-2,394",84.6,+/-5.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",111,With private health insurance,"7,123","+/-1,369",39.8,+/-6.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",112,With public coverage,"8,753","+/-1,851",48.9,+/-6.7
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",113,No health insurance coverage,"2,762",+/-922,15.4,+/-5.3
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",114,Not in labor force:,"89,737","+/-5,596","89,737",(X)
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",115,With health insurance coverage,"79,075","+/-4,777",88.1,+/-2.5
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",116,With private health insurance,"46,874","+/-3,541",52.2,+/-3.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",117,With public coverage,"39,167","+/-3,740",43.6,+/-3.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",118,No health insurance coverage,"10,662","+/-2,523",11.9,+/-2.5
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",118.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",119,All families,(X),(X),8.2,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",120,With related children of the householder under 18 years,(X),(X),12.5,+/-2.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",121,With related children of the householder under 5 years only,(X),(X),13.1,+/-5.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",122,Married couple families,(X),(X),4.1,+/-0.9
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",123,With related children of the householder under 18 years,(X),(X),5.1,+/-1.8
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",124,With related children of the householder under 5 years only,(X),(X),4.0,+/-4.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",125,"Families with female householder, no spouse present",(X),(X),24.3,+/-4.5
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",126,With related children of the householder under 18 years,(X),(X),32.9,+/-6.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",127,With related children of the householder under 5 years only,(X),(X),35.5,+/-15.9
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",127.3,,,,,
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",128,All people,(X),(X),11.0,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",129,Under 18 years,(X),(X),15.4,+/-2.9
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",130,Related children of the householder under 18 years,(X),(X),15.2,+/-2.9
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",131,Related children of the householder under 5 years,(X),(X),14.5,+/-4.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",132,Related children of the householder 5 to 17 years,(X),(X),15.5,+/-3.1
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",133,18 years and over,(X),(X),9.7,+/-1.0
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",134,18 to 64 years,(X),(X),9.9,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",135,65 years and over,(X),(X),8.9,+/-1.2
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",136,People in families,(X),(X),8.9,+/-1.4
+DP03,5001800US2406,"Congressional District 6 (118th Congress), Maryland",137,Unrelated individuals 15 years and over,(X),(X),20.4,+/-2.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",0.5,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",1,Population 16 years and over,"606,857","+/-9,258","606,857",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",2,In labor force,"380,093","+/-9,613",62.6,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",3,Civilian labor force,"379,267","+/-9,595",62.5,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",4,Employed,"349,789","+/-9,608",57.6,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",5,Unemployed,"29,478","+/-3,284",4.9,+/-0.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",6,Armed Forces,826,+/-410,0.1,+/-0.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",7,Not in labor force,"226,764","+/-7,694",37.4,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",7.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",8,Civilian labor force,"379,267","+/-9,595","379,267",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",9,Unemployment Rate,(X),(X),7.8,+/-0.9
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",9.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",10,Females 16 years and over,"326,436","+/-5,767","326,436",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",11,In labor force,"197,465","+/-5,464",60.5,+/-1.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",12,Civilian labor force,"197,256","+/-5,450",60.4,+/-1.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",13,Employed,"182,588","+/-5,543",55.9,+/-1.4
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",13.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",14,Own children of the householder under 6 years,"48,607","+/-3,756","48,607",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",15,All parents in family in labor force,"32,227","+/-3,553",66.3,+/-5.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",15.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",16,Own children of the householder 6 to 17 years,"92,864","+/-4,745","92,864",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",17,All parents in family in labor force,"61,715","+/-5,223",66.5,+/-4.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",17.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",18,Workers 16 years and over,"341,812","+/-9,446","341,812",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",19,"Car, truck, or van -- drove alone","201,104","+/-9,212",58.8,+/-1.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",20,"Car, truck, or van -- carpooled","20,517","+/-3,138",6.0,+/-0.9
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",21,Public transportation (excluding taxicab),"25,585","+/-3,155",7.5,+/-0.9
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",22,Walked,"13,256","+/-2,154",3.9,+/-0.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",23,Other means,"10,659","+/-2,008",3.1,+/-0.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",24,Worked from home,"70,691","+/-4,524",20.7,+/-1.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",24.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",25,Mean travel time to work (minutes),27.1,+/-0.8,(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",25.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",25.5,OCCUPATION,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",26,Civilian employed population 16 years and over,"349,789","+/-9,608","349,789",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",27,"Management, business, science, and arts occupations","156,032","+/-5,639",44.6,+/-1.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",28,Service occupations,"63,967","+/-4,585",18.3,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",29,Sales and office occupations,"62,977","+/-4,606",18.0,+/-1.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",30,"Natural resources, construction, and maintenance occupations","20,656","+/-2,680",5.9,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",31,"Production, transportation, and material moving occupations","46,157","+/-4,056",13.2,+/-1.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",31.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",31.5,INDUSTRY,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",32,Civilian employed population 16 years and over,"349,789","+/-9,608","349,789",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",33,"Agriculture, forestry, fishing and hunting, and mining","2,114","+/-1,025",0.6,+/-0.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",34,Construction,"20,385","+/-2,660",5.8,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",35,Manufacturing,"17,754","+/-2,375",5.1,+/-0.7
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",36,Wholesale trade,"5,324","+/-1,294",1.5,+/-0.4
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",37,Retail trade,"35,447","+/-3,646",10.1,+/-0.9
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",38,"Transportation and warehousing, and utilities","24,036","+/-3,181",6.9,+/-0.9
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",39,Information,"5,599","+/-1,474",1.6,+/-0.4
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",40,"Finance and insurance, and real estate and rental and leasing","17,937","+/-2,659",5.1,+/-0.7
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",41,"Professional, scientific, and management, and administrative and waste management services","44,248","+/-4,066",12.6,+/-1.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",42,"Educational services, and health care and social assistance","107,419","+/-5,524",30.7,+/-1.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",43,"Arts, entertainment, and recreation, and accommodation and food services","21,458","+/-2,710",6.1,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",44,"Other services, except public administration","16,134","+/-2,493",4.6,+/-0.7
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",45,Public administration,"31,934","+/-3,295",9.1,+/-0.9
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",45.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",46,Civilian employed population 16 years and over,"349,789","+/-9,608","349,789",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",47,Private wage and salary workers,"262,022","+/-9,555",74.9,+/-1.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",48,Government workers,"72,181","+/-5,023",20.6,+/-1.4
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",49,Self-employed in own not incorporated business workers,"14,802","+/-2,216",4.2,+/-0.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",50,Unpaid family workers,784,+/-734,0.2,+/-0.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",50.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",51,Total households,"320,046","+/-5,387","320,046",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",52,"Less than $10,000","32,711","+/-3,399",10.2,+/-1.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",53,"$10,000 to $14,999","17,671","+/-2,636",5.5,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",54,"$15,000 to $24,999","28,276","+/-3,006",8.8,+/-0.9
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",55,"$25,000 to $34,999","28,020","+/-3,681",8.8,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",56,"$35,000 to $49,999","38,490","+/-3,364",12.0,+/-1.0
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",57,"$50,000 to $74,999","57,735","+/-4,423",18.0,+/-1.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",58,"$75,000 to $99,999","36,826","+/-3,083",11.5,+/-1.0
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",59,"$100,000 to $149,999","40,808","+/-3,315",12.8,+/-1.0
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",60,"$150,000 to $199,999","20,073","+/-2,588",6.3,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",61,"$200,000 or more","19,436","+/-1,980",6.1,+/-0.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",62,Median household income (dollars),"55,335","+/-1,762",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",63,Mean household income (dollars),"76,319","+/-2,055",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",63.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",64,With earnings,"241,230","+/-6,088",75.4,+/-1.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",65,Mean earnings (dollars),"82,969","+/-2,415",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",66,With Social Security,"88,741","+/-3,128",27.7,+/-1.0
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",67,Mean Social Security income (dollars),"15,953",+/-787,(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",68,With retirement income,"69,969","+/-3,569",21.9,+/-1.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",69,Mean retirement income (dollars),"21,903","+/-1,767",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",69.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",70,With Supplemental Security Income,"25,087","+/-2,795",7.8,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",71,Mean Supplemental Security Income (dollars),"10,198",+/-609,(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",72,With cash public assistance income,"20,151","+/-2,246",6.3,+/-0.7
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",73,Mean cash public assistance income (dollars),"3,726",+/-730,(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",74,With Food Stamp/SNAP benefits in the past 12 months,"82,485","+/-3,937",25.8,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",74.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",75,Families,"164,865","+/-5,808","164,865",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",76,"Less than $10,000","10,844","+/-1,861",6.6,+/-1.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",77,"$10,000 to $14,999","6,019","+/-1,418",3.7,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",78,"$15,000 to $24,999","11,747","+/-2,107",7.1,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",79,"$25,000 to $34,999","11,890","+/-2,606",7.2,+/-1.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",80,"$35,000 to $49,999","19,971","+/-2,716",12.1,+/-1.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",81,"$50,000 to $74,999","28,881","+/-3,579",17.5,+/-2.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",82,"$75,000 to $99,999","19,979","+/-2,558",12.1,+/-1.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",83,"$100,000 to $149,999","26,129","+/-2,585",15.8,+/-1.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",84,"$150,000 to $199,999","14,568","+/-2,108",8.8,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",85,"$200,000 or more","14,837","+/-1,939",9.0,+/-1.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",86,Median family income (dollars),"68,535","+/-3,677",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",87,Mean family income (dollars),"92,781","+/-3,392",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",87.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",88,Per capita income (dollars),"33,397",+/-837,(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",88.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",89,Nonfamily households,"155,181","+/-6,412","155,181",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",90,Median nonfamily income (dollars),"41,815","+/-2,411",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",91,Mean nonfamily income (dollars),"56,505","+/-2,714",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",91.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",92,Median earnings for workers (dollars),"41,549",+/-782,(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",93,"Median earnings for male full-time, year-round workers (dollars)","52,197","+/-2,090",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",94,"Median earnings for female full-time, year-round workers (dollars)","51,227","+/-1,014",(X),(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",94.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",95,Civilian noninstitutionalized population,"736,092","+/-11,471","736,092",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",96,With health insurance coverage,"689,165","+/-12,465",93.6,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",97,With private health insurance,"433,436","+/-12,254",58.9,+/-1.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",98,With public coverage,"353,412","+/-11,602",48.0,+/-1.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",99,No health insurance coverage,"46,927","+/-5,795",6.4,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",99.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",100,Civilian noninstitutionalized population under 19 years,"164,278","+/-5,775","164,278",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",101,No health insurance coverage,"10,277","+/-3,414",6.3,+/-2.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",101.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",102,Civilian noninstitutionalized population 19 to 64 years,"461,592","+/-7,478","461,592",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",103,In labor force:,"351,165","+/-8,848","351,165",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",104,Employed:,"325,462","+/-9,039","325,462",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",105,With health insurance coverage,"304,756","+/-8,870",93.6,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",106,With private health insurance,"258,744","+/-8,208",79.5,+/-1.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",107,With public coverage,"60,579","+/-4,981",18.6,+/-1.4
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",108,No health insurance coverage,"20,706","+/-2,715",6.4,+/-0.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",109,Unemployed:,"25,703","+/-3,105","25,703",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",110,With health insurance coverage,"21,557","+/-2,870",83.9,+/-5.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",111,With private health insurance,"8,331","+/-1,649",32.4,+/-5.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",112,With public coverage,"14,452","+/-2,453",56.2,+/-6.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",113,No health insurance coverage,"4,146","+/-1,473",16.1,+/-5.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",114,Not in labor force:,"110,427","+/-5,894","110,427",(X)
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",115,With health insurance coverage,"99,222","+/-5,792",89.9,+/-2.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",116,With private health insurance,"38,297","+/-4,274",34.7,+/-3.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",117,With public coverage,"71,150","+/-5,071",64.4,+/-3.0
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",118,No health insurance coverage,"11,205","+/-2,400",10.1,+/-2.1
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",118.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",119,All families,(X),(X),16.1,+/-1.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",120,With related children of the householder under 18 years,(X),(X),25.8,+/-3.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",121,With related children of the householder under 5 years only,(X),(X),17.6,+/-6.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",122,Married couple families,(X),(X),6.5,+/-1.8
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",123,With related children of the householder under 18 years,(X),(X),8.9,+/-3.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",124,With related children of the householder under 5 years only,(X),(X),1.8,+/-2.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",125,"Families with female householder, no spouse present",(X),(X),28.5,+/-3.7
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",126,With related children of the householder under 18 years,(X),(X),38.2,+/-5.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",127,With related children of the householder under 5 years only,(X),(X),42.7,+/-14.7
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",127.3,,,,,
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",128,All people,(X),(X),20.5,+/-1.7
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",129,Under 18 years,(X),(X),30.7,+/-4.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",130,Related children of the householder under 18 years,(X),(X),30.5,+/-4.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",131,Related children of the householder under 5 years,(X),(X),35.8,+/-7.2
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",132,Related children of the householder 5 to 17 years,(X),(X),28.3,+/-4.4
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",133,18 years and over,(X),(X),17.8,+/-1.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",134,18 to 64 years,(X),(X),17.6,+/-1.5
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",135,65 years and over,(X),(X),18.7,+/-2.6
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",136,People in families,(X),(X),18.0,+/-2.3
+DP03,5001800US2407,"Congressional District 7 (118th Congress), Maryland",137,Unrelated individuals 15 years and over,(X),(X),26.6,+/-2.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",0.5,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",1,Population 16 years and over,"621,509","+/-7,466","621,509",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",2,In labor force,"423,773","+/-8,463",68.2,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",3,Civilian labor force,"421,683","+/-8,649",67.8,+/-1.0
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",4,Employed,"396,889","+/-8,959",63.9,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",5,Unemployed,"24,794","+/-2,496",4.0,+/-0.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",6,Armed Forces,"2,090",+/-717,0.3,+/-0.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",7,Not in labor force,"197,736","+/-5,675",31.8,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",7.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",8,Civilian labor force,"421,683","+/-8,649","421,683",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",9,Unemployment Rate,(X),(X),5.9,+/-0.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",9.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",10,Females 16 years and over,"323,677","+/-4,621","323,677",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",11,In labor force,"202,662","+/-5,530",62.6,+/-1.3
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",12,Civilian labor force,"201,897","+/-5,577",62.4,+/-1.3
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",13,Employed,"190,381","+/-5,695",58.8,+/-1.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",13.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",14,Own children of the householder under 6 years,"51,223","+/-3,173","51,223",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",15,All parents in family in labor force,"36,138","+/-2,966",70.6,+/-4.8
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",15.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",16,Own children of the householder 6 to 17 years,"120,101","+/-4,470","120,101",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",17,All parents in family in labor force,"94,340","+/-4,779",78.6,+/-2.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",17.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",18,Workers 16 years and over,"391,256","+/-8,726","391,256",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",19,"Car, truck, or van -- drove alone","179,236","+/-6,993",45.8,+/-1.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",20,"Car, truck, or van -- carpooled","24,157","+/-3,378",6.2,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",21,Public transportation (excluding taxicab),"19,509","+/-2,665",5.0,+/-0.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",22,Walked,"7,051","+/-1,511",1.8,+/-0.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",23,Other means,"8,677","+/-1,697",2.2,+/-0.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",24,Worked from home,"152,626","+/-6,300",39.0,+/-1.5
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",24.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",25,Mean travel time to work (minutes),30.3,+/-0.7,(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",25.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",25.5,OCCUPATION,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",26,Civilian employed population 16 years and over,"396,889","+/-8,959","396,889",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",27,"Management, business, science, and arts occupations","248,985","+/-6,703",62.7,+/-1.3
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",28,Service occupations,"52,467","+/-4,399",13.2,+/-1.0
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",29,Sales and office occupations,"57,752","+/-4,440",14.6,+/-1.0
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",30,"Natural resources, construction, and maintenance occupations","18,755","+/-2,161",4.7,+/-0.5
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",31,"Production, transportation, and material moving occupations","18,930","+/-2,610",4.8,+/-0.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",31.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",31.5,INDUSTRY,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",32,Civilian employed population 16 years and over,"396,889","+/-8,959","396,889",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",33,"Agriculture, forestry, fishing and hunting, and mining",674,+/-427,0.2,+/-0.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",34,Construction,"21,537","+/-2,728",5.4,+/-0.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",35,Manufacturing,"11,521","+/-1,604",2.9,+/-0.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",36,Wholesale trade,"3,196",+/-851,0.8,+/-0.2
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",37,Retail trade,"26,157","+/-2,633",6.6,+/-0.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",38,"Transportation and warehousing, and utilities","11,734","+/-1,724",3.0,+/-0.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",39,Information,"8,733","+/-1,442",2.2,+/-0.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",40,"Finance and insurance, and real estate and rental and leasing","29,583","+/-2,662",7.5,+/-0.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",41,"Professional, scientific, and management, and administrative and waste management services","94,764","+/-5,214",23.9,+/-1.2
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",42,"Educational services, and health care and social assistance","86,031","+/-5,082",21.7,+/-1.2
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",43,"Arts, entertainment, and recreation, and accommodation and food services","29,147","+/-3,111",7.3,+/-0.8
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",44,"Other services, except public administration","27,107","+/-2,618",6.8,+/-0.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",45,Public administration,"46,705","+/-3,398",11.8,+/-0.8
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",45.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",46,Civilian employed population 16 years and over,"396,889","+/-8,959","396,889",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",47,Private wage and salary workers,"279,220","+/-8,149",70.4,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",48,Government workers,"84,922","+/-4,130",21.4,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",49,Self-employed in own not incorporated business workers,"31,403","+/-3,354",7.9,+/-0.8
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",50,Unpaid family workers,"1,344",+/-772,0.3,+/-0.2
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",50.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",51,Total households,"287,117","+/-3,715","287,117",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",52,"Less than $10,000","11,420","+/-2,052",4.0,+/-0.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",53,"$10,000 to $14,999","4,648","+/-1,270",1.6,+/-0.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",54,"$15,000 to $24,999","11,146","+/-1,883",3.9,+/-0.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",55,"$25,000 to $34,999","11,383","+/-1,925",4.0,+/-0.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",56,"$35,000 to $49,999","21,396","+/-2,280",7.5,+/-0.8
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",57,"$50,000 to $74,999","31,428","+/-2,596",10.9,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",58,"$75,000 to $99,999","28,469","+/-2,711",9.9,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",59,"$100,000 to $149,999","51,844","+/-3,616",18.1,+/-1.2
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",60,"$150,000 to $199,999","38,260","+/-2,910",13.3,+/-1.0
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",61,"$200,000 or more","77,123","+/-3,216",26.9,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",62,Median household income (dollars),"120,948","+/-3,030",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",63,Mean household income (dollars),"172,864","+/-5,061",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",63.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",64,With earnings,"233,317","+/-4,105",81.3,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",65,Mean earnings (dollars),"170,053","+/-5,146",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",66,With Social Security,"76,595","+/-2,728",26.7,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",67,Mean Social Security income (dollars),"25,476",+/-860,(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",68,With retirement income,"73,360","+/-3,094",25.6,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",69,Mean retirement income (dollars),"50,898","+/-3,599",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",69.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",70,With Supplemental Security Income,"7,873","+/-1,268",2.7,+/-0.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",71,Mean Supplemental Security Income (dollars),"10,687",+/-995,(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",72,With cash public assistance income,"8,293","+/-1,637",2.9,+/-0.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",73,Mean cash public assistance income (dollars),"6,377","+/-1,172",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",74,With Food Stamp/SNAP benefits in the past 12 months,"20,609","+/-2,371",7.2,+/-0.8
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",74.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",75,Families,"197,729","+/-4,401","197,729",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",76,"Less than $10,000","4,648","+/-1,278",2.4,+/-0.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",77,"$10,000 to $14,999","1,228",+/-709,0.6,+/-0.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",78,"$15,000 to $24,999","6,065","+/-1,604",3.1,+/-0.8
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",79,"$25,000 to $34,999","5,841","+/-1,406",3.0,+/-0.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",80,"$35,000 to $49,999","11,146","+/-1,835",5.6,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",81,"$50,000 to $74,999","17,651","+/-2,174",8.9,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",82,"$75,000 to $99,999","16,595","+/-1,925",8.4,+/-1.0
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",83,"$100,000 to $149,999","35,790","+/-3,307",18.1,+/-1.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",84,"$150,000 to $199,999","29,513","+/-2,550",14.9,+/-1.2
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",85,"$200,000 or more","69,252","+/-3,141",35.0,+/-1.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",86,Median family income (dollars),"149,851","+/-4,620",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",87,Mean family income (dollars),"206,127","+/-7,424",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",87.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",88,Per capita income (dollars),"64,779","+/-2,021",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",88.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",89,Nonfamily households,"89,388","+/-3,865","89,388",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",90,Median nonfamily income (dollars),"71,671","+/-3,380",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",91,Mean nonfamily income (dollars),"92,799","+/-4,971",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",91.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",92,Median earnings for workers (dollars),"61,944","+/-1,681",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",93,"Median earnings for male full-time, year-round workers (dollars)","99,078","+/-4,144",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",94,"Median earnings for female full-time, year-round workers (dollars)","83,316","+/-1,922",(X),(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",94.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",95,Civilian noninstitutionalized population,"770,275","+/-10,222","770,275",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",96,With health insurance coverage,"725,013","+/-9,998",94.1,+/-0.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",97,With private health insurance,"590,825","+/-10,541",76.7,+/-1.2
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",98,With public coverage,"241,870","+/-9,576",31.4,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",99,No health insurance coverage,"45,262","+/-4,847",5.9,+/-0.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",99.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",100,Civilian noninstitutionalized population under 19 years,"186,895","+/-6,063","186,895",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",101,No health insurance coverage,"4,568","+/-1,403",2.4,+/-0.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",101.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",102,Civilian noninstitutionalized population 19 to 64 years,"444,232","+/-6,744","444,232",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",103,In labor force:,"374,925","+/-7,509","374,925",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",104,Employed:,"353,049","+/-7,799","353,049",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",105,With health insurance coverage,"325,954","+/-7,656",92.3,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",106,With private health insurance,"300,819","+/-7,746",85.2,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",107,With public coverage,"32,369","+/-3,681",9.2,+/-1.0
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",108,No health insurance coverage,"27,095","+/-3,172",7.7,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",109,Unemployed:,"21,876","+/-2,438","21,876",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",110,With health insurance coverage,"18,357","+/-2,378",83.9,+/-4.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",111,With private health insurance,"11,570","+/-1,811",52.9,+/-6.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",112,With public coverage,"7,583","+/-1,725",34.7,+/-6.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",113,No health insurance coverage,"3,519","+/-1,047",16.1,+/-4.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",114,Not in labor force:,"69,307","+/-4,243","69,307",(X)
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",115,With health insurance coverage,"61,253","+/-4,160",88.4,+/-2.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",116,With private health insurance,"45,376","+/-3,807",65.5,+/-3.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",117,With public coverage,"20,160","+/-2,703",29.1,+/-3.5
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",118,No health insurance coverage,"8,054","+/-1,754",11.6,+/-2.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",118.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",119,All families,(X),(X),5.3,+/-0.8
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",120,With related children of the householder under 18 years,(X),(X),8.0,+/-1.7
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",121,With related children of the householder under 5 years only,(X),(X),6.7,+/-4.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",122,Married couple families,(X),(X),3.1,+/-0.8
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",123,With related children of the householder under 18 years,(X),(X),4.1,+/-1.5
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",124,With related children of the householder under 5 years only,(X),(X),4.7,+/-4.5
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",125,"Families with female householder, no spouse present",(X),(X),14.4,+/-3.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",126,With related children of the householder under 18 years,(X),(X),21.2,+/-5.5
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",127,With related children of the householder under 5 years only,(X),(X),21.6,+/-21.5
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",127.3,,,,,
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",128,All people,(X),(X),7.8,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",129,Under 18 years,(X),(X),10.0,+/-2.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",130,Related children of the householder under 18 years,(X),(X),9.8,+/-2.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",131,Related children of the householder under 5 years,(X),(X),12.1,+/-3.6
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",132,Related children of the householder 5 to 17 years,(X),(X),9.1,+/-2.3
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",133,18 years and over,(X),(X),7.1,+/-0.9
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",134,18 to 64 years,(X),(X),7.0,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",135,65 years and over,(X),(X),7.5,+/-1.4
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",136,People in families,(X),(X),6.0,+/-1.1
+DP03,5001800US2408,"Congressional District 8 (118th Congress), Maryland",137,Unrelated individuals 15 years and over,(X),(X),16.8,+/-2.0

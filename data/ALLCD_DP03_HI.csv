@@ -1,0 +1,337 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",0.5,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",1,Population 16 years and over,"587,333","+/-6,974","587,333",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",2,In labor force,"378,591","+/-6,752",64.5,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",3,Civilian labor force,"350,288","+/-6,584",59.6,+/-0.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",4,Employed,"327,223","+/-6,340",55.7,+/-0.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",5,Unemployed,"23,065","+/-2,956",3.9,+/-0.5
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",6,Armed Forces,"28,303","+/-3,284",4.8,+/-0.5
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",7,Not in labor force,"208,742","+/-5,333",35.5,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",7.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",8,Civilian labor force,"350,288","+/-6,584","350,288",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",9,Unemployment Rate,(X),(X),6.6,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",9.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",10,Females 16 years and over,"293,893","+/-4,133","293,893",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",11,In labor force,"175,347","+/-4,386",59.7,+/-1.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",12,Civilian labor force,"169,700","+/-4,395",57.7,+/-1.3
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",13,Employed,"159,315","+/-4,248",54.2,+/-1.4
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",13.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",14,Own children of the householder under 6 years,"42,759","+/-3,191","42,759",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",15,All parents in family in labor force,"24,985","+/-2,868",58.4,+/-4.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",15.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",16,Own children of the householder 6 to 17 years,"88,628","+/-3,768","88,628",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",17,All parents in family in labor force,"64,184","+/-4,018",72.4,+/-3.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",17.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",18,Workers 16 years and over,"346,507","+/-6,912","346,507",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",19,"Car, truck, or van -- drove alone","218,622","+/-6,368",63.1,+/-1.4
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",20,"Car, truck, or van -- carpooled","46,718","+/-4,118",13.5,+/-1.1
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",21,Public transportation (excluding taxicab),"16,463","+/-2,952",4.8,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",22,Walked,"16,356","+/-2,238",4.7,+/-0.6
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",23,Other means,"10,150","+/-1,834",2.9,+/-0.5
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",24,Worked from home,"38,198","+/-3,500",11.0,+/-1.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",24.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",25,Mean travel time to work (minutes),25.1,+/-0.6,(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",25.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",25.5,OCCUPATION,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",26,Civilian employed population 16 years and over,"327,223","+/-6,340","327,223",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",27,"Management, business, science, and arts occupations","137,479","+/-5,123",42.0,+/-1.4
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",28,Service occupations,"63,014","+/-4,749",19.3,+/-1.3
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",29,Sales and office occupations,"75,132","+/-3,967",23.0,+/-1.1
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",30,"Natural resources, construction, and maintenance occupations","25,645","+/-2,379",7.8,+/-0.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",31,"Production, transportation, and material moving occupations","25,953","+/-2,584",7.9,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",31.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",31.5,INDUSTRY,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",32,Civilian employed population 16 years and over,"327,223","+/-6,340","327,223",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",33,"Agriculture, forestry, fishing and hunting, and mining","1,496",+/-662,0.5,+/-0.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",34,Construction,"21,595","+/-2,498",6.6,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",35,Manufacturing,"10,047","+/-1,632",3.1,+/-0.5
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",36,Wholesale trade,"8,314","+/-2,162",2.5,+/-0.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",37,Retail trade,"32,948","+/-2,878",10.1,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",38,"Transportation and warehousing, and utilities","20,933","+/-2,015",6.4,+/-0.6
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",39,Information,"5,024","+/-1,259",1.5,+/-0.4
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",40,"Finance and insurance, and real estate and rental and leasing","25,955","+/-2,170",7.9,+/-0.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",41,"Professional, scientific, and management, and administrative and waste management services","35,056","+/-3,240",10.7,+/-1.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",42,"Educational services, and health care and social assistance","80,042","+/-3,988",24.5,+/-1.1
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",43,"Arts, entertainment, and recreation, and accommodation and food services","41,762","+/-4,094",12.8,+/-1.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",44,"Other services, except public administration","12,439","+/-1,632",3.8,+/-0.5
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",45,Public administration,"31,612","+/-3,128",9.7,+/-0.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",45.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",45.5,CLASS OF WORKER,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",46,Civilian employed population 16 years and over,"327,223","+/-6,340","327,223",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",47,Private wage and salary workers,"226,900","+/-6,781",69.3,+/-1.6
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",48,Government workers,"79,983","+/-5,308",24.4,+/-1.5
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",49,Self-employed in own not incorporated business workers,"19,733","+/-2,352",6.0,+/-0.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",50,Unpaid family workers,607,+/-365,0.2,+/-0.1
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",50.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",51,Total households,"252,910","+/-3,517","252,910",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",52,"Less than $10,000","12,950","+/-2,084",5.1,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",53,"$10,000 to $14,999","6,958","+/-1,493",2.8,+/-0.6
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",54,"$15,000 to $24,999","13,302","+/-1,844",5.3,+/-0.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",55,"$25,000 to $34,999","12,784","+/-2,089",5.1,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",56,"$35,000 to $49,999","21,432","+/-2,560",8.5,+/-1.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",57,"$50,000 to $74,999","38,970","+/-2,905",15.4,+/-1.1
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",58,"$75,000 to $99,999","34,320","+/-3,085",13.6,+/-1.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",59,"$100,000 to $149,999","48,360","+/-3,687",19.1,+/-1.4
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",60,"$150,000 to $199,999","28,772","+/-2,183",11.4,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",61,"$200,000 or more","35,062","+/-2,864",13.9,+/-1.1
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",62,Median household income (dollars),"89,167","+/-2,456",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",63,Mean household income (dollars),"114,928","+/-3,411",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",63.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",64,With earnings,"200,788","+/-4,186",79.4,+/-1.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",65,Mean earnings (dollars),"106,790","+/-3,568",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",66,With Social Security,"88,086","+/-2,986",34.8,+/-1.1
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",67,Mean Social Security income (dollars),"22,427",+/-535,(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",68,With retirement income,"78,277","+/-3,264",31.0,+/-1.3
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",69,Mean retirement income (dollars),"36,550","+/-2,679",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",69.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",70,With Supplemental Security Income,"9,974","+/-1,326",3.9,+/-0.5
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",71,Mean Supplemental Security Income (dollars),"9,809","+/-1,049",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",72,With cash public assistance income,"13,312","+/-2,124",5.3,+/-0.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",73,Mean cash public assistance income (dollars),"8,888","+/-1,220",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",74,With Food Stamp/SNAP benefits in the past 12 months,"24,633","+/-2,412",9.7,+/-0.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",74.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",75,Families,"167,409","+/-4,853","167,409",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",76,"Less than $10,000","4,228","+/-1,064",2.5,+/-0.6
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",77,"$10,000 to $14,999","2,630",+/-998,1.6,+/-0.6
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",78,"$15,000 to $24,999","6,896","+/-1,511",4.1,+/-0.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",79,"$25,000 to $34,999","6,446","+/-1,163",3.9,+/-0.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",80,"$35,000 to $49,999","10,246","+/-1,596",6.1,+/-0.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",81,"$50,000 to $74,999","21,365","+/-2,163",12.8,+/-1.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",82,"$75,000 to $99,999","23,441","+/-2,807",14.0,+/-1.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",83,"$100,000 to $149,999","38,598","+/-3,105",23.1,+/-1.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",84,"$150,000 to $199,999","23,552","+/-2,016",14.1,+/-1.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",85,"$200,000 or more","30,007","+/-2,722",17.9,+/-1.5
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",86,Median family income (dollars),"110,244","+/-4,140",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",87,Mean family income (dollars),"133,633","+/-4,365",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",87.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",88,Per capita income (dollars),"40,981","+/-1,050",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",88.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",89,Nonfamily households,"85,501","+/-4,200","85,501",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",90,Median nonfamily income (dollars),"54,563","+/-3,305",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",91,Mean nonfamily income (dollars),"68,977","+/-3,606",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",91.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",92,Median earnings for workers (dollars),"43,577","+/-2,100",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",93,"Median earnings for male full-time, year-round workers (dollars)","64,483","+/-1,864",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",94,"Median earnings for female full-time, year-round workers (dollars)","51,331","+/-1,119",(X),(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",94.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",95,Civilian noninstitutionalized population,"678,215","+/-9,763","678,215",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",96,With health insurance coverage,"653,514","+/-9,591",96.4,+/-0.4
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",97,With private health insurance,"526,765","+/-11,105",77.7,+/-1.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",98,With public coverage,"252,799","+/-8,290",37.3,+/-1.1
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",99,No health insurance coverage,"24,701","+/-2,800",3.6,+/-0.4
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",99.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",100,Civilian noninstitutionalized population under 19 years,"146,196","+/-5,978","146,196",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",101,No health insurance coverage,"3,798","+/-1,565",2.6,+/-1.1
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",101.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",102,Civilian noninstitutionalized population 19 to 64 years,"391,645","+/-5,989","391,645",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",103,In labor force:,"315,140","+/-6,564","315,140",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",104,Employed:,"295,098","+/-6,375","295,098",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",105,With health insurance coverage,"286,432","+/-6,194",97.1,+/-0.6
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",106,With private health insurance,"266,234","+/-6,519",90.2,+/-1.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",107,With public coverage,"35,230","+/-3,637",11.9,+/-1.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",108,No health insurance coverage,"8,666","+/-1,710",2.9,+/-0.6
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",109,Unemployed:,"20,042","+/-2,829","20,042",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",110,With health insurance coverage,"16,479","+/-2,236",82.2,+/-5.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",111,With private health insurance,"9,491","+/-1,504",47.4,+/-7.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",112,With public coverage,"8,314","+/-1,699",41.5,+/-6.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",113,No health insurance coverage,"3,563","+/-1,390",17.8,+/-5.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",114,Not in labor force:,"76,505","+/-3,759","76,505",(X)
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",115,With health insurance coverage,"69,264","+/-3,821",90.5,+/-1.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",116,With private health insurance,"46,752","+/-3,142",61.1,+/-3.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",117,With public coverage,"29,690","+/-2,720",38.8,+/-2.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",118,No health insurance coverage,"7,241","+/-1,333",9.5,+/-1.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",118.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",119,All families,(X),(X),6.5,+/-1.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",120,With related children of the householder under 18 years,(X),(X),9.5,+/-1.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",121,With related children of the householder under 5 years only,(X),(X),9.1,+/-5.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",122,Married couple families,(X),(X),4.3,+/-1.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",123,With related children of the householder under 18 years,(X),(X),5.2,+/-1.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",124,With related children of the householder under 5 years only,(X),(X),6.3,+/-5.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",125,"Families with female householder, no spouse present",(X),(X),14.1,+/-3.6
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",126,With related children of the householder under 18 years,(X),(X),25.1,+/-6.7
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",127,With related children of the householder under 5 years only,(X),(X),30.9,+/-22.4
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",127.3,,,,,
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",128,All people,(X),(X),9.7,+/-1.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",129,Under 18 years,(X),(X),10.7,+/-2.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",130,Related children of the householder under 18 years,(X),(X),10.4,+/-2.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",131,Related children of the householder under 5 years,(X),(X),11.1,+/-3.8
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",132,Related children of the householder 5 to 17 years,(X),(X),10.1,+/-2.2
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",133,18 years and over,(X),(X),9.5,+/-0.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",134,18 to 64 years,(X),(X),9.3,+/-0.9
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",135,65 years and over,(X),(X),10.0,+/-1.4
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",136,People in families,(X),(X),6.1,+/-1.0
+DP03,5001800US1501,"Congressional District 1 (118th Congress), Hawaii",137,Unrelated individuals 15 years and over,(X),(X),24.6,+/-2.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",0.5,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",1,Population 16 years and over,"578,887","+/-7,313","578,887",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",2,In labor force,"360,745","+/-6,708",62.3,+/-1.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",3,Civilian labor force,"339,912","+/-6,534",58.7,+/-0.9
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",4,Employed,"309,740","+/-6,334",53.5,+/-1.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",5,Unemployed,"30,172","+/-3,063",5.2,+/-0.5
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",6,Armed Forces,"20,833","+/-1,944",3.6,+/-0.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",7,Not in labor force,"218,142","+/-6,478",37.7,+/-1.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",7.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",8,Civilian labor force,"339,912","+/-6,534","339,912",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",9,Unemployment Rate,(X),(X),8.9,+/-0.9
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",9.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",10,Females 16 years and over,"289,811","+/-4,244","289,811",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",11,In labor force,"173,566","+/-4,524",59.9,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",12,Civilian labor force,"170,559","+/-4,553",58.9,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",13,Employed,"154,710","+/-4,442",53.4,+/-1.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",13.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",14,Own children of the householder under 6 years,"46,155","+/-3,030","46,155",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",15,All parents in family in labor force,"31,907","+/-3,123",69.1,+/-5.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",15.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",16,Own children of the householder 6 to 17 years,"103,313","+/-4,515","103,313",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",17,All parents in family in labor force,"72,942","+/-5,526",70.6,+/-4.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",17.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",18,Workers 16 years and over,"321,939","+/-6,235","321,939",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",19,"Car, truck, or van -- drove alone","218,175","+/-7,275",67.8,+/-2.1
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",20,"Car, truck, or van -- carpooled","46,296","+/-4,623",14.4,+/-1.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",21,Public transportation (excluding taxicab),"5,562","+/-1,454",1.7,+/-0.5
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",22,Walked,"10,478","+/-2,013",3.3,+/-0.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",23,Other means,"7,926","+/-1,577",2.5,+/-0.5
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",24,Worked from home,"33,502","+/-4,189",10.4,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",24.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",25,Mean travel time to work (minutes),25.6,+/-1.0,(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",25.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",25.5,OCCUPATION,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",26,Civilian employed population 16 years and over,"309,740","+/-6,334","309,740",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",27,"Management, business, science, and arts occupations","114,399","+/-5,212",36.9,+/-1.5
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",28,Service occupations,"69,409","+/-5,175",22.4,+/-1.7
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",29,Sales and office occupations,"64,029","+/-3,969",20.7,+/-1.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",30,"Natural resources, construction, and maintenance occupations","33,970","+/-3,292",11.0,+/-1.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",31,"Production, transportation, and material moving occupations","27,933","+/-2,726",9.0,+/-0.9
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",31.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",31.5,INDUSTRY,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",32,Civilian employed population 16 years and over,"309,740","+/-6,334","309,740",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",33,"Agriculture, forestry, fishing and hunting, and mining","5,696","+/-1,684",1.8,+/-0.5
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",34,Construction,"27,532","+/-3,278",8.9,+/-1.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",35,Manufacturing,"6,960","+/-1,322",2.2,+/-0.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",36,Wholesale trade,"6,179","+/-1,363",2.0,+/-0.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",37,Retail trade,"35,247","+/-3,450",11.4,+/-1.1
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",38,"Transportation and warehousing, and utilities","19,839","+/-2,372",6.4,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",39,Information,"2,977",+/-949,1.0,+/-0.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",40,"Finance and insurance, and real estate and rental and leasing","18,539","+/-2,414",6.0,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",41,"Professional, scientific, and management, and administrative and waste management services","33,238","+/-3,224",10.7,+/-1.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",42,"Educational services, and health care and social assistance","75,811","+/-4,214",24.5,+/-1.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",43,"Arts, entertainment, and recreation, and accommodation and food services","45,407","+/-4,488",14.7,+/-1.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",44,"Other services, except public administration","11,756","+/-1,772",3.8,+/-0.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",45,Public administration,"20,559","+/-1,855",6.6,+/-0.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",45.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",45.5,CLASS OF WORKER,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",46,Civilian employed population 16 years and over,"309,740","+/-6,334","309,740",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",47,Private wage and salary workers,"221,632","+/-6,727",71.6,+/-1.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",48,Government workers,"64,403","+/-3,984",20.8,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",49,Self-employed in own not incorporated business workers,"22,843","+/-2,488",7.4,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",50,Unpaid family workers,862,+/-539,0.3,+/-0.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",50.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",51,Total households,"237,170","+/-4,243","237,170",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",52,"Less than $10,000","13,585","+/-2,207",5.7,+/-0.9
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",53,"$10,000 to $14,999","7,932","+/-1,405",3.3,+/-0.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",54,"$15,000 to $24,999","15,487","+/-2,002",6.5,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",55,"$25,000 to $34,999","11,764","+/-1,895",5.0,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",56,"$35,000 to $49,999","23,874","+/-2,837",10.1,+/-1.1
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",57,"$50,000 to $74,999","38,695","+/-3,331",16.3,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",58,"$75,000 to $99,999","32,485","+/-3,312",13.7,+/-1.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",59,"$100,000 to $149,999","40,627","+/-2,816",17.1,+/-1.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",60,"$150,000 to $199,999","22,681","+/-2,307",9.6,+/-0.9
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",61,"$200,000 or more","30,040","+/-2,593",12.7,+/-1.1
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",62,Median household income (dollars),"79,474","+/-2,914",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",63,Mean household income (dollars),"108,364","+/-3,870",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",63.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",64,With earnings,"182,028","+/-4,273",76.8,+/-1.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",65,Mean earnings (dollars),"100,222","+/-4,283",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",66,With Social Security,"94,419","+/-3,241",39.8,+/-1.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",67,Mean Social Security income (dollars),"22,055",+/-759,(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",68,With retirement income,"72,391","+/-3,878",30.5,+/-1.7
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",69,Mean retirement income (dollars),"32,961","+/-2,559",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",69.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",70,With Supplemental Security Income,"10,115","+/-1,557",4.3,+/-0.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",71,Mean Supplemental Security Income (dollars),"11,334",+/-988,(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",72,With cash public assistance income,"13,263","+/-2,017",5.6,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",73,Mean cash public assistance income (dollars),"8,433","+/-1,636",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",74,With Food Stamp/SNAP benefits in the past 12 months,"37,222","+/-3,196",15.7,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",74.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",75,Families,"167,490","+/-5,258","167,490",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",76,"Less than $10,000","5,810","+/-1,351",3.5,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",77,"$10,000 to $14,999","3,856","+/-1,085",2.3,+/-0.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",78,"$15,000 to $24,999","7,118","+/-1,394",4.2,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",79,"$25,000 to $34,999","6,311","+/-1,459",3.8,+/-0.9
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",80,"$35,000 to $49,999","15,024","+/-2,153",9.0,+/-1.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",81,"$50,000 to $74,999","27,155","+/-2,831",16.2,+/-1.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",82,"$75,000 to $99,999","25,054","+/-2,621",15.0,+/-1.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",83,"$100,000 to $149,999","33,942","+/-2,628",20.3,+/-1.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",84,"$150,000 to $199,999","18,949","+/-2,117",11.3,+/-1.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",85,"$200,000 or more","24,271","+/-2,232",14.5,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",86,Median family income (dollars),"93,767","+/-3,041",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",87,Mean family income (dollars),"121,739","+/-4,831",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",87.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",88,Per capita income (dollars),"36,297","+/-1,217",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",88.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",89,Nonfamily households,"69,680","+/-4,693","69,680",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",90,Median nonfamily income (dollars),"42,801","+/-3,579",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",91,Mean nonfamily income (dollars),"64,148","+/-4,547",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",91.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",92,Median earnings for workers (dollars),"37,327","+/-1,027",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",93,"Median earnings for male full-time, year-round workers (dollars)","56,548","+/-3,985",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",94,"Median earnings for female full-time, year-round workers (dollars)","46,453","+/-1,914",(X),(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",94.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",95,Civilian noninstitutionalized population,"703,498","+/-10,336","703,498",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",96,With health insurance coverage,"673,737","+/-10,504",95.8,+/-0.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",97,With private health insurance,"502,708","+/-10,652",71.5,+/-1.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",98,With public coverage,"297,040","+/-10,444",42.2,+/-1.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",99,No health insurance coverage,"29,761","+/-4,204",4.2,+/-0.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",99.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",100,Civilian noninstitutionalized population under 19 years,"171,938","+/-6,158","171,938",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",101,No health insurance coverage,"5,157","+/-1,632",3.0,+/-1.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",101.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",102,Civilian noninstitutionalized population 19 to 64 years,"393,207","+/-6,072","393,207",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",103,In labor force:,"303,324","+/-6,008","303,324",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",104,Employed:,"276,595","+/-5,880","276,595",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",105,With health insurance coverage,"265,898","+/-6,294",96.1,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",106,With private health insurance,"243,174","+/-6,342",87.9,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",107,With public coverage,"37,420","+/-3,974",13.5,+/-1.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",108,No health insurance coverage,"10,697","+/-2,125",3.9,+/-0.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",109,Unemployed:,"26,729","+/-2,988","26,729",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",110,With health insurance coverage,"22,248","+/-2,614",83.2,+/-3.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",111,With private health insurance,"10,204","+/-1,705",38.2,+/-5.9
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",112,With public coverage,"12,758","+/-2,294",47.7,+/-5.7
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",113,No health insurance coverage,"4,481","+/-1,114",16.8,+/-3.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",114,Not in labor force:,"89,883","+/-5,255","89,883",(X)
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",115,With health insurance coverage,"81,081","+/-5,269",90.2,+/-2.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",116,With private health insurance,"47,966","+/-3,803",53.4,+/-3.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",117,With public coverage,"42,143","+/-3,990",46.9,+/-3.1
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",118,No health insurance coverage,"8,802","+/-2,104",9.8,+/-2.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",118.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",119,All families,(X),(X),9.4,+/-1.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",120,With related children of the householder under 18 years,(X),(X),14.9,+/-2.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",121,With related children of the householder under 5 years only,(X),(X),9.1,+/-4.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",122,Married couple families,(X),(X),6.4,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",123,With related children of the householder under 18 years,(X),(X),8.6,+/-2.4
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",124,With related children of the householder under 5 years only,(X),(X),6.3,+/-4.7
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",125,"Families with female householder, no spouse present",(X),(X),20.8,+/-4.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",126,With related children of the householder under 18 years,(X),(X),32.1,+/-6.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",127,With related children of the householder under 5 years only,(X),(X),19.2,+/-13.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",127.3,,,,,
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",128,All people,(X),(X),12.6,+/-1.2
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",129,Under 18 years,(X),(X),16.1,+/-2.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",130,Related children of the householder under 18 years,(X),(X),15.6,+/-2.8
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",131,Related children of the householder under 5 years,(X),(X),13.1,+/-3.5
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",132,Related children of the householder 5 to 17 years,(X),(X),16.4,+/-3.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",133,18 years and over,(X),(X),11.6,+/-1.0
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",134,18 to 64 years,(X),(X),12.5,+/-1.1
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",135,65 years and over,(X),(X),8.7,+/-1.6
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",136,People in families,(X),(X),9.3,+/-1.3
+DP03,5001800US1502,"Congressional District 2 (118th Congress), Hawaii",137,Unrelated individuals 15 years and over,(X),(X),28.1,+/-2.2

@@ -1,0 +1,169 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",0.5,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",1,Population 16 years and over,"542,827","+/-1,239","542,827",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",2,In labor force,"349,096","+/-4,760",64.3,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",3,Civilian labor force,"347,783","+/-4,854",64.1,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",4,Employed,"333,135","+/-4,976",61.4,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",5,Unemployed,"14,648","+/-1,989",2.7,+/-0.4
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",6,Armed Forces,"1,313",+/-639,0.2,+/-0.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",7,Not in labor force,"193,731","+/-4,690",35.7,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",7.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",8,Civilian labor force,"347,783","+/-4,854","347,783",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",9,Unemployment Rate,(X),(X),4.2,+/-0.6
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",9.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",10,Females 16 years and over,"275,496","+/-1,173","275,496",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",11,In labor force,"169,753","+/-3,143",61.6,+/-1.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",12,Civilian labor force,"169,583","+/-3,167",61.6,+/-1.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",13,Employed,"163,418","+/-3,301",59.3,+/-1.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",13.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",14,Own children of the householder under 6 years,"31,570","+/-1,161","31,570",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",15,All parents in family in labor force,"24,297","+/-1,516",77.0,+/-4.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",15.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",16,Own children of the householder 6 to 17 years,"81,338","+/-1,614","81,338",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",17,All parents in family in labor force,"65,017","+/-2,505",79.9,+/-2.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",17.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",18,Workers 16 years and over,"327,910","+/-4,771","327,910",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",19,"Car, truck, or van -- drove alone","220,259","+/-5,372",67.2,+/-1.4
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",20,"Car, truck, or van -- carpooled","24,108","+/-2,415",7.4,+/-0.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",21,Public transportation (excluding taxicab),"1,704",+/-767,0.5,+/-0.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",22,Walked,"12,881","+/-1,777",3.9,+/-0.5
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",23,Other means,"4,731","+/-1,032",1.4,+/-0.3
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",24,Worked from home,"64,227","+/-3,790",19.6,+/-1.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",24.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",25,Mean travel time to work (minutes),23.0,+/-0.8,(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",25.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",25.5,OCCUPATION,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",26,Civilian employed population 16 years and over,"333,135","+/-4,976","333,135",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",27,"Management, business, science, and arts occupations","156,758","+/-4,074",47.1,+/-1.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",28,Service occupations,"46,009","+/-3,266",13.8,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",29,Sales and office occupations,"59,201","+/-3,629",17.8,+/-1.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",30,"Natural resources, construction, and maintenance occupations","34,263","+/-2,799",10.3,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",31,"Production, transportation, and material moving occupations","36,904","+/-3,133",11.1,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",31.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",31.5,INDUSTRY,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",32,Civilian employed population 16 years and over,"333,135","+/-4,976","333,135",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",33,"Agriculture, forestry, fishing and hunting, and mining","8,859","+/-1,524",2.7,+/-0.5
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",34,Construction,"28,383","+/-3,037",8.5,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",35,Manufacturing,"33,484","+/-2,568",10.1,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",36,Wholesale trade,"5,449","+/-1,201",1.6,+/-0.4
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",37,Retail trade,"38,037","+/-3,330",11.4,+/-1.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",38,"Transportation and warehousing, and utilities","11,248","+/-1,582",3.4,+/-0.5
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",39,Information,"6,668","+/-1,319",2.0,+/-0.4
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",40,"Finance and insurance, and real estate and rental and leasing","16,367","+/-1,926",4.9,+/-0.6
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",41,"Professional, scientific, and management, and administrative and waste management services","31,848","+/-2,693",9.6,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",42,"Educational services, and health care and social assistance","96,066","+/-4,409",28.8,+/-1.3
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",43,"Arts, entertainment, and recreation, and accommodation and food services","25,927","+/-2,633",7.8,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",44,"Other services, except public administration","15,195","+/-1,885",4.6,+/-0.6
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",45,Public administration,"15,604","+/-2,023",4.7,+/-0.6
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",45.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",45.5,CLASS OF WORKER,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",46,Civilian employed population 16 years and over,"333,135","+/-4,976","333,135",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",47,Private wage and salary workers,"253,388","+/-5,309",76.1,+/-1.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",48,Government workers,"50,369","+/-3,054",15.1,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",49,Self-employed in own not incorporated business workers,"28,806","+/-2,506",8.6,+/-0.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",50,Unpaid family workers,572,+/-343,0.2,+/-0.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",50.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",51,Total households,"270,163","+/-3,018","270,163",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",52,"Less than $10,000","10,992","+/-1,489",4.1,+/-0.5
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",53,"$10,000 to $14,999","11,594","+/-1,784",4.3,+/-0.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",54,"$15,000 to $24,999","20,314","+/-1,939",7.5,+/-0.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",55,"$25,000 to $34,999","20,263","+/-2,169",7.5,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",56,"$35,000 to $49,999","30,047","+/-2,651",11.1,+/-1.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",57,"$50,000 to $74,999","46,130","+/-2,934",17.1,+/-1.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",58,"$75,000 to $99,999","39,632","+/-2,607",14.7,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",59,"$100,000 to $149,999","46,810","+/-2,610",17.3,+/-1.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",60,"$150,000 to $199,999","20,828","+/-2,049",7.7,+/-0.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",61,"$200,000 or more","23,553","+/-1,995",8.7,+/-0.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",62,Median household income (dollars),"72,431","+/-2,216",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",63,Mean household income (dollars),"94,496","+/-2,629",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",63.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",64,With earnings,"206,127","+/-4,147",76.3,+/-1.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",65,Mean earnings (dollars),"91,843","+/-2,457",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",66,With Social Security,"95,820","+/-2,242",35.5,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",67,Mean Social Security income (dollars),"22,260",+/-599,(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",68,With retirement income,"66,890","+/-2,422",24.8,+/-1.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",69,Mean retirement income (dollars),"27,921","+/-2,127",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",69.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",70,With Supplemental Security Income,"14,539","+/-1,574",5.4,+/-0.6
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",71,Mean Supplemental Security Income (dollars),"10,483",+/-707,(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",72,With cash public assistance income,"11,391","+/-1,263",4.2,+/-0.5
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",73,Mean cash public assistance income (dollars),"4,664",+/-626,(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",74,With Food Stamp/SNAP benefits in the past 12 months,"29,538","+/-2,414",10.9,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",74.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",75,Families,"165,039","+/-3,507","165,039",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",76,"Less than $10,000","4,742","+/-1,259",2.9,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",77,"$10,000 to $14,999","2,542",+/-839,1.5,+/-0.5
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",78,"$15,000 to $24,999","6,333","+/-1,090",3.8,+/-0.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",79,"$25,000 to $34,999","7,784","+/-1,284",4.7,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",80,"$35,000 to $49,999","13,944","+/-1,773",8.4,+/-1.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",81,"$50,000 to $74,999","29,093","+/-2,269",17.6,+/-1.3
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",82,"$75,000 to $99,999","26,975","+/-2,301",16.3,+/-1.4
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",83,"$100,000 to $149,999","36,588","+/-2,291",22.2,+/-1.4
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",84,"$150,000 to $199,999","16,870","+/-1,719",10.2,+/-1.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",85,"$200,000 or more","20,168","+/-1,973",12.2,+/-1.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",86,Median family income (dollars),"90,556","+/-2,223",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",87,Mean family income (dollars),"114,514","+/-3,411",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",87.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",88,Per capita income (dollars),"40,016","+/-1,100",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",88.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",89,Nonfamily households,"105,124","+/-3,469","105,124",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",90,Median nonfamily income (dollars),"40,968","+/-1,491",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",91,Mean nonfamily income (dollars),"58,532","+/-2,684",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",91.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",92,Median earnings for workers (dollars),"40,249",+/-563,(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",93,"Median earnings for male full-time, year-round workers (dollars)","55,803","+/-1,665",(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",94,"Median earnings for female full-time, year-round workers (dollars)","51,931",+/-984,(X),(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",94.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",95,Civilian noninstitutionalized population,"639,228",+/-639,"639,228",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",96,With health insurance coverage,"615,853","+/-2,953",96.3,+/-0.5
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",97,With private health insurance,"447,212","+/-6,539",70.0,+/-1.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",98,With public coverage,"266,143","+/-5,838",41.6,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",99,No health insurance coverage,"23,375","+/-2,965",3.7,+/-0.5
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",99.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",100,Civilian noninstitutionalized population under 19 years,"126,087","+/-1,774","126,087",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",101,No health insurance coverage,"2,375",+/-878,1.9,+/-0.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",101.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",102,Civilian noninstitutionalized population 19 to 64 years,"383,070","+/-1,876","383,070",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",103,In labor force:,"308,012","+/-4,343","308,012",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",104,Employed:,"295,192","+/-4,582","295,192",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",105,With health insurance coverage,"279,825","+/-4,655",94.8,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",106,With private health insurance,"243,786","+/-4,787",82.6,+/-1.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",107,With public coverage,"43,687","+/-3,068",14.8,+/-1.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",108,No health insurance coverage,"15,367","+/-2,311",5.2,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",109,Unemployed:,"12,820","+/-1,902","12,820",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",110,With health insurance coverage,"11,133","+/-1,758",86.8,+/-4.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",111,With private health insurance,"5,906","+/-1,154",46.1,+/-6.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",112,With public coverage,"5,870","+/-1,245",45.8,+/-6.4
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",113,No health insurance coverage,"1,687",+/-544,13.2,+/-4.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",114,Not in labor force:,"75,058","+/-3,891","75,058",(X)
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",115,With health insurance coverage,"71,324","+/-3,807",95.0,+/-1.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",116,With private health insurance,"40,390","+/-2,843",53.8,+/-2.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",117,With public coverage,"37,557","+/-2,980",50.0,+/-2.6
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",118,No health insurance coverage,"3,734",+/-917,5.0,+/-1.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",118.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",119,All families,(X),(X),6.3,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",120,With related children of the householder under 18 years,(X),(X),10.9,+/-1.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",121,With related children of the householder under 5 years only,(X),(X),12.2,+/-4.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",122,Married couple families,(X),(X),2.7,+/-0.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",123,With related children of the householder under 18 years,(X),(X),2.8,+/-1.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",124,With related children of the householder under 5 years only,(X),(X),2.0,+/-2.0
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",125,"Families with female householder, no spouse present",(X),(X),23.1,+/-3.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",126,With related children of the householder under 18 years,(X),(X),31.1,+/-4.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",127,With related children of the householder under 5 years only,(X),(X),51.3,+/-17.6
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",127.3,,,,,
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",128,All people,(X),(X),10.3,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",129,Under 18 years,(X),(X),10.4,+/-1.7
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",130,Related children of the householder under 18 years,(X),(X),10.2,+/-1.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",131,Related children of the householder under 5 years,(X),(X),11.4,+/-3.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",132,Related children of the householder 5 to 17 years,(X),(X),9.9,+/-2.1
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",133,18 years and over,(X),(X),10.2,+/-0.8
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",134,18 to 64 years,(X),(X),10.6,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",135,65 years and over,(X),(X),9.1,+/-1.2
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",136,People in families,(X),(X),6.1,+/-0.9
+DP03,5001800US5000,"Congressional District (at Large) (118th Congress), Vermont",137,Unrelated individuals 15 years and over,(X),(X),22.7,+/-1.9

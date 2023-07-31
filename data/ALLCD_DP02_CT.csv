@@ -1,0 +1,1001 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",0.5,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",1,Total households,"294,878","+/-4,345","294,878",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",2,Married-couple household,"127,176","+/-5,006",43.1,+/-1.6
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",3,With children of the householder under 18 years,"48,778","+/-3,656",16.5,+/-1.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",4,Cohabiting couple household,"21,597","+/-2,593",7.3,+/-0.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",5,With children of the householder under 18 years,"5,883","+/-1,332",2.0,+/-0.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",6,"Male householder, no spouse/partner present","54,171","+/-3,805",18.4,+/-1.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",7,With children of the householder under 18 years,"2,540",+/-747,0.9,+/-0.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",8,Householder living alone,"39,135","+/-3,204",13.3,+/-1.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",9,65 years and over,"11,870","+/-1,574",4.0,+/-0.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",10,"Female householder, no spouse/partner present","91,934","+/-3,868",31.2,+/-1.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",11,With children of the householder under 18 years,"17,628","+/-2,171",6.0,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",12,Householder living alone,"52,027","+/-3,137",17.6,+/-1.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",13,65 years and over,"27,673","+/-1,880",9.4,+/-0.6
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",13.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",14,Households with one or more people under 18 years,"82,121","+/-4,528",27.8,+/-1.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",15,Households with one or more people 65 years and over,"96,161","+/-3,093",32.6,+/-1.0
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",15.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",16,Average household size,2.37,+/-0.03,(X),(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",17,Average family size,3.01,+/-0.05,(X),(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",17.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",17.5,RELATIONSHIP,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",18,Population in households,"700,296","+/-7,657","700,296",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",19,Householder,"294,878","+/-4,345",42.1,+/-0.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",20,Spouse,"125,997","+/-5,029",18.0,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",21,Unmarried partner,"21,961","+/-2,834",3.1,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",22,Child,"202,394","+/-6,287",28.9,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",23,Other relatives,"40,645","+/-4,920",5.8,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",24,Other nonrelatives,"14,421","+/-2,549",2.1,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",24.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",24.5,MARITAL STATUS,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",25,Males 15 years and over,"295,201","+/-4,475","295,201",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",26,Never married,"123,896","+/-4,900",42.0,+/-1.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",27,"Now married, except separated","138,088","+/-5,073",46.8,+/-1.6
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",28,Separated,"4,059","+/-1,204",1.4,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",29,Widowed,"6,615","+/-1,149",2.2,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",30,Divorced,"22,543","+/-2,471",7.6,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",30.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",31,Females 15 years and over,"310,395","+/-4,673","310,395",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",32,Never married,"107,963","+/-4,626",34.8,+/-1.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",33,"Now married, except separated","132,873","+/-5,309",42.8,+/-1.6
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",34,Separated,"4,044","+/-1,117",1.3,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",35,Widowed,"26,931","+/-2,095",8.7,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",36,Divorced,"38,584","+/-3,041",12.4,+/-1.0
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",36.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",36.5,FERTILITY,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,169","+/-1,467","7,169",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",38,"Unmarried women (widowed, divorced, and never married)","1,962",+/-645,27.4,+/-7.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",39,"Per 1,000 unmarried women",20,+/-7,(X),(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",40,"Per 1,000 women 15 to 50 years old",44,+/-9,(X),(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",41,"Per 1,000 women 15 to 19 years old",25,+/-20,(X),(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",42,"Per 1,000 women 20 to 34 years old",61,+/-20,(X),(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",43,"Per 1,000 women 35 to 50 years old",34,+/-11,(X),(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",43.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",43.5,GRANDPARENTS,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",44,Number of grandparents living with own grandchildren under 18 years,"10,320","+/-1,928","10,320",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",45,Grandparents responsible for grandchildren,"2,515","+/-1,066",24.4,+/-9.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",46,Less than 1 year,391,+/-394,3.8,+/-3.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",47,1 or 2 years,561,+/-371,5.4,+/-3.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",48,3 or 4 years,141,+/-163,1.4,+/-1.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",49,5 or more years,"1,422",+/-889,13.8,+/-8.0
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",49.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",50,Number of grandparents responsible for own grandchildren under 18 years,"2,515","+/-1,066","2,515",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",51,Who are female,"1,949",+/-798,77.5,+/-11.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",52,Who are married,"1,015",+/-585,40.4,+/-17.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",52.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",53,Population 3 years and over enrolled in school,"168,612","+/-6,133","168,612",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",54,"Nursery school, preschool","8,972","+/-1,357",5.3,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",55,Kindergarten,"8,932","+/-1,961",5.3,+/-1.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",56,Elementary school (grades 1-8),"60,542","+/-3,384",35.9,+/-1.6
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",57,High school (grades 9-12),"40,645","+/-2,745",24.1,+/-1.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",58,College or graduate school,"49,521","+/-4,062",29.4,+/-2.0
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",58.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",59,Population 25 years and over,"511,595","+/-6,269","511,595",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",60,Less than 9th grade,"22,877","+/-3,263",4.5,+/-0.6
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",61,"9th to 12th grade, no diploma","26,160","+/-3,196",5.1,+/-0.6
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",62,High school graduate (includes equivalency),"141,630","+/-6,005",27.7,+/-1.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",63,"Some college, no degree","85,677","+/-5,518",16.7,+/-1.0
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",64,Associate's degree,"41,601","+/-3,335",8.1,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",65,Bachelor's degree,"109,335","+/-5,419",21.4,+/-1.0
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",66,Graduate or professional degree,"84,315","+/-4,346",16.5,+/-0.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",66.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",67,High school graduate or higher,"462,558","+/-6,404",90.4,+/-0.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",68,Bachelor's degree or higher,"193,650","+/-5,722",37.9,+/-1.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",68.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",68.5,VETERAN STATUS,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",69,Civilian population 18 years and over,"576,210","+/-6,618","576,210",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",70,Civilian veterans,"27,967","+/-2,829",4.9,+/-0.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",70.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",71,Total Civilian Noninstitutionalized Population,"709,281","+/-7,374","709,281",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",72,With a disability,"90,137","+/-5,831",12.7,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",72.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",73,Under 18 years,"140,063","+/-4,724","140,063",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",74,With a disability,"7,033","+/-1,800",5.0,+/-1.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",74.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",75,18 to 64 years,"441,360","+/-7,383","441,360",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",76,With a disability,"46,387","+/-4,174",10.5,+/-0.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",76.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",77,65 years and over,"127,858","+/-3,543","127,858",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",78,With a disability,"36,717","+/-3,097",28.7,+/-2.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",78.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",79,Population 1 year and over,"712,688","+/-7,262","712,688",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",80,Same house,"639,664","+/-8,046",89.8,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",81,Different house (in the U.S. or abroad),"73,024","+/-5,843",10.2,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",82,Different house in the U.S.,"68,778","+/-5,729",9.7,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",83,Same county,"41,847","+/-4,813",5.9,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",84,Different county,"26,931","+/-3,620",3.8,+/-0.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",85,Same state,"11,997","+/-2,139",1.7,+/-0.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",86,Different state,"14,934","+/-2,962",2.1,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",87,Abroad,"4,246","+/-1,642",0.6,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",87.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",88,Total population,"717,721","+/-7,134","717,721",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",89,Native,"601,476","+/-8,791",83.8,+/-1.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",90,Born in United States,"561,353","+/-8,301",78.2,+/-1.0
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",91,State of residence,"412,337","+/-9,143",57.5,+/-1.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",92,Different state,"149,016","+/-5,867",20.8,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","40,123","+/-5,120",5.6,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",94,Foreign born,"116,245","+/-7,986",16.2,+/-1.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",94.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",95,Foreign-born population,"116,245","+/-7,986","116,245",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",96,Naturalized U.S. citizen,"69,083","+/-4,884",59.4,+/-3.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",97,Not a U.S. citizen,"47,162","+/-5,879",40.6,+/-3.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",97.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",98,Population born outside the United States,"156,368","+/-7,820","156,368",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",98.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",99,Native,"40,123","+/-5,120","40,123",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",100,Entered 2010 or later,"11,986","+/-4,184",29.9,+/-7.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",101,Entered before 2010,"28,137","+/-3,365",70.1,+/-7.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",101.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",102,Foreign born,"116,245","+/-7,986","116,245",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",103,Entered 2010 or later,"33,344","+/-5,093",28.7,+/-3.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",104,Entered before 2010,"82,901","+/-5,783",71.3,+/-3.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",104.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",105,"Foreign-born population, excluding population born at sea","116,245","+/-7,986","116,245",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",106,Europe,"25,589","+/-4,361",22.0,+/-3.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",107,Asia,"29,447","+/-2,709",25.3,+/-2.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",108,Africa,"6,364","+/-1,831",5.5,+/-1.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",109,Oceania,143,+/-188,0.1,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",110,Latin America,"52,255","+/-6,317",45.0,+/-4.0
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",111,Northern America,"2,447",+/-954,2.1,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",111.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",112,Population 5 years and over,"683,657","+/-7,112","683,657",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",113,English only,"511,029","+/-8,846",74.7,+/-1.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",114,Language other than English,"172,628","+/-9,623",25.3,+/-1.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",115,"Speak English less than ""very well""","62,686","+/-5,609",9.2,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",116,Spanish,"94,631","+/-5,705",13.8,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",117,"Speak English less than ""very well""","35,681","+/-3,708",5.2,+/-0.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",118,Other Indo-European languages,"48,077","+/-6,477",7.0,+/-0.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",119,"Speak English less than ""very well""","16,620","+/-3,007",2.4,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",120,Asian and Pacific Islander languages,"19,368","+/-3,263",2.8,+/-0.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",121,"Speak English less than ""very well""","7,424","+/-2,005",1.1,+/-0.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",122,Other languages,"10,552","+/-2,979",1.5,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",123,"Speak English less than ""very well""","2,961","+/-1,248",0.4,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",123.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",123.5,ANCESTRY,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",124,Total population,"717,721","+/-7,134","717,721",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",125,American,"24,465","+/-3,757",3.4,+/-0.5
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",126,Arab,"3,012","+/-1,137",0.4,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",127,Czech,"2,440","+/-1,239",0.3,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",128,Danish,"1,633",+/-884,0.2,+/-0.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",129,Dutch,"2,894",+/-942,0.4,+/-0.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",130,English,"57,256","+/-5,555",8.0,+/-0.8
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",131,French (except Basque),"35,847","+/-4,283",5.0,+/-0.6
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",132,French Canadian,"18,921","+/-3,093",2.6,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",133,German,"55,304","+/-4,713",7.7,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",134,Greek,"4,386","+/-1,769",0.6,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",135,Hungarian,"3,485",+/-985,0.5,+/-0.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",136,Irish,"85,353","+/-6,532",11.9,+/-0.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",137,Italian,"89,519","+/-6,509",12.5,+/-0.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",138,Lithuanian,"4,725","+/-1,614",0.7,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",139,Norwegian,"2,359",+/-828,0.3,+/-0.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",140,Polish,"52,902","+/-5,226",7.4,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",141,Portuguese,"6,739","+/-1,911",0.9,+/-0.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",142,Russian,"7,686","+/-1,338",1.1,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",143,Scotch-Irish,"1,472",+/-603,0.2,+/-0.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",144,Scottish,"8,201","+/-1,545",1.1,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",145,Slovak,"1,020",+/-445,0.1,+/-0.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",146,Subsaharan African,"9,198","+/-2,829",1.3,+/-0.4
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",147,Swedish,"8,984","+/-1,985",1.3,+/-0.3
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",148,Swiss,897,+/-546,0.1,+/-0.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",149,Ukrainian,"3,799","+/-1,273",0.5,+/-0.2
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",150,Welsh,"1,354",+/-562,0.2,+/-0.1
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",151,West Indian (excluding Hispanic origin groups),"34,088","+/-6,437",4.7,+/-0.9
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",151.3,,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",152,Total households,"294,878","+/-4,345","294,878",(X)
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",153,With a computer,"279,749","+/-4,685",94.9,+/-0.7
+DP02,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",154,With a broadband Internet subscription,"266,447","+/-4,924",90.4,+/-0.9
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",0.5,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",1,Total households,"291,752","+/-3,788","291,752",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",2,Married-couple household,"142,114","+/-4,786",48.7,+/-1.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",3,With children of the householder under 18 years,"46,566","+/-3,229",16.0,+/-1.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",4,Cohabiting couple household,"25,900","+/-2,857",8.9,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",5,With children of the householder under 18 years,"8,068","+/-1,864",2.8,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",6,"Male householder, no spouse/partner present","49,821","+/-3,346",17.1,+/-1.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",7,With children of the householder under 18 years,"4,026","+/-1,078",1.4,+/-0.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",8,Householder living alone,"35,285","+/-2,866",12.1,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",9,65 years and over,"10,966","+/-1,670",3.8,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",10,"Female householder, no spouse/partner present","73,917","+/-4,140",25.3,+/-1.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",11,With children of the householder under 18 years,"12,181","+/-1,901",4.2,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",12,Householder living alone,"45,004","+/-3,390",15.4,+/-1.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",13,65 years and over,"23,052","+/-1,962",7.9,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",13.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",14,Households with one or more people under 18 years,"78,255","+/-3,568",26.8,+/-1.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",15,Households with one or more people 65 years and over,"96,482","+/-2,711",33.1,+/-0.9
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",15.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",16,Average household size,2.37,+/-0.03,(X),(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",17,Average family size,2.89,+/-0.04,(X),(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",17.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",17.5,RELATIONSHIP,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",18,Population in households,"692,123","+/-6,198","692,123",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",19,Householder,"291,752","+/-3,788",42.2,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",20,Spouse,"141,408","+/-4,984",20.4,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",21,Unmarried partner,"26,916","+/-3,186",3.9,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",22,Child,"185,325","+/-5,695",26.8,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",23,Other relatives,"27,606","+/-3,444",4.0,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",24,Other nonrelatives,"19,116","+/-3,187",2.8,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",24.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",24.5,MARITAL STATUS,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",25,Males 15 years and over,"307,050","+/-3,806","307,050",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",26,Never married,"114,490","+/-4,402",37.3,+/-1.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",27,"Now married, except separated","153,082","+/-4,966",49.9,+/-1.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",28,Separated,"2,412","+/-1,043",0.8,+/-0.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",29,Widowed,"8,216","+/-1,511",2.7,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",30,Divorced,"28,850","+/-2,712",9.4,+/-0.9
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",30.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",31,Females 15 years and over,"312,806","+/-3,035","312,806",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",32,Never married,"101,478","+/-4,078",32.4,+/-1.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",33,"Now married, except separated","145,471","+/-5,235",46.5,+/-1.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",34,Separated,"3,428","+/-1,159",1.1,+/-0.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",35,Widowed,"23,200","+/-2,220",7.4,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",36,Divorced,"39,229","+/-3,194",12.5,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",36.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",36.5,FERTILITY,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,591","+/-1,510","7,591",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",38,"Unmarried women (widowed, divorced, and never married)","1,209",+/-694,15.9,+/-8.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",39,"Per 1,000 unmarried women",12,+/-7,(X),(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",40,"Per 1,000 women 15 to 50 years old",47,+/-9,(X),(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",41,"Per 1,000 women 15 to 19 years old",5,+/-8,(X),(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",42,"Per 1,000 women 20 to 34 years old",85,+/-18,(X),(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",43,"Per 1,000 women 35 to 50 years old",25,+/-13,(X),(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",43.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",43.5,GRANDPARENTS,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",44,Number of grandparents living with own grandchildren under 18 years,"9,050","+/-1,883","9,050",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",45,Grandparents responsible for grandchildren,"1,823",+/-810,20.1,+/-8.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",46,Less than 1 year,166,+/-187,1.8,+/-2.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",47,1 or 2 years,83,+/-96,0.9,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",48,3 or 4 years,512,+/-433,5.7,+/-4.9
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",49,5 or more years,"1,062",+/-639,11.7,+/-6.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",49.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",50,Number of grandparents responsible for own grandchildren under 18 years,"1,823",+/-810,"1,823",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",51,Who are female,"1,066",+/-555,58.5,+/-17.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",52,Who are married,"1,129",+/-679,61.9,+/-22.8
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",52.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",53,Population 3 years and over enrolled in school,"174,033","+/-5,134","174,033",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",54,"Nursery school, preschool","7,585","+/-1,118",4.4,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",55,Kindergarten,"6,486","+/-1,515",3.7,+/-0.9
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",56,Elementary school (grades 1-8),"61,817","+/-3,181",35.5,+/-1.8
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",57,High school (grades 9-12),"36,629","+/-2,727",21.0,+/-1.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",58,College or graduate school,"61,516","+/-3,745",35.3,+/-1.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",58.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",59,Population 25 years and over,"511,255","+/-4,519","511,255",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",60,Less than 9th grade,"11,887","+/-1,827",2.3,+/-0.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",61,"9th to 12th grade, no diploma","22,178","+/-2,510",4.3,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",62,High school graduate (includes equivalency),"139,324","+/-6,210",27.3,+/-1.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",63,"Some college, no degree","92,955","+/-5,080",18.2,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",64,Associate's degree,"44,475","+/-3,170",8.7,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",65,Bachelor's degree,"113,275","+/-5,179",22.2,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",66,Graduate or professional degree,"87,161","+/-4,589",17.0,+/-0.9
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",66.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",67,High school graduate or higher,"477,190","+/-4,912",93.3,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",68,Bachelor's degree or higher,"200,436","+/-7,037",39.2,+/-1.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",68.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",68.5,VETERAN STATUS,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",69,Civilian population 18 years and over,"586,523","+/-4,948","586,523",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",70,Civilian veterans,"41,500","+/-2,902",7.1,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",70.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",71,Total Civilian Noninstitutionalized Population,"709,105","+/-5,723","709,105",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",72,With a disability,"92,912","+/-4,466",13.1,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",72.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",73,Under 18 years,"135,423","+/-3,644","135,423",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",74,With a disability,"7,481","+/-1,662",5.5,+/-1.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",74.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",75,18 to 64 years,"439,774","+/-5,139","439,774",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",76,With a disability,"43,538","+/-3,348",9.9,+/-0.8
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",76.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",77,65 years and over,"133,908","+/-2,923","133,908",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",78,With a disability,"41,893","+/-2,615",31.3,+/-1.8
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",78.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",79,Population 1 year and over,"721,966","+/-5,386","721,966",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",80,Same house,"635,380","+/-8,672",88.0,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",81,Different house (in the U.S. or abroad),"86,586","+/-7,328",12.0,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",82,Different house in the U.S.,"85,097","+/-7,350",11.8,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",83,Same county,"37,653","+/-5,071",5.2,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",84,Different county,"47,444","+/-6,224",6.6,+/-0.9
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",85,Same state,"23,692","+/-4,771",3.3,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",86,Different state,"23,752","+/-3,799",3.3,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",87,Abroad,"1,489",+/-731,0.2,+/-0.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",87.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",88,Total population,"729,071","+/-5,374","729,071",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",89,Native,"679,051","+/-6,678",93.1,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",90,Born in United States,"658,171","+/-7,239",90.3,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",91,State of residence,"404,082","+/-9,778",55.4,+/-1.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",92,Different state,"254,089","+/-9,867",34.9,+/-1.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","20,880","+/-2,989",2.9,+/-0.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",94,Foreign born,"50,020","+/-4,385",6.9,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",94.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",95,Foreign-born population,"50,020","+/-4,385","50,020",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",96,Naturalized U.S. citizen,"30,798","+/-3,097",61.6,+/-4.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",97,Not a U.S. citizen,"19,222","+/-3,032",38.4,+/-4.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",97.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",98,Population born outside the United States,"70,900","+/-5,055","70,900",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",98.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",99,Native,"20,880","+/-2,989","20,880",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",100,Entered 2010 or later,"5,915","+/-2,144",28.3,+/-8.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",101,Entered before 2010,"14,965","+/-2,199",71.7,+/-8.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",101.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",102,Foreign born,"50,020","+/-4,385","50,020",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",103,Entered 2010 or later,"11,279","+/-2,110",22.5,+/-3.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",104,Entered before 2010,"38,741","+/-3,698",77.5,+/-3.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",104.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",105,"Foreign-born population, excluding population born at sea","50,020","+/-4,385","50,020",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",106,Europe,"12,666","+/-1,895",25.3,+/-3.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",107,Asia,"17,590","+/-1,980",35.2,+/-3.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",108,Africa,"2,268","+/-1,021",4.5,+/-2.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",109,Oceania,79,+/-70,0.2,+/-0.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",110,Latin America,"15,614","+/-2,900",31.2,+/-4.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",111,Northern America,"1,803",+/-591,3.6,+/-1.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",111.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",112,Population 5 years and over,"697,368","+/-5,222","697,368",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",113,English only,"618,796","+/-7,171",88.7,+/-0.8
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",114,Language other than English,"78,572","+/-5,542",11.3,+/-0.8
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",115,"Speak English less than ""very well""","29,392","+/-3,261",4.2,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",116,Spanish,"40,678","+/-3,533",5.8,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",117,"Speak English less than ""very well""","16,558","+/-2,629",2.4,+/-0.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",118,Other Indo-European languages,"22,014","+/-3,325",3.2,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",119,"Speak English less than ""very well""","5,835","+/-1,359",0.8,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",120,Asian and Pacific Islander languages,"13,478","+/-2,299",1.9,+/-0.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",121,"Speak English less than ""very well""","6,185","+/-1,324",0.9,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",122,Other languages,"2,402","+/-1,071",0.3,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",123,"Speak English less than ""very well""",814,+/-686,0.1,+/-0.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",123.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",123.5,ANCESTRY,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",124,Total population,"729,071","+/-5,374","729,071",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",125,American,"27,463","+/-4,553",3.8,+/-0.6
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",126,Arab,"2,592","+/-1,021",0.4,+/-0.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",127,Czech,"2,298","+/-1,101",0.3,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",128,Danish,"2,478","+/-1,013",0.3,+/-0.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",129,Dutch,"5,242","+/-1,783",0.7,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",130,English,"94,523","+/-5,564",13.0,+/-0.8
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",131,French (except Basque),"56,499","+/-5,383",7.7,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",132,French Canadian,"27,607","+/-3,331",3.8,+/-0.5
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",133,German,"75,109","+/-7,287",10.3,+/-1.0
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",134,Greek,"4,976","+/-1,520",0.7,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",135,Hungarian,"4,212","+/-1,453",0.6,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",136,Irish,"121,215","+/-7,059",16.6,+/-0.9
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",137,Italian,"103,234","+/-5,876",14.2,+/-0.8
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",138,Lithuanian,"4,358","+/-1,178",0.6,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",139,Norwegian,"4,988","+/-1,168",0.7,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",140,Polish,"53,899","+/-5,423",7.4,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",141,Portuguese,"8,701","+/-1,977",1.2,+/-0.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",142,Russian,"7,824","+/-1,903",1.1,+/-0.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",143,Scotch-Irish,"4,201","+/-1,208",0.6,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",144,Scottish,"17,503","+/-3,004",2.4,+/-0.4
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",145,Slovak,"1,485",+/-655,0.2,+/-0.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",146,Subsaharan African,"3,207","+/-1,129",0.4,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",147,Swedish,"13,787","+/-2,088",1.9,+/-0.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",148,Swiss,"3,511","+/-2,396",0.5,+/-0.3
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",149,Ukrainian,"2,729",+/-999,0.4,+/-0.1
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",150,Welsh,"3,600","+/-1,353",0.5,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",151,West Indian (excluding Hispanic origin groups),"5,330","+/-1,470",0.7,+/-0.2
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",151.3,,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",152,Total households,"291,752","+/-3,788","291,752",(X)
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",153,With a computer,"279,850","+/-4,096",95.9,+/-0.7
+DP02,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",154,With a broadband Internet subscription,"268,587","+/-4,359",92.1,+/-0.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",0.5,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",1,Total households,"291,460","+/-4,671","291,460",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",2,Married-couple household,"123,544","+/-4,389",42.4,+/-1.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",3,With children of the householder under 18 years,"45,563","+/-3,779",15.6,+/-1.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",4,Cohabiting couple household,"20,753","+/-2,797",7.1,+/-1.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",5,With children of the householder under 18 years,"5,763","+/-1,421",2.0,+/-0.5
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",6,"Male householder, no spouse/partner present","55,532","+/-3,655",19.1,+/-1.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",7,With children of the householder under 18 years,"3,552","+/-1,270",1.2,+/-0.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",8,Householder living alone,"39,968","+/-3,088",13.7,+/-1.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",9,65 years and over,"12,051","+/-1,594",4.1,+/-0.5
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",10,"Female householder, no spouse/partner present","91,631","+/-4,252",31.4,+/-1.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",11,With children of the householder under 18 years,"14,240","+/-2,268",4.9,+/-0.8
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",12,Householder living alone,"49,581","+/-3,650",17.0,+/-1.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",13,65 years and over,"23,877","+/-2,400",8.2,+/-0.8
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",13.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",14,Households with one or more people under 18 years,"78,292","+/-4,600",26.9,+/-1.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",15,Households with one or more people 65 years and over,"94,039","+/-3,587",32.3,+/-1.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",15.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",16,Average household size,2.38,+/-0.03,(X),(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",17,Average family size,3.01,+/-0.06,(X),(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",17.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",17.5,RELATIONSHIP,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",18,Population in households,"693,695","+/-8,171","693,695",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",19,Householder,"291,460","+/-4,671",42.0,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",20,Spouse,"123,450","+/-4,042",17.8,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",21,Unmarried partner,"20,273","+/-2,732",2.9,+/-0.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",22,Child,"196,455","+/-7,752",28.3,+/-1.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",23,Other relatives,"42,300","+/-4,973",6.1,+/-0.7
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",24,Other nonrelatives,"19,757","+/-3,404",2.8,+/-0.5
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",24.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",24.5,MARITAL STATUS,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",25,Males 15 years and over,"287,952","+/-5,156","287,952",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",26,Never married,"119,062","+/-5,754",41.3,+/-1.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",27,"Now married, except separated","133,263","+/-4,889",46.3,+/-1.7
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",28,Separated,"3,561","+/-1,049",1.2,+/-0.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",29,Widowed,"8,706","+/-1,589",3.0,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",30,Divorced,"23,360","+/-2,525",8.1,+/-0.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",30.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",31,Females 15 years and over,"318,202","+/-4,743","318,202",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",32,Never married,"114,978","+/-4,462",36.1,+/-1.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",33,"Now married, except separated","130,494","+/-4,487",41.0,+/-1.5
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",34,Separated,"7,468","+/-1,914",2.3,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",35,Widowed,"23,945","+/-2,207",7.5,+/-0.7
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",36,Divorced,"41,317","+/-3,659",13.0,+/-1.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",36.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",36.5,FERTILITY,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"6,605","+/-1,360","6,605",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",38,"Unmarried women (widowed, divorced, and never married)","1,932",+/-832,29.3,+/-10.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",39,"Per 1,000 unmarried women",18,+/-8,(X),(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",40,"Per 1,000 women 15 to 50 years old",38,+/-8,(X),(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",41,"Per 1,000 women 15 to 19 years old",0,+/-8,(X),(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",42,"Per 1,000 women 20 to 34 years old",63,+/-16,(X),(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",43,"Per 1,000 women 35 to 50 years old",26,+/-11,(X),(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",43.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",43.5,GRANDPARENTS,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",44,Number of grandparents living with own grandchildren under 18 years,"13,935","+/-2,525","13,935",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",45,Grandparents responsible for grandchildren,"5,437","+/-1,657",39.0,+/-8.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",46,Less than 1 year,782,+/-466,5.6,+/-3.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",47,1 or 2 years,"1,030",+/-703,7.4,+/-4.8
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",48,3 or 4 years,"1,210",+/-803,8.7,+/-5.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",49,5 or more years,"2,415","+/-1,307",17.3,+/-8.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",49.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",50,Number of grandparents responsible for own grandchildren under 18 years,"5,437","+/-1,657","5,437",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",51,Who are female,"3,160",+/-994,58.1,+/-8.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",52,Who are married,"3,517","+/-1,463",64.7,+/-14.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",52.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",53,Population 3 years and over enrolled in school,"181,688","+/-6,816","181,688",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",54,"Nursery school, preschool","9,251","+/-1,646",5.1,+/-0.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",55,Kindergarten,"6,860","+/-1,571",3.8,+/-0.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",56,Elementary school (grades 1-8),"61,688","+/-3,990",34.0,+/-1.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",57,High school (grades 9-12),"35,698","+/-2,458",19.6,+/-1.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",58,College or graduate school,"68,191","+/-4,037",37.5,+/-1.8
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",58.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",59,Population 25 years and over,"502,980","+/-6,420","502,980",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",60,Less than 9th grade,"21,794","+/-3,276",4.3,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",61,"9th to 12th grade, no diploma","21,453","+/-2,707",4.3,+/-0.5
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",62,High school graduate (includes equivalency),"139,500","+/-6,359",27.7,+/-1.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",63,"Some college, no degree","77,013","+/-4,853",15.3,+/-0.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",64,Associate's degree,"37,283","+/-3,907",7.4,+/-0.8
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",65,Bachelor's degree,"109,506","+/-6,072",21.8,+/-1.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",66,Graduate or professional degree,"96,431","+/-5,741",19.2,+/-1.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",66.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",67,High school graduate or higher,"459,733","+/-6,768",91.4,+/-0.8
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",68,Bachelor's degree or higher,"205,937","+/-6,950",40.9,+/-1.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",68.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",68.5,VETERAN STATUS,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",69,Civilian population 18 years and over,"578,978","+/-7,561","578,978",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",70,Civilian veterans,"26,976","+/-3,084",4.7,+/-0.5
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",70.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",71,Total Civilian Noninstitutionalized Population,"713,650","+/-8,059","713,650",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",72,With a disability,"79,686","+/-4,485",11.2,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",72.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",73,Under 18 years,"139,712","+/-5,543","139,712",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",74,With a disability,"5,333","+/-1,282",3.8,+/-0.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",74.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",75,18 to 64 years,"450,774","+/-7,765","450,774",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",76,With a disability,"40,356","+/-3,290",9.0,+/-0.7
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",76.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",77,65 years and over,"123,164","+/-4,278","123,164",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",78,With a disability,"33,997","+/-2,592",27.6,+/-1.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",78.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",79,Population 1 year and over,"713,210","+/-7,906","713,210",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",80,Same house,"630,767","+/-10,574",88.4,+/-1.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",81,Different house (in the U.S. or abroad),"82,443","+/-7,434",11.6,+/-1.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",82,Different house in the U.S.,"76,645","+/-7,554",10.7,+/-1.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",83,Same county,"42,951","+/-5,650",6.0,+/-0.8
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",84,Different county,"33,694","+/-4,224",4.7,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",85,Same state,"14,483","+/-2,978",2.0,+/-0.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",86,Different state,"19,211","+/-3,224",2.7,+/-0.5
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",87,Abroad,"5,798","+/-1,598",0.8,+/-0.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",87.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",88,Total population,"719,381","+/-8,038","719,381",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",89,Native,"609,799","+/-8,634",84.8,+/-0.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",90,Born in United States,"585,581","+/-8,103",81.4,+/-0.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",91,State of residence,"431,456","+/-9,936",60.0,+/-1.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",92,Different state,"154,125","+/-8,020",21.4,+/-1.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","24,218","+/-4,025",3.4,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",94,Foreign born,"109,582","+/-6,688",15.2,+/-0.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",94.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",95,Foreign-born population,"109,582","+/-6,688","109,582",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",96,Naturalized U.S. citizen,"57,941","+/-4,687",52.9,+/-3.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",97,Not a U.S. citizen,"51,641","+/-5,224",47.1,+/-3.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",97.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",98,Population born outside the United States,"133,800","+/-6,947","133,800",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",98.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",99,Native,"24,218","+/-4,025","24,218",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",100,Entered 2010 or later,"6,873","+/-2,505",28.4,+/-7.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",101,Entered before 2010,"17,345","+/-2,871",71.6,+/-7.9
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",101.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",102,Foreign born,"109,582","+/-6,688","109,582",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",103,Entered 2010 or later,"31,830","+/-3,884",29.0,+/-3.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",104,Entered before 2010,"77,752","+/-5,644",71.0,+/-3.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",104.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",105,"Foreign-born population, excluding population born at sea","109,582","+/-6,688","109,582",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",106,Europe,"24,005","+/-2,855",21.9,+/-2.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",107,Asia,"25,245","+/-2,759",23.0,+/-2.5
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",108,Africa,"8,395","+/-2,449",7.7,+/-2.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",109,Oceania,521,+/-362,0.5,+/-0.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",110,Latin America,"48,603","+/-5,789",44.4,+/-3.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",111,Northern America,"2,813","+/-1,239",2.6,+/-1.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",111.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",112,Population 5 years and over,"684,125","+/-8,277","684,125",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",113,English only,"531,648","+/-9,785",77.7,+/-1.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",114,Language other than English,"152,477","+/-9,117",22.3,+/-1.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",115,"Speak English less than ""very well""","58,513","+/-5,645",8.6,+/-0.8
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",116,Spanish,"81,912","+/-7,094",12.0,+/-1.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",117,"Speak English less than ""very well""","32,373","+/-3,904",4.7,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",118,Other Indo-European languages,"42,593","+/-4,623",6.2,+/-0.7
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",119,"Speak English less than ""very well""","14,690","+/-2,846",2.1,+/-0.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",120,Asian and Pacific Islander languages,"17,989","+/-2,588",2.6,+/-0.4
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",121,"Speak English less than ""very well""","8,667","+/-1,623",1.3,+/-0.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",122,Other languages,"9,983","+/-3,964",1.5,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",123,"Speak English less than ""very well""","2,783","+/-1,604",0.4,+/-0.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",123.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",123.5,ANCESTRY,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",124,Total population,"719,381","+/-8,038","719,381",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",125,American,"20,653","+/-4,118",2.9,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",126,Arab,"3,556","+/-2,226",0.5,+/-0.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",127,Czech,955,+/-519,0.1,+/-0.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",128,Danish,"2,763","+/-1,581",0.4,+/-0.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",129,Dutch,"2,478",+/-769,0.3,+/-0.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",130,English,"54,837","+/-4,763",7.6,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",131,French (except Basque),"15,819","+/-2,436",2.2,+/-0.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",132,French Canadian,"10,448","+/-1,896",1.5,+/-0.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",133,German,"53,759","+/-4,570",7.5,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",134,Greek,"5,192","+/-1,969",0.7,+/-0.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",135,Hungarian,"6,345","+/-1,438",0.9,+/-0.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",136,Irish,"100,014","+/-7,322",13.9,+/-1.0
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",137,Italian,"136,281","+/-7,611",18.9,+/-1.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",138,Lithuanian,"4,492","+/-1,113",0.6,+/-0.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",139,Norwegian,"1,573",+/-583,0.2,+/-0.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",140,Polish,"39,002","+/-4,154",5.4,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",141,Portuguese,"11,627","+/-3,460",1.6,+/-0.5
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",142,Russian,"9,355","+/-1,884",1.3,+/-0.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",143,Scotch-Irish,"2,389","+/-1,038",0.3,+/-0.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",144,Scottish,"6,998","+/-1,437",1.0,+/-0.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",145,Slovak,"5,829","+/-1,448",0.8,+/-0.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",146,Subsaharan African,"12,728","+/-4,353",1.8,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",147,Swedish,"8,036","+/-1,683",1.1,+/-0.2
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",148,Swiss,788,+/-455,0.1,+/-0.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",149,Ukrainian,"3,440","+/-1,936",0.5,+/-0.3
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",150,Welsh,"1,156",+/-631,0.2,+/-0.1
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",151,West Indian (excluding Hispanic origin groups),"15,297","+/-4,027",2.1,+/-0.6
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",151.3,,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",152,Total households,"291,460","+/-4,671","291,460",(X)
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",153,With a computer,"276,869","+/-4,746",95.0,+/-0.7
+DP02,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",154,With a broadband Internet subscription,"271,415","+/-5,009",93.1,+/-0.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",0.5,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",1,Total households,"266,075","+/-3,983","266,075",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",2,Married-couple household,"137,934","+/-4,224",51.8,+/-1.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",3,With children of the householder under 18 years,"56,797","+/-3,408",21.3,+/-1.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",4,Cohabiting couple household,"16,361","+/-2,619",6.1,+/-1.0
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",5,With children of the householder under 18 years,"5,078","+/-1,651",1.9,+/-0.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",6,"Male householder, no spouse/partner present","39,044","+/-3,298",14.7,+/-1.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",7,With children of the householder under 18 years,"2,114",+/-786,0.8,+/-0.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",8,Householder living alone,"28,352","+/-2,926",10.7,+/-1.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",9,65 years and over,"9,620","+/-1,645",3.6,+/-0.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",10,"Female householder, no spouse/partner present","72,736","+/-4,372",27.3,+/-1.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",11,With children of the householder under 18 years,"12,289","+/-1,823",4.6,+/-0.7
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",12,Householder living alone,"40,764","+/-2,879",15.3,+/-1.0
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",13,65 years and over,"22,318","+/-2,229",8.4,+/-0.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",13.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",14,Households with one or more people under 18 years,"82,253","+/-3,887",30.9,+/-1.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",15,Households with one or more people 65 years and over,"86,535","+/-3,707",32.5,+/-1.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",15.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",16,Average household size,2.65,+/-0.04,(X),(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",17,Average family size,3.24,+/-0.05,(X),(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",17.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",17.5,RELATIONSHIP,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",18,Population in households,"706,042","+/-7,017","706,042",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",19,Householder,"266,075","+/-3,983",37.7,+/-0.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",20,Spouse,"137,414","+/-4,361",19.5,+/-0.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",21,Unmarried partner,"16,778","+/-2,757",2.4,+/-0.4
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",22,Child,"223,325","+/-6,649",31.6,+/-0.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",23,Other relatives,"44,002","+/-5,626",6.2,+/-0.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",24,Other nonrelatives,"18,448","+/-3,823",2.6,+/-0.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",24.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",24.5,MARITAL STATUS,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",25,Males 15 years and over,"288,008","+/-4,267","288,008",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",26,Never married,"107,487","+/-4,238",37.3,+/-1.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",27,"Now married, except separated","153,548","+/-4,841",53.3,+/-1.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",28,Separated,"4,338","+/-1,178",1.5,+/-0.4
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",29,Widowed,"4,737","+/-1,214",1.6,+/-0.4
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",30,Divorced,"17,898","+/-2,579",6.2,+/-0.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",30.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",31,Females 15 years and over,"301,608","+/-3,761","301,608",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",32,Never married,"98,641","+/-4,140",32.7,+/-1.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",33,"Now married, except separated","141,882","+/-4,459",47.0,+/-1.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",34,Separated,"5,140","+/-1,321",1.7,+/-0.4
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",35,Widowed,"24,414","+/-2,318",8.1,+/-0.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",36,Divorced,"31,531","+/-3,333",10.5,+/-1.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",36.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",36.5,FERTILITY,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,823","+/-1,717","9,823",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",38,"Unmarried women (widowed, divorced, and never married)","2,167","+/-1,067",22.1,+/-10.0
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",39,"Per 1,000 unmarried women",23,+/-12,(X),(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",40,"Per 1,000 women 15 to 50 years old",60,+/-11,(X),(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",41,"Per 1,000 women 15 to 19 years old",13,+/-14,(X),(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",42,"Per 1,000 women 20 to 34 years old",81,+/-22,(X),(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",43,"Per 1,000 women 35 to 50 years old",58,+/-14,(X),(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",43.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",43.5,GRANDPARENTS,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",44,Number of grandparents living with own grandchildren under 18 years,"10,647","+/-2,009","10,647",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",45,Grandparents responsible for grandchildren,"3,036","+/-1,077",28.5,+/-8.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",46,Less than 1 year,615,+/-427,5.8,+/-3.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",47,1 or 2 years,955,+/-791,9.0,+/-7.0
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",48,3 or 4 years,430,+/-438,4.0,+/-4.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",49,5 or more years,"1,036",+/-659,9.7,+/-6.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",49.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",50,Number of grandparents responsible for own grandchildren under 18 years,"3,036","+/-1,077","3,036",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",51,Who are female,"2,210",+/-813,72.8,+/-13.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",52,Who are married,891,+/-695,29.3,+/-18.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",52.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",53,Population 3 years and over enrolled in school,"183,908","+/-6,433","183,908",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",54,"Nursery school, preschool","11,162","+/-1,815",6.1,+/-0.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",55,Kindergarten,"8,765","+/-1,635",4.8,+/-0.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",56,Elementary school (grades 1-8),"72,794","+/-3,495",39.6,+/-1.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",57,High school (grades 9-12),"39,915","+/-2,423",21.7,+/-1.4
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",58,College or graduate school,"51,272","+/-4,382",27.9,+/-1.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",58.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",59,Population 25 years and over,"496,578","+/-5,321","496,578",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",60,Less than 9th grade,"27,984","+/-4,129",5.6,+/-0.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",61,"9th to 12th grade, no diploma","17,602","+/-2,397",3.5,+/-0.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",62,High school graduate (includes equivalency),"95,809","+/-5,298",19.3,+/-1.0
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",63,"Some college, no degree","63,706","+/-4,848",12.8,+/-0.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",64,Associate's degree,"26,949","+/-3,084",5.4,+/-0.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",65,Bachelor's degree,"146,144","+/-5,321",29.4,+/-1.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",66,Graduate or professional degree,"118,384","+/-5,536",23.8,+/-1.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",66.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",67,High school graduate or higher,"450,992","+/-6,766",90.8,+/-0.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",68,Bachelor's degree or higher,"264,528","+/-6,862",53.3,+/-1.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",68.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",68.5,VETERAN STATUS,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",69,Civilian population 18 years and over,"559,037","+/-5,614","559,037",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",70,Civilian veterans,"17,205","+/-1,865",3.1,+/-0.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",70.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",71,Total Civilian Noninstitutionalized Population,"714,148","+/-6,996","714,148",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",72,With a disability,"72,714","+/-4,739",10.2,+/-0.7
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",72.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",73,Under 18 years,"159,134","+/-4,537","159,134",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",74,With a disability,"7,167","+/-1,386",4.5,+/-0.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",74.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",75,18 to 64 years,"438,834","+/-5,715","438,834",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",76,With a disability,"31,846","+/-3,835",7.3,+/-0.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",76.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",77,65 years and over,"116,180","+/-3,720","116,180",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",78,With a disability,"33,701","+/-2,744",29.0,+/-2.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",78.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",79,Population 1 year and over,"709,835","+/-6,567","709,835",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",80,Same house,"622,224","+/-11,336",87.7,+/-1.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",81,Different house (in the U.S. or abroad),"87,611","+/-8,179",12.3,+/-1.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",82,Different house in the U.S.,"84,108","+/-7,987",11.8,+/-1.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",83,Same county,"48,314","+/-6,364",6.8,+/-0.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",84,Different county,"35,794","+/-4,812",5.0,+/-0.7
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",85,Same state,"5,077","+/-1,600",0.7,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",86,Different state,"30,717","+/-4,701",4.3,+/-0.7
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",87,Abroad,"3,503","+/-1,558",0.5,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",87.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",88,Total population,"718,640","+/-6,537","718,640",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",89,Native,"551,011","+/-10,648",76.7,+/-1.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",90,Born in United States,"529,387","+/-10,109",73.7,+/-1.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",91,State of residence,"288,004","+/-11,535",40.1,+/-1.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",92,Different state,"241,383","+/-9,981",33.6,+/-1.4
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","21,624","+/-3,018",3.0,+/-0.4
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",94,Foreign born,"167,629","+/-8,415",23.3,+/-1.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",94.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",95,Foreign-born population,"167,629","+/-8,415","167,629",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",96,Naturalized U.S. citizen,"90,667","+/-4,992",54.1,+/-2.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",97,Not a U.S. citizen,"76,962","+/-6,102",45.9,+/-2.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",97.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",98,Population born outside the United States,"189,253","+/-7,826","189,253",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",98.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",99,Native,"21,624","+/-3,018","21,624",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",100,Entered 2010 or later,"4,931","+/-1,545",22.8,+/-6.0
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",101,Entered before 2010,"16,693","+/-2,485",77.2,+/-6.0
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",101.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",102,Foreign born,"167,629","+/-8,415","167,629",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",103,Entered 2010 or later,"49,036","+/-5,912",29.3,+/-2.7
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",104,Entered before 2010,"118,593","+/-5,748",70.7,+/-2.7
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",104.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",105,"Foreign-born population, excluding population born at sea","167,629","+/-8,415","167,629",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",106,Europe,"33,482","+/-3,421",20.0,+/-2.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",107,Asia,"33,254","+/-3,009",19.8,+/-1.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",108,Africa,"7,085","+/-2,741",4.2,+/-1.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",109,Oceania,893,+/-504,0.5,+/-0.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",110,Latin America,"89,468","+/-8,056",53.4,+/-3.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",111,Northern America,"3,447","+/-1,116",2.1,+/-0.7
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",111.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",112,Population 5 years and over,"679,740","+/-6,377","679,740",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",113,English only,"470,246","+/-9,618",69.2,+/-1.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",114,Language other than English,"209,494","+/-9,169",30.8,+/-1.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",115,"Speak English less than ""very well""","86,746","+/-6,718",12.8,+/-1.0
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",116,Spanish,"111,813","+/-7,436",16.4,+/-1.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",117,"Speak English less than ""very well""","54,656","+/-5,632",8.0,+/-0.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",118,Other Indo-European languages,"66,920","+/-6,814",9.8,+/-1.0
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",119,"Speak English less than ""very well""","22,489","+/-3,595",3.3,+/-0.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",120,Asian and Pacific Islander languages,"21,708","+/-3,222",3.2,+/-0.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",121,"Speak English less than ""very well""","7,008","+/-1,682",1.0,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",122,Other languages,"9,053","+/-3,025",1.3,+/-0.4
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",123,"Speak English less than ""very well""","2,593","+/-1,201",0.4,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",123.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",123.5,ANCESTRY,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",124,Total population,"718,640","+/-6,537","718,640",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",125,American,"34,548","+/-4,595",4.8,+/-0.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",126,Arab,"3,800","+/-1,558",0.5,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",127,Czech,"2,276",+/-906,0.3,+/-0.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",128,Danish,"2,152",+/-825,0.3,+/-0.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",129,Dutch,"5,703","+/-1,990",0.8,+/-0.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",130,English,"57,754","+/-4,654",8.0,+/-0.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",131,French (except Basque),"9,282","+/-1,695",1.3,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",132,French Canadian,"5,448","+/-1,802",0.8,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",133,German,"46,377","+/-5,228",6.5,+/-0.7
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",134,Greek,"6,853","+/-1,821",1.0,+/-0.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",135,Hungarian,"7,568","+/-1,462",1.1,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",136,Irish,"92,329","+/-5,486",12.8,+/-0.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",137,Italian,"98,048","+/-6,408",13.6,+/-0.9
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",138,Lithuanian,"3,207","+/-1,270",0.4,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",139,Norwegian,"4,245","+/-1,350",0.6,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",140,Polish,"34,112","+/-4,562",4.7,+/-0.6
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",141,Portuguese,"6,472","+/-2,133",0.9,+/-0.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",142,Russian,"14,142","+/-2,747",2.0,+/-0.4
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",143,Scotch-Irish,"1,983",+/-573,0.3,+/-0.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",144,Scottish,"10,053","+/-1,908",1.4,+/-0.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",145,Slovak,"4,095","+/-1,051",0.6,+/-0.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",146,Subsaharan African,"10,426","+/-3,306",1.5,+/-0.5
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",147,Swedish,"6,097","+/-1,539",0.8,+/-0.2
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",148,Swiss,"1,456",+/-664,0.2,+/-0.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",149,Ukrainian,"5,566","+/-1,869",0.8,+/-0.3
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",150,Welsh,"1,624",+/-861,0.2,+/-0.1
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",151,West Indian (excluding Hispanic origin groups),"34,283","+/-5,835",4.8,+/-0.8
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",151.3,,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",152,Total households,"266,075","+/-3,983","266,075",(X)
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",153,With a computer,"254,405","+/-3,797",95.6,+/-0.7
+DP02,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",154,With a broadband Internet subscription,"248,827","+/-4,059",93.5,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",0.5,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",1,Total households,"284,148","+/-5,461","284,148",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",2,Married-couple household,"134,080","+/-4,448",47.2,+/-1.7
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",3,With children of the householder under 18 years,"51,447","+/-3,532",18.1,+/-1.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",4,Cohabiting couple household,"20,165","+/-2,248",7.1,+/-0.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",5,With children of the householder under 18 years,"6,635","+/-1,604",2.3,+/-0.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",6,"Male householder, no spouse/partner present","46,349","+/-3,860",16.3,+/-1.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",7,With children of the householder under 18 years,"3,203","+/-1,197",1.1,+/-0.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",8,Householder living alone,"34,689","+/-3,327",12.2,+/-1.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",9,65 years and over,"13,526","+/-1,793",4.8,+/-0.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",10,"Female householder, no spouse/partner present","83,554","+/-4,935",29.4,+/-1.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",11,With children of the householder under 18 years,"16,423","+/-2,402",5.8,+/-0.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",12,Householder living alone,"46,961","+/-3,935",16.5,+/-1.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",13,65 years and over,"26,486","+/-2,662",9.3,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",13.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",14,Households with one or more people under 18 years,"84,571","+/-4,503",29.8,+/-1.7
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",15,Households with one or more people 65 years and over,"96,837","+/-4,229",34.1,+/-1.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",15.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",16,Average household size,2.48,+/-0.05,(X),(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",17,Average family size,3.07,+/-0.06,(X),(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",17.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",17.5,RELATIONSHIP,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",18,Population in households,"704,304","+/-11,051","704,304",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",19,Householder,"284,148","+/-5,461",40.3,+/-0.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",20,Spouse,"134,704","+/-4,498",19.1,+/-0.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",21,Unmarried partner,"20,639","+/-2,296",2.9,+/-0.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",22,Child,"208,472","+/-8,826",29.6,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",23,Other relatives,"40,295","+/-5,567",5.7,+/-0.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",24,Other nonrelatives,"16,046","+/-3,187",2.3,+/-0.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",24.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",24.5,MARITAL STATUS,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",25,Males 15 years and over,"290,384","+/-6,096","290,384",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",26,Never married,"103,858","+/-5,429",35.8,+/-1.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",27,"Now married, except separated","148,836","+/-5,210",51.3,+/-1.7
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",28,Separated,"2,942",+/-922,1.0,+/-0.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",29,Widowed,"7,928","+/-1,531",2.7,+/-0.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",30,Divorced,"26,820","+/-2,852",9.2,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",30.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",31,Females 15 years and over,"306,929","+/-6,143","306,929",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",32,Never married,"91,886","+/-4,429",29.9,+/-1.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",33,"Now married, except separated","139,499","+/-4,269",45.4,+/-1.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",34,Separated,"5,342","+/-1,323",1.7,+/-0.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",35,Widowed,"27,073","+/-2,905",8.8,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",36,Divorced,"43,129","+/-3,460",14.1,+/-1.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",36.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",36.5,FERTILITY,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,583","+/-1,620","7,583",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",38,"Unmarried women (widowed, divorced, and never married)","2,992","+/-1,284",39.5,+/-13.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",39,"Per 1,000 unmarried women",33,+/-14,(X),(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",40,"Per 1,000 women 15 to 50 years old",48,+/-10,(X),(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",41,"Per 1,000 women 15 to 19 years old",1,+/-1,(X),(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",42,"Per 1,000 women 20 to 34 years old",88,+/-22,(X),(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",43,"Per 1,000 women 35 to 50 years old",27,+/-10,(X),(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",43.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",43.5,GRANDPARENTS,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",44,Number of grandparents living with own grandchildren under 18 years,"14,495","+/-2,564","14,495",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",45,Grandparents responsible for grandchildren,"3,153","+/-1,314",21.8,+/-8.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",46,Less than 1 year,"1,214",+/-832,8.4,+/-5.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",47,1 or 2 years,633,+/-547,4.4,+/-3.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",48,3 or 4 years,363,+/-324,2.5,+/-2.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",49,5 or more years,943,+/-491,6.5,+/-3.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",49.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",50,Number of grandparents responsible for own grandchildren under 18 years,"3,153","+/-1,314","3,153",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",51,Who are female,"2,250","+/-1,056",71.4,+/-14.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",52,Who are married,"1,709",+/-953,54.2,+/-24.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",52.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",53,Population 3 years and over enrolled in school,"166,319","+/-8,002","166,319",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",54,"Nursery school, preschool","10,562","+/-1,659",6.4,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",55,Kindergarten,"6,677","+/-1,449",4.0,+/-0.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",56,Elementary school (grades 1-8),"68,395","+/-4,921",41.1,+/-2.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",57,High school (grades 9-12),"40,798","+/-3,765",24.5,+/-1.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",58,College or graduate school,"39,887","+/-3,377",24.0,+/-1.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",58.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",59,Population 25 years and over,"511,968","+/-8,902","511,968",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",60,Less than 9th grade,"23,896","+/-3,936",4.7,+/-0.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",61,"9th to 12th grade, no diploma","29,360","+/-3,538",5.7,+/-0.7
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",62,High school graduate (includes equivalency),"130,513","+/-6,886",25.5,+/-1.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",63,"Some college, no degree","87,317","+/-6,046",17.1,+/-1.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",64,Associate's degree,"37,762","+/-3,312",7.4,+/-0.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",65,Bachelor's degree,"109,430","+/-4,819",21.4,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",66,Graduate or professional degree,"93,690","+/-4,850",18.3,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",66.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",67,High school graduate or higher,"458,712","+/-8,918",89.6,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",68,Bachelor's degree or higher,"203,120","+/-6,424",39.7,+/-1.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",68.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",68.5,VETERAN STATUS,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",69,Civilian population 18 years and over,"568,026","+/-9,426","568,026",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",70,Civilian veterans,"27,036","+/-2,918",4.8,+/-0.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",70.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",71,Total Civilian Noninstitutionalized Population,"711,342","+/-11,018","711,342",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",72,With a disability,"91,565","+/-6,571",12.9,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",72.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",73,Under 18 years,"151,811","+/-8,175","151,811",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",74,With a disability,"7,919","+/-1,688",5.2,+/-1.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",74.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",75,18 to 64 years,"430,072","+/-9,794","430,072",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",76,With a disability,"45,030","+/-4,542",10.5,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",76.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",77,65 years and over,"129,459","+/-5,950","129,459",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",78,With a disability,"38,616","+/-3,645",29.8,+/-2.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",78.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",79,Population 1 year and over,"713,771","+/-10,912","713,771",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",80,Same house,"640,474","+/-11,757",89.7,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",81,Different house (in the U.S. or abroad),"73,297","+/-7,429",10.3,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",82,Different house in the U.S.,"71,318","+/-7,360",10.0,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",83,Same county,"39,450","+/-6,279",5.5,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",84,Different county,"31,868","+/-4,527",4.5,+/-0.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",85,Same state,"13,864","+/-3,472",1.9,+/-0.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",86,Different state,"18,004","+/-3,514",2.5,+/-0.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",87,Abroad,"1,979",+/-987,0.3,+/-0.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",87.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",88,Total population,"720,784","+/-10,960","720,784",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",89,Native,"614,819","+/-11,748",85.3,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",90,Born in United States,"584,124","+/-11,444",81.0,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",91,State of residence,"387,802","+/-12,942",53.8,+/-1.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",92,Different state,"196,322","+/-9,293",27.2,+/-1.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","30,695","+/-4,218",4.3,+/-0.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",94,Foreign born,"105,965","+/-7,040",14.7,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",94.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",95,Foreign-born population,"105,965","+/-7,040","105,965",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",96,Naturalized U.S. citizen,"60,669","+/-5,271",57.3,+/-3.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",97,Not a U.S. citizen,"45,296","+/-4,576",42.7,+/-3.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",97.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",98,Population born outside the United States,"136,660","+/-7,395","136,660",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",98.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",99,Native,"30,695","+/-4,218","30,695",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",100,Entered 2010 or later,"8,324","+/-2,917",27.1,+/-7.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",101,Entered before 2010,"22,371","+/-3,349",72.9,+/-7.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",101.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",102,Foreign born,"105,965","+/-7,040","105,965",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",103,Entered 2010 or later,"27,974","+/-4,099",26.4,+/-3.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",104,Entered before 2010,"77,991","+/-5,886",73.6,+/-3.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",104.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",105,"Foreign-born population, excluding population born at sea","105,965","+/-7,040","105,965",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",106,Europe,"26,752","+/-3,053",25.2,+/-3.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",107,Asia,"24,417","+/-3,724",23.0,+/-3.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",108,Africa,"4,527","+/-1,456",4.3,+/-1.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",109,Oceania,788,+/-436,0.7,+/-0.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",110,Latin America,"47,337","+/-6,623",44.7,+/-4.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",111,Northern America,"2,144",+/-756,2.0,+/-0.7
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",111.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",112,Population 5 years and over,"683,130","+/-10,353","683,130",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",113,English only,"514,127","+/-12,313",75.3,+/-1.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",114,Language other than English,"169,003","+/-10,501",24.7,+/-1.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",115,"Speak English less than ""very well""","68,964","+/-5,919",10.1,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",116,Spanish,"93,611","+/-8,439",13.7,+/-1.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",117,"Speak English less than ""very well""","40,854","+/-5,030",6.0,+/-0.7
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",118,Other Indo-European languages,"49,323","+/-5,394",7.2,+/-0.8
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",119,"Speak English less than ""very well""","17,604","+/-3,120",2.6,+/-0.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",120,Asian and Pacific Islander languages,"18,944","+/-3,791",2.8,+/-0.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",121,"Speak English less than ""very well""","9,068","+/-2,638",1.3,+/-0.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",122,Other languages,"7,125","+/-2,513",1.0,+/-0.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",123,"Speak English less than ""very well""","1,438",+/-792,0.2,+/-0.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",123.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",123.5,ANCESTRY,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",124,Total population,"720,784","+/-10,960","720,784",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",125,American,"22,109","+/-4,308",3.1,+/-0.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",126,Arab,"5,794","+/-2,521",0.8,+/-0.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",127,Czech,"2,150","+/-1,109",0.3,+/-0.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",128,Danish,"1,911","+/-1,787",0.3,+/-0.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",129,Dutch,"3,377","+/-1,222",0.5,+/-0.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",130,English,"66,119","+/-6,853",9.2,+/-1.0
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",131,French (except Basque),"26,632","+/-3,155",3.7,+/-0.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",132,French Canadian,"14,161","+/-3,069",2.0,+/-0.4
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",133,German,"62,881","+/-6,298",8.7,+/-0.9
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",134,Greek,"4,666","+/-1,710",0.6,+/-0.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",135,Hungarian,"6,039","+/-1,903",0.8,+/-0.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",136,Irish,"98,921","+/-7,555",13.7,+/-1.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",137,Italian,"122,008","+/-8,549",16.9,+/-1.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",138,Lithuanian,"6,222","+/-1,652",0.9,+/-0.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",139,Norwegian,"4,087","+/-1,397",0.6,+/-0.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",140,Polish,"49,294","+/-4,629",6.8,+/-0.6
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",141,Portuguese,"7,912","+/-1,890",1.1,+/-0.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",142,Russian,"8,125","+/-1,910",1.1,+/-0.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",143,Scotch-Irish,"3,584","+/-1,092",0.5,+/-0.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",144,Scottish,"11,130","+/-2,067",1.5,+/-0.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",145,Slovak,"3,817","+/-1,573",0.5,+/-0.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",146,Subsaharan African,"5,839","+/-1,948",0.8,+/-0.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",147,Swedish,"10,249","+/-2,055",1.4,+/-0.3
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",148,Swiss,"1,241",+/-503,0.2,+/-0.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",149,Ukrainian,"4,227","+/-1,750",0.6,+/-0.2
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",150,Welsh,"2,351",+/-831,0.3,+/-0.1
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",151,West Indian (excluding Hispanic origin groups),"10,158","+/-3,361",1.4,+/-0.5
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",151.3,,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",152,Total households,"284,148","+/-5,461","284,148",(X)
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",153,With a computer,"269,910","+/-5,184",95.0,+/-0.7
+DP02,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",154,With a broadband Internet subscription,"261,056","+/-5,383",91.9,+/-1.0

@@ -1,0 +1,1009 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",0.5,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",1,Population 16 years and over,"620,036","+/-8,695","620,036",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",2,In labor force,"379,824","+/-9,526",61.3,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",3,Civilian labor force,"376,227","+/-9,648",60.7,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",4,Employed,"353,119","+/-9,483",57.0,+/-1.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",5,Unemployed,"23,108","+/-2,908",3.7,+/-0.5
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",6,Armed Forces,"3,597","+/-1,356",0.6,+/-0.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",7,Not in labor force,"240,212","+/-7,172",38.7,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",7.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",8,Civilian labor force,"376,227","+/-9,648","376,227",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",9,Unemployment Rate,(X),(X),6.1,+/-0.8
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",9.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",10,Females 16 years and over,"321,620","+/-5,479","321,620",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",11,In labor force,"178,884","+/-5,907",55.6,+/-1.5
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",12,Civilian labor force,"178,606","+/-5,894",55.5,+/-1.5
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",13,Employed,"169,671","+/-5,932",52.8,+/-1.6
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",13.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",14,Own children of the householder under 6 years,"54,771","+/-4,129","54,771",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",15,All parents in family in labor force,"38,933","+/-3,899",71.1,+/-4.8
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",15.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",16,Own children of the householder 6 to 17 years,"114,635","+/-4,853","114,635",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",17,All parents in family in labor force,"86,981","+/-5,367",75.9,+/-3.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",17.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",18,Workers 16 years and over,"348,545","+/-8,820","348,545",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",19,"Car, truck, or van -- drove alone","270,114","+/-8,081",77.5,+/-1.6
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",20,"Car, truck, or van -- carpooled","30,174","+/-3,893",8.7,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",21,Public transportation (excluding taxicab),"1,068",+/-846,0.3,+/-0.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",22,Walked,"3,698","+/-1,333",1.1,+/-0.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",23,Other means,"5,827","+/-1,533",1.7,+/-0.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",24,Worked from home,"37,664","+/-3,897",10.8,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",24.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",25,Mean travel time to work (minutes),25.3,+/-0.7,(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",25.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",25.5,OCCUPATION,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",26,Civilian employed population 16 years and over,"353,119","+/-9,483","353,119",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",27,"Management, business, science, and arts occupations","148,371","+/-7,121",42.0,+/-1.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",28,Service occupations,"53,681","+/-5,012",15.2,+/-1.3
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",29,Sales and office occupations,"76,550","+/-5,405",21.7,+/-1.5
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",30,"Natural resources, construction, and maintenance occupations","34,060","+/-4,167",9.6,+/-1.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",31,"Production, transportation, and material moving occupations","40,457","+/-4,182",11.5,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",31.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",31.5,INDUSTRY,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",32,Civilian employed population 16 years and over,"353,119","+/-9,483","353,119",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",33,"Agriculture, forestry, fishing and hunting, and mining","8,784","+/-1,990",2.5,+/-0.6
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",34,Construction,"27,520","+/-3,681",7.8,+/-1.0
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",35,Manufacturing,"21,046","+/-3,130",6.0,+/-0.9
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",36,Wholesale trade,"11,205","+/-2,497",3.2,+/-0.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",37,Retail trade,"39,213","+/-3,984",11.1,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",38,"Transportation and warehousing, and utilities","20,623","+/-3,221",5.8,+/-0.9
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",39,Information,"4,593","+/-1,473",1.3,+/-0.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",40,"Finance and insurance, and real estate and rental and leasing","22,061","+/-2,939",6.2,+/-0.8
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",41,"Professional, scientific, and management, and administrative and waste management services","44,358","+/-4,111",12.6,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",42,"Educational services, and health care and social assistance","85,549","+/-5,347",24.2,+/-1.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",43,"Arts, entertainment, and recreation, and accommodation and food services","32,385","+/-3,079",9.2,+/-0.9
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",44,"Other services, except public administration","18,262","+/-2,618",5.2,+/-0.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",45,Public administration,"17,520","+/-2,860",5.0,+/-0.8
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",45.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",46,Civilian employed population 16 years and over,"353,119","+/-9,483","353,119",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",47,Private wage and salary workers,"278,595","+/-9,138",78.9,+/-1.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",48,Government workers,"48,559","+/-4,130",13.8,+/-1.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",49,Self-employed in own not incorporated business workers,"25,523","+/-3,815",7.2,+/-1.0
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",50,Unpaid family workers,442,+/-299,0.1,+/-0.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",50.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",51,Total households,"307,894","+/-4,940","307,894",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",52,"Less than $10,000","21,609","+/-2,844",7.0,+/-0.9
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",53,"$10,000 to $14,999","12,950","+/-1,972",4.2,+/-0.6
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",54,"$15,000 to $24,999","21,892","+/-2,879",7.1,+/-0.9
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",55,"$25,000 to $34,999","27,191","+/-3,152",8.8,+/-1.0
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",56,"$35,000 to $49,999","34,983","+/-3,757",11.4,+/-1.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",57,"$50,000 to $74,999","54,891","+/-4,291",17.8,+/-1.3
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",58,"$75,000 to $99,999","40,906","+/-3,988",13.3,+/-1.3
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",59,"$100,000 to $149,999","46,189","+/-3,654",15.0,+/-1.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",60,"$150,000 to $199,999","20,208","+/-2,722",6.6,+/-0.9
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",61,"$200,000 or more","27,075","+/-2,865",8.8,+/-0.9
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",62,Median household income (dollars),"65,197","+/-2,237",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",63,Mean household income (dollars),"92,780","+/-3,320",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",63.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",64,With earnings,"234,150","+/-5,856",76.0,+/-1.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",65,Mean earnings (dollars),"94,709","+/-3,942",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",66,With Social Security,"97,538","+/-3,351",31.7,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",67,Mean Social Security income (dollars),"20,976",+/-719,(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",68,With retirement income,"77,101","+/-4,217",25.0,+/-1.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",69,Mean retirement income (dollars),"30,765","+/-3,627",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",69.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",70,With Supplemental Security Income,"14,618","+/-2,124",4.7,+/-0.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",71,Mean Supplemental Security Income (dollars),"10,413","+/-1,430",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",72,With cash public assistance income,"7,183","+/-1,569",2.3,+/-0.5
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",73,Mean cash public assistance income (dollars),"3,706",+/-839,(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",74,With Food Stamp/SNAP benefits in the past 12 months,"35,229","+/-3,665",11.4,+/-1.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",74.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",75,Families,"205,356","+/-5,772","205,356",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",76,"Less than $10,000","10,625","+/-2,276",5.2,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",77,"$10,000 to $14,999","3,798","+/-1,002",1.8,+/-0.5
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",78,"$15,000 to $24,999","10,707","+/-2,147",5.2,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",79,"$25,000 to $34,999","14,087","+/-2,225",6.9,+/-1.0
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",80,"$35,000 to $49,999","21,438","+/-2,687",10.4,+/-1.3
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",81,"$50,000 to $74,999","33,665","+/-4,072",16.4,+/-1.9
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",82,"$75,000 to $99,999","32,153","+/-3,848",15.7,+/-1.8
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",83,"$100,000 to $149,999","37,559","+/-3,595",18.3,+/-1.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",84,"$150,000 to $199,999","17,495","+/-2,508",8.5,+/-1.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",85,"$200,000 or more","23,829","+/-2,768",11.6,+/-1.3
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",86,Median family income (dollars),"80,048","+/-3,249",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",87,Mean family income (dollars),"109,797","+/-4,670",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",87.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",88,Per capita income (dollars),"37,585","+/-1,348",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",88.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",89,Nonfamily households,"102,538","+/-4,877","102,538",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",90,Median nonfamily income (dollars),"38,721","+/-3,453",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",91,Mean nonfamily income (dollars),"53,621","+/-3,015",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",91.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",92,Median earnings for workers (dollars),"40,628","+/-1,095",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",93,"Median earnings for male full-time, year-round workers (dollars)","61,958","+/-2,131",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",94,"Median earnings for female full-time, year-round workers (dollars)","44,331","+/-1,657",(X),(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",94.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",95,Civilian noninstitutionalized population,"767,519","+/-12,440","767,519",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",96,With health insurance coverage,"715,147","+/-12,424",93.2,+/-0.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",97,With private health insurance,"496,731","+/-13,770",64.7,+/-1.5
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",98,With public coverage,"306,056","+/-11,593",39.9,+/-1.5
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",99,No health insurance coverage,"52,372","+/-5,769",6.8,+/-0.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",99.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",100,Civilian noninstitutionalized population under 19 years,"186,676","+/-5,948","186,676",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",101,No health insurance coverage,"6,724","+/-2,067",3.6,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",101.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",102,Civilian noninstitutionalized population 19 to 64 years,"439,585","+/-8,643","439,585",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",103,In labor force:,"338,436","+/-9,191","338,436",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",104,Employed:,"318,526","+/-9,091","318,526",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",105,With health insurance coverage,"290,063","+/-8,691",91.1,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",106,With private health insurance,"256,905","+/-8,970",80.7,+/-1.6
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",107,With public coverage,"45,434","+/-4,272",14.3,+/-1.3
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",108,No health insurance coverage,"28,463","+/-3,688",8.9,+/-1.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",109,Unemployed:,"19,910","+/-2,543","19,910",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",110,With health insurance coverage,"16,791","+/-2,331",84.3,+/-5.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",111,With private health insurance,"7,424","+/-1,640",37.3,+/-7.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",112,With public coverage,"9,759","+/-1,821",49.0,+/-6.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",113,No health insurance coverage,"3,119","+/-1,193",15.7,+/-5.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",114,Not in labor force:,"101,149","+/-6,317","101,149",(X)
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",115,With health insurance coverage,"88,539","+/-5,855",87.5,+/-2.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",116,With private health insurance,"52,885","+/-4,715",52.3,+/-3.6
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",117,With public coverage,"40,949","+/-4,689",40.5,+/-3.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",118,No health insurance coverage,"12,610","+/-2,432",12.5,+/-2.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",118.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",119,All families,(X),(X),11.6,+/-1.6
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",120,With related children of the householder under 18 years,(X),(X),16.7,+/-2.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",121,With related children of the householder under 5 years only,(X),(X),18.5,+/-7.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",122,Married couple families,(X),(X),7.2,+/-1.6
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",123,With related children of the householder under 18 years,(X),(X),9.3,+/-2.9
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",124,With related children of the householder under 5 years only,(X),(X),9.9,+/-7.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",125,"Families with female householder, no spouse present",(X),(X),27.8,+/-5.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",126,With related children of the householder under 18 years,(X),(X),37.3,+/-7.1
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",127,With related children of the householder under 5 years only,(X),(X),31.4,+/-14.0
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",127.3,,,,,
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",128,All people,(X),(X),14.1,+/-1.4
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",129,Under 18 years,(X),(X),17.1,+/-2.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",130,Related children of the householder under 18 years,(X),(X),17.1,+/-2.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",131,Related children of the householder under 5 years,(X),(X),18.1,+/-3.2
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",132,Related children of the householder 5 to 17 years,(X),(X),16.7,+/-2.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",133,18 years and over,(X),(X),13.2,+/-1.3
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",134,18 to 64 years,(X),(X),13.9,+/-1.6
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",135,65 years and over,(X),(X),11.1,+/-1.7
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",136,People in families,(X),(X),11.7,+/-1.5
+DP03,5001800US2201,"Congressional District 1 (118th Congress), Louisiana",137,Unrelated individuals 15 years and over,(X),(X),25.2,+/-2.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",0.5,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",1,Population 16 years and over,"609,495","+/-10,635","609,495",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",2,In labor force,"356,958","+/-10,377",58.6,+/-1.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",3,Civilian labor force,"353,369","+/-10,531",58.0,+/-1.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",4,Employed,"313,287","+/-9,337",51.4,+/-1.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",5,Unemployed,"40,082","+/-4,030",6.6,+/-0.6
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",6,Armed Forces,"3,589","+/-1,314",0.6,+/-0.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",7,Not in labor force,"252,537","+/-9,030",41.4,+/-1.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",7.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",8,Civilian labor force,"353,369","+/-10,531","353,369",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",9,Unemployment Rate,(X),(X),11.3,+/-1.0
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",9.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",10,Females 16 years and over,"320,449","+/-6,168","320,449",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",11,In labor force,"182,279","+/-5,443",56.9,+/-1.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",12,Civilian labor force,"181,850","+/-5,470",56.7,+/-1.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",13,Employed,"164,506","+/-5,140",51.3,+/-1.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",13.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",14,Own children of the householder under 6 years,"50,849","+/-3,555","50,849",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",15,All parents in family in labor force,"36,478","+/-3,570",71.7,+/-5.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",15.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",16,Own children of the householder 6 to 17 years,"107,394","+/-5,797","107,394",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",17,All parents in family in labor force,"85,156","+/-6,730",79.3,+/-3.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",17.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",18,Workers 16 years and over,"308,430","+/-9,299","308,430",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",19,"Car, truck, or van -- drove alone","217,462","+/-9,273",70.5,+/-1.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",20,"Car, truck, or van -- carpooled","31,144","+/-3,438",10.1,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",21,Public transportation (excluding taxicab),"8,155","+/-1,746",2.6,+/-0.6
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",22,Walked,"6,933","+/-1,594",2.2,+/-0.5
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",23,Other means,"9,042","+/-2,147",2.9,+/-0.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",24,Worked from home,"35,694","+/-3,415",11.6,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",24.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",25,Mean travel time to work (minutes),24.5,+/-0.8,(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",25.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",25.5,OCCUPATION,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",26,Civilian employed population 16 years and over,"313,287","+/-9,337","313,287",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",27,"Management, business, science, and arts occupations","128,151","+/-6,335",40.9,+/-2.0
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",28,Service occupations,"63,694","+/-5,008",20.3,+/-1.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",29,Sales and office occupations,"56,605","+/-4,335",18.1,+/-1.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",30,"Natural resources, construction, and maintenance occupations","27,946","+/-3,242",8.9,+/-1.0
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",31,"Production, transportation, and material moving occupations","36,891","+/-3,922",11.8,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",31.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",31.5,INDUSTRY,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",32,Civilian employed population 16 years and over,"313,287","+/-9,337","313,287",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",33,"Agriculture, forestry, fishing and hunting, and mining","4,135","+/-1,008",1.3,+/-0.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",34,Construction,"21,210","+/-2,420",6.8,+/-0.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",35,Manufacturing,"20,080","+/-2,498",6.4,+/-0.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",36,Wholesale trade,"4,883","+/-1,159",1.6,+/-0.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",37,Retail trade,"30,071","+/-3,453",9.6,+/-1.0
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",38,"Transportation and warehousing, and utilities","22,374","+/-3,252",7.1,+/-1.0
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",39,Information,"4,857","+/-1,055",1.6,+/-0.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",40,"Finance and insurance, and real estate and rental and leasing","16,062","+/-2,232",5.1,+/-0.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",41,"Professional, scientific, and management, and administrative and waste management services","33,946","+/-3,507",10.8,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",42,"Educational services, and health care and social assistance","85,841","+/-5,442",27.4,+/-1.5
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",43,"Arts, entertainment, and recreation, and accommodation and food services","35,074","+/-3,545",11.2,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",44,"Other services, except public administration","16,686","+/-2,395",5.3,+/-0.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",45,Public administration,"18,068","+/-2,550",5.8,+/-0.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",45.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",46,Civilian employed population 16 years and over,"313,287","+/-9,337","313,287",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",47,Private wage and salary workers,"244,466","+/-9,013",78.0,+/-1.5
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",48,Government workers,"50,196","+/-4,374",16.0,+/-1.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",49,Self-employed in own not incorporated business workers,"17,723","+/-2,724",5.7,+/-0.9
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",50,Unpaid family workers,902,+/-546,0.3,+/-0.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",50.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",51,Total households,"305,872","+/-4,741","305,872",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",52,"Less than $10,000","38,998","+/-3,480",12.7,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",53,"$10,000 to $14,999","22,891","+/-2,875",7.5,+/-0.9
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",54,"$15,000 to $24,999","34,802","+/-3,285",11.4,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",55,"$25,000 to $34,999","30,668","+/-3,120",10.0,+/-1.0
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",56,"$35,000 to $49,999","38,763","+/-3,797",12.7,+/-1.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",57,"$50,000 to $74,999","51,319","+/-4,402",16.8,+/-1.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",58,"$75,000 to $99,999","29,680","+/-3,522",9.7,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",59,"$100,000 to $149,999","32,052","+/-3,141",10.5,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",60,"$150,000 to $199,999","14,484","+/-2,024",4.7,+/-0.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",61,"$200,000 or more","12,215","+/-1,504",4.0,+/-0.5
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",62,Median household income (dollars),"44,363","+/-2,105",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",63,Mean household income (dollars),"64,848","+/-1,802",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",63.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",64,With earnings,"219,050","+/-5,542",71.6,+/-1.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",65,Mean earnings (dollars),"69,572","+/-2,306",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",66,With Social Security,"90,884","+/-3,932",29.7,+/-1.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",67,Mean Social Security income (dollars),"16,282",+/-588,(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",68,With retirement income,"61,464","+/-3,218",20.1,+/-1.0
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",69,Mean retirement income (dollars),"25,809","+/-3,115",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",69.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",70,With Supplemental Security Income,"29,720","+/-2,574",9.7,+/-0.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",71,Mean Supplemental Security Income (dollars),"9,398",+/-525,(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",72,With cash public assistance income,"8,071","+/-1,651",2.6,+/-0.5
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",73,Mean cash public assistance income (dollars),"4,897","+/-1,590",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",74,With Food Stamp/SNAP benefits in the past 12 months,"73,108","+/-5,364",23.9,+/-1.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",74.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",75,Families,"168,652","+/-5,837","168,652",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",76,"Less than $10,000","14,882","+/-2,668",8.8,+/-1.5
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",77,"$10,000 to $14,999","8,529","+/-1,908",5.1,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",78,"$15,000 to $24,999","14,317","+/-2,076",8.5,+/-1.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",79,"$25,000 to $34,999","16,394","+/-2,391",9.7,+/-1.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",80,"$35,000 to $49,999","21,584","+/-2,685",12.8,+/-1.6
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",81,"$50,000 to $74,999","28,736","+/-3,116",17.0,+/-1.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",82,"$75,000 to $99,999","19,674","+/-2,799",11.7,+/-1.5
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",83,"$100,000 to $149,999","23,887","+/-2,673",14.2,+/-1.6
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",84,"$150,000 to $199,999","11,496","+/-1,864",6.8,+/-1.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",85,"$200,000 or more","9,153","+/-1,210",5.4,+/-0.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",86,Median family income (dollars),"57,271","+/-4,000",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",87,Mean family income (dollars),"78,349","+/-3,016",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",87.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",88,Per capita income (dollars),"27,366",+/-804,(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",88.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",89,Nonfamily households,"137,220","+/-5,509","137,220",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",90,Median nonfamily income (dollars),"27,943","+/-2,630",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",91,Mean nonfamily income (dollars),"45,591","+/-2,323",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",91.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",92,Median earnings for workers (dollars),"31,646",+/-718,(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",93,"Median earnings for male full-time, year-round workers (dollars)","50,251","+/-3,507",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",94,"Median earnings for female full-time, year-round workers (dollars)","41,205","+/-1,225",(X),(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",94.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",95,Civilian noninstitutionalized population,"747,775","+/-15,035","747,775",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",96,With health insurance coverage,"678,669","+/-14,234",90.8,+/-0.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",97,With private health insurance,"365,787","+/-12,533",48.9,+/-1.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",98,With public coverage,"388,449","+/-14,697",51.9,+/-1.5
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",99,No health insurance coverage,"69,106","+/-6,593",9.2,+/-0.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",99.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",100,Civilian noninstitutionalized population under 19 years,"181,365","+/-8,043","181,365",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",101,No health insurance coverage,"9,895","+/-2,202",5.5,+/-1.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",101.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",102,Civilian noninstitutionalized population 19 to 64 years,"446,612","+/-9,734","446,612",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",103,In labor force:,"327,919","+/-9,460","327,919",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",104,Employed:,"291,186","+/-8,541","291,186",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",105,With health insurance coverage,"260,254","+/-8,310",89.4,+/-1.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",106,With private health insurance,"208,393","+/-8,318",71.6,+/-2.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",107,With public coverage,"62,510","+/-6,054",21.5,+/-1.9
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",108,No health insurance coverage,"30,932","+/-3,757",10.6,+/-1.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",109,Unemployed:,"36,733","+/-3,764","36,733",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",110,With health insurance coverage,"28,006","+/-3,297",76.2,+/-4.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",111,With private health insurance,"7,955","+/-1,662",21.7,+/-4.6
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",112,With public coverage,"20,936","+/-3,160",57.0,+/-5.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",113,No health insurance coverage,"8,727","+/-1,976",23.8,+/-4.7
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",114,Not in labor force:,"118,693","+/-7,366","118,693",(X)
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",115,With health insurance coverage,"100,186","+/-6,544",84.4,+/-2.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",116,With private health insurance,"37,520","+/-3,597",31.6,+/-2.9
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",117,With public coverage,"71,482","+/-5,592",60.2,+/-3.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",118,No health insurance coverage,"18,507","+/-3,139",15.6,+/-2.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",118.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",119,All families,(X),(X),19.7,+/-2.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",120,With related children of the householder under 18 years,(X),(X),30.0,+/-3.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",121,With related children of the householder under 5 years only,(X),(X),18.5,+/-5.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",122,Married couple families,(X),(X),6.7,+/-1.6
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",123,With related children of the householder under 18 years,(X),(X),10.4,+/-3.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",124,With related children of the householder under 5 years only,(X),(X),5.2,+/-4.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",125,"Families with female householder, no spouse present",(X),(X),38.3,+/-4.2
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",126,With related children of the householder under 18 years,(X),(X),47.3,+/-5.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",127,With related children of the householder under 5 years only,(X),(X),34.7,+/-12.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",127.3,,,,,
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",128,All people,(X),(X),23.7,+/-1.8
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",129,Under 18 years,(X),(X),34.2,+/-4.9
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",130,Related children of the householder under 18 years,(X),(X),34.0,+/-4.9
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",131,Related children of the householder under 5 years,(X),(X),33.2,+/-6.6
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",132,Related children of the householder 5 to 17 years,(X),(X),34.2,+/-5.1
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",133,18 years and over,(X),(X),20.7,+/-1.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",134,18 to 64 years,(X),(X),21.5,+/-1.5
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",135,65 years and over,(X),(X),17.7,+/-2.3
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",136,People in families,(X),(X),20.9,+/-2.4
+DP03,5001800US2202,"Congressional District 2 (118th Congress), Louisiana",137,Unrelated individuals 15 years and over,(X),(X),32.6,+/-2.1
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",0.5,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",1,Population 16 years and over,"595,173","+/-2,885","595,173",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",2,In labor force,"359,690","+/-8,237",60.4,+/-1.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",3,Civilian labor force,"359,017","+/-8,317",60.3,+/-1.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",4,Employed,"340,448","+/-8,065",57.2,+/-1.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",5,Unemployed,"18,569","+/-2,832",3.1,+/-0.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",6,Armed Forces,673,+/-462,0.1,+/-0.1
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",7,Not in labor force,"235,483","+/-8,297",39.6,+/-1.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",7.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",8,Civilian labor force,"359,017","+/-8,317","359,017",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",9,Unemployment Rate,(X),(X),5.2,+/-0.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",9.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",10,Females 16 years and over,"306,107","+/-1,922","306,107",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",11,In labor force,"175,151","+/-5,629",57.2,+/-1.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",12,Civilian labor force,"175,151","+/-5,629",57.2,+/-1.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",13,Employed,"165,975","+/-5,550",54.2,+/-1.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",13.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",14,Own children of the householder under 6 years,"58,402","+/-2,848","58,402",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",15,All parents in family in labor force,"39,087","+/-3,844",66.9,+/-5.6
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",15.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",16,Own children of the householder 6 to 17 years,"118,861","+/-3,756","118,861",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",17,All parents in family in labor force,"86,463","+/-4,915",72.7,+/-3.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",17.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",18,Workers 16 years and over,"335,967","+/-7,964","335,967",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",19,"Car, truck, or van -- drove alone","276,973","+/-8,990",82.4,+/-1.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",20,"Car, truck, or van -- carpooled","23,830","+/-3,376",7.1,+/-1.0
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",21,Public transportation (excluding taxicab),461,+/-343,0.1,+/-0.1
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",22,Walked,"5,720","+/-1,698",1.7,+/-0.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",23,Other means,"6,515","+/-1,698",1.9,+/-0.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",24,Worked from home,"22,468","+/-3,245",6.7,+/-0.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",24.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",25,Mean travel time to work (minutes),25.3,+/-1.2,(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",25.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",25.5,OCCUPATION,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",26,Civilian employed population 16 years and over,"340,448","+/-8,065","340,448",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",27,"Management, business, science, and arts occupations","121,853","+/-7,103",35.8,+/-1.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",28,Service occupations,"62,976","+/-4,761",18.5,+/-1.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",29,Sales and office occupations,"70,662","+/-5,243",20.8,+/-1.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",30,"Natural resources, construction, and maintenance occupations","39,504","+/-3,735",11.6,+/-1.0
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",31,"Production, transportation, and material moving occupations","45,453","+/-4,176",13.4,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",31.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",31.5,INDUSTRY,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",32,Civilian employed population 16 years and over,"340,448","+/-8,065","340,448",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",33,"Agriculture, forestry, fishing and hunting, and mining","18,707","+/-2,884",5.5,+/-0.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",34,Construction,"25,033","+/-3,117",7.4,+/-0.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",35,Manufacturing,"23,231","+/-2,936",6.8,+/-0.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",36,Wholesale trade,"6,001","+/-1,527",1.8,+/-0.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",37,Retail trade,"39,553","+/-3,973",11.6,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",38,"Transportation and warehousing, and utilities","17,857","+/-2,650",5.2,+/-0.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",39,Information,"5,249","+/-1,663",1.5,+/-0.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",40,"Finance and insurance, and real estate and rental and leasing","18,013","+/-3,224",5.3,+/-0.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",41,"Professional, scientific, and management, and administrative and waste management services","32,688","+/-3,876",9.6,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",42,"Educational services, and health care and social assistance","91,199","+/-6,205",26.8,+/-1.6
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",43,"Arts, entertainment, and recreation, and accommodation and food services","30,077","+/-3,686",8.8,+/-1.1
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",44,"Other services, except public administration","19,575","+/-3,073",5.7,+/-0.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",45,Public administration,"13,265","+/-2,151",3.9,+/-0.6
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",45.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",46,Civilian employed population 16 years and over,"340,448","+/-8,065","340,448",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",47,Private wage and salary workers,"267,009","+/-8,117",78.4,+/-1.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",48,Government workers,"47,850","+/-5,168",14.1,+/-1.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",49,Self-employed in own not incorporated business workers,"25,264","+/-3,083",7.4,+/-0.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",50,Unpaid family workers,325,+/-313,0.1,+/-0.1
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",50.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",51,Total households,"287,766","+/-5,055","287,766",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",52,"Less than $10,000","23,574","+/-3,530",8.2,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",53,"$10,000 to $14,999","19,000","+/-2,681",6.6,+/-0.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",54,"$15,000 to $24,999","28,552","+/-3,465",9.9,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",55,"$25,000 to $34,999","28,999","+/-3,443",10.1,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",56,"$35,000 to $49,999","35,235","+/-3,593",12.2,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",57,"$50,000 to $74,999","47,325","+/-4,649",16.4,+/-1.6
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",58,"$75,000 to $99,999","33,804","+/-4,176",11.7,+/-1.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",59,"$100,000 to $149,999","39,558","+/-3,685",13.7,+/-1.3
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",60,"$150,000 to $199,999","17,528","+/-2,533",6.1,+/-0.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",61,"$200,000 or more","14,191","+/-2,343",4.9,+/-0.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",62,Median household income (dollars),"53,747","+/-2,634",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",63,Mean household income (dollars),"73,509","+/-2,698",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",63.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",64,With earnings,"212,998","+/-6,045",74.0,+/-1.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",65,Mean earnings (dollars),"79,766","+/-3,389",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",66,With Social Security,"89,630","+/-4,078",31.1,+/-1.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",67,Mean Social Security income (dollars),"18,866",+/-631,(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",68,With retirement income,"57,532","+/-3,359",20.0,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",69,Mean retirement income (dollars),"21,610","+/-1,694",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",69.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",70,With Supplemental Security Income,"19,064","+/-2,595",6.6,+/-0.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",71,Mean Supplemental Security Income (dollars),"10,775",+/-918,(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",72,With cash public assistance income,"4,402","+/-1,317",1.5,+/-0.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",73,Mean cash public assistance income (dollars),"4,030","+/-1,323",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",74,With Food Stamp/SNAP benefits in the past 12 months,"56,830","+/-4,521",19.7,+/-1.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",74.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",75,Families,"190,141","+/-6,398","190,141",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",76,"Less than $10,000","9,246","+/-2,443",4.9,+/-1.3
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",77,"$10,000 to $14,999","8,704","+/-1,971",4.6,+/-1.0
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",78,"$15,000 to $24,999","13,257","+/-2,315",7.0,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",79,"$25,000 to $34,999","16,585","+/-2,713",8.7,+/-1.4
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",80,"$35,000 to $49,999","20,790","+/-2,923",10.9,+/-1.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",81,"$50,000 to $74,999","33,650","+/-4,166",17.7,+/-2.1
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",82,"$75,000 to $99,999","26,007","+/-3,349",13.7,+/-1.7
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",83,"$100,000 to $149,999","34,191","+/-3,632",18.0,+/-1.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",84,"$150,000 to $199,999","15,220","+/-2,447",8.0,+/-1.3
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",85,"$200,000 or more","12,491","+/-2,276",6.6,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",86,Median family income (dollars),"69,362","+/-3,074",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",87,Mean family income (dollars),"88,072","+/-3,788",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",87.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",88,Per capita income (dollars),"28,959",+/-931,(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",88.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",89,Nonfamily households,"97,625","+/-5,295","97,625",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",90,Median nonfamily income (dollars),"29,149","+/-2,265",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",91,Mean nonfamily income (dollars),"42,967","+/-3,360",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",91.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",92,Median earnings for workers (dollars),"35,560","+/-1,341",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",93,"Median earnings for male full-time, year-round workers (dollars)","58,051","+/-5,371",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",94,"Median earnings for female full-time, year-round workers (dollars)","38,174","+/-2,948",(X),(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",94.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",95,Civilian noninstitutionalized population,"754,264","+/-3,363","754,264",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",96,With health insurance coverage,"699,294","+/-5,883",92.7,+/-0.7
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",97,With private health insurance,"443,689","+/-13,305",58.8,+/-1.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",98,With public coverage,"335,777","+/-12,040",44.5,+/-1.6
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",99,No health insurance coverage,"54,970","+/-5,433",7.3,+/-0.7
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",99.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",100,Civilian noninstitutionalized population under 19 years,"193,139","+/-2,231","193,139",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",101,No health insurance coverage,"5,609","+/-1,643",2.9,+/-0.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",101.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",102,Civilian noninstitutionalized population 19 to 64 years,"444,947","+/-3,691","444,947",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",103,In labor force:,"327,414","+/-7,663","327,414",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",104,Employed:,"310,337","+/-7,717","310,337",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",105,With health insurance coverage,"278,897","+/-8,220",89.9,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",106,With private health insurance,"235,637","+/-9,284",75.9,+/-1.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",107,With public coverage,"51,317","+/-4,423",16.5,+/-1.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",108,No health insurance coverage,"31,440","+/-3,802",10.1,+/-1.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",109,Unemployed:,"17,077","+/-2,777","17,077",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",110,With health insurance coverage,"13,181","+/-2,526",77.2,+/-7.1
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",111,With private health insurance,"3,583","+/-1,260",21.0,+/-6.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",112,With public coverage,"9,996","+/-2,286",58.5,+/-8.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",113,No health insurance coverage,"3,896","+/-1,308",22.8,+/-7.1
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",114,Not in labor force:,"117,533","+/-7,402","117,533",(X)
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",115,With health insurance coverage,"104,232","+/-7,215",88.7,+/-2.3
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",116,With private health insurance,"47,264","+/-4,677",40.2,+/-3.5
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",117,With public coverage,"65,497","+/-6,146",55.7,+/-3.3
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",118,No health insurance coverage,"13,301","+/-2,768",11.3,+/-2.3
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",118.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",119,All families,(X),(X),14.7,+/-2.1
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",120,With related children of the householder under 18 years,(X),(X),23.7,+/-3.7
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",121,With related children of the householder under 5 years only,(X),(X),22.5,+/-7.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",122,Married couple families,(X),(X),6.5,+/-1.6
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",123,With related children of the householder under 18 years,(X),(X),9.0,+/-2.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",124,With related children of the householder under 5 years only,(X),(X),8.0,+/-6.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",125,"Families with female householder, no spouse present",(X),(X),37.3,+/-5.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",126,With related children of the householder under 18 years,(X),(X),48.5,+/-7.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",127,With related children of the householder under 5 years only,(X),(X),46.6,+/-16.7
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",127.3,,,,,
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",128,All people,(X),(X),19.2,+/-1.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",129,Under 18 years,(X),(X),26.9,+/-3.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",130,Related children of the householder under 18 years,(X),(X),26.8,+/-3.3
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",131,Related children of the householder under 5 years,(X),(X),26.6,+/-5.2
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",132,Related children of the householder 5 to 17 years,(X),(X),26.9,+/-3.9
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",133,18 years and over,(X),(X),16.8,+/-1.6
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",134,18 to 64 years,(X),(X),17.5,+/-1.8
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",135,65 years and over,(X),(X),14.0,+/-2.0
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",136,People in families,(X),(X),16.4,+/-2.0
+DP03,5001800US2203,"Congressional District 3 (118th Congress), Louisiana",137,Unrelated individuals 15 years and over,(X),(X),32.9,+/-2.8
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",0.5,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",1,Population 16 years and over,"606,661","+/-2,568","606,661",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",2,In labor force,"330,694","+/-8,371",54.5,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",3,Civilian labor force,"316,338","+/-8,295",52.1,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",4,Employed,"288,001","+/-8,468",47.5,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",5,Unemployed,"28,337","+/-3,689",4.7,+/-0.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",6,Armed Forces,"14,356","+/-1,731",2.4,+/-0.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",7,Not in labor force,"275,967","+/-8,790",45.5,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",7.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",8,Civilian labor force,"316,338","+/-8,295","316,338",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",9,Unemployment Rate,(X),(X),9.0,+/-1.1
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",9.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",10,Females 16 years and over,"310,009","+/-2,422","310,009",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",11,In labor force,"156,608","+/-5,089",50.5,+/-1.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",12,Civilian labor force,"154,974","+/-5,132",50.0,+/-1.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",13,Employed,"142,759","+/-5,621",46.0,+/-1.8
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",13.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",14,Own children of the householder under 6 years,"55,025","+/-2,035","55,025",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",15,All parents in family in labor force,"35,093","+/-2,611",63.8,+/-5.0
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",15.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",16,Own children of the householder 6 to 17 years,"114,797","+/-2,980","114,797",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",17,All parents in family in labor force,"77,323","+/-5,189",67.4,+/-4.1
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",17.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",18,Workers 16 years and over,"295,886","+/-9,069","295,886",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",19,"Car, truck, or van -- drove alone","239,477","+/-8,834",80.9,+/-1.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",20,"Car, truck, or van -- carpooled","26,609","+/-4,138",9.0,+/-1.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",21,Public transportation (excluding taxicab),"1,620",+/-842,0.5,+/-0.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",22,Walked,"4,330","+/-1,165",1.5,+/-0.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",23,Other means,"4,998","+/-1,457",1.7,+/-0.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",24,Worked from home,"18,852","+/-2,730",6.4,+/-0.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",24.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",25,Mean travel time to work (minutes),25.6,+/-1.1,(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",25.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",25.5,OCCUPATION,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",26,Civilian employed population 16 years and over,"288,001","+/-8,468","288,001",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",27,"Management, business, science, and arts occupations","98,449","+/-6,184",34.2,+/-1.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",28,Service occupations,"57,229","+/-5,008",19.9,+/-1.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",29,Sales and office occupations,"60,989","+/-5,040",21.2,+/-1.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",30,"Natural resources, construction, and maintenance occupations","33,293","+/-2,890",11.6,+/-1.0
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",31,"Production, transportation, and material moving occupations","38,041","+/-3,720",13.2,+/-1.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",31.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",31.5,INDUSTRY,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",32,Civilian employed population 16 years and over,"288,001","+/-8,468","288,001",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",33,"Agriculture, forestry, fishing and hunting, and mining","12,878","+/-2,018",4.5,+/-0.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",34,Construction,"22,747","+/-2,968",7.9,+/-1.0
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",35,Manufacturing,"17,437","+/-2,088",6.1,+/-0.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",36,Wholesale trade,"7,473","+/-1,589",2.6,+/-0.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",37,Retail trade,"38,515","+/-3,567",13.4,+/-1.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",38,"Transportation and warehousing, and utilities","18,296","+/-2,564",6.4,+/-0.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",39,Information,"3,804","+/-1,437",1.3,+/-0.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",40,"Finance and insurance, and real estate and rental and leasing","12,447","+/-2,130",4.3,+/-0.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",41,"Professional, scientific, and management, and administrative and waste management services","22,406","+/-2,581",7.8,+/-0.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",42,"Educational services, and health care and social assistance","76,416","+/-4,749",26.5,+/-1.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",43,"Arts, entertainment, and recreation, and accommodation and food services","23,489","+/-3,568",8.2,+/-1.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",44,"Other services, except public administration","13,354","+/-2,488",4.6,+/-0.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",45,Public administration,"18,739","+/-3,206",6.5,+/-1.0
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",45.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",46,Civilian employed population 16 years and over,"288,001","+/-8,468","288,001",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",47,Private wage and salary workers,"221,065","+/-7,366",76.8,+/-1.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",48,Government workers,"52,619","+/-4,593",18.3,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",49,Self-employed in own not incorporated business workers,"13,327","+/-1,969",4.6,+/-0.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",50,Unpaid family workers,990,+/-752,0.3,+/-0.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",50.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",51,Total households,"299,414","+/-5,150","299,414",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",52,"Less than $10,000","27,992","+/-3,232",9.3,+/-1.0
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",53,"$10,000 to $14,999","20,983","+/-2,583",7.0,+/-0.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",54,"$15,000 to $24,999","40,506","+/-3,644",13.5,+/-1.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",55,"$25,000 to $34,999","31,362","+/-3,053",10.5,+/-1.0
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",56,"$35,000 to $49,999","40,773","+/-3,530",13.6,+/-1.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",57,"$50,000 to $74,999","47,779","+/-3,297",16.0,+/-1.1
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",58,"$75,000 to $99,999","30,739","+/-2,900",10.3,+/-0.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",59,"$100,000 to $149,999","34,859","+/-3,308",11.6,+/-1.1
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",60,"$150,000 to $199,999","13,099","+/-2,114",4.4,+/-0.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",61,"$200,000 or more","11,322","+/-1,709",3.8,+/-0.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",62,Median household income (dollars),"44,998","+/-2,198",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",63,Mean household income (dollars),"65,796","+/-2,191",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",63.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",64,With earnings,"208,405","+/-5,840",69.6,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",65,Mean earnings (dollars),"67,555","+/-2,766",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",66,With Social Security,"103,011","+/-3,296",34.4,+/-1.0
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",67,Mean Social Security income (dollars),"17,680",+/-603,(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",68,With retirement income,"71,761","+/-3,504",24.0,+/-1.1
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",69,Mean retirement income (dollars),"25,000","+/-1,959",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",69.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",70,With Supplemental Security Income,"30,073","+/-3,331",10.0,+/-1.1
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",71,Mean Supplemental Security Income (dollars),"10,344",+/-539,(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",72,With cash public assistance income,"4,593","+/-1,086",1.5,+/-0.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",73,Mean cash public assistance income (dollars),"4,657","+/-1,379",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",74,With Food Stamp/SNAP benefits in the past 12 months,"62,244","+/-4,038",20.8,+/-1.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",74.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",75,Families,"190,864","+/-6,106","190,864",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",76,"Less than $10,000","12,334","+/-2,021",6.5,+/-1.0
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",77,"$10,000 to $14,999","8,919","+/-1,882",4.7,+/-1.0
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",78,"$15,000 to $24,999","18,260","+/-2,299",9.6,+/-1.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",79,"$25,000 to $34,999","19,826","+/-2,577",10.4,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",80,"$35,000 to $49,999","24,882","+/-2,998",13.0,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",81,"$50,000 to $74,999","33,150","+/-3,134",17.4,+/-1.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",82,"$75,000 to $99,999","23,625","+/-2,469",12.4,+/-1.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",83,"$100,000 to $149,999","30,264","+/-3,196",15.9,+/-1.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",84,"$150,000 to $199,999","10,126","+/-1,769",5.3,+/-0.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",85,"$200,000 or more","9,478","+/-1,625",5.0,+/-0.8
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",86,Median family income (dollars),"56,982","+/-2,080",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",87,Mean family income (dollars),"77,118","+/-3,023",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",87.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",88,Per capita income (dollars),"26,322",+/-886,(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",88.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",89,Nonfamily households,"108,550","+/-5,607","108,550",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",90,Median nonfamily income (dollars),"26,300","+/-2,281",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",91,Mean nonfamily income (dollars),"42,460","+/-3,796",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",91.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",92,Median earnings for workers (dollars),"31,165",+/-818,(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",93,"Median earnings for male full-time, year-round workers (dollars)","51,024",+/-858,(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",94,"Median earnings for female full-time, year-round workers (dollars)","35,573","+/-2,173",(X),(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",94.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",95,Civilian noninstitutionalized population,"737,782","+/-4,780","737,782",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",96,With health insurance coverage,"681,562","+/-6,977",92.4,+/-0.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",97,With private health insurance,"393,850","+/-11,340",53.4,+/-1.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",98,With public coverage,"391,296","+/-11,521",53.0,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",99,No health insurance coverage,"56,220","+/-4,748",7.6,+/-0.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",99.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",100,Civilian noninstitutionalized population under 19 years,"192,164","+/-2,553","192,164",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",101,No health insurance coverage,"7,070","+/-2,239",3.7,+/-1.1
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",101.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",102,Civilian noninstitutionalized population 19 to 64 years,"414,813","+/-5,168","414,813",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",103,In labor force:,"286,359","+/-7,697","286,359",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",104,Employed:,"261,268","+/-7,828","261,268",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",105,With health insurance coverage,"230,199","+/-7,891",88.1,+/-1.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",106,With private health insurance,"182,827","+/-7,699",70.0,+/-1.8
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",107,With public coverage,"60,973","+/-4,135",23.3,+/-1.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",108,No health insurance coverage,"31,069","+/-3,132",11.9,+/-1.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",109,Unemployed:,"25,091","+/-3,438","25,091",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",110,With health insurance coverage,"20,517","+/-3,153",81.8,+/-4.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",111,With private health insurance,"5,875","+/-1,563",23.4,+/-5.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",112,With public coverage,"16,011","+/-2,831",63.8,+/-6.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",113,No health insurance coverage,"4,574","+/-1,242",18.2,+/-4.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",114,Not in labor force:,"128,454","+/-7,007","128,454",(X)
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",115,With health insurance coverage,"115,504","+/-6,640",89.9,+/-1.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",116,With private health insurance,"46,379","+/-3,776",36.1,+/-2.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",117,With public coverage,"79,548","+/-6,095",61.9,+/-2.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",118,No health insurance coverage,"12,950","+/-2,253",10.1,+/-1.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",118.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",119,All families,(X),(X),17.1,+/-1.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",120,With related children of the householder under 18 years,(X),(X),26.1,+/-2.8
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",121,With related children of the householder under 5 years only,(X),(X),25.3,+/-6.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",122,Married couple families,(X),(X),7.5,+/-1.4
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",123,With related children of the householder under 18 years,(X),(X),7.7,+/-1.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",124,With related children of the householder under 5 years only,(X),(X),7.2,+/-5.6
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",125,"Families with female householder, no spouse present",(X),(X),38.7,+/-3.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",126,With related children of the householder under 18 years,(X),(X),53.1,+/-6.1
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",127,With related children of the householder under 5 years only,(X),(X),55.3,+/-14.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",127.3,,,,,
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",128,All people,(X),(X),22.2,+/-1.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",129,Under 18 years,(X),(X),30.2,+/-2.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",130,Related children of the householder under 18 years,(X),(X),30.0,+/-2.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",131,Related children of the householder under 5 years,(X),(X),34.9,+/-5.3
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",132,Related children of the householder 5 to 17 years,(X),(X),28.3,+/-2.9
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",133,18 years and over,(X),(X),19.6,+/-1.2
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",134,18 to 64 years,(X),(X),21.1,+/-1.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",135,65 years and over,(X),(X),14.6,+/-1.7
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",136,People in families,(X),(X),19.2,+/-1.5
+DP03,5001800US2204,"Congressional District 4 (118th Congress), Louisiana",137,Unrelated individuals 15 years and over,(X),(X),34.5,+/-2.3
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",0.5,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",1,Population 16 years and over,"610,960","+/-6,144","610,960",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",2,In labor force,"323,963","+/-9,061",53.0,+/-1.3
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",3,Civilian labor force,"322,831","+/-9,064",52.8,+/-1.3
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",4,Employed,"296,625","+/-9,032",48.6,+/-1.3
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",5,Unemployed,"26,206","+/-3,432",4.3,+/-0.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",6,Armed Forces,"1,132",+/-579,0.2,+/-0.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",7,Not in labor force,"286,997","+/-7,450",47.0,+/-1.3
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",7.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",8,Civilian labor force,"322,831","+/-9,064","322,831",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",9,Unemployment Rate,(X),(X),8.1,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",9.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",10,Females 16 years and over,"307,581","+/-3,648","307,581",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",11,In labor force,"164,035","+/-6,243",53.3,+/-1.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",12,Civilian labor force,"163,789","+/-6,280",53.3,+/-1.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",13,Employed,"150,746","+/-6,277",49.0,+/-1.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",13.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",14,Own children of the householder under 6 years,"52,654","+/-3,078","52,654",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",15,All parents in family in labor force,"35,379","+/-3,055",67.2,+/-4.5
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",15.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",16,Own children of the householder 6 to 17 years,"116,030","+/-4,740","116,030",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",17,All parents in family in labor force,"79,333","+/-6,191",68.4,+/-4.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",17.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",18,Workers 16 years and over,"291,339","+/-8,827","291,339",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",19,"Car, truck, or van -- drove alone","236,151","+/-8,210",81.1,+/-1.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",20,"Car, truck, or van -- carpooled","22,317","+/-2,997",7.7,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",21,Public transportation (excluding taxicab),"1,221",+/-693,0.4,+/-0.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",22,Walked,"5,146","+/-1,611",1.8,+/-0.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",23,Other means,"6,912","+/-1,852",2.4,+/-0.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",24,Worked from home,"19,592","+/-3,187",6.7,+/-1.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",24.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",25,Mean travel time to work (minutes),25.1,+/-0.9,(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",25.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",25.5,OCCUPATION,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",26,Civilian employed population 16 years and over,"296,625","+/-9,032","296,625",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",27,"Management, business, science, and arts occupations","102,716","+/-5,849",34.6,+/-1.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",28,Service occupations,"59,549","+/-5,455",20.1,+/-1.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",29,Sales and office occupations,"58,826","+/-4,739",19.8,+/-1.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",30,"Natural resources, construction, and maintenance occupations","33,316","+/-3,385",11.2,+/-1.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",31,"Production, transportation, and material moving occupations","42,218","+/-4,742",14.2,+/-1.5
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",31.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",31.5,INDUSTRY,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",32,Civilian employed population 16 years and over,"296,625","+/-9,032","296,625",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",33,"Agriculture, forestry, fishing and hunting, and mining","9,969","+/-2,218",3.4,+/-0.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",34,Construction,"23,900","+/-2,992",8.1,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",35,Manufacturing,"25,159","+/-2,742",8.5,+/-0.9
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",36,Wholesale trade,"5,401","+/-1,643",1.8,+/-0.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",37,Retail trade,"35,759","+/-3,557",12.1,+/-1.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",38,"Transportation and warehousing, and utilities","17,746","+/-3,074",6.0,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",39,Information,"2,798","+/-1,174",0.9,+/-0.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",40,"Finance and insurance, and real estate and rental and leasing","12,823","+/-2,455",4.3,+/-0.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",41,"Professional, scientific, and management, and administrative and waste management services","21,948","+/-3,051",7.4,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",42,"Educational services, and health care and social assistance","79,875","+/-5,610",26.9,+/-1.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",43,"Arts, entertainment, and recreation, and accommodation and food services","27,283","+/-3,576",9.2,+/-1.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",44,"Other services, except public administration","12,718","+/-2,091",4.3,+/-0.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",45,Public administration,"21,246","+/-3,121",7.2,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",45.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",46,Civilian employed population 16 years and over,"296,625","+/-9,032","296,625",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",47,Private wage and salary workers,"223,793","+/-8,885",75.4,+/-1.5
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",48,Government workers,"54,026","+/-4,321",18.2,+/-1.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",49,Self-employed in own not incorporated business workers,"18,220","+/-2,835",6.1,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",50,Unpaid family workers,586,+/-501,0.2,+/-0.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",50.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",51,Total households,"283,732","+/-5,323","283,732",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",52,"Less than $10,000","32,376","+/-3,031",11.4,+/-1.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",53,"$10,000 to $14,999","21,013","+/-2,276",7.4,+/-0.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",54,"$15,000 to $24,999","35,976","+/-3,627",12.7,+/-1.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",55,"$25,000 to $34,999","29,398","+/-2,986",10.4,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",56,"$35,000 to $49,999","38,393","+/-3,391",13.5,+/-1.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",57,"$50,000 to $74,999","46,023","+/-4,341",16.2,+/-1.5
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",58,"$75,000 to $99,999","29,030","+/-2,970",10.2,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",59,"$100,000 to $149,999","27,614","+/-2,805",9.7,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",60,"$150,000 to $199,999","13,020","+/-2,267",4.6,+/-0.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",61,"$200,000 or more","10,889","+/-1,701",3.8,+/-0.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",62,Median household income (dollars),"43,382","+/-1,953",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",63,Mean household income (dollars),"64,528","+/-2,260",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",63.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",64,With earnings,"196,544","+/-5,798",69.3,+/-1.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",65,Mean earnings (dollars),"70,342","+/-3,247",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",66,With Social Security,"97,583","+/-3,157",34.4,+/-1.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",67,Mean Social Security income (dollars),"17,209",+/-624,(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",68,With retirement income,"57,005","+/-3,278",20.1,+/-1.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",69,Mean retirement income (dollars),"23,546","+/-1,792",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",69.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",70,With Supplemental Security Income,"24,873","+/-2,780",8.8,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",71,Mean Supplemental Security Income (dollars),"9,421",+/-686,(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",72,With cash public assistance income,"6,972","+/-1,467",2.5,+/-0.5
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",73,Mean cash public assistance income (dollars),"2,014",+/-607,(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",74,With Food Stamp/SNAP benefits in the past 12 months,"64,970","+/-4,557",22.9,+/-1.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",74.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",75,Families,"180,921","+/-5,609","180,921",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",76,"Less than $10,000","15,299","+/-2,267",8.5,+/-1.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",77,"$10,000 to $14,999","7,596","+/-1,500",4.2,+/-0.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",78,"$15,000 to $24,999","16,525","+/-2,157",9.1,+/-1.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",79,"$25,000 to $34,999","16,419","+/-2,085",9.1,+/-1.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",80,"$35,000 to $49,999","26,014","+/-2,728",14.4,+/-1.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",81,"$50,000 to $74,999","33,740","+/-3,259",18.6,+/-1.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",82,"$75,000 to $99,999","22,244","+/-2,739",12.3,+/-1.5
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",83,"$100,000 to $149,999","23,329","+/-2,592",12.9,+/-1.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",84,"$150,000 to $199,999","11,182","+/-1,852",6.2,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",85,"$200,000 or more","8,573","+/-1,651",4.7,+/-0.9
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",86,Median family income (dollars),"55,067","+/-2,263",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",87,Mean family income (dollars),"77,159","+/-3,415",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",87.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",88,Per capita income (dollars),"24,811",+/-865,(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",88.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",89,Nonfamily households,"102,811","+/-4,866","102,811",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",90,Median nonfamily income (dollars),"23,690","+/-2,674",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",91,Mean nonfamily income (dollars),"39,098","+/-3,059",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",91.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",92,Median earnings for workers (dollars),"31,161",+/-887,(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",93,"Median earnings for male full-time, year-round workers (dollars)","47,128","+/-3,313",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",94,"Median earnings for female full-time, year-round workers (dollars)","35,481","+/-1,606",(X),(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",94.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",95,Civilian noninstitutionalized population,"732,409","+/-8,994","732,409",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",96,With health insurance coverage,"675,542","+/-10,089",92.2,+/-0.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",97,With private health insurance,"371,662","+/-11,474",50.7,+/-1.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",98,With public coverage,"393,345","+/-9,592",53.7,+/-1.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",99,No health insurance coverage,"56,867","+/-5,416",7.8,+/-0.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",99.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",100,Civilian noninstitutionalized population under 19 years,"189,321","+/-5,053","189,321",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",101,No health insurance coverage,"8,094","+/-1,855",4.3,+/-1.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",101.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",102,Civilian noninstitutionalized population 19 to 64 years,"415,940","+/-6,938","415,940",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",103,In labor force:,"292,856","+/-8,325","292,856",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",104,Employed:,"268,418","+/-8,216","268,418",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",105,With health insurance coverage,"238,920","+/-8,192",89.0,+/-1.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",106,With private health insurance,"187,853","+/-8,384",70.0,+/-2.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",107,With public coverage,"60,883","+/-5,258",22.7,+/-1.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",108,No health insurance coverage,"29,498","+/-3,191",11.0,+/-1.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",109,Unemployed:,"24,438","+/-3,293","24,438",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",110,With health insurance coverage,"19,550","+/-2,633",80.0,+/-4.9
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",111,With private health insurance,"4,321","+/-1,202",17.7,+/-4.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",112,With public coverage,"15,925","+/-2,488",65.2,+/-6.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",113,No health insurance coverage,"4,888","+/-1,480",20.0,+/-4.9
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",114,Not in labor force:,"123,084","+/-6,844","123,084",(X)
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",115,With health insurance coverage,"109,582","+/-6,423",89.0,+/-2.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",116,With private health insurance,"41,526","+/-3,803",33.7,+/-2.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",117,With public coverage,"76,305","+/-5,574",62.0,+/-3.2
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",118,No health insurance coverage,"13,502","+/-2,602",11.0,+/-2.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",118.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",119,All families,(X),(X),18.7,+/-1.9
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",120,With related children of the householder under 18 years,(X),(X),29.7,+/-3.3
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",121,With related children of the householder under 5 years only,(X),(X),34.1,+/-9.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",122,Married couple families,(X),(X),8.3,+/-1.5
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",123,With related children of the householder under 18 years,(X),(X),11.3,+/-3.0
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",124,With related children of the householder under 5 years only,(X),(X),12.1,+/-7.7
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",125,"Families with female householder, no spouse present",(X),(X),42.1,+/-4.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",126,With related children of the householder under 18 years,(X),(X),54.5,+/-5.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",127,With related children of the householder under 5 years only,(X),(X),70.7,+/-14.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",127.3,,,,,
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",128,All people,(X),(X),24.7,+/-1.6
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",129,Under 18 years,(X),(X),34.8,+/-3.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",130,Related children of the householder under 18 years,(X),(X),34.6,+/-3.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",131,Related children of the householder under 5 years,(X),(X),35.7,+/-6.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",132,Related children of the householder 5 to 17 years,(X),(X),34.3,+/-4.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",133,18 years and over,(X),(X),21.4,+/-1.4
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",134,18 to 64 years,(X),(X),22.7,+/-1.5
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",135,65 years and over,(X),(X),17.1,+/-2.1
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",136,People in families,(X),(X),21.3,+/-1.8
+DP03,5001800US2205,"Congressional District 5 (118th Congress), Louisiana",137,Unrelated individuals 15 years and over,(X),(X),38.6,+/-2.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",0.5,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",1,Population 16 years and over,"620,744","+/-9,340","620,744",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",2,In labor force,"392,438","+/-8,657",63.2,+/-1.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",3,Civilian labor force,"391,773","+/-8,540",63.1,+/-1.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",4,Employed,"366,310","+/-8,717",59.0,+/-1.4
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",5,Unemployed,"25,463","+/-3,823",4.1,+/-0.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",6,Armed Forces,665,+/-439,0.1,+/-0.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",7,Not in labor force,"228,306","+/-9,866",36.8,+/-1.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",7.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",8,Civilian labor force,"391,773","+/-8,540","391,773",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",9,Unemployment Rate,(X),(X),6.5,+/-1.0
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",9.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",10,Females 16 years and over,"324,356","+/-5,729","324,356",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",11,In labor force,"187,284","+/-6,595",57.7,+/-1.9
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",12,Civilian labor force,"187,039","+/-6,586",57.7,+/-1.9
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",13,Employed,"174,518","+/-6,838",53.8,+/-2.0
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",13.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",14,Own children of the householder under 6 years,"57,159","+/-4,206","57,159",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",15,All parents in family in labor force,"37,061","+/-3,845",64.8,+/-5.5
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",15.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",16,Own children of the householder 6 to 17 years,"117,461","+/-5,356","117,461",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",17,All parents in family in labor force,"81,712","+/-6,060",69.6,+/-4.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",17.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",18,Workers 16 years and over,"359,167","+/-8,718","359,167",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",19,"Car, truck, or van -- drove alone","297,319","+/-10,054",82.8,+/-1.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",20,"Car, truck, or van -- carpooled","26,652","+/-3,880",7.4,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",21,Public transportation (excluding taxicab),"1,999","+/-1,058",0.6,+/-0.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",22,Walked,"1,879",+/-701,0.5,+/-0.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",23,Other means,"2,584",+/-936,0.7,+/-0.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",24,Worked from home,"28,734","+/-3,786",8.0,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",24.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",25,Mean travel time to work (minutes),26.8,+/-1.1,(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",25.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",25.5,OCCUPATION,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",26,Civilian employed population 16 years and over,"366,310","+/-8,717","366,310",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",27,"Management, business, science, and arts occupations","156,066","+/-8,586",42.6,+/-2.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",28,Service occupations,"54,241","+/-5,943",14.8,+/-1.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",29,Sales and office occupations,"75,733","+/-6,103",20.7,+/-1.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",30,"Natural resources, construction, and maintenance occupations","35,896","+/-4,373",9.8,+/-1.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",31,"Production, transportation, and material moving occupations","44,374","+/-4,635",12.1,+/-1.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",31.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",31.5,INDUSTRY,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",32,Civilian employed population 16 years and over,"366,310","+/-8,717","366,310",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",33,"Agriculture, forestry, fishing and hunting, and mining","5,773","+/-1,694",1.6,+/-0.5
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",34,Construction,"34,546","+/-3,965",9.4,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",35,Manufacturing,"34,104","+/-4,443",9.3,+/-1.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",36,Wholesale trade,"9,758","+/-2,470",2.7,+/-0.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",37,Retail trade,"45,217","+/-5,829",12.3,+/-1.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",38,"Transportation and warehousing, and utilities","17,056","+/-3,386",4.7,+/-0.9
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",39,Information,"3,163","+/-1,119",0.9,+/-0.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",40,"Finance and insurance, and real estate and rental and leasing","21,144","+/-3,616",5.8,+/-1.0
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",41,"Professional, scientific, and management, and administrative and waste management services","35,425","+/-3,881",9.7,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",42,"Educational services, and health care and social assistance","84,727","+/-6,204",23.1,+/-1.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",43,"Arts, entertainment, and recreation, and accommodation and food services","31,793","+/-6,306",8.7,+/-1.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",44,"Other services, except public administration","19,698","+/-3,576",5.4,+/-0.9
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",45,Public administration,"23,906","+/-4,379",6.5,+/-1.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",45.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",46,Civilian employed population 16 years and over,"366,310","+/-8,717","366,310",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",47,Private wage and salary workers,"283,829","+/-9,635",77.5,+/-2.0
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",48,Government workers,"58,223","+/-6,497",15.9,+/-1.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",49,Self-employed in own not incorporated business workers,"23,374","+/-3,526",6.4,+/-1.0
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",50,Unpaid family workers,884,+/-800,0.2,+/-0.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",50.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",51,Total households,"299,246","+/-5,859","299,246",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",52,"Less than $10,000","20,432","+/-3,843",6.8,+/-1.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",53,"$10,000 to $14,999","8,619","+/-2,064",2.9,+/-0.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",54,"$15,000 to $24,999","24,874","+/-3,320",8.3,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",55,"$25,000 to $34,999","25,103","+/-3,325",8.4,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",56,"$35,000 to $49,999","36,946","+/-4,221",12.3,+/-1.4
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",57,"$50,000 to $74,999","51,991","+/-4,551",17.4,+/-1.5
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",58,"$75,000 to $99,999","34,418","+/-3,754",11.5,+/-1.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",59,"$100,000 to $149,999","45,488","+/-3,879",15.2,+/-1.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",60,"$150,000 to $199,999","25,679","+/-3,113",8.6,+/-1.0
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",61,"$200,000 or more","25,696","+/-3,861",8.6,+/-1.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",62,Median household income (dollars),"65,719","+/-1,776",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",63,Mean household income (dollars),"91,171","+/-3,661",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",63.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",64,With earnings,"234,531","+/-6,237",78.4,+/-1.4
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",65,Mean earnings (dollars),"93,554","+/-4,389",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",66,With Social Security,"86,310","+/-3,865",28.8,+/-1.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",67,Mean Social Security income (dollars),"20,797",+/-868,(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",68,With retirement income,"66,664","+/-5,171",22.3,+/-1.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",69,Mean retirement income (dollars),"30,257","+/-2,762",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",69.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",70,With Supplemental Security Income,"17,657","+/-2,868",5.9,+/-1.0
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",71,Mean Supplemental Security Income (dollars),"9,309",+/-828,(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",72,With cash public assistance income,"5,171","+/-1,290",1.7,+/-0.4
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",73,Mean cash public assistance income (dollars),"4,706","+/-1,241",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",74,With Food Stamp/SNAP benefits in the past 12 months,"46,943","+/-4,991",15.7,+/-1.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",74.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",75,Families,"202,197","+/-6,087","202,197",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",76,"Less than $10,000","9,165","+/-2,130",4.5,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",77,"$10,000 to $14,999","3,516","+/-1,315",1.7,+/-0.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",78,"$15,000 to $24,999","11,640","+/-2,413",5.8,+/-1.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",79,"$25,000 to $34,999","14,005","+/-2,557",6.9,+/-1.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",80,"$35,000 to $49,999","22,234","+/-3,178",11.0,+/-1.5
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",81,"$50,000 to $74,999","32,942","+/-3,724",16.3,+/-1.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",82,"$75,000 to $99,999","26,204","+/-3,330",13.0,+/-1.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",83,"$100,000 to $149,999","36,035","+/-3,253",17.8,+/-1.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",84,"$150,000 to $199,999","22,455","+/-3,131",11.1,+/-1.5
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",85,"$200,000 or more","24,001","+/-3,741",11.9,+/-1.8
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",86,Median family income (dollars),"81,278","+/-2,986",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",87,Mean family income (dollars),"108,284","+/-4,649",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",87.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",88,Per capita income (dollars),"35,461","+/-1,312",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",88.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",89,Nonfamily households,"97,049","+/-5,728","97,049",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",90,Median nonfamily income (dollars),"39,778","+/-2,766",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",91,Mean nonfamily income (dollars),"51,414","+/-3,214",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",91.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",92,Median earnings for workers (dollars),"40,359","+/-1,371",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",93,"Median earnings for male full-time, year-round workers (dollars)","62,870","+/-2,126",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",94,"Median earnings for female full-time, year-round workers (dollars)","45,005","+/-4,391",(X),(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",94.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",95,Civilian noninstitutionalized population,"778,570","+/-11,841","778,570",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",96,With health insurance coverage,"722,606","+/-12,469",92.8,+/-0.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",97,With private health insurance,"509,318","+/-14,371",65.4,+/-1.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",98,With public coverage,"306,580","+/-14,909",39.4,+/-1.8
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",99,No health insurance coverage,"55,964","+/-5,405",7.2,+/-0.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",99.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",100,Civilian noninstitutionalized population under 19 years,"195,479","+/-6,315","195,479",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",101,No health insurance coverage,"8,079","+/-1,855",4.1,+/-1.0
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",101.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",102,Civilian noninstitutionalized population 19 to 64 years,"469,704","+/-8,692","469,704",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",103,In labor force:,"358,419","+/-8,330","358,419",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",104,Employed:,"336,104","+/-8,696","336,104",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",105,With health insurance coverage,"308,790","+/-8,656",91.9,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",106,With private health insurance,"277,214","+/-8,677",82.5,+/-1.5
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",107,With public coverage,"47,260","+/-5,119",14.1,+/-1.5
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",108,No health insurance coverage,"27,314","+/-3,899",8.1,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",109,Unemployed:,"22,315","+/-3,581","22,315",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",110,With health insurance coverage,"17,545","+/-3,310",78.6,+/-7.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",111,With private health insurance,"6,577","+/-2,122",29.5,+/-8.5
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",112,With public coverage,"11,179","+/-2,810",50.1,+/-9.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",113,No health insurance coverage,"4,770","+/-1,869",21.4,+/-7.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",114,Not in labor force:,"111,285","+/-8,534","111,285",(X)
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",115,With health insurance coverage,"95,925","+/-7,765",86.2,+/-2.4
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",116,With private health insurance,"58,934","+/-6,758",53.0,+/-4.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",117,With public coverage,"47,483","+/-5,996",42.7,+/-4.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",118,No health insurance coverage,"15,360","+/-2,949",13.8,+/-2.4
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",118.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",119,All families,(X),(X),10.5,+/-1.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",120,With related children of the householder under 18 years,(X),(X),16.2,+/-2.8
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",121,With related children of the householder under 5 years only,(X),(X),18.9,+/-7.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",122,Married couple families,(X),(X),4.3,+/-1.1
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",123,With related children of the householder under 18 years,(X),(X),5.5,+/-2.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",124,With related children of the householder under 5 years only,(X),(X),1.3,+/-1.6
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",125,"Families with female householder, no spouse present",(X),(X),30.9,+/-6.0
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",126,With related children of the householder under 18 years,(X),(X),38.4,+/-7.4
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",127,With related children of the householder under 5 years only,(X),(X),52.0,+/-18.8
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",127.3,,,,,
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",128,All people,(X),(X),14.3,+/-1.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",129,Under 18 years,(X),(X),18.7,+/-3.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",130,Related children of the householder under 18 years,(X),(X),18.5,+/-3.2
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",131,Related children of the householder under 5 years,(X),(X),20.9,+/-4.9
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",132,Related children of the householder 5 to 17 years,(X),(X),17.7,+/-3.3
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",133,18 years and over,(X),(X),12.9,+/-1.5
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",134,18 to 64 years,(X),(X),13.7,+/-1.8
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",135,65 years and over,(X),(X),10.0,+/-1.7
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",136,People in families,(X),(X),11.5,+/-1.9
+DP03,5001800US2206,"Congressional District 6 (118th Congress), Louisiana",137,Unrelated individuals 15 years and over,(X),(X),26.8,+/-3.3

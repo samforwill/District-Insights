@@ -1,0 +1,1345 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",0.5,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",1,Population 16 years and over,"571,906","+/-1,914","571,906",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",2,In labor force,"385,761","+/-5,133",67.5,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",3,Civilian labor force,"385,642","+/-5,135",67.4,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",4,Employed,"370,667","+/-5,579",64.8,+/-0.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",5,Unemployed,"14,975","+/-1,814",2.6,+/-0.3
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",6,Armed Forces,119,+/-88,0.0,+/-0.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",7,Not in labor force,"186,145","+/-4,432",32.5,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",7.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",8,Civilian labor force,"385,642","+/-5,135","385,642",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",9,Unemployment Rate,(X),(X),3.9,+/-0.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",9.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",10,Females 16 years and over,"286,765","+/-1,533","286,765",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",11,In labor force,"183,969","+/-3,382",64.2,+/-1.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",12,Civilian labor force,"183,919","+/-3,391",64.1,+/-1.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",13,Employed,"178,348","+/-3,574",62.2,+/-1.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",13.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",14,Own children of the householder under 6 years,"48,402","+/-1,439","48,402",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",15,All parents in family in labor force,"37,478","+/-1,782",77.4,+/-2.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",15.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",16,Own children of the householder 6 to 17 years,"107,519","+/-1,900","107,519",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",17,All parents in family in labor force,"86,227","+/-3,995",80.2,+/-3.2
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",17.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",18,Workers 16 years and over,"364,230","+/-5,325","364,230",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",19,"Car, truck, or van -- drove alone","269,142","+/-5,444",73.9,+/-1.0
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",20,"Car, truck, or van -- carpooled","31,756","+/-2,746",8.7,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",21,Public transportation (excluding taxicab),"3,539",+/-967,1.0,+/-0.3
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",22,Walked,"13,647","+/-1,448",3.7,+/-0.4
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",23,Other means,"5,900","+/-1,247",1.6,+/-0.3
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",24,Worked from home,"40,246","+/-2,949",11.0,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",24.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",25,Mean travel time to work (minutes),19.4,+/-0.6,(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",25.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",25.5,OCCUPATION,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",26,Civilian employed population 16 years and over,"370,667","+/-5,579","370,667",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",27,"Management, business, science, and arts occupations","152,651","+/-5,203",41.2,+/-1.2
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",28,Service occupations,"58,741","+/-3,593",15.8,+/-0.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",29,Sales and office occupations,"63,467","+/-3,825",17.1,+/-1.0
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",30,"Natural resources, construction, and maintenance occupations","34,638","+/-2,285",9.3,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",31,"Production, transportation, and material moving occupations","61,170","+/-3,558",16.5,+/-1.0
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",31.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",31.5,INDUSTRY,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",32,Civilian employed population 16 years and over,"370,667","+/-5,579","370,667",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",33,"Agriculture, forestry, fishing and hunting, and mining","13,512","+/-1,194",3.6,+/-0.3
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",34,Construction,"23,763","+/-1,813",6.4,+/-0.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",35,Manufacturing,"56,832","+/-3,298",15.3,+/-0.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",36,Wholesale trade,"8,196","+/-1,113",2.2,+/-0.3
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",37,Retail trade,"38,908","+/-3,057",10.5,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",38,"Transportation and warehousing, and utilities","18,065","+/-1,921",4.9,+/-0.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",39,Information,"4,221",+/-852,1.1,+/-0.2
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",40,"Finance and insurance, and real estate and rental and leasing","14,052","+/-1,503",3.8,+/-0.4
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",41,"Professional, scientific, and management, and administrative and waste management services","26,105","+/-2,250",7.0,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",42,"Educational services, and health care and social assistance","116,523","+/-4,823",31.4,+/-1.2
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",43,"Arts, entertainment, and recreation, and accommodation and food services","21,566","+/-2,279",5.8,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",44,"Other services, except public administration","16,522","+/-1,885",4.5,+/-0.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",45,Public administration,"12,402","+/-1,487",3.3,+/-0.4
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",45.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",46,Civilian employed population 16 years and over,"370,667","+/-5,579","370,667",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",47,Private wage and salary workers,"301,641","+/-6,013",81.4,+/-0.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",48,Government workers,"44,638","+/-2,935",12.0,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",49,Self-employed in own not incorporated business workers,"23,702","+/-1,816",6.4,+/-0.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",50,Unpaid family workers,686,+/-256,0.2,+/-0.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",50.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",51,Total households,"287,498","+/-2,577","287,498",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",52,"Less than $10,000","13,430","+/-1,642",4.7,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",53,"$10,000 to $14,999","11,015","+/-1,615",3.8,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",54,"$15,000 to $24,999","20,392","+/-2,028",7.1,+/-0.7
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",55,"$25,000 to $34,999","22,253","+/-1,767",7.7,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",56,"$35,000 to $49,999","33,322","+/-2,321",11.6,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",57,"$50,000 to $74,999","54,548","+/-2,726",19.0,+/-1.0
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",58,"$75,000 to $99,999","40,290","+/-2,590",14.0,+/-0.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",59,"$100,000 to $149,999","51,239","+/-2,837",17.8,+/-1.0
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",60,"$150,000 to $199,999","21,120","+/-1,662",7.3,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",61,"$200,000 or more","19,889","+/-1,579",6.9,+/-0.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",62,Median household income (dollars),"69,959","+/-1,543",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",63,Mean household income (dollars),"91,915","+/-2,313",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",63.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",64,With earnings,"223,917","+/-3,115",77.9,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",65,Mean earnings (dollars),"92,162","+/-2,260",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",66,With Social Security,"90,871","+/-2,384",31.6,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",67,Mean Social Security income (dollars),"22,000",+/-628,(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",68,With retirement income,"67,601","+/-2,296",23.5,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",69,Mean retirement income (dollars),"24,316","+/-1,390",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",69.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",70,With Supplemental Security Income,"10,899","+/-1,636",3.8,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",71,Mean Supplemental Security Income (dollars),"10,606",+/-704,(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",72,With cash public assistance income,"9,846","+/-1,501",3.4,+/-0.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",73,Mean cash public assistance income (dollars),"4,776","+/-1,007",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",74,With Food Stamp/SNAP benefits in the past 12 months,"20,754","+/-2,210",7.2,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",74.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",75,Families,"178,553","+/-3,817","178,553",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",76,"Less than $10,000","4,592","+/-1,086",2.6,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",77,"$10,000 to $14,999","2,464",+/-748,1.4,+/-0.4
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",78,"$15,000 to $24,999","6,710","+/-1,057",3.8,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",79,"$25,000 to $34,999","9,632","+/-1,299",5.4,+/-0.7
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",80,"$35,000 to $49,999","15,725","+/-1,526",8.8,+/-0.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",81,"$50,000 to $74,999","32,767","+/-2,342",18.4,+/-1.3
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",82,"$75,000 to $99,999","28,124","+/-2,160",15.8,+/-1.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",83,"$100,000 to $149,999","41,929","+/-2,468",23.5,+/-1.3
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",84,"$150,000 to $199,999","18,994","+/-1,517",10.6,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",85,"$200,000 or more","17,616","+/-1,493",9.9,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",86,Median family income (dollars),"89,502","+/-2,100",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",87,Mean family income (dollars),"111,605","+/-2,846",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",87.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",88,Per capita income (dollars),"37,542",+/-861,(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",88.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",89,Nonfamily households,"108,945","+/-4,034","108,945",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",90,Median nonfamily income (dollars),"40,360","+/-1,281",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",91,Mean nonfamily income (dollars),"55,297","+/-3,729",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",91.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",92,Median earnings for workers (dollars),"40,499",+/-545,(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",93,"Median earnings for male full-time, year-round workers (dollars)","55,003","+/-1,741",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",94,"Median earnings for female full-time, year-round workers (dollars)","48,058","+/-2,043",(X),(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",94.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",95,Civilian noninstitutionalized population,"703,418","+/-2,503","703,418",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",96,With health insurance coverage,"670,252","+/-3,737",95.3,+/-0.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",97,With private health insurance,"528,800","+/-7,636",75.2,+/-1.0
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",98,With public coverage,"251,835","+/-7,300",35.8,+/-1.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",99,No health insurance coverage,"33,166","+/-3,383",4.7,+/-0.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",99.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",100,Civilian noninstitutionalized population under 19 years,"173,686","+/-2,129","173,686",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",101,No health insurance coverage,"8,211","+/-1,714",4.7,+/-1.0
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",101.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",102,Civilian noninstitutionalized population 19 to 64 years,"403,613","+/-2,690","403,613",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",103,In labor force:,"344,180","+/-4,588","344,180",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",104,Employed:,"331,829","+/-5,030","331,829",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",105,With health insurance coverage,"313,581","+/-5,144",94.5,+/-0.7
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",106,With private health insurance,"280,954","+/-5,967",84.7,+/-1.2
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",107,With public coverage,"43,360","+/-3,271",13.1,+/-1.0
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",108,No health insurance coverage,"18,248","+/-2,290",5.5,+/-0.7
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",109,Unemployed:,"12,351","+/-1,603","12,351",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",110,With health insurance coverage,"10,013","+/-1,499",81.1,+/-5.2
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",111,With private health insurance,"6,021","+/-1,249",48.7,+/-7.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",112,With public coverage,"4,427","+/-1,015",35.8,+/-7.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",113,No health insurance coverage,"2,338",+/-691,18.9,+/-5.2
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",114,Not in labor force:,"59,433","+/-3,407","59,433",(X)
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",115,With health insurance coverage,"55,270","+/-3,267",93.0,+/-1.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",116,With private health insurance,"34,150","+/-2,710",57.5,+/-3.4
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",117,With public coverage,"25,979","+/-2,432",43.7,+/-3.0
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",118,No health insurance coverage,"4,163",+/-904,7.0,+/-1.5
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",118.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",119,All families,(X),(X),6.2,+/-0.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",120,With related children of the householder under 18 years,(X),(X),10.9,+/-1.7
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",121,With related children of the householder under 5 years only,(X),(X),13.6,+/-5.7
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",122,Married couple families,(X),(X),2.6,+/-0.6
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",123,With related children of the householder under 18 years,(X),(X),3.0,+/-1.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",124,With related children of the householder under 5 years only,(X),(X),1.2,+/-1.4
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",125,"Families with female householder, no spouse present",(X),(X),22.5,+/-3.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",126,With related children of the householder under 18 years,(X),(X),31.5,+/-5.7
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",127,With related children of the householder under 5 years only,(X),(X),37.5,+/-17.1
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",127.3,,,,,
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",128,All people,(X),(X),10.4,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",129,Under 18 years,(X),(X),11.9,+/-1.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",130,Related children of the householder under 18 years,(X),(X),11.5,+/-1.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",131,Related children of the householder under 5 years,(X),(X),12.7,+/-2.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",132,Related children of the householder 5 to 17 years,(X),(X),11.1,+/-1.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",133,18 years and over,(X),(X),9.9,+/-0.7
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",134,18 to 64 years,(X),(X),10.5,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",135,65 years and over,(X),(X),7.9,+/-0.8
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",136,People in families,(X),(X),6.6,+/-0.9
+DP03,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",137,Unrelated individuals 15 years and over,(X),(X),23.4,+/-1.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",0.5,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",1,Population 16 years and over,"566,147","+/-3,800","566,147",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",2,In labor force,"411,574","+/-6,134",72.7,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",3,Civilian labor force,"410,491","+/-6,080",72.5,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",4,Employed,"392,148","+/-5,873",69.3,+/-0.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",5,Unemployed,"18,343","+/-2,447",3.2,+/-0.4
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",6,Armed Forces,"1,083",+/-610,0.2,+/-0.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",7,Not in labor force,"154,573","+/-4,642",27.3,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",7.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",8,Civilian labor force,"410,491","+/-6,080","410,491",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",9,Unemployment Rate,(X),(X),4.5,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",9.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",10,Females 16 years and over,"286,326","+/-2,590","286,326",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",11,In labor force,"196,689","+/-3,760",68.7,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",12,Civilian labor force,"196,553","+/-3,779",68.6,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",13,Employed,"187,413","+/-3,815",65.5,+/-1.2
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",13.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",14,Own children of the householder under 6 years,"51,065","+/-2,053","51,065",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",15,All parents in family in labor force,"38,889","+/-2,314",76.2,+/-3.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",15.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",16,Own children of the householder 6 to 17 years,"122,634","+/-3,671","122,634",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",17,All parents in family in labor force,"102,810","+/-4,721",83.8,+/-2.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",17.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",18,Workers 16 years and over,"387,525","+/-5,801","387,525",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",19,"Car, truck, or van -- drove alone","254,430","+/-6,325",65.7,+/-1.4
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",20,"Car, truck, or van -- carpooled","27,346","+/-3,408",7.1,+/-0.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",21,Public transportation (excluding taxicab),"2,534","+/-1,313",0.7,+/-0.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",22,Walked,"6,347","+/-1,199",1.6,+/-0.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",23,Other means,"4,337","+/-1,097",1.1,+/-0.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",24,Worked from home,"92,531","+/-5,518",23.9,+/-1.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",24.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",25,Mean travel time to work (minutes),22.7,+/-0.6,(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",25.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",25.5,OCCUPATION,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",26,Civilian employed population 16 years and over,"392,148","+/-5,873","392,148",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",27,"Management, business, science, and arts occupations","180,732","+/-6,218",46.1,+/-1.5
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",28,Service occupations,"53,182","+/-4,167",13.6,+/-1.0
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",29,Sales and office occupations,"81,263","+/-4,745",20.7,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",30,"Natural resources, construction, and maintenance occupations","27,925","+/-2,547",7.1,+/-0.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",31,"Production, transportation, and material moving occupations","49,046","+/-3,704",12.5,+/-0.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",31.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",31.5,INDUSTRY,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",32,Civilian employed population 16 years and over,"392,148","+/-5,873","392,148",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",33,"Agriculture, forestry, fishing and hunting, and mining","3,103",+/-788,0.8,+/-0.2
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",34,Construction,"27,059","+/-2,851",6.9,+/-0.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",35,Manufacturing,"48,103","+/-3,416",12.3,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",36,Wholesale trade,"12,072","+/-1,850",3.1,+/-0.5
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",37,Retail trade,"42,277","+/-3,559",10.8,+/-0.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",38,"Transportation and warehousing, and utilities","24,107","+/-2,664",6.1,+/-0.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",39,Information,"5,227","+/-1,271",1.3,+/-0.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",40,"Finance and insurance, and real estate and rental and leasing","35,398","+/-3,068",9.0,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",41,"Professional, scientific, and management, and administrative and waste management services","43,507","+/-3,380",11.1,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",42,"Educational services, and health care and social assistance","92,130","+/-5,103",23.5,+/-1.2
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",43,"Arts, entertainment, and recreation, and accommodation and food services","28,359","+/-2,893",7.2,+/-0.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",44,"Other services, except public administration","14,634","+/-2,158",3.7,+/-0.5
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",45,Public administration,"16,172","+/-2,344",4.1,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",45.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",46,Civilian employed population 16 years and over,"392,148","+/-5,873","392,148",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",47,Private wage and salary workers,"323,682","+/-5,912",82.5,+/-1.0
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",48,Government workers,"50,129","+/-3,711",12.8,+/-0.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",49,Self-employed in own not incorporated business workers,"18,294","+/-2,409",4.7,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",50,Unpaid family workers,43,+/-51,0.0,+/-0.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",50.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",51,Total households,"271,228","+/-2,654","271,228",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",52,"Less than $10,000","7,160","+/-1,193",2.6,+/-0.4
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",53,"$10,000 to $14,999","4,061","+/-1,006",1.5,+/-0.4
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",54,"$15,000 to $24,999","11,977","+/-1,914",4.4,+/-0.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",55,"$25,000 to $34,999","13,275","+/-1,939",4.9,+/-0.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",56,"$35,000 to $49,999","23,541","+/-2,996",8.7,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",57,"$50,000 to $74,999","43,030","+/-2,980",15.9,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",58,"$75,000 to $99,999","39,238","+/-3,383",14.5,+/-1.2
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",59,"$100,000 to $149,999","58,111","+/-3,082",21.4,+/-1.2
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",60,"$150,000 to $199,999","33,714","+/-2,941",12.4,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",61,"$200,000 or more","37,121","+/-2,535",13.7,+/-0.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",62,Median household income (dollars),"95,999","+/-2,653",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",63,Mean household income (dollars),"119,694","+/-2,996",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",63.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",64,With earnings,"225,560","+/-3,295",83.2,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",65,Mean earnings (dollars),"119,598","+/-3,213",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",66,With Social Security,"71,360","+/-2,706",26.3,+/-1.0
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",67,Mean Social Security income (dollars),"23,263",+/-588,(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",68,With retirement income,"64,262","+/-2,860",23.7,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",69,Mean retirement income (dollars),"29,940","+/-2,118",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",69.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",70,With Supplemental Security Income,"9,128","+/-1,343",3.4,+/-0.5
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",71,Mean Supplemental Security Income (dollars),"11,173",+/-947,(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",72,With cash public assistance income,"8,684","+/-1,555",3.2,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",73,Mean cash public assistance income (dollars),"5,351",+/-934,(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",74,With Food Stamp/SNAP benefits in the past 12 months,"14,199","+/-2,109",5.2,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",74.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",75,Families,"191,164","+/-4,463","191,164",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",76,"Less than $10,000","2,725","+/-1,054",1.4,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",77,"$10,000 to $14,999","1,143",+/-581,0.6,+/-0.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",78,"$15,000 to $24,999","5,807","+/-1,534",3.0,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",79,"$25,000 to $34,999","4,923","+/-1,221",2.6,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",80,"$35,000 to $49,999","12,106","+/-1,956",6.3,+/-1.0
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",81,"$50,000 to $74,999","25,535","+/-2,571",13.4,+/-1.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",82,"$75,000 to $99,999","28,839","+/-2,690",15.1,+/-1.4
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",83,"$100,000 to $149,999","46,594","+/-2,827",24.4,+/-1.4
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",84,"$150,000 to $199,999","29,024","+/-2,675",15.2,+/-1.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",85,"$200,000 or more","34,468","+/-2,306",18.0,+/-1.2
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",86,Median family income (dollars),"113,071","+/-2,595",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",87,Mean family income (dollars),"138,143","+/-3,872",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",87.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",88,Per capita income (dollars),"45,431","+/-1,043",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",88.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",89,Nonfamily households,"80,064","+/-4,212","80,064",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",90,Median nonfamily income (dollars),"54,438","+/-3,023",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",91,Mean nonfamily income (dollars),"69,093","+/-3,999",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",91.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",92,Median earnings for workers (dollars),"50,941",+/-810,(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",93,"Median earnings for male full-time, year-round workers (dollars)","72,052","+/-1,510",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",94,"Median earnings for female full-time, year-round workers (dollars)","58,094","+/-2,551",(X),(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",94.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",95,Civilian noninstitutionalized population,"717,668","+/-5,061","717,668",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",96,With health insurance coverage,"687,758","+/-6,495",95.8,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",97,With private health insurance,"580,387","+/-9,730",80.9,+/-1.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",98,With public coverage,"199,640","+/-9,058",27.8,+/-1.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",99,No health insurance coverage,"29,910","+/-4,511",4.2,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",99.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",100,Civilian noninstitutionalized population under 19 years,"186,680","+/-4,266","186,680",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",101,No health insurance coverage,"4,509","+/-1,600",2.4,+/-0.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",101.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",102,Civilian noninstitutionalized population 19 to 64 years,"430,564","+/-3,898","430,564",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",103,In labor force:,"375,781","+/-5,253","375,781",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",104,Employed:,"359,107","+/-5,370","359,107",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",105,With health insurance coverage,"339,725","+/-5,667",94.6,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",106,With private health insurance,"313,513","+/-6,074",87.3,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",107,With public coverage,"36,153","+/-3,861",10.1,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",108,No health insurance coverage,"19,382","+/-2,902",5.4,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",109,Unemployed:,"16,674","+/-2,394","16,674",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",110,With health insurance coverage,"14,925","+/-2,362",89.5,+/-4.4
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",111,With private health insurance,"9,419","+/-1,729",56.5,+/-7.5
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",112,With public coverage,"6,275","+/-1,683",37.6,+/-7.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",113,No health insurance coverage,"1,749",+/-744,10.5,+/-4.4
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",114,Not in labor force:,"54,783","+/-3,310","54,783",(X)
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",115,With health insurance coverage,"50,595","+/-3,461",92.4,+/-2.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",116,With private health insurance,"35,346","+/-2,555",64.5,+/-3.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",117,With public coverage,"18,848","+/-2,800",34.4,+/-3.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",118,No health insurance coverage,"4,188","+/-1,249",7.6,+/-2.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",118.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",119,All families,(X),(X),3.2,+/-0.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",120,With related children of the householder under 18 years,(X),(X),4.2,+/-1.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",121,With related children of the householder under 5 years only,(X),(X),4.0,+/-2.9
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",122,Married couple families,(X),(X),1.4,+/-0.4
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",123,With related children of the householder under 18 years,(X),(X),1.3,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",124,With related children of the householder under 5 years only,(X),(X),1.1,+/-1.1
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",125,"Families with female householder, no spouse present",(X),(X),11.4,+/-4.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",126,With related children of the householder under 18 years,(X),(X),17.4,+/-6.3
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",127,With related children of the householder under 5 years only,(X),(X),17.7,+/-19.5
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",127.3,,,,,
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",128,All people,(X),(X),4.7,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",129,Under 18 years,(X),(X),4.6,+/-1.5
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",130,Related children of the householder under 18 years,(X),(X),4.5,+/-1.5
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",131,Related children of the householder under 5 years,(X),(X),6.6,+/-2.8
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",132,Related children of the householder 5 to 17 years,(X),(X),3.8,+/-1.2
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",133,18 years and over,(X),(X),4.7,+/-0.5
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",134,18 to 64 years,(X),(X),4.2,+/-0.6
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",135,65 years and over,(X),(X),6.9,+/-1.2
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",136,People in families,(X),(X),3.0,+/-0.7
+DP03,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",137,Unrelated individuals 15 years and over,(X),(X),13.5,+/-1.5
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",0.5,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",1,Population 16 years and over,"562,747","+/-5,647","562,747",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",2,In labor force,"392,633","+/-6,089",69.8,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",3,Civilian labor force,"392,376","+/-6,024",69.7,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",4,Employed,"374,846","+/-6,007",66.6,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",5,Unemployed,"17,530","+/-2,445",3.1,+/-0.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",6,Armed Forces,257,+/-297,0.0,+/-0.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",7,Not in labor force,"170,114","+/-5,437",30.2,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",7.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",8,Civilian labor force,"392,376","+/-6,024","392,376",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",9,Unemployment Rate,(X),(X),4.5,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",9.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",10,Females 16 years and over,"288,377","+/-4,813","288,377",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",11,In labor force,"187,291","+/-5,102",64.9,+/-1.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",12,Civilian labor force,"187,246","+/-5,090",64.9,+/-1.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",13,Employed,"179,421","+/-5,107",62.2,+/-1.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",13.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",14,Own children of the householder under 6 years,"48,897","+/-3,121","48,897",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",15,All parents in family in labor force,"38,893","+/-3,071",79.5,+/-3.5
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",15.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",16,Own children of the householder 6 to 17 years,"109,619","+/-5,425","109,619",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",17,All parents in family in labor force,"89,387","+/-5,635",81.5,+/-2.8
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",17.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",18,Workers 16 years and over,"367,731","+/-6,137","367,731",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",19,"Car, truck, or van -- drove alone","225,308","+/-6,893",61.3,+/-1.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",20,"Car, truck, or van -- carpooled","23,477","+/-2,594",6.4,+/-0.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",21,Public transportation (excluding taxicab),"3,985","+/-1,230",1.1,+/-0.3
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",22,Walked,"3,479","+/-1,327",0.9,+/-0.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",23,Other means,"4,994","+/-1,570",1.4,+/-0.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",24,Worked from home,"106,488","+/-5,864",29.0,+/-1.5
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",24.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",25,Mean travel time to work (minutes),21.7,+/-0.6,(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",25.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",25.5,OCCUPATION,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",26,Civilian employed population 16 years and over,"374,846","+/-6,007","374,846",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",27,"Management, business, science, and arts occupations","194,636","+/-6,643",51.9,+/-1.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",28,Service occupations,"47,519","+/-3,882",12.7,+/-1.0
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",29,Sales and office occupations,"73,809","+/-5,114",19.7,+/-1.3
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",30,"Natural resources, construction, and maintenance occupations","17,981","+/-2,735",4.8,+/-0.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",31,"Production, transportation, and material moving occupations","40,901","+/-3,716",10.9,+/-1.0
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",31.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",31.5,INDUSTRY,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",32,Civilian employed population 16 years and over,"374,846","+/-6,007","374,846",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",33,"Agriculture, forestry, fishing and hunting, and mining","1,895",+/-841,0.5,+/-0.2
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",34,Construction,"16,185","+/-2,317",4.3,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",35,Manufacturing,"54,363","+/-4,024",14.5,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",36,Wholesale trade,"10,046","+/-1,533",2.7,+/-0.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",37,Retail trade,"43,201","+/-3,768",11.5,+/-1.0
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",38,"Transportation and warehousing, and utilities","15,708","+/-2,609",4.2,+/-0.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",39,Information,"5,481","+/-1,292",1.5,+/-0.3
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",40,"Finance and insurance, and real estate and rental and leasing","36,061","+/-2,880",9.6,+/-0.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",41,"Professional, scientific, and management, and administrative and waste management services","56,873","+/-4,187",15.2,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",42,"Educational services, and health care and social assistance","86,582","+/-4,519",23.1,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",43,"Arts, entertainment, and recreation, and accommodation and food services","21,566","+/-2,525",5.8,+/-0.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",44,"Other services, except public administration","16,058","+/-2,257",4.3,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",45,Public administration,"10,827","+/-1,897",2.9,+/-0.5
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",45.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",46,Civilian employed population 16 years and over,"374,846","+/-6,007","374,846",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",47,Private wage and salary workers,"320,749","+/-6,953",85.6,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",48,Government workers,"37,516","+/-2,920",10.0,+/-0.8
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",49,Self-employed in own not incorporated business workers,"16,462","+/-2,072",4.4,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",50,Unpaid family workers,119,+/-142,0.0,+/-0.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",50.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",51,Total households,"283,792","+/-4,205","283,792",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",52,"Less than $10,000","8,581","+/-1,587",3.0,+/-0.5
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",53,"$10,000 to $14,999","7,353","+/-1,773",2.6,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",54,"$15,000 to $24,999","12,368","+/-1,990",4.4,+/-0.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",55,"$25,000 to $34,999","15,688","+/-1,933",5.5,+/-0.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",56,"$35,000 to $49,999","24,208","+/-2,627",8.5,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",57,"$50,000 to $74,999","42,854","+/-3,061",15.1,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",58,"$75,000 to $99,999","35,487","+/-2,894",12.5,+/-1.0
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",59,"$100,000 to $149,999","54,218","+/-3,467",19.1,+/-1.2
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",60,"$150,000 to $199,999","33,794","+/-2,978",11.9,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",61,"$200,000 or more","49,241","+/-3,040",17.4,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",62,Median household income (dollars),"95,334","+/-3,325",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",63,Mean household income (dollars),"130,660","+/-3,858",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",63.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",64,With earnings,"224,441","+/-3,752",79.1,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",65,Mean earnings (dollars),"134,078","+/-4,271",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",66,With Social Security,"84,290","+/-3,949",29.7,+/-1.2
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",67,Mean Social Security income (dollars),"24,728",+/-808,(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",68,With retirement income,"72,753","+/-3,688",25.6,+/-1.2
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",69,Mean retirement income (dollars),"26,942","+/-1,541",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",69.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",70,With Supplemental Security Income,"10,217","+/-1,836",3.6,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",71,Mean Supplemental Security Income (dollars),"9,795","+/-1,184",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",72,With cash public assistance income,"10,637","+/-1,772",3.7,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",73,Mean cash public assistance income (dollars),"6,921","+/-1,389",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",74,With Food Stamp/SNAP benefits in the past 12 months,"15,522","+/-2,311",5.5,+/-0.8
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",74.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",75,Families,"183,021","+/-3,467","183,021",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",76,"Less than $10,000","1,744",+/-670,1.0,+/-0.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",77,"$10,000 to $14,999","1,800",+/-943,1.0,+/-0.5
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",78,"$15,000 to $24,999","4,203","+/-1,144",2.3,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",79,"$25,000 to $34,999","5,864","+/-1,234",3.2,+/-0.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",80,"$35,000 to $49,999","10,766","+/-1,716",5.9,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",81,"$50,000 to $74,999","22,646","+/-1,972",12.4,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",82,"$75,000 to $99,999","22,025","+/-2,438",12.0,+/-1.3
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",83,"$100,000 to $149,999","41,199","+/-3,114",22.5,+/-1.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",84,"$150,000 to $199,999","28,413","+/-2,937",15.5,+/-1.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",85,"$200,000 or more","44,361","+/-2,643",24.2,+/-1.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",86,Median family income (dollars),"128,012","+/-4,492",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",87,Mean family income (dollars),"160,196","+/-4,676",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",87.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",88,Per capita income (dollars),"52,953","+/-1,458",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",88.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",89,Nonfamily households,"100,771","+/-4,824","100,771",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",90,Median nonfamily income (dollars),"53,607","+/-3,625",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",91,Mean nonfamily income (dollars),"71,598","+/-4,558",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",91.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",92,Median earnings for workers (dollars),"51,787",+/-940,(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",93,"Median earnings for male full-time, year-round workers (dollars)","78,051","+/-2,592",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",94,"Median earnings for female full-time, year-round workers (dollars)","61,951","+/-2,144",(X),(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",94.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",95,Civilian noninstitutionalized population,"703,159","+/-7,141","703,159",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",96,With health insurance coverage,"678,893","+/-8,246",96.5,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",97,With private health insurance,"564,748","+/-9,108",80.3,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",98,With public coverage,"216,305","+/-9,904",30.8,+/-1.3
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",99,No health insurance coverage,"24,266","+/-4,007",3.5,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",99.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",100,Civilian noninstitutionalized population under 19 years,"170,157","+/-6,137","170,157",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",101,No health insurance coverage,"3,497","+/-1,281",2.1,+/-0.8
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",101.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",102,Civilian noninstitutionalized population 19 to 64 years,"412,994","+/-5,797","412,994",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",103,In labor force:,"351,686","+/-5,634","351,686",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",104,Employed:,"338,273","+/-5,975","338,273",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",105,With health insurance coverage,"323,859","+/-6,408",95.7,+/-0.8
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",106,With private health insurance,"298,867","+/-6,359",88.4,+/-1.0
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",107,With public coverage,"31,588","+/-3,718",9.3,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",108,No health insurance coverage,"14,414","+/-2,843",4.3,+/-0.8
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",109,Unemployed:,"13,413","+/-2,129","13,413",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",110,With health insurance coverage,"12,035","+/-2,057",89.7,+/-3.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",111,With private health insurance,"6,242","+/-1,328",46.5,+/-8.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",112,With public coverage,"6,105","+/-1,682",45.5,+/-8.8
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",113,No health insurance coverage,"1,378",+/-503,10.3,+/-3.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",114,Not in labor force:,"61,308","+/-3,912","61,308",(X)
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",115,With health insurance coverage,"56,760","+/-3,752",92.6,+/-2.0
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",116,With private health insurance,"38,275","+/-3,317",62.4,+/-3.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",117,With public coverage,"22,478","+/-2,633",36.7,+/-3.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",118,No health insurance coverage,"4,548","+/-1,299",7.4,+/-2.0
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",118.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",119,All families,(X),(X),4.0,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",120,With related children of the householder under 18 years,(X),(X),6.1,+/-1.8
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",121,With related children of the householder under 5 years only,(X),(X),1.7,+/-1.3
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",122,Married couple families,(X),(X),2.1,+/-0.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",123,With related children of the householder under 18 years,(X),(X),2.9,+/-1.2
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",124,With related children of the householder under 5 years only,(X),(X),0.9,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",125,"Families with female householder, no spouse present",(X),(X),12.0,+/-4.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",126,With related children of the householder under 18 years,(X),(X),17.7,+/-7.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",127,With related children of the householder under 5 years only,(X),(X),4.3,+/-7.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",127.3,,,,,
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",128,All people,(X),(X),6.8,+/-0.9
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",129,Under 18 years,(X),(X),7.6,+/-2.3
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",130,Related children of the householder under 18 years,(X),(X),7.5,+/-2.4
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",131,Related children of the householder under 5 years,(X),(X),5.7,+/-2.5
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",132,Related children of the householder 5 to 17 years,(X),(X),8.2,+/-2.6
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",133,18 years and over,(X),(X),6.6,+/-0.7
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",134,18 to 64 years,(X),(X),6.3,+/-0.8
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",135,65 years and over,(X),(X),7.7,+/-1.2
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",136,People in families,(X),(X),4.7,+/-1.1
+DP03,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",137,Unrelated individuals 15 years and over,(X),(X),15.4,+/-2.0
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",0.5,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",1,Population 16 years and over,"561,016","+/-4,508","561,016",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",2,In labor force,"383,080","+/-6,239",68.3,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",3,Civilian labor force,"383,036","+/-6,229",68.3,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",4,Employed,"360,942","+/-5,874",64.3,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",5,Unemployed,"22,094","+/-2,885",3.9,+/-0.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",6,Armed Forces,44,+/-54,0.0,+/-0.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",7,Not in labor force,"177,936","+/-5,374",31.7,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",7.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",8,Civilian labor force,"383,036","+/-6,229","383,036",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",9,Unemployment Rate,(X),(X),5.8,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",9.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",10,Females 16 years and over,"286,684","+/-2,638","286,684",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",11,In labor force,"188,122","+/-3,569",65.6,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",12,Civilian labor force,"188,105","+/-3,569",65.6,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",13,Employed,"177,416","+/-3,614",61.9,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",13.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",14,Own children of the householder under 6 years,"49,318","+/-2,541","49,318",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",15,All parents in family in labor force,"34,564","+/-3,026",70.1,+/-4.6
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",15.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",16,Own children of the householder 6 to 17 years,"107,484","+/-3,186","107,484",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",17,All parents in family in labor force,"80,807","+/-4,845",75.2,+/-4.0
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",17.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",18,Workers 16 years and over,"354,305","+/-5,935","354,305",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",19,"Car, truck, or van -- drove alone","207,390","+/-6,427",58.5,+/-1.4
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",20,"Car, truck, or van -- carpooled","25,141","+/-2,874",7.1,+/-0.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",21,Public transportation (excluding taxicab),"7,746","+/-1,702",2.2,+/-0.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",22,Walked,"9,325","+/-1,859",2.6,+/-0.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",23,Other means,"7,454","+/-1,450",2.1,+/-0.4
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",24,Worked from home,"97,249","+/-4,743",27.4,+/-1.3
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",24.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",25,Mean travel time to work (minutes),21.3,+/-0.7,(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",25.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",25.5,OCCUPATION,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",26,Civilian employed population 16 years and over,"360,942","+/-5,874","360,942",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",27,"Management, business, science, and arts occupations","175,797","+/-5,896",48.7,+/-1.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",28,Service occupations,"54,073","+/-3,544",15.0,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",29,Sales and office occupations,"65,647","+/-4,368",18.2,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",30,"Natural resources, construction, and maintenance occupations","18,747","+/-2,479",5.2,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",31,"Production, transportation, and material moving occupations","46,678","+/-4,141",12.9,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",31.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",31.5,INDUSTRY,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",32,Civilian employed population 16 years and over,"360,942","+/-5,874","360,942",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",33,"Agriculture, forestry, fishing and hunting, and mining","3,210","+/-1,301",0.9,+/-0.4
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",34,Construction,"17,067","+/-2,429",4.7,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",35,Manufacturing,"46,614","+/-2,648",12.9,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",36,Wholesale trade,"7,701","+/-1,375",2.1,+/-0.4
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",37,Retail trade,"38,931","+/-3,111",10.8,+/-0.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",38,"Transportation and warehousing, and utilities","16,949","+/-2,189",4.7,+/-0.6
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",39,Information,"5,157",+/-935,1.4,+/-0.3
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",40,"Finance and insurance, and real estate and rental and leasing","27,652","+/-2,566",7.7,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",41,"Professional, scientific, and management, and administrative and waste management services","41,684","+/-2,893",11.5,+/-0.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",42,"Educational services, and health care and social assistance","97,736","+/-5,411",27.1,+/-1.3
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",43,"Arts, entertainment, and recreation, and accommodation and food services","24,508","+/-2,885",6.8,+/-0.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",44,"Other services, except public administration","17,139","+/-1,896",4.7,+/-0.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",45,Public administration,"16,594","+/-2,602",4.6,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",45.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",46,Civilian employed population 16 years and over,"360,942","+/-5,874","360,942",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",47,Private wage and salary workers,"292,771","+/-5,676",81.1,+/-1.2
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",48,Government workers,"52,716","+/-4,264",14.6,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",49,Self-employed in own not incorporated business workers,"14,901","+/-1,918",4.1,+/-0.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",50,Unpaid family workers,554,+/-470,0.2,+/-0.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",50.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",51,Total households,"280,487","+/-2,950","280,487",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",52,"Less than $10,000","13,257","+/-1,971",4.7,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",53,"$10,000 to $14,999","8,449","+/-1,559",3.0,+/-0.6
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",54,"$15,000 to $24,999","12,934","+/-1,678",4.6,+/-0.6
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",55,"$25,000 to $34,999","19,656","+/-2,131",7.0,+/-0.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",56,"$35,000 to $49,999","31,133","+/-2,868",11.1,+/-1.0
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",57,"$50,000 to $74,999","50,066","+/-3,485",17.8,+/-1.2
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",58,"$75,000 to $99,999","36,141","+/-3,026",12.9,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",59,"$100,000 to $149,999","47,747","+/-2,994",17.0,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",60,"$150,000 to $199,999","29,144","+/-2,574",10.4,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",61,"$200,000 or more","31,960","+/-2,561",11.4,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",62,Median household income (dollars),"78,280","+/-3,062",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",63,Mean household income (dollars),"107,254","+/-3,197",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",63.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",64,With earnings,"219,083","+/-3,137",78.1,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",65,Mean earnings (dollars),"109,326","+/-3,612",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",66,With Social Security,"79,222","+/-2,364",28.2,+/-0.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",67,Mean Social Security income (dollars),"22,584",+/-686,(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",68,With retirement income,"67,532","+/-2,518",24.1,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",69,Mean retirement income (dollars),"33,035","+/-2,013",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",69.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",70,With Supplemental Security Income,"12,002","+/-1,793",4.3,+/-0.6
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",71,Mean Supplemental Security Income (dollars),"10,020",+/-619,(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",72,With cash public assistance income,"14,306","+/-2,118",5.1,+/-0.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",73,Mean cash public assistance income (dollars),"4,827",+/-950,(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",74,With Food Stamp/SNAP benefits in the past 12 months,"28,125","+/-2,535",10.0,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",74.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",75,Families,"169,505","+/-3,325","169,505",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",76,"Less than $10,000","4,318","+/-1,167",2.5,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",77,"$10,000 to $14,999","2,556",+/-930,1.5,+/-0.6
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",78,"$15,000 to $24,999","4,291","+/-1,121",2.5,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",79,"$25,000 to $34,999","9,164","+/-1,884",5.4,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",80,"$35,000 to $49,999","14,168","+/-1,856",8.4,+/-1.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",81,"$50,000 to $74,999","23,640","+/-2,383",13.9,+/-1.4
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",82,"$75,000 to $99,999","23,993","+/-2,618",14.2,+/-1.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",83,"$100,000 to $149,999","35,784","+/-2,669",21.1,+/-1.6
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",84,"$150,000 to $199,999","23,267","+/-2,223",13.7,+/-1.3
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",85,"$200,000 or more","28,324","+/-2,154",16.7,+/-1.3
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",86,Median family income (dollars),"102,183","+/-3,508",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",87,Mean family income (dollars),"130,898","+/-4,008",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",87.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",88,Per capita income (dollars),"43,050","+/-1,116",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",88.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",89,Nonfamily households,"110,982","+/-3,999","110,982",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",90,Median nonfamily income (dollars),"50,257","+/-1,915",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",91,Mean nonfamily income (dollars),"66,558","+/-4,651",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",91.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",92,Median earnings for workers (dollars),"44,630","+/-1,521",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",93,"Median earnings for male full-time, year-round workers (dollars)","65,943","+/-1,783",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",94,"Median earnings for female full-time, year-round workers (dollars)","57,720","+/-2,816",(X),(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",94.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",95,Civilian noninstitutionalized population,"698,927","+/-6,132","698,927",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",96,With health insurance coverage,"669,960","+/-6,951",95.9,+/-0.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",97,With private health insurance,"508,691","+/-10,599",72.8,+/-1.3
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",98,With public coverage,"256,281","+/-8,121",36.7,+/-1.2
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",99,No health insurance coverage,"28,967","+/-3,484",4.1,+/-0.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",99.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",100,Civilian noninstitutionalized population under 19 years,"171,083","+/-4,127","171,083",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",101,No health insurance coverage,"3,749","+/-1,104",2.2,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",101.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",102,Civilian noninstitutionalized population 19 to 64 years,"419,686","+/-4,172","419,686",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",103,In labor force:,"349,315","+/-5,653","349,315",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",104,Employed:,"330,903","+/-5,582","330,903",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",105,With health insurance coverage,"314,443","+/-5,724",95.0,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",106,With private health insurance,"278,862","+/-6,936",84.3,+/-1.4
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",107,With public coverage,"45,188","+/-3,808",13.7,+/-1.2
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",108,No health insurance coverage,"16,460","+/-2,232",5.0,+/-0.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",109,Unemployed:,"18,412","+/-2,584","18,412",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",110,With health insurance coverage,"16,395","+/-2,215",89.0,+/-5.0
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",111,With private health insurance,"10,244","+/-2,010",55.6,+/-6.3
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",112,With public coverage,"7,202","+/-1,295",39.1,+/-7.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",113,No health insurance coverage,"2,017","+/-1,018",11.0,+/-5.0
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",114,Not in labor force:,"70,371","+/-4,067","70,371",(X)
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",115,With health insurance coverage,"64,660","+/-3,843",91.9,+/-2.0
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",116,With private health insurance,"34,531","+/-2,996",49.1,+/-3.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",117,With public coverage,"33,903","+/-2,946",48.2,+/-3.4
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",118,No health insurance coverage,"5,711","+/-1,457",8.1,+/-2.0
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",118.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",119,All families,(X),(X),6.6,+/-1.2
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",120,With related children of the householder under 18 years,(X),(X),11.3,+/-2.3
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",121,With related children of the householder under 5 years only,(X),(X),13.1,+/-6.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",122,Married couple families,(X),(X),2.9,+/-0.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",123,With related children of the householder under 18 years,(X),(X),4.2,+/-1.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",124,With related children of the householder under 5 years only,(X),(X),3.2,+/-3.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",125,"Families with female householder, no spouse present",(X),(X),19.4,+/-4.1
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",126,With related children of the householder under 18 years,(X),(X),28.2,+/-5.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",127,With related children of the householder under 5 years only,(X),(X),38.1,+/-15.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",127.3,,,,,
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",128,All people,(X),(X),10.9,+/-1.4
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",129,Under 18 years,(X),(X),15.8,+/-3.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",130,Related children of the householder under 18 years,(X),(X),15.5,+/-3.5
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",131,Related children of the householder under 5 years,(X),(X),16.6,+/-4.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",132,Related children of the householder 5 to 17 years,(X),(X),15.1,+/-3.8
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",133,18 years and over,(X),(X),9.4,+/-0.9
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",134,18 to 64 years,(X),(X),9.8,+/-1.0
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",135,65 years and over,(X),(X),8.0,+/-1.3
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",136,People in families,(X),(X),8.2,+/-1.7
+DP03,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",137,Unrelated individuals 15 years and over,(X),(X),20.1,+/-1.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",0.5,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",1,Population 16 years and over,"580,382","+/-6,272","580,382",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",2,In labor force,"422,982","+/-6,607",72.9,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",3,Civilian labor force,"422,136","+/-6,777",72.7,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",4,Employed,"391,900","+/-7,180",67.5,+/-1.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",5,Unemployed,"30,236","+/-3,674",5.2,+/-0.6
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",6,Armed Forces,846,+/-698,0.1,+/-0.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",7,Not in labor force,"157,400","+/-5,478",27.1,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",7.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",8,Civilian labor force,"422,136","+/-6,777","422,136",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",9,Unemployment Rate,(X),(X),7.2,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",9.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",10,Females 16 years and over,"291,267","+/-4,528","291,267",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",11,In labor force,"205,070","+/-4,878",70.4,+/-1.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",12,Civilian labor force,"205,025","+/-4,871",70.4,+/-1.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",13,Employed,"191,698","+/-4,830",65.8,+/-1.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",13.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",14,Own children of the householder under 6 years,"47,234","+/-3,343","47,234",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",15,All parents in family in labor force,"35,649","+/-3,332",75.5,+/-5.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",15.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",16,Own children of the householder 6 to 17 years,"86,761","+/-5,182","86,761",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",17,All parents in family in labor force,"69,838","+/-5,056",80.5,+/-3.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",17.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",18,Workers 16 years and over,"385,187","+/-7,196","385,187",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",19,"Car, truck, or van -- drove alone","201,094","+/-7,129",52.2,+/-1.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",20,"Car, truck, or van -- carpooled","25,166","+/-3,545",6.5,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",21,Public transportation (excluding taxicab),"15,937","+/-2,693",4.1,+/-0.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",22,Walked,"13,122","+/-2,123",3.4,+/-0.6
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",23,Other means,"11,081","+/-2,223",2.9,+/-0.6
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",24,Worked from home,"118,787","+/-4,660",30.8,+/-1.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",24.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",25,Mean travel time to work (minutes),21.3,+/-0.6,(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",25.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",25.5,OCCUPATION,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",26,Civilian employed population 16 years and over,"391,900","+/-7,180","391,900",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",27,"Management, business, science, and arts occupations","207,874","+/-6,162",53.0,+/-1.4
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",28,Service occupations,"57,383","+/-3,894",14.6,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",29,Sales and office occupations,"69,373","+/-4,778",17.7,+/-1.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",30,"Natural resources, construction, and maintenance occupations","15,888","+/-2,062",4.1,+/-0.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",31,"Production, transportation, and material moving occupations","41,382","+/-3,416",10.6,+/-0.8
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",31.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",31.5,INDUSTRY,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",32,Civilian employed population 16 years and over,"391,900","+/-7,180","391,900",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",33,"Agriculture, forestry, fishing and hunting, and mining","2,383",+/-875,0.6,+/-0.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",34,Construction,"14,018","+/-1,911",3.6,+/-0.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",35,Manufacturing,"42,750","+/-2,979",10.9,+/-0.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",36,Wholesale trade,"8,992","+/-1,833",2.3,+/-0.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",37,Retail trade,"43,979","+/-3,594",11.2,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",38,"Transportation and warehousing, and utilities","15,415","+/-1,983",3.9,+/-0.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",39,Information,"7,900","+/-1,444",2.0,+/-0.4
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",40,"Finance and insurance, and real estate and rental and leasing","34,075","+/-3,139",8.7,+/-0.8
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",41,"Professional, scientific, and management, and administrative and waste management services","58,804","+/-4,008",15.0,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",42,"Educational services, and health care and social assistance","102,349","+/-5,295",26.1,+/-1.4
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",43,"Arts, entertainment, and recreation, and accommodation and food services","30,427","+/-3,019",7.8,+/-0.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",44,"Other services, except public administration","17,982","+/-1,962",4.6,+/-0.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",45,Public administration,"12,826","+/-2,000",3.3,+/-0.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",45.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",46,Civilian employed population 16 years and over,"391,900","+/-7,180","391,900",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",47,Private wage and salary workers,"320,951","+/-7,947",81.9,+/-1.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",48,Government workers,"49,531","+/-3,882",12.6,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",49,Self-employed in own not incorporated business workers,"20,902","+/-2,567",5.3,+/-0.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",50,Unpaid family workers,516,+/-419,0.1,+/-0.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",50.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",51,Total households,"306,099","+/-4,117","306,099",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",52,"Less than $10,000","16,537","+/-2,479",5.4,+/-0.8
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",53,"$10,000 to $14,999","12,362","+/-2,044",4.0,+/-0.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",54,"$15,000 to $24,999","20,722","+/-2,882",6.8,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",55,"$25,000 to $34,999","22,750","+/-2,611",7.4,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",56,"$35,000 to $49,999","32,880","+/-2,954",10.7,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",57,"$50,000 to $74,999","54,602","+/-3,783",17.8,+/-1.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",58,"$75,000 to $99,999","36,951","+/-3,195",12.1,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",59,"$100,000 to $149,999","52,990","+/-4,133",17.3,+/-1.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",60,"$150,000 to $199,999","26,905","+/-2,684",8.8,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",61,"$200,000 or more","29,400","+/-2,239",9.6,+/-0.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",62,Median household income (dollars),"71,636","+/-1,833",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",63,Mean household income (dollars),"100,942","+/-3,248",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",63.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",64,With earnings,"251,282","+/-4,145",82.1,+/-1.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",65,Mean earnings (dollars),"103,887","+/-4,092",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",66,With Social Security,"67,854","+/-3,491",22.2,+/-1.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",67,Mean Social Security income (dollars),"21,371",+/-669,(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",68,With retirement income,"54,500","+/-3,248",17.8,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",69,Mean retirement income (dollars),"25,125","+/-2,111",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",69.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",70,With Supplemental Security Income,"16,592","+/-2,073",5.4,+/-0.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",71,Mean Supplemental Security Income (dollars),"9,855",+/-666,(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",72,With cash public assistance income,"19,356","+/-2,264",6.3,+/-0.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",73,Mean cash public assistance income (dollars),"4,923",+/-765,(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",74,With Food Stamp/SNAP benefits in the past 12 months,"37,034","+/-3,692",12.1,+/-1.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",74.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",75,Families,"143,021","+/-3,954","143,021",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",76,"Less than $10,000","3,595","+/-1,435",2.5,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",77,"$10,000 to $14,999","1,445",+/-869,1.0,+/-0.6
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",78,"$15,000 to $24,999","5,742","+/-1,325",4.0,+/-0.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",79,"$25,000 to $34,999","8,076","+/-1,494",5.6,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",80,"$35,000 to $49,999","12,696","+/-1,744",8.9,+/-1.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",81,"$50,000 to $74,999","21,045","+/-2,246",14.7,+/-1.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",82,"$75,000 to $99,999","18,656","+/-2,132",13.0,+/-1.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",83,"$100,000 to $149,999","31,169","+/-2,990",21.8,+/-1.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",84,"$150,000 to $199,999","17,895","+/-2,004",12.5,+/-1.4
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",85,"$200,000 or more","22,702","+/-1,928",15.9,+/-1.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",86,Median family income (dollars),"100,313","+/-3,637",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",87,Mean family income (dollars),"130,687","+/-5,157",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",87.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",88,Per capita income (dollars),"44,015","+/-1,505",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",88.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",89,Nonfamily households,"163,078","+/-5,239","163,078",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",90,Median nonfamily income (dollars),"52,423","+/-2,458",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",91,Mean nonfamily income (dollars),"71,984","+/-4,589",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",91.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",92,Median earnings for workers (dollars),"42,541","+/-1,385",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",93,"Median earnings for male full-time, year-round workers (dollars)","64,327","+/-2,267",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",94,"Median earnings for female full-time, year-round workers (dollars)","57,945","+/-1,890",(X),(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",94.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",95,Civilian noninstitutionalized population,"701,993","+/-7,571","701,993",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",96,With health insurance coverage,"660,587","+/-8,057",94.1,+/-0.8
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",97,With private health insurance,"502,392","+/-10,762",71.6,+/-1.4
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",98,With public coverage,"230,233","+/-10,424",32.8,+/-1.4
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",99,No health insurance coverage,"41,406","+/-5,491",5.9,+/-0.8
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",99.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",100,Civilian noninstitutionalized population under 19 years,"153,411","+/-6,854","153,411",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",101,No health insurance coverage,"6,424","+/-2,655",4.2,+/-1.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",101.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",102,Civilian noninstitutionalized population 19 to 64 years,"458,267","+/-6,604","458,267",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",103,In labor force:,"389,880","+/-6,520","389,880",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",104,Employed:,"363,346","+/-6,840","363,346",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",105,With health insurance coverage,"338,552","+/-6,885",93.2,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",106,With private health insurance,"302,016","+/-7,465",83.1,+/-1.4
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",107,With public coverage,"44,927","+/-4,201",12.4,+/-1.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",108,No health insurance coverage,"24,794","+/-3,570",6.8,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",109,Unemployed:,"26,534","+/-3,335","26,534",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",110,With health insurance coverage,"22,984","+/-2,848",86.6,+/-4.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",111,With private health insurance,"10,627","+/-1,589",40.1,+/-5.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",112,With public coverage,"13,149","+/-2,465",49.6,+/-6.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",113,No health insurance coverage,"3,550","+/-1,369",13.4,+/-4.5
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",114,Not in labor force:,"68,387","+/-4,272","68,387",(X)
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",115,With health insurance coverage,"62,495","+/-4,062",91.4,+/-2.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",116,With private health insurance,"33,690","+/-3,398",49.3,+/-3.6
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",117,With public coverage,"31,043","+/-2,694",45.4,+/-3.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",118,No health insurance coverage,"5,892","+/-1,481",8.6,+/-2.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",118.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",119,All families,(X),(X),6.7,+/-1.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",120,With related children of the householder under 18 years,(X),(X),10.4,+/-2.4
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",121,With related children of the householder under 5 years only,(X),(X),9.4,+/-6.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",122,Married couple families,(X),(X),2.7,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",123,With related children of the householder under 18 years,(X),(X),2.9,+/-1.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",124,With related children of the householder under 5 years only,(X),(X),2.5,+/-2.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",125,"Families with female householder, no spouse present",(X),(X),19.7,+/-4.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",126,With related children of the householder under 18 years,(X),(X),28.6,+/-7.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",127,With related children of the householder under 5 years only,(X),(X),36.7,+/-22.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",127.3,,,,,
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",128,All people,(X),(X),12.5,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",129,Under 18 years,(X),(X),12.7,+/-2.8
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",130,Related children of the householder under 18 years,(X),(X),12.5,+/-2.9
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",131,Related children of the householder under 5 years,(X),(X),11.7,+/-4.1
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",132,Related children of the householder 5 to 17 years,(X),(X),12.8,+/-3.3
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",133,18 years and over,(X),(X),12.4,+/-1.0
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",134,18 to 64 years,(X),(X),12.6,+/-1.2
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",135,65 years and over,(X),(X),11.5,+/-1.7
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",136,People in families,(X),(X),7.4,+/-1.4
+DP03,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",137,Unrelated individuals 15 years and over,(X),(X),21.8,+/-1.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",0.5,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",1,Population 16 years and over,"561,072","+/-5,036","561,072",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",2,In labor force,"402,461","+/-6,672",71.7,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",3,Civilian labor force,"401,873","+/-6,632",71.6,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",4,Employed,"385,586","+/-6,787",68.7,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",5,Unemployed,"16,287","+/-2,554",2.9,+/-0.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",6,Armed Forces,588,+/-358,0.1,+/-0.1
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",7,Not in labor force,"158,611","+/-5,558",28.3,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",7.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",8,Civilian labor force,"401,873","+/-6,632","401,873",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",9,Unemployment Rate,(X),(X),4.1,+/-0.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",9.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",10,Females 16 years and over,"276,561","+/-2,724","276,561",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",11,In labor force,"190,090","+/-3,922",68.7,+/-1.2
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",12,Civilian labor force,"189,877","+/-3,889",68.7,+/-1.2
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",13,Employed,"182,951","+/-4,126",66.2,+/-1.3
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",13.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",14,Own children of the householder under 6 years,"56,828","+/-3,048","56,828",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",15,All parents in family in labor force,"42,781","+/-3,096",75.3,+/-4.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",15.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",16,Own children of the householder 6 to 17 years,"123,169","+/-3,820","123,169",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",17,All parents in family in labor force,"101,724","+/-4,982",82.6,+/-2.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",17.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",18,Workers 16 years and over,"379,481","+/-6,845","379,481",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",19,"Car, truck, or van -- drove alone","272,296","+/-8,129",71.8,+/-1.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",20,"Car, truck, or van -- carpooled","25,093","+/-3,838",6.6,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",21,Public transportation (excluding taxicab),"2,903","+/-1,132",0.8,+/-0.3
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",22,Walked,"6,282","+/-1,293",1.7,+/-0.3
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",23,Other means,"2,996",+/-918,0.8,+/-0.2
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",24,Worked from home,"69,911","+/-4,337",18.4,+/-1.1
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",24.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",25,Mean travel time to work (minutes),25.6,+/-0.6,(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",25.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",25.5,OCCUPATION,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",26,Civilian employed population 16 years and over,"385,586","+/-6,787","385,586",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",27,"Management, business, science, and arts occupations","166,983","+/-6,049",43.3,+/-1.4
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",28,Service occupations,"53,559","+/-3,925",13.9,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",29,Sales and office occupations,"79,451","+/-5,125",20.6,+/-1.3
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",30,"Natural resources, construction, and maintenance occupations","35,512","+/-2,952",9.2,+/-0.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",31,"Production, transportation, and material moving occupations","50,081","+/-3,882",13.0,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",31.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",31.5,INDUSTRY,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",32,Civilian employed population 16 years and over,"385,586","+/-6,787","385,586",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",33,"Agriculture, forestry, fishing and hunting, and mining","6,576","+/-1,800",1.7,+/-0.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",34,Construction,"32,867","+/-3,341",8.5,+/-0.8
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",35,Manufacturing,"54,582","+/-3,667",14.2,+/-0.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",36,Wholesale trade,"11,776","+/-1,649",3.1,+/-0.4
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",37,Retail trade,"45,612","+/-3,603",11.8,+/-0.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",38,"Transportation and warehousing, and utilities","19,504","+/-2,266",5.1,+/-0.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",39,Information,"2,281",+/-761,0.6,+/-0.2
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",40,"Finance and insurance, and real estate and rental and leasing","28,991","+/-3,000",7.5,+/-0.8
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",41,"Professional, scientific, and management, and administrative and waste management services","34,851","+/-3,470",9.0,+/-0.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",42,"Educational services, and health care and social assistance","92,188","+/-4,707",23.9,+/-1.1
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",43,"Arts, entertainment, and recreation, and accommodation and food services","25,063","+/-3,015",6.5,+/-0.8
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",44,"Other services, except public administration","17,944","+/-2,867",4.7,+/-0.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",45,Public administration,"13,351","+/-1,755",3.5,+/-0.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",45.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",46,Civilian employed population 16 years and over,"385,586","+/-6,787","385,586",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",47,Private wage and salary workers,"325,512","+/-7,536",84.4,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",48,Government workers,"42,729","+/-3,036",11.1,+/-0.8
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",49,Self-employed in own not incorporated business workers,"16,664","+/-2,101",4.3,+/-0.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",50,Unpaid family workers,681,+/-434,0.2,+/-0.1
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",50.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",51,Total households,"264,998","+/-3,098","264,998",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",52,"Less than $10,000","7,657","+/-1,675",2.9,+/-0.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",53,"$10,000 to $14,999","5,668","+/-1,407",2.1,+/-0.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",54,"$15,000 to $24,999","11,990","+/-2,028",4.5,+/-0.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",55,"$25,000 to $34,999","13,960","+/-1,550",5.3,+/-0.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",56,"$35,000 to $49,999","25,453","+/-2,341",9.6,+/-0.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",57,"$50,000 to $74,999","42,283","+/-2,757",16.0,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",58,"$75,000 to $99,999","38,376","+/-3,372",14.5,+/-1.3
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",59,"$100,000 to $149,999","58,778","+/-4,087",22.2,+/-1.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",60,"$150,000 to $199,999","33,038","+/-3,278",12.5,+/-1.2
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",61,"$200,000 or more","27,795","+/-2,553",10.5,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",62,Median household income (dollars),"90,836","+/-3,078",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",63,Mean household income (dollars),"110,850","+/-2,777",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",63.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",64,With earnings,"221,306","+/-3,782",83.5,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",65,Mean earnings (dollars),"111,259","+/-3,353",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",66,With Social Security,"70,174","+/-2,794",26.5,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",67,Mean Social Security income (dollars),"23,257",+/-710,(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",68,With retirement income,"60,780","+/-3,272",22.9,+/-1.2
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",69,Mean retirement income (dollars),"26,341","+/-1,489",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",69.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",70,With Supplemental Security Income,"7,850","+/-1,527",3.0,+/-0.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",71,Mean Supplemental Security Income (dollars),"11,884","+/-1,222",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",72,With cash public assistance income,"8,611","+/-1,967",3.2,+/-0.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",73,Mean cash public assistance income (dollars),"5,854","+/-1,549",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",74,With Food Stamp/SNAP benefits in the past 12 months,"13,753","+/-2,128",5.2,+/-0.8
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",74.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",75,Families,"187,978","+/-3,249","187,978",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",76,"Less than $10,000","3,615","+/-1,163",1.9,+/-0.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",77,"$10,000 to $14,999","1,913",+/-783,1.0,+/-0.4
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",78,"$15,000 to $24,999","3,470","+/-1,137",1.8,+/-0.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",79,"$25,000 to $34,999","6,572","+/-1,251",3.5,+/-0.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",80,"$35,000 to $49,999","13,198","+/-2,085",7.0,+/-1.1
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",81,"$50,000 to $74,999","28,087","+/-2,710",14.9,+/-1.4
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",82,"$75,000 to $99,999","27,385","+/-2,684",14.6,+/-1.4
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",83,"$100,000 to $149,999","49,503","+/-3,889",26.3,+/-2.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",84,"$150,000 to $199,999","28,849","+/-2,942",15.3,+/-1.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",85,"$200,000 or more","25,386","+/-2,620",13.5,+/-1.4
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",86,Median family income (dollars),"107,347","+/-4,122",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",87,Mean family income (dollars),"127,549","+/-3,676",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",87.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",88,Per capita income (dollars),"40,970",+/-918,(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",88.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",89,Nonfamily households,"77,020","+/-3,979","77,020",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",90,Median nonfamily income (dollars),"49,323","+/-4,194",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",91,Mean nonfamily income (dollars),"63,239","+/-3,754",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",91.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",92,Median earnings for workers (dollars),"46,985","+/-1,097",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",93,"Median earnings for male full-time, year-round workers (dollars)","69,590","+/-2,870",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",94,"Median earnings for female full-time, year-round workers (dollars)","54,249","+/-2,191",(X),(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",94.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",95,Civilian noninstitutionalized population,"720,438","+/-5,558","720,438",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",96,With health insurance coverage,"696,665","+/-6,395",96.7,+/-0.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",97,With private health insurance,"582,362","+/-10,915",80.8,+/-1.4
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",98,With public coverage,"204,269","+/-10,033",28.4,+/-1.4
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",99,No health insurance coverage,"23,773","+/-3,769",3.3,+/-0.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",99.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",100,Civilian noninstitutionalized population under 19 years,"197,029","+/-4,002","197,029",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",101,No health insurance coverage,"3,112","+/-1,350",1.6,+/-0.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",101.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",102,Civilian noninstitutionalized population 19 to 64 years,"426,668","+/-4,710","426,668",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",103,In labor force:,"367,160","+/-6,403","367,160",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",104,Employed:,"352,542","+/-6,805","352,542",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",105,With health insurance coverage,"338,377","+/-6,749",96.0,+/-0.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",106,With private health insurance,"315,317","+/-7,257",89.4,+/-1.2
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",107,With public coverage,"34,452","+/-3,461",9.8,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",108,No health insurance coverage,"14,165","+/-2,661",4.0,+/-0.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",109,Unemployed:,"14,618","+/-2,376","14,618",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",110,With health insurance coverage,"11,562","+/-1,972",79.1,+/-7.1
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",111,With private health insurance,"6,818","+/-1,369",46.6,+/-7.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",112,With public coverage,"5,315","+/-1,485",36.4,+/-8.2
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",113,No health insurance coverage,"3,056","+/-1,221",20.9,+/-7.1
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",114,Not in labor force:,"59,508","+/-4,269","59,508",(X)
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",115,With health insurance coverage,"56,090","+/-4,176",94.3,+/-1.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",116,With private health insurance,"38,631","+/-3,118",64.9,+/-3.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",117,With public coverage,"20,979","+/-2,744",35.3,+/-3.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",118,No health insurance coverage,"3,418","+/-1,143",5.7,+/-1.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",118.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",119,All families,(X),(X),4.6,+/-0.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",120,With related children of the householder under 18 years,(X),(X),6.5,+/-1.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",121,With related children of the householder under 5 years only,(X),(X),6.6,+/-4.1
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",122,Married couple families,(X),(X),2.5,+/-0.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",123,With related children of the householder under 18 years,(X),(X),3.0,+/-1.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",124,With related children of the householder under 5 years only,(X),(X),1.9,+/-1.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",125,"Families with female householder, no spouse present",(X),(X),13.0,+/-4.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",126,With related children of the householder under 18 years,(X),(X),16.6,+/-5.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",127,With related children of the householder under 5 years only,(X),(X),28.0,+/-20.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",127.3,,,,,
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",128,All people,(X),(X),7.1,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",129,Under 18 years,(X),(X),8.3,+/-1.7
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",130,Related children of the householder under 18 years,(X),(X),7.3,+/-1.5
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",131,Related children of the householder under 5 years,(X),(X),7.6,+/-1.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",132,Related children of the householder 5 to 17 years,(X),(X),7.2,+/-1.8
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",133,18 years and over,(X),(X),6.8,+/-0.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",134,18 to 64 years,(X),(X),6.8,+/-1.0
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",135,65 years and over,(X),(X),6.5,+/-1.6
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",136,People in families,(X),(X),4.7,+/-0.9
+DP03,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",137,Unrelated individuals 15 years and over,(X),(X),19.2,+/-2.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",0.5,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",1,Population 16 years and over,"564,819","+/-4,053","564,819",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",2,In labor force,"363,244","+/-4,681",64.3,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",3,Civilian labor force,"362,718","+/-4,744",64.2,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",4,Employed,"347,960","+/-4,993",61.6,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",5,Unemployed,"14,758","+/-1,610",2.6,+/-0.3
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",6,Armed Forces,526,+/-231,0.1,+/-0.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",7,Not in labor force,"201,575","+/-3,866",35.7,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",7.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",8,Civilian labor force,"362,718","+/-4,744","362,718",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",9,Unemployment Rate,(X),(X),4.1,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",9.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",10,Females 16 years and over,"280,330","+/-2,626","280,330",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",11,In labor force,"167,708","+/-2,974",59.8,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",12,Civilian labor force,"167,697","+/-2,976",59.8,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",13,Employed,"161,847","+/-3,060",57.7,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",13.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",14,Own children of the householder under 6 years,"46,785","+/-1,547","46,785",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",15,All parents in family in labor force,"36,907","+/-1,831",78.9,+/-2.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",15.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",16,Own children of the householder 6 to 17 years,"107,599","+/-2,423","107,599",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",17,All parents in family in labor force,"85,601","+/-3,212",79.6,+/-2.3
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",17.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",18,Workers 16 years and over,"341,366","+/-4,865","341,366",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",19,"Car, truck, or van -- drove alone","260,707","+/-4,924",76.4,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",20,"Car, truck, or van -- carpooled","26,467","+/-2,194",7.8,+/-0.6
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",21,Public transportation (excluding taxicab),"1,437",+/-659,0.4,+/-0.2
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",22,Walked,"11,812","+/-1,224",3.5,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",23,Other means,"4,904",+/-902,1.4,+/-0.3
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",24,Worked from home,"36,039","+/-2,340",10.6,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",24.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",25,Mean travel time to work (minutes),20.8,+/-0.5,(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",25.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",25.5,OCCUPATION,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",26,Civilian employed population 16 years and over,"347,960","+/-4,993","347,960",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",27,"Management, business, science, and arts occupations","124,381","+/-3,210",35.7,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",28,Service occupations,"54,266","+/-2,833",15.6,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",29,Sales and office occupations,"66,945","+/-2,773",19.2,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",30,"Natural resources, construction, and maintenance occupations","42,162","+/-2,085",12.1,+/-0.6
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",31,"Production, transportation, and material moving occupations","60,206","+/-2,647",17.3,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",31.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",31.5,INDUSTRY,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",32,Civilian employed population 16 years and over,"347,960","+/-4,993","347,960",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",33,"Agriculture, forestry, fishing and hunting, and mining","24,209","+/-1,730",7.0,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",34,Construction,"27,605","+/-1,824",7.9,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",35,Manufacturing,"52,033","+/-2,428",15.0,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",36,Wholesale trade,"12,210","+/-1,214",3.5,+/-0.3
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",37,Retail trade,"37,190","+/-2,461",10.7,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",38,"Transportation and warehousing, and utilities","18,895","+/-1,509",5.4,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",39,Information,"3,441",+/-580,1.0,+/-0.2
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",40,"Finance and insurance, and real estate and rental and leasing","16,947","+/-1,462",4.9,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",41,"Professional, scientific, and management, and administrative and waste management services","21,330","+/-1,896",6.1,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",42,"Educational services, and health care and social assistance","86,585","+/-3,350",24.9,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",43,"Arts, entertainment, and recreation, and accommodation and food services","17,447","+/-1,544",5.0,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",44,"Other services, except public administration","16,703","+/-1,647",4.8,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",45,Public administration,"13,365","+/-1,509",3.8,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",45.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",46,Civilian employed population 16 years and over,"347,960","+/-4,993","347,960",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",47,Private wage and salary workers,"272,283","+/-5,188",78.3,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",48,Government workers,"47,389","+/-2,698",13.6,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",49,Self-employed in own not incorporated business workers,"27,266","+/-1,482",7.8,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",50,Unpaid family workers,"1,022",+/-370,0.3,+/-0.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",50.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",51,Total households,"292,792","+/-3,065","292,792",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",52,"Less than $10,000","15,376","+/-1,599",5.3,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",53,"$10,000 to $14,999","11,875","+/-1,327",4.1,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",54,"$15,000 to $24,999","21,983","+/-1,503",7.5,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",55,"$25,000 to $34,999","26,039","+/-2,229",8.9,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",56,"$35,000 to $49,999","37,158","+/-2,376",12.7,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",57,"$50,000 to $74,999","53,895","+/-2,704",18.4,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",58,"$75,000 to $99,999","44,390","+/-2,253",15.2,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",59,"$100,000 to $149,999","49,792","+/-2,093",17.0,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",60,"$150,000 to $199,999","17,302","+/-1,331",5.9,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",61,"$200,000 or more","14,982","+/-1,279",5.1,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",62,Median household income (dollars),"64,737","+/-1,565",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",63,Mean household income (dollars),"81,732","+/-1,593",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",63.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",64,With earnings,"219,014","+/-3,348",74.8,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",65,Mean earnings (dollars),"82,612","+/-1,764",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",66,With Social Security,"105,094","+/-2,208",35.9,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",67,Mean Social Security income (dollars),"20,594",+/-398,(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",68,With retirement income,"70,878","+/-2,272",24.2,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",69,Mean retirement income (dollars),"23,608","+/-1,460",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",69.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",70,With Supplemental Security Income,"12,886","+/-1,372",4.4,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",71,Mean Supplemental Security Income (dollars),"10,448",+/-643,(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",72,With cash public assistance income,"11,335","+/-1,471",3.9,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",73,Mean cash public assistance income (dollars),"3,353",+/-512,(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",74,With Food Stamp/SNAP benefits in the past 12 months,"24,494","+/-1,980",8.4,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",74.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",75,Families,"189,419","+/-3,563","189,419",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",76,"Less than $10,000","4,884","+/-1,069",2.6,+/-0.6
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",77,"$10,000 to $14,999","2,253",+/-515,1.2,+/-0.3
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",78,"$15,000 to $24,999","8,575","+/-1,171",4.5,+/-0.6
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",79,"$25,000 to $34,999","12,963","+/-1,383",6.8,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",80,"$35,000 to $49,999","20,354","+/-1,638",10.7,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",81,"$50,000 to $74,999","34,371","+/-2,060",18.1,+/-1.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",82,"$75,000 to $99,999","34,041","+/-1,835",18.0,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",83,"$100,000 to $149,999","42,787","+/-2,010",22.6,+/-1.0
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",84,"$150,000 to $199,999","15,636","+/-1,239",8.3,+/-0.6
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",85,"$200,000 or more","13,555","+/-1,191",7.2,+/-0.6
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",86,Median family income (dollars),"82,288","+/-1,606",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",87,Mean family income (dollars),"99,276","+/-1,994",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",87.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",88,Per capita income (dollars),"34,325",+/-686,(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",88.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",89,Nonfamily households,"103,373","+/-3,194","103,373",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",90,Median nonfamily income (dollars),"35,608","+/-1,388",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",91,Mean nonfamily income (dollars),"45,522","+/-1,587",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",91.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",92,Median earnings for workers (dollars),"39,001",+/-955,(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",93,"Median earnings for male full-time, year-round workers (dollars)","54,578","+/-1,691",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",94,"Median earnings for female full-time, year-round workers (dollars)","43,622","+/-1,452",(X),(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",94.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",95,Civilian noninstitutionalized population,"699,230","+/-4,673","699,230",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",96,With health insurance coverage,"665,485","+/-5,639",95.2,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",97,With private health insurance,"516,981","+/-8,325",73.9,+/-1.0
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",98,With public coverage,"277,025","+/-5,742",39.6,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",99,No health insurance coverage,"33,745","+/-2,876",4.8,+/-0.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",99.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",100,Civilian noninstitutionalized population under 19 years,"171,476","+/-2,406","171,476",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",101,No health insurance coverage,"7,928","+/-1,170",4.6,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",101.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",102,Civilian noninstitutionalized population 19 to 64 years,"384,016","+/-3,886","384,016",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",103,In labor force:,"319,718","+/-4,672","319,718",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",104,Employed:,"307,529","+/-4,723","307,529",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",105,With health insurance coverage,"290,912","+/-4,858",94.6,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",106,With private health insurance,"259,629","+/-5,420",84.4,+/-1.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",107,With public coverage,"42,669","+/-2,769",13.9,+/-0.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",108,No health insurance coverage,"16,617","+/-1,515",5.4,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",109,Unemployed:,"12,189","+/-1,497","12,189",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",110,With health insurance coverage,"9,352","+/-1,184",76.7,+/-6.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",111,With private health insurance,"5,869",+/-998,48.1,+/-7.0
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",112,With public coverage,"3,949",+/-844,32.4,+/-6.0
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",113,No health insurance coverage,"2,837",+/-895,23.3,+/-6.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",114,Not in labor force:,"64,298","+/-3,054","64,298",(X)
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",115,With health insurance coverage,"58,441","+/-2,905",90.9,+/-1.6
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",116,With private health insurance,"33,393","+/-1,973",51.9,+/-2.4
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",117,With public coverage,"30,869","+/-2,120",48.0,+/-2.2
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",118,No health insurance coverage,"5,857","+/-1,062",9.1,+/-1.6
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",118.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",119,All families,(X),(X),6.4,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",120,With related children of the householder under 18 years,(X),(X),10.4,+/-1.6
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",121,With related children of the householder under 5 years only,(X),(X),13.9,+/-4.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",122,Married couple families,(X),(X),3.6,+/-0.5
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",123,With related children of the householder under 18 years,(X),(X),4.6,+/-1.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",124,With related children of the householder under 5 years only,(X),(X),4.4,+/-2.3
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",125,"Families with female householder, no spouse present",(X),(X),22.9,+/-4.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",126,With related children of the householder under 18 years,(X),(X),29.3,+/-5.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",127,With related children of the householder under 5 years only,(X),(X),49.3,+/-15.2
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",127.3,,,,,
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",128,All people,(X),(X),10.9,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",129,Under 18 years,(X),(X),13.4,+/-1.9
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",130,Related children of the householder under 18 years,(X),(X),12.6,+/-1.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",131,Related children of the householder under 5 years,(X),(X),14.5,+/-2.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",132,Related children of the householder 5 to 17 years,(X),(X),12.0,+/-2.0
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",133,18 years and over,(X),(X),10.1,+/-0.7
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",134,18 to 64 years,(X),(X),9.9,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",135,65 years and over,(X),(X),10.7,+/-1.1
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",136,People in families,(X),(X),7.3,+/-0.8
+DP03,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",137,Unrelated individuals 15 years and over,(X),(X),24.6,+/-1.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",0.5,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",1,Population 16 years and over,"586,037","+/-2,795","586,037",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",2,In labor force,"352,410","+/-4,511",60.1,+/-0.7
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",3,Civilian labor force,"351,484","+/-4,541",60.0,+/-0.7
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",4,Employed,"333,902","+/-4,649",57.0,+/-0.7
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",5,Unemployed,"17,582","+/-1,897",3.0,+/-0.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",6,Armed Forces,926,+/-481,0.2,+/-0.1
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",7,Not in labor force,"233,627","+/-4,105",39.9,+/-0.7
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",7.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",8,Civilian labor force,"351,484","+/-4,541","351,484",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",9,Unemployment Rate,(X),(X),5.0,+/-0.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",9.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",10,Females 16 years and over,"289,924","+/-1,972","289,924",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",11,In labor force,"167,269","+/-3,185",57.7,+/-1.0
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",12,Civilian labor force,"167,001","+/-3,200",57.6,+/-1.0
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",13,Employed,"160,295","+/-3,187",55.3,+/-1.0
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",13.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",14,Own children of the householder under 6 years,"42,660","+/-1,465","42,660",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",15,All parents in family in labor force,"30,835","+/-1,858",72.3,+/-3.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",15.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",16,Own children of the householder 6 to 17 years,"99,120","+/-2,526","99,120",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",17,All parents in family in labor force,"77,492","+/-3,410",78.2,+/-2.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",17.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",18,Workers 16 years and over,"328,317","+/-4,704","328,317",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",19,"Car, truck, or van -- drove alone","242,150","+/-4,883",73.8,+/-1.1
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",20,"Car, truck, or van -- carpooled","23,049","+/-2,121",7.0,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",21,Public transportation (excluding taxicab),"2,552",+/-950,0.8,+/-0.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",22,Walked,"9,087","+/-1,324",2.8,+/-0.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",23,Other means,"4,806","+/-1,002",1.5,+/-0.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",24,Worked from home,"46,673","+/-2,970",14.2,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",24.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",25,Mean travel time to work (minutes),24.6,+/-0.6,(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",25.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",25.5,OCCUPATION,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",26,Civilian employed population 16 years and over,"333,902","+/-4,649","333,902",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",27,"Management, business, science, and arts occupations","123,472","+/-4,147",37.0,+/-1.1
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",28,Service occupations,"59,488","+/-3,471",17.8,+/-1.0
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",29,Sales and office occupations,"65,033","+/-3,340",19.5,+/-1.0
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",30,"Natural resources, construction, and maintenance occupations","38,801","+/-2,443",11.6,+/-0.7
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",31,"Production, transportation, and material moving occupations","47,108","+/-2,556",14.1,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",31.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",31.5,INDUSTRY,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",32,Civilian employed population 16 years and over,"333,902","+/-4,649","333,902",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",33,"Agriculture, forestry, fishing and hunting, and mining","8,804","+/-1,176",2.6,+/-0.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",34,Construction,"30,546","+/-2,381",9.1,+/-0.7
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",35,Manufacturing,"37,065","+/-2,790",11.1,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",36,Wholesale trade,"6,877","+/-1,214",2.1,+/-0.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",37,Retail trade,"36,500","+/-2,561",10.9,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",38,"Transportation and warehousing, and utilities","18,422","+/-1,794",5.5,+/-0.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",39,Information,"3,373",+/-619,1.0,+/-0.2
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",40,"Finance and insurance, and real estate and rental and leasing","19,969","+/-1,843",6.0,+/-0.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",41,"Professional, scientific, and management, and administrative and waste management services","25,552","+/-1,973",7.7,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",42,"Educational services, and health care and social assistance","86,220","+/-3,624",25.8,+/-1.1
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",43,"Arts, entertainment, and recreation, and accommodation and food services","29,198","+/-2,695",8.7,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",44,"Other services, except public administration","14,376","+/-1,492",4.3,+/-0.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",45,Public administration,"17,000","+/-1,380",5.1,+/-0.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",45.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",45.5,CLASS OF WORKER,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",46,Civilian employed population 16 years and over,"333,902","+/-4,649","333,902",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",47,Private wage and salary workers,"261,718","+/-4,821",78.4,+/-1.0
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",48,Government workers,"49,566","+/-2,762",14.8,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",49,Self-employed in own not incorporated business workers,"21,917","+/-1,859",6.6,+/-0.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",50,Unpaid family workers,701,+/-366,0.2,+/-0.1
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",50.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",51,Total households,"294,139","+/-3,841","294,139",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",52,"Less than $10,000","14,653","+/-1,211",5.0,+/-0.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",53,"$10,000 to $14,999","11,064","+/-1,355",3.8,+/-0.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",54,"$15,000 to $24,999","21,707","+/-1,756",7.4,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",55,"$25,000 to $34,999","24,090","+/-1,935",8.2,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",56,"$35,000 to $49,999","36,518","+/-2,366",12.4,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",57,"$50,000 to $74,999","55,315","+/-2,880",18.8,+/-1.0
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",58,"$75,000 to $99,999","42,388","+/-2,504",14.4,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",59,"$100,000 to $149,999","51,875","+/-2,521",17.6,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",60,"$150,000 to $199,999","20,014","+/-1,932",6.8,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",61,"$200,000 or more","16,515","+/-1,676",5.6,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",62,Median household income (dollars),"67,313","+/-1,605",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",63,Mean household income (dollars),"86,301","+/-1,756",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",63.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",64,With earnings,"212,369","+/-3,550",72.2,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",65,Mean earnings (dollars),"87,357","+/-2,251",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",66,With Social Security,"110,366","+/-2,480",37.5,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",67,Mean Social Security income (dollars),"22,188",+/-599,(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",68,With retirement income,"87,682","+/-2,766",29.8,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",69,Mean retirement income (dollars),"26,496","+/-1,022",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",69.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",70,With Supplemental Security Income,"14,995","+/-1,525",5.1,+/-0.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",71,Mean Supplemental Security Income (dollars),"11,391",+/-579,(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",72,With cash public assistance income,"10,055","+/-1,158",3.4,+/-0.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",73,Mean cash public assistance income (dollars),"4,137",+/-556,(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",74,With Food Stamp/SNAP benefits in the past 12 months,"25,528","+/-1,773",8.7,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",74.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",75,Families,"184,560","+/-3,672","184,560",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",76,"Less than $10,000","5,013",+/-962,2.7,+/-0.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",77,"$10,000 to $14,999","2,750",+/-688,1.5,+/-0.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",78,"$15,000 to $24,999","8,366","+/-1,324",4.5,+/-0.7
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",79,"$25,000 to $34,999","9,761","+/-1,156",5.3,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",80,"$35,000 to $49,999","20,980","+/-1,828",11.4,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",81,"$50,000 to $74,999","34,729","+/-2,304",18.8,+/-1.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",82,"$75,000 to $99,999","30,076","+/-1,994",16.3,+/-1.0
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",83,"$100,000 to $149,999","40,877","+/-2,162",22.1,+/-1.1
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",84,"$150,000 to $199,999","17,343","+/-1,814",9.4,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",85,"$200,000 or more","14,665","+/-1,536",7.9,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",86,Median family income (dollars),"82,437","+/-2,056",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",87,Mean family income (dollars),"103,873","+/-2,685",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",87.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",88,Per capita income (dollars),"35,829",+/-774,(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",88.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",89,Nonfamily households,"109,579","+/-3,477","109,579",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",90,Median nonfamily income (dollars),"39,275","+/-1,571",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",91,Mean nonfamily income (dollars),"51,294","+/-2,252",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",91.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",92,Median earnings for workers (dollars),"39,210","+/-1,197",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",93,"Median earnings for male full-time, year-round workers (dollars)","60,672",+/-853,(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",94,"Median earnings for female full-time, year-round workers (dollars)","47,443","+/-1,635",(X),(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",94.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",95,Civilian noninstitutionalized population,"707,125","+/-4,326","707,125",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",96,With health insurance coverage,"670,534","+/-5,105",94.8,+/-0.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",97,With private health insurance,"503,766","+/-8,471",71.2,+/-1.1
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",98,With public coverage,"301,713","+/-6,609",42.7,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",99,No health insurance coverage,"36,591","+/-3,267",5.2,+/-0.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",99.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",100,Civilian noninstitutionalized population under 19 years,"159,008","+/-2,986","159,008",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",101,No health insurance coverage,"6,415","+/-1,273",4.0,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",101.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",102,Civilian noninstitutionalized population 19 to 64 years,"400,578","+/-3,215","400,578",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",103,In labor force:,"316,734","+/-4,286","316,734",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",104,Employed:,"300,717","+/-4,485","300,717",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",105,With health insurance coverage,"280,659","+/-4,707",93.3,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",106,With private health insurance,"243,923","+/-4,818",81.1,+/-1.1
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",107,With public coverage,"47,278","+/-2,969",15.7,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",108,No health insurance coverage,"20,058","+/-1,937",6.7,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",109,Unemployed:,"16,017","+/-1,760","16,017",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",110,With health insurance coverage,"12,914","+/-1,397",80.6,+/-5.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",111,With private health insurance,"6,148",+/-924,38.4,+/-5.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",112,With public coverage,"7,442","+/-1,130",46.5,+/-5.5
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",113,No health insurance coverage,"3,103","+/-1,017",19.4,+/-5.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",114,Not in labor force:,"83,844","+/-2,833","83,844",(X)
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",115,With health insurance coverage,"77,012","+/-2,726",91.9,+/-1.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",116,With private health insurance,"44,039","+/-2,329",52.5,+/-2.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",117,With public coverage,"40,433","+/-2,564",48.2,+/-2.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",118,No health insurance coverage,"6,832","+/-1,091",8.1,+/-1.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",118.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",119,All families,(X),(X),6.8,+/-0.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",120,With related children of the householder under 18 years,(X),(X),10.8,+/-1.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",121,With related children of the householder under 5 years only,(X),(X),11.7,+/-4.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",122,Married couple families,(X),(X),3.7,+/-0.6
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",123,With related children of the householder under 18 years,(X),(X),4.0,+/-1.2
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",124,With related children of the householder under 5 years only,(X),(X),3.1,+/-2.2
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",125,"Families with female householder, no spouse present",(X),(X),22.0,+/-4.2
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",126,With related children of the householder under 18 years,(X),(X),30.2,+/-5.7
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",127,With related children of the householder under 5 years only,(X),(X),46.1,+/-17.8
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",127.3,,,,,
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",128,All people,(X),(X),11.4,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",129,Under 18 years,(X),(X),13.6,+/-2.2
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",130,Related children of the householder under 18 years,(X),(X),13.1,+/-2.2
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",131,Related children of the householder under 5 years,(X),(X),16.4,+/-4.4
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",132,Related children of the householder 5 to 17 years,(X),(X),12.0,+/-2.3
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",133,18 years and over,(X),(X),10.8,+/-0.7
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",134,18 to 64 years,(X),(X),11.7,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",135,65 years and over,(X),(X),8.3,+/-0.9
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",136,People in families,(X),(X),7.6,+/-1.0
+DP03,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",137,Unrelated individuals 15 years and over,(X),(X),23.8,+/-1.6

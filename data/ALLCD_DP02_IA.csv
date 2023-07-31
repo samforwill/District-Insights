@@ -1,0 +1,801 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",0.5,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",1,Total households,"322,535","+/-3,014","322,535",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",2,Married-couple household,"158,744","+/-4,622",49.2,+/-1.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",3,With children of the householder under 18 years,"60,302","+/-3,169",18.7,+/-0.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",4,Cohabiting couple household,"26,795","+/-2,841",8.3,+/-0.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",5,With children of the householder under 18 years,"7,505","+/-1,453",2.3,+/-0.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",6,"Male householder, no spouse/partner present","59,347","+/-3,246",18.4,+/-1.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",7,With children of the householder under 18 years,"4,521",+/-966,1.4,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",8,Householder living alone,"45,619","+/-3,089",14.1,+/-1.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",9,65 years and over,"13,555","+/-1,466",4.2,+/-0.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",10,"Female householder, no spouse/partner present","77,649","+/-3,543",24.1,+/-1.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",11,With children of the householder under 18 years,"12,417","+/-1,920",3.8,+/-0.6
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",12,Householder living alone,"50,274","+/-2,921",15.6,+/-0.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",13,65 years and over,"25,013","+/-1,775",7.8,+/-0.6
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",13.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",14,Households with one or more people under 18 years,"90,335","+/-3,671",28.0,+/-1.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",15,Households with one or more people 65 years and over,"98,675","+/-2,133",30.6,+/-0.6
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",15.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",16,Average household size,2.39,+/-0.02,(X),(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",17,Average family size,2.99,+/-0.05,(X),(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",17.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",17.5,RELATIONSHIP,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",18,Population in households,"771,888","+/-2,554","771,888",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",19,Householder,"322,535","+/-3,014",41.8,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",20,Spouse,"158,860","+/-4,506",20.6,+/-0.6
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",21,Unmarried partner,"26,524","+/-2,505",3.4,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",22,Child,"211,583","+/-5,556",27.4,+/-0.7
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",23,Other relatives,"26,547","+/-3,671",3.4,+/-0.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",24,Other nonrelatives,"25,839","+/-3,780",3.3,+/-0.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",24.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",24.5,MARITAL STATUS,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",25,Males 15 years and over,"324,235","+/-2,342","324,235",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",26,Never married,"113,756","+/-4,161",35.1,+/-1.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",27,"Now married, except separated","165,726","+/-4,708",51.1,+/-1.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",28,Separated,"2,638",+/-753,0.8,+/-0.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",29,Widowed,"8,313","+/-1,255",2.6,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",30,Divorced,"33,802","+/-2,612",10.4,+/-0.8
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",30.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",31,Females 15 years and over,"323,843","+/-2,278","323,843",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",32,Never married,"93,066","+/-3,340",28.7,+/-1.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",33,"Now married, except separated","163,453","+/-5,124",50.5,+/-1.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",34,Separated,"4,231","+/-1,117",1.3,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",35,Widowed,"25,490","+/-1,962",7.9,+/-0.6
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",36,Divorced,"37,603","+/-2,986",11.6,+/-0.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",36.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",36.5,FERTILITY,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,681","+/-1,476","7,681",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",38,"Unmarried women (widowed, divorced, and never married)","2,711",+/-842,35.3,+/-8.6
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",39,"Per 1,000 unmarried women",28,+/-9,(X),(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",40,"Per 1,000 women 15 to 50 years old",43,+/-8,(X),(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",41,"Per 1,000 women 15 to 19 years old",0,+/-5,(X),(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",42,"Per 1,000 women 20 to 34 years old",82,+/-16,(X),(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",43,"Per 1,000 women 35 to 50 years old",18,+/-8,(X),(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",43.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",43.5,GRANDPARENTS,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",44,Number of grandparents living with own grandchildren under 18 years,"9,022","+/-1,652","9,022",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",45,Grandparents responsible for grandchildren,"3,822","+/-1,143",42.4,+/-9.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",46,Less than 1 year,499,+/-351,5.5,+/-4.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",47,1 or 2 years,896,+/-540,9.9,+/-5.7
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",48,3 or 4 years,736,+/-540,8.2,+/-5.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",49,5 or more years,"1,691",+/-761,18.7,+/-7.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",49.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",50,Number of grandparents responsible for own grandchildren under 18 years,"3,822","+/-1,143","3,822",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",51,Who are female,"2,090",+/-634,54.7,+/-6.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",52,Who are married,"2,971","+/-1,065",77.7,+/-10.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",52.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",53,Population 3 years and over enrolled in school,"197,586","+/-3,721","197,586",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",54,"Nursery school, preschool","12,418","+/-1,663",6.3,+/-0.8
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",55,Kindergarten,"12,918","+/-1,978",6.5,+/-1.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",56,Elementary school (grades 1-8),"78,618","+/-3,091",39.8,+/-1.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",57,High school (grades 9-12),"39,570","+/-2,091",20.0,+/-1.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",58,College or graduate school,"54,062","+/-3,145",27.4,+/-1.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",58.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",59,Population 25 years and over,"533,458","+/-2,674","533,458",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",60,Less than 9th grade,"11,462","+/-1,693",2.1,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",61,"9th to 12th grade, no diploma","18,910","+/-1,822",3.5,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",62,High school graduate (includes equivalency),"157,247","+/-4,713",29.5,+/-0.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",63,"Some college, no degree","113,977","+/-4,316",21.4,+/-0.8
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",64,Associate's degree,"62,123","+/-4,059",11.6,+/-0.8
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",65,Bachelor's degree,"110,283","+/-4,787",20.7,+/-0.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",66,Graduate or professional degree,"59,456","+/-3,615",11.1,+/-0.7
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",66.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",67,High school graduate or higher,"503,086","+/-3,672",94.3,+/-0.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",68,Bachelor's degree or higher,"169,739","+/-5,881",31.8,+/-1.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",68.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",68.5,VETERAN STATUS,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",69,Civilian population 18 years and over,"615,002","+/-2,152","615,002",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",70,Civilian veterans,"38,915","+/-2,631",6.3,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",70.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",71,Total Civilian Noninstitutionalized Population,"782,372","+/-2,352","782,372",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",72,With a disability,"106,576","+/-5,709",13.6,+/-0.7
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",72.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",73,Under 18 years,"178,020","+/-1,653","178,020",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",74,With a disability,"9,133","+/-1,852",5.1,+/-1.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",74.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",75,18 to 64 years,"466,572","+/-2,217","466,572",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",76,With a disability,"53,673","+/-3,903",11.5,+/-0.8
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",76.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",77,65 years and over,"137,780","+/-1,694","137,780",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",78,With a disability,"43,770","+/-2,665",31.8,+/-1.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",78.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",79,Population 1 year and over,"787,111","+/-2,600","787,111",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",80,Same house,"678,751","+/-8,289",86.2,+/-1.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",81,Different house (in the U.S. or abroad),"108,360","+/-8,474",13.8,+/-1.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",82,Different house in the U.S.,"104,818","+/-8,426",13.3,+/-1.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",83,Same county,"58,212","+/-6,820",7.4,+/-0.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",84,Different county,"46,606","+/-4,698",5.9,+/-0.6
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",85,Same state,"28,619","+/-4,079",3.6,+/-0.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",86,Different state,"17,987","+/-2,737",2.3,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",87,Abroad,"3,542","+/-1,527",0.5,+/-0.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",87.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",88,Total population,"794,325","+/-2,062","794,325",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",89,Native,"764,312","+/-4,238",96.2,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",90,Born in United States,"756,906","+/-4,420",95.3,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",91,State of residence,"552,488","+/-8,897",69.6,+/-1.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",92,Different state,"204,418","+/-8,476",25.7,+/-1.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","7,406","+/-1,983",0.9,+/-0.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",94,Foreign born,"30,013","+/-3,144",3.8,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",94.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",95,Foreign-born population,"30,013","+/-3,144","30,013",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",96,Naturalized U.S. citizen,"15,560","+/-2,383",51.8,+/-6.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",97,Not a U.S. citizen,"14,453","+/-2,415",48.2,+/-6.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",97.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",98,Population born outside the United States,"37,419","+/-3,495","37,419",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",98.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",99,Native,"7,406","+/-1,983","7,406",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",100,Entered 2010 or later,"2,754","+/-1,512",37.2,+/-14.7
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",101,Entered before 2010,"4,652","+/-1,304",62.8,+/-14.7
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",101.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",102,Foreign born,"30,013","+/-3,144","30,013",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",103,Entered 2010 or later,"11,736","+/-2,391",39.1,+/-6.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",104,Entered before 2010,"18,277","+/-2,356",60.9,+/-6.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",104.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",105,"Foreign-born population, excluding population born at sea","30,013","+/-3,144","30,013",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",106,Europe,"3,533","+/-1,143",11.8,+/-3.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",107,Asia,"11,907","+/-1,900",39.7,+/-5.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",108,Africa,"4,775","+/-1,359",15.9,+/-4.0
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",109,Oceania,996,+/-743,3.3,+/-2.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",110,Latin America,"8,266","+/-1,581",27.5,+/-4.6
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",111,Northern America,536,+/-358,1.8,+/-1.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",111.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",112,Population 5 years and over,"749,664","+/-2,409","749,664",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",113,English only,"700,616","+/-4,525",93.5,+/-0.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",114,Language other than English,"49,048","+/-3,803",6.5,+/-0.5
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",115,"Speak English less than ""very well""","14,563","+/-2,116",1.9,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",116,Spanish,"22,410","+/-2,285",3.0,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",117,"Speak English less than ""very well""","6,240","+/-1,394",0.8,+/-0.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",118,Other Indo-European languages,"8,929","+/-2,512",1.2,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",119,"Speak English less than ""very well""","2,000",+/-896,0.3,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",120,Asian and Pacific Islander languages,"11,462","+/-2,639",1.5,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",121,"Speak English less than ""very well""","3,535","+/-1,013",0.5,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",122,Other languages,"6,247","+/-1,951",0.8,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",123,"Speak English less than ""very well""","2,788","+/-1,406",0.4,+/-0.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",123.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",123.5,ANCESTRY,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",124,Total population,"794,325","+/-2,062","794,325",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",125,American,"32,864","+/-3,254",4.1,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",126,Arab,"2,629","+/-2,067",0.3,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",127,Czech,"11,357","+/-1,854",1.4,+/-0.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",128,Danish,"7,094","+/-1,441",0.9,+/-0.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",129,Dutch,"26,854","+/-3,318",3.4,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",130,English,"90,761","+/-6,695",11.4,+/-0.8
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",131,French (except Basque),"14,235","+/-2,624",1.8,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",132,French Canadian,"1,077",+/-555,0.1,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",133,German,"239,519","+/-9,123",30.2,+/-1.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",134,Greek,"2,485",+/-931,0.3,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",135,Hungarian,918,+/-508,0.1,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",136,Irish,"109,055","+/-6,895",13.7,+/-0.9
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",137,Italian,"14,044","+/-2,224",1.8,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",138,Lithuanian,791,+/-776,0.1,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",139,Norwegian,"20,835","+/-3,144",2.6,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",140,Polish,"12,505","+/-2,200",1.6,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",141,Portuguese,66,+/-78,0.0,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",142,Russian,"2,347",+/-997,0.3,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",143,Scotch-Irish,"4,669","+/-1,072",0.6,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",144,Scottish,"13,478","+/-2,909",1.7,+/-0.4
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",145,Slovak,302,+/-269,0.0,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",146,Subsaharan African,"9,465","+/-2,654",1.2,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",147,Swedish,"16,743","+/-2,064",2.1,+/-0.3
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",148,Swiss,"3,959","+/-1,236",0.5,+/-0.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",149,Ukrainian,707,+/-497,0.1,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",150,Welsh,"6,044","+/-1,470",0.8,+/-0.2
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",151,West Indian (excluding Hispanic origin groups),404,+/-290,0.1,+/-0.1
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",151.3,,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",152,Total households,"322,535","+/-3,014","322,535",(X)
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",153,With a computer,"303,368","+/-3,664",94.1,+/-0.6
+DP02,5001800US1901,"Congressional District 1 (118th Congress), Iowa",154,With a broadband Internet subscription,"283,855","+/-3,976",88.0,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",0.5,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",1,Total households,"328,465","+/-3,432","328,465",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",2,Married-couple household,"162,377","+/-4,786",49.4,+/-1.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",3,With children of the householder under 18 years,"58,760","+/-3,029",17.9,+/-0.9
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",4,Cohabiting couple household,"24,125","+/-2,748",7.3,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",5,With children of the householder under 18 years,"8,272","+/-1,225",2.5,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",6,"Male householder, no spouse/partner present","61,663","+/-2,761",18.8,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",7,With children of the householder under 18 years,"4,094","+/-1,113",1.2,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",8,Householder living alone,"47,176","+/-2,552",14.4,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",9,65 years and over,"13,410","+/-1,295",4.1,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",10,"Female householder, no spouse/partner present","80,300","+/-3,644",24.4,+/-1.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",11,With children of the householder under 18 years,"13,774","+/-1,975",4.2,+/-0.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",12,Householder living alone,"53,716","+/-3,028",16.4,+/-0.9
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",13,65 years and over,"28,637","+/-1,809",8.7,+/-0.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",13.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",14,Households with one or more people under 18 years,"90,237","+/-3,668",27.5,+/-1.0
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",15,Households with one or more people 65 years and over,"104,948","+/-1,937",32.0,+/-0.7
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",15.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",16,Average household size,2.35,+/-0.02,(X),(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",17,Average family size,2.94,+/-0.05,(X),(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",17.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",17.5,RELATIONSHIP,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",18,Population in households,"771,744","+/-2,849","771,744",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",19,Householder,"328,465","+/-3,432",42.6,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",20,Spouse,"161,418","+/-4,585",20.9,+/-0.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",21,Unmarried partner,"24,757","+/-2,668",3.2,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",22,Child,"212,813","+/-4,690",27.6,+/-0.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",23,Other relatives,"22,687","+/-4,340",2.9,+/-0.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",24,Other nonrelatives,"21,604","+/-3,680",2.8,+/-0.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",24.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",24.5,MARITAL STATUS,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",25,Males 15 years and over,"320,606","+/-1,617","320,606",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",26,Never married,"112,017","+/-3,345",34.9,+/-1.0
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",27,"Now married, except separated","169,145","+/-4,395",52.8,+/-1.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",28,Separated,"3,088",+/-748,1.0,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",29,Widowed,"7,556","+/-1,097",2.4,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",30,Divorced,"28,800","+/-2,286",9.0,+/-0.7
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",30.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",31,Females 15 years and over,"327,088","+/-1,590","327,088",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",32,Never married,"90,392","+/-3,239",27.6,+/-1.0
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",33,"Now married, except separated","165,929","+/-4,860",50.7,+/-1.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",34,Separated,"3,347",+/-868,1.0,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",35,Widowed,"28,954","+/-1,864",8.9,+/-0.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",36,Divorced,"38,466","+/-3,016",11.8,+/-0.9
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",36.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",36.5,FERTILITY,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"10,176","+/-1,717","10,176",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",38,"Unmarried women (widowed, divorced, and never married)","3,520",+/-989,34.6,+/-7.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",39,"Per 1,000 unmarried women",37,+/-10,(X),(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",40,"Per 1,000 women 15 to 50 years old",58,+/-10,(X),(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",41,"Per 1,000 women 15 to 19 years old",11,+/-10,(X),(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",42,"Per 1,000 women 20 to 34 years old",103,+/-17,(X),(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",43,"Per 1,000 women 35 to 50 years old",32,+/-14,(X),(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",43.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",43.5,GRANDPARENTS,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",44,Number of grandparents living with own grandchildren under 18 years,"8,667","+/-1,933","8,667",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",45,Grandparents responsible for grandchildren,"3,059",+/-884,35.3,+/-7.0
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",46,Less than 1 year,844,+/-455,9.7,+/-5.0
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",47,1 or 2 years,610,+/-387,7.0,+/-4.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",48,3 or 4 years,119,+/-112,1.4,+/-1.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",49,5 or more years,"1,486",+/-729,17.1,+/-7.7
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",49.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",50,Number of grandparents responsible for own grandchildren under 18 years,"3,059",+/-884,"3,059",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",51,Who are female,"2,252",+/-786,73.6,+/-9.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",52,Who are married,"2,491",+/-877,81.4,+/-9.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",52.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",53,Population 3 years and over enrolled in school,"190,485","+/-4,135","190,485",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",54,"Nursery school, preschool","11,504","+/-1,695",6.0,+/-0.9
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",55,Kindergarten,"9,804","+/-1,274",5.1,+/-0.7
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",56,Elementary school (grades 1-8),"81,160","+/-2,311",42.6,+/-1.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",57,High school (grades 9-12),"41,594","+/-1,822",21.8,+/-1.0
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",58,College or graduate school,"46,423","+/-3,266",24.4,+/-1.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",58.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",59,Population 25 years and over,"537,489","+/-2,251","537,489",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",60,Less than 9th grade,"12,653","+/-2,010",2.4,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",61,"9th to 12th grade, no diploma","18,835","+/-2,285",3.5,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",62,High school graduate (includes equivalency),"168,839","+/-5,394",31.4,+/-1.0
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",63,"Some college, no degree","108,879","+/-5,093",20.3,+/-0.9
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",64,Associate's degree,"71,639","+/-4,403",13.3,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",65,Bachelor's degree,"106,779","+/-5,367",19.9,+/-1.0
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",66,Graduate or professional degree,"49,865","+/-3,838",9.3,+/-0.7
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",66.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",67,High school graduate or higher,"506,001","+/-3,381",94.1,+/-0.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",68,Bachelor's degree or higher,"156,644","+/-6,547",29.1,+/-1.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",68.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",68.5,VETERAN STATUS,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",69,Civilian population 18 years and over,"615,500","+/-1,570","615,500",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",70,Civilian veterans,"46,128","+/-2,328",7.5,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",70.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",71,Total Civilian Noninstitutionalized Population,"786,496","+/-2,209","786,496",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",72,With a disability,"95,452","+/-5,469",12.1,+/-0.7
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",72.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",73,Under 18 years,"177,835","+/-1,157","177,835",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",74,With a disability,"8,136","+/-1,728",4.6,+/-1.0
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",74.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",75,18 to 64 years,"461,741","+/-1,794","461,741",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",76,With a disability,"46,872","+/-4,126",10.2,+/-0.9
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",76.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",77,65 years and over,"146,920","+/-1,707","146,920",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",78,With a disability,"40,444","+/-2,615",27.5,+/-1.7
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",78.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",79,Population 1 year and over,"785,431","+/-2,233","785,431",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",80,Same house,"689,467","+/-6,312",87.8,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",81,Different house (in the U.S. or abroad),"95,964","+/-6,195",12.2,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",82,Different house in the U.S.,"94,226","+/-6,243",12.0,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",83,Same county,"51,745","+/-4,970",6.6,+/-0.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",84,Different county,"42,481","+/-4,194",5.4,+/-0.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",85,Same state,"24,804","+/-3,360",3.2,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",86,Different state,"17,677","+/-2,487",2.3,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",87,Abroad,"1,738","+/-1,114",0.2,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",87.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",88,Total population,"794,283","+/-1,896","794,283",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",89,Native,"762,707","+/-4,103",96.0,+/-0.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",90,Born in United States,"757,496","+/-3,741",95.4,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",91,State of residence,"605,052","+/-6,691",76.2,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",92,Different state,"152,444","+/-6,768",19.2,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","5,211","+/-1,181",0.7,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",94,Foreign born,"31,576","+/-3,835",4.0,+/-0.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",94.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",95,Foreign-born population,"31,576","+/-3,835","31,576",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",96,Naturalized U.S. citizen,"15,348","+/-2,226",48.6,+/-6.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",97,Not a U.S. citizen,"16,228","+/-3,251",51.4,+/-6.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",97.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",98,Population born outside the United States,"36,787","+/-3,521","36,787",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",98.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",99,Native,"5,211","+/-1,181","5,211",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",100,Entered 2010 or later,"1,317",+/-841,25.3,+/-13.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",101,Entered before 2010,"3,894",+/-932,74.7,+/-13.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",101.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",102,Foreign born,"31,576","+/-3,835","31,576",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",103,Entered 2010 or later,"12,761","+/-2,742",40.4,+/-5.7
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",104,Entered before 2010,"18,815","+/-2,308",59.6,+/-5.7
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",104.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",106,Europe,N,N,N,N
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",107,Asia,N,N,N,N
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",108,Africa,N,N,N,N
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",109,Oceania,N,N,N,N
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",110,Latin America,N,N,N,N
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",111,Northern America,N,N,N,N
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",111.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",112,Population 5 years and over,"748,450","+/-2,067","748,450",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",113,English only,"703,588","+/-4,306",94.0,+/-0.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",114,Language other than English,"44,862","+/-3,958",6.0,+/-0.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",115,"Speak English less than ""very well""","15,427","+/-2,136",2.1,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",116,Spanish,"17,972","+/-1,788",2.4,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",117,"Speak English less than ""very well""","5,782",+/-919,0.8,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",118,Other Indo-European languages,"13,062","+/-2,586",1.7,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",119,"Speak English less than ""very well""","3,554","+/-1,283",0.5,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",120,Asian and Pacific Islander languages,"8,745","+/-1,638",1.2,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",121,"Speak English less than ""very well""","4,730","+/-1,492",0.6,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",122,Other languages,"5,083","+/-1,708",0.7,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",123,"Speak English less than ""very well""","1,361",+/-708,0.2,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",123.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",123.5,ANCESTRY,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",124,Total population,"794,283","+/-1,896","794,283",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",125,American,"35,375","+/-3,872",4.5,+/-0.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",126,Arab,"3,948","+/-2,757",0.5,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",127,Czech,"24,685","+/-3,221",3.1,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",128,Danish,"8,094","+/-1,584",1.0,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",129,Dutch,"14,893","+/-2,705",1.9,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",130,English,"71,454","+/-4,801",9.0,+/-0.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",131,French (except Basque),"13,158","+/-2,827",1.7,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",132,French Canadian,"1,884",+/-757,0.2,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",133,German,"298,117","+/-10,292",37.5,+/-1.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",134,Greek,"1,009",+/-425,0.1,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",135,Hungarian,635,+/-356,0.1,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",136,Irish,"102,257","+/-6,694",12.9,+/-0.8
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",137,Italian,"11,275","+/-2,650",1.4,+/-0.3
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",138,Lithuanian,544,+/-409,0.1,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",139,Norwegian,"42,360","+/-4,036",5.3,+/-0.5
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",140,Polish,"7,856","+/-1,864",1.0,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",141,Portuguese,420,+/-278,0.1,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",142,Russian,"2,147",+/-803,0.3,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",143,Scotch-Irish,"5,088","+/-1,931",0.6,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",144,Scottish,"9,007","+/-1,559",1.1,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",145,Slovak,"1,126",+/-800,0.1,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",146,Subsaharan African,"8,592","+/-3,477",1.1,+/-0.4
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",147,Swedish,"10,349","+/-1,423",1.3,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",148,Swiss,"3,334",+/-913,0.4,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",149,Ukrainian,591,+/-408,0.1,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",150,Welsh,"4,193","+/-1,509",0.5,+/-0.2
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",151,West Indian (excluding Hispanic origin groups),"1,254","+/-1,173",0.2,+/-0.1
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",151.3,,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",152,Total households,"328,465","+/-3,432","328,465",(X)
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",153,With a computer,"307,896","+/-4,225",93.7,+/-0.6
+DP02,5001800US1902,"Congressional District 2 (118th Congress), Iowa",154,With a broadband Internet subscription,"294,516","+/-4,040",89.7,+/-0.7
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",0.5,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",1,Total households,"328,779","+/-3,200","328,779",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",2,Married-couple household,"157,911","+/-4,517",48.0,+/-1.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",3,With children of the householder under 18 years,"66,534","+/-3,813",20.2,+/-1.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",4,Cohabiting couple household,"24,434","+/-2,599",7.4,+/-0.8
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",5,With children of the householder under 18 years,"7,721","+/-1,268",2.3,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",6,"Male householder, no spouse/partner present","62,895","+/-3,694",19.1,+/-1.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",7,With children of the householder under 18 years,"5,452","+/-1,274",1.7,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",8,Householder living alone,"46,273","+/-3,314",14.1,+/-1.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",9,65 years and over,"10,560","+/-1,461",3.2,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",10,"Female householder, no spouse/partner present","83,539","+/-4,078",25.4,+/-1.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",11,With children of the householder under 18 years,"15,547","+/-2,259",4.7,+/-0.7
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",12,Householder living alone,"53,027","+/-3,248",16.1,+/-1.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",13,65 years and over,"24,411","+/-2,094",7.4,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",13.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",14,Households with one or more people under 18 years,"101,215","+/-4,570",30.8,+/-1.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",15,Households with one or more people 65 years and over,"88,814","+/-2,075",27.0,+/-0.7
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",15.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",16,Average household size,2.41,+/-0.02,(X),(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",17,Average family size,3.05,+/-0.05,(X),(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",17.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",17.5,RELATIONSHIP,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",18,Population in households,"793,920","+/-3,544","793,920",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",19,Householder,"328,779","+/-3,200",41.4,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",20,Spouse,"157,707","+/-4,578",19.9,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",21,Unmarried partner,"24,803","+/-2,743",3.1,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",22,Child,"228,302","+/-4,566",28.8,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",23,Other relatives,"32,658","+/-4,729",4.1,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",24,Other nonrelatives,"21,671","+/-3,218",2.7,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",24.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",24.5,MARITAL STATUS,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",25,Males 15 years and over,"319,811","+/-2,183","319,811",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",26,Never married,"111,615","+/-4,215",34.9,+/-1.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",27,"Now married, except separated","168,402","+/-5,105",52.7,+/-1.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",28,Separated,"3,383","+/-1,091",1.1,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",29,Widowed,"7,271","+/-1,150",2.3,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",30,Divorced,"29,140","+/-2,236",9.1,+/-0.7
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",30.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",31,Females 15 years and over,"324,412","+/-1,537","324,412",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",32,Never married,"92,763","+/-3,543",28.6,+/-1.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",33,"Now married, except separated","160,765","+/-5,185",49.6,+/-1.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",34,Separated,"3,722","+/-1,061",1.1,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",35,Widowed,"26,917","+/-2,789",8.3,+/-0.9
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",36,Divorced,"40,245","+/-2,966",12.4,+/-0.9
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",36.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",36.5,FERTILITY,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"10,287","+/-1,384","10,287",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",38,"Unmarried women (widowed, divorced, and never married)","2,416",+/-804,23.5,+/-7.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",39,"Per 1,000 unmarried women",24,+/-8,(X),(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",40,"Per 1,000 women 15 to 50 years old",54,+/-7,(X),(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",41,"Per 1,000 women 15 to 19 years old",3,+/-4,(X),(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",42,"Per 1,000 women 20 to 34 years old",88,+/-17,(X),(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",43,"Per 1,000 women 35 to 50 years old",37,+/-13,(X),(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",43.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",43.5,GRANDPARENTS,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",44,Number of grandparents living with own grandchildren under 18 years,"9,379","+/-1,976","9,379",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",45,Grandparents responsible for grandchildren,"2,597","+/-1,056",27.7,+/-8.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",46,Less than 1 year,589,+/-602,6.3,+/-6.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",47,1 or 2 years,433,+/-313,4.6,+/-3.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",48,3 or 4 years,257,+/-250,2.7,+/-2.7
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",49,5 or more years,"1,318",+/-777,14.1,+/-7.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",49.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",50,Number of grandparents responsible for own grandchildren under 18 years,"2,597","+/-1,056","2,597",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",51,Who are female,"1,094",+/-469,42.1,+/-11.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",52,Who are married,"1,926",+/-965,74.2,+/-15.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",52.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",53,Population 3 years and over enrolled in school,"194,390","+/-4,528","194,390",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",54,"Nursery school, preschool","11,768","+/-2,243",6.1,+/-1.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",55,Kindergarten,"11,529","+/-1,998",5.9,+/-1.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",56,Elementary school (grades 1-8),"86,946","+/-2,885",44.7,+/-1.7
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",57,High school (grades 9-12),"44,390","+/-1,898",22.8,+/-1.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",58,College or graduate school,"39,757","+/-3,480",20.5,+/-1.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",58.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",59,Population 25 years and over,"543,478","+/-2,107","543,478",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",60,Less than 9th grade,"18,134","+/-2,641",3.3,+/-0.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",61,"9th to 12th grade, no diploma","20,088","+/-2,417",3.7,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",62,High school graduate (includes equivalency),"151,137","+/-5,905",27.8,+/-1.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",63,"Some college, no degree","109,173","+/-5,692",20.1,+/-1.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",64,Associate's degree,"54,867","+/-3,645",10.1,+/-0.7
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",65,Bachelor's degree,"130,324","+/-5,952",24.0,+/-1.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",66,Graduate or professional degree,"59,755","+/-4,438",11.0,+/-0.8
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",66.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",67,High school graduate or higher,"505,256","+/-4,055",93.0,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",68,Bachelor's degree or higher,"190,079","+/-6,523",35.0,+/-1.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",68.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",68.5,VETERAN STATUS,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",69,Civilian population 18 years and over,"608,457","+/-2,642","608,457",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",70,Civilian veterans,"36,679","+/-3,269",6.0,+/-0.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",70.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",71,Total Civilian Noninstitutionalized Population,"798,751","+/-3,527","798,751",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",72,With a disability,"93,026","+/-4,865",11.6,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",72.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",73,Under 18 years,"198,107","+/-1,398","198,107",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",74,With a disability,"8,266","+/-1,940",4.2,+/-1.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",74.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",75,18 to 64 years,"480,400","+/-3,074","480,400",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",76,With a disability,"46,123","+/-3,934",9.6,+/-0.8
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",76.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",77,65 years and over,"120,244",+/-980,"120,244",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",78,With a disability,"38,637","+/-2,797",32.1,+/-2.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",78.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",79,Population 1 year and over,"800,201","+/-2,855","800,201",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",80,Same house,"674,753","+/-9,756",84.3,+/-1.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",81,Different house (in the U.S. or abroad),"125,448","+/-9,424",15.7,+/-1.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",82,Different house in the U.S.,"123,463","+/-9,336",15.4,+/-1.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",83,Same county,"68,670","+/-6,985",8.6,+/-0.9
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",84,Different county,"54,793","+/-6,508",6.8,+/-0.8
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",85,Same state,"33,533","+/-3,989",4.2,+/-0.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",86,Different state,"21,260","+/-5,416",2.7,+/-0.7
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",87,Abroad,"1,985","+/-1,052",0.2,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",87.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",88,Total population,"809,127","+/-2,604","809,127",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",89,Native,"745,051","+/-5,210",92.1,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",90,Born in United States,"738,339","+/-5,964",91.3,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",91,State of residence,"556,911","+/-8,265",68.8,+/-1.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",92,Different state,"181,428","+/-7,841",22.4,+/-1.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","6,712","+/-2,026",0.8,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",94,Foreign born,"64,076","+/-4,444",7.9,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",94.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",95,Foreign-born population,"64,076","+/-4,444","64,076",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",96,Naturalized U.S. citizen,"33,272","+/-3,419",51.9,+/-4.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",97,Not a U.S. citizen,"30,804","+/-3,729",48.1,+/-4.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",97.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",98,Population born outside the United States,"70,788","+/-5,099","70,788",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",98.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",99,Native,"6,712","+/-2,026","6,712",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",100,Entered 2010 or later,"1,823","+/-1,128",27.2,+/-13.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",101,Entered before 2010,"4,889","+/-1,515",72.8,+/-13.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",101.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",102,Foreign born,"64,076","+/-4,444","64,076",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",103,Entered 2010 or later,"24,532","+/-4,227",38.3,+/-5.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",104,Entered before 2010,"39,544","+/-3,278",61.7,+/-5.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",104.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",106,Europe,N,N,N,N
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",107,Asia,N,N,N,N
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",108,Africa,N,N,N,N
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",109,Oceania,N,N,N,N
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",110,Latin America,N,N,N,N
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",111,Northern America,N,N,N,N
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",111.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",112,Population 5 years and over,"756,820","+/-2,567","756,820",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",113,English only,"665,274","+/-7,186",87.9,+/-0.9
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",114,Language other than English,"91,546","+/-6,597",12.1,+/-0.9
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",115,"Speak English less than ""very well""","36,872","+/-4,281",4.9,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",116,Spanish,"37,344","+/-3,212",4.9,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",117,"Speak English less than ""very well""","14,297","+/-2,235",1.9,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",118,Other Indo-European languages,"22,192","+/-4,210",2.9,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",119,"Speak English less than ""very well""","6,018","+/-1,781",0.8,+/-0.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",120,Asian and Pacific Islander languages,"17,375","+/-2,505",2.3,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",121,"Speak English less than ""very well""","9,599","+/-2,170",1.3,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",122,Other languages,"14,635","+/-3,733",1.9,+/-0.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",123,"Speak English less than ""very well""","6,958","+/-2,520",0.9,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",123.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",123.5,ANCESTRY,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",124,Total population,"809,127","+/-2,604","809,127",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",125,American,"34,138","+/-4,461",4.2,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",126,Arab,"4,574","+/-2,091",0.6,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",127,Czech,"4,456","+/-1,126",0.6,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",128,Danish,"11,089","+/-2,020",1.4,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",129,Dutch,"24,712","+/-4,027",3.1,+/-0.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",130,English,"97,350","+/-6,957",12.0,+/-0.9
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",131,French (except Basque),"11,644","+/-2,855",1.4,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",132,French Canadian,"1,090",+/-623,0.1,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",133,German,"210,074","+/-8,984",26.0,+/-1.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",134,Greek,"1,835","+/-1,086",0.2,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",135,Hungarian,"2,240","+/-2,413",0.3,+/-0.3
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",136,Irish,"101,830","+/-8,091",12.6,+/-1.0
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",137,Italian,"21,768","+/-4,075",2.7,+/-0.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",138,Lithuanian,716,+/-468,0.1,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",139,Norwegian,"26,994","+/-3,980",3.3,+/-0.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",140,Polish,"9,501","+/-2,020",1.2,+/-0.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",141,Portuguese,585,+/-412,0.1,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",142,Russian,"2,065",+/-844,0.3,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",143,Scotch-Irish,"5,547","+/-1,288",0.7,+/-0.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",144,Scottish,"12,156","+/-1,861",1.5,+/-0.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",145,Slovak,729,+/-486,0.1,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",146,Subsaharan African,"19,992","+/-5,055",2.5,+/-0.6
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",147,Swedish,"18,536","+/-3,127",2.3,+/-0.4
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",148,Swiss,"3,071","+/-1,222",0.4,+/-0.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",149,Ukrainian,400,+/-301,0.0,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",150,Welsh,"5,170","+/-1,247",0.6,+/-0.2
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",151,West Indian (excluding Hispanic origin groups),711,+/-774,0.1,+/-0.1
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",151.3,,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",152,Total households,"328,779","+/-3,200","328,779",(X)
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",153,With a computer,"313,229","+/-3,689",95.3,+/-0.5
+DP02,5001800US1903,"Congressional District 3 (118th Congress), Iowa",154,With a broadband Internet subscription,"294,397","+/-3,963",89.5,+/-0.9
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",0.5,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",1,Total households,"320,688","+/-3,320","320,688",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",2,Married-couple household,"159,957","+/-4,512",49.9,+/-1.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",3,With children of the householder under 18 years,"59,481","+/-2,877",18.5,+/-0.9
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",4,Cohabiting couple household,"23,572","+/-2,194",7.4,+/-0.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",5,With children of the householder under 18 years,"9,341","+/-1,518",2.9,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",6,"Male householder, no spouse/partner present","62,531","+/-2,976",19.5,+/-0.9
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",7,With children of the householder under 18 years,"2,986",+/-869,0.9,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",8,Householder living alone,"49,355","+/-2,782",15.4,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",9,65 years and over,"15,517","+/-1,391",4.8,+/-0.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",10,"Female householder, no spouse/partner present","74,628","+/-2,564",23.3,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",11,With children of the householder under 18 years,"12,545","+/-1,643",3.9,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",12,Householder living alone,"47,492","+/-2,443",14.8,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",13,65 years and over,"27,885","+/-1,738",8.7,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",13.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",14,Households with one or more people under 18 years,"90,745","+/-2,752",28.3,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",15,Households with one or more people 65 years and over,"104,450","+/-2,078",32.6,+/-0.6
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",15.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",16,Average household size,2.38,+/-0.02,(X),(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",17,Average family size,2.97,+/-0.04,(X),(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",17.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",17.5,RELATIONSHIP,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",18,Population in households,"763,868","+/-3,290","763,868",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",19,Householder,"320,688","+/-3,320",42.0,+/-0.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",20,Spouse,"159,454","+/-4,593",20.9,+/-0.6
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",21,Unmarried partner,"24,389","+/-2,190",3.2,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",22,Child,"211,303","+/-4,583",27.7,+/-0.6
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",23,Other relatives,"23,694","+/-3,095",3.1,+/-0.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",24,Other nonrelatives,"24,340","+/-2,996",3.2,+/-0.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",24.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",24.5,MARITAL STATUS,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",25,Males 15 years and over,"326,704","+/-2,519","326,704",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",26,Never married,"118,440","+/-3,255",36.3,+/-1.0
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",27,"Now married, except separated","167,118","+/-4,679",51.2,+/-1.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",28,Separated,"3,125",+/-934,1.0,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",29,Widowed,"8,451","+/-1,141",2.6,+/-0.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",30,Divorced,"29,570","+/-2,692",9.1,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",30.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",31,Females 15 years and over,"321,341","+/-2,184","321,341",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",32,Never married,"88,535","+/-3,388",27.6,+/-1.0
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",33,"Now married, except separated","165,026","+/-4,468",51.4,+/-1.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",34,Separated,"4,504",+/-958,1.4,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",35,Widowed,"29,012","+/-1,688",9.0,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",36,Divorced,"34,264","+/-2,615",10.7,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",36.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",36.5,FERTILITY,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,906","+/-1,339","9,906",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",38,"Unmarried women (widowed, divorced, and never married)","2,598",+/-855,26.2,+/-7.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",39,"Per 1,000 unmarried women",28,+/-9,(X),(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",40,"Per 1,000 women 15 to 50 years old",58,+/-8,(X),(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",41,"Per 1,000 women 15 to 19 years old",3,+/-4,(X),(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",42,"Per 1,000 women 20 to 34 years old",112,+/-17,(X),(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",43,"Per 1,000 women 35 to 50 years old",24,+/-9,(X),(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",43.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",43.5,GRANDPARENTS,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",44,Number of grandparents living with own grandchildren under 18 years,"7,332","+/-1,515","7,332",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",45,Grandparents responsible for grandchildren,"2,277",+/-471,31.1,+/-7.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",46,Less than 1 year,601,+/-362,8.2,+/-5.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",47,1 or 2 years,424,+/-290,5.8,+/-4.0
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",48,3 or 4 years,228,+/-171,3.1,+/-2.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",49,5 or more years,"1,024",+/-383,14.0,+/-5.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",49.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",50,Number of grandparents responsible for own grandchildren under 18 years,"2,277",+/-471,"2,277",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",51,Who are female,"1,577",+/-387,69.3,+/-8.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",52,Who are married,"1,520",+/-417,66.8,+/-11.9
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",52.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",53,Population 3 years and over enrolled in school,"207,402","+/-4,532","207,402",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",54,"Nursery school, preschool","11,036","+/-1,204",5.3,+/-0.6
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",55,Kindergarten,"8,812","+/-1,382",4.2,+/-0.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",56,Elementary school (grades 1-8),"80,862","+/-2,202",39.0,+/-1.0
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",57,High school (grades 9-12),"47,214","+/-1,748",22.8,+/-0.9
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",58,College or graduate school,"59,478","+/-3,440",28.7,+/-1.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",58.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",59,Population 25 years and over,"522,836","+/-3,126","522,836",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",60,Less than 9th grade,"16,390","+/-1,990",3.1,+/-0.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",61,"9th to 12th grade, no diploma","26,194","+/-2,737",5.0,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",62,High school graduate (includes equivalency),"169,449","+/-4,449",32.4,+/-0.9
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",63,"Some college, no degree","107,696","+/-3,937",20.6,+/-0.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",64,Associate's degree,"66,827","+/-3,942",12.8,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",65,Bachelor's degree,"94,492","+/-4,456",18.1,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",66,Graduate or professional degree,"41,788","+/-2,856",8.0,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",66.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",67,High school graduate or higher,"480,252","+/-3,791",91.9,+/-0.6
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",68,Bachelor's degree or higher,"136,280","+/-4,911",26.1,+/-0.9
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",68.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",68.5,VETERAN STATUS,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",69,Civilian population 18 years and over,"612,780","+/-2,231","612,780",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",70,Civilian veterans,"40,636","+/-2,817",6.6,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",70.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",71,Total Civilian Noninstitutionalized Population,"783,563","+/-2,964","783,563",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",72,With a disability,"98,762","+/-4,438",12.6,+/-0.6
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",72.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",73,Under 18 years,"180,903","+/-1,533","180,903",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",74,With a disability,"6,765","+/-1,279",3.7,+/-0.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",74.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",75,18 to 64 years,"459,134","+/-2,441","459,134",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",76,With a disability,"47,948","+/-3,278",10.4,+/-0.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",76.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",77,65 years and over,"143,526","+/-1,541","143,526",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",78,With a disability,"44,049","+/-2,478",30.7,+/-1.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",78.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",79,Population 1 year and over,"786,929","+/-2,726","786,929",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",80,Same house,"682,446","+/-6,349",86.7,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",81,Different house (in the U.S. or abroad),"104,483","+/-6,268",13.3,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",82,Different house in the U.S.,"102,110","+/-6,045",13.0,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",83,Same county,"48,979","+/-5,392",6.2,+/-0.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",84,Different county,"53,131","+/-3,799",6.8,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",85,Same state,"32,810","+/-3,100",4.2,+/-0.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",86,Different state,"20,321","+/-2,647",2.6,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",87,Abroad,"2,373",+/-946,0.3,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",87.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",88,Total population,"795,344","+/-2,524","795,344",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",89,Native,"747,988","+/-4,115",94.0,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",90,Born in United States,"742,025","+/-4,294",93.3,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",91,State of residence,"539,070","+/-6,852",67.8,+/-0.9
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",92,Different state,"202,955","+/-6,773",25.5,+/-0.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","5,963","+/-1,372",0.7,+/-0.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",94,Foreign born,"47,356","+/-3,794",6.0,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",94.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",95,Foreign-born population,"47,356","+/-3,794","47,356",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",96,Naturalized U.S. citizen,"20,434","+/-2,162",43.1,+/-5.0
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",97,Not a U.S. citizen,"26,922","+/-3,884",56.9,+/-5.0
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",97.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",98,Population born outside the United States,"53,319","+/-3,981","53,319",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",98.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",99,Native,"5,963","+/-1,372","5,963",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",100,Entered 2010 or later,"2,062",+/-783,34.6,+/-9.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",101,Entered before 2010,"3,901","+/-1,031",65.4,+/-9.8
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",101.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",102,Foreign born,"47,356","+/-3,794","47,356",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",103,Entered 2010 or later,"16,459","+/-2,936",34.8,+/-4.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",104,Entered before 2010,"30,897","+/-2,375",65.2,+/-4.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",104.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",105,"Foreign-born population, excluding population born at sea","47,356","+/-3,794","47,356",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",106,Europe,"3,643",+/-783,7.7,+/-1.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",107,Asia,"10,941","+/-1,935",23.1,+/-3.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",108,Africa,"4,979","+/-1,640",10.5,+/-3.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",109,Oceania,744,+/-506,1.6,+/-1.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",110,Latin America,"26,302","+/-2,391",55.5,+/-3.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",111,Northern America,747,+/-418,1.6,+/-0.9
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",111.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",112,Population 5 years and over,"750,888","+/-2,718","750,888",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",113,English only,"676,792","+/-5,062",90.1,+/-0.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",114,Language other than English,"74,096","+/-4,993",9.9,+/-0.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",115,"Speak English less than ""very well""","30,468","+/-3,441",4.1,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",116,Spanish,"50,313","+/-3,554",6.7,+/-0.5
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",117,"Speak English less than ""very well""","21,132","+/-2,522",2.8,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",118,Other Indo-European languages,"8,569","+/-1,925",1.1,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",119,"Speak English less than ""very well""","1,652",+/-706,0.2,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",120,Asian and Pacific Islander languages,"10,695","+/-2,079",1.4,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",121,"Speak English less than ""very well""","5,623","+/-1,512",0.7,+/-0.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",122,Other languages,"4,519","+/-1,772",0.6,+/-0.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",123,"Speak English less than ""very well""","2,061","+/-1,027",0.3,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",123.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",123.5,ANCESTRY,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",124,Total population,"795,344","+/-2,524","795,344",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",125,American,"37,060","+/-4,613",4.7,+/-0.6
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",126,Arab,"1,870","+/-1,148",0.2,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",127,Czech,"8,617","+/-2,301",1.1,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",128,Danish,"17,639","+/-2,503",2.2,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",129,Dutch,"40,289","+/-3,455",5.1,+/-0.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",130,English,"70,963","+/-4,533",8.9,+/-0.6
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",131,French (except Basque),"10,552","+/-1,637",1.3,+/-0.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",132,French Canadian,"1,600",+/-578,0.2,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",133,German,"252,239","+/-8,785",31.7,+/-1.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",134,Greek,"1,293",+/-615,0.2,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",135,Hungarian,464,+/-330,0.1,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",136,Irish,"91,815","+/-5,689",11.5,+/-0.7
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",137,Italian,"10,682","+/-1,954",1.3,+/-0.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",138,Lithuanian,604,+/-493,0.1,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",139,Norwegian,"41,979","+/-3,364",5.3,+/-0.4
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",140,Polish,"7,150","+/-1,629",0.9,+/-0.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",141,Portuguese,460,+/-374,0.1,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",142,Russian,"1,359",+/-550,0.2,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",143,Scotch-Irish,"2,980",+/-813,0.4,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",144,Scottish,"11,322","+/-1,910",1.4,+/-0.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",145,Slovak,214,+/-226,0.0,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",146,Subsaharan African,"4,550","+/-1,521",0.6,+/-0.2
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",147,Swedish,"21,630","+/-2,708",2.7,+/-0.3
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",148,Swiss,"3,090",+/-990,0.4,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",149,Ukrainian,477,+/-331,0.1,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",150,Welsh,"3,512",+/-976,0.4,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",151,West Indian (excluding Hispanic origin groups),105,+/-125,0.0,+/-0.1
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",151.3,,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",152,Total households,"320,688","+/-3,320","320,688",(X)
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",153,With a computer,"300,070","+/-3,759",93.6,+/-0.6
+DP02,5001800US1904,"Congressional District 4 (118th Congress), Iowa",154,With a broadband Internet subscription,"276,134","+/-3,989",86.1,+/-0.9

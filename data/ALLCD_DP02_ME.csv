@@ -1,0 +1,401 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",0.5,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",1,Total households,"294,515","+/-4,037","294,515",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",2,Married-couple household,"144,467","+/-5,053",49.1,+/-1.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",3,With children of the householder under 18 years,"46,759","+/-3,159",15.9,+/-1.0
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",4,Cohabiting couple household,"27,829","+/-3,107",9.4,+/-1.0
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",5,With children of the householder under 18 years,"5,879","+/-1,686",2.0,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",6,"Male householder, no spouse/partner present","49,044","+/-3,162",16.7,+/-1.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",7,With children of the householder under 18 years,"3,079",+/-935,1.0,+/-0.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",8,Householder living alone,"36,680","+/-3,249",12.5,+/-1.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",9,65 years and over,"11,252","+/-1,449",3.8,+/-0.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",10,"Female householder, no spouse/partner present","73,175","+/-3,470",24.8,+/-1.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",11,With children of the householder under 18 years,"9,557","+/-1,666",3.2,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",12,Householder living alone,"49,698","+/-3,073",16.9,+/-1.0
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",13,65 years and over,"27,697","+/-2,059",9.4,+/-0.7
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",13.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",14,Households with one or more people under 18 years,"70,768","+/-4,024",24.0,+/-1.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",15,Households with one or more people 65 years and over,"104,847","+/-2,586",35.6,+/-0.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",15.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",16,Average household size,2.28,+/-0.03,(X),(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",17,Average family size,2.83,+/-0.06,(X),(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",17.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",17.5,RELATIONSHIP,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",18,Population in households,"670,899","+/-4,709","670,899",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",19,Householder,"294,515","+/-4,037",43.9,+/-0.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",20,Spouse,"145,197","+/-4,999",21.6,+/-0.7
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",21,Unmarried partner,"26,914","+/-3,112",4.0,+/-0.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",22,Child,"163,716","+/-4,707",24.4,+/-0.7
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",23,Other relatives,"23,563","+/-3,700",3.5,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",24,Other nonrelatives,"16,994","+/-2,801",2.5,+/-0.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",24.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",24.5,MARITAL STATUS,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",25,Males 15 years and over,"283,825","+/-2,504","283,825",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",26,Never married,"89,362","+/-4,452",31.5,+/-1.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",27,"Now married, except separated","150,094","+/-5,208",52.9,+/-1.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",28,Separated,"2,205",+/-837,0.8,+/-0.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",29,Widowed,"8,623","+/-1,362",3.0,+/-0.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",30,Divorced,"33,541","+/-2,868",11.8,+/-1.0
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",30.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",31,Females 15 years and over,"300,743","+/-2,503","300,743",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",32,Never married,"81,263","+/-3,905",27.0,+/-1.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",33,"Now married, except separated","152,937","+/-5,502",50.9,+/-1.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",34,Separated,"1,779",+/-607,0.6,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",35,Widowed,"23,956","+/-2,192",8.0,+/-0.7
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",36,Divorced,"40,808","+/-3,364",13.6,+/-1.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",36.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",36.5,FERTILITY,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,463","+/-1,613","7,463",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",38,"Unmarried women (widowed, divorced, and never married)","1,841",+/-823,24.7,+/-10.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",39,"Per 1,000 unmarried women",22,+/-10,(X),(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",40,"Per 1,000 women 15 to 50 years old",50,+/-11,(X),(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",41,"Per 1,000 women 15 to 19 years old",15,+/-22,(X),(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",42,"Per 1,000 women 20 to 34 years old",71,+/-18,(X),(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",43,"Per 1,000 women 35 to 50 years old",39,+/-14,(X),(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",43.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",43.5,GRANDPARENTS,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",44,Number of grandparents living with own grandchildren under 18 years,"6,992","+/-2,234","6,992",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",45,Grandparents responsible for grandchildren,"1,729",+/-873,24.7,+/-11.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",46,Less than 1 year,337,+/-335,4.8,+/-4.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",47,1 or 2 years,202,+/-216,2.9,+/-3.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",48,3 or 4 years,503,+/-369,7.2,+/-5.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",49,5 or more years,687,+/-574,9.8,+/-7.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",49.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",50,Number of grandparents responsible for own grandchildren under 18 years,"1,729",+/-873,"1,729",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",51,Who are female,834,+/-393,48.2,+/-11.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",52,Who are married,"1,508",+/-746,87.2,+/-17.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",52.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",53,Population 3 years and over enrolled in school,"136,802","+/-3,983","136,802",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",54,"Nursery school, preschool","6,921","+/-1,290",5.1,+/-0.9
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",55,Kindergarten,"5,150","+/-1,283",3.8,+/-0.9
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",56,Elementary school (grades 1-8),"58,224","+/-2,447",42.6,+/-1.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",57,High school (grades 9-12),"29,752","+/-1,966",21.7,+/-1.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",58,College or graduate school,"36,755","+/-3,172",26.9,+/-1.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",58.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",59,Population 25 years and over,"510,668","+/-3,393","510,668",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",60,Less than 9th grade,"7,175","+/-1,563",1.4,+/-0.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",61,"9th to 12th grade, no diploma","14,826","+/-2,332",2.9,+/-0.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",62,High school graduate (includes equivalency),"128,131","+/-5,752",25.1,+/-1.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",63,"Some college, no degree","86,319","+/-4,938",16.9,+/-1.0
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",64,Associate's degree,"53,351","+/-4,132",10.4,+/-0.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",65,Bachelor's degree,"131,810","+/-6,305",25.8,+/-1.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",66,Graduate or professional degree,"89,056","+/-4,644",17.4,+/-0.9
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",66.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",67,High school graduate or higher,"488,667","+/-4,091",95.7,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",68,Bachelor's degree or higher,"220,866","+/-7,262",43.3,+/-1.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",68.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",68.5,VETERAN STATUS,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",69,Civilian population 18 years and over,"562,127","+/-3,454","562,127",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",70,Civilian veterans,"45,710","+/-3,475",8.1,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",70.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",71,Total Civilian Noninstitutionalized Population,"679,900","+/-4,593","679,900",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",72,With a disability,"89,180","+/-5,276",13.1,+/-0.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",72.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",73,Under 18 years,"123,387","+/-2,065","123,387",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",74,With a disability,"3,715",+/-878,3.0,+/-0.7
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",74.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",75,18 to 64 years,"412,512","+/-3,427","412,512",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",76,With a disability,"45,361","+/-4,360",11.0,+/-1.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",76.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",77,65 years and over,"144,001","+/-1,753","144,001",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",78,With a disability,"40,104","+/-2,611",27.8,+/-1.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",78.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",79,Population 1 year and over,"680,169","+/-4,581","680,169",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",80,Same house,"606,985","+/-6,584",89.2,+/-0.9
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",81,Different house (in the U.S. or abroad),"73,184","+/-6,220",10.8,+/-0.9
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",82,Different house in the U.S.,"72,491","+/-6,182",10.7,+/-0.9
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",83,Same county,"31,369","+/-4,305",4.6,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",84,Different county,"41,122","+/-4,082",6.0,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",85,Same state,"15,107","+/-2,462",2.2,+/-0.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",86,Different state,"26,015","+/-3,743",3.8,+/-0.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",87,Abroad,693,+/-418,0.1,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",87.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",88,Total population,"686,648","+/-4,767","686,648",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",89,Native,"653,513","+/-5,657",95.2,+/-0.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",90,Born in United States,"644,634","+/-5,746",93.9,+/-0.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",91,State of residence,"370,161","+/-8,459",53.9,+/-1.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",92,Different state,"274,473","+/-8,451",40.0,+/-1.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","8,879","+/-1,645",1.3,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",94,Foreign born,"33,135","+/-2,960",4.8,+/-0.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",94.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",95,Foreign-born population,"33,135","+/-2,960","33,135",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",96,Naturalized U.S. citizen,"19,024","+/-2,510",57.4,+/-5.7
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",97,Not a U.S. citizen,"14,111","+/-2,263",42.6,+/-5.7
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",97.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",98,Population born outside the United States,"42,014","+/-3,327","42,014",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",98.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",99,Native,"8,879","+/-1,645","8,879",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",100,Entered 2010 or later,"1,760",+/-728,19.8,+/-7.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",101,Entered before 2010,"7,119","+/-1,508",80.2,+/-7.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",101.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",102,Foreign born,"33,135","+/-2,960","33,135",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",103,Entered 2010 or later,"14,001","+/-2,729",42.3,+/-6.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",104,Entered before 2010,"19,134","+/-2,270",57.7,+/-6.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",104.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",105,"Foreign-born population, excluding population born at sea","33,135","+/-2,960","33,135",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",106,Europe,"10,052","+/-2,204",30.3,+/-5.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",107,Asia,"8,999","+/-1,283",27.2,+/-3.9
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",108,Africa,"6,220","+/-1,351",18.8,+/-3.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",109,Oceania,594,+/-626,1.8,+/-1.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",110,Latin America,"3,368",+/-962,10.2,+/-2.9
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",111,Northern America,"3,902","+/-1,199",11.8,+/-3.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",111.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",112,Population 5 years and over,"655,995","+/-4,226","655,995",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",113,English only,"616,626","+/-5,817",94.0,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",114,Language other than English,"39,369","+/-3,601",6.0,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",115,"Speak English less than ""very well""","11,518","+/-2,064",1.8,+/-0.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",116,Spanish,"6,561","+/-1,572",1.0,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",117,"Speak English less than ""very well""","1,622",+/-906,0.2,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",118,Other Indo-European languages,"23,428","+/-3,435",3.6,+/-0.5
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",119,"Speak English less than ""very well""","5,410","+/-1,400",0.8,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",120,Asian and Pacific Islander languages,"5,611","+/-1,717",0.9,+/-0.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",121,"Speak English less than ""very well""","2,544","+/-1,286",0.4,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",122,Other languages,"3,769","+/-1,354",0.6,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",123,"Speak English less than ""very well""","1,942",+/-885,0.3,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",123.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",123.5,ANCESTRY,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",124,Total population,"686,648","+/-4,767","686,648",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",125,American,"30,926","+/-3,907",4.5,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",126,Arab,"2,822",+/-946,0.4,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",127,Czech,"2,293","+/-1,067",0.3,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",128,Danish,"2,262",+/-783,0.3,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",129,Dutch,"5,924","+/-1,492",0.9,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",130,English,"158,972","+/-8,855",23.2,+/-1.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",131,French (except Basque),"72,080","+/-5,817",10.5,+/-0.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",132,French Canadian,"41,030","+/-4,405",6.0,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",133,German,"53,455","+/-5,097",7.8,+/-0.7
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",134,Greek,"4,354","+/-1,475",0.6,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",135,Hungarian,"2,992","+/-1,748",0.4,+/-0.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",136,Irish,"112,974","+/-7,105",16.5,+/-1.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",137,Italian,"43,882","+/-5,231",6.4,+/-0.8
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",138,Lithuanian,"2,037",+/-697,0.3,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",139,Norwegian,"9,504","+/-2,902",1.4,+/-0.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",140,Polish,"17,657","+/-2,873",2.6,+/-0.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",141,Portuguese,"3,877","+/-1,147",0.6,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",142,Russian,"5,385","+/-1,359",0.8,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",143,Scotch-Irish,"10,225","+/-2,789",1.5,+/-0.4
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",144,Scottish,"31,361","+/-4,017",4.6,+/-0.6
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",145,Slovak,889,+/-608,0.1,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",146,Subsaharan African,"8,794","+/-1,429",1.3,+/-0.2
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",147,Swedish,"11,924","+/-2,244",1.7,+/-0.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",148,Swiss,"1,723",+/-652,0.3,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",149,Ukrainian,"1,476",+/-591,0.2,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",150,Welsh,"6,085","+/-1,879",0.9,+/-0.3
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",151,West Indian (excluding Hispanic origin groups),"1,407",+/-839,0.2,+/-0.1
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",151.3,,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",152,Total households,"294,515","+/-4,037","294,515",(X)
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",153,With a computer,"281,382","+/-4,628",95.5,+/-0.7
+DP02,5001800US2301,"Congressional District 1 (118th Congress), Maine",154,With a broadband Internet subscription,"269,022","+/-5,021",91.3,+/-1.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",0.5,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",1,Total households,"299,111","+/-3,114","299,111",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",2,Married-couple household,"143,648","+/-3,884",48.0,+/-1.3
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",3,With children of the householder under 18 years,"43,521","+/-2,736",14.6,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",4,Cohabiting couple household,"26,531","+/-2,595",8.9,+/-0.8
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",5,With children of the householder under 18 years,"7,948","+/-1,473",2.7,+/-0.5
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",6,"Male householder, no spouse/partner present","52,177","+/-2,691",17.4,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",7,With children of the householder under 18 years,"3,535",+/-912,1.2,+/-0.3
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",8,Householder living alone,"40,091","+/-2,434",13.4,+/-0.8
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",9,65 years and over,"13,676","+/-1,279",4.6,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",10,"Female householder, no spouse/partner present","76,755","+/-3,806",25.7,+/-1.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",11,With children of the householder under 18 years,"9,908","+/-1,815",3.3,+/-0.6
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",12,Householder living alone,"50,950","+/-3,161",17.0,+/-1.0
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",13,65 years and over,"26,845","+/-2,059",9.0,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",13.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",14,Households with one or more people under 18 years,"72,169","+/-3,248",24.1,+/-1.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",15,Households with one or more people 65 years and over,"106,449","+/-2,046",35.6,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",15.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",16,Average household size,2.23,+/-0.02,(X),(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",17,Average family size,2.75,+/-0.04,(X),(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",17.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",17.5,RELATIONSHIP,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",18,Population in households,"666,179","+/-4,709","666,179",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",19,Householder,"299,111","+/-3,114",44.9,+/-0.5
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",20,Spouse,"143,727","+/-4,144",21.6,+/-0.6
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",21,Unmarried partner,"26,746","+/-2,559",4.0,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",22,Child,"152,751","+/-4,643",22.9,+/-0.6
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",23,Other relatives,"25,268","+/-2,901",3.8,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",24,Other nonrelatives,"18,576","+/-3,125",2.8,+/-0.5
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",24.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",24.5,MARITAL STATUS,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",25,Males 15 years and over,"285,958","+/-2,348","285,958",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",26,Never married,"87,535","+/-3,220",30.6,+/-1.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",27,"Now married, except separated","153,813","+/-3,644",53.8,+/-1.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",28,Separated,"2,260",+/-738,0.8,+/-0.3
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",29,Widowed,"7,462","+/-1,064",2.6,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",30,Divorced,"34,888","+/-2,466",12.2,+/-0.8
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",30.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",31,Females 15 years and over,"298,357","+/-2,383","298,357",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",32,Never married,"76,212","+/-3,726",25.5,+/-1.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",33,"Now married, except separated","146,456","+/-4,701",49.1,+/-1.6
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",34,Separated,"3,336",+/-891,1.1,+/-0.3
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",35,Widowed,"27,804","+/-2,205",9.3,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",36,Divorced,"44,549","+/-3,419",14.9,+/-1.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",36.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",36.5,FERTILITY,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,390","+/-1,286","8,390",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",38,"Unmarried women (widowed, divorced, and never married)","3,881",+/-952,46.3,+/-7.3
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",39,"Per 1,000 unmarried women",48,+/-12,(X),(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",40,"Per 1,000 women 15 to 50 years old",58,+/-9,(X),(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",41,"Per 1,000 women 15 to 19 years old",35,+/-21,(X),(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",42,"Per 1,000 women 20 to 34 years old",92,+/-18,(X),(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",43,"Per 1,000 women 35 to 50 years old",35,+/-13,(X),(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",43.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",43.5,GRANDPARENTS,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",44,Number of grandparents living with own grandchildren under 18 years,"9,714","+/-1,525","9,714",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",45,Grandparents responsible for grandchildren,"3,321",+/-868,34.2,+/-6.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",46,Less than 1 year,540,+/-332,5.6,+/-3.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",47,1 or 2 years,831,+/-500,8.6,+/-4.5
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",48,3 or 4 years,577,+/-327,5.9,+/-3.3
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",49,5 or more years,"1,373",+/-433,14.1,+/-4.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",49.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",50,Number of grandparents responsible for own grandchildren under 18 years,"3,321",+/-868,"3,321",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",51,Who are female,"2,161",+/-568,65.1,+/-8.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",52,Who are married,"2,004",+/-695,60.3,+/-12.8
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",52.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",53,Population 3 years and over enrolled in school,"137,637","+/-3,136","137,637",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",54,"Nursery school, preschool","5,121","+/-1,178",3.7,+/-0.8
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",55,Kindergarten,"6,933","+/-1,300",5.0,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",56,Elementary school (grades 1-8),"56,667","+/-2,039",41.2,+/-1.6
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",57,High school (grades 9-12),"30,191","+/-1,708",21.9,+/-1.3
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",58,College or graduate school,"38,725","+/-2,682",28.1,+/-1.6
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",58.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",59,Population 25 years and over,"504,410","+/-3,175","504,410",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",60,Less than 9th grade,"11,878","+/-1,943",2.4,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",61,"9th to 12th grade, no diploma","21,666","+/-2,069",4.3,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",62,High school graduate (includes equivalency),"172,464","+/-5,714",34.2,+/-1.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",63,"Some college, no degree","100,167","+/-4,747",19.9,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",64,Associate's degree,"53,796","+/-3,330",10.7,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",65,Bachelor's degree,"93,177","+/-4,852",18.5,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",66,Graduate or professional degree,"51,262","+/-3,599",10.2,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",66.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",67,High school graduate or higher,"470,866","+/-4,053",93.3,+/-0.5
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",68,Bachelor's degree or higher,"144,439","+/-6,175",28.6,+/-1.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",68.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",68.5,VETERAN STATUS,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",69,Civilian population 18 years and over,"558,450","+/-3,617","558,450",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",70,Civilian veterans,"52,993","+/-3,237",9.5,+/-0.6
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",70.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",71,Total Civilian Noninstitutionalized Population,"677,220","+/-4,761","677,220",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",72,With a disability,"121,277","+/-4,783",17.9,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",72.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",73,Under 18 years,"125,455","+/-2,063","125,455",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",74,With a disability,"8,445","+/-1,573",6.7,+/-1.3
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",74.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",75,18 to 64 years,"405,968","+/-3,639","405,968",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",76,With a disability,"62,258","+/-4,331",15.3,+/-1.0
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",76.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",77,65 years and over,"145,797","+/-1,542","145,797",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",78,With a disability,"50,574","+/-2,406",34.7,+/-1.6
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",78.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",79,Population 1 year and over,"680,095","+/-4,824","680,095",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",80,Same house,"596,214","+/-7,518",87.7,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",81,Different house (in the U.S. or abroad),"83,881","+/-6,271",12.3,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",82,Different house in the U.S.,"82,419","+/-6,308",12.1,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",83,Same county,"44,534","+/-4,985",6.5,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",84,Different county,"37,885","+/-4,126",5.6,+/-0.6
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",85,Same state,"20,408","+/-3,298",3.0,+/-0.5
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",86,Different state,"17,477","+/-2,859",2.6,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",87,Abroad,"1,462",+/-736,0.2,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",87.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",88,Total population,"685,599","+/-4,767","685,599",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",89,Native,"662,666","+/-5,722",96.7,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",90,Born in United States,"656,451","+/-5,844",95.7,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",91,State of residence,"451,200","+/-7,588",65.8,+/-1.0
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",92,Different state,"205,251","+/-6,965",29.9,+/-1.0
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","6,215","+/-1,083",0.9,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",94,Foreign born,"22,933","+/-2,567",3.3,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",94.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",95,Foreign-born population,"22,933","+/-2,567","22,933",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",96,Naturalized U.S. citizen,"12,490","+/-1,769",54.5,+/-5.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",97,Not a U.S. citizen,"10,443","+/-1,944",45.5,+/-5.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",97.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",98,Population born outside the United States,"29,148","+/-2,842","29,148",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",98.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",99,Native,"6,215","+/-1,083","6,215",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",100,Entered 2010 or later,928,+/-575,14.9,+/-8.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",101,Entered before 2010,"5,287",+/-957,85.1,+/-8.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",101.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",102,Foreign born,"22,933","+/-2,567","22,933",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",103,Entered 2010 or later,"6,645","+/-1,625",29.0,+/-5.8
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",104,Entered before 2010,"16,288","+/-2,099",71.0,+/-5.8
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",104.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",106,Europe,N,N,N,N
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",107,Asia,N,N,N,N
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",108,Africa,N,N,N,N
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",109,Oceania,N,N,N,N
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",110,Latin America,N,N,N,N
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",111,Northern America,N,N,N,N
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",111.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",112,Population 5 years and over,"655,218","+/-4,330","655,218",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",113,English only,"618,003","+/-5,228",94.3,+/-0.5
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",114,Language other than English,"37,215","+/-2,993",5.7,+/-0.5
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",115,"Speak English less than ""very well""","7,993","+/-1,374",1.2,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",116,Spanish,"5,350","+/-1,192",0.8,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",117,"Speak English less than ""very well""","1,295",+/-503,0.2,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",118,Other Indo-European languages,"25,299","+/-2,907",3.9,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",119,"Speak English less than ""very well""","5,049","+/-1,155",0.8,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",120,Asian and Pacific Islander languages,"3,559",+/-917,0.5,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",121,"Speak English less than ""very well""","1,119",+/-546,0.2,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",122,Other languages,"3,007","+/-1,097",0.5,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",123,"Speak English less than ""very well""",530,+/-355,0.1,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",123.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",123.5,ANCESTRY,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",124,Total population,"685,599","+/-4,767","685,599",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",125,American,"46,134","+/-5,245",6.7,+/-0.8
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",126,Arab,"2,412","+/-1,100",0.4,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",127,Czech,"2,048","+/-1,006",0.3,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",128,Danish,"2,196",+/-773,0.3,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",129,Dutch,"4,592","+/-1,008",0.7,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",130,English,"154,972","+/-7,110",22.6,+/-1.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",131,French (except Basque),"91,578","+/-6,609",13.4,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",132,French Canadian,"42,003","+/-4,478",6.1,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",133,German,"53,009","+/-5,014",7.7,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",134,Greek,"1,471",+/-708,0.2,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",135,Hungarian,"1,004",+/-491,0.1,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",136,Irish,"97,342","+/-6,070",14.2,+/-0.9
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",137,Italian,"28,127","+/-3,317",4.1,+/-0.5
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",138,Lithuanian,"1,926",+/-703,0.3,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",139,Norwegian,"5,278","+/-1,403",0.8,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",140,Polish,"14,684","+/-2,076",2.1,+/-0.3
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",141,Portuguese,"2,415",+/-844,0.4,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",142,Russian,"3,407","+/-1,508",0.5,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",143,Scotch-Irish,"8,879","+/-1,580",1.3,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",144,Scottish,"27,921","+/-2,860",4.1,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",145,Slovak,481,+/-246,0.1,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",146,Subsaharan African,"4,062","+/-1,295",0.6,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",147,Swedish,"12,525","+/-2,617",1.8,+/-0.4
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",148,Swiss,957,+/-409,0.1,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",149,Ukrainian,854,+/-463,0.1,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",150,Welsh,"3,782","+/-1,111",0.6,+/-0.2
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",151,West Indian (excluding Hispanic origin groups),501,+/-360,0.1,+/-0.1
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",151.3,,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",152,Total households,"299,111","+/-3,114","299,111",(X)
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",153,With a computer,"280,252","+/-3,525",93.7,+/-0.7
+DP02,5001800US2302,"Congressional District 2 (118th Congress), Maine",154,With a broadband Internet subscription,"263,798","+/-4,017",88.2,+/-1.0

@@ -1,0 +1,601 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",0.5,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",1,Total households,"261,275","+/-3,108","261,275",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",2,Married-couple household,"130,859","+/-4,364",50.1,+/-1.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",3,With children of the householder under 18 years,"51,190","+/-2,951",19.6,+/-1.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",4,Cohabiting couple household,"19,806","+/-2,175",7.6,+/-0.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",5,With children of the householder under 18 years,"6,502","+/-1,373",2.5,+/-0.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",6,"Male householder, no spouse/partner present","47,304","+/-3,222",18.1,+/-1.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",7,With children of the householder under 18 years,"3,489","+/-1,079",1.3,+/-0.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",8,Householder living alone,"35,710","+/-2,970",13.7,+/-1.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",9,65 years and over,"7,950","+/-1,205",3.0,+/-0.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",10,"Female householder, no spouse/partner present","63,306","+/-2,884",24.2,+/-1.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",11,With children of the householder under 18 years,"10,696","+/-1,631",4.1,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",12,Householder living alone,"41,366","+/-2,504",15.8,+/-1.0
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",13,65 years and over,"20,790","+/-1,699",8.0,+/-0.7
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",13.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",14,Households with one or more people under 18 years,"76,075","+/-3,179",29.1,+/-1.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",15,Households with one or more people 65 years and over,"69,699","+/-1,679",26.7,+/-0.7
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",15.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",16,Average household size,2.45,+/-0.03,(X),(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",17,Average family size,3.06,+/-0.06,(X),(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",17.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",17.5,RELATIONSHIP,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",18,Population in households,"639,623","+/-4,426","639,623",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",19,Householder,"261,275","+/-3,108",40.8,+/-0.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",20,Spouse,"131,491","+/-4,162",20.6,+/-0.7
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",21,Unmarried partner,"19,212","+/-2,161",3.0,+/-0.3
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",22,Child,"185,823","+/-4,343",29.1,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",23,Other relatives,"21,483","+/-3,801",3.4,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",24,Other nonrelatives,"20,339","+/-3,414",3.2,+/-0.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",24.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",24.5,MARITAL STATUS,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",25,Males 15 years and over,"265,224","+/-2,027","265,224",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",26,Never married,"97,145","+/-3,362",36.6,+/-1.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",27,"Now married, except separated","140,273","+/-4,262",52.9,+/-1.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",28,Separated,"1,730",+/-617,0.7,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",29,Widowed,"4,808",+/-959,1.8,+/-0.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",30,Divorced,"21,268","+/-2,342",8.0,+/-0.9
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",30.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",31,Females 15 years and over,"263,513","+/-2,564","263,513",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",32,Never married,"78,811","+/-3,220",29.9,+/-1.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",33,"Now married, except separated","133,354","+/-4,521",50.6,+/-1.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",34,Separated,"3,048",+/-804,1.2,+/-0.3
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",35,Widowed,"18,870","+/-1,739",7.2,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",36,Divorced,"29,430","+/-2,560",11.2,+/-1.0
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",36.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",36.5,FERTILITY,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,848","+/-1,427","8,848",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",38,"Unmarried women (widowed, divorced, and never married)","2,654",+/-947,30.0,+/-8.9
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",39,"Per 1,000 unmarried women",32,+/-11,(X),(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",40,"Per 1,000 women 15 to 50 years old",57,+/-9,(X),(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",41,"Per 1,000 women 15 to 19 years old",3,+/-4,(X),(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",42,"Per 1,000 women 20 to 34 years old",95,+/-18,(X),(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",43,"Per 1,000 women 35 to 50 years old",34,+/-11,(X),(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",43.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",43.5,GRANDPARENTS,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",44,Number of grandparents living with own grandchildren under 18 years,"6,991","+/-1,663","6,991",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",45,Grandparents responsible for grandchildren,"1,995",+/-832,28.5,+/-10.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",46,Less than 1 year,318,+/-259,4.5,+/-3.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",47,1 or 2 years,273,+/-254,3.9,+/-3.7
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",48,3 or 4 years,95,+/-140,1.4,+/-2.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",49,5 or more years,"1,309",+/-726,18.7,+/-9.7
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",49.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",50,Number of grandparents responsible for own grandchildren under 18 years,"1,995",+/-832,"1,995",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",51,Who are female,"1,312",+/-606,65.8,+/-12.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",52,Who are married,"1,128",+/-630,56.5,+/-19.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",52.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",53,Population 3 years and over enrolled in school,"181,930","+/-3,975","181,930",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",54,"Nursery school, preschool","11,615","+/-1,576",6.4,+/-0.9
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",55,Kindergarten,"8,485","+/-1,370",4.7,+/-0.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",56,Elementary school (grades 1-8),"68,903","+/-2,653",37.9,+/-1.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",57,High school (grades 9-12),"36,087","+/-2,330",19.8,+/-1.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",58,College or graduate school,"56,840","+/-3,426",31.2,+/-1.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",58.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",59,Population 25 years and over,"422,409","+/-3,513","422,409",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",60,Less than 9th grade,"11,903","+/-1,937",2.8,+/-0.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",61,"9th to 12th grade, no diploma","16,589","+/-1,747",3.9,+/-0.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",62,High school graduate (includes equivalency),"98,284","+/-4,942",23.3,+/-1.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",63,"Some college, no degree","88,002","+/-4,016",20.8,+/-0.9
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",64,Associate's degree,"49,665","+/-3,431",11.8,+/-0.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",65,Bachelor's degree,"101,684","+/-4,204",24.1,+/-1.0
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",66,Graduate or professional degree,"56,282","+/-3,912",13.3,+/-0.9
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",66.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",67,High school graduate or higher,"393,917","+/-3,432",93.3,+/-0.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",68,Bachelor's degree or higher,"157,966","+/-5,303",37.4,+/-1.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",68.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",68.5,VETERAN STATUS,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",69,Civilian population 18 years and over,"498,528","+/-3,413","498,528",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",70,Civilian veterans,"40,786","+/-2,952",8.2,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",70.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",71,Total Civilian Noninstitutionalized Population,"646,733","+/-4,714","646,733",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",72,With a disability,"82,376","+/-5,355",12.7,+/-0.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",72.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",73,Under 18 years,"155,377","+/-2,346","155,377",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",74,With a disability,"7,566","+/-1,700",4.9,+/-1.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",74.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",75,18 to 64 years,"393,572","+/-3,716","393,572",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",76,With a disability,"45,479","+/-4,052",11.6,+/-1.0
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",76.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",77,65 years and over,"97,784","+/-1,776","97,784",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",78,With a disability,"29,331","+/-2,520",30.0,+/-2.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",78.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",79,Population 1 year and over,"651,898","+/-4,436","651,898",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",80,Same house,"558,792","+/-8,556",85.7,+/-1.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",81,Different house (in the U.S. or abroad),"93,106","+/-7,640",14.3,+/-1.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",82,Different house in the U.S.,"89,530","+/-7,718",13.7,+/-1.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",83,Same county,"51,254","+/-5,640",7.9,+/-0.9
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",84,Different county,"38,276","+/-5,197",5.9,+/-0.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",85,Same state,"23,681","+/-4,152",3.6,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",86,Different state,"14,595","+/-2,948",2.2,+/-0.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",87,Abroad,"3,576","+/-1,280",0.5,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",87.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",88,Total population,"658,196","+/-4,517","658,196",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",89,Native,"609,962","+/-5,866",92.7,+/-0.7
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",90,Born in United States,"603,098","+/-6,381",91.6,+/-0.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",91,State of residence,"421,712","+/-8,167",64.1,+/-1.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",92,Different state,"181,386","+/-7,247",27.6,+/-1.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","6,864","+/-1,567",1.0,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",94,Foreign born,"48,234","+/-4,674",7.3,+/-0.7
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",94.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",95,Foreign-born population,"48,234","+/-4,674","48,234",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",96,Naturalized U.S. citizen,"21,754","+/-2,799",45.1,+/-5.0
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",97,Not a U.S. citizen,"26,480","+/-3,906",54.9,+/-5.0
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",97.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",98,Population born outside the United States,"55,098","+/-5,152","55,098",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",98.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",99,Native,"6,864","+/-1,567","6,864",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",100,Entered 2010 or later,"1,912",+/-945,27.9,+/-11.0
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",101,Entered before 2010,"4,952","+/-1,199",72.1,+/-11.0
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",101.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",102,Foreign born,"48,234","+/-4,674","48,234",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",103,Entered 2010 or later,"22,941","+/-3,980",47.6,+/-4.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",104,Entered before 2010,"25,293","+/-2,227",52.4,+/-4.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",104.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",106,Europe,N,N,N,N
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",107,Asia,N,N,N,N
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",108,Africa,N,N,N,N
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",109,Oceania,N,N,N,N
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",110,Latin America,N,N,N,N
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",111,Northern America,N,N,N,N
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",111.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",112,Population 5 years and over,"617,930","+/-4,263","617,930",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",113,English only,"549,357","+/-6,503",88.9,+/-0.9
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",114,Language other than English,"68,573","+/-5,538",11.1,+/-0.9
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",115,"Speak English less than ""very well""","30,402","+/-3,681",4.9,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",116,Spanish,"42,070","+/-3,926",6.8,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",117,"Speak English less than ""very well""","20,243","+/-3,038",3.3,+/-0.5
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",118,Other Indo-European languages,"11,320","+/-2,735",1.8,+/-0.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",119,"Speak English less than ""very well""","2,773","+/-1,034",0.4,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",120,Asian and Pacific Islander languages,"10,310","+/-1,852",1.7,+/-0.3
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",121,"Speak English less than ""very well""","5,728","+/-1,416",0.9,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",122,Other languages,"4,873","+/-2,126",0.8,+/-0.3
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",123,"Speak English less than ""very well""","1,658","+/-1,035",0.3,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",123.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",123.5,ANCESTRY,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",124,Total population,"658,196","+/-4,517","658,196",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",125,American,"25,609","+/-4,090",3.9,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",126,Arab,"5,608","+/-2,190",0.9,+/-0.3
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",127,Czech,"26,900","+/-2,916",4.1,+/-0.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",128,Danish,"9,105","+/-1,556",1.4,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",129,Dutch,"10,018","+/-1,676",1.5,+/-0.3
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",130,English,"64,007","+/-5,753",9.7,+/-0.9
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",131,French (except Basque),"10,621","+/-1,811",1.6,+/-0.3
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",132,French Canadian,"2,253",+/-996,0.3,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",133,German,"218,094","+/-9,078",33.1,+/-1.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",134,Greek,"2,260",+/-987,0.3,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",135,Hungarian,795,+/-565,0.1,+/-0.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",136,Irish,"69,102","+/-5,268",10.5,+/-0.8
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",137,Italian,"13,852","+/-2,393",2.1,+/-0.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",138,Lithuanian,651,+/-404,0.1,+/-0.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",139,Norwegian,"10,349","+/-2,285",1.6,+/-0.3
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",140,Polish,"17,576","+/-2,482",2.7,+/-0.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",141,Portuguese,605,+/-361,0.1,+/-0.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",142,Russian,"4,341","+/-1,475",0.7,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",143,Scotch-Irish,"4,410","+/-1,398",0.7,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",144,Scottish,"7,445","+/-1,462",1.1,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",145,Slovak,"1,028","+/-1,147",0.2,+/-0.2
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",146,Subsaharan African,"4,566","+/-1,938",0.7,+/-0.3
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",147,Swedish,"22,765","+/-2,843",3.5,+/-0.4
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",148,Swiss,"2,518",+/-747,0.4,+/-0.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",149,Ukrainian,"1,467",+/-670,0.2,+/-0.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",150,Welsh,"3,001",+/-790,0.5,+/-0.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",151,West Indian (excluding Hispanic origin groups),674,+/-544,0.1,+/-0.1
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",151.3,,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",152,Total households,"261,275","+/-3,108","261,275",(X)
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",153,With a computer,"249,907","+/-3,423",95.6,+/-0.6
+DP02,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",154,With a broadband Internet subscription,"237,111","+/-3,556",90.8,+/-0.8
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",0.5,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",1,Total households,"260,954","+/-2,682","260,954",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",2,Married-couple household,"122,025","+/-3,967",46.8,+/-1.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",3,With children of the householder under 18 years,"54,421","+/-2,989",20.9,+/-1.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",4,Cohabiting couple household,"16,862","+/-1,986",6.5,+/-0.8
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",5,With children of the householder under 18 years,"5,434","+/-1,154",2.1,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",6,"Male householder, no spouse/partner present","49,612","+/-3,107",19.0,+/-1.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",7,With children of the householder under 18 years,"4,193","+/-1,421",1.6,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",8,Householder living alone,"36,157","+/-3,134",13.9,+/-1.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",9,65 years and over,"9,179","+/-1,091",3.5,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",10,"Female householder, no spouse/partner present","72,455","+/-3,264",27.8,+/-1.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",11,With children of the householder under 18 years,"12,936","+/-2,083",5.0,+/-0.8
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",12,Householder living alone,"45,402","+/-2,644",17.4,+/-1.0
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",13,65 years and over,"17,870","+/-1,395",6.8,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",13.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",14,Households with one or more people under 18 years,"82,915","+/-3,633",31.8,+/-1.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",15,Households with one or more people 65 years and over,"65,332","+/-1,512",25.0,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",15.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",16,Average household size,2.47,+/-0.02,(X),(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",17,Average family size,3.15,+/-0.05,(X),(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",17.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",17.5,RELATIONSHIP,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",18,Population in households,"643,745","+/-4,246","643,745",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",19,Householder,"260,954","+/-2,682",40.5,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",20,Spouse,"121,991","+/-3,982",19.0,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",21,Unmarried partner,"16,863","+/-1,988",2.6,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",22,Child,"198,622","+/-4,278",30.9,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",23,Other relatives,"27,038","+/-3,086",4.2,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",24,Other nonrelatives,"18,277","+/-2,515",2.8,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",24.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",24.5,MARITAL STATUS,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",25,Males 15 years and over,"254,161","+/-1,655","254,161",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",26,Never married,"90,458","+/-3,745",35.6,+/-1.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",27,"Now married, except separated","132,810","+/-4,517",52.3,+/-1.8
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",28,Separated,"2,341",+/-850,0.9,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",29,Widowed,"6,006","+/-1,005",2.4,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",30,Divorced,"22,546","+/-2,298",8.9,+/-0.9
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",30.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",31,Females 15 years and over,"261,015","+/-1,838","261,015",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",32,Never married,"84,975","+/-3,338",32.6,+/-1.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",33,"Now married, except separated","123,427","+/-4,174",47.3,+/-1.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",34,Separated,"2,538",+/-757,1.0,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",35,Widowed,"17,370","+/-1,556",6.7,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",36,Divorced,"32,705","+/-2,881",12.5,+/-1.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",36.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",36.5,FERTILITY,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,080","+/-1,381","9,080",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",38,"Unmarried women (widowed, divorced, and never married)","1,960",+/-713,21.6,+/-6.9
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",39,"Per 1,000 unmarried women",22,+/-8,(X),(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",40,"Per 1,000 women 15 to 50 years old",57,+/-9,(X),(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",41,"Per 1,000 women 15 to 19 years old",6,+/-9,(X),(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",42,"Per 1,000 women 20 to 34 years old",100,+/-19,(X),(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",43,"Per 1,000 women 35 to 50 years old",32,+/-11,(X),(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",43.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",43.5,GRANDPARENTS,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",44,Number of grandparents living with own grandchildren under 18 years,"8,774","+/-1,898","8,774",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",45,Grandparents responsible for grandchildren,"3,499","+/-1,159",39.9,+/-11.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",46,Less than 1 year,622,+/-547,7.1,+/-6.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",47,1 or 2 years,823,+/-650,9.4,+/-7.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",48,3 or 4 years,256,+/-209,2.9,+/-2.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",49,5 or more years,"1,798",+/-744,20.5,+/-7.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",49.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",50,Number of grandparents responsible for own grandchildren under 18 years,"3,499","+/-1,159","3,499",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",51,Who are female,"1,868",+/-688,53.4,+/-9.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",52,Who are married,"2,854","+/-1,155",81.6,+/-9.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",52.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",53,Population 3 years and over enrolled in school,"175,858","+/-3,843","175,858",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",54,"Nursery school, preschool","12,071","+/-2,102",6.9,+/-1.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",55,Kindergarten,"8,019","+/-1,346",4.6,+/-0.8
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",56,Elementary school (grades 1-8),"76,485","+/-2,646",43.5,+/-1.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",57,High school (grades 9-12),"38,062","+/-1,742",21.6,+/-1.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",58,College or graduate school,"41,221","+/-2,739",23.4,+/-1.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",58.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",59,Population 25 years and over,"428,901","+/-2,393","428,901",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",60,Less than 9th grade,"17,467","+/-2,727",4.1,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",61,"9th to 12th grade, no diploma","14,525","+/-1,662",3.4,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",62,High school graduate (includes equivalency),"90,277","+/-4,387",21.0,+/-1.0
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",63,"Some college, no degree","92,741","+/-4,005",21.6,+/-0.9
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",64,Associate's degree,"36,775","+/-2,927",8.6,+/-0.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",65,Bachelor's degree,"111,220","+/-4,313",25.9,+/-1.0
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",66,Graduate or professional degree,"65,896","+/-3,231",15.4,+/-0.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",66.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",67,High school graduate or higher,"396,909","+/-3,780",92.5,+/-0.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",68,Bachelor's degree or higher,"177,116","+/-4,615",41.3,+/-1.0
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",68.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",68.5,VETERAN STATUS,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",69,Civilian population 18 years and over,"484,082","+/-2,773","484,082",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",70,Civilian veterans,"35,252","+/-2,693",7.3,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",70.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",71,Total Civilian Noninstitutionalized Population,"648,856","+/-3,962","648,856",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",72,With a disability,"70,891","+/-4,134",10.9,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",72.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",73,Under 18 years,"169,161","+/-1,836","169,161",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",74,With a disability,"6,827","+/-1,476",4.0,+/-0.9
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",74.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",75,18 to 64 years,"392,470","+/-3,004","392,470",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",76,With a disability,"37,344","+/-2,744",9.5,+/-0.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",76.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",77,65 years and over,"87,225","+/-1,114","87,225",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",78,With a disability,"26,720","+/-1,968",30.6,+/-2.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",78.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",79,Population 1 year and over,"647,192","+/-3,714","647,192",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",80,Same house,"557,730","+/-6,982",86.2,+/-1.0
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",81,Different house (in the U.S. or abroad),"89,462","+/-6,783",13.8,+/-1.0
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",82,Different house in the U.S.,"85,227","+/-6,543",13.2,+/-1.0
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",83,Same county,"53,696","+/-5,887",8.3,+/-0.9
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",84,Different county,"31,531","+/-4,194",4.9,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",85,Same state,"14,682","+/-2,938",2.3,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",86,Different state,"16,849","+/-2,572",2.6,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",87,Abroad,"4,235","+/-1,422",0.7,+/-0.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",87.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",88,Total population,"656,171","+/-3,617","656,171",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",89,Native,"597,973","+/-5,243",91.1,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",90,Born in United States,"591,905","+/-5,977",90.2,+/-0.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",91,State of residence,"403,072","+/-7,256",61.4,+/-1.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",92,Different state,"188,833","+/-6,197",28.8,+/-0.9
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","6,068","+/-2,175",0.9,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",94,Foreign born,"58,198","+/-3,970",8.9,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",94.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",95,Foreign-born population,"58,198","+/-3,970","58,198",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",96,Naturalized U.S. citizen,"24,431","+/-2,896",42.0,+/-4.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",97,Not a U.S. citizen,"33,767","+/-3,906",58.0,+/-4.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",97.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",98,Population born outside the United States,"64,266","+/-4,653","64,266",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",98.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",99,Native,"6,068","+/-2,175","6,068",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",100,Entered 2010 or later,"2,347","+/-1,589",38.7,+/-14.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",101,Entered before 2010,"3,721",+/-956,61.3,+/-14.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",101.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",102,Foreign born,"58,198","+/-3,970","58,198",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",103,Entered 2010 or later,"26,240","+/-3,575",45.1,+/-4.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",104,Entered before 2010,"31,958","+/-2,783",54.9,+/-4.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",104.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",105,"Foreign-born population, excluding population born at sea","58,198","+/-3,970","58,198",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",106,Europe,"3,782","+/-1,016",6.5,+/-1.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",107,Asia,"21,904","+/-2,012",37.6,+/-3.0
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",108,Africa,"6,110","+/-1,838",10.5,+/-2.9
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",109,Oceania,158,+/-131,0.3,+/-0.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",110,Latin America,"25,151","+/-2,516",43.2,+/-3.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",111,Northern America,"1,093",+/-541,1.9,+/-0.9
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",111.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",112,Population 5 years and over,"611,233","+/-3,575","611,233",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",113,English only,"527,735","+/-5,839",86.3,+/-0.8
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",114,Language other than English,"83,498","+/-4,764",13.7,+/-0.8
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",115,"Speak English less than ""very well""","36,350","+/-3,343",5.9,+/-0.6
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",116,Spanish,"51,560","+/-3,222",8.4,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",117,"Speak English less than ""very well""","21,394","+/-2,822",3.5,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",118,Other Indo-European languages,"12,199","+/-2,801",2.0,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",119,"Speak English less than ""very well""","5,571","+/-2,016",0.9,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",120,Asian and Pacific Islander languages,"12,583","+/-2,160",2.1,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",121,"Speak English less than ""very well""","6,807","+/-1,648",1.1,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",122,Other languages,"7,156","+/-2,660",1.2,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",123,"Speak English less than ""very well""","2,578","+/-1,189",0.4,+/-0.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",123.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",123.5,ANCESTRY,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",124,Total population,"656,171","+/-3,617","656,171",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",125,American,"19,469","+/-3,028",3.0,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",126,Arab,"4,540","+/-1,735",0.7,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",127,Czech,"20,877","+/-2,827",3.2,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",128,Danish,"10,917","+/-1,778",1.7,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",129,Dutch,"8,940","+/-2,328",1.4,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",130,English,"56,913","+/-4,633",8.7,+/-0.7
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",131,French (except Basque),"9,760","+/-1,877",1.5,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",132,French Canadian,"1,659",+/-736,0.3,+/-0.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",133,German,"175,750","+/-8,206",26.8,+/-1.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",134,Greek,"1,449",+/-821,0.2,+/-0.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",135,Hungarian,"1,445",+/-803,0.2,+/-0.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",136,Irish,"84,627","+/-5,401",12.9,+/-0.8
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",137,Italian,"24,408","+/-3,334",3.7,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",138,Lithuanian,"1,219",+/-652,0.2,+/-0.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",139,Norwegian,"13,216","+/-2,517",2.0,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",140,Polish,"22,692","+/-2,644",3.5,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",141,Portuguese,640,+/-445,0.1,+/-0.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",142,Russian,"3,857","+/-1,134",0.6,+/-0.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",143,Scotch-Irish,"4,288","+/-1,331",0.7,+/-0.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",144,Scottish,"11,973","+/-2,301",1.8,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",145,Slovak,201,+/-192,0.0,+/-0.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",146,Subsaharan African,"9,498","+/-3,057",1.4,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",147,Swedish,"19,543","+/-2,710",3.0,+/-0.4
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",148,Swiss,"2,913","+/-1,975",0.4,+/-0.3
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",149,Ukrainian,776,+/-387,0.1,+/-0.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",150,Welsh,"3,017","+/-1,033",0.5,+/-0.2
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",151,West Indian (excluding Hispanic origin groups),684,+/-513,0.1,+/-0.1
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",151.3,,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",152,Total households,"260,954","+/-2,682","260,954",(X)
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",153,With a computer,"250,531","+/-2,699",96.0,+/-0.5
+DP02,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",154,With a broadband Internet subscription,"240,191","+/-3,223",92.0,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",0.5,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",1,Total households,"263,753","+/-2,865","263,753",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",2,Married-couple household,"138,218","+/-3,849",52.4,+/-1.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",3,With children of the householder under 18 years,"49,739","+/-2,620",18.9,+/-0.9
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",4,Cohabiting couple household,"14,674","+/-1,663",5.6,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",5,With children of the householder under 18 years,"5,498","+/-1,101",2.1,+/-0.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",6,"Male householder, no spouse/partner present","48,348","+/-2,910",18.3,+/-1.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",7,With children of the householder under 18 years,"3,731",+/-895,1.4,+/-0.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",8,Householder living alone,"37,264","+/-2,600",14.1,+/-1.0
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",9,65 years and over,"13,731","+/-1,519",5.2,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",10,"Female householder, no spouse/partner present","62,513","+/-2,694",23.7,+/-1.0
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",11,With children of the householder under 18 years,"8,543","+/-1,346",3.2,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",12,Householder living alone,"43,024","+/-2,130",16.3,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",13,65 years and over,"24,941","+/-1,418",9.5,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",13.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",14,Households with one or more people under 18 years,"73,851","+/-2,958",28.0,+/-1.0
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",15,Households with one or more people 65 years and over,"93,099","+/-1,661",35.3,+/-0.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",15.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",16,Average household size,2.40,+/-0.02,(X),(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",17,Average family size,2.99,+/-0.05,(X),(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",17.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",17.5,RELATIONSHIP,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",18,Population in households,"632,185","+/-3,300","632,185",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",19,Householder,"263,753","+/-2,865",41.7,+/-0.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",20,Spouse,"137,489","+/-3,814",21.7,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",21,Unmarried partner,"15,403","+/-1,742",2.4,+/-0.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",22,Child,"175,172","+/-4,574",27.7,+/-0.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",23,Other relatives,"23,536","+/-3,015",3.7,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",24,Other nonrelatives,"16,832","+/-2,909",2.7,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",24.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",24.5,MARITAL STATUS,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",25,Males 15 years and over,"260,658","+/-2,953","260,658",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",26,Never married,"76,552","+/-3,295",29.4,+/-1.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",27,"Now married, except separated","146,701","+/-4,304",56.3,+/-1.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",28,Separated,"2,105",+/-747,0.8,+/-0.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",29,Widowed,"8,302","+/-1,188",3.2,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",30,Divorced,"26,998","+/-2,305",10.4,+/-0.9
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",30.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",31,Females 15 years and over,"259,243","+/-2,269","259,243",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",32,Never married,"59,365","+/-2,558",22.9,+/-0.9
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",33,"Now married, except separated","140,749","+/-3,924",54.3,+/-1.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",34,Separated,"3,402","+/-1,314",1.3,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",35,Widowed,"25,717","+/-1,375",9.9,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",36,Divorced,"30,010","+/-2,076",11.6,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",36.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",36.5,FERTILITY,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"9,463","+/-1,511","9,463",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",38,"Unmarried women (widowed, divorced, and never married)","2,180",+/-693,23.0,+/-5.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",39,"Per 1,000 unmarried women",34,+/-11,(X),(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",40,"Per 1,000 women 15 to 50 years old",73,+/-11,(X),(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",41,"Per 1,000 women 15 to 19 years old",1,+/-2,(X),(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",42,"Per 1,000 women 20 to 34 years old",143,+/-22,(X),(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",43,"Per 1,000 women 35 to 50 years old",33,+/-11,(X),(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",43.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",43.5,GRANDPARENTS,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",44,Number of grandparents living with own grandchildren under 18 years,"7,706","+/-1,499","7,706",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",45,Grandparents responsible for grandchildren,"3,377",+/-876,43.8,+/-9.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",46,Less than 1 year,537,+/-247,7.0,+/-3.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",47,1 or 2 years,704,+/-441,9.1,+/-5.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",48,3 or 4 years,836,+/-416,10.8,+/-5.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",49,5 or more years,"1,300",+/-527,16.9,+/-6.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",49.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",50,Number of grandparents responsible for own grandchildren under 18 years,"3,377",+/-876,"3,377",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",51,Who are female,"2,167",+/-606,64.2,+/-6.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",52,Who are married,"2,159",+/-762,63.9,+/-12.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",52.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",53,Population 3 years and over enrolled in school,"157,117","+/-3,414","157,117",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",54,"Nursery school, preschool","12,404","+/-1,500",7.9,+/-0.9
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",55,Kindergarten,"9,678","+/-1,380",6.2,+/-0.9
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",56,Elementary school (grades 1-8),"68,907","+/-2,617",43.9,+/-1.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",57,High school (grades 9-12),"35,996","+/-2,142",22.9,+/-1.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",58,College or graduate school,"30,132","+/-2,166",19.2,+/-1.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",58.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",59,Population 25 years and over,"441,226","+/-2,688","441,226",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",60,Less than 9th grade,"18,964","+/-2,204",4.3,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",61,"9th to 12th grade, no diploma","21,867","+/-2,172",5.0,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",62,High school graduate (includes equivalency),"136,639","+/-4,569",31.0,+/-1.0
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",63,"Some college, no degree","100,275","+/-3,476",22.7,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",64,Associate's degree,"53,302","+/-3,018",12.1,+/-0.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",65,Bachelor's degree,"73,606","+/-3,773",16.7,+/-0.9
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",66,Graduate or professional degree,"36,573","+/-3,020",8.3,+/-0.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",66.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",67,High school graduate or higher,"400,395","+/-3,518",90.7,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",68,Bachelor's degree or higher,"110,179","+/-4,708",25.0,+/-1.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",68.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",68.5,VETERAN STATUS,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",69,Civilian population 18 years and over,"492,340","+/-2,376","492,340",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",70,Civilian veterans,"33,187","+/-2,123",6.7,+/-0.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",70.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",71,Total Civilian Noninstitutionalized Population,"640,601","+/-3,065","640,601",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",72,With a disability,"92,284","+/-3,919",14.4,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",72.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",73,Under 18 years,"156,447","+/-1,929","156,447",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",74,With a disability,"7,960","+/-1,233",5.1,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",74.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",75,18 to 64 years,"355,579","+/-2,756","355,579",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",76,With a disability,"41,111","+/-2,825",11.6,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",76.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",77,65 years and over,"128,575","+/-1,451","128,575",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",78,With a disability,"43,213","+/-2,394",33.6,+/-1.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",78.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",79,Population 1 year and over,"640,610","+/-2,970","640,610",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",80,Same house,"560,790","+/-5,924",87.5,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",81,Different house (in the U.S. or abroad),"79,820","+/-5,356",12.5,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",82,Different house in the U.S.,"77,507","+/-5,235",12.1,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",83,Same county,"40,778","+/-4,093",6.4,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",84,Different county,"36,729","+/-3,938",5.7,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",85,Same state,"24,886","+/-2,727",3.9,+/-0.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",86,Different state,"11,843","+/-2,652",1.8,+/-0.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",87,Abroad,"2,313","+/-1,103",0.4,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",87.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",88,Total population,"649,325","+/-2,732","649,325",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",89,Native,"611,313","+/-3,827",94.1,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",90,Born in United States,"607,850","+/-3,785",93.6,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",91,State of residence,"439,059","+/-5,556",67.6,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",92,Different state,"168,791","+/-5,468",26.0,+/-0.8
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","3,463","+/-1,069",0.5,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",94,Foreign born,"38,012","+/-3,381",5.9,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",94.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",95,Foreign-born population,"38,012","+/-3,381","38,012",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",96,Naturalized U.S. citizen,"16,386","+/-1,995",43.1,+/-4.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",97,Not a U.S. citizen,"21,626","+/-2,858",56.9,+/-4.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",97.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",98,Population born outside the United States,"41,475","+/-3,435","41,475",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",98.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",99,Native,"3,463","+/-1,069","3,463",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",100,Entered 2010 or later,"1,418",+/-713,40.9,+/-13.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",101,Entered before 2010,"2,045",+/-703,59.1,+/-13.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",101.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",102,Foreign born,"38,012","+/-3,381","38,012",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",103,Entered 2010 or later,"14,750","+/-3,204",38.8,+/-6.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",104,Entered before 2010,"23,262","+/-2,273",61.2,+/-6.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",104.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",106,Europe,N,N,N,N
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",107,Asia,N,N,N,N
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",108,Africa,N,N,N,N
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",109,Oceania,N,N,N,N
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",110,Latin America,N,N,N,N
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",111,Northern America,N,N,N,N
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",111.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",112,Population 5 years and over,"609,933","+/-2,889","609,933",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",113,English only,"548,320","+/-3,831",89.9,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",114,Language other than English,"61,613","+/-3,553",10.1,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",115,"Speak English less than ""very well""","30,573","+/-2,817",5.0,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",116,Spanish,"49,095","+/-3,151",8.0,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",117,"Speak English less than ""very well""","25,286","+/-2,498",4.1,+/-0.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",118,Other Indo-European languages,"5,012","+/-1,254",0.8,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",119,"Speak English less than ""very well""","1,248",+/-765,0.2,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",120,Asian and Pacific Islander languages,"3,729",+/-940,0.6,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",121,"Speak English less than ""very well""","1,881",+/-530,0.3,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",122,Other languages,"3,777",+/-941,0.6,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",123,"Speak English less than ""very well""","2,158",+/-733,0.4,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",123.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",123.5,ANCESTRY,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",124,Total population,"649,325","+/-2,732","649,325",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",125,American,"26,646","+/-3,045",4.1,+/-0.5
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",126,Arab,698,+/-363,0.1,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",127,Czech,"20,291","+/-2,353",3.1,+/-0.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",128,Danish,"10,885","+/-1,571",1.7,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",129,Dutch,"8,535","+/-1,677",1.3,+/-0.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",130,English,"62,954","+/-4,184",9.7,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",131,French (except Basque),"10,038","+/-1,653",1.5,+/-0.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",132,French Canadian,"1,027",+/-445,0.2,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",133,German,"229,618","+/-6,933",35.4,+/-1.0
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",134,Greek,988,+/-796,0.2,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",135,Hungarian,413,+/-265,0.1,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",136,Irish,"70,337","+/-4,558",10.8,+/-0.7
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",137,Italian,"10,619","+/-2,438",1.6,+/-0.4
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",138,Lithuanian,148,+/-217,0.0,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",139,Norwegian,"9,479","+/-1,622",1.5,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",140,Polish,"11,426","+/-1,698",1.8,+/-0.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",141,Portuguese,725,+/-388,0.1,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",142,Russian,"2,795",+/-810,0.4,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",143,Scotch-Irish,"3,473",+/-849,0.5,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",144,Scottish,"7,776","+/-1,439",1.2,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",145,Slovak,464,+/-497,0.1,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",146,Subsaharan African,"3,854","+/-1,143",0.6,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",147,Swedish,"24,725","+/-2,239",3.8,+/-0.3
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",148,Swiss,"2,950","+/-1,070",0.5,+/-0.2
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",149,Ukrainian,380,+/-454,0.1,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",150,Welsh,"3,036",+/-932,0.5,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",151,West Indian (excluding Hispanic origin groups),273,+/-224,0.0,+/-0.1
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",151.3,,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",152,Total households,"263,753","+/-2,865","263,753",(X)
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",153,With a computer,"245,021","+/-3,351",92.9,+/-0.6
+DP02,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",154,With a broadband Internet subscription,"228,205","+/-3,608",86.5,+/-0.8

@@ -1,0 +1,801 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",0.5,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",1,Total households,"288,026","+/-4,075","288,026",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",2,Married-couple household,"140,836","+/-4,494",48.9,+/-1.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",3,With children of the householder under 18 years,"53,147","+/-2,869",18.5,+/-1.0
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",4,Cohabiting couple household,"11,086","+/-1,787",3.8,+/-0.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",5,With children of the householder under 18 years,"4,104","+/-1,322",1.4,+/-0.5
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",6,"Male householder, no spouse/partner present","49,173","+/-3,477",17.1,+/-1.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",7,With children of the householder under 18 years,"2,962","+/-1,093",1.0,+/-0.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",8,Householder living alone,"35,906","+/-3,330",12.5,+/-1.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",9,65 years and over,"11,142","+/-1,326",3.9,+/-0.5
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",10,"Female householder, no spouse/partner present","86,931","+/-3,635",30.2,+/-1.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",11,With children of the householder under 18 years,"18,351","+/-2,452",6.4,+/-0.8
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",12,Householder living alone,"46,544","+/-2,966",16.2,+/-1.0
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",13,65 years and over,"24,443","+/-2,076",8.5,+/-0.7
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",13.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",14,Households with one or more people under 18 years,"90,419","+/-4,087",31.4,+/-1.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",15,Households with one or more people 65 years and over,"92,639","+/-2,460",32.2,+/-0.8
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",15.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",16,Average household size,2.53,+/-0.03,(X),(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",17,Average family size,3.13,+/-0.07,(X),(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",17.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",17.5,RELATIONSHIP,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",18,Population in households,"728,844","+/-3,853","728,844",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",19,Householder,"288,026","+/-4,075",39.5,+/-0.5
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",20,Spouse,"140,627","+/-4,476",19.3,+/-0.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",21,Unmarried partner,"11,347","+/-1,857",1.6,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",22,Child,"220,431","+/-6,447",30.2,+/-0.9
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",23,Other relatives,"52,385","+/-5,703",7.2,+/-0.8
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",24,Other nonrelatives,"16,028","+/-3,185",2.2,+/-0.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",24.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",24.5,MARITAL STATUS,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",25,Males 15 years and over,"286,296","+/-2,368","286,296",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",26,Never married,"95,637","+/-4,347",33.4,+/-1.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",27,"Now married, except separated","149,263","+/-4,801",52.1,+/-1.7
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",28,Separated,"2,957",+/-980,1.0,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",29,Widowed,"9,829","+/-1,757",3.4,+/-0.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",30,Divorced,"28,610","+/-3,336",10.0,+/-1.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",30.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",31,Females 15 years and over,"314,949","+/-2,538","314,949",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",32,Never married,"88,645","+/-3,537",28.1,+/-1.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",33,"Now married, except separated","147,604","+/-5,118",46.9,+/-1.5
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",34,Separated,"7,359","+/-1,261",2.3,+/-0.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",35,Widowed,"31,829","+/-2,636",10.1,+/-0.8
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",36,Divorced,"39,512","+/-3,193",12.5,+/-1.0
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",36.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",36.5,FERTILITY,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,908","+/-1,629","7,908",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",38,"Unmarried women (widowed, divorced, and never married)","2,846","+/-1,045",36.0,+/-10.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",39,"Per 1,000 unmarried women",29,+/-11,(X),(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",40,"Per 1,000 women 15 to 50 years old",44,+/-9,(X),(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",41,"Per 1,000 women 15 to 19 years old",2,+/-4,(X),(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",42,"Per 1,000 women 20 to 34 years old",84,+/-18,(X),(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",43,"Per 1,000 women 35 to 50 years old",24,+/-12,(X),(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",43.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",43.5,GRANDPARENTS,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",44,Number of grandparents living with own grandchildren under 18 years,"17,439","+/-2,238","17,439",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",45,Grandparents responsible for grandchildren,"7,743","+/-1,393",44.4,+/-7.8
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",46,Less than 1 year,532,+/-374,3.1,+/-2.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",47,1 or 2 years,"1,033",+/-706,5.9,+/-3.8
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",48,3 or 4 years,"1,713",+/-785,9.8,+/-4.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",49,5 or more years,"4,465",+/-920,25.6,+/-6.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",49.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",50,Number of grandparents responsible for own grandchildren under 18 years,"7,743","+/-1,393","7,743",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",51,Who are female,"4,857",+/-966,62.7,+/-6.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",52,Who are married,"5,393","+/-1,192",69.7,+/-7.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",52.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",53,Population 3 years and over enrolled in school,"185,847","+/-5,279","185,847",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",54,"Nursery school, preschool","9,983","+/-2,142",5.4,+/-1.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",55,Kindergarten,"8,881","+/-1,655",4.8,+/-0.9
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",56,Elementary school (grades 1-8),"83,983","+/-3,100",45.2,+/-1.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",57,High school (grades 9-12),"43,444","+/-2,705",23.4,+/-1.5
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",58,College or graduate school,"39,556","+/-3,952",21.3,+/-1.7
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",58.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",59,Population 25 years and over,"495,085","+/-4,146","495,085",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",60,Less than 9th grade,"23,141","+/-2,663",4.7,+/-0.5
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",61,"9th to 12th grade, no diploma","44,689","+/-3,927",9.0,+/-0.8
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",62,High school graduate (includes equivalency),"157,785","+/-7,066",31.9,+/-1.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",63,"Some college, no degree","96,866","+/-5,367",19.6,+/-1.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",64,Associate's degree,"52,263","+/-4,370",10.6,+/-0.9
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",65,Bachelor's degree,"78,238","+/-5,244",15.8,+/-1.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",66,Graduate or professional degree,"42,103","+/-3,585",8.5,+/-0.7
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",66.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",67,High school graduate or higher,"427,255","+/-5,469",86.3,+/-0.9
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",68,Bachelor's degree or higher,"120,341","+/-6,579",24.3,+/-1.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",68.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",68.5,VETERAN STATUS,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",69,Civilian population 18 years and over,"567,926","+/-3,171","567,926",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",70,Civilian veterans,"37,276","+/-3,177",6.6,+/-0.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",70.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",71,Total Civilian Noninstitutionalized Population,"735,769","+/-3,688","735,769",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",72,With a disability,"113,740","+/-5,544",15.5,+/-0.7
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",72.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",73,Under 18 years,"175,669","+/-1,573","175,669",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",74,With a disability,"9,696","+/-1,711",5.5,+/-1.0
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",74.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",75,18 to 64 years,"439,235","+/-3,267","439,235",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",76,With a disability,"61,093","+/-4,643",13.9,+/-1.0
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",76.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",77,65 years and over,"120,865","+/-2,035","120,865",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",78,With a disability,"42,951","+/-2,732",35.5,+/-2.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",78.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",79,Population 1 year and over,"738,339","+/-3,388","738,339",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",80,Same house,"677,886","+/-7,788",91.8,+/-0.9
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",81,Different house (in the U.S. or abroad),"60,453","+/-6,676",8.2,+/-0.9
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",82,Different house in the U.S.,"59,484","+/-6,610",8.1,+/-0.9
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",83,Same county,"28,722","+/-4,096",3.9,+/-0.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",84,Different county,"30,762","+/-4,101",4.2,+/-0.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",85,Same state,"14,754","+/-2,694",2.0,+/-0.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",86,Different state,"16,008","+/-2,938",2.2,+/-0.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",87,Abroad,969,+/-812,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",87.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",88,Total population,"745,526","+/-3,044","745,526",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",89,Native,"730,021","+/-3,398",97.9,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",90,Born in United States,"727,817","+/-3,409",97.6,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",91,State of residence,"469,305","+/-9,151",62.9,+/-1.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",92,Different state,"258,512","+/-8,874",34.7,+/-1.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","2,204",+/-708,0.3,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",94,Foreign born,"15,505","+/-1,878",2.1,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",94.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",95,Foreign-born population,"15,505","+/-1,878","15,505",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",96,Naturalized U.S. citizen,"7,429","+/-1,653",47.9,+/-8.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",97,Not a U.S. citizen,"8,076","+/-1,614",52.1,+/-8.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",97.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",98,Population born outside the United States,"17,709","+/-2,007","17,709",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",98.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",99,Native,"2,204",+/-708,"2,204",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",100,Entered 2010 or later,412,+/-332,18.7,+/-13.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",101,Entered before 2010,"1,792",+/-620,81.3,+/-13.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",101.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",102,Foreign born,"15,505","+/-1,878","15,505",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",103,Entered 2010 or later,"4,268","+/-1,413",27.5,+/-7.8
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",104,Entered before 2010,"11,237","+/-1,581",72.5,+/-7.8
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",104.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",106,Europe,N,N,N,N
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",107,Asia,N,N,N,N
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",108,Africa,N,N,N,N
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",109,Oceania,N,N,N,N
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",110,Latin America,N,N,N,N
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",111,Northern America,N,N,N,N
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",111.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",112,Population 5 years and over,"703,602","+/-3,391","703,602",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",113,English only,"679,499","+/-3,742",96.6,+/-0.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",114,Language other than English,"24,103","+/-2,572",3.4,+/-0.4
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",115,"Speak English less than ""very well""","8,744","+/-1,170",1.2,+/-0.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",116,Spanish,"17,175","+/-2,225",2.4,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",117,"Speak English less than ""very well""","6,886","+/-1,068",1.0,+/-0.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",118,Other Indo-European languages,"3,922","+/-1,375",0.6,+/-0.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",119,"Speak English less than ""very well""",729,+/-474,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",120,Asian and Pacific Islander languages,"2,226",+/-853,0.3,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",121,"Speak English less than ""very well""",899,+/-424,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",122,Other languages,780,+/-542,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",123,"Speak English less than ""very well""",230,+/-249,0.0,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",123.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",123.5,ANCESTRY,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",124,Total population,"745,526","+/-3,044","745,526",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",125,American,"60,724","+/-5,201",8.1,+/-0.7
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",126,Arab,"1,839","+/-1,441",0.2,+/-0.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",127,Czech,981,+/-735,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",128,Danish,553,+/-377,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",129,Dutch,"3,467","+/-1,477",0.5,+/-0.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",130,English,"92,019","+/-7,090",12.3,+/-1.0
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",131,French (except Basque),"6,649","+/-1,930",0.9,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",132,French Canadian,944,+/-484,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",133,German,"38,112","+/-4,671",5.1,+/-0.6
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",134,Greek,380,+/-345,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",135,Hungarian,108,+/-183,0.0,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",136,Irish,"65,035","+/-6,964",8.7,+/-0.9
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",137,Italian,"7,839","+/-2,014",1.1,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",138,Lithuanian,0,+/-233,0.0,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",139,Norwegian,"1,209",+/-685,0.2,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",140,Polish,"3,033","+/-1,231",0.4,+/-0.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",141,Portuguese,36,+/-64,0.0,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",142,Russian,943,+/-666,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",143,Scotch-Irish,"7,651","+/-1,965",1.0,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",144,Scottish,"10,757","+/-2,480",1.4,+/-0.3
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",145,Slovak,0,+/-233,0.0,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",146,Subsaharan African,"3,481","+/-1,635",0.5,+/-0.2
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",147,Swedish,"1,568",+/-689,0.2,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",148,Swiss,359,+/-373,0.0,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",149,Ukrainian,0,+/-233,0.0,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",150,Welsh,"1,164",+/-732,0.2,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",151,West Indian (excluding Hispanic origin groups),387,+/-467,0.1,+/-0.1
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",151.3,,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",152,Total households,"288,026","+/-4,075","288,026",(X)
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",153,With a computer,"262,384","+/-5,210",91.1,+/-1.0
+DP02,5001800US2801,"Congressional District 1 (118th Congress), Mississippi",154,With a broadband Internet subscription,"236,932","+/-5,301",82.3,+/-1.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",0.5,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",1,Total households,"275,332","+/-4,446","275,332",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",2,Married-couple household,"91,598","+/-4,448",33.3,+/-1.6
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",3,With children of the householder under 18 years,"27,928","+/-3,096",10.1,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",4,Cohabiting couple household,"13,229","+/-2,030",4.8,+/-0.7
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",5,With children of the householder under 18 years,"5,523","+/-1,532",2.0,+/-0.6
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",6,"Male householder, no spouse/partner present","58,418","+/-3,547",21.2,+/-1.2
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",7,With children of the householder under 18 years,"2,605",+/-977,0.9,+/-0.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",8,Householder living alone,"44,177","+/-3,080",16.0,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",9,65 years and over,"13,984","+/-1,582",5.1,+/-0.6
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",10,"Female householder, no spouse/partner present","112,087","+/-4,326",40.7,+/-1.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",11,With children of the householder under 18 years,"30,283","+/-3,121",11.0,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",12,Householder living alone,"48,259","+/-2,923",17.5,+/-1.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",13,65 years and over,"24,264","+/-1,942",8.8,+/-0.7
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",13.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",14,Households with one or more people under 18 years,"81,582","+/-4,810",29.6,+/-1.6
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",15,Households with one or more people 65 years and over,"92,229","+/-2,595",33.5,+/-0.9
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",15.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",16,Average household size,2.52,+/-0.04,(X),(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",17,Average family size,3.29,+/-0.08,(X),(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",17.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",17.5,RELATIONSHIP,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",18,Population in households,"694,179","+/-7,188","694,179",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",19,Householder,"275,332","+/-4,446",39.7,+/-0.7
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",20,Spouse,"92,426","+/-4,613",13.3,+/-0.7
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",21,Unmarried partner,"12,708","+/-2,069",1.8,+/-0.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",22,Child,"230,233","+/-8,030",33.2,+/-1.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",23,Other relatives,"69,382","+/-5,984",10.0,+/-0.8
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",24,Other nonrelatives,"14,098","+/-2,588",2.0,+/-0.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",24.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",24.5,MARITAL STATUS,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",25,Males 15 years and over,"277,604","+/-3,088","277,604",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",26,Never married,"127,325","+/-4,758",45.9,+/-1.6
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",27,"Now married, except separated","102,489","+/-5,522",36.9,+/-2.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",28,Separated,"9,203","+/-1,806",3.3,+/-0.7
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",29,Widowed,"9,889","+/-1,323",3.6,+/-0.5
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",30,Divorced,"28,698","+/-2,919",10.3,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",30.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",31,Females 15 years and over,"301,763","+/-4,052","301,763",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",32,Never married,"122,787","+/-5,019",40.7,+/-1.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",33,"Now married, except separated","98,385","+/-4,565",32.6,+/-1.5
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",34,Separated,"9,880","+/-1,556",3.3,+/-0.5
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",35,Widowed,"35,036","+/-2,557",11.6,+/-0.9
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",36,Divorced,"35,675","+/-2,975",11.8,+/-1.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",36.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",36.5,FERTILITY,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,028","+/-1,640","8,028",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",38,"Unmarried women (widowed, divorced, and never married)","5,707","+/-1,452",71.1,+/-9.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",39,"Per 1,000 unmarried women",48,+/-12,(X),(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",40,"Per 1,000 women 15 to 50 years old",49,+/-10,(X),(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",41,"Per 1,000 women 15 to 19 years old",9,+/-7,(X),(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",42,"Per 1,000 women 20 to 34 years old",97,+/-22,(X),(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",43,"Per 1,000 women 35 to 50 years old",18,+/-7,(X),(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",43.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",43.5,GRANDPARENTS,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",44,Number of grandparents living with own grandchildren under 18 years,"20,339","+/-3,273","20,339",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",45,Grandparents responsible for grandchildren,"10,900","+/-2,604",53.6,+/-7.5
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",46,Less than 1 year,"1,442",+/-693,7.1,+/-3.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",47,1 or 2 years,"3,011","+/-1,421",14.8,+/-6.2
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",48,3 or 4 years,589,+/-363,2.9,+/-1.8
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",49,5 or more years,"5,858","+/-1,682",28.8,+/-6.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",49.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",50,Number of grandparents responsible for own grandchildren under 18 years,"10,900","+/-2,604","10,900",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",51,Who are female,"6,953","+/-1,432",63.8,+/-6.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",52,Who are married,"7,269","+/-2,303",66.7,+/-8.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",52.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",53,Population 3 years and over enrolled in school,"179,289","+/-6,223","179,289",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",54,"Nursery school, preschool","9,219","+/-1,684",5.1,+/-0.9
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",55,Kindergarten,"8,662","+/-1,755",4.8,+/-1.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",56,Elementary school (grades 1-8),"79,407","+/-3,503",44.3,+/-1.7
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",57,High school (grades 9-12),"38,179","+/-2,379",21.3,+/-1.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",58,College or graduate school,"43,822","+/-4,258",24.4,+/-1.8
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",58.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",59,Population 25 years and over,"480,632","+/-4,641","480,632",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",60,Less than 9th grade,"27,001","+/-2,701",5.6,+/-0.6
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",61,"9th to 12th grade, no diploma","54,456","+/-4,405",11.3,+/-0.9
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",62,High school graduate (includes equivalency),"141,980","+/-5,433",29.5,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",63,"Some college, no degree","106,449","+/-6,035",22.1,+/-1.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",64,Associate's degree,"44,034","+/-4,162",9.2,+/-0.9
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",65,Bachelor's degree,"63,713","+/-5,359",13.3,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",66,Graduate or professional degree,"42,999","+/-3,978",8.9,+/-0.8
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",66.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",67,High school graduate or higher,"399,175","+/-6,477",83.1,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",68,Bachelor's degree or higher,"106,712","+/-6,044",22.2,+/-1.2
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",68.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",68.5,VETERAN STATUS,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",69,Civilian population 18 years and over,"548,960","+/-4,953","548,960",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",70,Civilian veterans,"27,098","+/-2,305",4.9,+/-0.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",70.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",71,Total Civilian Noninstitutionalized Population,"703,545","+/-7,270","703,545",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",72,With a disability,"132,573","+/-6,162",18.8,+/-0.9
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",72.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",73,Under 18 years,"172,683","+/-3,077","172,683",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",74,With a disability,"10,839","+/-2,062",6.3,+/-1.2
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",74.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",75,18 to 64 years,"409,042","+/-5,626","409,042",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",76,With a disability,"72,498","+/-4,259",17.7,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",76.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",77,65 years and over,"121,820","+/-2,250","121,820",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",78,With a disability,"49,236","+/-3,175",40.4,+/-2.5
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",78.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",79,Population 1 year and over,"714,879","+/-6,736","714,879",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",80,Same house,"639,294","+/-9,443",89.4,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",81,Different house (in the U.S. or abroad),"75,585","+/-8,006",10.6,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",82,Different house in the U.S.,"73,269","+/-7,811",10.2,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",83,Same county,"47,418","+/-7,184",6.6,+/-1.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",84,Different county,"25,851","+/-4,231",3.6,+/-0.6
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",85,Same state,"17,755","+/-3,799",2.5,+/-0.5
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",86,Different state,"8,096","+/-2,193",1.1,+/-0.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",87,Abroad,"2,316","+/-1,036",0.3,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",87.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",88,Total population,"723,186","+/-6,519","723,186",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",89,Native,"713,049","+/-6,135",98.6,+/-0.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",90,Born in United States,"711,085","+/-6,217",98.3,+/-0.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",91,State of residence,"595,121","+/-9,254",82.3,+/-1.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",92,Different state,"115,964","+/-6,985",16.0,+/-1.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","1,964",+/-716,0.3,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",94,Foreign born,"10,137","+/-2,165",1.4,+/-0.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",94.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",95,Foreign-born population,"10,137","+/-2,165","10,137",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",96,Naturalized U.S. citizen,"3,798","+/-1,646",37.5,+/-12.7
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",97,Not a U.S. citizen,"6,339","+/-1,698",62.5,+/-12.7
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",97.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",98,Population born outside the United States,"12,101","+/-2,128","12,101",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",98.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",99,Native,"1,964",+/-716,"1,964",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",100,Entered 2010 or later,419,+/-260,21.3,+/-12.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",101,Entered before 2010,"1,545",+/-641,78.7,+/-12.0
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",101.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",102,Foreign born,"10,137","+/-2,165","10,137",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",103,Entered 2010 or later,"6,301","+/-1,559",62.2,+/-7.5
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",104,Entered before 2010,"3,836","+/-1,123",37.8,+/-7.5
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",104.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",106,Europe,N,N,N,N
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",107,Asia,N,N,N,N
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",108,Africa,N,N,N,N
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",109,Oceania,N,N,N,N
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",110,Latin America,N,N,N,N
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",111,Northern America,N,N,N,N
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",111.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",112,Population 5 years and over,"679,987","+/-5,939","679,987",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",113,English only,"661,339","+/-5,664",97.3,+/-0.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",114,Language other than English,"18,648","+/-2,629",2.7,+/-0.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",115,"Speak English less than ""very well""","8,779","+/-1,804",1.3,+/-0.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",116,Spanish,"12,520","+/-1,739",1.8,+/-0.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",117,"Speak English less than ""very well""","7,380","+/-1,697",1.1,+/-0.2
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",118,Other Indo-European languages,"2,052",+/-838,0.3,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",119,"Speak English less than ""very well""",549,+/-373,0.1,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",120,Asian and Pacific Islander languages,"1,806",+/-654,0.3,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",121,"Speak English less than ""very well""",716,+/-350,0.1,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",122,Other languages,"2,270","+/-1,529",0.3,+/-0.2
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",123,"Speak English less than ""very well""",134,+/-176,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",123.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",123.5,ANCESTRY,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",124,Total population,"723,186","+/-6,519","723,186",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",125,American,"54,616","+/-5,412",7.6,+/-0.7
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",126,Arab,"1,390","+/-1,162",0.2,+/-0.2
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",127,Czech,0,+/-233,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",128,Danish,212,+/-256,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",129,Dutch,"1,224",+/-597,0.2,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",130,English,"46,619","+/-4,321",6.4,+/-0.6
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",131,French (except Basque),"5,879","+/-1,941",0.8,+/-0.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",132,French Canadian,"1,039",+/-686,0.1,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",133,German,"19,111","+/-3,029",2.6,+/-0.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",134,Greek,523,+/-519,0.1,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",135,Hungarian,0,+/-233,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",136,Irish,"30,495","+/-4,150",4.2,+/-0.6
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",137,Italian,"7,609","+/-2,233",1.1,+/-0.3
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",138,Lithuanian,0,+/-233,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",139,Norwegian,248,+/-194,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",140,Polish,"1,047",+/-604,0.1,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",141,Portuguese,98,+/-118,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",142,Russian,153,+/-224,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",143,Scotch-Irish,"5,168","+/-1,699",0.7,+/-0.2
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",144,Scottish,"5,608","+/-1,464",0.8,+/-0.2
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",145,Slovak,26,+/-45,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",146,Subsaharan African,"8,600","+/-2,540",1.2,+/-0.4
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",147,Swedish,994,+/-620,0.1,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",148,Swiss,25,+/-44,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",149,Ukrainian,54,+/-75,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",150,Welsh,936,+/-426,0.1,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",151,West Indian (excluding Hispanic origin groups),350,+/-427,0.0,+/-0.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",151.3,,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",152,Total households,"275,332","+/-4,446","275,332",(X)
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",153,With a computer,"243,616","+/-4,896",88.5,+/-1.1
+DP02,5001800US2802,"Congressional District 2 (118th Congress), Mississippi",154,With a broadband Internet subscription,"210,640","+/-4,964",76.5,+/-1.4
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",0.5,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",1,Total households,"280,831","+/-4,360","280,831",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",2,Married-couple household,"133,447","+/-5,429",47.5,+/-1.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",3,With children of the householder under 18 years,"47,504","+/-3,560",16.9,+/-1.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",4,Cohabiting couple household,"13,107","+/-2,492",4.7,+/-0.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",5,With children of the householder under 18 years,"6,366","+/-1,982",2.3,+/-0.7
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",6,"Male householder, no spouse/partner present","48,119","+/-3,685",17.1,+/-1.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",7,With children of the householder under 18 years,"2,774","+/-1,333",1.0,+/-0.5
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",8,Householder living alone,"35,107","+/-3,740",12.5,+/-1.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",9,65 years and over,"10,152","+/-1,689",3.6,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",10,"Female householder, no spouse/partner present","86,158","+/-4,694",30.7,+/-1.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",11,With children of the householder under 18 years,"17,340","+/-2,783",6.2,+/-1.0
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",12,Householder living alone,"43,920","+/-4,084",15.6,+/-1.4
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",13,65 years and over,"21,122","+/-2,141",7.5,+/-0.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",13.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",14,Households with one or more people under 18 years,"83,463","+/-4,871",29.7,+/-1.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",15,Households with one or more people 65 years and over,"87,984","+/-2,337",31.3,+/-0.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",15.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",16,Average household size,2.55,+/-0.04,(X),(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",17,Average family size,3.16,+/-0.07,(X),(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",17.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",17.5,RELATIONSHIP,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",18,Population in households,"717,062","+/-8,021","717,062",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",19,Householder,"280,831","+/-4,360",39.2,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",20,Spouse,"133,734","+/-5,543",18.7,+/-0.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",21,Unmarried partner,"12,430","+/-2,431",1.7,+/-0.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",22,Child,"223,938","+/-7,113",31.2,+/-0.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",23,Other relatives,"49,920","+/-6,491",7.0,+/-0.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",24,Other nonrelatives,"16,209","+/-3,494",2.3,+/-0.5
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",24.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",24.5,MARITAL STATUS,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",25,Males 15 years and over,"286,930","+/-3,983","286,930",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",26,Never married,"103,343","+/-5,434",36.0,+/-1.7
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",27,"Now married, except separated","142,356","+/-5,786",49.6,+/-2.0
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",28,Separated,"6,234","+/-1,816",2.2,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",29,Widowed,"9,208","+/-1,791",3.2,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",30,Divorced,"25,789","+/-3,255",9.0,+/-1.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",30.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",31,Females 15 years and over,"312,304","+/-4,538","312,304",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",32,Never married,"100,480","+/-5,349",32.2,+/-1.5
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",33,"Now married, except separated","137,907","+/-6,141",44.2,+/-2.0
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",34,Separated,"7,513","+/-1,790",2.4,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",35,Widowed,"31,095","+/-2,882",10.0,+/-0.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",36,Divorced,"35,309","+/-3,389",11.3,+/-1.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",36.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",36.5,FERTILITY,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,563","+/-1,997","8,563",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",38,"Unmarried women (widowed, divorced, and never married)","4,877","+/-1,824",57.0,+/-12.4
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",39,"Per 1,000 unmarried women",47,+/-17,(X),(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",40,"Per 1,000 women 15 to 50 years old",49,+/-11,(X),(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",41,"Per 1,000 women 15 to 19 years old",7,+/-9,(X),(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",42,"Per 1,000 women 20 to 34 years old",101,+/-26,(X),(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",43,"Per 1,000 women 35 to 50 years old",17,+/-8,(X),(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",43.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",43.5,GRANDPARENTS,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",44,Number of grandparents living with own grandchildren under 18 years,"14,407","+/-2,591","14,407",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",45,Grandparents responsible for grandchildren,"5,957","+/-1,547",41.3,+/-9.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",46,Less than 1 year,"1,031",+/-622,7.2,+/-4.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",47,1 or 2 years,793,+/-541,5.5,+/-3.7
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",48,3 or 4 years,765,+/-552,5.3,+/-3.7
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",49,5 or more years,"3,368","+/-1,167",23.4,+/-7.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",49.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",50,Number of grandparents responsible for own grandchildren under 18 years,"5,957","+/-1,547","5,957",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",51,Who are female,"3,480",+/-957,58.4,+/-9.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",52,Who are married,"3,466","+/-1,259",58.2,+/-10.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",52.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",53,Population 3 years and over enrolled in school,"189,042","+/-7,125","189,042",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",54,"Nursery school, preschool","7,631","+/-1,730",4.0,+/-0.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",55,Kindergarten,"8,849","+/-1,800",4.7,+/-1.0
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",56,Elementary school (grades 1-8),"78,361","+/-3,872",41.5,+/-1.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",57,High school (grades 9-12),"42,746","+/-3,023",22.6,+/-1.4
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",58,College or graduate school,"51,455","+/-4,292",27.2,+/-1.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",58.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",59,Population 25 years and over,"489,866","+/-5,039","489,866",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",60,Less than 9th grade,"21,380","+/-2,908",4.4,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",61,"9th to 12th grade, no diploma","36,248","+/-3,840",7.4,+/-0.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",62,High school graduate (includes equivalency),"142,686","+/-7,044",29.1,+/-1.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",63,"Some college, no degree","103,235","+/-5,555",21.1,+/-1.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",64,Associate's degree,"49,132","+/-4,908",10.0,+/-1.0
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",65,Bachelor's degree,"82,767","+/-5,708",16.9,+/-1.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",66,Graduate or professional degree,"54,418","+/-3,744",11.1,+/-0.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",66.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",67,High school graduate or higher,"432,238","+/-5,981",88.2,+/-0.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",68,Bachelor's degree or higher,"137,185","+/-7,120",28.0,+/-1.5
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",68.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",68.5,VETERAN STATUS,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",69,Civilian population 18 years and over,"563,775","+/-5,317","563,775",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",70,Civilian veterans,"36,706","+/-2,847",6.5,+/-0.5
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",70.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",71,Total Civilian Noninstitutionalized Population,"723,135","+/-8,436","723,135",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",72,With a disability,"121,931","+/-5,771",16.9,+/-0.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",72.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",73,Under 18 years,"171,887","+/-4,624","171,887",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",74,With a disability,"10,925","+/-2,312",6.4,+/-1.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",74.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",75,18 to 64 years,"427,719","+/-5,717","427,719",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",76,With a disability,"59,743","+/-4,456",14.0,+/-1.0
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",76.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",77,65 years and over,"123,529","+/-2,538","123,529",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",78,With a disability,"51,263","+/-2,582",41.5,+/-2.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",78.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",79,Population 1 year and over,"732,581","+/-7,918","732,581",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",80,Same house,"651,638","+/-11,042",89.0,+/-1.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",81,Different house (in the U.S. or abroad),"80,943","+/-8,286",11.0,+/-1.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",82,Different house in the U.S.,"80,242","+/-8,329",11.0,+/-1.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",83,Same county,"39,369","+/-6,348",5.4,+/-0.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",84,Different county,"40,873","+/-5,923",5.6,+/-0.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",85,Same state,"26,906","+/-5,396",3.7,+/-0.7
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",86,Different state,"13,967","+/-3,750",1.9,+/-0.5
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",87,Abroad,701,+/-507,0.1,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",87.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",88,Total population,"738,621","+/-7,913","738,621",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",89,Native,"721,803","+/-7,547",97.7,+/-0.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",90,Born in United States,"717,511","+/-7,331",97.1,+/-0.4
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",91,State of residence,"572,806","+/-11,114",77.6,+/-1.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",92,Different state,"144,705","+/-9,062",19.6,+/-1.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","4,292","+/-1,240",0.6,+/-0.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",94,Foreign born,"16,818","+/-2,416",2.3,+/-0.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",94.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",95,Foreign-born population,"16,818","+/-2,416","16,818",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",96,Naturalized U.S. citizen,"7,588","+/-1,784",45.1,+/-8.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",97,Not a U.S. citizen,"9,230","+/-2,070",54.9,+/-8.9
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",97.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",98,Population born outside the United States,"21,110","+/-2,711","21,110",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",98.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",99,Native,"4,292","+/-1,240","4,292",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",100,Entered 2010 or later,"1,345",+/-754,31.3,+/-14.5
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",101,Entered before 2010,"2,947","+/-1,017",68.7,+/-14.5
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",101.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",102,Foreign born,"16,818","+/-2,416","16,818",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",103,Entered 2010 or later,"6,663","+/-1,857",39.6,+/-7.7
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",104,Entered before 2010,"10,155","+/-1,571",60.4,+/-7.7
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",104.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",106,Europe,N,N,N,N
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",107,Asia,N,N,N,N
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",108,Africa,N,N,N,N
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",109,Oceania,N,N,N,N
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",110,Latin America,N,N,N,N
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",111,Northern America,N,N,N,N
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",111.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",112,Population 5 years and over,"694,668","+/-7,437","694,668",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",113,English only,"663,596","+/-7,546",95.5,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",114,Language other than English,"31,072","+/-4,467",4.5,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",115,"Speak English less than ""very well""","11,347","+/-2,580",1.6,+/-0.4
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",116,Spanish,"15,350","+/-3,136",2.2,+/-0.4
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",117,"Speak English less than ""very well""","6,822","+/-2,310",1.0,+/-0.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",118,Other Indo-European languages,"4,894","+/-1,349",0.7,+/-0.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",119,"Speak English less than ""very well""",938,+/-553,0.1,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",120,Asian and Pacific Islander languages,"4,717","+/-1,453",0.7,+/-0.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",121,"Speak English less than ""very well""","2,286",+/-817,0.3,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",122,Other languages,"6,111","+/-2,223",0.9,+/-0.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",123,"Speak English less than ""very well""","1,301",+/-738,0.2,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",123.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",123.5,ANCESTRY,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",124,Total population,"738,621","+/-7,913","738,621",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",125,American,"87,888","+/-8,263",11.9,+/-1.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",126,Arab,"2,145","+/-1,310",0.3,+/-0.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",127,Czech,99,+/-120,0.0,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",128,Danish,183,+/-201,0.0,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",129,Dutch,"1,641",+/-999,0.2,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",130,English,"91,126","+/-7,998",12.3,+/-1.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",131,French (except Basque),"9,710","+/-2,222",1.3,+/-0.3
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",132,French Canadian,"1,797","+/-1,439",0.2,+/-0.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",133,German,"31,050","+/-4,163",4.2,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",134,Greek,629,+/-566,0.1,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",135,Hungarian,7,+/-13,0.0,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",136,Irish,"65,570","+/-7,269",8.9,+/-1.0
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",137,Italian,"13,229","+/-3,607",1.8,+/-0.5
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",138,Lithuanian,32,+/-52,0.0,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",139,Norwegian,"2,233","+/-1,012",0.3,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",140,Polish,"2,214",+/-988,0.3,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",141,Portuguese,269,+/-354,0.0,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",142,Russian,217,+/-183,0.0,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",143,Scotch-Irish,"12,889","+/-3,135",1.7,+/-0.4
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",144,Scottish,"17,892","+/-4,626",2.4,+/-0.6
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",145,Slovak,57,+/-80,0.0,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",146,Subsaharan African,"4,057","+/-1,586",0.5,+/-0.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",147,Swedish,"1,663","+/-1,098",0.2,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",148,Swiss,318,+/-286,0.0,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",149,Ukrainian,257,+/-232,0.0,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",150,Welsh,"2,777","+/-1,430",0.4,+/-0.2
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",151,West Indian (excluding Hispanic origin groups),586,+/-537,0.1,+/-0.1
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",151.3,,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",152,Total households,"280,831","+/-4,360","280,831",(X)
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",153,With a computer,"259,915","+/-4,854",92.6,+/-0.8
+DP02,5001800US2803,"Congressional District 3 (118th Congress), Mississippi",154,With a broadband Internet subscription,"234,114","+/-4,918",83.4,+/-1.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",0.5,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",1,Total households,"285,422","+/-4,235","285,422",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",2,Married-couple household,"132,922","+/-6,326",46.6,+/-2.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",3,With children of the householder under 18 years,"47,127","+/-4,293",16.5,+/-1.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",4,Cohabiting couple household,"15,537","+/-2,504",5.4,+/-0.9
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",5,With children of the householder under 18 years,"6,211","+/-1,831",2.2,+/-0.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",6,"Male householder, no spouse/partner present","54,081","+/-4,453",18.9,+/-1.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",7,With children of the householder under 18 years,"3,576","+/-1,415",1.3,+/-0.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",8,Householder living alone,"40,461","+/-4,361",14.2,+/-1.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",9,65 years and over,"12,769","+/-1,824",4.5,+/-0.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",10,"Female householder, no spouse/partner present","82,882","+/-4,835",29.0,+/-1.7
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",11,With children of the householder under 18 years,"17,027","+/-3,100",6.0,+/-1.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",12,Householder living alone,"40,609","+/-3,573",14.2,+/-1.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",13,65 years and over,"18,958","+/-2,275",6.6,+/-0.8
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",13.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",14,Households with one or more people under 18 years,"87,498","+/-5,505",30.7,+/-1.8
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",15,Households with one or more people 65 years and over,"89,759","+/-2,810",31.4,+/-1.0
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",15.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",16,Average household size,2.54,+/-0.04,(X),(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",17,Average family size,3.13,+/-0.08,(X),(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",17.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",17.5,RELATIONSHIP,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",18,Population in households,"725,547","+/-4,032","725,547",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",19,Householder,"285,422","+/-4,235",39.3,+/-0.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",20,Spouse,"133,701","+/-6,402",18.4,+/-0.9
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",21,Unmarried partner,"14,769","+/-2,453",2.0,+/-0.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",22,Child,"210,330","+/-7,900",29.0,+/-1.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",23,Other relatives,"57,689","+/-6,926",8.0,+/-1.0
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",24,Other nonrelatives,"23,636","+/-5,117",3.3,+/-0.7
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",24.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",24.5,MARITAL STATUS,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",25,Males 15 years and over,"293,118","+/-2,988","293,118",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",26,Never married,"101,438","+/-4,828",34.6,+/-1.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",27,"Now married, except separated","139,086","+/-6,626",47.5,+/-2.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",28,Separated,"6,885","+/-1,650",2.3,+/-0.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",29,Widowed,"10,676","+/-2,077",3.6,+/-0.7
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",30,Divorced,"35,033","+/-4,671",12.0,+/-1.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",30.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",31,Females 15 years and over,"309,554","+/-2,927","309,554",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",32,Never married,"83,672","+/-5,402",27.0,+/-1.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",33,"Now married, except separated","143,064","+/-6,751",46.2,+/-2.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",34,Separated,"9,394","+/-2,237",3.0,+/-0.7
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",35,Widowed,"26,966","+/-2,690",8.7,+/-0.9
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",36,Divorced,"46,458","+/-4,276",15.0,+/-1.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",36.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",36.5,FERTILITY,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"11,973","+/-2,785","11,973",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",38,"Unmarried women (widowed, divorced, and never married)","3,625","+/-1,544",30.3,+/-11.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",39,"Per 1,000 unmarried women",38,+/-16,(X),(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",40,"Per 1,000 women 15 to 50 years old",68,+/-16,(X),(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",41,"Per 1,000 women 15 to 19 years old",2,+/-3,(X),(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",42,"Per 1,000 women 20 to 34 years old",131,+/-34,(X),(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",43,"Per 1,000 women 35 to 50 years old",26,+/-13,(X),(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",43.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",43.5,GRANDPARENTS,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",44,Number of grandparents living with own grandchildren under 18 years,"16,722","+/-3,155","16,722",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",45,Grandparents responsible for grandchildren,"7,902","+/-2,101",47.3,+/-8.9
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",46,Less than 1 year,895,+/-638,5.4,+/-3.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",47,1 or 2 years,"1,197",+/-662,7.2,+/-4.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",48,3 or 4 years,"1,644","+/-1,115",9.8,+/-6.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",49,5 or more years,"4,166","+/-1,541",24.9,+/-8.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",49.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",50,Number of grandparents responsible for own grandchildren under 18 years,"7,902","+/-2,101","7,902",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",51,Who are female,"5,209","+/-1,406",65.9,+/-8.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",52,Who are married,"4,709","+/-1,852",59.6,+/-13.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",52.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",53,Population 3 years and over enrolled in school,"174,198","+/-6,119","174,198",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",54,"Nursery school, preschool","9,007","+/-1,976",5.2,+/-1.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",55,Kindergarten,"8,630","+/-1,948",5.0,+/-1.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",56,Elementary school (grades 1-8),"74,395","+/-3,896",42.7,+/-2.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",57,High school (grades 9-12),"39,808","+/-3,452",22.9,+/-1.9
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",58,College or graduate school,"42,358","+/-4,240",24.3,+/-2.0
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",58.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",59,Population 25 years and over,"502,584","+/-4,026","502,584",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",60,Less than 9th grade,"22,087","+/-3,355",4.4,+/-0.7
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",61,"9th to 12th grade, no diploma","36,987","+/-4,185",7.4,+/-0.8
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",62,High school graduate (includes equivalency),"143,736","+/-6,944",28.6,+/-1.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",63,"Some college, no degree","121,935","+/-7,581",24.3,+/-1.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",64,Associate's degree,"54,414","+/-5,100",10.8,+/-1.0
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",65,Bachelor's degree,"78,938","+/-5,920",15.7,+/-1.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",66,Graduate or professional degree,"44,487","+/-4,723",8.9,+/-0.9
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",66.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",67,High school graduate or higher,"443,510","+/-6,131",88.2,+/-1.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",68,Bachelor's degree or higher,"123,425","+/-7,569",24.6,+/-1.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",68.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",68.5,VETERAN STATUS,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",69,Civilian population 18 years and over,"563,173","+/-2,773","563,173",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",70,Civilian veterans,"54,192","+/-4,701",9.6,+/-0.8
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",70.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",71,Total Civilian Noninstitutionalized Population,"723,487","+/-4,051","723,487",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",72,With a disability,"152,741","+/-7,854",21.1,+/-1.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",72.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",73,Under 18 years,"169,599","+/-2,829","169,599",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",74,With a disability,"12,613","+/-2,434",7.4,+/-1.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",74.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",75,18 to 64 years,"433,719","+/-3,362","433,719",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",76,With a disability,"87,803","+/-6,032",20.2,+/-1.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",76.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",77,65 years and over,"120,169","+/-2,153","120,169",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",78,With a disability,"52,325","+/-3,272",43.5,+/-2.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",78.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",79,Population 1 year and over,"733,775","+/-3,974","733,775",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",80,Same house,"639,666","+/-8,911",87.2,+/-1.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",81,Different house (in the U.S. or abroad),"94,109","+/-9,248",12.8,+/-1.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",82,Different house in the U.S.,"87,935","+/-7,805",12.0,+/-1.0
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",83,Same county,"41,092","+/-6,040",5.6,+/-0.8
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",84,Different county,"46,843","+/-6,387",6.4,+/-0.9
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",85,Same state,"25,155","+/-4,827",3.4,+/-0.7
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",86,Different state,"21,688","+/-4,088",3.0,+/-0.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",87,Abroad,"6,174","+/-3,662",0.8,+/-0.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",87.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",88,Total population,"742,632","+/-3,759","742,632",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",89,Native,"722,233","+/-4,782",97.3,+/-0.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",90,Born in United States,"710,592","+/-5,323",95.7,+/-0.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",91,State of residence,"456,151","+/-10,111",61.4,+/-1.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",92,Different state,"254,441","+/-9,479",34.3,+/-1.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","11,641","+/-3,007",1.6,+/-0.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",94,Foreign born,"20,399","+/-2,878",2.7,+/-0.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",94.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",95,Foreign-born population,"20,399","+/-2,878","20,399",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",96,Naturalized U.S. citizen,"10,310","+/-1,866",50.5,+/-8.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",97,Not a U.S. citizen,"10,089","+/-2,449",49.5,+/-8.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",97.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",98,Population born outside the United States,"32,040","+/-4,076","32,040",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",98.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",99,Native,"11,641","+/-3,007","11,641",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",100,Entered 2010 or later,"4,496","+/-2,351",38.6,+/-12.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",101,Entered before 2010,"7,145","+/-1,426",61.4,+/-12.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",101.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",102,Foreign born,"20,399","+/-2,878","20,399",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",103,Entered 2010 or later,"6,129","+/-1,931",30.0,+/-7.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",104,Entered before 2010,"14,270","+/-2,224",70.0,+/-7.6
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",104.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",106,Europe,N,N,N,N
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",107,Asia,N,N,N,N
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",108,Africa,N,N,N,N
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",109,Oceania,N,N,N,N
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",110,Latin America,N,N,N,N
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",111,Northern America,N,N,N,N
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",111.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",112,Population 5 years and over,"698,426","+/-3,726","698,426",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",113,English only,"666,767","+/-5,200",95.5,+/-0.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",114,Language other than English,"31,659","+/-3,695",4.5,+/-0.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",115,"Speak English less than ""very well""","12,466","+/-2,698",1.8,+/-0.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",116,Spanish,"17,182","+/-2,703",2.5,+/-0.4
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",117,"Speak English less than ""very well""","7,626","+/-1,941",1.1,+/-0.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",118,Other Indo-European languages,"3,156","+/-1,203",0.5,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",119,"Speak English less than ""very well""",497,+/-365,0.1,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",120,Asian and Pacific Islander languages,"8,665","+/-1,631",1.2,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",121,"Speak English less than ""very well""","3,456","+/-1,508",0.5,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",122,Other languages,"2,656","+/-1,247",0.4,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",123,"Speak English less than ""very well""",887,+/-777,0.1,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",123.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",123.5,ANCESTRY,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",124,Total population,"742,632","+/-3,759","742,632",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",125,American,"100,549","+/-10,899",13.5,+/-1.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",126,Arab,"1,844","+/-1,307",0.2,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",127,Czech,938,+/-613,0.1,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",128,Danish,472,+/-378,0.1,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",129,Dutch,"2,606","+/-1,297",0.4,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",130,English,"91,735","+/-8,584",12.4,+/-1.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",131,French (except Basque),"28,037","+/-4,889",3.8,+/-0.7
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",132,French Canadian,"5,908","+/-2,231",0.8,+/-0.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",133,German,"61,582","+/-7,516",8.3,+/-1.0
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",134,Greek,"1,714","+/-1,321",0.2,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",135,Hungarian,590,+/-430,0.1,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",136,Irish,"80,313","+/-9,344",10.8,+/-1.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",137,Italian,"16,703","+/-3,413",2.2,+/-0.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",138,Lithuanian,444,+/-345,0.1,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",139,Norwegian,"3,043","+/-1,421",0.4,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",140,Polish,"5,896","+/-2,004",0.8,+/-0.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",141,Portuguese,304,+/-281,0.0,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",142,Russian,"1,088","+/-1,232",0.1,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",143,Scotch-Irish,"10,042","+/-2,135",1.4,+/-0.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",144,Scottish,"17,442","+/-3,512",2.3,+/-0.5
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",145,Slovak,61,+/-146,0.0,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",146,Subsaharan African,"5,166","+/-2,438",0.7,+/-0.3
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",147,Swedish,"3,203","+/-1,803",0.4,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",148,Swiss,355,+/-414,0.0,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",149,Ukrainian,384,+/-436,0.1,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",150,Welsh,"2,171","+/-1,448",0.3,+/-0.2
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",151,West Indian (excluding Hispanic origin groups),"1,343",+/-892,0.2,+/-0.1
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",151.3,,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",152,Total households,"285,422","+/-4,235","285,422",(X)
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",153,With a computer,"268,066","+/-4,624",93.9,+/-0.8
+DP02,5001800US2804,"Congressional District 4 (118th Congress), Mississippi",154,With a broadband Internet subscription,"242,840","+/-5,527",85.1,+/-1.3

@@ -1,0 +1,337 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",0.5,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",1,Population 16 years and over,"458,261","+/-2,390","458,261",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",2,In labor force,"282,019","+/-5,524",61.5,+/-1.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",3,Civilian labor force,"281,747","+/-5,537",61.5,+/-1.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",4,Employed,"271,680","+/-5,128",59.3,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",5,Unemployed,"10,067","+/-1,990",2.2,+/-0.4
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",6,Armed Forces,272,+/-230,0.1,+/-0.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",7,Not in labor force,"176,242","+/-5,587",38.5,+/-1.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",7.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",8,Civilian labor force,"281,747","+/-5,537","281,747",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",9,Unemployment Rate,(X),(X),3.6,+/-0.7
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",9.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",10,Females 16 years and over,"225,618","+/-1,890","225,618",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",11,In labor force,"131,287","+/-3,889",58.2,+/-1.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",12,Civilian labor force,"131,287","+/-3,889",58.2,+/-1.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",13,Employed,"126,768","+/-3,870",56.2,+/-1.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",13.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",14,Own children of the householder under 6 years,"31,310","+/-1,693","31,310",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",15,All parents in family in labor force,"21,100","+/-2,112",67.4,+/-5.4
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",15.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",16,Own children of the householder 6 to 17 years,"71,422","+/-2,298","71,422",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",17,All parents in family in labor force,"52,525","+/-3,177",73.5,+/-3.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",17.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",18,Workers 16 years and over,"266,320","+/-5,319","266,320",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",19,"Car, truck, or van -- drove alone","183,610","+/-5,332",68.9,+/-1.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",20,"Car, truck, or van -- carpooled","21,417","+/-3,042",8.0,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",21,Public transportation (excluding taxicab),893,+/-662,0.3,+/-0.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",22,Walked,"8,696","+/-1,678",3.3,+/-0.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",23,Other means,"7,512","+/-1,663",2.8,+/-0.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",24,Worked from home,"44,192","+/-4,044",16.6,+/-1.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",24.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",25,Mean travel time to work (minutes),19.5,+/-0.9,(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",25.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",25.5,OCCUPATION,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",26,Civilian employed population 16 years and over,"271,680","+/-5,128","271,680",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",27,"Management, business, science, and arts occupations","114,904","+/-5,474",42.3,+/-1.9
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",28,Service occupations,"50,092","+/-4,379",18.4,+/-1.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",29,Sales and office occupations,"49,004","+/-4,277",18.0,+/-1.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",30,"Natural resources, construction, and maintenance occupations","30,290","+/-2,897",11.1,+/-1.0
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",31,"Production, transportation, and material moving occupations","27,390","+/-2,944",10.1,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",31.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",31.5,INDUSTRY,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",32,Civilian employed population 16 years and over,"271,680","+/-5,128","271,680",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",33,"Agriculture, forestry, fishing and hunting, and mining","11,791","+/-1,775",4.3,+/-0.7
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",34,Construction,"26,463","+/-3,234",9.7,+/-1.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",35,Manufacturing,"13,196","+/-2,101",4.9,+/-0.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",36,Wholesale trade,"4,752","+/-1,431",1.7,+/-0.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",37,Retail trade,"31,931","+/-3,331",11.8,+/-1.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",38,"Transportation and warehousing, and utilities","11,148","+/-1,963",4.1,+/-0.7
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",39,Information,"6,727","+/-1,393",2.5,+/-0.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",40,"Finance and insurance, and real estate and rental and leasing","12,680","+/-1,830",4.7,+/-0.7
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",41,"Professional, scientific, and management, and administrative and waste management services","31,116","+/-3,692",11.5,+/-1.3
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",42,"Educational services, and health care and social assistance","65,196","+/-4,838",24.0,+/-1.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",43,"Arts, entertainment, and recreation, and accommodation and food services","30,997","+/-2,915",11.4,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",44,"Other services, except public administration","12,001","+/-2,178",4.4,+/-0.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",45,Public administration,"13,682","+/-2,099",5.0,+/-0.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",45.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",46,Civilian employed population 16 years and over,"271,680","+/-5,128","271,680",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",47,Private wage and salary workers,"202,188","+/-6,408",74.4,+/-1.7
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",48,Government workers,"43,537","+/-3,787",16.0,+/-1.4
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",49,Self-employed in own not incorporated business workers,"25,511","+/-2,900",9.4,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",50,Unpaid family workers,444,+/-349,0.2,+/-0.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",50.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",51,Total households,"226,537","+/-3,064","226,537",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",52,"Less than $10,000","12,322","+/-1,755",5.4,+/-0.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",53,"$10,000 to $14,999","9,488","+/-1,727",4.2,+/-0.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",54,"$15,000 to $24,999","17,528","+/-2,584",7.7,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",55,"$25,000 to $34,999","21,344","+/-2,368",9.4,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",56,"$35,000 to $49,999","28,875","+/-2,795",12.7,+/-1.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",57,"$50,000 to $74,999","43,246","+/-3,461",19.1,+/-1.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",58,"$75,000 to $99,999","26,161","+/-2,772",11.5,+/-1.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",59,"$100,000 to $149,999","33,170","+/-2,529",14.6,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",60,"$150,000 to $199,999","14,809","+/-2,092",6.5,+/-0.9
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",61,"$200,000 or more","19,594","+/-2,388",8.6,+/-1.0
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",62,Median household income (dollars),"64,288","+/-2,058",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",63,Mean household income (dollars),"93,616","+/-5,017",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",63.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",64,With earnings,"168,967","+/-4,095",74.6,+/-1.3
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",65,Mean earnings (dollars),"90,045","+/-4,961",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",66,With Social Security,"78,923","+/-2,190",34.8,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",67,Mean Social Security income (dollars),"20,672",+/-740,(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",68,With retirement income,"57,191","+/-3,072",25.2,+/-1.4
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",69,Mean retirement income (dollars),"33,728","+/-5,307",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",69.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",70,With Supplemental Security Income,"7,387","+/-1,381",3.3,+/-0.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",71,Mean Supplemental Security Income (dollars),"10,663","+/-1,027",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",72,With cash public assistance income,"7,084","+/-1,555",3.1,+/-0.7
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",73,Mean cash public assistance income (dollars),"5,400",+/-962,(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",74,With Food Stamp/SNAP benefits in the past 12 months,"17,553","+/-2,341",7.7,+/-1.0
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",74.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",75,Families,"134,648","+/-4,346","134,648",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",76,"Less than $10,000","3,519","+/-1,060",2.6,+/-0.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",77,"$10,000 to $14,999","2,802","+/-1,042",2.1,+/-0.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",78,"$15,000 to $24,999","5,779","+/-1,308",4.3,+/-1.0
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",79,"$25,000 to $34,999","10,488","+/-1,752",7.8,+/-1.3
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",80,"$35,000 to $49,999","14,484","+/-1,898",10.8,+/-1.4
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",81,"$50,000 to $74,999","26,879","+/-2,556",20.0,+/-1.9
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",82,"$75,000 to $99,999","17,142","+/-2,300",12.7,+/-1.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",83,"$100,000 to $149,999","27,481","+/-2,169",20.4,+/-1.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",84,"$150,000 to $199,999","11,443","+/-1,581",8.5,+/-1.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",85,"$200,000 or more","14,631","+/-2,025",10.9,+/-1.4
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",86,Median family income (dollars),"79,527","+/-3,473",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",87,Mean family income (dollars),"111,347","+/-6,825",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",87.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",88,Per capita income (dollars),"38,629","+/-1,941",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",88.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",89,Nonfamily households,"91,889","+/-4,070","91,889",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",90,Median nonfamily income (dollars),"40,838","+/-2,482",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",91,Mean nonfamily income (dollars),"62,497","+/-5,062",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",91.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",92,Median earnings for workers (dollars),"33,927","+/-1,486",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",93,"Median earnings for male full-time, year-round workers (dollars)","56,361","+/-3,864",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",94,"Median earnings for female full-time, year-round workers (dollars)","41,911","+/-1,753",(X),(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",94.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",95,Civilian noninstitutionalized population,"550,791","+/-1,923","550,791",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",96,With health insurance coverage,"504,098","+/-4,860",91.5,+/-0.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",97,With private health insurance,"366,818","+/-8,464",66.6,+/-1.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",98,With public coverage,"212,054","+/-7,257",38.5,+/-1.3
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",99,No health insurance coverage,"46,693","+/-4,496",8.5,+/-0.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",99.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",100,Civilian noninstitutionalized population under 19 years,"116,504","+/-1,918","116,504",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",101,No health insurance coverage,"8,729","+/-1,723",7.5,+/-1.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",101.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",102,Civilian noninstitutionalized population 19 to 64 years,"326,616","+/-2,363","326,616",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",103,In labor force:,"253,858","+/-4,828","253,858",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",104,Employed:,"245,543","+/-4,507","245,543",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",105,With health insurance coverage,"218,879","+/-4,807",89.1,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",106,With private health insurance,"193,683","+/-5,516",78.9,+/-1.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",107,With public coverage,"33,421","+/-3,695",13.6,+/-1.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",108,No health insurance coverage,"26,664","+/-2,886",10.9,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",109,Unemployed:,"8,315","+/-1,662","8,315",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",110,With health insurance coverage,"6,500","+/-1,377",78.2,+/-7.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",111,With private health insurance,"4,758","+/-1,317",57.2,+/-10.9
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",112,With public coverage,"2,491",+/-945,30.0,+/-10.4
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",113,No health insurance coverage,"1,815",+/-777,21.8,+/-7.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",114,Not in labor force:,"72,758","+/-4,557","72,758",(X)
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",115,With health insurance coverage,"64,169","+/-4,169",88.2,+/-2.0
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",116,With private health insurance,"40,016","+/-3,446",55.0,+/-3.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",117,With public coverage,"29,044","+/-3,152",39.9,+/-3.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",118,No health insurance coverage,"8,589","+/-1,585",11.8,+/-2.0
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",118.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",119,All families,(X),(X),6.3,+/-1.3
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",120,With related children of the householder under 18 years,(X),(X),10.1,+/-2.8
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",121,With related children of the householder under 5 years only,(X),(X),10.6,+/-5.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",122,Married couple families,(X),(X),3.5,+/-0.9
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",123,With related children of the householder under 18 years,(X),(X),4.2,+/-1.7
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",124,With related children of the householder under 5 years only,(X),(X),7.7,+/-5.7
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",125,"Families with female householder, no spouse present",(X),(X),23.4,+/-6.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",126,With related children of the householder under 18 years,(X),(X),33.9,+/-9.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",127,With related children of the householder under 5 years only,(X),(X),57.3,+/-28.4
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",127.3,,,,,
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",128,All people,(X),(X),11.6,+/-1.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",129,Under 18 years,(X),(X),11.8,+/-2.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",130,Related children of the householder under 18 years,(X),(X),11.3,+/-2.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",131,Related children of the householder under 5 years,(X),(X),16.2,+/-5.1
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",132,Related children of the householder 5 to 17 years,(X),(X),9.8,+/-2.5
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",133,18 years and over,(X),(X),11.5,+/-1.0
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",134,18 to 64 years,(X),(X),12.1,+/-1.2
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",135,65 years and over,(X),(X),9.6,+/-1.6
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",136,People in families,(X),(X),6.7,+/-1.3
+DP03,5001800US3001,"Congressional District 1 (118th Congress), Montana",137,Unrelated individuals 15 years and over,(X),(X),25.3,+/-2.3
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",0.5,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",1,Population 16 years and over,"437,725","+/-2,085","437,725",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",2,In labor force,"272,099","+/-5,177",62.2,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",3,Civilian labor force,"267,694","+/-5,053",61.2,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",4,Employed,"255,885","+/-5,151",58.5,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",5,Unemployed,"11,809","+/-1,737",2.7,+/-0.4
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",6,Armed Forces,"4,405","+/-1,015",1.0,+/-0.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",7,Not in labor force,"165,626","+/-5,413",37.8,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",7.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",8,Civilian labor force,"267,694","+/-5,053","267,694",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",9,Unemployment Rate,(X),(X),4.4,+/-0.6
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",9.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",10,Females 16 years and over,"218,073","+/-1,469","218,073",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",11,In labor force,"126,963","+/-3,147",58.2,+/-1.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",12,Civilian labor force,"126,198","+/-3,223",57.9,+/-1.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",13,Employed,"120,857","+/-3,263",55.4,+/-1.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",13.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",14,Own children of the householder under 6 years,"34,481","+/-1,811","34,481",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",15,All parents in family in labor force,"24,886","+/-2,286",72.2,+/-5.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",15.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",16,Own children of the householder 6 to 17 years,"83,575","+/-2,045","83,575",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",17,All parents in family in labor force,"63,040","+/-2,858",75.4,+/-3.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",17.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",18,Workers 16 years and over,"256,487","+/-5,387","256,487",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",19,"Car, truck, or van -- drove alone","188,895","+/-5,797",73.6,+/-1.4
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",20,"Car, truck, or van -- carpooled","23,984","+/-2,434",9.4,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",21,Public transportation (excluding taxicab),"1,247",+/-506,0.5,+/-0.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",22,Walked,"9,933","+/-1,574",3.9,+/-0.6
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",23,Other means,"3,198",+/-806,1.2,+/-0.3
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",24,Worked from home,"29,230","+/-2,439",11.4,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",24.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",25,Mean travel time to work (minutes),18.8,+/-0.7,(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",25.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",25.5,OCCUPATION,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",26,Civilian employed population 16 years and over,"255,885","+/-5,151","255,885",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",27,"Management, business, science, and arts occupations","103,816","+/-4,843",40.6,+/-1.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",28,Service occupations,"43,005","+/-2,679",16.8,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",29,Sales and office occupations,"47,929","+/-3,760",18.7,+/-1.4
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",30,"Natural resources, construction, and maintenance occupations","32,163","+/-2,591",12.6,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",31,"Production, transportation, and material moving occupations","28,972","+/-2,092",11.3,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",31.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",31.5,INDUSTRY,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",32,Civilian employed population 16 years and over,"255,885","+/-5,151","255,885",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",33,"Agriculture, forestry, fishing and hunting, and mining","20,577","+/-1,859",8.0,+/-0.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",34,Construction,"23,272","+/-2,942",9.1,+/-1.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",35,Manufacturing,"8,637","+/-1,342",3.4,+/-0.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",36,Wholesale trade,"5,667","+/-1,292",2.2,+/-0.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",37,Retail trade,"28,031","+/-2,626",11.0,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",38,"Transportation and warehousing, and utilities","15,913","+/-2,110",6.2,+/-0.8
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",39,Information,"3,368",+/-960,1.3,+/-0.4
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",40,"Finance and insurance, and real estate and rental and leasing","14,252","+/-1,829",5.6,+/-0.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",41,"Professional, scientific, and management, and administrative and waste management services","21,247","+/-2,337",8.3,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",42,"Educational services, and health care and social assistance","62,182","+/-3,769",24.3,+/-1.4
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",43,"Arts, entertainment, and recreation, and accommodation and food services","20,985","+/-2,230",8.2,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",44,"Other services, except public administration","13,731","+/-2,091",5.4,+/-0.8
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",45,Public administration,"18,023","+/-1,991",7.0,+/-0.8
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",45.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",45.5,CLASS OF WORKER,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",46,Civilian employed population 16 years and over,"255,885","+/-5,151","255,885",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",47,Private wage and salary workers,"181,502","+/-5,238",70.9,+/-1.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",48,Government workers,"48,619","+/-3,224",19.0,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",49,Self-employed in own not incorporated business workers,"24,694","+/-2,745",9.7,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",50,Unpaid family workers,"1,070",+/-422,0.4,+/-0.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",50.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",51,Total households,"222,412","+/-2,780","222,412",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",52,"Less than $10,000","10,873","+/-1,720",4.9,+/-0.8
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",53,"$10,000 to $14,999","9,364","+/-1,499",4.2,+/-0.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",54,"$15,000 to $24,999","19,637","+/-1,979",8.8,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",55,"$25,000 to $34,999","19,318","+/-2,265",8.7,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",56,"$35,000 to $49,999","29,762","+/-2,377",13.4,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",57,"$50,000 to $74,999","40,693","+/-2,728",18.3,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",58,"$75,000 to $99,999","32,615","+/-2,867",14.7,+/-1.3
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",59,"$100,000 to $149,999","34,206","+/-2,736",15.4,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",60,"$150,000 to $199,999","14,754","+/-1,678",6.6,+/-0.8
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",61,"$200,000 or more","11,190","+/-1,318",5.0,+/-0.6
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",62,Median household income (dollars),"62,239","+/-1,613",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",63,Mean household income (dollars),"80,429","+/-2,343",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",63.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",64,With earnings,"166,168","+/-3,451",74.7,+/-1.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",65,Mean earnings (dollars),"79,382","+/-3,023",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",66,With Social Security,"79,525","+/-2,442",35.8,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",67,Mean Social Security income (dollars),"20,797",+/-623,(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",68,With retirement income,"57,076","+/-2,669",25.7,+/-1.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",69,Mean retirement income (dollars),"25,638","+/-1,556",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",69.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",70,With Supplemental Security Income,"9,772","+/-1,853",4.4,+/-0.8
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",71,Mean Supplemental Security Income (dollars),"10,202",+/-928,(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",72,With cash public assistance income,"6,871","+/-1,211",3.1,+/-0.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",73,Mean cash public assistance income (dollars),"5,970","+/-1,616",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",74,With Food Stamp/SNAP benefits in the past 12 months,"21,252","+/-2,223",9.6,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",74.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",75,Families,"140,975","+/-3,780","140,975",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",76,"Less than $10,000","5,137","+/-1,203",3.6,+/-0.8
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",77,"$10,000 to $14,999","2,623",+/-793,1.9,+/-0.6
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",78,"$15,000 to $24,999","6,323","+/-1,456",4.5,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",79,"$25,000 to $34,999","9,407","+/-1,467",6.7,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",80,"$35,000 to $49,999","14,353","+/-1,758",10.2,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",81,"$50,000 to $74,999","27,174","+/-2,359",19.3,+/-1.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",82,"$75,000 to $99,999","24,024","+/-2,104",17.0,+/-1.6
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",83,"$100,000 to $149,999","29,295","+/-2,554",20.8,+/-1.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",84,"$150,000 to $199,999","13,423","+/-1,881",9.5,+/-1.3
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",85,"$200,000 or more","9,216","+/-1,263",6.5,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",86,Median family income (dollars),"80,312","+/-2,632",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",87,Mean family income (dollars),"96,565","+/-3,511",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",87.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",88,Per capita income (dollars),"33,371",+/-953,(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",88.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",89,Nonfamily households,"81,437","+/-3,477","81,437",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",90,Median nonfamily income (dollars),"36,918","+/-1,720",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",91,Mean nonfamily income (dollars),"48,318","+/-2,556",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",91.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",92,Median earnings for workers (dollars),"36,176",+/-717,(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",93,"Median earnings for male full-time, year-round workers (dollars)","54,396","+/-3,205",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",94,"Median earnings for female full-time, year-round workers (dollars)","41,515","+/-1,547",(X),(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",94.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",95,Civilian noninstitutionalized population,"537,705","+/-1,976","537,705",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",96,With health insurance coverage,"494,966","+/-4,097",92.1,+/-0.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",97,With private health insurance,"361,688","+/-7,370",67.3,+/-1.4
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",98,With public coverage,"221,287","+/-6,733",41.2,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",99,No health insurance coverage,"42,739","+/-3,599",7.9,+/-0.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",99.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",100,Civilian noninstitutionalized population under 19 years,"131,871","+/-1,797","131,871",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",101,No health insurance coverage,"8,646","+/-2,036",6.6,+/-1.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",101.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",102,Civilian noninstitutionalized population 19 to 64 years,"300,164","+/-2,187","300,164",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",103,In labor force:,"237,385","+/-4,504","237,385",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",104,Employed:,"227,011","+/-4,535","227,011",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",105,With health insurance coverage,"203,661","+/-4,670",89.7,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",106,With private health insurance,"180,810","+/-5,123",79.6,+/-1.4
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",107,With public coverage,"33,867","+/-2,577",14.9,+/-1.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",108,No health insurance coverage,"23,350","+/-2,092",10.3,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",109,Unemployed:,"10,374","+/-1,651","10,374",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",110,With health insurance coverage,"8,538","+/-1,566",82.3,+/-6.3
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",111,With private health insurance,"3,628",+/-883,35.0,+/-6.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",112,With public coverage,"5,357","+/-1,369",51.6,+/-9.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",113,No health insurance coverage,"1,836",+/-690,17.7,+/-6.3
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",114,Not in labor force:,"62,779","+/-4,643","62,779",(X)
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",115,With health insurance coverage,"54,378","+/-4,120",86.6,+/-2.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",116,With private health insurance,"31,322","+/-2,826",49.9,+/-3.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",117,With public coverage,"29,558","+/-3,152",47.1,+/-3.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",118,No health insurance coverage,"8,401","+/-1,507",13.4,+/-2.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",118.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",119,All families,(X),(X),8.2,+/-1.3
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",120,With related children of the householder under 18 years,(X),(X),13.9,+/-2.4
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",121,With related children of the householder under 5 years only,(X),(X),12.7,+/-5.3
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",122,Married couple families,(X),(X),4.1,+/-0.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",123,With related children of the householder under 18 years,(X),(X),5.1,+/-1.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",124,With related children of the householder under 5 years only,(X),(X),4.3,+/-4.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",125,"Families with female householder, no spouse present",(X),(X),26.6,+/-5.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",126,With related children of the householder under 18 years,(X),(X),36.7,+/-7.9
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",127,With related children of the householder under 5 years only,(X),(X),48.8,+/-20.5
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",127.3,,,,,
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",128,All people,(X),(X),12.2,+/-1.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",129,Under 18 years,(X),(X),16.2,+/-2.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",130,Related children of the householder under 18 years,(X),(X),16.0,+/-2.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",131,Related children of the householder under 5 years,(X),(X),19.4,+/-4.1
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",132,Related children of the householder 5 to 17 years,(X),(X),14.9,+/-2.7
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",133,18 years and over,(X),(X),11.0,+/-1.0
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",134,18 to 64 years,(X),(X),12.0,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",135,65 years and over,(X),(X),8.0,+/-1.2
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",136,People in families,(X),(X),9.6,+/-1.3
+DP03,5001800US3002,"Congressional District 2 (118th Congress), Montana",137,Unrelated individuals 15 years and over,(X),(X),21.9,+/-2.2

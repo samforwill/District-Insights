@@ -1,0 +1,1401 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",0.5,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",1,Total households,"284,318","+/-4,540","284,318",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",2,Married-couple household,"130,334","+/-5,271",45.8,+/-1.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",3,With children of the householder under 18 years,"43,295","+/-3,682",15.2,+/-1.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",4,Cohabiting couple household,"15,486","+/-2,333",5.4,+/-0.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",5,With children of the householder under 18 years,"5,100","+/-1,300",1.8,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",6,"Male householder, no spouse/partner present","48,843","+/-3,584",17.2,+/-1.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",7,With children of the householder under 18 years,"2,255",+/-813,0.8,+/-0.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",8,Householder living alone,"37,814","+/-3,455",13.3,+/-1.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",9,65 years and over,"11,128","+/-1,827",3.9,+/-0.6
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",10,"Female householder, no spouse/partner present","89,655","+/-4,625",31.5,+/-1.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",11,With children of the householder under 18 years,"16,909","+/-2,315",5.9,+/-0.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",12,Householder living alone,"51,827","+/-4,017",18.2,+/-1.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",13,65 years and over,"25,473","+/-2,452",9.0,+/-0.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",13.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",14,Households with one or more people under 18 years,"80,856","+/-4,371",28.4,+/-1.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",15,Households with one or more people 65 years and over,"99,105","+/-2,500",34.9,+/-0.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",15.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",16,Average household size,2.52,+/-0.04,(X),(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",17,Average family size,3.19,+/-0.08,(X),(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",17.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",17.5,RELATIONSHIP,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",18,Population in households,"716,290","+/-3,940","716,290",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",19,Householder,"284,318","+/-4,540",39.7,+/-0.6
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",20,Spouse,"130,176","+/-5,398",18.2,+/-0.7
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",21,Unmarried partner,"15,557","+/-2,361",2.2,+/-0.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",22,Child,"210,901","+/-8,044",29.4,+/-1.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",23,Other relatives,"59,352","+/-6,477",8.3,+/-0.9
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",24,Other nonrelatives,"15,986","+/-3,878",2.2,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",24.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",24.5,MARITAL STATUS,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",25,Males 15 years and over,"283,598","+/-2,473","283,598",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",26,Never married,"97,397","+/-4,890",34.3,+/-1.6
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",27,"Now married, except separated","141,846","+/-5,218",50.0,+/-1.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",28,Separated,"4,309","+/-1,431",1.5,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",29,Widowed,"8,665","+/-1,559",3.1,+/-0.6
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",30,Divorced,"31,381","+/-3,093",11.1,+/-1.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",30.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",31,Females 15 years and over,"308,284","+/-1,852","308,284",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",32,Never married,"88,760","+/-4,478",28.8,+/-1.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",33,"Now married, except separated","138,954","+/-5,918",45.1,+/-1.9
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",34,Separated,"8,936","+/-1,587",2.9,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",35,Widowed,"33,276","+/-3,122",10.8,+/-1.0
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",36,Divorced,"38,358","+/-3,862",12.4,+/-1.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",36.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",36.5,FERTILITY,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,575","+/-1,556","7,575",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",38,"Unmarried women (widowed, divorced, and never married)","3,091",+/-990,40.8,+/-11.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",39,"Per 1,000 unmarried women",33,+/-11,(X),(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",40,"Per 1,000 women 15 to 50 years old",47,+/-10,(X),(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",41,"Per 1,000 women 15 to 19 years old",0,+/-8,(X),(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",42,"Per 1,000 women 20 to 34 years old",88,+/-21,(X),(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",43,"Per 1,000 women 35 to 50 years old",24,+/-13,(X),(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",43.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",43.5,GRANDPARENTS,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",44,Number of grandparents living with own grandchildren under 18 years,"20,260","+/-3,339","20,260",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",45,Grandparents responsible for grandchildren,"10,080","+/-2,263",49.8,+/-7.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",46,Less than 1 year,"1,624","+/-1,104",8.0,+/-5.0
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",47,1 or 2 years,"2,024",+/-930,10.0,+/-4.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",48,3 or 4 years,695,+/-423,3.4,+/-2.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",49,5 or more years,"5,737","+/-1,772",28.3,+/-8.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",49.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",50,Number of grandparents responsible for own grandchildren under 18 years,"10,080","+/-2,263","10,080",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",51,Who are female,"6,587","+/-1,526",65.3,+/-8.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",52,Who are married,"6,797","+/-1,913",67.4,+/-8.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",52.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",53,Population 3 years and over enrolled in school,"152,489","+/-5,131","152,489",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",54,"Nursery school, preschool","9,457","+/-2,013",6.2,+/-1.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",55,Kindergarten,"9,229","+/-1,823",6.1,+/-1.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",56,Elementary school (grades 1-8),"70,179","+/-3,224",46.0,+/-2.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",57,High school (grades 9-12),"36,231","+/-2,679",23.8,+/-1.6
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",58,College or graduate school,"27,393","+/-3,357",18.0,+/-1.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",58.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",59,Population 25 years and over,"504,424","+/-3,399","504,424",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",60,Less than 9th grade,"14,121","+/-2,326",2.8,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",61,"9th to 12th grade, no diploma","38,883","+/-4,687",7.7,+/-0.9
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",62,High school graduate (includes equivalency),"167,168","+/-7,191",33.1,+/-1.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",63,"Some college, no degree","109,035","+/-6,195",21.6,+/-1.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",64,Associate's degree,"46,270","+/-3,947",9.2,+/-0.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",65,Bachelor's degree,"77,364","+/-4,819",15.3,+/-1.0
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",66,Graduate or professional degree,"51,583","+/-3,445",10.2,+/-0.7
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",66.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",67,High school graduate or higher,"451,420","+/-5,793",89.5,+/-1.0
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",68,Bachelor's degree or higher,"128,947","+/-6,277",25.6,+/-1.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",68.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",68.5,VETERAN STATUS,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",69,Civilian population 18 years and over,"562,917","+/-2,789","562,917",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",70,Civilian veterans,"49,759","+/-4,458",8.8,+/-0.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",70.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",71,Total Civilian Noninstitutionalized Population,"718,350","+/-3,643","718,350",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",72,With a disability,"104,275","+/-6,570",14.5,+/-0.9
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",72.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",73,Under 18 years,"162,361","+/-1,804","162,361",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",74,With a disability,"5,832","+/-1,370",3.6,+/-0.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",74.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",75,18 to 64 years,"421,800","+/-3,857","421,800",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",76,With a disability,"51,043","+/-5,479",12.1,+/-1.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",76.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",77,65 years and over,"134,189","+/-2,004","134,189",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",78,With a disability,"47,400","+/-3,277",35.3,+/-2.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",78.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",79,Population 1 year and over,"718,740","+/-3,432","718,740",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",80,Same house,"636,580","+/-9,249",88.6,+/-1.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",81,Different house (in the U.S. or abroad),"82,160","+/-8,711",11.4,+/-1.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",82,Different house in the U.S.,"81,146","+/-8,778",11.3,+/-1.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",83,Same county,"51,584","+/-8,187",7.2,+/-1.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",84,Different county,"29,562","+/-4,894",4.1,+/-0.7
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",85,Same state,"8,106","+/-1,902",1.1,+/-0.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",86,Different state,"21,456","+/-4,558",3.0,+/-0.6
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",87,Abroad,"1,014",+/-766,0.1,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",87.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",88,Total population,"727,212","+/-2,995","727,212",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",89,Native,"704,926","+/-4,537",96.9,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",90,Born in United States,"699,778","+/-4,380",96.2,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",91,State of residence,"494,968","+/-9,971",68.1,+/-1.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",92,Different state,"204,810","+/-10,323",28.2,+/-1.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","5,148","+/-1,934",0.7,+/-0.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",94,Foreign born,"22,286","+/-3,400",3.1,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",94.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",95,Foreign-born population,"22,286","+/-3,400","22,286",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",96,Naturalized U.S. citizen,"11,143","+/-2,209",50.0,+/-8.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",97,Not a U.S. citizen,"11,143","+/-2,848",50.0,+/-8.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",97.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",98,Population born outside the United States,"27,434","+/-3,640","27,434",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",98.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",99,Native,"5,148","+/-1,934","5,148",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",100,Entered 2010 or later,"1,391",+/-924,27.0,+/-12.7
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",101,Entered before 2010,"3,757","+/-1,399",73.0,+/-12.7
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",101.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",102,Foreign born,"22,286","+/-3,400","22,286",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",103,Entered 2010 or later,"8,866","+/-2,423",39.8,+/-7.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",104,Entered before 2010,"13,420","+/-2,151",60.2,+/-7.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",104.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",106,Europe,N,N,N,N
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",107,Asia,N,N,N,N
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",108,Africa,N,N,N,N
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",109,Oceania,N,N,N,N
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",110,Latin America,N,N,N,N
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",111,Northern America,N,N,N,N
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",111.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",112,Population 5 years and over,"685,466","+/-3,285","685,466",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",113,English only,"655,031","+/-4,806",95.6,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",114,Language other than English,"30,435","+/-3,683",4.4,+/-0.5
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",115,"Speak English less than ""very well""","13,597","+/-2,530",2.0,+/-0.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",116,Spanish,"15,368","+/-2,625",2.2,+/-0.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",117,"Speak English less than ""very well""","7,767","+/-2,182",1.1,+/-0.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",118,Other Indo-European languages,"6,345","+/-2,058",0.9,+/-0.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",119,"Speak English less than ""very well""","1,773","+/-1,004",0.3,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",120,Asian and Pacific Islander languages,"6,766","+/-1,184",1.0,+/-0.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",121,"Speak English less than ""very well""","3,797","+/-1,184",0.6,+/-0.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",122,Other languages,"1,956",+/-991,0.3,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",123,"Speak English less than ""very well""",260,+/-273,0.0,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",123.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",123.5,ANCESTRY,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",124,Total population,"727,212","+/-2,995","727,212",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",125,American,"85,851","+/-8,915",11.8,+/-1.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",126,Arab,"2,898","+/-1,844",0.4,+/-0.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",127,Czech,"3,103","+/-2,618",0.4,+/-0.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",128,Danish,"1,494","+/-1,214",0.2,+/-0.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",129,Dutch,"4,165","+/-2,325",0.6,+/-0.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",130,English,"80,842","+/-6,609",11.1,+/-0.9
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",131,French (except Basque),"17,792","+/-4,836",2.4,+/-0.7
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",132,French Canadian,"2,262",+/-949,0.3,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",133,German,"55,810","+/-7,676",7.7,+/-1.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",134,Greek,"1,951","+/-1,091",0.3,+/-0.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",135,Hungarian,654,+/-413,0.1,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",136,Irish,"59,474","+/-6,205",8.2,+/-0.9
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",137,Italian,"15,086","+/-2,944",2.1,+/-0.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",138,Lithuanian,256,+/-299,0.0,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",139,Norwegian,"2,590","+/-1,360",0.4,+/-0.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",140,Polish,"4,132","+/-1,702",0.6,+/-0.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",141,Portuguese,332,+/-369,0.0,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",142,Russian,597,+/-523,0.1,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",143,Scotch-Irish,"9,008","+/-2,398",1.2,+/-0.3
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",144,Scottish,"10,593","+/-2,914",1.5,+/-0.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",145,Slovak,415,+/-358,0.1,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",146,Subsaharan African,"3,631","+/-1,611",0.5,+/-0.2
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",147,Swedish,"2,313","+/-1,000",0.3,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",148,Swiss,468,+/-442,0.1,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",149,Ukrainian,"1,070",+/-812,0.1,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",150,Welsh,"4,942","+/-3,122",0.7,+/-0.4
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",151,West Indian (excluding Hispanic origin groups),843,+/-590,0.1,+/-0.1
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",151.3,,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",152,Total households,"284,318","+/-4,540","284,318",(X)
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",153,With a computer,"265,917","+/-5,112",93.5,+/-0.8
+DP02,5001800US0101,"Congressional District 1 (118th Congress), Alabama",154,With a broadband Internet subscription,"240,587","+/-5,397",84.6,+/-1.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",0.5,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",1,Total households,"278,370","+/-4,401","278,370",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",2,Married-couple household,"121,419","+/-4,745",43.6,+/-1.6
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",3,With children of the householder under 18 years,"41,229","+/-3,035",14.8,+/-1.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",4,Cohabiting couple household,"13,136","+/-1,671",4.7,+/-0.6
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",5,With children of the householder under 18 years,"4,972","+/-1,145",1.8,+/-0.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",6,"Male householder, no spouse/partner present","50,949","+/-3,073",18.3,+/-1.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",7,With children of the householder under 18 years,"3,786","+/-1,082",1.4,+/-0.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",8,Householder living alone,"38,804","+/-2,403",13.9,+/-0.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",9,65 years and over,"11,646","+/-1,511",4.2,+/-0.5
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",10,"Female householder, no spouse/partner present","92,866","+/-3,914",33.4,+/-1.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",11,With children of the householder under 18 years,"22,848","+/-2,650",8.2,+/-0.9
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",12,Householder living alone,"48,383","+/-3,320",17.4,+/-1.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",13,65 years and over,"23,886","+/-2,065",8.6,+/-0.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",13.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",14,Households with one or more people under 18 years,"82,044","+/-4,215",29.5,+/-1.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",15,Households with one or more people 65 years and over,"89,275","+/-2,257",32.1,+/-0.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",15.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",16,Average household size,2.51,+/-0.04,(X),(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",17,Average family size,3.15,+/-0.07,(X),(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",17.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",17.5,RELATIONSHIP,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",18,Population in households,"698,443","+/-5,475","698,443",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",19,Householder,"278,370","+/-4,401",39.9,+/-0.6
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",20,Spouse,"121,167","+/-4,944",17.3,+/-0.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",21,Unmarried partner,"14,179","+/-2,043",2.0,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",22,Child,"213,205","+/-5,848",30.5,+/-0.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",23,Other relatives,"52,476","+/-4,923",7.5,+/-0.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",24,Other nonrelatives,"19,046","+/-2,939",2.7,+/-0.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",24.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",24.5,MARITAL STATUS,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",25,Males 15 years and over,"275,391","+/-3,071","275,391",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",26,Never married,"98,428","+/-4,166",35.7,+/-1.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",27,"Now married, except separated","129,607","+/-4,932",47.1,+/-1.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",28,Separated,"6,222","+/-1,118",2.3,+/-0.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",29,Widowed,"10,837","+/-1,513",3.9,+/-0.6
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",30,Divorced,"30,297","+/-2,796",11.0,+/-1.0
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",30.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",31,Females 15 years and over,"304,615","+/-3,127","304,615",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",32,Never married,"91,608","+/-4,207",30.1,+/-1.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",33,"Now married, except separated","130,184","+/-5,183",42.7,+/-1.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",34,Separated,"7,282","+/-1,625",2.4,+/-0.5
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",35,Widowed,"34,190","+/-2,695",11.2,+/-0.9
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",36,Divorced,"41,351","+/-3,683",13.6,+/-1.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",36.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",36.5,FERTILITY,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,750","+/-1,658","7,750",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",38,"Unmarried women (widowed, divorced, and never married)","3,234","+/-1,125",41.7,+/-11.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",39,"Per 1,000 unmarried women",32,+/-11,(X),(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",40,"Per 1,000 women 15 to 50 years old",46,+/-10,(X),(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",41,"Per 1,000 women 15 to 19 years old",31,+/-27,(X),(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",42,"Per 1,000 women 20 to 34 years old",81,+/-20,(X),(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",43,"Per 1,000 women 35 to 50 years old",21,+/-9,(X),(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",43.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",43.5,GRANDPARENTS,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",44,Number of grandparents living with own grandchildren under 18 years,"15,831","+/-2,200","15,831",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",45,Grandparents responsible for grandchildren,"8,772","+/-1,598",55.4,+/-6.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",46,Less than 1 year,"1,533",+/-701,9.7,+/-4.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",47,1 or 2 years,830,+/-416,5.2,+/-2.6
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",48,3 or 4 years,"1,732","+/-1,105",10.9,+/-6.6
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",49,5 or more years,"4,677","+/-1,130",29.5,+/-6.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",49.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",50,Number of grandparents responsible for own grandchildren under 18 years,"8,772","+/-1,598","8,772",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",51,Who are female,"5,702","+/-1,197",65.0,+/-5.5
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",52,Who are married,"5,635","+/-1,342",64.2,+/-8.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",52.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",53,Population 3 years and over enrolled in school,"170,742","+/-5,399","170,742",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",54,"Nursery school, preschool","9,592","+/-1,547",5.6,+/-0.9
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",55,Kindergarten,"8,381","+/-1,649",4.9,+/-1.0
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",56,Elementary school (grades 1-8),"75,590","+/-3,102",44.3,+/-1.9
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",57,High school (grades 9-12),"38,767","+/-3,264",22.7,+/-1.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",58,College or graduate school,"38,412","+/-3,613",22.5,+/-1.6
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",58.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",59,Population 25 years and over,"488,271","+/-4,422","488,271",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",60,Less than 9th grade,"17,391","+/-2,122",3.6,+/-0.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",61,"9th to 12th grade, no diploma","42,905","+/-3,846",8.8,+/-0.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",62,High school graduate (includes equivalency),"163,181","+/-6,030",33.4,+/-1.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",63,"Some college, no degree","98,722","+/-4,961",20.2,+/-1.0
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",64,Associate's degree,"44,427","+/-2,941",9.1,+/-0.6
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",65,Bachelor's degree,"75,122","+/-4,797",15.4,+/-1.0
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",66,Graduate or professional degree,"46,523","+/-4,175",9.5,+/-0.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",66.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",67,High school graduate or higher,"427,975","+/-5,895",87.7,+/-0.9
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",68,Bachelor's degree or higher,"121,645","+/-6,690",24.9,+/-1.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",68.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",68.5,VETERAN STATUS,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",69,Civilian population 18 years and over,"541,141","+/-4,587","541,141",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",70,Civilian veterans,"54,312","+/-3,852",10.0,+/-0.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",70.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",71,Total Civilian Noninstitutionalized Population,"694,013","+/-5,630","694,013",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",72,With a disability,"120,668","+/-5,487",17.4,+/-0.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",72.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",73,Under 18 years,"164,890","+/-2,799","164,890",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",74,With a disability,"7,603","+/-1,604",4.6,+/-1.0
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",74.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",75,18 to 64 years,"406,621","+/-4,522","406,621",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",76,With a disability,"63,930","+/-4,486",15.7,+/-1.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",76.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",77,65 years and over,"122,502","+/-2,446","122,502",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",78,With a disability,"49,135","+/-2,852",40.1,+/-2.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",78.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",79,Population 1 year and over,"709,326","+/-5,414","709,326",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",80,Same house,"628,544","+/-9,818",88.6,+/-1.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",81,Different house (in the U.S. or abroad),"80,782","+/-8,307",11.4,+/-1.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",82,Different house in the U.S.,"78,520","+/-8,329",11.1,+/-1.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",83,Same county,"40,783","+/-5,684",5.7,+/-0.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",84,Different county,"37,737","+/-5,078",5.3,+/-0.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",85,Same state,"17,857","+/-3,416",2.5,+/-0.5
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",86,Different state,"19,880","+/-4,114",2.8,+/-0.6
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",87,Abroad,"2,262","+/-1,001",0.3,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",87.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",88,Total population,"716,212","+/-5,386","716,212",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",89,Native,"693,252","+/-5,863",96.8,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",90,Born in United States,"684,020","+/-6,080",95.5,+/-0.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",91,State of residence,"494,657","+/-8,393",69.1,+/-1.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",92,Different state,"189,363","+/-7,722",26.4,+/-1.0
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","9,232","+/-1,850",1.3,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",94,Foreign born,"22,960","+/-2,471",3.2,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",94.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",95,Foreign-born population,"22,960","+/-2,471","22,960",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",96,Naturalized U.S. citizen,"9,295","+/-1,701",40.5,+/-5.5
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",97,Not a U.S. citizen,"13,665","+/-1,805",59.5,+/-5.5
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",97.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",98,Population born outside the United States,"32,192","+/-2,799","32,192",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",98.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",99,Native,"9,232","+/-1,850","9,232",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",100,Entered 2010 or later,"2,581","+/-1,051",28.0,+/-9.0
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",101,Entered before 2010,"6,651","+/-1,432",72.0,+/-9.0
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",101.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",102,Foreign born,"22,960","+/-2,471","22,960",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",103,Entered 2010 or later,"8,357","+/-1,797",36.4,+/-6.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",104,Entered before 2010,"14,603","+/-1,923",63.6,+/-6.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",104.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",106,Europe,N,N,N,N
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",107,Asia,N,N,N,N
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",108,Africa,N,N,N,N
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",109,Oceania,N,N,N,N
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",110,Latin America,N,N,N,N
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",111,Northern America,N,N,N,N
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",111.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",112,Population 5 years and over,"674,215","+/-5,041","674,215",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",113,English only,"641,442","+/-5,790",95.1,+/-0.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",114,Language other than English,"32,773","+/-2,602",4.9,+/-0.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",115,"Speak English less than ""very well""","11,732","+/-1,917",1.7,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",116,Spanish,"18,312","+/-2,034",2.7,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",117,"Speak English less than ""very well""","6,205","+/-1,227",0.9,+/-0.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",118,Other Indo-European languages,"4,402","+/-1,359",0.7,+/-0.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",119,"Speak English less than ""very well""",861,+/-722,0.1,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",120,Asian and Pacific Islander languages,"9,126","+/-1,858",1.4,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",121,"Speak English less than ""very well""","4,530","+/-1,308",0.7,+/-0.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",122,Other languages,933,+/-503,0.1,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",123,"Speak English less than ""very well""",136,+/-127,0.0,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",123.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",123.5,ANCESTRY,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",124,Total population,"716,212","+/-5,386","716,212",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",125,American,"111,963","+/-9,546",15.6,+/-1.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",126,Arab,428,+/-280,0.1,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",127,Czech,576,+/-509,0.1,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",128,Danish,"1,907","+/-1,901",0.3,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",129,Dutch,"2,751",+/-937,0.4,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",130,English,"78,863","+/-5,772",11.0,+/-0.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",131,French (except Basque),"7,619","+/-2,193",1.1,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",132,French Canadian,669,+/-437,0.1,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",133,German,"42,038","+/-5,028",5.9,+/-0.7
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",134,Greek,347,+/-227,0.0,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",135,Hungarian,524,+/-365,0.1,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",136,Irish,"51,355","+/-5,864",7.2,+/-0.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",137,Italian,"9,688","+/-1,979",1.4,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",138,Lithuanian,342,+/-360,0.0,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",139,Norwegian,"1,752",+/-691,0.2,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",140,Polish,"3,298","+/-1,323",0.5,+/-0.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",141,Portuguese,237,+/-245,0.0,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",142,Russian,503,+/-345,0.1,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",143,Scotch-Irish,"7,152","+/-1,638",1.0,+/-0.2
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",144,Scottish,"11,050","+/-2,067",1.5,+/-0.3
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",145,Slovak,30,+/-36,0.0,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",146,Subsaharan African,"6,730","+/-3,024",0.9,+/-0.4
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",147,Swedish,"1,149",+/-629,0.2,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",148,Swiss,822,+/-690,0.1,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",149,Ukrainian,164,+/-224,0.0,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",150,Welsh,"2,320",+/-890,0.3,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",151,West Indian (excluding Hispanic origin groups),"1,084",+/-519,0.2,+/-0.1
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",151.3,,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",152,Total households,"278,370","+/-4,401","278,370",(X)
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",153,With a computer,"257,329","+/-4,475",92.4,+/-0.8
+DP02,5001800US0102,"Congressional District 2 (118th Congress), Alabama",154,With a broadband Internet subscription,"234,142","+/-4,981",84.1,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",0.5,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",1,Total households,"278,736","+/-4,314","278,736",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",2,Married-couple household,"128,714","+/-4,422",46.2,+/-1.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",3,With children of the householder under 18 years,"42,975","+/-3,538",15.4,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",4,Cohabiting couple household,"12,670","+/-2,196",4.5,+/-0.8
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",5,With children of the householder under 18 years,"5,654","+/-1,417",2.0,+/-0.5
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",6,"Male householder, no spouse/partner present","56,789","+/-3,829",20.4,+/-1.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",7,With children of the householder under 18 years,"3,686",+/-892,1.3,+/-0.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",8,Householder living alone,"40,885","+/-3,688",14.7,+/-1.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",9,65 years and over,"10,755","+/-1,636",3.9,+/-0.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",10,"Female householder, no spouse/partner present","80,563","+/-3,526",28.9,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",11,With children of the householder under 18 years,"16,901","+/-2,388",6.1,+/-0.8
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",12,Householder living alone,"45,152","+/-3,400",16.2,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",13,65 years and over,"23,391","+/-2,015",8.4,+/-0.7
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",13.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",14,Households with one or more people under 18 years,"78,899","+/-4,706",28.3,+/-1.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",15,Households with one or more people 65 years and over,"89,504","+/-2,273",32.1,+/-0.9
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",15.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",16,Average household size,2.51,+/-0.04,(X),(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",17,Average family size,3.15,+/-0.08,(X),(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",17.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",17.5,RELATIONSHIP,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",18,Population in households,"700,657","+/-3,934","700,657",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",19,Householder,"278,736","+/-4,314",39.8,+/-0.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",20,Spouse,"128,573","+/-4,406",18.4,+/-0.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",21,Unmarried partner,"13,143","+/-2,163",1.9,+/-0.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",22,Child,"196,701","+/-6,413",28.1,+/-0.9
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",23,Other relatives,"60,263","+/-5,654",8.6,+/-0.8
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",24,Other nonrelatives,"23,241","+/-3,813",3.3,+/-0.5
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",24.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",24.5,MARITAL STATUS,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",25,Males 15 years and over,"288,652","+/-2,812","288,652",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",26,Never married,"101,668","+/-5,173",35.2,+/-1.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",27,"Now married, except separated","135,983","+/-5,536",47.1,+/-2.0
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",28,Separated,"4,436","+/-1,196",1.5,+/-0.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",29,Widowed,"10,192","+/-1,685",3.5,+/-0.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",30,Divorced,"36,373","+/-3,986",12.6,+/-1.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",30.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",31,Females 15 years and over,"307,414","+/-2,764","307,414",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",32,Never married,"90,653","+/-4,709",29.5,+/-1.5
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",33,"Now married, except separated","140,646","+/-4,705",45.8,+/-1.5
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",34,Separated,"7,156","+/-1,980",2.3,+/-0.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",35,Widowed,"30,140","+/-3,007",9.8,+/-1.0
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",36,Divorced,"38,819","+/-3,719",12.6,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",36.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",36.5,FERTILITY,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,921","+/-1,761","8,921",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",38,"Unmarried women (widowed, divorced, and never married)","5,240","+/-1,418",58.7,+/-10.0
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",39,"Per 1,000 unmarried women",55,+/-15,(X),(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",40,"Per 1,000 women 15 to 50 years old",52,+/-10,(X),(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",41,"Per 1,000 women 15 to 19 years old",9,+/-11,(X),(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",42,"Per 1,000 women 20 to 34 years old",97,+/-22,(X),(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",43,"Per 1,000 women 35 to 50 years old",26,+/-12,(X),(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",43.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",43.5,GRANDPARENTS,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",44,Number of grandparents living with own grandchildren under 18 years,"15,160","+/-3,074","15,160",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",45,Grandparents responsible for grandchildren,"6,275","+/-2,240",41.4,+/-10.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",46,Less than 1 year,575,+/-503,3.8,+/-3.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",47,1 or 2 years,"2,232","+/-1,425",14.7,+/-8.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",48,3 or 4 years,900,+/-709,5.9,+/-4.7
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",49,5 or more years,"2,568","+/-1,084",16.9,+/-6.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",49.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",50,Number of grandparents responsible for own grandchildren under 18 years,"6,275","+/-2,240","6,275",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",51,Who are female,"4,154","+/-1,606",66.2,+/-11.0
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",52,Who are married,"4,062","+/-1,746",64.7,+/-13.8
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",52.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",53,Population 3 years and over enrolled in school,"178,911","+/-6,001","178,911",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",54,"Nursery school, preschool","8,534","+/-1,578",4.8,+/-0.9
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",55,Kindergarten,"8,129","+/-1,942",4.5,+/-1.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",56,Elementary school (grades 1-8),"66,685","+/-3,205",37.3,+/-2.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",57,High school (grades 9-12),"39,467","+/-4,222",22.1,+/-2.0
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",58,College or graduate school,"56,096","+/-3,984",31.4,+/-1.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",58.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",59,Population 25 years and over,"488,579","+/-3,669","488,579",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",60,Less than 9th grade,"20,436","+/-2,845",4.2,+/-0.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",61,"9th to 12th grade, no diploma","49,557","+/-4,123",10.1,+/-0.9
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",62,High school graduate (includes equivalency),"155,412","+/-6,645",31.8,+/-1.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",63,"Some college, no degree","105,303","+/-6,549",21.6,+/-1.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",64,Associate's degree,"44,506","+/-4,256",9.1,+/-0.9
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",65,Bachelor's degree,"65,943","+/-5,078",13.5,+/-1.0
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",66,Graduate or professional degree,"47,422","+/-4,627",9.7,+/-0.9
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",66.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",67,High school graduate or higher,"418,586","+/-6,401",85.7,+/-1.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",68,Bachelor's degree or higher,"113,365","+/-7,244",23.2,+/-1.5
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",68.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",68.5,VETERAN STATUS,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",69,Civilian population 18 years and over,"564,164","+/-2,943","564,164",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",70,Civilian veterans,"45,780","+/-3,204",8.1,+/-0.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",70.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",71,Total Civilian Noninstitutionalized Population,"706,928","+/-3,901","706,928",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",72,With a disability,"132,024","+/-6,333",18.7,+/-0.9
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",72.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",73,Under 18 years,"151,784","+/-1,528","151,784",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",74,With a disability,"6,484","+/-1,530",4.3,+/-1.0
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",74.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",75,18 to 64 years,"431,443","+/-3,584","431,443",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",76,With a disability,"73,395","+/-5,816",17.0,+/-1.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",76.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",77,65 years and over,"123,701","+/-1,449","123,701",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",78,With a disability,"52,145","+/-3,310",42.2,+/-2.7
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",78.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",79,Population 1 year and over,"714,967","+/-3,158","714,967",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",80,Same house,"625,421","+/-9,642",87.5,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",81,Different house (in the U.S. or abroad),"89,546","+/-8,729",12.5,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",82,Different house in the U.S.,"88,453","+/-8,770",12.4,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",83,Same county,"44,065","+/-6,894",6.2,+/-1.0
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",84,Different county,"44,388","+/-5,335",6.2,+/-0.7
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",85,Same state,"25,676","+/-4,255",3.6,+/-0.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",86,Different state,"18,712","+/-3,994",2.6,+/-0.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",87,Abroad,"1,093",+/-512,0.2,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",87.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",88,Total population,"721,289","+/-3,041","721,289",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",89,Native,"701,113","+/-4,413",97.2,+/-0.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",90,Born in United States,"695,435","+/-4,855",96.4,+/-0.5
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",91,State of residence,"462,242","+/-9,539",64.1,+/-1.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",92,Different state,"233,193","+/-8,686",32.3,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","5,678","+/-1,467",0.8,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",94,Foreign born,"20,176","+/-2,766",2.8,+/-0.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",94.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",95,Foreign-born population,"20,176","+/-2,766","20,176",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",96,Naturalized U.S. citizen,"9,147","+/-2,159",45.3,+/-7.7
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",97,Not a U.S. citizen,"11,029","+/-1,972",54.7,+/-7.7
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",97.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",98,Population born outside the United States,"25,854","+/-3,349","25,854",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",98.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",99,Native,"5,678","+/-1,467","5,678",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",100,Entered 2010 or later,576,+/-414,10.1,+/-7.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",101,Entered before 2010,"5,102","+/-1,436",89.9,+/-7.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",101.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",102,Foreign born,"20,176","+/-2,766","20,176",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",103,Entered 2010 or later,"7,078","+/-1,755",35.1,+/-7.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",104,Entered before 2010,"13,098","+/-2,422",64.9,+/-7.6
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",104.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",106,Europe,N,N,N,N
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",107,Asia,N,N,N,N
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",108,Africa,N,N,N,N
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",109,Oceania,N,N,N,N
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",110,Latin America,N,N,N,N
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",111,Northern America,N,N,N,N
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",111.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",112,Population 5 years and over,"681,779","+/-3,170","681,779",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",113,English only,"655,888","+/-4,360",96.2,+/-0.5
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",114,Language other than English,"25,891","+/-3,108",3.8,+/-0.5
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",115,"Speak English less than ""very well""","9,564","+/-1,409",1.4,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",116,Spanish,"14,489","+/-2,629",2.1,+/-0.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",117,"Speak English less than ""very well""","4,118","+/-1,098",0.6,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",118,Other Indo-European languages,"4,196","+/-1,571",0.6,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",119,"Speak English less than ""very well""","1,540",+/-908,0.2,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",120,Asian and Pacific Islander languages,"5,838","+/-1,143",0.9,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",121,"Speak English less than ""very well""","3,906","+/-1,026",0.6,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",122,Other languages,"1,368","+/-1,005",0.2,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",123,"Speak English less than ""very well""",0,+/-216,0.0,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",123.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",123.5,ANCESTRY,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",124,Total population,"721,289","+/-3,041","721,289",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",125,American,"89,427","+/-9,036",12.4,+/-1.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",126,Arab,386,+/-312,0.1,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",127,Czech,"1,364","+/-1,296",0.2,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",128,Danish,266,+/-262,0.0,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",129,Dutch,"3,261","+/-1,358",0.5,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",130,English,"89,071","+/-8,644",12.3,+/-1.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",131,French (except Basque),"4,829","+/-1,251",0.7,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",132,French Canadian,"1,280",+/-858,0.2,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",133,German,"49,592","+/-5,862",6.9,+/-0.8
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",134,Greek,698,+/-401,0.1,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",135,Hungarian,650,+/-438,0.1,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",136,Irish,"69,350","+/-6,751",9.6,+/-0.9
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",137,Italian,"9,512","+/-1,977",1.3,+/-0.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",138,Lithuanian,10,+/-17,0.0,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",139,Norwegian,"3,029","+/-2,489",0.4,+/-0.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",140,Polish,"5,317","+/-2,295",0.7,+/-0.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",141,Portuguese,138,+/-134,0.0,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",142,Russian,313,+/-255,0.0,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",143,Scotch-Irish,"7,849","+/-1,940",1.1,+/-0.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",144,Scottish,"15,103","+/-2,755",2.1,+/-0.4
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",145,Slovak,0,+/-216,0.0,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",146,Subsaharan African,"5,849","+/-2,270",0.8,+/-0.3
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",147,Swedish,"2,600","+/-1,243",0.4,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",148,Swiss,763,+/-753,0.1,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",149,Ukrainian,132,+/-161,0.0,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",150,Welsh,"3,136","+/-1,733",0.4,+/-0.2
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",151,West Indian (excluding Hispanic origin groups),"1,312",+/-896,0.2,+/-0.1
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",151.3,,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",152,Total households,"278,736","+/-4,314","278,736",(X)
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",153,With a computer,"256,130","+/-4,815",91.9,+/-0.9
+DP02,5001800US0103,"Congressional District 3 (118th Congress), Alabama",154,With a broadband Internet subscription,"233,909","+/-4,790",83.9,+/-1.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",0.5,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",1,Total households,"271,053","+/-4,415","271,053",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",2,Married-couple household,"140,299","+/-5,380",51.8,+/-1.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",3,With children of the householder under 18 years,"50,644","+/-3,477",18.7,+/-1.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",4,Cohabiting couple household,"12,715","+/-1,687",4.7,+/-0.6
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",5,With children of the householder under 18 years,"5,462","+/-1,290",2.0,+/-0.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",6,"Male householder, no spouse/partner present","46,599","+/-3,720",17.2,+/-1.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",7,With children of the householder under 18 years,"2,391",+/-763,0.9,+/-0.3
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",8,Householder living alone,"35,201","+/-2,831",13.0,+/-1.0
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",9,65 years and over,"11,415","+/-1,435",4.2,+/-0.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",10,"Female householder, no spouse/partner present","71,440","+/-3,690",26.4,+/-1.3
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",11,With children of the householder under 18 years,"12,226","+/-1,956",4.5,+/-0.7
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",12,Householder living alone,"41,982","+/-3,056",15.5,+/-1.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",13,65 years and over,"24,679","+/-2,009",9.1,+/-0.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",13.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",14,Households with one or more people under 18 years,"82,022","+/-4,374",30.3,+/-1.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",15,Households with one or more people 65 years and over,"91,724","+/-2,318",33.8,+/-0.9
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",15.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",16,Average household size,2.64,+/-0.04,(X),(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",17,Average family size,3.22,+/-0.08,(X),(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",17.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",17.5,RELATIONSHIP,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",18,Population in households,"715,299","+/-5,765","715,299",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",19,Householder,"271,053","+/-4,415",37.9,+/-0.6
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",20,Spouse,"141,031","+/-5,280",19.7,+/-0.7
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",21,Unmarried partner,"12,310","+/-1,624",1.7,+/-0.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",22,Child,"215,914","+/-7,333",30.2,+/-1.0
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",23,Other relatives,"50,337","+/-5,014",7.0,+/-0.7
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",24,Other nonrelatives,"24,654","+/-4,260",3.4,+/-0.6
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",24.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",24.5,MARITAL STATUS,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",25,Males 15 years and over,"283,309","+/-3,164","283,309",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",26,Never married,"87,909","+/-4,547",31.0,+/-1.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",27,"Now married, except separated","150,796","+/-5,199",53.2,+/-1.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",28,Separated,"3,750",+/-942,1.3,+/-0.3
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",29,Widowed,"8,359","+/-1,533",3.0,+/-0.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",30,Divorced,"32,495","+/-2,734",11.5,+/-0.9
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",30.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",31,Females 15 years and over,"302,306","+/-3,544","302,306",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",32,Never married,"70,848","+/-4,246",23.4,+/-1.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",33,"Now married, except separated","150,078","+/-5,684",49.6,+/-1.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",34,Separated,"5,774","+/-1,418",1.9,+/-0.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",35,Widowed,"37,714","+/-2,816",12.5,+/-0.9
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",36,Divorced,"37,892","+/-3,361",12.5,+/-1.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",36.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",36.5,FERTILITY,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"8,164","+/-1,574","8,164",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",38,"Unmarried women (widowed, divorced, and never married)","2,496",+/-852,30.6,+/-8.9
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",39,"Per 1,000 unmarried women",30,+/-10,(X),(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",40,"Per 1,000 women 15 to 50 years old",52,+/-10,(X),(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",41,"Per 1,000 women 15 to 19 years old",8,+/-10,(X),(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",42,"Per 1,000 women 20 to 34 years old",103,+/-24,(X),(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",43,"Per 1,000 women 35 to 50 years old",18,+/-7,(X),(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",43.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",43.5,GRANDPARENTS,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",44,Number of grandparents living with own grandchildren under 18 years,"15,734","+/-2,534","15,734",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",45,Grandparents responsible for grandchildren,"8,023","+/-1,803",51.0,+/-8.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",46,Less than 1 year,"1,267",+/-814,8.1,+/-5.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",47,1 or 2 years,"1,675",+/-793,10.6,+/-4.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",48,3 or 4 years,"2,006",+/-908,12.7,+/-5.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",49,5 or more years,"3,075","+/-1,164",19.5,+/-6.9
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",49.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",50,Number of grandparents responsible for own grandchildren under 18 years,"8,023","+/-1,803","8,023",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",51,Who are female,"4,639","+/-1,158",57.8,+/-6.7
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",52,Who are married,"5,790","+/-1,592",72.2,+/-9.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",52.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",53,Population 3 years and over enrolled in school,"155,411","+/-5,144","155,411",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",54,"Nursery school, preschool","8,138","+/-1,801",5.2,+/-1.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",55,Kindergarten,"8,204","+/-1,636",5.3,+/-1.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",56,Elementary school (grades 1-8),"72,277","+/-3,276",46.5,+/-1.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",57,High school (grades 9-12),"36,270","+/-2,568",23.3,+/-1.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",58,College or graduate school,"30,522","+/-2,757",19.6,+/-1.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",58.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",59,Population 25 years and over,"498,039","+/-4,314","498,039",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",60,Less than 9th grade,"27,366","+/-3,613",5.5,+/-0.7
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",61,"9th to 12th grade, no diploma","48,124","+/-3,873",9.7,+/-0.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",62,High school graduate (includes equivalency),"177,441","+/-6,595",35.6,+/-1.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",63,"Some college, no degree","99,325","+/-5,171",19.9,+/-1.0
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",64,Associate's degree,"50,678","+/-4,178",10.2,+/-0.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",65,Bachelor's degree,"59,397","+/-4,246",11.9,+/-0.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",66,Graduate or professional degree,"35,708","+/-3,580",7.2,+/-0.7
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",66.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",67,High school graduate or higher,"422,549","+/-6,182",84.8,+/-0.9
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",68,Bachelor's degree or higher,"95,105","+/-5,521",19.1,+/-1.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",68.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",68.5,VETERAN STATUS,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",69,Civilian population 18 years and over,"557,197","+/-4,210","557,197",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",70,Civilian veterans,"36,859","+/-2,780",6.6,+/-0.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",70.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",71,Total Civilian Noninstitutionalized Population,"717,183","+/-5,877","717,183",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",72,With a disability,"128,918","+/-5,001",18.0,+/-0.7
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",72.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",73,Under 18 years,"165,154","+/-3,662","165,154",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",74,With a disability,"8,755","+/-1,943",5.3,+/-1.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",74.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",75,18 to 64 years,"420,984","+/-4,883","420,984",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",76,With a disability,"66,141","+/-4,209",15.7,+/-1.0
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",76.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",77,65 years and over,"131,045","+/-2,375","131,045",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",78,With a disability,"54,022","+/-2,873",41.2,+/-2.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",78.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",79,Population 1 year and over,"714,541","+/-6,231","714,541",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",80,Same house,"640,245","+/-9,028",89.6,+/-1.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",81,Different house (in the U.S. or abroad),"74,296","+/-8,827",10.4,+/-1.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",82,Different house in the U.S.,"73,450","+/-8,794",10.3,+/-1.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",83,Same county,"41,489","+/-6,394",5.8,+/-0.9
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",84,Different county,"31,961","+/-4,972",4.5,+/-0.7
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",85,Same state,"22,470","+/-4,593",3.1,+/-0.6
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",86,Different state,"9,491","+/-3,177",1.3,+/-0.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",87,Abroad,846,+/-526,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",87.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",88,Total population,"723,070","+/-5,883","723,070",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",89,Native,"696,559","+/-6,370",96.3,+/-0.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",90,Born in United States,"692,588","+/-6,650",95.8,+/-0.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",91,State of residence,"530,731","+/-8,920",73.4,+/-1.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",92,Different state,"161,857","+/-7,641",22.4,+/-1.0
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","3,971","+/-1,296",0.5,+/-0.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",94,Foreign born,"26,511","+/-2,565",3.7,+/-0.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",94.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",95,Foreign-born population,"26,511","+/-2,565","26,511",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",96,Naturalized U.S. citizen,"8,030","+/-2,073",30.3,+/-7.0
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",97,Not a U.S. citizen,"18,481","+/-2,451",69.7,+/-7.0
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",97.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",98,Population born outside the United States,"30,482","+/-2,713","30,482",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",98.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",99,Native,"3,971","+/-1,296","3,971",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",100,Entered 2010 or later,445,+/-311,11.2,+/-7.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",101,Entered before 2010,"3,526","+/-1,229",88.8,+/-7.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",101.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",102,Foreign born,"26,511","+/-2,565","26,511",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",103,Entered 2010 or later,"7,551","+/-2,205",28.5,+/-7.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",104,Entered before 2010,"18,960","+/-2,213",71.5,+/-7.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",104.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",106,Europe,N,N,N,N
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",107,Asia,N,N,N,N
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",108,Africa,N,N,N,N
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",109,Oceania,N,N,N,N
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",110,Latin America,N,N,N,N
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",111,Northern America,N,N,N,N
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",111.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",112,Population 5 years and over,"677,156","+/-5,536","677,156",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",113,English only,"635,318","+/-6,497",93.8,+/-0.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",114,Language other than English,"41,838","+/-3,491",6.2,+/-0.5
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",115,"Speak English less than ""very well""","19,800","+/-2,920",2.9,+/-0.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",116,Spanish,"35,309","+/-3,038",5.2,+/-0.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",117,"Speak English less than ""very well""","17,274","+/-2,713",2.6,+/-0.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",118,Other Indo-European languages,"3,159","+/-1,084",0.5,+/-0.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",119,"Speak English less than ""very well""",734,+/-498,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",120,Asian and Pacific Islander languages,"2,926","+/-1,125",0.4,+/-0.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",121,"Speak English less than ""very well""","1,611",+/-784,0.2,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",122,Other languages,444,+/-370,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",123,"Speak English less than ""very well""",181,+/-252,0.0,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",123.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",123.5,ANCESTRY,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",124,Total population,"723,070","+/-5,883","723,070",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",125,American,"127,339","+/-9,523",17.6,+/-1.3
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",126,Arab,18,+/-29,0.0,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",127,Czech,298,+/-230,0.0,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",128,Danish,97,+/-135,0.0,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",129,Dutch,"2,780",+/-892,0.4,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",130,English,"99,468","+/-6,577",13.8,+/-0.9
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",131,French (except Basque),"5,918","+/-1,355",0.8,+/-0.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",132,French Canadian,496,+/-325,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",133,German,"50,378","+/-4,794",7.0,+/-0.7
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",134,Greek,597,+/-453,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",135,Hungarian,518,+/-490,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",136,Irish,"65,994","+/-5,515",9.1,+/-0.8
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",137,Italian,"10,841","+/-3,118",1.5,+/-0.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",138,Lithuanian,138,+/-135,0.0,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",139,Norwegian,"1,851",+/-803,0.3,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",140,Polish,"2,854","+/-1,165",0.4,+/-0.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",141,Portuguese,465,+/-330,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",142,Russian,"1,043",+/-676,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",143,Scotch-Irish,"6,052","+/-1,488",0.8,+/-0.2
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",144,Scottish,"14,337","+/-3,040",2.0,+/-0.4
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",145,Slovak,221,+/-212,0.0,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",146,Subsaharan African,"1,144",+/-764,0.2,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",147,Swedish,"1,797",+/-948,0.2,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",148,Swiss,663,+/-673,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",149,Ukrainian,598,+/-660,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",150,Welsh,"1,581",+/-638,0.2,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",151,West Indian (excluding Hispanic origin groups),652,+/-419,0.1,+/-0.1
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",151.3,,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",152,Total households,"271,053","+/-4,415","271,053",(X)
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",153,With a computer,"245,553","+/-4,999",90.6,+/-1.0
+DP02,5001800US0104,"Congressional District 4 (118th Congress), Alabama",154,With a broadband Internet subscription,"219,285","+/-5,208",80.9,+/-1.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",0.5,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",1,Total households,"294,256","+/-3,411","294,256",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",2,Married-couple household,"148,603","+/-5,526",50.5,+/-1.9
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",3,With children of the householder under 18 years,"54,416","+/-4,094",18.5,+/-1.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",4,Cohabiting couple household,"13,929","+/-2,294",4.7,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",5,With children of the householder under 18 years,"4,097","+/-1,421",1.4,+/-0.5
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",6,"Male householder, no spouse/partner present","52,783","+/-3,887",17.9,+/-1.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",7,With children of the householder under 18 years,"4,165","+/-1,432",1.4,+/-0.5
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",8,Householder living alone,"38,992","+/-3,562",13.3,+/-1.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",9,65 years and over,"10,481","+/-1,618",3.6,+/-0.6
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",10,"Female householder, no spouse/partner present","78,941","+/-3,925",26.8,+/-1.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",11,With children of the householder under 18 years,"13,644","+/-2,269",4.6,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",12,Householder living alone,"46,009","+/-3,725",15.6,+/-1.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",13,65 years and over,"23,116","+/-2,257",7.9,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",13.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",14,Households with one or more people under 18 years,"84,100","+/-5,021",28.6,+/-1.7
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",15,Households with one or more people 65 years and over,"89,998","+/-2,184",30.6,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",15.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",16,Average household size,2.42,+/-0.02,(X),(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",17,Average family size,3.00,+/-0.06,(X),(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",17.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",17.5,RELATIONSHIP,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",18,Population in households,"711,133","+/-4,186","711,133",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",19,Householder,"294,256","+/-3,411",41.4,+/-0.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",20,Spouse,"148,170","+/-5,657",20.8,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",21,Unmarried partner,"14,376","+/-2,302",2.0,+/-0.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",22,Child,"200,206","+/-6,403",28.2,+/-0.9
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",23,Other relatives,"40,582","+/-5,381",5.7,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",24,Other nonrelatives,"13,543","+/-3,012",1.9,+/-0.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",24.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",24.5,MARITAL STATUS,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",25,Males 15 years and over,"293,621","+/-2,176","293,621",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",26,Never married,"91,909","+/-5,051",31.3,+/-1.7
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",27,"Now married, except separated","157,355","+/-5,834",53.6,+/-2.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",28,Separated,"3,062","+/-1,136",1.0,+/-0.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",29,Widowed,"8,731","+/-1,477",3.0,+/-0.5
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",30,Divorced,"32,564","+/-3,538",11.1,+/-1.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",30.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",31,Females 15 years and over,"306,915","+/-2,197","306,915",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",32,Never married,"80,214","+/-4,593",26.1,+/-1.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",33,"Now married, except separated","156,496","+/-5,556",51.0,+/-1.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",34,Separated,"5,279","+/-1,601",1.7,+/-0.5
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",35,Widowed,"26,807","+/-2,442",8.7,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",36,Divorced,"38,119","+/-3,316",12.4,+/-1.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",36.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",36.5,FERTILITY,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,875","+/-2,348","7,875",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",38,"Unmarried women (widowed, divorced, and never married)","2,618","+/-1,372",33.2,+/-15.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",39,"Per 1,000 unmarried women",30,+/-16,(X),(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",40,"Per 1,000 women 15 to 50 years old",47,+/-14,(X),(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",41,"Per 1,000 women 15 to 19 years old",0,+/-8,(X),(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",42,"Per 1,000 women 20 to 34 years old",94,+/-29,(X),(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",43,"Per 1,000 women 35 to 50 years old",20,+/-10,(X),(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",43.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",43.5,GRANDPARENTS,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",44,Number of grandparents living with own grandchildren under 18 years,"12,146","+/-3,018","12,146",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",45,Grandparents responsible for grandchildren,"5,207","+/-1,757",42.9,+/-10.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",46,Less than 1 year,640,+/-539,5.3,+/-4.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",47,1 or 2 years,991,+/-613,8.2,+/-4.5
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",48,3 or 4 years,"1,033","+/-1,036",8.5,+/-7.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",49,5 or more years,"2,543","+/-1,288",20.9,+/-10.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",49.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",50,Number of grandparents responsible for own grandchildren under 18 years,"5,207","+/-1,757","5,207",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",51,Who are female,"3,398","+/-1,092",65.3,+/-8.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",52,Who are married,"3,548","+/-1,606",68.1,+/-14.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",52.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",53,Population 3 years and over enrolled in school,"172,032","+/-5,656","172,032",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",54,"Nursery school, preschool","10,151","+/-1,812",5.9,+/-1.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",55,Kindergarten,"9,281","+/-2,077",5.4,+/-1.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",56,Elementary school (grades 1-8),"69,977","+/-3,130",40.7,+/-2.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",57,High school (grades 9-12),"38,870","+/-2,495",22.6,+/-1.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",58,College or graduate school,"43,753","+/-4,466",25.4,+/-2.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",58.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",59,Population 25 years and over,"509,680","+/-3,008","509,680",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",60,Less than 9th grade,"20,231","+/-3,131",4.0,+/-0.6
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",61,"9th to 12th grade, no diploma","34,700","+/-3,550",6.8,+/-0.7
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",62,High school graduate (includes equivalency),"123,705","+/-7,254",24.3,+/-1.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",63,"Some college, no degree","103,149","+/-7,385",20.2,+/-1.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",64,Associate's degree,"42,015","+/-4,016",8.2,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",65,Bachelor's degree,"111,362","+/-6,795",21.8,+/-1.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",66,Graduate or professional degree,"74,518","+/-5,500",14.6,+/-1.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",66.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",67,High school graduate or higher,"454,749","+/-5,049",89.2,+/-1.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",68,Bachelor's degree or higher,"185,880","+/-8,836",36.5,+/-1.7
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",68.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",68.5,VETERAN STATUS,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",69,Civilian population 18 years and over,"570,798","+/-2,997","570,798",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",70,Civilian veterans,"56,560","+/-4,060",9.9,+/-0.7
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",70.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",71,Total Civilian Noninstitutionalized Population,"716,809","+/-3,773","716,809",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",72,With a disability,"101,242","+/-5,842",14.1,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",72.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",73,Under 18 years,"157,429","+/-1,594","157,429",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",74,With a disability,"6,927","+/-1,932",4.4,+/-1.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",74.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",75,18 to 64 years,"437,574","+/-2,962","437,574",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",76,With a disability,"50,649","+/-4,836",11.6,+/-1.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",76.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",77,65 years and over,"121,806","+/-1,841","121,806",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",78,With a disability,"43,666","+/-3,296",35.8,+/-2.6
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",78.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",79,Population 1 year and over,"722,249","+/-3,881","722,249",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",80,Same house,"627,489","+/-10,499",86.9,+/-1.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",81,Different house (in the U.S. or abroad),"94,760","+/-10,027",13.1,+/-1.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",82,Different house in the U.S.,"90,660","+/-9,594",12.6,+/-1.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",83,Same county,"49,150","+/-7,188",6.8,+/-1.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",84,Different county,"41,510","+/-7,758",5.7,+/-1.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",85,Same state,"23,208","+/-5,910",3.2,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",86,Different state,"18,302","+/-4,496",2.5,+/-0.6
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",87,Abroad,"4,100","+/-1,766",0.6,+/-0.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",87.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",88,Total population,"729,384","+/-3,408","729,384",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",89,Native,"695,345","+/-5,035",95.3,+/-0.6
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",90,Born in United States,"683,515","+/-5,300",93.7,+/-0.6
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",91,State of residence,"430,169","+/-9,558",59.0,+/-1.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",92,Different state,"253,346","+/-8,817",34.7,+/-1.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","11,830","+/-2,382",1.6,+/-0.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",94,Foreign born,"34,039","+/-4,030",4.7,+/-0.6
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",94.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",95,Foreign-born population,"34,039","+/-4,030","34,039",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",96,Naturalized U.S. citizen,"17,217","+/-2,622",50.6,+/-6.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",97,Not a U.S. citizen,"16,822","+/-3,096",49.4,+/-6.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",97.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",98,Population born outside the United States,"45,869","+/-4,273","45,869",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",98.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",99,Native,"11,830","+/-2,382","11,830",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",100,Entered 2010 or later,"3,583","+/-1,600",30.3,+/-10.5
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",101,Entered before 2010,"8,247","+/-1,784",69.7,+/-10.5
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",101.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",102,Foreign born,"34,039","+/-4,030","34,039",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",103,Entered 2010 or later,"10,757","+/-2,711",31.6,+/-6.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",104,Entered before 2010,"23,282","+/-3,482",68.4,+/-6.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",104.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",106,Europe,N,N,N,N
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",107,Asia,N,N,N,N
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",108,Africa,N,N,N,N
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",109,Oceania,N,N,N,N
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",110,Latin America,N,N,N,N
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",111,Northern America,N,N,N,N
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",111.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",112,Population 5 years and over,"691,701","+/-3,393","691,701",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",113,English only,"651,417","+/-5,274",94.2,+/-0.6
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",114,Language other than English,"40,284","+/-3,983",5.8,+/-0.6
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",115,"Speak English less than ""very well""","15,479","+/-2,790",2.2,+/-0.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",116,Spanish,"25,893","+/-2,819",3.7,+/-0.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",117,"Speak English less than ""very well""","11,303","+/-2,061",1.6,+/-0.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",118,Other Indo-European languages,"5,997","+/-1,732",0.9,+/-0.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",119,"Speak English less than ""very well""",739,+/-490,0.1,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",120,Asian and Pacific Islander languages,"6,132","+/-1,362",0.9,+/-0.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",121,"Speak English less than ""very well""","2,654",+/-955,0.4,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",122,Other languages,"2,262","+/-1,316",0.3,+/-0.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",123,"Speak English less than ""very well""",783,+/-730,0.1,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",123.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",123.5,ANCESTRY,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",124,Total population,"729,384","+/-3,408","729,384",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",125,American,"73,905","+/-7,390",10.1,+/-1.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",126,Arab,914,+/-613,0.1,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",127,Czech,824,+/-845,0.1,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",128,Danish,"1,070",+/-620,0.1,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",129,Dutch,"7,210","+/-2,275",1.0,+/-0.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",130,English,"109,339","+/-7,850",15.0,+/-1.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",131,French (except Basque),"8,309","+/-1,813",1.1,+/-0.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",132,French Canadian,"1,338",+/-662,0.2,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",133,German,"64,034","+/-5,905",8.8,+/-0.8
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",134,Greek,488,+/-307,0.1,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",135,Hungarian,494,+/-295,0.1,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",136,Irish,"66,460","+/-6,694",9.1,+/-0.9
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",137,Italian,"15,363","+/-3,169",2.1,+/-0.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",138,Lithuanian,285,+/-234,0.0,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",139,Norwegian,"2,328",+/-960,0.3,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",140,Polish,"6,644","+/-2,456",0.9,+/-0.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",141,Portuguese,163,+/-205,0.0,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",142,Russian,"1,225",+/-734,0.2,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",143,Scotch-Irish,"11,849","+/-3,488",1.6,+/-0.5
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",144,Scottish,"14,651","+/-2,904",2.0,+/-0.4
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",145,Slovak,150,+/-175,0.0,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",146,Subsaharan African,"3,633","+/-1,659",0.5,+/-0.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",147,Swedish,"3,310","+/-1,136",0.5,+/-0.2
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",148,Swiss,721,+/-405,0.1,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",149,Ukrainian,310,+/-282,0.0,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",150,Welsh,"4,573","+/-1,839",0.6,+/-0.3
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",151,West Indian (excluding Hispanic origin groups),"1,674",+/-860,0.2,+/-0.1
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",151.3,,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",152,Total households,"294,256","+/-3,411","294,256",(X)
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",153,With a computer,"274,273","+/-3,959",93.2,+/-1.0
+DP02,5001800US0105,"Congressional District 5 (118th Congress), Alabama",154,With a broadband Internet subscription,"259,142","+/-4,107",88.1,+/-1.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",0.5,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",1,Total households,"279,148","+/-4,653","279,148",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",2,Married-couple household,"142,940","+/-4,533",51.2,+/-1.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",3,With children of the householder under 18 years,"54,564","+/-3,219",19.5,+/-1.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",4,Cohabiting couple household,"12,519","+/-1,939",4.5,+/-0.7
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",5,With children of the householder under 18 years,"3,543","+/-1,067",1.3,+/-0.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",6,"Male householder, no spouse/partner present","46,798","+/-3,127",16.8,+/-1.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",7,With children of the householder under 18 years,"2,995","+/-1,150",1.1,+/-0.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",8,Householder living alone,"33,613","+/-3,008",12.0,+/-1.0
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",9,65 years and over,"9,359","+/-1,620",3.4,+/-0.6
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",10,"Female householder, no spouse/partner present","76,891","+/-4,555",27.5,+/-1.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",11,With children of the householder under 18 years,"12,872","+/-2,476",4.6,+/-0.9
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",12,Householder living alone,"46,059","+/-3,441",16.5,+/-1.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",13,65 years and over,"21,598","+/-1,973",7.7,+/-0.7
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",13.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",14,Households with one or more people under 18 years,"84,986","+/-4,534",30.4,+/-1.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",15,Households with one or more people 65 years and over,"85,056","+/-2,441",30.5,+/-0.9
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",15.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",16,Average household size,2.51,+/-0.03,(X),(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",17,Average family size,3.13,+/-0.06,(X),(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",17.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",17.5,RELATIONSHIP,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",18,Population in households,"699,854","+/-11,503","699,854",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",19,Householder,"279,148","+/-4,653",39.9,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",20,Spouse,"142,774","+/-4,445",20.4,+/-0.6
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",21,Unmarried partner,"12,288","+/-1,896",1.8,+/-0.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",22,Child,"199,845","+/-6,999",28.6,+/-0.9
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",23,Other relatives,"53,309","+/-5,925",7.6,+/-0.8
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",24,Other nonrelatives,"12,490","+/-2,635",1.8,+/-0.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",24.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",24.5,MARITAL STATUS,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",25,Males 15 years and over,"276,693","+/-5,123","276,693",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",26,Never married,"81,522","+/-4,362",29.5,+/-1.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",27,"Now married, except separated","154,600","+/-4,767",55.9,+/-1.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",28,Separated,"3,855","+/-1,301",1.4,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",29,Widowed,"8,819","+/-1,469",3.2,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",30,Divorced,"27,897","+/-2,950",10.1,+/-1.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",30.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",31,Females 15 years and over,"296,830","+/-5,315","296,830",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",32,Never married,"75,702","+/-4,646",25.5,+/-1.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",33,"Now married, except separated","149,627","+/-5,595",50.4,+/-1.7
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",34,Separated,"4,074","+/-1,053",1.4,+/-0.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",35,Widowed,"28,997","+/-2,707",9.8,+/-0.9
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",36,Divorced,"38,430","+/-3,208",12.9,+/-1.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",36.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",36.5,FERTILITY,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,390","+/-1,727","7,390",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",38,"Unmarried women (widowed, divorced, and never married)","1,679",+/-738,22.7,+/-9.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",39,"Per 1,000 unmarried women",20,+/-8,(X),(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",40,"Per 1,000 women 15 to 50 years old",45,+/-10,(X),(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",41,"Per 1,000 women 15 to 19 years old",0,+/-9,(X),(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",42,"Per 1,000 women 20 to 34 years old",87,+/-22,(X),(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",43,"Per 1,000 women 35 to 50 years old",20,+/-8,(X),(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",43.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",43.5,GRANDPARENTS,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",44,Number of grandparents living with own grandchildren under 18 years,"15,865","+/-2,834","15,865",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",45,Grandparents responsible for grandchildren,"5,816","+/-1,611",36.7,+/-8.9
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",46,Less than 1 year,565,+/-371,3.6,+/-2.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",47,1 or 2 years,"1,328",+/-769,8.4,+/-4.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",48,3 or 4 years,893,+/-555,5.6,+/-3.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",49,5 or more years,"3,030","+/-1,220",19.1,+/-7.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",49.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",50,Number of grandparents responsible for own grandchildren under 18 years,"5,816","+/-1,611","5,816",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",51,Who are female,"3,847","+/-1,241",66.1,+/-9.0
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",52,Who are married,"3,776","+/-1,405",64.9,+/-13.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",52.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",53,Population 3 years and over enrolled in school,"164,543","+/-6,061","164,543",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",54,"Nursery school, preschool","10,150","+/-1,841",6.2,+/-1.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",55,Kindergarten,"9,102","+/-1,622",5.5,+/-1.0
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",56,Elementary school (grades 1-8),"71,492","+/-3,645",43.4,+/-2.0
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",57,High school (grades 9-12),"39,469","+/-3,141",24.0,+/-1.7
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",58,College or graduate school,"34,330","+/-3,447",20.9,+/-1.8
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",58.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",59,Population 25 years and over,"490,368","+/-7,299","490,368",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",60,Less than 9th grade,"12,757","+/-2,557",2.6,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",61,"9th to 12th grade, no diploma","27,100","+/-3,859",5.5,+/-0.8
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",62,High school graduate (includes equivalency),"124,276","+/-7,243",25.3,+/-1.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",63,"Some college, no degree","89,725","+/-5,693",18.3,+/-1.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",64,Associate's degree,"37,863","+/-3,256",7.7,+/-0.7
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",65,Bachelor's degree,"123,203","+/-5,971",25.1,+/-1.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",66,Graduate or professional degree,"75,444","+/-4,545",15.4,+/-0.9
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",66.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",67,High school graduate or higher,"450,511","+/-7,641",91.9,+/-0.8
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",68,Bachelor's degree or higher,"198,647","+/-6,707",40.5,+/-1.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",68.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",68.5,VETERAN STATUS,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",69,Civilian population 18 years and over,"544,098","+/-8,168","544,098",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",70,Civilian veterans,"33,133","+/-2,912",6.1,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",70.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",71,Total Civilian Noninstitutionalized Population,"701,020","+/-11,528","701,020",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",72,With a disability,"98,535","+/-5,657",14.1,+/-0.8
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",72.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",73,Under 18 years,"161,429","+/-5,380","161,429",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",74,With a disability,"8,163","+/-2,149",5.1,+/-1.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",74.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",75,18 to 64 years,"423,806","+/-8,200","423,806",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",76,With a disability,"51,379","+/-4,552",12.1,+/-1.0
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",76.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",77,65 years and over,"115,785","+/-2,942","115,785",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",78,With a disability,"38,993","+/-3,152",33.7,+/-2.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",78.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",79,Population 1 year and over,"699,850","+/-10,810","699,850",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",80,Same house,"616,052","+/-13,467",88.0,+/-1.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",81,Different house (in the U.S. or abroad),"83,798","+/-8,086",12.0,+/-1.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",82,Different house in the U.S.,"83,167","+/-8,112",11.9,+/-1.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",83,Same county,"51,548","+/-6,720",7.4,+/-1.0
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",84,Different county,"31,619","+/-4,809",4.5,+/-0.7
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",85,Same state,"21,995","+/-3,775",3.1,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",86,Different state,"9,624","+/-2,523",1.4,+/-0.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",87,Abroad,631,+/-372,0.1,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",87.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",88,Total population,"706,497","+/-10,989","706,497",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",89,Native,"678,963","+/-11,132",96.1,+/-0.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",90,Born in United States,"673,444","+/-11,371",95.3,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",91,State of residence,"502,740","+/-10,678",71.2,+/-1.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",92,Different state,"170,704","+/-7,658",24.2,+/-1.0
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","5,519","+/-1,577",0.8,+/-0.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",94,Foreign born,"27,534","+/-3,114",3.9,+/-0.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",94.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",95,Foreign-born population,"27,534","+/-3,114","27,534",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",96,Naturalized U.S. citizen,"12,020","+/-2,068",43.7,+/-6.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",97,Not a U.S. citizen,"15,514","+/-2,591",56.3,+/-6.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",97.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",98,Population born outside the United States,"33,053","+/-3,755","33,053",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",98.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",99,Native,"5,519","+/-1,577","5,519",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",100,Entered 2010 or later,467,+/-338,8.5,+/-6.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",101,Entered before 2010,"5,052","+/-1,543",91.5,+/-6.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",101.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",102,Foreign born,"27,534","+/-3,114","27,534",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",103,Entered 2010 or later,"7,921","+/-2,232",28.8,+/-6.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",104,Entered before 2010,"19,613","+/-2,329",71.2,+/-6.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",104.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",106,Europe,N,N,N,N
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",107,Asia,N,N,N,N
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",108,Africa,N,N,N,N
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",109,Oceania,N,N,N,N
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",110,Latin America,N,N,N,N
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",111,Northern America,N,N,N,N
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",111.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",112,Population 5 years and over,"665,089","+/-10,092","665,089",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",113,English only,"626,556","+/-10,128",94.2,+/-0.6
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",114,Language other than English,"38,533","+/-4,104",5.8,+/-0.6
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",115,"Speak English less than ""very well""","14,780","+/-2,858",2.2,+/-0.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",116,Spanish,"24,253","+/-3,090",3.6,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",117,"Speak English less than ""very well""","11,508","+/-2,638",1.7,+/-0.4
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",118,Other Indo-European languages,"5,331","+/-1,596",0.8,+/-0.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",119,"Speak English less than ""very well""","1,233",+/-743,0.2,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",120,Asian and Pacific Islander languages,"6,789","+/-1,754",1.0,+/-0.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",121,"Speak English less than ""very well""","1,947",+/-871,0.3,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",122,Other languages,"2,160","+/-1,450",0.3,+/-0.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",123,"Speak English less than ""very well""",92,+/-108,0.0,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",123.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",123.5,ANCESTRY,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",124,Total population,"706,497","+/-10,989","706,497",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",125,American,"69,237","+/-7,363",9.8,+/-1.0
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",126,Arab,"3,851","+/-1,729",0.5,+/-0.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",127,Czech,782,+/-537,0.1,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",128,Danish,"2,132","+/-1,698",0.3,+/-0.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",129,Dutch,"3,306",+/-952,0.5,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",130,English,"108,847","+/-7,385",15.4,+/-1.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",131,French (except Basque),"7,118","+/-1,988",1.0,+/-0.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",132,French Canadian,634,+/-487,0.1,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",133,German,"50,442","+/-5,425",7.1,+/-0.8
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",134,Greek,"1,466",+/-715,0.2,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",135,Hungarian,"1,108",+/-692,0.2,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",136,Irish,"68,007","+/-6,831",9.6,+/-0.9
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",137,Italian,"17,928","+/-3,723",2.5,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",138,Lithuanian,379,+/-396,0.1,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",139,Norwegian,"2,353","+/-1,060",0.3,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",140,Polish,"3,944","+/-1,016",0.6,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",141,Portuguese,937,+/-757,0.1,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",142,Russian,"1,973",+/-971,0.3,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",143,Scotch-Irish,"10,606","+/-2,119",1.5,+/-0.3
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",144,Scottish,"17,446","+/-3,384",2.5,+/-0.5
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",145,Slovak,553,+/-400,0.1,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",146,Subsaharan African,"4,297","+/-1,585",0.6,+/-0.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",147,Swedish,"1,775",+/-636,0.3,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",148,Swiss,"1,691",+/-806,0.2,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",149,Ukrainian,551,+/-413,0.1,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",150,Welsh,"3,733","+/-1,242",0.5,+/-0.2
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",151,West Indian (excluding Hispanic origin groups),321,+/-272,0.0,+/-0.1
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",151.3,,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",152,Total households,"279,148","+/-4,653","279,148",(X)
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",153,With a computer,"268,387","+/-4,820",96.1,+/-0.7
+DP02,5001800US0106,"Congressional District 6 (118th Congress), Alabama",154,With a broadband Internet subscription,"255,712","+/-5,209",91.6,+/-1.0
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",0.5,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",1,Total households,"281,678","+/-5,360","281,678",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",2,Married-couple household,"92,083","+/-4,416",32.7,+/-1.4
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",3,With children of the householder under 18 years,"27,921","+/-2,627",9.9,+/-0.9
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",4,Cohabiting couple household,"14,112","+/-2,396",5.0,+/-0.8
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",5,With children of the householder under 18 years,"4,708","+/-1,485",1.7,+/-0.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",6,"Male householder, no spouse/partner present","62,561","+/-4,599",22.2,+/-1.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",7,With children of the householder under 18 years,"3,945","+/-1,524",1.4,+/-0.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",8,Householder living alone,"47,170","+/-3,751",16.7,+/-1.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",9,65 years and over,"13,149","+/-1,741",4.7,+/-0.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",10,"Female householder, no spouse/partner present","112,922","+/-3,777",40.1,+/-1.4
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",11,With children of the householder under 18 years,"23,437","+/-3,272",8.3,+/-1.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",12,Householder living alone,"55,289","+/-3,870",19.6,+/-1.4
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",13,65 years and over,"24,819","+/-2,150",8.8,+/-0.8
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",13.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",14,Households with one or more people under 18 years,"73,621","+/-5,225",26.1,+/-1.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",15,Households with one or more people 65 years and over,"89,173","+/-2,602",31.7,+/-1.0
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",15.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",16,Average household size,2.43,+/-0.04,(X),(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",17,Average family size,3.23,+/-0.08,(X),(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",17.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",17.5,RELATIONSHIP,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",18,Population in households,"683,629","+/-12,106","683,629",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",19,Householder,"281,678","+/-5,360",41.2,+/-0.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",20,Spouse,"91,502","+/-4,322",13.4,+/-0.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",21,Unmarried partner,"13,698","+/-2,346",2.0,+/-0.3
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",22,Child,"206,676","+/-8,892",30.2,+/-1.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",23,Other relatives,"68,933","+/-7,883",10.1,+/-1.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",24,Other nonrelatives,"21,142","+/-3,426",3.1,+/-0.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",24.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",24.5,MARITAL STATUS,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",25,Males 15 years and over,"272,015","+/-6,184","272,015",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",26,Never married,"120,239","+/-5,450",44.2,+/-1.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",27,"Now married, except separated","101,730","+/-4,526",37.4,+/-1.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",28,Separated,"7,419","+/-1,838",2.7,+/-0.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",29,Widowed,"8,673","+/-1,568",3.2,+/-0.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",30,Divorced,"33,954","+/-3,640",12.5,+/-1.3
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",30.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",31,Females 15 years and over,"313,873","+/-5,565","313,873",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",32,Never married,"128,601","+/-5,897",41.0,+/-1.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",33,"Now married, except separated","98,458","+/-4,929",31.4,+/-1.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",34,Separated,"8,540","+/-1,771",2.7,+/-0.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",35,Widowed,"34,661","+/-3,067",11.0,+/-1.0
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",36,Divorced,"43,613","+/-3,225",13.9,+/-1.0
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",36.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",36.5,FERTILITY,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,918","+/-1,783","7,918",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",38,"Unmarried women (widowed, divorced, and never married)","4,456","+/-1,331",56.3,+/-13.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",39,"Per 1,000 unmarried women",35,+/-11,(X),(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",40,"Per 1,000 women 15 to 50 years old",44,+/-10,(X),(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",41,"Per 1,000 women 15 to 19 years old",8,+/-9,(X),(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",42,"Per 1,000 women 20 to 34 years old",69,+/-17,(X),(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",43,"Per 1,000 women 35 to 50 years old",31,+/-16,(X),(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",43.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",43.5,GRANDPARENTS,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",44,Number of grandparents living with own grandchildren under 18 years,"17,790","+/-3,086","17,790",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",45,Grandparents responsible for grandchildren,"8,897","+/-1,817",50.0,+/-7.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",46,Less than 1 year,"1,322",+/-665,7.4,+/-3.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",47,1 or 2 years,"1,876",+/-847,10.5,+/-4.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",48,3 or 4 years,"1,120",+/-651,6.3,+/-3.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",49,5 or more years,"4,579",+/-974,25.7,+/-4.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",49.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",50,Number of grandparents responsible for own grandchildren under 18 years,"8,897","+/-1,817","8,897",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",51,Who are female,"6,815","+/-1,524",76.6,+/-6.0
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",52,Who are married,"4,360","+/-1,224",49.0,+/-9.8
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",52.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",53,Population 3 years and over enrolled in school,"183,313","+/-7,448","183,313",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",54,"Nursery school, preschool","7,843","+/-2,358",4.3,+/-1.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",55,Kindergarten,"8,486","+/-1,692",4.6,+/-0.9
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",56,Elementary school (grades 1-8),"71,035","+/-4,045",38.8,+/-1.9
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",57,High school (grades 9-12),"33,345","+/-3,224",18.2,+/-1.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",58,College or graduate school,"62,604","+/-5,046",34.2,+/-2.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",58.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",59,Population 25 years and over,"471,847","+/-7,908","471,847",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",60,Less than 9th grade,"14,750","+/-2,146",3.1,+/-0.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",61,"9th to 12th grade, no diploma","48,146","+/-4,309",10.2,+/-0.9
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",62,High school graduate (includes equivalency),"168,102","+/-7,361",35.6,+/-1.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",63,"Some college, no degree","100,403","+/-6,017",21.3,+/-1.3
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",64,Associate's degree,"37,269","+/-3,287",7.9,+/-0.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",65,Bachelor's degree,"59,885","+/-4,181",12.7,+/-0.8
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",66,Graduate or professional degree,"43,292","+/-3,699",9.2,+/-0.8
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",66.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",67,High school graduate or higher,"408,951","+/-7,749",86.7,+/-1.0
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",68,Bachelor's degree or higher,"103,177","+/-6,049",21.9,+/-1.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",68.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",68.5,VETERAN STATUS,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",69,Civilian population 18 years and over,"558,857","+/-9,186","558,857",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",70,Civilian veterans,"38,739","+/-3,698",6.9,+/-0.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",70.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",71,Total Civilian Noninstitutionalized Population,"703,330","+/-12,775","703,330",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",72,With a disability,"122,409","+/-6,333",17.4,+/-0.9
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",72.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",73,Under 18 years,"155,216","+/-5,956","155,216",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",74,With a disability,"8,818","+/-1,959",5.7,+/-1.3
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",74.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",75,18 to 64 years,"430,469","+/-9,538","430,469",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",76,With a disability,"68,437","+/-4,259",15.9,+/-0.9
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",76.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",77,65 years and over,"117,645","+/-3,429","117,645",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",78,With a disability,"45,154","+/-3,324",38.4,+/-2.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",78.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",79,Population 1 year and over,"710,124","+/-12,527","710,124",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",80,Same house,"618,240","+/-15,116",87.1,+/-1.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",81,Different house (in the U.S. or abroad),"91,884","+/-10,966",12.9,+/-1.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",82,Different house in the U.S.,"89,209","+/-10,985",12.6,+/-1.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",83,Same county,"52,367","+/-7,576",7.4,+/-1.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",84,Different county,"36,842","+/-7,990",5.2,+/-1.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",85,Same state,"18,666","+/-5,264",2.6,+/-0.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",86,Different state,"18,176","+/-5,225",2.6,+/-0.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",87,Abroad,"2,675","+/-1,029",0.4,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",87.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",88,Total population,"716,213","+/-12,428","716,213",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",89,Native,"693,205","+/-13,145",96.8,+/-0.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",90,Born in United States,"689,172","+/-13,192",96.2,+/-0.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",91,State of residence,"558,077","+/-11,512",77.9,+/-1.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",92,Different state,"131,095","+/-8,872",18.3,+/-1.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","4,033","+/-1,181",0.6,+/-0.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",94,Foreign born,"23,008","+/-3,357",3.2,+/-0.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",94.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",95,Foreign-born population,"23,008","+/-3,357","23,008",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",96,Naturalized U.S. citizen,"7,579","+/-1,849",32.9,+/-7.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",97,Not a U.S. citizen,"15,429","+/-3,147",67.1,+/-7.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",97.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",98,Population born outside the United States,"27,041","+/-3,512","27,041",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",98.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",99,Native,"4,033","+/-1,181","4,033",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",100,Entered 2010 or later,"1,149",+/-752,28.5,+/-14.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",101,Entered before 2010,"2,884",+/-894,71.5,+/-14.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",101.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",102,Foreign born,"23,008","+/-3,357","23,008",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",103,Entered 2010 or later,"10,109","+/-2,501",43.9,+/-7.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",104,Entered before 2010,"12,899","+/-2,080",56.1,+/-7.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",104.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",105,"Foreign-born population, excluding population born at sea",N,N,N,N
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",106,Europe,N,N,N,N
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",107,Asia,N,N,N,N
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",108,Africa,N,N,N,N
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",109,Oceania,N,N,N,N
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",110,Latin America,N,N,N,N
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",111,Northern America,N,N,N,N
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",111.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",112,Population 5 years and over,"674,380","+/-11,698","674,380",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",113,English only,"640,183","+/-12,480",94.9,+/-0.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",114,Language other than English,"34,197","+/-4,017",5.1,+/-0.6
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",115,"Speak English less than ""very well""","13,288","+/-2,839",2.0,+/-0.4
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",116,Spanish,"23,032","+/-3,464",3.4,+/-0.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",117,"Speak English less than ""very well""","10,462","+/-2,579",1.6,+/-0.4
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",118,Other Indo-European languages,"4,746","+/-1,784",0.7,+/-0.3
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",119,"Speak English less than ""very well""",799,+/-575,0.1,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",120,Asian and Pacific Islander languages,"4,898","+/-1,431",0.7,+/-0.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",121,"Speak English less than ""very well""","1,807",+/-805,0.3,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",122,Other languages,"1,521",+/-824,0.2,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",123,"Speak English less than ""very well""",220,+/-198,0.0,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",123.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",123.5,ANCESTRY,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",124,Total population,"716,213","+/-12,428","716,213",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",125,American,"88,905","+/-10,477",12.4,+/-1.4
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",126,Arab,"1,073",+/-765,0.1,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",127,Czech,96,+/-119,0.0,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",128,Danish,117,+/-145,0.0,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",129,Dutch,"1,089",+/-338,0.2,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",130,English,"47,126","+/-5,750",6.6,+/-0.8
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",131,French (except Basque),"4,058","+/-1,817",0.6,+/-0.3
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",132,French Canadian,408,+/-375,0.1,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",133,German,"23,353","+/-3,632",3.3,+/-0.5
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",134,Greek,636,+/-702,0.1,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",135,Hungarian,195,+/-254,0.0,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",136,Irish,"32,973","+/-4,703",4.6,+/-0.7
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",137,Italian,"6,737","+/-2,158",0.9,+/-0.3
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",138,Lithuanian,68,+/-82,0.0,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",139,Norwegian,655,+/-462,0.1,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",140,Polish,"1,606",+/-685,0.2,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",141,Portuguese,127,+/-124,0.0,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",142,Russian,619,+/-467,0.1,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",143,Scotch-Irish,"4,070","+/-1,258",0.6,+/-0.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",144,Scottish,"7,733","+/-1,542",1.1,+/-0.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",145,Slovak,136,+/-172,0.0,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",146,Subsaharan African,"10,047","+/-2,773",1.4,+/-0.4
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",147,Swedish,607,+/-440,0.1,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",148,Swiss,820,+/-524,0.1,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",149,Ukrainian,372,+/-698,0.1,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",150,Welsh,"1,085",+/-536,0.2,+/-0.1
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",151,West Indian (excluding Hispanic origin groups),"1,569","+/-1,105",0.2,+/-0.2
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",151.3,,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",152,Total households,"281,678","+/-5,360","281,678",(X)
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",153,With a computer,"256,911","+/-6,275",91.2,+/-1.0
+DP02,5001800US0107,"Congressional District 7 (118th Congress), Alabama",154,With a broadband Internet subscription,"230,393","+/-6,269",81.8,+/-1.4

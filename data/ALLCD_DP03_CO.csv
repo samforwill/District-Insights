@@ -1,0 +1,1345 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",0.5,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",1,Population 16 years and over,"597,974","+/-1,870","597,974",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",2,In labor force,"444,170","+/-5,106",74.3,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",3,Civilian labor force,"442,608","+/-5,220",74.0,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",4,Employed,"415,213","+/-5,055",69.4,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",5,Unemployed,"27,395","+/-2,951",4.6,+/-0.5
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",6,Armed Forces,"1,562",+/-803,0.3,+/-0.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",7,Not in labor force,"153,804","+/-4,965",25.7,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",7.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",8,Civilian labor force,"442,608","+/-5,220","442,608",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",9,Unemployment Rate,(X),(X),6.2,+/-0.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",9.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",10,Females 16 years and over,"296,710","+/-1,242","296,710",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",11,In labor force,"207,799","+/-3,756",70.0,+/-1.2
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",12,Civilian labor force,"207,716","+/-3,754",70.0,+/-1.2
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",13,Employed,"195,306","+/-3,680",65.8,+/-1.2
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",13.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",14,Own children of the householder under 6 years,"45,014","+/-1,722","45,014",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",15,All parents in family in labor force,"31,737","+/-2,703",70.5,+/-5.3
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",15.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",16,Own children of the householder 6 to 17 years,"81,188","+/-2,055","81,188",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",17,All parents in family in labor force,"61,392","+/-3,771",75.6,+/-3.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",17.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",18,Workers 16 years and over,"408,276","+/-5,475","408,276",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",19,"Car, truck, or van -- drove alone","219,388","+/-7,436",53.7,+/-1.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",20,"Car, truck, or van -- carpooled","22,335","+/-3,590",5.5,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",21,Public transportation (excluding taxicab),"11,911","+/-2,217",2.9,+/-0.5
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",22,Walked,"11,696","+/-1,770",2.9,+/-0.4
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",23,Other means,"11,876","+/-1,997",2.9,+/-0.5
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",24,Worked from home,"131,070","+/-5,769",32.1,+/-1.4
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",24.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",25,Mean travel time to work (minutes),24.2,+/-0.6,(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",25.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",25.5,OCCUPATION,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",26,Civilian employed population 16 years and over,"415,213","+/-5,055","415,213",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",27,"Management, business, science, and arts occupations","224,922","+/-7,276",54.2,+/-1.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",28,Service occupations,"55,759","+/-4,121",13.4,+/-1.0
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",29,Sales and office occupations,"73,065","+/-5,016",17.6,+/-1.2
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",30,"Natural resources, construction, and maintenance occupations","26,542","+/-3,171",6.4,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",31,"Production, transportation, and material moving occupations","34,925","+/-3,127",8.4,+/-0.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",31.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",31.5,INDUSTRY,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",32,Civilian employed population 16 years and over,"415,213","+/-5,055","415,213",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",33,"Agriculture, forestry, fishing and hunting, and mining","3,518",+/-916,0.8,+/-0.2
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",34,Construction,"27,073","+/-3,372",6.5,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",35,Manufacturing,"26,351","+/-2,583",6.3,+/-0.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",36,Wholesale trade,"10,477","+/-1,542",2.5,+/-0.4
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",37,Retail trade,"36,435","+/-3,441",8.8,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",38,"Transportation and warehousing, and utilities","20,017","+/-2,802",4.8,+/-0.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",39,Information,"14,678","+/-2,197",3.5,+/-0.5
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",40,"Finance and insurance, and real estate and rental and leasing","37,287","+/-4,064",9.0,+/-1.0
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",41,"Professional, scientific, and management, and administrative and waste management services","84,255","+/-4,911",20.3,+/-1.2
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",42,"Educational services, and health care and social assistance","88,932","+/-4,492",21.4,+/-1.0
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",43,"Arts, entertainment, and recreation, and accommodation and food services","29,618","+/-2,980",7.1,+/-0.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",44,"Other services, except public administration","21,485","+/-2,930",5.2,+/-0.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",45,Public administration,"15,087","+/-2,197",3.6,+/-0.5
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",45.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",46,Civilian employed population 16 years and over,"415,213","+/-5,055","415,213",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",47,Private wage and salary workers,"343,144","+/-5,027",82.6,+/-1.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",48,Government workers,"46,422","+/-3,932",11.2,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",49,Self-employed in own not incorporated business workers,"24,884","+/-3,375",6.0,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",50,Unpaid family workers,763,+/-451,0.2,+/-0.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",50.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",51,Total households,"329,825","+/-3,376","329,825",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",52,"Less than $10,000","20,126","+/-2,458",6.1,+/-0.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",53,"$10,000 to $14,999","10,970","+/-1,631",3.3,+/-0.5
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",54,"$15,000 to $24,999","18,296","+/-2,585",5.5,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",55,"$25,000 to $34,999","19,664","+/-2,435",6.0,+/-0.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",56,"$35,000 to $49,999","31,534","+/-2,875",9.6,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",57,"$50,000 to $74,999","53,422","+/-3,525",16.2,+/-1.0
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",58,"$75,000 to $99,999","41,470","+/-3,892",12.6,+/-1.2
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",59,"$100,000 to $149,999","58,066","+/-4,260",17.6,+/-1.3
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",60,"$150,000 to $199,999","32,102","+/-3,188",9.7,+/-1.0
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",61,"$200,000 or more","44,175","+/-3,165",13.4,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",62,Median household income (dollars),"81,218","+/-2,411",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",63,Mean household income (dollars),"114,720","+/-3,445",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",63.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",64,With earnings,"277,581","+/-4,757",84.2,+/-1.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",65,Mean earnings (dollars),"116,004","+/-3,551",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",66,With Social Security,"59,969","+/-2,757",18.2,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",67,Mean Social Security income (dollars),"20,186",+/-869,(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",68,With retirement income,"48,497","+/-2,860",14.7,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",69,Mean retirement income (dollars),"33,387","+/-3,555",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",69.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",70,With Supplemental Security Income,"9,333","+/-1,842",2.8,+/-0.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",71,Mean Supplemental Security Income (dollars),"9,259",+/-905,(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",72,With cash public assistance income,"12,701","+/-2,142",3.9,+/-0.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",73,Mean cash public assistance income (dollars),"7,616","+/-1,324",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",74,With Food Stamp/SNAP benefits in the past 12 months,"27,039","+/-2,722",8.2,+/-0.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",74.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",75,Families,"153,382","+/-4,720","153,382",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",76,"Less than $10,000","5,493","+/-1,533",3.6,+/-1.0
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",77,"$10,000 to $14,999","2,427",+/-876,1.6,+/-0.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",78,"$15,000 to $24,999","6,212","+/-1,129",4.1,+/-0.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",79,"$25,000 to $34,999","7,279","+/-1,486",4.7,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",80,"$35,000 to $49,999","12,097","+/-1,976",7.9,+/-1.3
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",81,"$50,000 to $74,999","20,239","+/-2,607",13.2,+/-1.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",82,"$75,000 to $99,999","18,302","+/-2,484",11.9,+/-1.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",83,"$100,000 to $149,999","31,716","+/-3,153",20.7,+/-1.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",84,"$150,000 to $199,999","17,982","+/-2,507",11.7,+/-1.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",85,"$200,000 or more","31,635","+/-2,736",20.6,+/-1.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",86,Median family income (dollars),"105,374","+/-4,564",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",87,Mean family income (dollars),"145,457","+/-6,075",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",87.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",88,Per capita income (dollars),"52,632","+/-1,563",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",88.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",89,Nonfamily households,"176,443","+/-5,289","176,443",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",90,Median nonfamily income (dollars),"63,288","+/-3,126",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",91,Mean nonfamily income (dollars),"85,347","+/-4,257",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",91.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",92,Median earnings for workers (dollars),"50,857",+/-848,(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",93,"Median earnings for male full-time, year-round workers (dollars)","69,608","+/-3,322",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",94,"Median earnings for female full-time, year-round workers (dollars)","62,814","+/-2,936",(X),(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",94.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",95,Civilian noninstitutionalized population,"710,075","+/-2,127","710,075",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",96,With health insurance coverage,"638,143","+/-6,978",89.9,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",97,With private health insurance,"479,654","+/-10,352",67.5,+/-1.4
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",98,With public coverage,"221,039","+/-9,090",31.1,+/-1.3
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",99,No health insurance coverage,"71,932","+/-6,497",10.1,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",99.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",100,Civilian noninstitutionalized population under 19 years,"140,220","+/-1,363","140,220",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",101,No health insurance coverage,"7,359","+/-2,170",5.2,+/-1.5
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",101.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",102,Civilian noninstitutionalized population 19 to 64 years,"484,904","+/-2,152","484,904",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",103,In labor force:,"416,627","+/-4,444","416,627",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",104,Employed:,"391,974","+/-4,318","391,974",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",105,With health insurance coverage,"347,394","+/-5,725",88.6,+/-1.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",106,With private health insurance,"317,581","+/-6,294",81.0,+/-1.3
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",107,With public coverage,"40,618","+/-4,531",10.4,+/-1.2
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",108,No health insurance coverage,"44,580","+/-4,416",11.4,+/-1.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",109,Unemployed:,"24,653","+/-2,815","24,653",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",110,With health insurance coverage,"19,909","+/-2,588",80.8,+/-4.5
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",111,With private health insurance,"10,178","+/-2,027",41.3,+/-6.4
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",112,With public coverage,"10,776","+/-1,955",43.7,+/-6.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",113,No health insurance coverage,"4,744","+/-1,190",19.2,+/-4.5
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",114,Not in labor force:,"68,277","+/-4,057","68,277",(X)
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",115,With health insurance coverage,"54,041","+/-3,638",79.1,+/-3.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",116,With private health insurance,"28,024","+/-2,720",41.0,+/-3.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",117,With public coverage,"28,790","+/-3,033",42.2,+/-3.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",118,No health insurance coverage,"14,236","+/-2,911",20.9,+/-3.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",118.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",119,All families,(X),(X),8.2,+/-1.4
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",120,With related children of the householder under 18 years,(X),(X),13.2,+/-2.3
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",121,With related children of the householder under 5 years only,(X),(X),11.5,+/-6.0
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",122,Married couple families,(X),(X),4.2,+/-1.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",123,With related children of the householder under 18 years,(X),(X),6.0,+/-1.8
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",124,With related children of the householder under 5 years only,(X),(X),2.6,+/-2.4
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",125,"Families with female householder, no spouse present",(X),(X),21.1,+/-4.4
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",126,With related children of the householder under 18 years,(X),(X),31.3,+/-7.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",127,With related children of the householder under 5 years only,(X),(X),38.7,+/-27.2
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",127.3,,,,,
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",128,All people,(X),(X),11.6,+/-1.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",129,Under 18 years,(X),(X),15.7,+/-2.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",130,Related children of the householder under 18 years,(X),(X),15.3,+/-2.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",131,Related children of the householder under 5 years,(X),(X),15.5,+/-4.7
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",132,Related children of the householder 5 to 17 years,(X),(X),15.3,+/-3.3
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",133,18 years and over,(X),(X),10.7,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",134,18 to 64 years,(X),(X),10.5,+/-0.9
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",135,65 years and over,(X),(X),12.2,+/-2.1
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",136,People in families,(X),(X),9.3,+/-1.6
+DP03,5001800US0801,"Congressional District 1 (118th Congress), Colorado",137,Unrelated individuals 15 years and over,(X),(X),15.9,+/-1.5
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",0.5,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",1,Population 16 years and over,"601,597","+/-6,345","601,597",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",2,In labor force,"412,581","+/-7,584",68.6,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",3,Civilian labor force,"411,638","+/-7,690",68.4,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",4,Employed,"393,599","+/-7,604",65.4,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",5,Unemployed,"18,039","+/-2,407",3.0,+/-0.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",6,Armed Forces,943,+/-524,0.2,+/-0.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",7,Not in labor force,"189,016","+/-6,772",31.4,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",7.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",8,Civilian labor force,"411,638","+/-7,690","411,638",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",9,Unemployment Rate,(X),(X),4.4,+/-0.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",9.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",10,Females 16 years and over,"291,752","+/-3,865","291,752",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",11,In labor force,"188,012","+/-4,679",64.4,+/-1.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",12,Civilian labor force,"187,917","+/-4,692",64.4,+/-1.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",13,Employed,"179,295","+/-4,453",61.5,+/-1.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",13.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",14,Own children of the householder under 6 years,"36,327","+/-2,773","36,327",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",15,All parents in family in labor force,"24,805","+/-2,705",68.3,+/-4.5
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",15.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",16,Own children of the householder 6 to 17 years,"92,265","+/-3,873","92,265",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",17,All parents in family in labor force,"73,279","+/-3,981",79.4,+/-3.2
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",17.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",18,Workers 16 years and over,"387,941","+/-7,626","387,941",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",19,"Car, truck, or van -- drove alone","218,845","+/-7,337",56.4,+/-1.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",20,"Car, truck, or van -- carpooled","22,773","+/-2,662",5.9,+/-0.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",21,Public transportation (excluding taxicab),"5,696","+/-1,489",1.5,+/-0.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",22,Walked,"12,639","+/-1,969",3.3,+/-0.5
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",23,Other means,"13,523","+/-2,496",3.5,+/-0.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",24,Worked from home,"114,465","+/-5,140",29.5,+/-1.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",24.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",25,Mean travel time to work (minutes),22.0,+/-0.7,(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",25.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",25.5,OCCUPATION,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",26,Civilian employed population 16 years and over,"393,599","+/-7,604","393,599",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",27,"Management, business, science, and arts occupations","201,445","+/-5,170",51.2,+/-1.2
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",28,Service occupations,"55,589","+/-4,215",14.1,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",29,Sales and office occupations,"77,162","+/-4,861",19.6,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",30,"Natural resources, construction, and maintenance occupations","27,260","+/-3,288",6.9,+/-0.8
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",31,"Production, transportation, and material moving occupations","32,143","+/-3,467",8.2,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",31.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",31.5,INDUSTRY,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",32,Civilian employed population 16 years and over,"393,599","+/-7,604","393,599",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",33,"Agriculture, forestry, fishing and hunting, and mining","5,777","+/-1,357",1.5,+/-0.3
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",34,Construction,"26,998","+/-3,674",6.9,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",35,Manufacturing,"35,538","+/-3,303",9.0,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",36,Wholesale trade,"8,458","+/-2,068",2.1,+/-0.5
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",37,Retail trade,"42,337","+/-4,010",10.8,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",38,"Transportation and warehousing, and utilities","12,709","+/-2,242",3.2,+/-0.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",39,Information,"8,681","+/-2,107",2.2,+/-0.5
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",40,"Finance and insurance, and real estate and rental and leasing","23,356","+/-2,898",5.9,+/-0.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",41,"Professional, scientific, and management, and administrative and waste management services","63,707","+/-3,692",16.2,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",42,"Educational services, and health care and social assistance","93,023","+/-5,028",23.6,+/-1.3
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",43,"Arts, entertainment, and recreation, and accommodation and food services","42,568","+/-4,048",10.8,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",44,"Other services, except public administration","17,681","+/-2,313",4.5,+/-0.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",45,Public administration,"12,766","+/-2,310",3.2,+/-0.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",45.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",46,Civilian employed population 16 years and over,"393,599","+/-7,604","393,599",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",47,Private wage and salary workers,"310,469","+/-7,987",78.9,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",48,Government workers,"57,423","+/-4,102",14.6,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",49,Self-employed in own not incorporated business workers,"25,301","+/-2,603",6.4,+/-0.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",50,Unpaid family workers,406,+/-220,0.1,+/-0.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",50.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",51,Total households,"292,169","+/-5,341","292,169",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",52,"Less than $10,000","13,995","+/-1,830",4.8,+/-0.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",53,"$10,000 to $14,999","6,087","+/-1,203",2.1,+/-0.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",54,"$15,000 to $24,999","15,533","+/-2,020",5.3,+/-0.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",55,"$25,000 to $34,999","18,012","+/-2,296",6.2,+/-0.8
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",56,"$35,000 to $49,999","28,609","+/-3,391",9.8,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",57,"$50,000 to $74,999","44,516","+/-3,357",15.2,+/-1.2
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",58,"$75,000 to $99,999","35,481","+/-3,045",12.1,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",59,"$100,000 to $149,999","50,761","+/-3,696",17.4,+/-1.2
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",60,"$150,000 to $199,999","33,840","+/-2,769",11.6,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",61,"$200,000 or more","45,335","+/-3,045",15.5,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",62,Median household income (dollars),"87,437","+/-3,734",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",63,Mean household income (dollars),"121,728","+/-3,869",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",63.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",64,With earnings,"241,677","+/-5,067",82.7,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",65,Mean earnings (dollars),"114,368","+/-3,897",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",66,With Social Security,"69,325","+/-3,513",23.7,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",67,Mean Social Security income (dollars),"22,992",+/-939,(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",68,With retirement income,"61,443","+/-3,009",21.0,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",69,Mean retirement income (dollars),"39,291","+/-3,082",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",69.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",70,With Supplemental Security Income,"8,150","+/-1,527",2.8,+/-0.5
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",71,Mean Supplemental Security Income (dollars),"11,893","+/-1,742",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",72,With cash public assistance income,"9,492","+/-1,863",3.2,+/-0.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",73,Mean cash public assistance income (dollars),"5,919","+/-1,263",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",74,With Food Stamp/SNAP benefits in the past 12 months,"17,658","+/-2,593",6.0,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",74.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",75,Families,"170,161","+/-4,687","170,161",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",76,"Less than $10,000","3,605","+/-1,021",2.1,+/-0.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",77,"$10,000 to $14,999","1,981",+/-765,1.2,+/-0.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",78,"$15,000 to $24,999","3,580",+/-859,2.1,+/-0.5
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",79,"$25,000 to $34,999","6,380","+/-1,181",3.7,+/-0.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",80,"$35,000 to $49,999","11,574","+/-1,715",6.8,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",81,"$50,000 to $74,999","20,699","+/-2,335",12.2,+/-1.3
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",82,"$75,000 to $99,999","20,486","+/-2,496",12.0,+/-1.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",83,"$100,000 to $149,999","36,777","+/-2,753",21.6,+/-1.6
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",84,"$150,000 to $199,999","27,100","+/-2,856",15.9,+/-1.5
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",85,"$200,000 or more","37,979","+/-2,573",22.3,+/-1.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",86,Median family income (dollars),"120,517","+/-4,229",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",87,Mean family income (dollars),"154,553","+/-5,809",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",87.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",88,Per capita income (dollars),"50,176","+/-1,555",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",88.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",89,Nonfamily households,"122,008","+/-4,985","122,008",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",90,Median nonfamily income (dollars),"52,070","+/-2,380",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",91,Mean nonfamily income (dollars),"72,520","+/-3,649",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",91.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",92,Median earnings for workers (dollars),"41,579",+/-953,(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",93,"Median earnings for male full-time, year-round workers (dollars)","69,819","+/-2,793",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",94,"Median earnings for female full-time, year-round workers (dollars)","58,621","+/-3,801",(X),(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",94.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",95,Civilian noninstitutionalized population,"712,642","+/-8,344","712,642",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",96,With health insurance coverage,"666,105","+/-9,587",93.5,+/-0.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",97,With private health insurance,"547,467","+/-9,946",76.8,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",98,With public coverage,"197,973","+/-8,280",27.8,+/-1.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",99,No health insurance coverage,"46,537","+/-5,017",6.5,+/-0.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",99.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",100,Civilian noninstitutionalized population under 19 years,"146,690","+/-4,409","146,690",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",101,No health insurance coverage,"6,134","+/-2,003",4.2,+/-1.4
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",101.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",102,Civilian noninstitutionalized population 19 to 64 years,"455,831","+/-6,962","455,831",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",103,In labor force:,"374,422","+/-7,567","374,422",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",104,Employed:,"359,137","+/-7,606","359,137",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",105,With health insurance coverage,"328,205","+/-7,645",91.4,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",106,With private health insurance,"304,840","+/-7,485",84.9,+/-1.2
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",107,With public coverage,"31,555","+/-3,342",8.8,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",108,No health insurance coverage,"30,932","+/-3,837",8.6,+/-1.0
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",109,Unemployed:,"15,285","+/-2,286","15,285",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",110,With health insurance coverage,"12,461","+/-1,952",81.5,+/-5.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",111,With private health insurance,"9,211","+/-1,725",60.3,+/-7.3
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",112,With public coverage,"3,873","+/-1,165",25.3,+/-6.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",113,No health insurance coverage,"2,824","+/-1,018",18.5,+/-5.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",114,Not in labor force:,"81,409","+/-4,383","81,409",(X)
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",115,With health insurance coverage,"75,116","+/-4,355",92.3,+/-1.8
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",116,With private health insurance,"59,302","+/-3,679",72.8,+/-2.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",117,With public coverage,"19,408","+/-2,535",23.8,+/-2.8
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",118,No health insurance coverage,"6,293","+/-1,509",7.7,+/-1.8
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",118.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",119,All families,(X),(X),4.5,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",120,With related children of the householder under 18 years,(X),(X),7.5,+/-1.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",121,With related children of the householder under 5 years only,(X),(X),8.1,+/-4.3
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",122,Married couple families,(X),(X),2.2,+/-0.7
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",123,With related children of the householder under 18 years,(X),(X),2.8,+/-1.3
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",124,With related children of the householder under 5 years only,(X),(X),5.0,+/-4.3
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",125,"Families with female householder, no spouse present",(X),(X),18.6,+/-5.8
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",126,With related children of the householder under 18 years,(X),(X),25.6,+/-8.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",127,With related children of the householder under 5 years only,(X),(X),33.5,+/-20.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",127.3,,,,,
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",128,All people,(X),(X),10.2,+/-0.8
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",129,Under 18 years,(X),(X),8.8,+/-2.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",130,Related children of the householder under 18 years,(X),(X),8.5,+/-2.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",131,Related children of the householder under 5 years,(X),(X),10.0,+/-3.3
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",132,Related children of the householder 5 to 17 years,(X),(X),8.0,+/-2.1
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",133,18 years and over,(X),(X),10.5,+/-0.8
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",134,18 to 64 years,(X),(X),11.6,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",135,65 years and over,(X),(X),5.8,+/-1.3
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",136,People in families,(X),(X),4.6,+/-0.9
+DP03,5001800US0802,"Congressional District 2 (118th Congress), Colorado",137,Unrelated individuals 15 years and over,(X),(X),24.4,+/-2.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",0.5,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",1,Population 16 years and over,"599,328","+/-4,028","599,328",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",2,In labor force,"354,420","+/-6,220",59.1,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",3,Civilian labor force,"353,238","+/-6,199",58.9,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",4,Employed,"335,650","+/-6,157",56.0,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",5,Unemployed,"17,588","+/-2,709",2.9,+/-0.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",6,Armed Forces,"1,182","+/-1,055",0.2,+/-0.2
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",7,Not in labor force,"244,908","+/-6,289",40.9,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",7.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",8,Civilian labor force,"353,238","+/-6,199","353,238",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",9,Unemployment Rate,(X),(X),5.0,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",9.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",10,Females 16 years and over,"301,699","+/-3,304","301,699",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",11,In labor force,"165,932","+/-5,106",55.0,+/-1.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",12,Civilian labor force,"165,374","+/-5,106",54.8,+/-1.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",13,Employed,"158,560","+/-4,922",52.6,+/-1.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",13.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",14,Own children of the householder under 6 years,"39,564","+/-2,148","39,564",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",15,All parents in family in labor force,"23,216","+/-2,407",58.7,+/-5.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",15.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",16,Own children of the householder 6 to 17 years,"106,273","+/-3,117","106,273",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",17,All parents in family in labor force,"73,918","+/-3,962",69.6,+/-3.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",17.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",18,Workers 16 years and over,"329,593","+/-6,405","329,593",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",19,"Car, truck, or van -- drove alone","234,864","+/-7,033",71.3,+/-1.6
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",20,"Car, truck, or van -- carpooled","27,637","+/-3,323",8.4,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",21,Public transportation (excluding taxicab),"4,885","+/-1,778",1.5,+/-0.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",22,Walked,"10,450","+/-2,004",3.2,+/-0.6
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",23,Other means,"7,283","+/-1,552",2.2,+/-0.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",24,Worked from home,"44,474","+/-4,081",13.5,+/-1.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",24.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",25,Mean travel time to work (minutes),22.1,+/-0.7,(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",25.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",25.5,OCCUPATION,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",26,Civilian employed population 16 years and over,"335,650","+/-6,157","335,650",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",27,"Management, business, science, and arts occupations","124,576","+/-5,907",37.1,+/-1.6
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",28,Service occupations,"59,523","+/-4,080",17.7,+/-1.2
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",29,Sales and office occupations,"68,934","+/-4,903",20.5,+/-1.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",30,"Natural resources, construction, and maintenance occupations","39,901","+/-3,398",11.9,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",31,"Production, transportation, and material moving occupations","42,716","+/-3,802",12.7,+/-1.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",31.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",31.5,INDUSTRY,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",32,Civilian employed population 16 years and over,"335,650","+/-6,157","335,650",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",33,"Agriculture, forestry, fishing and hunting, and mining","13,559","+/-2,347",4.0,+/-0.7
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",34,Construction,"29,135","+/-2,375",8.7,+/-0.7
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",35,Manufacturing,"17,123","+/-2,299",5.1,+/-0.7
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",36,Wholesale trade,"6,195","+/-1,575",1.8,+/-0.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",37,Retail trade,"40,159","+/-3,751",12.0,+/-1.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",38,"Transportation and warehousing, and utilities","22,199","+/-2,870",6.6,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",39,Information,"4,583","+/-1,275",1.4,+/-0.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",40,"Finance and insurance, and real estate and rental and leasing","16,548","+/-2,393",4.9,+/-0.7
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",41,"Professional, scientific, and management, and administrative and waste management services","31,266","+/-2,727",9.3,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",42,"Educational services, and health care and social assistance","78,744","+/-5,245",23.5,+/-1.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",43,"Arts, entertainment, and recreation, and accommodation and food services","36,359","+/-3,675",10.8,+/-1.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",44,"Other services, except public administration","17,643","+/-2,399",5.3,+/-0.7
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",45,Public administration,"22,137","+/-2,617",6.6,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",45.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",46,Civilian employed population 16 years and over,"335,650","+/-6,157","335,650",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",47,Private wage and salary workers,"242,479","+/-6,577",72.2,+/-1.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",48,Government workers,"59,613","+/-3,737",17.8,+/-1.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",49,Self-employed in own not incorporated business workers,"32,532","+/-3,160",9.7,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",50,Unpaid family workers,"1,026",+/-458,0.3,+/-0.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",50.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",51,Total households,"300,470","+/-3,547","300,470",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",52,"Less than $10,000","21,120","+/-2,342",7.0,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",53,"$10,000 to $14,999","11,756","+/-1,639",3.9,+/-0.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",54,"$15,000 to $24,999","26,994","+/-2,701",9.0,+/-0.9
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",55,"$25,000 to $34,999","28,824","+/-2,631",9.6,+/-0.9
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",56,"$35,000 to $49,999","34,933","+/-3,967",11.6,+/-1.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",57,"$50,000 to $74,999","54,927","+/-3,516",18.3,+/-1.2
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",58,"$75,000 to $99,999","39,367","+/-2,878",13.1,+/-0.9
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",59,"$100,000 to $149,999","43,924","+/-3,045",14.6,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",60,"$150,000 to $199,999","17,065","+/-2,399",5.7,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",61,"$200,000 or more","21,560","+/-2,508",7.2,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",62,Median household income (dollars),"59,991","+/-2,113",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",63,Mean household income (dollars),"88,274","+/-4,117",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",63.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",64,With earnings,"219,079","+/-4,322",72.9,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",65,Mean earnings (dollars),"83,035","+/-3,629",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",66,With Social Security,"104,410","+/-2,955",34.7,+/-0.9
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",67,Mean Social Security income (dollars),"19,708",+/-589,(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",68,With retirement income,"76,209","+/-3,354",25.4,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",69,Mean retirement income (dollars),"33,105","+/-2,520",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",69.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",70,With Supplemental Security Income,"15,858","+/-1,924",5.3,+/-0.6
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",71,Mean Supplemental Security Income (dollars),"10,238",+/-748,(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",72,With cash public assistance income,"10,046","+/-1,716",3.3,+/-0.6
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",73,Mean cash public assistance income (dollars),"4,855","+/-1,173",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",74,With Food Stamp/SNAP benefits in the past 12 months,"41,684","+/-3,820",13.9,+/-1.2
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",74.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",75,Families,"190,467","+/-4,911","190,467",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",76,"Less than $10,000","7,310","+/-1,629",3.8,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",77,"$10,000 to $14,999","3,911","+/-1,296",2.1,+/-0.7
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",78,"$15,000 to $24,999","11,035","+/-1,963",5.8,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",79,"$25,000 to $34,999","13,981","+/-2,186",7.3,+/-1.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",80,"$35,000 to $49,999","18,826","+/-2,669",9.9,+/-1.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",81,"$50,000 to $74,999","36,474","+/-2,766",19.1,+/-1.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",82,"$75,000 to $99,999","30,935","+/-2,721",16.2,+/-1.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",83,"$100,000 to $149,999","36,003","+/-2,723",18.9,+/-1.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",84,"$150,000 to $199,999","13,707","+/-2,148",7.2,+/-1.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",85,"$200,000 or more","18,285","+/-2,289",9.6,+/-1.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",86,Median family income (dollars),"77,310","+/-2,469",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",87,Mean family income (dollars),"106,614","+/-5,364",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",87.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",88,Per capita income (dollars),"36,817","+/-1,590",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",88.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",89,Nonfamily households,"110,003","+/-4,392","110,003",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",90,Median nonfamily income (dollars),"34,659","+/-2,089",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",91,Mean nonfamily income (dollars),"52,574","+/-5,602",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",91.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",92,Median earnings for workers (dollars),"36,320",+/-950,(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",93,"Median earnings for male full-time, year-round workers (dollars)","52,290","+/-1,397",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",94,"Median earnings for female full-time, year-round workers (dollars)","46,995","+/-2,990",(X),(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",94.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",95,Civilian noninstitutionalized population,"724,672","+/-4,149","724,672",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",96,With health insurance coverage,"658,993","+/-6,275",90.9,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",97,With private health insurance,"430,251","+/-10,419",59.4,+/-1.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",98,With public coverage,"334,084","+/-10,452",46.1,+/-1.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",99,No health insurance coverage,"65,679","+/-5,804",9.1,+/-0.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",99.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",100,Civilian noninstitutionalized population under 19 years,"161,004","+/-2,539","161,004",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",101,No health insurance coverage,"10,334","+/-2,136",6.4,+/-1.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",101.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",102,Civilian noninstitutionalized population 19 to 64 years,"415,501","+/-4,707","415,501",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",103,In labor force:,"314,274","+/-6,033","314,274",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",104,Employed:,"299,472","+/-5,855","299,472",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",105,With health insurance coverage,"260,112","+/-6,711",86.9,+/-1.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",106,With private health insurance,"219,472","+/-7,206",73.3,+/-1.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",107,With public coverage,"52,737","+/-4,446",17.6,+/-1.5
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",108,No health insurance coverage,"39,360","+/-4,005",13.1,+/-1.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",109,Unemployed:,"14,802","+/-2,616","14,802",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",110,With health insurance coverage,"12,346","+/-2,332",83.4,+/-6.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",111,With private health insurance,"4,425","+/-1,118",29.9,+/-6.7
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",112,With public coverage,"8,187","+/-2,003",55.3,+/-8.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",113,No health insurance coverage,"2,456",+/-997,16.6,+/-6.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",114,Not in labor force:,"101,227","+/-4,998","101,227",(X)
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",115,With health insurance coverage,"88,253","+/-4,922",87.2,+/-2.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",116,With private health insurance,"41,382","+/-3,035",40.9,+/-2.6
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",117,With public coverage,"52,927","+/-4,007",52.3,+/-2.6
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",118,No health insurance coverage,"12,974","+/-2,146",12.8,+/-2.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",118.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",119,All families,(X),(X),9.2,+/-1.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",120,With related children of the householder under 18 years,(X),(X),14.3,+/-2.7
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",121,With related children of the householder under 5 years only,(X),(X),14.1,+/-6.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",122,Married couple families,(X),(X),4.9,+/-1.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",123,With related children of the householder under 18 years,(X),(X),6.2,+/-2.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",124,With related children of the householder under 5 years only,(X),(X),2.8,+/-3.2
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",125,"Families with female householder, no spouse present",(X),(X),27.0,+/-5.3
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",126,With related children of the householder under 18 years,(X),(X),33.8,+/-6.9
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",127,With related children of the householder under 5 years only,(X),(X),50.5,+/-18.7
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",127.3,,,,,
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",128,All people,(X),(X),13.0,+/-1.1
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",129,Under 18 years,(X),(X),16.3,+/-3.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",130,Related children of the householder under 18 years,(X),(X),15.7,+/-3.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",131,Related children of the householder under 5 years,(X),(X),19.1,+/-5.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",132,Related children of the householder 5 to 17 years,(X),(X),14.8,+/-2.8
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",133,18 years and over,(X),(X),12.1,+/-1.0
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",134,18 to 64 years,(X),(X),13.2,+/-1.2
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",135,65 years and over,(X),(X),8.9,+/-1.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",136,People in families,(X),(X),9.4,+/-1.4
+DP03,5001800US0803,"Congressional District 3 (118th Congress), Colorado",137,Unrelated individuals 15 years and over,(X),(X),25.8,+/-1.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",0.5,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",1,Population 16 years and over,"594,879","+/-7,801","594,879",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",2,In labor force,"407,798","+/-7,940",68.6,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",3,Civilian labor force,"406,794","+/-7,910",68.4,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",4,Employed,"389,396","+/-7,571",65.5,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",5,Unemployed,"17,398","+/-2,237",2.9,+/-0.4
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",6,Armed Forces,"1,004",+/-657,0.2,+/-0.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",7,Not in labor force,"187,081","+/-6,327",31.4,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",7.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",8,Civilian labor force,"406,794","+/-7,910","406,794",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",9,Unemployment Rate,(X),(X),4.3,+/-0.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",9.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",10,Females 16 years and over,"294,956","+/-4,864","294,956",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",11,In labor force,"186,396","+/-5,766",63.2,+/-1.6
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",12,Civilian labor force,"186,374","+/-5,766",63.2,+/-1.6
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",13,Employed,"178,209","+/-5,529",60.4,+/-1.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",13.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",14,Own children of the householder under 6 years,"47,233","+/-2,770","47,233",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",15,All parents in family in labor force,"30,853","+/-2,775",65.3,+/-4.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",15.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",16,Own children of the householder 6 to 17 years,"122,908","+/-4,002","122,908",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",17,All parents in family in labor force,"89,587","+/-6,166",72.9,+/-3.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",17.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",18,Workers 16 years and over,"384,733","+/-7,803","384,733",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",19,"Car, truck, or van -- drove alone","246,666","+/-8,160",64.1,+/-1.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",20,"Car, truck, or van -- carpooled","27,178","+/-3,859",7.1,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",21,Public transportation (excluding taxicab),"1,253",+/-637,0.3,+/-0.2
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",22,Walked,"5,024","+/-1,543",1.3,+/-0.4
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",23,Other means,"3,511",+/-891,0.9,+/-0.2
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",24,Worked from home,"101,101","+/-4,995",26.3,+/-1.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",24.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",25,Mean travel time to work (minutes),26.6,+/-0.9,(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",25.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",25.5,OCCUPATION,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",26,Civilian employed population 16 years and over,"389,396","+/-7,571","389,396",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",27,"Management, business, science, and arts occupations","191,965","+/-5,973",49.3,+/-1.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",28,Service occupations,"51,339","+/-4,565",13.2,+/-1.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",29,Sales and office occupations,"80,139","+/-5,360",20.6,+/-1.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",30,"Natural resources, construction, and maintenance occupations","32,347","+/-4,050",8.3,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",31,"Production, transportation, and material moving occupations","33,606","+/-3,254",8.6,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",31.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",31.5,INDUSTRY,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",32,Civilian employed population 16 years and over,"389,396","+/-7,571","389,396",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",33,"Agriculture, forestry, fishing and hunting, and mining","12,037","+/-1,864",3.1,+/-0.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",34,Construction,"32,007","+/-3,361",8.2,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",35,Manufacturing,"29,271","+/-3,150",7.5,+/-0.8
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",36,Wholesale trade,"11,251","+/-1,839",2.9,+/-0.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",37,Retail trade,"44,267","+/-4,333",11.4,+/-1.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",38,"Transportation and warehousing, and utilities","15,984","+/-2,081",4.1,+/-0.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",39,Information,"11,132","+/-1,666",2.9,+/-0.4
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",40,"Finance and insurance, and real estate and rental and leasing","37,829","+/-3,569",9.7,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",41,"Professional, scientific, and management, and administrative and waste management services","53,943","+/-4,080",13.9,+/-1.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",42,"Educational services, and health care and social assistance","77,799","+/-5,524",20.0,+/-1.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",43,"Arts, entertainment, and recreation, and accommodation and food services","26,492","+/-3,221",6.8,+/-0.8
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",44,"Other services, except public administration","18,991","+/-2,817",4.9,+/-0.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",45,Public administration,"18,393","+/-2,231",4.7,+/-0.6
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",45.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",46,Civilian employed population 16 years and over,"389,396","+/-7,571","389,396",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",47,Private wage and salary workers,"311,090","+/-7,706",79.9,+/-1.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",48,Government workers,"49,848","+/-3,848",12.8,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",49,Self-employed in own not incorporated business workers,"27,815","+/-2,911",7.1,+/-0.8
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",50,Unpaid family workers,643,+/-510,0.2,+/-0.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",50.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",51,Total households,"281,545","+/-3,999","281,545",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",52,"Less than $10,000","10,617","+/-1,817",3.8,+/-0.6
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",53,"$10,000 to $14,999","5,295",+/-978,1.9,+/-0.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",54,"$15,000 to $24,999","12,509","+/-1,596",4.4,+/-0.6
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",55,"$25,000 to $34,999","13,473","+/-1,971",4.8,+/-0.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",56,"$35,000 to $49,999","22,031","+/-2,777",7.8,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",57,"$50,000 to $74,999","38,889","+/-3,058",13.8,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",58,"$75,000 to $99,999","35,665","+/-3,007",12.7,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",59,"$100,000 to $149,999","57,268","+/-3,802",20.3,+/-1.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",60,"$150,000 to $199,999","37,100","+/-3,221",13.2,+/-1.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",61,"$200,000 or more","48,698","+/-3,467",17.3,+/-1.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",62,Median household income (dollars),"101,778","+/-3,304",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",63,Mean household income (dollars),"129,935","+/-3,903",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",63.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",64,With earnings,"228,952","+/-4,262",81.3,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",65,Mean earnings (dollars),"132,106","+/-4,506",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",66,With Social Security,"74,404","+/-3,449",26.4,+/-1.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",67,Mean Social Security income (dollars),"23,021",+/-814,(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",68,With retirement income,"63,566","+/-3,372",22.6,+/-1.2
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",69,Mean retirement income (dollars),"34,314","+/-2,632",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",69.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",70,With Supplemental Security Income,"6,289","+/-1,206",2.2,+/-0.4
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",71,Mean Supplemental Security Income (dollars),"10,705","+/-1,264",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",72,With cash public assistance income,"5,932","+/-1,327",2.1,+/-0.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",73,Mean cash public assistance income (dollars),"5,677","+/-2,081",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",74,With Food Stamp/SNAP benefits in the past 12 months,"15,473","+/-2,086",5.5,+/-0.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",74.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",75,Families,"202,530","+/-4,100","202,530",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",76,"Less than $10,000","4,288","+/-1,062",2.1,+/-0.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",77,"$10,000 to $14,999","1,902",+/-768,0.9,+/-0.4
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",78,"$15,000 to $24,999","4,583","+/-1,031",2.3,+/-0.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",79,"$25,000 to $34,999","6,188","+/-1,378",3.1,+/-0.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",80,"$35,000 to $49,999","12,229","+/-1,940",6.0,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",81,"$50,000 to $74,999","24,609","+/-2,220",12.2,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",82,"$75,000 to $99,999","26,728","+/-3,124",13.2,+/-1.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",83,"$100,000 to $149,999","44,118","+/-3,064",21.8,+/-1.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",84,"$150,000 to $199,999","33,023","+/-3,305",16.3,+/-1.6
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",85,"$200,000 or more","44,862","+/-3,286",22.2,+/-1.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",86,Median family income (dollars),"123,047","+/-5,827",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",87,Mean family income (dollars),"150,932","+/-4,941",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",87.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",88,Per capita income (dollars),"49,524","+/-1,341",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",88.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",89,Nonfamily households,"79,015","+/-4,291","79,015",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",90,Median nonfamily income (dollars),"53,586","+/-3,681",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",91,Mean nonfamily income (dollars),"71,783","+/-5,519",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",91.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",92,Median earnings for workers (dollars),"51,831",+/-819,(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",93,"Median earnings for male full-time, year-round workers (dollars)","81,109","+/-2,604",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",94,"Median earnings for female full-time, year-round workers (dollars)","56,718","+/-1,887",(X),(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",94.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",95,Civilian noninstitutionalized population,"738,036","+/-9,976","738,036",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",96,With health insurance coverage,"692,554","+/-9,970",93.8,+/-0.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",97,With private health insurance,"571,882","+/-10,875",77.5,+/-1.2
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",98,With public coverage,"198,888","+/-8,989",26.9,+/-1.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",99,No health insurance coverage,"45,482","+/-4,991",6.2,+/-0.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",99.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",100,Civilian noninstitutionalized population under 19 years,"186,036","+/-5,509","186,036",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",101,No health insurance coverage,"5,702","+/-1,905",3.1,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",101.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",102,Civilian noninstitutionalized population 19 to 64 years,"439,627","+/-6,936","439,627",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",103,In labor force:,"366,074","+/-7,792","366,074",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",104,Employed:,"351,601","+/-7,353","351,601",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",105,With health insurance coverage,"324,482","+/-7,141",92.3,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",106,With private health insurance,"306,181","+/-7,675",87.1,+/-1.2
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",107,With public coverage,"27,856","+/-3,531",7.9,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",108,No health insurance coverage,"27,119","+/-3,460",7.7,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",109,Unemployed:,"14,473","+/-2,190","14,473",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",110,With health insurance coverage,"11,645","+/-1,987",80.5,+/-7.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",111,With private health insurance,"7,846","+/-1,715",54.2,+/-8.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",112,With public coverage,"4,061","+/-1,307",28.1,+/-8.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",113,No health insurance coverage,"2,828","+/-1,226",19.5,+/-7.7
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",114,Not in labor force:,"73,553","+/-4,719","73,553",(X)
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",115,With health insurance coverage,"64,112","+/-4,307",87.2,+/-2.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",116,With private health insurance,"48,122","+/-3,575",65.4,+/-3.4
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",117,With public coverage,"20,818","+/-2,715",28.3,+/-3.1
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",118,No health insurance coverage,"9,441","+/-2,025",12.8,+/-2.5
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",118.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",119,All families,(X),(X),4.6,+/-0.8
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",120,With related children of the householder under 18 years,(X),(X),7.2,+/-1.6
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",121,With related children of the householder under 5 years only,(X),(X),10.8,+/-6.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",122,Married couple families,(X),(X),3.1,+/-0.6
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",123,With related children of the householder under 18 years,(X),(X),4.2,+/-1.3
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",124,With related children of the householder under 5 years only,(X),(X),2.3,+/-2.2
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",125,"Families with female householder, no spouse present",(X),(X),16.8,+/-4.6
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",126,With related children of the householder under 18 years,(X),(X),24.6,+/-7.2
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",127,With related children of the householder under 5 years only,(X),(X),42.1,+/-31.8
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",127.3,,,,,
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",128,All people,(X),(X),7.1,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",129,Under 18 years,(X),(X),8.8,+/-1.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",130,Related children of the householder under 18 years,(X),(X),8.4,+/-1.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",131,Related children of the householder under 5 years,(X),(X),12.5,+/-3.4
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",132,Related children of the householder 5 to 17 years,(X),(X),7.2,+/-1.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",133,18 years and over,(X),(X),6.6,+/-0.8
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",134,18 to 64 years,(X),(X),6.8,+/-0.9
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",135,65 years and over,(X),(X),6.0,+/-1.2
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",136,People in families,(X),(X),5.3,+/-1.0
+DP03,5001800US0804,"Congressional District 4 (118th Congress), Colorado",137,Unrelated individuals 15 years and over,(X),(X),17.7,+/-2.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",0.5,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",1,Population 16 years and over,"579,938","+/-2,000","579,938",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",2,In labor force,"392,168","+/-6,259",67.6,+/-1.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",3,Civilian labor force,"359,261","+/-6,785",61.9,+/-1.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",4,Employed,"336,891","+/-6,872",58.1,+/-1.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",5,Unemployed,"22,370","+/-3,027",3.9,+/-0.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",6,Armed Forces,"32,907","+/-2,703",5.7,+/-0.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",7,Not in labor force,"187,770","+/-6,372",32.4,+/-1.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",7.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",8,Civilian labor force,"359,261","+/-6,785","359,261",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",9,Unemployment Rate,(X),(X),6.2,+/-0.8
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",9.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",10,Females 16 years and over,"286,372","+/-1,402","286,372",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",11,In labor force,"171,515","+/-4,267",59.9,+/-1.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",12,Civilian labor force,"167,060","+/-4,187",58.3,+/-1.4
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",13,Employed,"155,563","+/-4,055",54.3,+/-1.4
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",13.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",14,Own children of the householder under 6 years,"52,017","+/-1,737","52,017",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",15,All parents in family in labor force,"29,698","+/-2,921",57.1,+/-5.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",15.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",16,Own children of the householder 6 to 17 years,"113,510","+/-2,560","113,510",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",17,All parents in family in labor force,"79,817","+/-4,664",70.3,+/-3.6
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",17.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",18,Workers 16 years and over,"363,818","+/-6,372","363,818",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",19,"Car, truck, or van -- drove alone","251,373","+/-7,287",69.1,+/-1.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",20,"Car, truck, or van -- carpooled","28,490","+/-3,567",7.8,+/-1.0
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",21,Public transportation (excluding taxicab),852,+/-489,0.2,+/-0.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",22,Walked,"12,614","+/-1,708",3.5,+/-0.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",23,Other means,"4,493","+/-1,006",1.2,+/-0.3
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",24,Worked from home,"65,996","+/-4,441",18.1,+/-1.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",24.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",25,Mean travel time to work (minutes),22.0,+/-0.7,(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",25.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",25.5,OCCUPATION,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",26,Civilian employed population 16 years and over,"336,891","+/-6,872","336,891",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",27,"Management, business, science, and arts occupations","156,363","+/-6,629",46.4,+/-1.8
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",28,Service occupations,"54,997","+/-4,637",16.3,+/-1.3
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",29,Sales and office occupations,"62,999","+/-4,096",18.7,+/-1.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",30,"Natural resources, construction, and maintenance occupations","29,670","+/-3,190",8.8,+/-0.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",31,"Production, transportation, and material moving occupations","32,862","+/-3,432",9.8,+/-1.0
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",31.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",31.5,INDUSTRY,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",32,Civilian employed population 16 years and over,"336,891","+/-6,872","336,891",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",33,"Agriculture, forestry, fishing and hunting, and mining","1,653",+/-739,0.5,+/-0.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",34,Construction,"25,831","+/-2,868",7.7,+/-0.8
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",35,Manufacturing,"20,123","+/-2,418",6.0,+/-0.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",36,Wholesale trade,"5,940","+/-1,702",1.8,+/-0.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",37,Retail trade,"38,039","+/-3,200",11.3,+/-0.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",38,"Transportation and warehousing, and utilities","14,397","+/-2,244",4.3,+/-0.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",39,Information,"7,084","+/-1,426",2.1,+/-0.4
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",40,"Finance and insurance, and real estate and rental and leasing","25,709","+/-3,024",7.6,+/-0.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",41,"Professional, scientific, and management, and administrative and waste management services","50,177","+/-4,353",14.9,+/-1.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",42,"Educational services, and health care and social assistance","79,559","+/-4,827",23.6,+/-1.4
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",43,"Arts, entertainment, and recreation, and accommodation and food services","31,330","+/-3,788",9.3,+/-1.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",44,"Other services, except public administration","19,872","+/-2,337",5.9,+/-0.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",45,Public administration,"17,177","+/-2,473",5.1,+/-0.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",45.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",46,Civilian employed population 16 years and over,"336,891","+/-6,872","336,891",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",47,Private wage and salary workers,"260,271","+/-6,848",77.3,+/-1.4
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",48,Government workers,"56,663","+/-3,882",16.8,+/-1.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",49,Self-employed in own not incorporated business workers,"19,136","+/-2,714",5.7,+/-0.8
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",50,Unpaid family workers,821,+/-510,0.2,+/-0.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",50.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",51,Total households,"279,849","+/-3,058","279,849",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",52,"Less than $10,000","10,711","+/-1,719",3.8,+/-0.6
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",53,"$10,000 to $14,999","6,317","+/-1,384",2.3,+/-0.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",54,"$15,000 to $24,999","12,438","+/-2,325",4.4,+/-0.8
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",55,"$25,000 to $34,999","17,688","+/-2,536",6.3,+/-0.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",56,"$35,000 to $49,999","32,676","+/-2,771",11.7,+/-1.0
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",57,"$50,000 to $74,999","53,080","+/-3,943",19.0,+/-1.4
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",58,"$75,000 to $99,999","39,771","+/-3,507",14.2,+/-1.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",59,"$100,000 to $149,999","54,377","+/-3,819",19.4,+/-1.3
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",60,"$150,000 to $199,999","27,866","+/-3,108",10.0,+/-1.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",61,"$200,000 or more","24,925","+/-2,533",8.9,+/-0.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",62,Median household income (dollars),"79,567","+/-3,011",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",63,Mean household income (dollars),"100,659","+/-2,992",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",63.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",64,With earnings,"232,470","+/-3,648",83.1,+/-1.0
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",65,Mean earnings (dollars),"93,870","+/-2,803",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",66,With Social Security,"69,379","+/-3,307",24.8,+/-1.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",67,Mean Social Security income (dollars),"21,596",+/-875,(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",68,With retirement income,"72,398","+/-3,338",25.9,+/-1.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",69,Mean retirement income (dollars),"33,934","+/-1,845",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",69.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",70,With Supplemental Security Income,"13,181","+/-1,955",4.7,+/-0.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",71,Mean Supplemental Security Income (dollars),"10,178",+/-789,(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",72,With cash public assistance income,"9,637","+/-1,546",3.4,+/-0.6
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",73,Mean cash public assistance income (dollars),"5,079","+/-1,099",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",74,With Food Stamp/SNAP benefits in the past 12 months,"26,424","+/-3,138",9.4,+/-1.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",74.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",75,Families,"189,771","+/-5,045","189,771",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",76,"Less than $10,000","5,100","+/-1,392",2.7,+/-0.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",77,"$10,000 to $14,999","2,199",+/-914,1.2,+/-0.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",78,"$15,000 to $24,999","4,982","+/-1,440",2.6,+/-0.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",79,"$25,000 to $34,999","8,105","+/-1,814",4.3,+/-0.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",80,"$35,000 to $49,999","18,218","+/-1,822",9.6,+/-0.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",81,"$50,000 to $74,999","34,041","+/-3,360",17.9,+/-1.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",82,"$75,000 to $99,999","29,289","+/-2,689",15.4,+/-1.4
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",83,"$100,000 to $149,999","43,303","+/-3,605",22.8,+/-1.8
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",84,"$150,000 to $199,999","23,470","+/-2,726",12.4,+/-1.4
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",85,"$200,000 or more","21,064","+/-2,368",11.1,+/-1.3
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",86,Median family income (dollars),"93,654","+/-2,009",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",87,Mean family income (dollars),"112,614","+/-3,253",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",87.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",88,Per capita income (dollars),"38,978","+/-1,130",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",88.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",89,Nonfamily households,"90,078","+/-4,530","90,078",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",90,Median nonfamily income (dollars),"50,518","+/-2,011",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",91,Mean nonfamily income (dollars),"69,289","+/-6,573",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",91.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",92,Median earnings for workers (dollars),"41,059",+/-760,(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",93,"Median earnings for male full-time, year-round workers (dollars)","57,675","+/-2,478",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",94,"Median earnings for female full-time, year-round workers (dollars)","48,278","+/-2,908",(X),(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",94.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",95,Civilian noninstitutionalized population,"693,236","+/-4,416","693,236",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",96,With health insurance coverage,"649,042","+/-7,199",93.6,+/-0.8
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",97,With private health insurance,"507,201","+/-10,648",73.2,+/-1.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",98,With public coverage,"242,334","+/-10,432",35.0,+/-1.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",99,No health insurance coverage,"44,194","+/-5,871",6.4,+/-0.8
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",99.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",100,Civilian noninstitutionalized population under 19 years,"180,847","+/-1,444","180,847",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",101,No health insurance coverage,"7,558","+/-2,419",4.2,+/-1.3
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",101.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",102,Civilian noninstitutionalized population 19 to 64 years,"415,691","+/-4,676","415,691",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",103,In labor force:,"330,591","+/-6,368","330,591",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",104,Employed:,"310,722","+/-6,341","310,722",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",105,With health insurance coverage,"285,787","+/-6,661",92.0,+/-1.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",106,With private health insurance,"258,306","+/-7,619",83.1,+/-1.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",107,With public coverage,"46,934","+/-5,020",15.1,+/-1.6
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",108,No health insurance coverage,"24,935","+/-3,684",8.0,+/-1.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",109,Unemployed:,"19,869","+/-2,975","19,869",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",110,With health insurance coverage,"16,376","+/-2,332",82.4,+/-5.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",111,With private health insurance,"9,128","+/-1,570",45.9,+/-6.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",112,With public coverage,"8,781","+/-1,963",44.2,+/-8.0
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",113,No health insurance coverage,"3,493","+/-1,400",17.6,+/-5.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",114,Not in labor force:,"85,100","+/-5,145","85,100",(X)
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",115,With health insurance coverage,"77,465","+/-4,859",91.0,+/-2.0
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",116,With private health insurance,"53,645","+/-3,689",63.0,+/-3.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",117,With public coverage,"33,636","+/-3,590",39.5,+/-2.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",118,No health insurance coverage,"7,635","+/-1,797",9.0,+/-2.0
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",118.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",119,All families,(X),(X),6.3,+/-1.1
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",120,With related children of the householder under 18 years,(X),(X),10.3,+/-2.0
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",121,With related children of the householder under 5 years only,(X),(X),11.4,+/-5.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",122,Married couple families,(X),(X),2.5,+/-0.8
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",123,With related children of the householder under 18 years,(X),(X),3.9,+/-1.6
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",124,With related children of the householder under 5 years only,(X),(X),4.9,+/-3.5
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",125,"Families with female householder, no spouse present",(X),(X),24.6,+/-5.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",126,With related children of the householder under 18 years,(X),(X),33.7,+/-7.6
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",127,With related children of the householder under 5 years only,(X),(X),51.1,+/-20.0
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",127.3,,,,,
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",128,All people,(X),(X),9.6,+/-1.2
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",129,Under 18 years,(X),(X),11.5,+/-2.6
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",130,Related children of the householder under 18 years,(X),(X),11.0,+/-2.6
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",131,Related children of the householder under 5 years,(X),(X),13.6,+/-4.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",132,Related children of the householder 5 to 17 years,(X),(X),10.1,+/-2.7
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",133,18 years and over,(X),(X),9.0,+/-0.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",134,18 to 64 years,(X),(X),9.5,+/-0.9
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",135,65 years and over,(X),(X),6.8,+/-1.3
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",136,People in families,(X),(X),6.9,+/-1.3
+DP03,5001800US0805,"Congressional District 5 (118th Congress), Colorado",137,Unrelated individuals 15 years and over,(X),(X),20.8,+/-2.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",0.5,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",1,Population 16 years and over,"578,176","+/-6,035","578,176",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",2,In labor force,"408,006","+/-6,882",70.6,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",3,Civilian labor force,"405,496","+/-6,988",70.1,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",4,Employed,"383,065","+/-6,941",66.3,+/-1.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",5,Unemployed,"22,431","+/-2,905",3.9,+/-0.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",6,Armed Forces,"2,510",+/-947,0.4,+/-0.2
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",7,Not in labor force,"170,170","+/-5,319",29.4,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",7.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",8,Civilian labor force,"405,496","+/-6,988","405,496",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",9,Unemployment Rate,(X),(X),5.5,+/-0.7
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",9.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",10,Females 16 years and over,"291,813","+/-3,416","291,813",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",11,In labor force,"192,029","+/-4,133",65.8,+/-1.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",12,Civilian labor force,"191,795","+/-4,150",65.7,+/-1.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",13,Employed,"180,058","+/-4,488",61.7,+/-1.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",13.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",14,Own children of the householder under 6 years,"47,384","+/-2,359","47,384",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",15,All parents in family in labor force,"29,914","+/-2,568",63.1,+/-4.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",15.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",16,Own children of the householder 6 to 17 years,"111,328","+/-3,782","111,328",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",17,All parents in family in labor force,"87,401","+/-4,215",78.5,+/-2.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",17.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",18,Workers 16 years and over,"378,845","+/-6,720","378,845",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",19,"Car, truck, or van -- drove alone","236,194","+/-7,222",62.3,+/-1.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",20,"Car, truck, or van -- carpooled","30,129","+/-2,896",8.0,+/-0.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",21,Public transportation (excluding taxicab),"8,679","+/-1,794",2.3,+/-0.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",22,Walked,"4,921","+/-1,304",1.3,+/-0.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",23,Other means,"5,222","+/-1,217",1.4,+/-0.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",24,Worked from home,"93,700","+/-4,405",24.7,+/-1.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",24.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",25,Mean travel time to work (minutes),26.8,+/-0.8,(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",25.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",25.5,OCCUPATION,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",26,Civilian employed population 16 years and over,"383,065","+/-6,941","383,065",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",27,"Management, business, science, and arts occupations","176,779","+/-5,811",46.1,+/-1.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",28,Service occupations,"55,475","+/-4,507",14.5,+/-1.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",29,Sales and office occupations,"80,394","+/-4,759",21.0,+/-1.2
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",30,"Natural resources, construction, and maintenance occupations","30,775","+/-2,724",8.0,+/-0.7
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",31,"Production, transportation, and material moving occupations","39,642","+/-3,422",10.3,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",31.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",31.5,INDUSTRY,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",32,Civilian employed population 16 years and over,"383,065","+/-6,941","383,065",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",33,"Agriculture, forestry, fishing and hunting, and mining","3,208",+/-802,0.8,+/-0.2
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",34,Construction,"33,819","+/-3,203",8.8,+/-0.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",35,Manufacturing,"22,382","+/-2,588",5.8,+/-0.7
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",36,Wholesale trade,"6,438","+/-1,037",1.7,+/-0.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",37,Retail trade,"39,819","+/-3,243",10.4,+/-0.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",38,"Transportation and warehousing, and utilities","23,432","+/-2,803",6.1,+/-0.7
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",39,Information,"12,548","+/-1,745",3.3,+/-0.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",40,"Finance and insurance, and real estate and rental and leasing","36,982","+/-3,436",9.7,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",41,"Professional, scientific, and management, and administrative and waste management services","62,874","+/-3,801",16.4,+/-1.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",42,"Educational services, and health care and social assistance","83,004","+/-4,565",21.7,+/-1.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",43,"Arts, entertainment, and recreation, and accommodation and food services","27,505","+/-3,022",7.2,+/-0.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",44,"Other services, except public administration","16,477","+/-2,472",4.3,+/-0.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",45,Public administration,"14,577","+/-2,027",3.8,+/-0.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",45.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",46,Civilian employed population 16 years and over,"383,065","+/-6,941","383,065",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",47,Private wage and salary workers,"310,861","+/-7,086",81.2,+/-1.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",48,Government workers,"47,696","+/-3,574",12.5,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",49,Self-employed in own not incorporated business workers,"24,224","+/-2,530",6.3,+/-0.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",50,Unpaid family workers,284,+/-232,0.1,+/-0.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",50.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",51,Total households,"275,638","+/-3,707","275,638",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",52,"Less than $10,000","11,884","+/-1,757",4.3,+/-0.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",53,"$10,000 to $14,999","7,898","+/-1,930",2.9,+/-0.7
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",54,"$15,000 to $24,999","13,710","+/-2,110",5.0,+/-0.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",55,"$25,000 to $34,999","14,745","+/-2,183",5.3,+/-0.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",56,"$35,000 to $49,999","27,114","+/-2,419",9.8,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",57,"$50,000 to $74,999","47,629","+/-3,697",17.3,+/-1.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",58,"$75,000 to $99,999","35,708","+/-2,704",13.0,+/-1.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",59,"$100,000 to $149,999","51,907","+/-3,223",18.8,+/-1.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",60,"$150,000 to $199,999","31,380","+/-2,556",11.4,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",61,"$200,000 or more","33,663","+/-2,725",12.2,+/-1.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",62,Median household income (dollars),"83,883","+/-2,175",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",63,Mean household income (dollars),"115,622","+/-3,198",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",63.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",64,With earnings,"230,068","+/-4,104",83.5,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",65,Mean earnings (dollars),"113,183","+/-3,442",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",66,With Social Security,"66,936","+/-2,632",24.3,+/-1.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",67,Mean Social Security income (dollars),"21,876",+/-593,(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",68,With retirement income,"59,132","+/-2,859",21.5,+/-1.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",69,Mean retirement income (dollars),"33,573","+/-2,168",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",69.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",70,With Supplemental Security Income,"8,979","+/-1,383",3.3,+/-0.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",71,Mean Supplemental Security Income (dollars),"10,540","+/-1,100",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",72,With cash public assistance income,"9,223","+/-1,644",3.3,+/-0.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",73,Mean cash public assistance income (dollars),"5,028","+/-1,055",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",74,With Food Stamp/SNAP benefits in the past 12 months,"22,290","+/-2,475",8.1,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",74.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",75,Families,"175,303","+/-4,080","175,303",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",76,"Less than $10,000","4,791","+/-1,074",2.7,+/-0.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",77,"$10,000 to $14,999","1,438",+/-715,0.8,+/-0.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",78,"$15,000 to $24,999","4,697","+/-1,125",2.7,+/-0.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",79,"$25,000 to $34,999","6,310","+/-1,438",3.6,+/-0.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",80,"$35,000 to $49,999","12,607","+/-1,623",7.2,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",81,"$50,000 to $74,999","27,784","+/-2,823",15.8,+/-1.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",82,"$75,000 to $99,999","24,008","+/-2,193",13.7,+/-1.2
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",83,"$100,000 to $149,999","37,680","+/-2,634",21.5,+/-1.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",84,"$150,000 to $199,999","26,843","+/-2,137",15.3,+/-1.2
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",85,"$200,000 or more","29,145","+/-2,597",16.6,+/-1.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",86,Median family income (dollars),"107,250","+/-3,748",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",87,Mean family income (dollars),"139,460","+/-4,355",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",87.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",88,Per capita income (dollars),"45,201","+/-1,094",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",88.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",89,Nonfamily households,"100,335","+/-4,292","100,335",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",90,Median nonfamily income (dollars),"51,198","+/-1,753",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",91,Mean nonfamily income (dollars),"68,712","+/-4,345",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",91.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",92,Median earnings for workers (dollars),"45,626","+/-1,215",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",93,"Median earnings for male full-time, year-round workers (dollars)","64,754","+/-2,623",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",94,"Median earnings for female full-time, year-round workers (dollars)","56,601","+/-1,660",(X),(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",94.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",95,Civilian noninstitutionalized population,"719,077","+/-7,164","719,077",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",96,With health insurance coverage,"652,760","+/-9,190",90.8,+/-1.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",97,With private health insurance,"492,785","+/-11,346",68.5,+/-1.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",98,With public coverage,"235,770","+/-10,173",32.8,+/-1.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",99,No health insurance coverage,"66,317","+/-7,037",9.2,+/-1.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",99.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",100,Civilian noninstitutionalized population under 19 years,"174,792","+/-4,454","174,792",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",101,No health insurance coverage,"10,627","+/-2,480",6.1,+/-1.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",101.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",102,Civilian noninstitutionalized population 19 to 64 years,"441,503","+/-6,138","441,503",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",103,In labor force:,"369,137","+/-7,011","369,137",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",104,Employed:,"349,386","+/-6,912","349,386",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",105,With health insurance coverage,"308,921","+/-7,055",88.4,+/-1.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",106,With private health insurance,"279,388","+/-7,365",80.0,+/-1.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",107,With public coverage,"40,058","+/-3,772",11.5,+/-1.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",108,No health insurance coverage,"40,465","+/-4,650",11.6,+/-1.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",109,Unemployed:,"19,751","+/-2,728","19,751",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",110,With health insurance coverage,"15,664","+/-2,316",79.3,+/-5.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",111,With private health insurance,"9,852","+/-1,586",49.9,+/-5.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",112,With public coverage,"6,892","+/-1,719",34.9,+/-6.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",113,No health insurance coverage,"4,087","+/-1,190",20.7,+/-5.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",114,Not in labor force:,"72,366","+/-5,050","72,366",(X)
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",115,With health insurance coverage,"62,628","+/-4,744",86.5,+/-2.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",116,With private health insurance,"38,777","+/-3,386",53.6,+/-3.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",117,With public coverage,"28,726","+/-3,475",39.7,+/-3.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",118,No health insurance coverage,"9,738","+/-1,942",13.5,+/-2.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",118.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",119,All families,(X),(X),5.4,+/-0.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",120,With related children of the householder under 18 years,(X),(X),8.6,+/-1.4
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",121,With related children of the householder under 5 years only,(X),(X),6.6,+/-4.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",122,Married couple families,(X),(X),2.4,+/-0.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",123,With related children of the householder under 18 years,(X),(X),3.7,+/-1.3
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",124,With related children of the householder under 5 years only,(X),(X),4.3,+/-4.5
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",125,"Families with female householder, no spouse present",(X),(X),16.9,+/-3.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",126,With related children of the householder under 18 years,(X),(X),21.3,+/-5.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",127,With related children of the householder under 5 years only,(X),(X),22.5,+/-19.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",127.3,,,,,
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",128,All people,(X),(X),8.7,+/-0.8
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",129,Under 18 years,(X),(X),11.7,+/-2.0
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",130,Related children of the householder under 18 years,(X),(X),11.4,+/-1.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",131,Related children of the householder under 5 years,(X),(X),9.8,+/-3.6
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",132,Related children of the householder 5 to 17 years,(X),(X),11.9,+/-2.1
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",133,18 years and over,(X),(X),7.8,+/-0.7
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",134,18 to 64 years,(X),(X),8.2,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",135,65 years and over,(X),(X),6.2,+/-1.2
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",136,People in families,(X),(X),6.4,+/-0.9
+DP03,5001800US0806,"Congressional District 6 (118th Congress), Colorado",137,Unrelated individuals 15 years and over,(X),(X),17.8,+/-2.0
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",0.5,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",1,Population 16 years and over,"604,007","+/-4,977","604,007",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",2,In labor force,"397,300","+/-6,606",65.8,+/-0.8
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",3,Civilian labor force,"396,828","+/-6,624",65.7,+/-0.8
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",4,Employed,"375,552","+/-6,701",62.2,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",5,Unemployed,"21,276","+/-2,640",3.5,+/-0.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",6,Armed Forces,472,+/-445,0.1,+/-0.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",7,Not in labor force,"206,707","+/-4,759",34.2,+/-0.8
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",7.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",8,Civilian labor force,"396,828","+/-6,624","396,828",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",9,Unemployment Rate,(X),(X),5.4,+/-0.7
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",9.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",10,Females 16 years and over,"296,963","+/-3,279","296,963",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",11,In labor force,"186,150","+/-3,977",62.7,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",12,Civilian labor force,"186,150","+/-3,977",62.7,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",13,Employed,"176,999","+/-4,178",59.6,+/-1.2
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",13.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",14,Own children of the householder under 6 years,"37,421","+/-1,867","37,421",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",15,All parents in family in labor force,"25,442","+/-2,270",68.0,+/-4.7
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",15.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",16,Own children of the householder 6 to 17 years,"85,664","+/-2,880","85,664",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",17,All parents in family in labor force,"67,088","+/-3,719",78.3,+/-3.2
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",17.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",18,Workers 16 years and over,"371,162","+/-6,431","371,162",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",19,"Car, truck, or van -- drove alone","236,130","+/-7,134",63.6,+/-1.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",20,"Car, truck, or van -- carpooled","21,090","+/-2,694",5.7,+/-0.7
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",21,Public transportation (excluding taxicab),"3,255","+/-1,043",0.9,+/-0.3
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",22,Walked,"4,053",+/-990,1.1,+/-0.3
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",23,Other means,"6,236","+/-1,491",1.7,+/-0.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",24,Worked from home,"100,398","+/-4,692",27.0,+/-1.2
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",24.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",25,Mean travel time to work (minutes),25.2,+/-0.7,(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",25.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",25.5,OCCUPATION,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",26,Civilian employed population 16 years and over,"375,552","+/-6,701","375,552",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",27,"Management, business, science, and arts occupations","197,976","+/-6,043",52.7,+/-1.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",28,Service occupations,"50,511","+/-3,964",13.4,+/-1.0
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",29,Sales and office occupations,"70,131","+/-4,479",18.7,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",30,"Natural resources, construction, and maintenance occupations","26,867","+/-2,533",7.2,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",31,"Production, transportation, and material moving occupations","30,067","+/-3,651",8.0,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",31.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",31.5,INDUSTRY,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",32,Civilian employed population 16 years and over,"375,552","+/-6,701","375,552",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",33,"Agriculture, forestry, fishing and hunting, and mining","4,649","+/-1,303",1.2,+/-0.3
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",34,Construction,"27,098","+/-2,462",7.2,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",35,Manufacturing,"28,015","+/-2,732",7.5,+/-0.7
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",36,Wholesale trade,"8,916","+/-1,597",2.4,+/-0.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",37,Retail trade,"39,380","+/-3,060",10.5,+/-0.8
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",38,"Transportation and warehousing, and utilities","17,734","+/-2,460",4.7,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",39,Information,"8,980","+/-1,385",2.4,+/-0.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",40,"Finance and insurance, and real estate and rental and leasing","26,743","+/-3,009",7.1,+/-0.8
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",41,"Professional, scientific, and management, and administrative and waste management services","61,168","+/-4,164",16.3,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",42,"Educational services, and health care and social assistance","81,184","+/-4,404",21.6,+/-1.0
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",43,"Arts, entertainment, and recreation, and accommodation and food services","29,566","+/-3,107",7.9,+/-0.8
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",44,"Other services, except public administration","18,367","+/-1,959",4.9,+/-0.5
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",45,Public administration,"23,752","+/-2,396",6.3,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",45.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",46,Civilian employed population 16 years and over,"375,552","+/-6,701","375,552",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",47,Private wage and salary workers,"299,577","+/-6,611",79.8,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",48,Government workers,"55,617","+/-3,877",14.8,+/-1.0
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",49,Self-employed in own not incorporated business workers,"19,604","+/-2,199",5.2,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",50,Unpaid family workers,754,+/-673,0.2,+/-0.2
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",50.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",51,Total households,"298,550","+/-3,626","298,550",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",52,"Less than $10,000","11,178","+/-2,033",3.7,+/-0.7
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",53,"$10,000 to $14,999","7,398","+/-1,415",2.5,+/-0.5
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",54,"$15,000 to $24,999","13,608","+/-1,712",4.6,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",55,"$25,000 to $34,999","17,907","+/-1,773",6.0,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",56,"$35,000 to $49,999","31,473","+/-2,745",10.5,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",57,"$50,000 to $74,999","46,070","+/-3,317",15.4,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",58,"$75,000 to $99,999","39,644","+/-2,824",13.3,+/-1.0
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",59,"$100,000 to $149,999","58,378","+/-3,440",19.6,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",60,"$150,000 to $199,999","33,193","+/-2,842",11.1,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",61,"$200,000 or more","39,701","+/-2,695",13.3,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",62,Median household income (dollars),"87,480","+/-2,815",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",63,Mean household income (dollars),"115,837","+/-2,978",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",63.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",64,With earnings,"234,400","+/-4,715",78.5,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",65,Mean earnings (dollars),"117,141","+/-3,385",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",66,With Social Security,"84,443","+/-2,959",28.3,+/-1.0
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",67,Mean Social Security income (dollars),"22,572",+/-779,(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",68,With retirement income,"76,626","+/-3,257",25.7,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",69,Mean retirement income (dollars),"34,945","+/-2,461",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",69.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",70,With Supplemental Security Income,"7,507","+/-1,292",2.5,+/-0.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",71,Mean Supplemental Security Income (dollars),"12,945","+/-1,513",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",72,With cash public assistance income,"8,064","+/-1,242",2.7,+/-0.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",73,Mean cash public assistance income (dollars),"6,298","+/-1,345",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",74,With Food Stamp/SNAP benefits in the past 12 months,"17,684","+/-2,212",5.9,+/-0.7
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",74.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",75,Families,"186,078","+/-4,843","186,078",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",76,"Less than $10,000","2,820",+/-987,1.5,+/-0.5
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",77,"$10,000 to $14,999","2,168",+/-889,1.2,+/-0.5
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",78,"$15,000 to $24,999","4,762","+/-1,211",2.6,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",79,"$25,000 to $34,999","7,274","+/-1,582",3.9,+/-0.8
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",80,"$35,000 to $49,999","14,434","+/-1,843",7.8,+/-1.0
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",81,"$50,000 to $74,999","25,727","+/-2,519",13.8,+/-1.3
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",82,"$75,000 to $99,999","26,118","+/-2,462",14.0,+/-1.3
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",83,"$100,000 to $149,999","43,038","+/-2,763",23.1,+/-1.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",84,"$150,000 to $199,999","26,309","+/-2,427",14.1,+/-1.2
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",85,"$200,000 or more","33,428","+/-2,439",18.0,+/-1.2
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",86,Median family income (dollars),"110,611","+/-2,846",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",87,Mean family income (dollars),"138,309","+/-4,066",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",87.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",88,Per capita income (dollars),"48,716","+/-1,227",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",88.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",89,Nonfamily households,"112,472","+/-4,606","112,472",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",90,Median nonfamily income (dollars),"53,300","+/-2,499",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",91,Mean nonfamily income (dollars),"73,291","+/-3,501",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",91.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",92,Median earnings for workers (dollars),"50,126",+/-844,(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",93,"Median earnings for male full-time, year-round workers (dollars)","71,181","+/-2,556",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",94,"Median earnings for female full-time, year-round workers (dollars)","60,593","+/-2,455",(X),(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",94.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",95,Civilian noninstitutionalized population,"699,135","+/-6,397","699,135",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",96,With health insurance coverage,"659,153","+/-7,420",94.3,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",97,With private health insurance,"514,875","+/-9,587",73.6,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",98,With public coverage,"223,388","+/-7,338",32.0,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",99,No health insurance coverage,"39,982","+/-3,873",5.7,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",99.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",100,Civilian noninstitutionalized population under 19 years,"135,161","+/-2,881","135,161",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",101,No health insurance coverage,"3,484","+/-1,189",2.6,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",101.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",102,Civilian noninstitutionalized population 19 to 64 years,"436,292","+/-5,090","436,292",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",103,In labor force:,"363,443","+/-6,186","363,443",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",104,Employed:,"343,665","+/-6,226","343,665",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",105,With health insurance coverage,"319,677","+/-6,372",93.0,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",106,With private health insurance,"296,803","+/-7,357",86.4,+/-1.3
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",107,With public coverage,"31,281","+/-3,843",9.1,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",108,No health insurance coverage,"23,988","+/-3,053",7.0,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",109,Unemployed:,"19,778","+/-2,538","19,778",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",110,With health insurance coverage,"15,762","+/-2,360",79.7,+/-5.5
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",111,With private health insurance,"7,653","+/-1,784",38.7,+/-7.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",112,With public coverage,"8,621","+/-1,712",43.6,+/-6.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",113,No health insurance coverage,"4,016","+/-1,157",20.3,+/-5.5
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",114,Not in labor force:,"72,849","+/-4,063","72,849",(X)
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",115,With health insurance coverage,"64,973","+/-3,961",89.2,+/-2.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",116,With private health insurance,"46,006","+/-2,983",63.2,+/-2.8
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",117,With public coverage,"23,537","+/-2,849",32.3,+/-3.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",118,No health insurance coverage,"7,876","+/-1,550",10.8,+/-2.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",118.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",119,All families,(X),(X),4.0,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",120,With related children of the householder under 18 years,(X),(X),5.5,+/-1.5
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",121,With related children of the householder under 5 years only,(X),(X),6.1,+/-3.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",122,Married couple families,(X),(X),2.2,+/-0.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",123,With related children of the householder under 18 years,(X),(X),2.8,+/-1.1
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",124,With related children of the householder under 5 years only,(X),(X),2.8,+/-2.3
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",125,"Families with female householder, no spouse present",(X),(X),13.5,+/-4.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",126,With related children of the householder under 18 years,(X),(X),17.7,+/-6.2
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",127,With related children of the householder under 5 years only,(X),(X),25.5,+/-19.6
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",127.3,,,,,
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",128,All people,(X),(X),7.3,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",129,Under 18 years,(X),(X),8.0,+/-2.4
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",130,Related children of the householder under 18 years,(X),(X),7.5,+/-2.3
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",131,Related children of the householder under 5 years,(X),(X),10.4,+/-4.3
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",132,Related children of the householder 5 to 17 years,(X),(X),6.4,+/-2.0
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",133,18 years and over,(X),(X),7.2,+/-0.8
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",134,18 to 64 years,(X),(X),7.2,+/-0.9
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",135,65 years and over,(X),(X),7.3,+/-1.2
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",136,People in families,(X),(X),4.4,+/-1.0
+DP03,5001800US0807,"Congressional District 7 (118th Congress), Colorado",137,Unrelated individuals 15 years and over,(X),(X),16.8,+/-1.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",0.5,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",1,Population 16 years and over,"564,727","+/-6,254","564,727",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",2,In labor force,"396,393","+/-7,023",70.2,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",3,Civilian labor force,"394,814","+/-7,042",69.9,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",4,Employed,"372,740","+/-6,853",66.0,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",5,Unemployed,"22,074","+/-2,760",3.9,+/-0.5
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",6,Armed Forces,"1,579","+/-1,326",0.3,+/-0.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",7,Not in labor force,"168,334","+/-6,521",29.8,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",7.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",8,Civilian labor force,"394,814","+/-7,042","394,814",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",9,Unemployment Rate,(X),(X),5.6,+/-0.7
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",9.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",10,Females 16 years and over,"279,144","+/-3,733","279,144",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",11,In labor force,"176,234","+/-4,709",63.1,+/-1.5
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",12,Civilian labor force,"175,718","+/-4,716",62.9,+/-1.5
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",13,Employed,"167,082","+/-4,657",59.9,+/-1.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",13.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",14,Own children of the householder under 6 years,"52,702","+/-2,258","52,702",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",15,All parents in family in labor force,"36,268","+/-3,204",68.8,+/-4.9
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",15.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",16,Own children of the householder 6 to 17 years,"121,966","+/-3,910","121,966",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",17,All parents in family in labor force,"84,370","+/-5,592",69.2,+/-3.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",17.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",18,Workers 16 years and over,"368,214","+/-6,950","368,214",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",19,"Car, truck, or van -- drove alone","261,994","+/-7,395",71.2,+/-1.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",20,"Car, truck, or van -- carpooled","31,740","+/-4,181",8.6,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",21,Public transportation (excluding taxicab),"3,037","+/-1,219",0.8,+/-0.3
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",22,Walked,"6,243","+/-1,416",1.7,+/-0.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",23,Other means,"5,744","+/-1,645",1.6,+/-0.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",24,Worked from home,"59,456","+/-4,760",16.1,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",24.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",25,Mean travel time to work (minutes),30.3,+/-1.1,(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",25.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",25.5,OCCUPATION,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",26,Civilian employed population 16 years and over,"372,740","+/-6,853","372,740",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",27,"Management, business, science, and arts occupations","134,388","+/-6,162",36.1,+/-1.5
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",28,Service occupations,"56,766","+/-4,638",15.2,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",29,Sales and office occupations,"80,652","+/-5,621",21.6,+/-1.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",30,"Natural resources, construction, and maintenance occupations","47,616","+/-4,083",12.8,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",31,"Production, transportation, and material moving occupations","53,318","+/-4,306",14.3,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",31.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",31.5,INDUSTRY,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",32,Civilian employed population 16 years and over,"372,740","+/-6,853","372,740",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",33,"Agriculture, forestry, fishing and hunting, and mining","8,351","+/-2,160",2.2,+/-0.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",34,Construction,"41,495","+/-3,648",11.1,+/-1.0
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",35,Manufacturing,"31,842","+/-2,829",8.5,+/-0.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",36,Wholesale trade,"13,401","+/-2,318",3.6,+/-0.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",37,Retail trade,"43,159","+/-4,136",11.6,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",38,"Transportation and warehousing, and utilities","27,533","+/-3,038",7.4,+/-0.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",39,Information,"6,314","+/-1,370",1.7,+/-0.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",40,"Finance and insurance, and real estate and rental and leasing","20,070","+/-2,582",5.4,+/-0.7
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",41,"Professional, scientific, and management, and administrative and waste management services","46,128","+/-3,456",12.4,+/-0.9
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",42,"Educational services, and health care and social assistance","72,982","+/-4,883",19.6,+/-1.3
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",43,"Arts, entertainment, and recreation, and accommodation and food services","27,941","+/-3,454",7.5,+/-0.9
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",44,"Other services, except public administration","19,030","+/-2,368",5.1,+/-0.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",45,Public administration,"14,494","+/-2,168",3.9,+/-0.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",45.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",45.5,CLASS OF WORKER,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",46,Civilian employed population 16 years and over,"372,740","+/-6,853","372,740",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",47,Private wage and salary workers,"305,041","+/-8,101",81.8,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",48,Government workers,"45,324","+/-3,815",12.2,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",49,Self-employed in own not incorporated business workers,"21,795","+/-3,127",5.8,+/-0.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",50,Unpaid family workers,580,+/-466,0.2,+/-0.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",50.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",51,Total households,"254,996","+/-3,739","254,996",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",52,"Less than $10,000","10,961","+/-1,753",4.3,+/-0.7
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",53,"$10,000 to $14,999","7,733","+/-1,883",3.0,+/-0.7
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",54,"$15,000 to $24,999","12,686","+/-2,129",5.0,+/-0.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",55,"$25,000 to $34,999","16,524","+/-2,195",6.5,+/-0.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",56,"$35,000 to $49,999","28,020","+/-2,982",11.0,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",57,"$50,000 to $74,999","38,518","+/-3,190",15.1,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",58,"$75,000 to $99,999","40,350","+/-3,360",15.8,+/-1.3
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",59,"$100,000 to $149,999","55,513","+/-3,957",21.8,+/-1.5
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",60,"$150,000 to $199,999","24,843","+/-2,787",9.7,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",61,"$200,000 or more","19,848","+/-2,453",7.8,+/-1.0
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",62,Median household income (dollars),"82,465","+/-2,261",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",63,Mean household income (dollars),"97,288","+/-2,946",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",63.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",64,With earnings,"215,900","+/-4,240",84.7,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",65,Mean earnings (dollars),"96,341","+/-3,295",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",66,With Social Security,"57,373","+/-2,748",22.5,+/-1.0
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",67,Mean Social Security income (dollars),"21,174",+/-812,(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",68,With retirement income,"49,108","+/-3,364",19.3,+/-1.3
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",69,Mean retirement income (dollars),"29,258","+/-3,564",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",69.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",70,With Supplemental Security Income,"10,091","+/-1,675",4.0,+/-0.7
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",71,Mean Supplemental Security Income (dollars),"9,642","+/-1,273",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",72,With cash public assistance income,"8,755","+/-1,850",3.4,+/-0.7
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",73,Mean cash public assistance income (dollars),"6,074","+/-1,346",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",74,With Food Stamp/SNAP benefits in the past 12 months,"25,657","+/-3,096",10.1,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",74.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",75,Families,"180,963","+/-4,497","180,963",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",76,"Less than $10,000","5,156","+/-1,387",2.8,+/-0.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",77,"$10,000 to $14,999","3,147","+/-1,149",1.7,+/-0.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",78,"$15,000 to $24,999","6,511","+/-1,552",3.6,+/-0.9
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",79,"$25,000 to $34,999","10,554","+/-2,091",5.8,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",80,"$35,000 to $49,999","18,526","+/-2,171",10.2,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",81,"$50,000 to $74,999","24,170","+/-2,696",13.4,+/-1.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",82,"$75,000 to $99,999","29,802","+/-2,938",16.5,+/-1.5
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",83,"$100,000 to $149,999","44,224","+/-3,660",24.4,+/-2.0
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",84,"$150,000 to $199,999","20,735","+/-2,533",11.5,+/-1.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",85,"$200,000 or more","18,138","+/-2,325",10.0,+/-1.3
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",86,Median family income (dollars),"93,484","+/-3,421",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",87,Mean family income (dollars),"108,585","+/-3,818",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",87.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",88,Per capita income (dollars),"35,077",+/-995,(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",88.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",89,Nonfamily households,"74,033","+/-4,233","74,033",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",90,Median nonfamily income (dollars),"51,409","+/-2,507",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",91,Mean nonfamily income (dollars),"63,043","+/-3,412",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",91.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",92,Median earnings for workers (dollars),"42,562","+/-1,532",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",93,"Median earnings for male full-time, year-round workers (dollars)","60,067","+/-2,537",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",94,"Median earnings for female full-time, year-round workers (dollars)","50,515","+/-1,564",(X),(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",94.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",95,Civilian noninstitutionalized population,"718,624","+/-7,873","718,624",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",96,With health insurance coverage,"643,387","+/-10,621",89.5,+/-1.0
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",97,With private health insurance,"461,186","+/-11,049",64.2,+/-1.3
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",98,With public coverage,"248,907","+/-8,394",34.6,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",99,No health insurance coverage,"75,237","+/-7,121",10.5,+/-1.0
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",99.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",100,Civilian noninstitutionalized population under 19 years,"192,855","+/-4,243","192,855",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",101,No health insurance coverage,"9,902","+/-3,008",5.1,+/-1.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",101.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",102,Civilian noninstitutionalized population 19 to 64 years,"442,726","+/-5,313","442,726",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",103,In labor force:,"363,924","+/-5,787","363,924",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",104,Employed:,"345,437","+/-5,918","345,437",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",105,With health insurance coverage,"301,812","+/-7,213",87.4,+/-1.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",106,With private health insurance,"272,029","+/-7,536",78.7,+/-1.5
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",107,With public coverage,"40,232","+/-4,063",11.6,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",108,No health insurance coverage,"43,625","+/-4,831",12.6,+/-1.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",109,Unemployed:,"18,487","+/-2,430","18,487",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",110,With health insurance coverage,"14,324","+/-2,323",77.5,+/-6.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",111,With private health insurance,"6,695","+/-1,662",36.2,+/-6.9
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",112,With public coverage,"8,258","+/-1,617",44.7,+/-6.7
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",113,No health insurance coverage,"4,163","+/-1,273",22.5,+/-6.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",114,Not in labor force:,"78,802","+/-4,649","78,802",(X)
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",115,With health insurance coverage,"62,703","+/-4,220",79.6,+/-2.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",116,With private health insurance,"33,779","+/-3,312",42.9,+/-3.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",117,With public coverage,"34,370","+/-3,159",43.6,+/-3.3
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",118,No health insurance coverage,"16,099","+/-2,427",20.4,+/-2.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",118.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",119,All families,(X),(X),7.4,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",120,With related children of the householder under 18 years,(X),(X),9.9,+/-1.9
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",121,With related children of the householder under 5 years only,(X),(X),7.1,+/-4.6
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",122,Married couple families,(X),(X),4.1,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",123,With related children of the householder under 18 years,(X),(X),4.9,+/-1.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",124,With related children of the householder under 5 years only,(X),(X),3.4,+/-4.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",125,"Families with female householder, no spouse present",(X),(X),21.5,+/-4.5
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",126,With related children of the householder under 18 years,(X),(X),27.5,+/-6.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",127,With related children of the householder under 5 years only,(X),(X),28.4,+/-16.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",127.3,,,,,
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",128,All people,(X),(X),10.2,+/-1.2
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",129,Under 18 years,(X),(X),13.6,+/-2.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",130,Related children of the householder under 18 years,(X),(X),13.5,+/-2.5
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",131,Related children of the householder under 5 years,(X),(X),12.7,+/-3.4
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",132,Related children of the householder 5 to 17 years,(X),(X),13.7,+/-2.9
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",133,18 years and over,(X),(X),9.1,+/-1.0
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",134,18 to 64 years,(X),(X),9.0,+/-1.1
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",135,65 years and over,(X),(X),9.7,+/-1.8
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",136,People in families,(X),(X),8.1,+/-1.3
+DP03,5001800US0808,"Congressional District 8 (118th Congress), Colorado",137,Unrelated individuals 15 years and over,(X),(X),20.8,+/-2.8

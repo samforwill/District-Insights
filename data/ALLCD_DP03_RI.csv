@@ -1,0 +1,337 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",0.5,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",1,Population 16 years and over,"455,265","+/-7,253","455,265",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",2,In labor force,"294,794","+/-7,023",64.8,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",3,Civilian labor force,"292,283","+/-7,092",64.2,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",4,Employed,"267,006","+/-7,138",58.6,+/-1.4
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",5,Unemployed,"25,277","+/-3,611",5.6,+/-0.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",6,Armed Forces,"2,511",+/-632,0.6,+/-0.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",7,Not in labor force,"160,471","+/-6,164",35.2,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",7.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",8,Civilian labor force,"292,283","+/-7,092","292,283",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",9,Unemployment Rate,(X),(X),8.6,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",9.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",10,Females 16 years and over,"237,014","+/-5,209","237,014",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",11,In labor force,"143,771","+/-4,662",60.7,+/-1.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",12,Civilian labor force,"143,159","+/-4,587",60.4,+/-1.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",13,Employed,"131,351","+/-5,004",55.4,+/-1.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",13.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",14,Own children of the householder under 6 years,"30,558","+/-2,484","30,558",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",15,All parents in family in labor force,"21,944","+/-2,481",71.8,+/-6.0
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",15.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",16,Own children of the householder 6 to 17 years,"69,312","+/-4,362","69,312",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",17,All parents in family in labor force,"51,468","+/-5,009",74.3,+/-5.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",17.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",18,Workers 16 years and over,"260,555","+/-7,392","260,555",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",19,"Car, truck, or van -- drove alone","173,552","+/-7,179",66.6,+/-1.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",20,"Car, truck, or van -- carpooled","22,605","+/-3,166",8.7,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",21,Public transportation (excluding taxicab),"4,071","+/-1,376",1.6,+/-0.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",22,Walked,"9,135","+/-1,995",3.5,+/-0.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",23,Other means,"6,021","+/-1,605",2.3,+/-0.6
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",24,Worked from home,"45,171","+/-3,607",17.3,+/-1.3
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",24.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",25,Mean travel time to work (minutes),24.5,+/-0.9,(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",25.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",25.5,OCCUPATION,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",26,Civilian employed population 16 years and over,"267,006","+/-7,138","267,006",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",27,"Management, business, science, and arts occupations","110,332","+/-5,057",41.3,+/-1.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",28,Service occupations,"51,681","+/-3,930",19.4,+/-1.4
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",29,Sales and office occupations,"52,491","+/-3,923",19.7,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",30,"Natural resources, construction, and maintenance occupations","22,011","+/-2,793",8.2,+/-1.0
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",31,"Production, transportation, and material moving occupations","30,491","+/-3,277",11.4,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",31.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",31.5,INDUSTRY,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",32,Civilian employed population 16 years and over,"267,006","+/-7,138","267,006",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",33,"Agriculture, forestry, fishing and hunting, and mining",834,+/-409,0.3,+/-0.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",34,Construction,"18,080","+/-2,674",6.8,+/-1.0
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",35,Manufacturing,"27,910","+/-3,379",10.5,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",36,Wholesale trade,"6,152","+/-1,561",2.3,+/-0.6
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",37,Retail trade,"30,627","+/-3,354",11.5,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",38,"Transportation and warehousing, and utilities","13,224","+/-2,532",5.0,+/-0.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",39,Information,"3,070",+/-697,1.1,+/-0.3
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",40,"Finance and insurance, and real estate and rental and leasing","17,636","+/-2,251",6.6,+/-0.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",41,"Professional, scientific, and management, and administrative and waste management services","28,921","+/-3,613",10.8,+/-1.3
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",42,"Educational services, and health care and social assistance","75,842","+/-4,660",28.4,+/-1.7
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",43,"Arts, entertainment, and recreation, and accommodation and food services","24,001","+/-3,121",9.0,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",44,"Other services, except public administration","10,113","+/-1,760",3.8,+/-0.7
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",45,Public administration,"10,596","+/-1,835",4.0,+/-0.7
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",45.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",46,Civilian employed population 16 years and over,"267,006","+/-7,138","267,006",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",47,Private wage and salary workers,"216,172","+/-7,298",81.0,+/-1.7
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",48,Government workers,"35,226","+/-3,963",13.2,+/-1.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",49,Self-employed in own not incorporated business workers,"14,627","+/-2,266",5.5,+/-0.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",50,Unpaid family workers,981,+/-639,0.4,+/-0.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",50.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",51,Total households,"217,564","+/-3,948","217,564",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",52,"Less than $10,000","14,642","+/-2,193",6.7,+/-1.0
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",53,"$10,000 to $14,999","10,939","+/-1,886",5.0,+/-0.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",54,"$15,000 to $24,999","17,330","+/-1,955",8.0,+/-0.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",55,"$25,000 to $34,999","17,786","+/-2,544",8.2,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",56,"$35,000 to $49,999","22,590","+/-2,507",10.4,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",57,"$50,000 to $74,999","31,201","+/-2,760",14.3,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",58,"$75,000 to $99,999","27,065","+/-2,969",12.4,+/-1.3
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",59,"$100,000 to $149,999","37,313","+/-3,006",17.2,+/-1.4
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",60,"$150,000 to $199,999","17,601","+/-2,336",8.1,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",61,"$200,000 or more","21,097","+/-2,322",9.7,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",62,Median household income (dollars),"69,666","+/-3,322",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",63,Mean household income (dollars),"96,609","+/-3,992",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",63.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",64,With earnings,"165,425","+/-3,929",76.0,+/-1.6
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",65,Mean earnings (dollars),"99,618","+/-4,429",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",66,With Social Security,"70,229","+/-3,505",32.3,+/-1.4
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",67,Mean Social Security income (dollars),"19,636",+/-695,(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",68,With retirement income,"54,793","+/-2,609",25.2,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",69,Mean retirement income (dollars),"30,468","+/-3,718",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",69.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",70,With Supplemental Security Income,"15,503","+/-1,928",7.1,+/-0.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",71,Mean Supplemental Security Income (dollars),"10,487",+/-876,(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",72,With cash public assistance income,"14,201","+/-2,483",6.5,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",73,Mean cash public assistance income (dollars),"4,177","+/-1,025",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",74,With Food Stamp/SNAP benefits in the past 12 months,"37,245","+/-3,270",17.1,+/-1.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",74.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",75,Families,"130,761","+/-4,541","130,761",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",76,"Less than $10,000","5,123","+/-1,369",3.9,+/-1.0
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",77,"$10,000 to $14,999","2,383",+/-944,1.8,+/-0.7
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",78,"$15,000 to $24,999","5,607","+/-1,378",4.3,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",79,"$25,000 to $34,999","9,485","+/-1,941",7.3,+/-1.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",80,"$35,000 to $49,999","12,800","+/-1,860",9.8,+/-1.3
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",81,"$50,000 to $74,999","17,200","+/-2,436",13.2,+/-1.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",82,"$75,000 to $99,999","18,035","+/-2,145",13.8,+/-1.6
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",83,"$100,000 to $149,999","26,372","+/-2,620",20.2,+/-1.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",84,"$150,000 to $199,999","14,592","+/-2,223",11.2,+/-1.7
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",85,"$200,000 or more","19,164","+/-2,364",14.7,+/-1.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",86,Median family income (dollars),"92,795","+/-5,029",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",87,Mean family income (dollars),"120,996","+/-5,261",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",87.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",88,Per capita income (dollars),"39,100","+/-1,435",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",88.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",89,Nonfamily households,"86,803","+/-4,880","86,803",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",90,Median nonfamily income (dollars),"37,941","+/-6,011",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",91,Mean nonfamily income (dollars),"55,583","+/-3,132",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",91.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",92,Median earnings for workers (dollars),"40,078","+/-2,053",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",93,"Median earnings for male full-time, year-round workers (dollars)","60,817","+/-2,806",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",94,"Median earnings for female full-time, year-round workers (dollars)","54,523","+/-3,811",(X),(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",94.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",95,Civilian noninstitutionalized population,"536,733","+/-8,773","536,733",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",96,With health insurance coverage,"512,283","+/-9,402",95.4,+/-0.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",97,With private health insurance,"349,173","+/-11,567",65.1,+/-1.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",98,With public coverage,"233,959","+/-10,909",43.6,+/-1.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",99,No health insurance coverage,"24,450","+/-4,456",4.6,+/-0.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",99.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",100,Civilian noninstitutionalized population under 19 years,"115,164","+/-5,303","115,164",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",101,No health insurance coverage,"3,331","+/-1,967",2.9,+/-1.7
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",101.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",102,Civilian noninstitutionalized population 19 to 64 years,"326,640","+/-6,394","326,640",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",103,In labor force:,"260,297","+/-6,590","260,297",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",104,Employed:,"238,612","+/-6,770","238,612",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",105,With health insurance coverage,"225,374","+/-6,581",94.5,+/-0.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",106,With private health insurance,"191,838","+/-7,237",80.4,+/-1.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",107,With public coverage,"41,240","+/-4,054",17.3,+/-1.7
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",108,No health insurance coverage,"13,238","+/-2,137",5.5,+/-0.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",109,Unemployed:,"21,685","+/-3,397","21,685",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",110,With health insurance coverage,"18,761","+/-3,007",86.5,+/-4.6
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",111,With private health insurance,"6,789","+/-1,801",31.3,+/-7.0
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",112,With public coverage,"12,591","+/-2,482",58.1,+/-7.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",113,No health insurance coverage,"2,924","+/-1,134",13.5,+/-4.6
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",114,Not in labor force:,"66,343","+/-4,401","66,343",(X)
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",115,With health insurance coverage,"62,400","+/-4,025",94.1,+/-2.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",116,With private health insurance,"32,119","+/-2,788",48.4,+/-3.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",117,With public coverage,"35,034","+/-3,443",52.8,+/-3.7
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",118,No health insurance coverage,"3,943","+/-1,760",5.9,+/-2.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",118.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",119,All families,(X),(X),8.5,+/-1.3
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",120,With related children of the householder under 18 years,(X),(X),15.6,+/-2.6
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",121,With related children of the householder under 5 years only,(X),(X),9.1,+/-6.0
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",122,Married couple families,(X),(X),3.4,+/-1.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",123,With related children of the householder under 18 years,(X),(X),4.8,+/-2.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",124,With related children of the householder under 5 years only,(X),(X),0.0,+/-3.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",125,"Families with female householder, no spouse present",(X),(X),25.3,+/-5.1
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",126,With related children of the householder under 18 years,(X),(X),37.6,+/-7.4
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",127,With related children of the householder under 5 years only,(X),(X),30.9,+/-17.0
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",127.3,,,,,
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",128,All people,(X),(X),13.5,+/-1.3
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",129,Under 18 years,(X),(X),20.6,+/-3.4
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",130,Related children of the householder under 18 years,(X),(X),20.2,+/-3.4
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",131,Related children of the householder under 5 years,(X),(X),19.1,+/-5.3
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",132,Related children of the householder 5 to 17 years,(X),(X),20.6,+/-3.8
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",133,18 years and over,(X),(X),11.8,+/-1.2
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",134,18 to 64 years,(X),(X),12.0,+/-1.3
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",135,65 years and over,(X),(X),11.1,+/-1.9
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",136,People in families,(X),(X),9.7,+/-1.5
+DP03,5001800US4401,"Congressional District 1 (118th Congress), Rhode Island",137,Unrelated individuals 15 years and over,(X),(X),25.6,+/-2.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",0.5,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",1,Population 16 years and over,"457,871","+/-7,349","457,871",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",2,In labor force,"300,094","+/-7,765",65.5,+/-1.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",3,Civilian labor force,"299,262","+/-7,740",65.4,+/-1.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",4,Employed,"279,243","+/-7,838",61.0,+/-1.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",5,Unemployed,"20,019","+/-3,043",4.4,+/-0.7
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",6,Armed Forces,832,+/-497,0.2,+/-0.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",7,Not in labor force,"157,777","+/-6,108",34.5,+/-1.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",7.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",8,Civilian labor force,"299,262","+/-7,740","299,262",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",9,Unemployment Rate,(X),(X),6.7,+/-1.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",9.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",10,Females 16 years and over,"234,120","+/-4,854","234,120",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",11,In labor force,"145,436","+/-4,488",62.1,+/-1.6
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",12,Civilian labor force,"145,362","+/-4,470",62.1,+/-1.6
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",13,Employed,"136,083","+/-4,728",58.1,+/-1.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",13.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",14,Own children of the householder under 6 years,"30,571","+/-2,491","30,571",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",15,All parents in family in labor force,"24,615","+/-2,635",80.5,+/-5.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",15.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",16,Own children of the householder 6 to 17 years,"66,474","+/-4,645","66,474",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",17,All parents in family in labor force,"54,902","+/-4,937",82.6,+/-4.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",17.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",18,Workers 16 years and over,"272,533","+/-7,989","272,533",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",19,"Car, truck, or van -- drove alone","196,033","+/-7,217",71.9,+/-1.9
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",20,"Car, truck, or van -- carpooled","17,731","+/-3,074",6.5,+/-1.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",21,Public transportation (excluding taxicab),"2,079",+/-913,0.8,+/-0.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",22,Walked,"4,912","+/-1,225",1.8,+/-0.4
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",23,Other means,"3,525","+/-1,245",1.3,+/-0.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",24,Worked from home,"48,253","+/-4,547",17.7,+/-1.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",24.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",25,Mean travel time to work (minutes),25.1,+/-0.8,(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",25.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",25.5,OCCUPATION,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",26,Civilian employed population 16 years and over,"279,243","+/-7,838","279,243",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",27,"Management, business, science, and arts occupations","125,299","+/-6,812",44.9,+/-2.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",28,Service occupations,"45,539","+/-4,533",16.3,+/-1.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",29,Sales and office occupations,"59,181","+/-4,258",21.2,+/-1.4
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",30,"Natural resources, construction, and maintenance occupations","18,697","+/-2,958",6.7,+/-1.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",31,"Production, transportation, and material moving occupations","30,527","+/-3,452",10.9,+/-1.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",31.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",31.5,INDUSTRY,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",32,Civilian employed population 16 years and over,"279,243","+/-7,838","279,243",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",33,"Agriculture, forestry, fishing and hunting, and mining","1,207",+/-846,0.4,+/-0.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",34,Construction,"13,645","+/-2,299",4.9,+/-0.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",35,Manufacturing,"27,711","+/-3,143",9.9,+/-1.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",36,Wholesale trade,"7,445","+/-1,790",2.7,+/-0.6
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",37,Retail trade,"30,871","+/-3,427",11.1,+/-1.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",38,"Transportation and warehousing, and utilities","15,043","+/-2,654",5.4,+/-0.9
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",39,Information,"4,717","+/-1,439",1.7,+/-0.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",40,"Finance and insurance, and real estate and rental and leasing","24,530","+/-2,984",8.8,+/-1.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",41,"Professional, scientific, and management, and administrative and waste management services","33,144","+/-4,020",11.9,+/-1.4
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",42,"Educational services, and health care and social assistance","73,927","+/-5,051",26.5,+/-1.7
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",43,"Arts, entertainment, and recreation, and accommodation and food services","21,857","+/-2,819",7.8,+/-1.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",44,"Other services, except public administration","12,094","+/-1,879",4.3,+/-0.7
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",45,Public administration,"13,052","+/-1,978",4.7,+/-0.7
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",45.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",45.5,CLASS OF WORKER,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",46,Civilian employed population 16 years and over,"279,243","+/-7,838","279,243",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",47,Private wage and salary workers,"227,067","+/-7,124",81.3,+/-1.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",48,Government workers,"38,020","+/-3,313",13.6,+/-1.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",49,Self-employed in own not incorporated business workers,"13,619","+/-2,259",4.9,+/-0.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",50,Unpaid family workers,537,+/-560,0.2,+/-0.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",50.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",51,Total households,"222,606","+/-4,141","222,606",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",52,"Less than $10,000","11,093","+/-1,864",5.0,+/-0.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",53,"$10,000 to $14,999","8,444","+/-1,948",3.8,+/-0.9
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",54,"$15,000 to $24,999","16,168","+/-2,412",7.3,+/-1.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",55,"$25,000 to $34,999","11,904","+/-2,324",5.3,+/-1.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",56,"$35,000 to $49,999","21,239","+/-2,497",9.5,+/-1.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",57,"$50,000 to $74,999","39,394","+/-3,588",17.7,+/-1.6
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",58,"$75,000 to $99,999","27,403","+/-3,069",12.3,+/-1.4
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",59,"$100,000 to $149,999","43,843","+/-3,410",19.7,+/-1.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",60,"$150,000 to $199,999","18,891","+/-2,172",8.5,+/-1.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",61,"$200,000 or more","24,227","+/-2,769",10.9,+/-1.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",62,Median household income (dollars),"77,649","+/-4,278",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",63,Mean household income (dollars),"101,621","+/-3,629",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",63.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",64,With earnings,"171,034","+/-4,389",76.8,+/-1.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",65,Mean earnings (dollars),"104,711","+/-4,144",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",66,With Social Security,"73,148","+/-3,465",32.9,+/-1.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",67,Mean Social Security income (dollars),"21,904",+/-770,(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",68,With retirement income,"58,142","+/-3,223",26.1,+/-1.4
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",69,Mean retirement income (dollars),"28,191","+/-2,191",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",69.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",70,With Supplemental Security Income,"14,048","+/-2,209",6.3,+/-1.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",71,Mean Supplemental Security Income (dollars),"10,456","+/-1,110",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",72,With cash public assistance income,"10,025","+/-1,777",4.5,+/-0.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",73,Mean cash public assistance income (dollars),"5,114","+/-1,230",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",74,With Food Stamp/SNAP benefits in the past 12 months,"28,479","+/-3,050",12.8,+/-1.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",74.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",75,Families,"137,957","+/-4,636","137,957",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",76,"Less than $10,000","2,200",+/-793,1.6,+/-0.6
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",77,"$10,000 to $14,999","2,834","+/-1,312",2.1,+/-0.9
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",78,"$15,000 to $24,999","5,774","+/-1,743",4.2,+/-1.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",79,"$25,000 to $34,999","6,602","+/-1,931",4.8,+/-1.4
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",80,"$35,000 to $49,999","10,063","+/-1,870",7.3,+/-1.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",81,"$50,000 to $74,999","21,109","+/-2,627",15.3,+/-1.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",82,"$75,000 to $99,999","19,424","+/-2,368",14.1,+/-1.7
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",83,"$100,000 to $149,999","34,232","+/-2,930",24.8,+/-2.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",84,"$150,000 to $199,999","15,896","+/-1,999",11.5,+/-1.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",85,"$200,000 or more","19,823","+/-2,390",14.4,+/-1.7
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",86,Median family income (dollars),"101,041","+/-3,498",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",87,Mean family income (dollars),"123,009","+/-4,968",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",87.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",88,Per capita income (dollars),"41,651","+/-1,661",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",88.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",89,Nonfamily households,"84,649","+/-4,940","84,649",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",90,Median nonfamily income (dollars),"46,467","+/-3,871",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",91,Mean nonfamily income (dollars),"62,176","+/-3,923",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",91.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",92,Median earnings for workers (dollars),"45,074","+/-1,984",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",93,"Median earnings for male full-time, year-round workers (dollars)","65,392","+/-3,004",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",94,"Median earnings for female full-time, year-round workers (dollars)","53,974","+/-2,479",(X),(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",94.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",95,Civilian noninstitutionalized population,"543,705","+/-8,816","543,705",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",96,With health insurance coverage,"521,210","+/-9,958",95.9,+/-0.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",97,With private health insurance,"398,080","+/-12,360",73.2,+/-1.9
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",98,With public coverage,"198,994","+/-9,456",36.6,+/-1.7
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",99,No health insurance coverage,"22,495","+/-4,273",4.1,+/-0.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",99.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",100,Civilian noninstitutionalized population under 19 years,"111,881","+/-5,091","111,881",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",101,No health insurance coverage,"2,366","+/-1,011",2.1,+/-0.9
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",101.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",102,Civilian noninstitutionalized population 19 to 64 years,"333,766","+/-6,385","333,766",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",103,In labor force:,"269,653","+/-7,260","269,653",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",104,Employed:,"253,088","+/-7,397","253,088",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",105,With health insurance coverage,"240,457","+/-7,183",95.0,+/-1.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",106,With private health insurance,"217,694","+/-7,802",86.0,+/-1.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",107,With public coverage,"31,451","+/-3,855",12.4,+/-1.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",108,No health insurance coverage,"12,631","+/-3,184",5.0,+/-1.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",109,Unemployed:,"16,565","+/-2,845","16,565",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",110,With health insurance coverage,"14,575","+/-2,776",88.0,+/-6.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",111,With private health insurance,"7,486","+/-2,152",45.2,+/-9.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",112,With public coverage,"7,954","+/-1,829",48.0,+/-7.6
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",113,No health insurance coverage,"1,990","+/-1,055",12.0,+/-6.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",114,Not in labor force:,"64,113","+/-4,677","64,113",(X)
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",115,With health insurance coverage,"59,176","+/-4,525",92.3,+/-2.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",116,With private health insurance,"35,722","+/-3,471",55.7,+/-3.6
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",117,With public coverage,"29,085","+/-3,185",45.4,+/-3.9
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",118,No health insurance coverage,"4,937","+/-1,393",7.7,+/-2.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",118.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",119,All families,(X),(X),5.5,+/-1.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",120,With related children of the householder under 18 years,(X),(X),8.5,+/-2.8
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",121,With related children of the householder under 5 years only,(X),(X),3.3,+/-3.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",122,Married couple families,(X),(X),3.1,+/-1.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",123,With related children of the householder under 18 years,(X),(X),2.0,+/-1.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",124,With related children of the householder under 5 years only,(X),(X),1.7,+/-2.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",125,"Families with female householder, no spouse present",(X),(X),12.4,+/-4.9
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",126,With related children of the householder under 18 years,(X),(X),20.2,+/-8.1
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",127,With related children of the householder under 5 years only,(X),(X),12.8,+/-16.9
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",127.3,,,,,
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",128,All people,(X),(X),9.4,+/-1.2
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",129,Under 18 years,(X),(X),9.4,+/-3.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",130,Related children of the householder under 18 years,(X),(X),9.2,+/-3.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",131,Related children of the householder under 5 years,(X),(X),11.0,+/-6.5
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",132,Related children of the householder 5 to 17 years,(X),(X),8.6,+/-3.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",133,18 years and over,(X),(X),9.4,+/-1.0
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",134,18 to 64 years,(X),(X),9.6,+/-1.3
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",135,65 years and over,(X),(X),8.7,+/-1.6
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",136,People in families,(X),(X),5.4,+/-1.4
+DP03,5001800US4402,"Congressional District 2 (118th Congress), Rhode Island",137,Unrelated individuals 15 years and over,(X),(X),22.9,+/-2.7
