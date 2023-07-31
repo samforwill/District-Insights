@@ -1,0 +1,1303 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",0.5,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",1,Total housing units,"349,120","+/-1,767","349,120",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",2,Occupied housing units,"284,318","+/-4,540",81.4,+/-1.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",3,Vacant housing units,"64,802","+/-4,378",18.6,+/-1.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",3.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",4,Homeowner vacancy rate,1.2,+/-0.4,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",5,Rental vacancy rate,13.5,+/-2.3,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",5.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",6,Total housing units,"349,120","+/-1,767","349,120",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",7,"1-unit, detached","244,531","+/-5,087",70.0,+/-1.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",8,"1-unit, attached","5,188","+/-1,469",1.5,+/-0.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",9,2 units,"4,567","+/-1,075",1.3,+/-0.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",10,3 or 4 units,"7,570","+/-1,826",2.2,+/-0.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",11,5 to 9 units,"12,078","+/-2,030",3.5,+/-0.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",12,10 to 19 units,"14,879","+/-2,919",4.3,+/-0.8
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",13,20 or more units,"27,168","+/-2,709",7.8,+/-0.8
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",14,Mobile home,"32,428","+/-3,222",9.3,+/-0.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",15,"Boat, RV, van, etc.",711,+/-408,0.2,+/-0.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",15.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",16,Total housing units,"349,120","+/-1,767","349,120",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",17,Built 2020 or later,"2,755",+/-992,0.8,+/-0.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",18,Built 2010 to 2019,"37,193","+/-3,648",10.7,+/-1.0
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",19,Built 2000 to 2009,"70,132","+/-4,249",20.1,+/-1.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",20,Built 1990 to 1999,"57,385","+/-4,319",16.4,+/-1.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",21,Built 1980 to 1989,"46,938","+/-3,414",13.4,+/-1.0
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",22,Built 1970 to 1979,"57,518","+/-4,250",16.5,+/-1.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",23,Built 1960 to 1969,"34,991","+/-3,057",10.0,+/-0.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",24,Built 1950 to 1959,"21,581","+/-1,927",6.2,+/-0.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",25,Built 1940 to 1949,"10,360","+/-1,506",3.0,+/-0.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",26,Built 1939 or earlier,"10,267","+/-1,506",2.9,+/-0.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",26.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",26.5,ROOMS,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",27,Total housing units,"349,120","+/-1,767","349,120",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",28,1 room,"4,992","+/-1,526",1.4,+/-0.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",29,2 rooms,"2,925",+/-911,0.8,+/-0.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",30,3 rooms,"16,202","+/-2,641",4.6,+/-0.8
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",31,4 rooms,"50,349","+/-4,240",14.4,+/-1.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",32,5 rooms,"82,004","+/-5,117",23.5,+/-1.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",33,6 rooms,"79,682","+/-5,322",22.8,+/-1.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",34,7 rooms,"45,609","+/-3,239",13.1,+/-0.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",35,8 rooms,"33,969","+/-3,088",9.7,+/-0.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",36,9 rooms or more,"33,388","+/-3,072",9.6,+/-0.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",37,Median rooms,5.7,+/-0.1,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",37.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",37.5,BEDROOMS,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",38,Total housing units,"349,120","+/-1,767","349,120",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",39,No bedroom,"5,074","+/-1,537",1.5,+/-0.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",40,1 bedroom,"22,270","+/-3,308",6.4,+/-0.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",41,2 bedrooms,"75,312","+/-4,543",21.6,+/-1.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",42,3 bedrooms,"174,040","+/-6,066",49.9,+/-1.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",43,4 bedrooms,"61,981","+/-4,742",17.8,+/-1.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",44,5 or more bedrooms,"10,443","+/-2,094",3.0,+/-0.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",44.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",44.5,HOUSING TENURE,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",45,Occupied housing units,"284,318","+/-4,540","284,318",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",46,Owner-occupied,"196,448","+/-5,270",69.1,+/-1.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",47,Renter-occupied,"87,870","+/-5,289",30.9,+/-1.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",47.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",48,Average household size of owner-occupied unit,2.61,+/-0.05,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",49,Average household size of renter-occupied unit,2.31,+/-0.11,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",49.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",50,Occupied housing units,"284,318","+/-4,540","284,318",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",51,Moved in 2019 or later,"78,599","+/-4,642",27.6,+/-1.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",52,Moved in 2015 to 2018,"62,224","+/-4,623",21.9,+/-1.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",53,Moved in 2010 to 2014,"32,914","+/-3,948",11.6,+/-1.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",54,Moved in 2000 to 2009,"50,152","+/-3,588",17.6,+/-1.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",55,Moved in 1990 to 1999,"26,544","+/-2,813",9.3,+/-1.0
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",56,Moved in 1989 and earlier,"33,885","+/-2,923",11.9,+/-1.0
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",56.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",57,Occupied housing units,"284,318","+/-4,540","284,318",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",58,No vehicles available,"11,193","+/-1,865",3.9,+/-0.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",59,1 vehicle available,"97,696","+/-5,303",34.4,+/-1.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",60,2 vehicles available,"109,324","+/-4,894",38.5,+/-1.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",61,3 or more vehicles available,"66,105","+/-4,228",23.3,+/-1.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",61.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",62,Occupied housing units,"284,318","+/-4,540","284,318",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",63,Utility gas,"72,169","+/-3,729",25.4,+/-1.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",64,"Bottled, tank, or LP gas","6,038","+/-1,360",2.1,+/-0.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",65,Electricity,"203,778","+/-5,760",71.7,+/-1.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",66,"Fuel oil, kerosene, etc.",262,+/-270,0.1,+/-0.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",67,Coal or coke,0,+/-216,0.0,+/-0.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",68,Wood,779,+/-510,0.3,+/-0.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",69,Solar energy,242,+/-303,0.1,+/-0.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",70,Other fuel,0,+/-216,0.0,+/-0.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",71,No fuel used,"1,050",+/-569,0.4,+/-0.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",71.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",72,Occupied housing units,"284,318","+/-4,540","284,318",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",73,Lacking complete plumbing facilities,"1,208",+/-989,0.4,+/-0.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",74,Lacking complete kitchen facilities,"1,891","+/-1,192",0.7,+/-0.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",75,No telephone service available,"1,745",+/-748,0.6,+/-0.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",75.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",76,Occupied housing units,"284,318","+/-4,540","284,318",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",77,1.00 or less,"278,585","+/-4,875",98.0,+/-0.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",78,1.01 to 1.50,"4,215","+/-1,573",1.5,+/-0.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",79,1.51 or more,"1,518",+/-810,0.5,+/-0.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",79.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",79.5,VALUE,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",80,Owner-occupied units,"196,448","+/-5,270","196,448",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",81,"Less than $50,000","18,319","+/-2,502",9.3,+/-1.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",82,"$50,000 to $99,999","24,999","+/-2,647",12.7,+/-1.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",83,"$100,000 to $149,999","29,136","+/-2,178",14.8,+/-1.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",84,"$150,000 to $199,999","33,728","+/-3,362",17.2,+/-1.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",85,"$200,000 to $299,999","44,988","+/-3,817",22.9,+/-1.8
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",86,"$300,000 to $499,999","29,476","+/-2,982",15.0,+/-1.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",87,"$500,000 to $999,999","14,146","+/-2,208",7.2,+/-1.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",88,"$1,000,000 or more","1,656",+/-768,0.8,+/-0.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",89,Median (dollars),"187,800","+/-5,844",(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",89.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",90,Owner-occupied units,"196,448","+/-5,270","196,448",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",91,Housing units with a mortgage,"112,293","+/-4,855",57.2,+/-2.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",92,Housing units without a mortgage,"84,155","+/-4,807",42.8,+/-2.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",92.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",93,Housing units with a mortgage,"112,293","+/-4,855","112,293",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",94,Less than $500,"2,304",+/-763,2.1,+/-0.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",95,$500 to $999,"28,084","+/-2,804",25.0,+/-2.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",96,"$1,000 to $1,499","48,174","+/-3,854",42.9,+/-2.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",97,"$1,500 to $1,999","19,885","+/-2,735",17.7,+/-2.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",98,"$2,000 to $2,499","7,967","+/-1,574",7.1,+/-1.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",99,"$2,500 to $2,999","2,047",+/-718,1.8,+/-0.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",100,"$3,000 or more","3,832","+/-1,155",3.4,+/-1.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",101,Median (dollars),"1,252",+/-33,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",101.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",102,Housing units without a mortgage,"84,155","+/-4,807","84,155",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",103,Less than $250,"17,390","+/-1,832",20.7,+/-1.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",104,$250 to $399,"29,106","+/-2,839",34.6,+/-2.8
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",105,$400 to $599,"23,993","+/-2,743",28.5,+/-2.8
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",106,$600 to $799,"7,870","+/-1,488",9.4,+/-1.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",107,$800 to $999,"3,241","+/-1,195",3.9,+/-1.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",108,"$1,000 or more","2,555",+/-912,3.0,+/-1.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",109,Median (dollars),378,+/-11,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",109.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"111,151","+/-4,809","111,151",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",111,Less than 20.0 percent,"53,816","+/-3,887",48.4,+/-2.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",112,20.0 to 24.9 percent,"18,579","+/-2,375",16.7,+/-2.0
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",113,25.0 to 29.9 percent,"7,917","+/-1,629",7.1,+/-1.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",114,30.0 to 34.9 percent,"7,911","+/-1,835",7.1,+/-1.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",115,35.0 percent or more,"22,928","+/-2,730",20.6,+/-2.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",115.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",116,Not computed,"1,142",+/-595,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",116.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"82,688","+/-4,737","82,688",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",118,Less than 10.0 percent,"43,183","+/-3,991",52.2,+/-3.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",119,10.0 to 14.9 percent,"16,433","+/-2,125",19.9,+/-2.6
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",120,15.0 to 19.9 percent,"9,351","+/-1,953",11.3,+/-2.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",121,20.0 to 24.9 percent,"4,111","+/-1,317",5.0,+/-1.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",122,25.0 to 29.9 percent,"1,350",+/-572,1.6,+/-0.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",123,30.0 to 34.9 percent,"1,593",+/-673,1.9,+/-0.8
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",124,35.0 percent or more,"6,667","+/-1,432",8.1,+/-1.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",124.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",125,Not computed,"1,467",+/-616,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",125.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",125.5,GROSS RENT,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",126,Occupied units paying rent,"77,023","+/-4,843","77,023",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",127,Less than $500,"8,315","+/-1,547",10.8,+/-2.0
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",128,$500 to $999,"36,299","+/-3,704",47.1,+/-3.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",129,"$1,000 to $1,499","26,960","+/-3,239",35.0,+/-3.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",130,"$1,500 to $1,999","4,097","+/-1,529",5.3,+/-1.9
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",131,"$2,000 to $2,499",561,+/-352,0.7,+/-0.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",132,"$2,500 to $2,999",161,+/-231,0.2,+/-0.3
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",133,"$3,000 or more",630,+/-523,0.8,+/-0.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",134,Median (dollars),944,+/-25,(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",134.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",135,No rent paid,"10,847","+/-2,028",(X),(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",135.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"74,911","+/-4,905","74,911",(X)
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",137,Less than 15.0 percent,"10,545","+/-2,072",14.1,+/-2.7
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",138,15.0 to 19.9 percent,"10,056","+/-2,069",13.4,+/-2.5
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",139,20.0 to 24.9 percent,"7,000","+/-1,597",9.3,+/-2.2
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",140,25.0 to 29.9 percent,"8,011","+/-1,530",10.7,+/-2.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",141,30.0 to 34.9 percent,"7,757","+/-1,618",10.4,+/-2.1
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",142,35.0 percent or more,"31,542","+/-4,272",42.1,+/-4.4
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",142.3,,,,,
+DP04,5001800US0101,"Congressional District 1 (118th Congress), Alabama",143,Not computed,"12,959","+/-2,196",(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",0.5,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",1,Total housing units,"330,863","+/-2,668","330,863",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",2,Occupied housing units,"278,370","+/-4,401",84.1,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",3,Vacant housing units,"52,493","+/-3,897",15.9,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",3.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",4,Homeowner vacancy rate,1.9,+/-0.5,(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",5,Rental vacancy rate,8.3,+/-2.1,(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",5.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",6,Total housing units,"330,863","+/-2,668","330,863",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",7,"1-unit, detached","229,002","+/-4,550",69.2,+/-1.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",8,"1-unit, attached","5,993","+/-1,439",1.8,+/-0.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",9,2 units,"6,519","+/-1,526",2.0,+/-0.5
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",10,3 or 4 units,"12,407","+/-1,835",3.7,+/-0.6
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",11,5 to 9 units,"11,708","+/-2,081",3.5,+/-0.6
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",12,10 to 19 units,"10,634","+/-2,015",3.2,+/-0.6
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",13,20 or more units,"5,457","+/-1,461",1.6,+/-0.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",14,Mobile home,"48,859","+/-3,054",14.8,+/-0.9
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",15,"Boat, RV, van, etc.",284,+/-193,0.1,+/-0.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",15.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",16,Total housing units,"330,863","+/-2,668","330,863",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",17,Built 2020 or later,"3,032","+/-1,069",0.9,+/-0.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",18,Built 2010 to 2019,"37,665","+/-3,371",11.4,+/-1.0
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",19,Built 2000 to 2009,"51,705","+/-3,957",15.6,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",20,Built 1990 to 1999,"55,123","+/-3,879",16.7,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",21,Built 1980 to 1989,"45,652","+/-2,974",13.8,+/-0.9
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",22,Built 1970 to 1979,"56,470","+/-3,750",17.1,+/-1.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",23,Built 1960 to 1969,"34,707","+/-2,798",10.5,+/-0.9
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",24,Built 1950 to 1959,"24,213","+/-2,288",7.3,+/-0.7
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",25,Built 1940 to 1949,"8,671","+/-1,456",2.6,+/-0.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",26,Built 1939 or earlier,"13,625","+/-1,999",4.1,+/-0.6
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",26.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",26.5,ROOMS,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",27,Total housing units,"330,863","+/-2,668","330,863",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",28,1 room,"3,604","+/-1,223",1.1,+/-0.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",29,2 rooms,"2,668",+/-781,0.8,+/-0.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",30,3 rooms,"18,903","+/-2,641",5.7,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",31,4 rooms,"44,320","+/-3,589",13.4,+/-1.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",32,5 rooms,"80,106","+/-3,988",24.2,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",33,6 rooms,"68,085","+/-4,266",20.6,+/-1.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",34,7 rooms,"43,186","+/-3,563",13.1,+/-1.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",35,8 rooms,"31,484","+/-2,725",9.5,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",36,9 rooms or more,"38,507","+/-2,590",11.6,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",37,Median rooms,5.7,+/-0.2,(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",37.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",37.5,BEDROOMS,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",38,Total housing units,"330,863","+/-2,668","330,863",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",39,No bedroom,"3,737","+/-1,238",1.1,+/-0.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",40,1 bedroom,"17,417","+/-2,677",5.3,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",41,2 bedrooms,"67,810","+/-3,755",20.5,+/-1.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",42,3 bedrooms,"169,907","+/-4,256",51.4,+/-1.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",43,4 bedrooms,"60,883","+/-3,448",18.4,+/-1.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",44,5 or more bedrooms,"11,109","+/-1,701",3.4,+/-0.5
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",44.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",44.5,HOUSING TENURE,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",45,Occupied housing units,"278,370","+/-4,401","278,370",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",46,Owner-occupied,"185,000","+/-4,420",66.5,+/-1.5
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",47,Renter-occupied,"93,370","+/-4,876",33.5,+/-1.5
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",47.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",48,Average household size of owner-occupied unit,2.58,+/-0.05,(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",49,Average household size of renter-occupied unit,2.37,+/-0.08,(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",49.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",50,Occupied housing units,"278,370","+/-4,401","278,370",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",51,Moved in 2019 or later,"72,880","+/-3,878",26.2,+/-1.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",52,Moved in 2015 to 2018,"63,666","+/-3,764",22.9,+/-1.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",53,Moved in 2010 to 2014,"32,103","+/-2,169",11.5,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",54,Moved in 2000 to 2009,"54,005","+/-3,282",19.4,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",55,Moved in 1990 to 1999,"28,356","+/-2,410",10.2,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",56,Moved in 1989 and earlier,"27,360","+/-2,310",9.8,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",56.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",57,Occupied housing units,"278,370","+/-4,401","278,370",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",58,No vehicles available,"14,697","+/-2,123",5.3,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",59,1 vehicle available,"99,190","+/-4,710",35.6,+/-1.6
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",60,2 vehicles available,"95,229","+/-4,444",34.2,+/-1.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",61,3 or more vehicles available,"69,254","+/-3,923",24.9,+/-1.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",61.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",62,Occupied housing units,"278,370","+/-4,401","278,370",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",63,Utility gas,"54,220","+/-3,270",19.5,+/-1.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",64,"Bottled, tank, or LP gas","14,966","+/-2,138",5.4,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",65,Electricity,"205,385","+/-4,827",73.8,+/-1.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",66,"Fuel oil, kerosene, etc.",352,+/-239,0.1,+/-0.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",67,Coal or coke,60,+/-96,0.0,+/-0.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",68,Wood,"1,228",+/-539,0.4,+/-0.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",69,Solar energy,75,+/-92,0.0,+/-0.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",70,Other fuel,146,+/-132,0.1,+/-0.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",71,No fuel used,"1,938",+/-580,0.7,+/-0.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",71.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",72,Occupied housing units,"278,370","+/-4,401","278,370",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",73,Lacking complete plumbing facilities,679,+/-379,0.2,+/-0.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",74,Lacking complete kitchen facilities,"1,755",+/-663,0.6,+/-0.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",75,No telephone service available,"2,985",+/-669,1.1,+/-0.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",75.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",76,Occupied housing units,"278,370","+/-4,401","278,370",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",77,1.00 or less,"274,815","+/-4,393",98.7,+/-0.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",78,1.01 to 1.50,"2,217",+/-567,0.8,+/-0.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",79,1.51 or more,"1,338",+/-860,0.5,+/-0.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",79.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",79.5,VALUE,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",80,Owner-occupied units,"185,000","+/-4,420","185,000",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",81,"Less than $50,000","21,816","+/-2,079",11.8,+/-1.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",82,"$50,000 to $99,999","32,134","+/-2,451",17.4,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",83,"$100,000 to $149,999","34,251","+/-2,499",18.5,+/-1.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",84,"$150,000 to $199,999","28,712","+/-2,507",15.5,+/-1.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",85,"$200,000 to $299,999","33,987","+/-2,873",18.4,+/-1.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",86,"$300,000 to $499,999","25,528","+/-2,332",13.8,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",87,"$500,000 to $999,999","7,404","+/-1,358",4.0,+/-0.7
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",88,"$1,000,000 or more","1,168",+/-581,0.6,+/-0.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",89,Median (dollars),"156,300","+/-4,411",(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",89.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",90,Owner-occupied units,"185,000","+/-4,420","185,000",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",91,Housing units with a mortgage,"98,646","+/-4,254",53.3,+/-1.9
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",92,Housing units without a mortgage,"86,354","+/-4,074",46.7,+/-1.9
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",92.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",93,Housing units with a mortgage,"98,646","+/-4,254","98,646",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",94,Less than $500,"2,793",+/-822,2.8,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",95,$500 to $999,"30,668","+/-2,699",31.1,+/-2.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",96,"$1,000 to $1,499","37,329","+/-2,586",37.8,+/-2.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",97,"$1,500 to $1,999","17,145","+/-2,229",17.4,+/-2.0
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",98,"$2,000 to $2,499","6,648","+/-1,129",6.7,+/-1.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",99,"$2,500 to $2,999","1,771",+/-495,1.8,+/-0.5
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",100,"$3,000 or more","2,292",+/-734,2.3,+/-0.7
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",101,Median (dollars),"1,182",+/-24,(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",101.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",102,Housing units without a mortgage,"86,354","+/-4,074","86,354",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",103,Less than $250,"18,338","+/-2,437",21.2,+/-2.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",104,$250 to $399,"34,299","+/-2,785",39.7,+/-2.7
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",105,$400 to $599,"24,871","+/-2,557",28.8,+/-2.6
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",106,$600 to $799,"5,187","+/-1,047",6.0,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",107,$800 to $999,"1,609",+/-561,1.9,+/-0.7
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",108,"$1,000 or more","2,050","+/-1,000",2.4,+/-1.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",109,Median (dollars),359,+/-10,(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",109.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"97,938","+/-4,174","97,938",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",111,Less than 20.0 percent,"54,021","+/-3,288",55.2,+/-2.6
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",112,20.0 to 24.9 percent,"12,934","+/-1,998",13.2,+/-2.0
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",113,25.0 to 29.9 percent,"8,458","+/-1,431",8.6,+/-1.5
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",114,30.0 to 34.9 percent,"5,699","+/-1,294",5.8,+/-1.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",115,35.0 percent or more,"16,826","+/-2,247",17.2,+/-2.0
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",115.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",116,Not computed,708,+/-477,(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",116.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"83,053","+/-3,953","83,053",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",118,Less than 10.0 percent,"43,038","+/-3,145",51.8,+/-2.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",119,10.0 to 14.9 percent,"15,300","+/-1,855",18.4,+/-2.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",120,15.0 to 19.9 percent,"8,160","+/-1,479",9.8,+/-1.7
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",121,20.0 to 24.9 percent,"4,956","+/-1,147",6.0,+/-1.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",122,25.0 to 29.9 percent,"2,154",+/-614,2.6,+/-0.7
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",123,30.0 to 34.9 percent,"2,107",+/-711,2.5,+/-0.8
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",124,35.0 percent or more,"7,338","+/-1,329",8.8,+/-1.6
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",124.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",125,Not computed,"3,301","+/-1,048",(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",125.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",125.5,GROSS RENT,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",126,Occupied units paying rent,"85,453","+/-4,911","85,453",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",127,Less than $500,"11,673","+/-1,777",13.7,+/-1.9
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",128,$500 to $999,"47,691","+/-3,632",55.8,+/-3.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",129,"$1,000 to $1,499","21,344","+/-2,585",25.0,+/-2.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",130,"$1,500 to $1,999","3,756","+/-1,259",4.4,+/-1.4
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",131,"$2,000 to $2,499",728,+/-424,0.9,+/-0.5
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",132,"$2,500 to $2,999",246,+/-256,0.3,+/-0.3
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",133,"$3,000 or more",15,+/-26,0.0,+/-0.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",134,Median (dollars),829,+/-22,(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",134.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",135,No rent paid,"7,917","+/-1,462",(X),(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",135.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"82,777","+/-4,869","82,777",(X)
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",137,Less than 15.0 percent,"12,577","+/-1,844",15.2,+/-2.1
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",138,15.0 to 19.9 percent,"11,758","+/-1,979",14.2,+/-2.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",139,20.0 to 24.9 percent,"10,457","+/-1,857",12.6,+/-2.2
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",140,25.0 to 29.9 percent,"10,303","+/-1,642",12.4,+/-1.9
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",141,30.0 to 34.9 percent,"6,437","+/-1,382",7.8,+/-1.7
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",142,35.0 percent or more,"31,245","+/-3,332",37.7,+/-2.9
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",142.3,,,,,
+DP04,5001800US0102,"Congressional District 2 (118th Congress), Alabama",143,Not computed,"10,593","+/-1,729",(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",0.5,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",1,Total housing units,"337,033","+/-1,686","337,033",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",2,Occupied housing units,"278,736","+/-4,314",82.7,+/-1.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",3,Vacant housing units,"58,297","+/-4,267",17.3,+/-1.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",3.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",4,Homeowner vacancy rate,1.0,+/-0.5,(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",5,Rental vacancy rate,7.9,+/-1.8,(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",5.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",6,Total housing units,"337,033","+/-1,686","337,033",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",7,"1-unit, detached","227,083","+/-4,560",67.4,+/-1.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",8,"1-unit, attached","5,365","+/-1,552",1.6,+/-0.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",9,2 units,"6,133","+/-1,692",1.8,+/-0.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",10,3 or 4 units,"6,742","+/-1,530",2.0,+/-0.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",11,5 to 9 units,"12,381","+/-2,322",3.7,+/-0.7
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",12,10 to 19 units,"8,243","+/-1,841",2.4,+/-0.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",13,20 or more units,"6,391","+/-1,380",1.9,+/-0.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",14,Mobile home,"64,048","+/-3,932",19.0,+/-1.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",15,"Boat, RV, van, etc.",647,+/-478,0.2,+/-0.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",15.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",16,Total housing units,"337,033","+/-1,686","337,033",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",17,Built 2020 or later,"3,405","+/-1,169",1.0,+/-0.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",18,Built 2010 to 2019,"44,601","+/-3,384",13.2,+/-1.0
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",19,Built 2000 to 2009,"55,665","+/-4,190",16.5,+/-1.2
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",20,Built 1990 to 1999,"54,441","+/-4,150",16.2,+/-1.2
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",21,Built 1980 to 1989,"48,900","+/-3,736",14.5,+/-1.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",22,Built 1970 to 1979,"47,150","+/-3,504",14.0,+/-1.0
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",23,Built 1960 to 1969,"29,894","+/-3,036",8.9,+/-0.9
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",24,Built 1950 to 1959,"23,297","+/-2,656",6.9,+/-0.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",25,Built 1940 to 1949,"13,927","+/-2,073",4.1,+/-0.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",26,Built 1939 or earlier,"15,753","+/-2,015",4.7,+/-0.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",26.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",26.5,ROOMS,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",27,Total housing units,"337,033","+/-1,686","337,033",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",28,1 room,"3,113","+/-1,223",0.9,+/-0.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",29,2 rooms,"3,452","+/-1,367",1.0,+/-0.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",30,3 rooms,"17,800","+/-2,478",5.3,+/-0.7
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",31,4 rooms,"43,209","+/-3,595",12.8,+/-1.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",32,5 rooms,"73,742","+/-4,761",21.9,+/-1.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",33,6 rooms,"74,734","+/-4,926",22.2,+/-1.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",34,7 rooms,"44,670","+/-4,133",13.3,+/-1.2
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",35,8 rooms,"34,476","+/-2,716",10.2,+/-0.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",36,9 rooms or more,"41,837","+/-3,332",12.4,+/-1.0
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",37,Median rooms,5.9,+/-0.2,(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",37.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",37.5,BEDROOMS,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",38,Total housing units,"337,033","+/-1,686","337,033",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",39,No bedroom,"3,435","+/-1,250",1.0,+/-0.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",40,1 bedroom,"17,393","+/-2,544",5.2,+/-0.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",41,2 bedrooms,"83,764","+/-4,938",24.9,+/-1.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",42,3 bedrooms,"163,190","+/-5,610",48.4,+/-1.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",43,4 bedrooms,"57,044","+/-3,818",16.9,+/-1.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",44,5 or more bedrooms,"12,207","+/-2,271",3.6,+/-0.7
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",44.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",44.5,HOUSING TENURE,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",45,Occupied housing units,"278,736","+/-4,314","278,736",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",46,Owner-occupied,"199,979","+/-4,644",71.7,+/-1.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",47,Renter-occupied,"78,757","+/-4,319",28.3,+/-1.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",47.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",48,Average household size of owner-occupied unit,2.56,+/-0.05,(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",49,Average household size of renter-occupied unit,2.41,+/-0.09,(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",49.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",50,Occupied housing units,"278,736","+/-4,314","278,736",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",51,Moved in 2019 or later,"73,137","+/-4,244",26.2,+/-1.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",52,Moved in 2015 to 2018,"57,051","+/-4,469",20.5,+/-1.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",53,Moved in 2010 to 2014,"33,751","+/-3,388",12.1,+/-1.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",54,Moved in 2000 to 2009,"51,026","+/-3,363",18.3,+/-1.2
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",55,Moved in 1990 to 1999,"29,164","+/-2,673",10.5,+/-1.0
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",56,Moved in 1989 and earlier,"34,607","+/-2,922",12.4,+/-1.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",56.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",57,Occupied housing units,"278,736","+/-4,314","278,736",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",58,No vehicles available,"15,994","+/-2,341",5.7,+/-0.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",59,1 vehicle available,"80,920","+/-4,528",29.0,+/-1.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",60,2 vehicles available,"105,125","+/-4,829",37.7,+/-1.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",61,3 or more vehicles available,"76,697","+/-4,457",27.5,+/-1.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",61.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",62,Occupied housing units,"278,736","+/-4,314","278,736",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",63,Utility gas,"55,644","+/-3,760",20.0,+/-1.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",64,"Bottled, tank, or LP gas","24,698","+/-2,933",8.9,+/-1.0
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",65,Electricity,"191,948","+/-5,892",68.9,+/-1.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",66,"Fuel oil, kerosene, etc.",346,+/-308,0.1,+/-0.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",67,Coal or coke,0,+/-216,0.0,+/-0.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",68,Wood,"4,198","+/-1,204",1.5,+/-0.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",69,Solar energy,0,+/-216,0.0,+/-0.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",70,Other fuel,119,+/-140,0.0,+/-0.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",71,No fuel used,"1,783",+/-655,0.6,+/-0.2
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",71.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",72,Occupied housing units,"278,736","+/-4,314","278,736",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",73,Lacking complete plumbing facilities,707,+/-541,0.3,+/-0.2
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",74,Lacking complete kitchen facilities,"2,130",+/-925,0.8,+/-0.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",75,No telephone service available,"3,462","+/-1,169",1.2,+/-0.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",75.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",76,Occupied housing units,"278,736","+/-4,314","278,736",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",77,1.00 or less,"275,111","+/-4,347",98.7,+/-0.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",78,1.01 to 1.50,"2,334",+/-975,0.8,+/-0.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",79,1.51 or more,"1,291",+/-707,0.5,+/-0.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",79.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",79.5,VALUE,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",80,Owner-occupied units,"199,979","+/-4,644","199,979",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",81,"Less than $50,000","30,614","+/-3,059",15.3,+/-1.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",82,"$50,000 to $99,999","34,655","+/-2,891",17.3,+/-1.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",83,"$100,000 to $149,999","33,459","+/-3,477",16.7,+/-1.7
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",84,"$150,000 to $199,999","29,130","+/-2,856",14.6,+/-1.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",85,"$200,000 to $299,999","35,617","+/-2,972",17.8,+/-1.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",86,"$300,000 to $499,999","25,941","+/-2,722",13.0,+/-1.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",87,"$500,000 to $999,999","8,354","+/-1,610",4.2,+/-0.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",88,"$1,000,000 or more","2,209",+/-776,1.1,+/-0.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",89,Median (dollars),"151,800","+/-5,416",(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",89.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",90,Owner-occupied units,"199,979","+/-4,644","199,979",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",91,Housing units with a mortgage,"101,178","+/-4,216",50.6,+/-1.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",92,Housing units without a mortgage,"98,801","+/-4,358",49.4,+/-1.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",92.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",93,Housing units with a mortgage,"101,178","+/-4,216","101,178",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",94,Less than $500,"2,275",+/-827,2.2,+/-0.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",95,$500 to $999,"37,152","+/-3,072",36.7,+/-2.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",96,"$1,000 to $1,499","32,495","+/-3,222",32.1,+/-2.7
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",97,"$1,500 to $1,999","19,843","+/-2,404",19.6,+/-2.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",98,"$2,000 to $2,499","6,145","+/-1,483",6.1,+/-1.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",99,"$2,500 to $2,999","1,501",+/-464,1.5,+/-0.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",100,"$3,000 or more","1,767",+/-635,1.7,+/-0.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",101,Median (dollars),"1,141",+/-33,(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",101.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",102,Housing units without a mortgage,"98,801","+/-4,358","98,801",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",103,Less than $250,"20,952","+/-2,541",21.2,+/-2.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",104,$250 to $399,"35,433","+/-3,146",35.9,+/-2.9
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",105,$400 to $599,"31,960","+/-2,933",32.3,+/-2.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",106,$600 to $799,"7,054","+/-1,548",7.1,+/-1.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",107,$800 to $999,"2,313",+/-889,2.3,+/-0.9
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",108,"$1,000 or more","1,089",+/-468,1.1,+/-0.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",109,Median (dollars),371,+/-11,(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",109.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"100,619","+/-4,183","100,619",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",111,Less than 20.0 percent,"49,277","+/-3,721",49.0,+/-3.4
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",112,20.0 to 24.9 percent,"14,537","+/-2,081",14.4,+/-2.0
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",113,25.0 to 29.9 percent,"8,688","+/-1,699",8.6,+/-1.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",114,30.0 to 34.9 percent,"6,476","+/-1,609",6.4,+/-1.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",115,35.0 percent or more,"21,641","+/-2,739",21.5,+/-2.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",115.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",116,Not computed,559,+/-417,(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",116.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"96,089","+/-4,254","96,089",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",118,Less than 10.0 percent,"48,343","+/-3,298",50.3,+/-2.6
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",119,10.0 to 14.9 percent,"16,131","+/-1,754",16.8,+/-1.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",120,15.0 to 19.9 percent,"9,364","+/-1,682",9.7,+/-1.7
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",121,20.0 to 24.9 percent,"5,273","+/-1,310",5.5,+/-1.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",122,25.0 to 29.9 percent,"4,204","+/-1,209",4.4,+/-1.2
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",123,30.0 to 34.9 percent,"2,418",+/-884,2.5,+/-0.9
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",124,35.0 percent or more,"10,356","+/-1,706",10.8,+/-1.7
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",124.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",125,Not computed,"2,712","+/-1,178",(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",125.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",125.5,GROSS RENT,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",126,Occupied units paying rent,"67,632","+/-4,145","67,632",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",127,Less than $500,"9,739","+/-1,776",14.4,+/-2.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",128,$500 to $999,"39,925","+/-3,824",59.0,+/-3.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",129,"$1,000 to $1,499","13,662","+/-2,760",20.2,+/-3.9
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",130,"$1,500 to $1,999","3,469","+/-1,212",5.1,+/-1.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",131,"$2,000 to $2,499",290,+/-332,0.4,+/-0.5
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",132,"$2,500 to $2,999",333,+/-457,0.5,+/-0.7
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",133,"$3,000 or more",214,+/-211,0.3,+/-0.3
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",134,Median (dollars),781,+/-29,(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",134.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",135,No rent paid,"11,125","+/-1,891",(X),(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",135.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"65,060","+/-4,248","65,060",(X)
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",137,Less than 15.0 percent,"11,862","+/-1,989",18.2,+/-2.8
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",138,15.0 to 19.9 percent,"7,690","+/-2,033",11.8,+/-3.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",139,20.0 to 24.9 percent,"5,251","+/-1,437",8.1,+/-2.2
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",140,25.0 to 29.9 percent,"5,651","+/-1,379",8.7,+/-2.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",141,30.0 to 34.9 percent,"4,411","+/-1,426",6.8,+/-2.1
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",142,35.0 percent or more,"30,195","+/-3,531",46.4,+/-4.2
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",142.3,,,,,
+DP04,5001800US0103,"Congressional District 3 (118th Congress), Alabama",143,Not computed,"13,697","+/-2,204",(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",0.5,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",1,Total housing units,"326,876","+/-2,418","326,876",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",2,Occupied housing units,"271,053","+/-4,415",82.9,+/-1.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",3,Vacant housing units,"55,823","+/-4,070",17.1,+/-1.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",3.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",4,Homeowner vacancy rate,1.0,+/-0.5,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",5,Rental vacancy rate,6.2,+/-1.7,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",5.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",6,Total housing units,"326,876","+/-2,418","326,876",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",7,"1-unit, detached","235,301","+/-4,206",72.0,+/-1.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",8,"1-unit, attached","1,687",+/-661,0.5,+/-0.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",9,2 units,"7,374","+/-1,634",2.3,+/-0.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",10,3 or 4 units,"8,091","+/-1,695",2.5,+/-0.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",11,5 to 9 units,"9,145","+/-1,778",2.8,+/-0.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",12,10 to 19 units,"3,843","+/-1,074",1.2,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",13,20 or more units,"3,582",+/-862,1.1,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",14,Mobile home,"57,159","+/-3,348",17.5,+/-1.0
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",15,"Boat, RV, van, etc.",694,+/-419,0.2,+/-0.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",15.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",16,Total housing units,"326,876","+/-2,418","326,876",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",17,Built 2020 or later,"2,610",+/-982,0.8,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",18,Built 2010 to 2019,"31,422","+/-2,844",9.6,+/-0.9
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",19,Built 2000 to 2009,"44,653","+/-3,696",13.7,+/-1.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",20,Built 1990 to 1999,"55,311","+/-4,135",16.9,+/-1.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",21,Built 1980 to 1989,"44,470","+/-3,623",13.6,+/-1.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",22,Built 1970 to 1979,"52,005","+/-3,381",15.9,+/-1.0
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",23,Built 1960 to 1969,"36,702","+/-3,174",11.2,+/-1.0
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",24,Built 1950 to 1959,"28,199","+/-2,577",8.6,+/-0.8
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",25,Built 1940 to 1949,"14,447","+/-1,931",4.4,+/-0.6
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",26,Built 1939 or earlier,"17,057","+/-2,105",5.2,+/-0.6
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",26.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",26.5,ROOMS,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",27,Total housing units,"326,876","+/-2,418","326,876",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",28,1 room,"4,832","+/-1,126",1.5,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",29,2 rooms,"3,661","+/-1,088",1.1,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",30,3 rooms,"13,672","+/-1,976",4.2,+/-0.6
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",31,4 rooms,"48,152","+/-4,061",14.7,+/-1.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",32,5 rooms,"66,745","+/-4,364",20.4,+/-1.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",33,6 rooms,"73,209","+/-4,414",22.4,+/-1.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",34,7 rooms,"47,370","+/-3,824",14.5,+/-1.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",35,8 rooms,"31,315","+/-2,521",9.6,+/-0.8
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",36,9 rooms or more,"37,920","+/-3,106",11.6,+/-0.9
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",37,Median rooms,5.9,+/-0.2,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",37.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",37.5,BEDROOMS,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",38,Total housing units,"326,876","+/-2,418","326,876",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",39,No bedroom,"5,069","+/-1,126",1.6,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",40,1 bedroom,"15,285","+/-2,019",4.7,+/-0.6
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",41,2 bedrooms,"75,197","+/-4,143",23.0,+/-1.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",42,3 bedrooms,"172,003","+/-4,788",52.6,+/-1.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",43,4 bedrooms,"48,598","+/-3,754",14.9,+/-1.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",44,5 or more bedrooms,"10,724","+/-1,679",3.3,+/-0.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",44.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",44.5,HOUSING TENURE,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",45,Occupied housing units,"271,053","+/-4,415","271,053",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",46,Owner-occupied,"205,194","+/-4,402",75.7,+/-1.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",47,Renter-occupied,"65,859","+/-3,683",24.3,+/-1.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",47.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",48,Average household size of owner-occupied unit,2.65,+/-0.05,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",49,Average household size of renter-occupied unit,2.61,+/-0.12,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",49.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",50,Occupied housing units,"271,053","+/-4,415","271,053",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",51,Moved in 2019 or later,"56,377","+/-4,263",20.8,+/-1.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",52,Moved in 2015 to 2018,"57,766","+/-3,627",21.3,+/-1.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",53,Moved in 2010 to 2014,"36,477","+/-2,951",13.5,+/-1.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",54,Moved in 2000 to 2009,"48,003","+/-3,203",17.7,+/-1.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",55,Moved in 1990 to 1999,"33,174","+/-2,579",12.2,+/-1.0
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",56,Moved in 1989 and earlier,"39,256","+/-2,740",14.5,+/-1.0
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",56.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",57,Occupied housing units,"271,053","+/-4,415","271,053",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",58,No vehicles available,"11,770","+/-1,561",4.3,+/-0.6
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",59,1 vehicle available,"74,201","+/-4,228",27.4,+/-1.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",60,2 vehicles available,"103,540","+/-4,055",38.2,+/-1.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",61,3 or more vehicles available,"81,542","+/-4,091",30.1,+/-1.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",61.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",62,Occupied housing units,"271,053","+/-4,415","271,053",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",63,Utility gas,"60,487","+/-4,157",22.3,+/-1.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",64,"Bottled, tank, or LP gas","22,088","+/-2,181",8.1,+/-0.8
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",65,Electricity,"183,318","+/-4,563",67.6,+/-1.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",66,"Fuel oil, kerosene, etc.",567,+/-353,0.2,+/-0.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",67,Coal or coke,0,+/-216,0.0,+/-0.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",68,Wood,"2,855",+/-910,1.1,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",69,Solar energy,0,+/-216,0.0,+/-0.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",70,Other fuel,303,+/-204,0.1,+/-0.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",71,No fuel used,"1,435",+/-548,0.5,+/-0.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",71.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",72,Occupied housing units,"271,053","+/-4,415","271,053",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",73,Lacking complete plumbing facilities,"1,243",+/-683,0.5,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",74,Lacking complete kitchen facilities,"1,787",+/-661,0.7,+/-0.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",75,No telephone service available,"3,686",+/-937,1.4,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",75.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",76,Occupied housing units,"271,053","+/-4,415","271,053",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",77,1.00 or less,"266,394","+/-4,262",98.3,+/-0.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",78,1.01 to 1.50,"3,234",+/-949,1.2,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",79,1.51 or more,"1,425",+/-476,0.5,+/-0.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",79.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",79.5,VALUE,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",80,Owner-occupied units,"205,194","+/-4,402","205,194",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",81,"Less than $50,000","30,103","+/-3,150",14.7,+/-1.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",82,"$50,000 to $99,999","41,677","+/-3,505",20.3,+/-1.6
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",83,"$100,000 to $149,999","32,972","+/-2,764",16.1,+/-1.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",84,"$150,000 to $199,999","34,083","+/-2,763",16.6,+/-1.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",85,"$200,000 to $299,999","32,703","+/-2,826",15.9,+/-1.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",86,"$300,000 to $499,999","24,952","+/-2,819",12.2,+/-1.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",87,"$500,000 to $999,999","7,597","+/-1,395",3.7,+/-0.7
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",88,"$1,000,000 or more","1,107",+/-525,0.5,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",89,Median (dollars),"146,200","+/-5,725",(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",89.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",90,Owner-occupied units,"205,194","+/-4,402","205,194",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",91,Housing units with a mortgage,"92,241","+/-4,081",45.0,+/-1.7
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",92,Housing units without a mortgage,"112,953","+/-4,049",55.0,+/-1.7
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",92.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",93,Housing units with a mortgage,"92,241","+/-4,081","92,241",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",94,Less than $500,"3,561","+/-1,053",3.9,+/-1.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",95,$500 to $999,"35,129","+/-2,884",38.1,+/-3.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",96,"$1,000 to $1,499","31,365","+/-2,914",34.0,+/-2.7
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",97,"$1,500 to $1,999","12,594","+/-2,032",13.7,+/-2.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",98,"$2,000 to $2,499","6,823","+/-1,635",7.4,+/-1.7
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",99,"$2,500 to $2,999","1,909",+/-627,2.1,+/-0.7
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",100,"$3,000 or more",860,+/-483,0.9,+/-0.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",101,Median (dollars),"1,097",+/-35,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",101.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",102,Housing units without a mortgage,"112,953","+/-4,049","112,953",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",103,Less than $250,"26,374","+/-2,529",23.3,+/-2.0
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",104,$250 to $399,"43,111","+/-2,984",38.2,+/-2.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",105,$400 to $599,"30,258","+/-2,633",26.8,+/-2.1
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",106,$600 to $799,"8,752","+/-1,560",7.7,+/-1.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",107,$800 to $999,"2,881",+/-927,2.6,+/-0.8
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",108,"$1,000 or more","1,577",+/-870,1.4,+/-0.8
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",109,Median (dollars),355,+/-9,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",109.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"91,666","+/-4,092","91,666",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",111,Less than 20.0 percent,"54,192","+/-3,706",59.1,+/-3.0
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",112,20.0 to 24.9 percent,"10,989","+/-1,934",12.0,+/-2.0
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",113,25.0 to 29.9 percent,"6,606","+/-1,603",7.2,+/-1.7
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",114,30.0 to 34.9 percent,"5,038","+/-1,147",5.5,+/-1.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",115,35.0 percent or more,"14,841","+/-2,028",16.2,+/-2.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",115.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",116,Not computed,575,+/-366,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",116.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"110,863","+/-4,057","110,863",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",118,Less than 10.0 percent,"55,441","+/-3,621",50.0,+/-2.7
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",119,10.0 to 14.9 percent,"21,008","+/-2,141",18.9,+/-1.9
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",120,15.0 to 19.9 percent,"10,405","+/-1,682",9.4,+/-1.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",121,20.0 to 24.9 percent,"8,590","+/-1,776",7.7,+/-1.6
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",122,25.0 to 29.9 percent,"3,670",+/-920,3.3,+/-0.8
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",123,30.0 to 34.9 percent,"2,391",+/-873,2.2,+/-0.8
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",124,35.0 percent or more,"9,358","+/-1,499",8.4,+/-1.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",124.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",125,Not computed,"2,090",+/-915,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",125.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",125.5,GROSS RENT,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",126,Occupied units paying rent,"55,557","+/-3,224","55,557",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",127,Less than $500,"11,689","+/-1,499",21.0,+/-2.7
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",128,$500 to $999,"35,939","+/-2,903",64.7,+/-3.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",129,"$1,000 to $1,499","6,620","+/-1,422",11.9,+/-2.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",130,"$1,500 to $1,999","1,061",+/-700,1.9,+/-1.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",131,"$2,000 to $2,499",126,+/-138,0.2,+/-0.2
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",132,"$2,500 to $2,999",0,+/-216,0.0,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",133,"$3,000 or more",122,+/-146,0.2,+/-0.3
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",134,Median (dollars),705,+/-30,(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",134.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",135,No rent paid,"10,302","+/-1,506",(X),(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",135.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"53,786","+/-3,295","53,786",(X)
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",137,Less than 15.0 percent,"11,184","+/-2,084",20.8,+/-3.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",138,15.0 to 19.9 percent,"6,830","+/-1,332",12.7,+/-2.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",139,20.0 to 24.9 percent,"6,343","+/-1,335",11.8,+/-2.5
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",140,25.0 to 29.9 percent,"5,913","+/-1,365",11.0,+/-2.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",141,30.0 to 34.9 percent,"5,284","+/-1,360",9.8,+/-2.4
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",142,35.0 percent or more,"18,232","+/-1,840",33.9,+/-2.9
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",142.3,,,,,
+DP04,5001800US0104,"Congressional District 4 (118th Congress), Alabama",143,Not computed,"12,073","+/-1,856",(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",0.5,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",1,Total housing units,"318,479","+/-1,819","318,479",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",2,Occupied housing units,"294,256","+/-3,411",92.4,+/-0.9
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",3,Vacant housing units,"24,223","+/-3,005",7.6,+/-0.9
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",3.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",5,Rental vacancy rate,3.3,+/-1.3,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",5.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",6,Total housing units,"318,479","+/-1,819","318,479",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",7,"1-unit, detached","240,044","+/-4,782",75.4,+/-1.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",8,"1-unit, attached","8,627","+/-1,829",2.7,+/-0.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",9,2 units,"3,996","+/-1,428",1.3,+/-0.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",10,3 or 4 units,"9,224","+/-1,959",2.9,+/-0.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",11,5 to 9 units,"13,227","+/-2,384",4.2,+/-0.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",12,10 to 19 units,"10,296","+/-2,315",3.2,+/-0.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",13,20 or more units,"12,548","+/-2,647",3.9,+/-0.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",14,Mobile home,"20,111","+/-2,551",6.3,+/-0.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",15,"Boat, RV, van, etc.",406,+/-282,0.1,+/-0.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",15.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",16,Total housing units,"318,479","+/-1,819","318,479",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",17,Built 2020 or later,"2,402",+/-716,0.8,+/-0.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",18,Built 2010 to 2019,"47,538","+/-4,289",14.9,+/-1.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",19,Built 2000 to 2009,"62,730","+/-5,264",19.7,+/-1.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",20,Built 1990 to 1999,"45,363","+/-3,409",14.2,+/-1.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",21,Built 1980 to 1989,"42,137","+/-4,014",13.2,+/-1.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",22,Built 1970 to 1979,"42,180","+/-3,704",13.2,+/-1.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",23,Built 1960 to 1969,"40,653","+/-3,411",12.8,+/-1.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",24,Built 1950 to 1959,"17,785","+/-2,643",5.6,+/-0.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",25,Built 1940 to 1949,"7,201","+/-1,712",2.3,+/-0.5
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",26,Built 1939 or earlier,"10,490","+/-1,987",3.3,+/-0.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",26.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",26.5,ROOMS,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",27,Total housing units,"318,479","+/-1,819","318,479",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",28,1 room,"3,760","+/-1,070",1.2,+/-0.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",29,2 rooms,"4,239","+/-1,349",1.3,+/-0.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",30,3 rooms,"17,124","+/-2,569",5.4,+/-0.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",31,4 rooms,"35,383","+/-3,631",11.1,+/-1.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",32,5 rooms,"58,049","+/-4,462",18.2,+/-1.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",33,6 rooms,"57,517","+/-3,606",18.1,+/-1.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",34,7 rooms,"49,027","+/-3,941",15.4,+/-1.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",35,8 rooms,"40,423","+/-3,985",12.7,+/-1.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",36,9 rooms or more,"52,957","+/-3,666",16.6,+/-1.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",37,Median rooms,6.2,+/-0.1,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",37.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",37.5,BEDROOMS,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",38,Total housing units,"318,479","+/-1,819","318,479",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",39,No bedroom,"3,932","+/-1,114",1.2,+/-0.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",40,1 bedroom,"19,607","+/-2,510",6.2,+/-0.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",41,2 bedrooms,"60,566","+/-4,196",19.0,+/-1.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",42,3 bedrooms,"149,034","+/-5,246",46.8,+/-1.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",43,4 bedrooms,"68,955","+/-4,517",21.7,+/-1.5
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",44,5 or more bedrooms,"16,385","+/-2,370",5.1,+/-0.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",44.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",44.5,HOUSING TENURE,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",45,Occupied housing units,"294,256","+/-3,411","294,256",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",46,Owner-occupied,"210,890","+/-4,315",71.7,+/-1.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",47,Renter-occupied,"83,366","+/-4,012",28.3,+/-1.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",47.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",48,Average household size of owner-occupied unit,2.55,+/-0.04,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",49,Average household size of renter-occupied unit,2.08,+/-0.08,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",49.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",50,Occupied housing units,"294,256","+/-3,411","294,256",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",51,Moved in 2019 or later,"72,696","+/-5,205",24.7,+/-1.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",52,Moved in 2015 to 2018,"67,840","+/-5,258",23.1,+/-1.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",53,Moved in 2010 to 2014,"40,094","+/-3,802",13.6,+/-1.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",54,Moved in 2000 to 2009,"55,165","+/-4,268",18.7,+/-1.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",55,Moved in 1990 to 1999,"29,067","+/-2,789",9.9,+/-1.0
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",56,Moved in 1989 and earlier,"29,394","+/-2,561",10.0,+/-0.9
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",56.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",57,Occupied housing units,"294,256","+/-3,411","294,256",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",58,No vehicles available,"11,458","+/-1,949",3.9,+/-0.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",59,1 vehicle available,"87,141","+/-4,467",29.6,+/-1.5
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",60,2 vehicles available,"107,485","+/-5,074",36.5,+/-1.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",61,3 or more vehicles available,"88,172","+/-4,989",30.0,+/-1.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",61.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",62,Occupied housing units,"294,256","+/-3,411","294,256",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",63,Utility gas,"64,855","+/-4,503",22.0,+/-1.5
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",64,"Bottled, tank, or LP gas","18,072","+/-2,438",6.1,+/-0.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",65,Electricity,"206,851","+/-5,894",70.3,+/-1.9
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",66,"Fuel oil, kerosene, etc.",443,+/-488,0.2,+/-0.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",67,Coal or coke,0,+/-216,0.0,+/-0.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",68,Wood,"1,845",+/-786,0.6,+/-0.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",69,Solar energy,49,+/-83,0.0,+/-0.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",70,Other fuel,131,+/-142,0.0,+/-0.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",71,No fuel used,"2,010",+/-943,0.7,+/-0.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",71.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",72,Occupied housing units,"294,256","+/-3,411","294,256",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",73,Lacking complete plumbing facilities,782,+/-504,0.3,+/-0.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",74,Lacking complete kitchen facilities,"1,831",+/-842,0.6,+/-0.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",75,No telephone service available,"2,501",+/-921,0.8,+/-0.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",75.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",76,Occupied housing units,"294,256","+/-3,411","294,256",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",77,1.00 or less,"290,828","+/-3,561",98.8,+/-0.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",78,1.01 to 1.50,"2,699","+/-1,182",0.9,+/-0.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",79,1.51 or more,729,+/-500,0.2,+/-0.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",79.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",79.5,VALUE,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",80,Owner-occupied units,"210,890","+/-4,315","210,890",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",81,"Less than $50,000","12,167","+/-1,927",5.8,+/-0.9
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",82,"$50,000 to $99,999","22,603","+/-2,625",10.7,+/-1.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",83,"$100,000 to $149,999","24,117","+/-2,742",11.4,+/-1.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",84,"$150,000 to $199,999","33,300","+/-3,157",15.8,+/-1.5
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",85,"$200,000 to $299,999","52,790","+/-3,786",25.0,+/-1.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",86,"$300,000 to $499,999","46,119","+/-3,771",21.9,+/-1.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",87,"$500,000 to $999,999","18,022","+/-2,535",8.5,+/-1.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",88,"$1,000,000 or more","1,772",+/-885,0.8,+/-0.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",89,Median (dollars),"222,500","+/-6,295",(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",89.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",90,Owner-occupied units,"210,890","+/-4,315","210,890",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",91,Housing units with a mortgage,"122,353","+/-4,267",58.0,+/-1.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",92,Housing units without a mortgage,"88,537","+/-3,906",42.0,+/-1.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",92.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",93,Housing units with a mortgage,"122,353","+/-4,267","122,353",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",94,Less than $500,"2,182",+/-632,1.8,+/-0.5
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",95,$500 to $999,"31,949","+/-2,731",26.1,+/-2.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",96,"$1,000 to $1,499","46,859","+/-3,427",38.3,+/-2.5
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",97,"$1,500 to $1,999","21,955","+/-2,437",17.9,+/-1.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",98,"$2,000 to $2,499","9,483","+/-1,638",7.8,+/-1.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",99,"$2,500 to $2,999","5,784","+/-1,377",4.7,+/-1.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",100,"$3,000 or more","4,141","+/-1,201",3.4,+/-1.0
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",101,Median (dollars),"1,257",+/-37,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",101.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",102,Housing units without a mortgage,"88,537","+/-3,906","88,537",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",103,Less than $250,"13,801","+/-1,962",15.6,+/-2.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",104,$250 to $399,"29,640","+/-2,644",33.5,+/-3.0
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",105,$400 to $599,"28,108","+/-3,515",31.7,+/-3.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",106,$600 to $799,"12,424","+/-2,651",14.0,+/-2.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",107,$800 to $999,"2,937","+/-1,241",3.3,+/-1.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",108,"$1,000 or more","1,627",+/-738,1.8,+/-0.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",109,Median (dollars),405,+/-16,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",109.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"121,982","+/-4,275","121,982",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",111,Less than 20.0 percent,"79,310","+/-4,159",65.0,+/-2.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",112,20.0 to 24.9 percent,"13,348","+/-1,874",10.9,+/-1.5
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",113,25.0 to 29.9 percent,"8,976","+/-1,489",7.4,+/-1.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",114,30.0 to 34.9 percent,"5,194","+/-1,274",4.3,+/-1.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",115,35.0 percent or more,"15,154","+/-2,136",12.4,+/-1.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",115.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",116,Not computed,371,+/-306,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",116.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"87,799","+/-3,860","87,799",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",118,Less than 10.0 percent,"51,440","+/-3,766",58.6,+/-3.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",119,10.0 to 14.9 percent,"14,789","+/-2,117",16.8,+/-2.3
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",120,15.0 to 19.9 percent,"7,970","+/-1,688",9.1,+/-1.9
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",121,20.0 to 24.9 percent,"5,118","+/-1,628",5.8,+/-1.9
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",122,25.0 to 29.9 percent,"1,641",+/-793,1.9,+/-0.9
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",123,30.0 to 34.9 percent,"1,716",+/-918,2.0,+/-1.0
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",124,35.0 percent or more,"5,125","+/-1,233",5.8,+/-1.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",124.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",125,Not computed,738,+/-495,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",125.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",125.5,GROSS RENT,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",126,Occupied units paying rent,"74,941","+/-4,498","74,941",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",127,Less than $500,"8,329","+/-1,807",11.1,+/-2.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",128,$500 to $999,"37,026","+/-3,686",49.4,+/-4.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",129,"$1,000 to $1,499","21,055","+/-3,244",28.1,+/-3.7
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",130,"$1,500 to $1,999","6,569","+/-1,955",8.8,+/-2.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",131,"$2,000 to $2,499","1,559",+/-801,2.1,+/-1.0
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",132,"$2,500 to $2,999",109,+/-145,0.1,+/-0.2
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",133,"$3,000 or more",294,+/-293,0.4,+/-0.4
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",134,Median (dollars),889,+/-39,(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",134.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",135,No rent paid,"8,425","+/-2,073",(X),(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",135.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"73,207","+/-4,384","73,207",(X)
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",137,Less than 15.0 percent,"11,370","+/-2,184",15.5,+/-2.8
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",138,15.0 to 19.9 percent,"11,729","+/-2,147",16.0,+/-2.9
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",139,20.0 to 24.9 percent,"9,097","+/-1,976",12.4,+/-2.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",140,25.0 to 29.9 percent,"8,759","+/-2,062",12.0,+/-2.6
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",141,30.0 to 34.9 percent,"6,323","+/-1,556",8.6,+/-2.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",142,35.0 percent or more,"25,929","+/-3,465",35.4,+/-4.1
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",142.3,,,,,
+DP04,5001800US0105,"Congressional District 5 (118th Congress), Alabama",143,Not computed,"10,159","+/-2,210",(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",0.5,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",1,Total housing units,"306,526","+/-3,924","306,526",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",2,Occupied housing units,"279,148","+/-4,653",91.1,+/-0.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",3,Vacant housing units,"27,378","+/-2,674",8.9,+/-0.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",3.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",4,Homeowner vacancy rate,0.8,+/-0.4,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",5,Rental vacancy rate,5.7,+/-1.6,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",5.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",6,Total housing units,"306,526","+/-3,924","306,526",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",7,"1-unit, detached","220,659","+/-3,881",72.0,+/-1.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",8,"1-unit, attached","10,243","+/-1,801",3.3,+/-0.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",9,2 units,"2,328","+/-1,014",0.8,+/-0.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",10,3 or 4 units,"6,684","+/-1,548",2.2,+/-0.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",11,5 to 9 units,"13,704","+/-2,115",4.5,+/-0.7
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",12,10 to 19 units,"12,680","+/-1,834",4.1,+/-0.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",13,20 or more units,"11,360","+/-1,350",3.7,+/-0.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",14,Mobile home,"28,571","+/-2,992",9.3,+/-1.0
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",15,"Boat, RV, van, etc.",297,+/-300,0.1,+/-0.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",15.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",16,Total housing units,"306,526","+/-3,924","306,526",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",17,Built 2020 or later,"1,786",+/-709,0.6,+/-0.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",18,Built 2010 to 2019,"31,238","+/-3,114",10.2,+/-1.0
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",19,Built 2000 to 2009,"55,307","+/-4,121",18.0,+/-1.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",20,Built 1990 to 1999,"53,209","+/-4,228",17.4,+/-1.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",21,Built 1980 to 1989,"44,987","+/-3,231",14.7,+/-1.0
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",22,Built 1970 to 1979,"49,228","+/-3,999",16.1,+/-1.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",23,Built 1960 to 1969,"27,328","+/-2,474",8.9,+/-0.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",24,Built 1950 to 1959,"20,330","+/-2,522",6.6,+/-0.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",25,Built 1940 to 1949,"10,603","+/-1,711",3.5,+/-0.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",26,Built 1939 or earlier,"12,510","+/-1,762",4.1,+/-0.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",26.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",26.5,ROOMS,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",27,Total housing units,"306,526","+/-3,924","306,526",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",28,1 room,"2,425",+/-952,0.8,+/-0.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",29,2 rooms,"3,648","+/-1,019",1.2,+/-0.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",30,3 rooms,"15,356","+/-2,262",5.0,+/-0.7
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",31,4 rooms,"32,574","+/-2,826",10.6,+/-0.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",32,5 rooms,"59,884","+/-4,228",19.5,+/-1.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",33,6 rooms,"58,604","+/-3,784",19.1,+/-1.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",34,7 rooms,"44,747","+/-3,266",14.6,+/-1.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",35,8 rooms,"33,090","+/-3,354",10.8,+/-1.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",36,9 rooms or more,"56,198","+/-3,437",18.3,+/-1.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",37,Median rooms,6.2,+/-0.1,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",37.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",37.5,BEDROOMS,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",38,Total housing units,"306,526","+/-3,924","306,526",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",39,No bedroom,"3,001","+/-1,075",1.0,+/-0.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",40,1 bedroom,"16,358","+/-1,877",5.3,+/-0.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",41,2 bedrooms,"60,788","+/-4,018",19.8,+/-1.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",42,3 bedrooms,"143,545","+/-4,483",46.8,+/-1.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",43,4 bedrooms,"61,816","+/-4,253",20.2,+/-1.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",44,5 or more bedrooms,"21,018","+/-2,546",6.9,+/-0.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",44.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",44.5,HOUSING TENURE,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",45,Occupied housing units,"279,148","+/-4,653","279,148",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",46,Owner-occupied,"209,484","+/-3,983",75.0,+/-1.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",47,Renter-occupied,"69,664","+/-3,822",25.0,+/-1.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",47.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",48,Average household size of owner-occupied unit,2.63,+/-0.04,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",49,Average household size of renter-occupied unit,2.14,+/-0.09,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",49.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",50,Occupied housing units,"279,148","+/-4,653","279,148",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",51,Moved in 2019 or later,"74,049","+/-4,514",26.5,+/-1.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",52,Moved in 2015 to 2018,"63,080","+/-4,034",22.6,+/-1.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",53,Moved in 2010 to 2014,"34,218","+/-3,287",12.3,+/-1.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",54,Moved in 2000 to 2009,"51,957","+/-3,283",18.6,+/-1.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",55,Moved in 1990 to 1999,"31,327","+/-3,258",11.2,+/-1.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",56,Moved in 1989 and earlier,"24,517","+/-2,259",8.8,+/-0.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",56.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",57,Occupied housing units,"279,148","+/-4,653","279,148",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",58,No vehicles available,"8,766","+/-1,651",3.1,+/-0.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",59,1 vehicle available,"80,996","+/-5,000",29.0,+/-1.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",60,2 vehicles available,"111,060","+/-5,236",39.8,+/-1.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",61,3 or more vehicles available,"78,326","+/-3,615",28.1,+/-1.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",61.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",62,Occupied housing units,"279,148","+/-4,653","279,148",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",63,Utility gas,"123,152","+/-5,080",44.1,+/-1.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",64,"Bottled, tank, or LP gas","9,155","+/-1,721",3.3,+/-0.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",65,Electricity,"144,403","+/-5,260",51.7,+/-1.7
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",66,"Fuel oil, kerosene, etc.",113,+/-158,0.0,+/-0.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",67,Coal or coke,0,+/-216,0.0,+/-0.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",68,Wood,859,+/-447,0.3,+/-0.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",69,Solar energy,0,+/-216,0.0,+/-0.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",70,Other fuel,287,+/-336,0.1,+/-0.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",71,No fuel used,"1,179",+/-590,0.4,+/-0.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",71.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",72,Occupied housing units,"279,148","+/-4,653","279,148",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",73,Lacking complete plumbing facilities,"1,206",+/-697,0.4,+/-0.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",74,Lacking complete kitchen facilities,"1,783",+/-700,0.6,+/-0.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",75,No telephone service available,"3,122","+/-1,097",1.1,+/-0.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",75.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",76,Occupied housing units,"279,148","+/-4,653","279,148",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",77,1.00 or less,"275,465","+/-4,557",98.7,+/-0.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",78,1.01 to 1.50,"3,017","+/-1,015",1.1,+/-0.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",79,1.51 or more,666,+/-366,0.2,+/-0.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",79.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",79.5,VALUE,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",80,Owner-occupied units,"209,484","+/-3,983","209,484",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",81,"Less than $50,000","12,051","+/-1,710",5.8,+/-0.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",82,"$50,000 to $99,999","19,340","+/-2,454",9.2,+/-1.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",83,"$100,000 to $149,999","24,878","+/-2,947",11.9,+/-1.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",84,"$150,000 to $199,999","29,665","+/-2,765",14.2,+/-1.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",85,"$200,000 to $299,999","47,457","+/-3,198",22.7,+/-1.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",86,"$300,000 to $499,999","51,368","+/-3,387",24.5,+/-1.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",87,"$500,000 to $999,999","20,346","+/-2,207",9.7,+/-1.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",88,"$1,000,000 or more","4,379","+/-1,068",2.1,+/-0.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",89,Median (dollars),"237,500","+/-7,122",(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",89.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",90,Owner-occupied units,"209,484","+/-3,983","209,484",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",91,Housing units with a mortgage,"128,876","+/-4,617",61.5,+/-1.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",92,Housing units without a mortgage,"80,608","+/-4,418",38.5,+/-1.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",92.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",93,Housing units with a mortgage,"128,876","+/-4,617","128,876",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",94,Less than $500,"2,169",+/-672,1.7,+/-0.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",95,$500 to $999,"27,394","+/-2,734",21.3,+/-1.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",96,"$1,000 to $1,499","39,743","+/-3,864",30.8,+/-2.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",97,"$1,500 to $1,999","31,323","+/-3,024",24.3,+/-2.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",98,"$2,000 to $2,499","14,674","+/-1,931",11.4,+/-1.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",99,"$2,500 to $2,999","5,532","+/-1,203",4.3,+/-0.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",100,"$3,000 or more","8,041","+/-1,763",6.2,+/-1.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",101,Median (dollars),"1,434",+/-38,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",101.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",102,Housing units without a mortgage,"80,608","+/-4,418","80,608",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",103,Less than $250,"11,589","+/-1,618",14.4,+/-1.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",104,$250 to $399,"22,402","+/-2,484",27.8,+/-2.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",105,$400 to $599,"25,904","+/-2,703",32.1,+/-2.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",106,$600 to $799,"11,158","+/-1,785",13.8,+/-2.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",107,$800 to $999,"4,446","+/-1,152",5.5,+/-1.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",108,"$1,000 or more","5,109",+/-978,6.3,+/-1.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",109,Median (dollars),448,+/-17,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",109.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"128,050","+/-4,789","128,050",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",111,Less than 20.0 percent,"70,311","+/-4,190",54.9,+/-2.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",112,20.0 to 24.9 percent,"19,158","+/-2,181",15.0,+/-1.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",113,25.0 to 29.9 percent,"11,705","+/-1,916",9.1,+/-1.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",114,30.0 to 34.9 percent,"5,682","+/-1,182",4.4,+/-0.9
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",115,35.0 percent or more,"21,194","+/-2,586",16.6,+/-1.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",115.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",116,Not computed,826,+/-734,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",116.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"79,227","+/-4,456","79,227",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",118,Less than 10.0 percent,"45,129","+/-3,603",57.0,+/-3.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",119,10.0 to 14.9 percent,"15,063","+/-1,909",19.0,+/-2.3
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",120,15.0 to 19.9 percent,"6,532","+/-1,134",8.2,+/-1.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",121,20.0 to 24.9 percent,"3,697",+/-938,4.7,+/-1.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",122,25.0 to 29.9 percent,"1,602",+/-641,2.0,+/-0.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",123,30.0 to 34.9 percent,775,+/-383,1.0,+/-0.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",124,35.0 percent or more,"6,429","+/-1,436",8.1,+/-1.7
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",124.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",125,Not computed,"1,381",+/-571,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",125.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",125.5,GROSS RENT,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",126,Occupied units paying rent,"64,990","+/-3,628","64,990",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",127,Less than $500,"4,643","+/-1,345",7.1,+/-2.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",128,$500 to $999,"22,612","+/-2,756",34.8,+/-3.7
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",129,"$1,000 to $1,499","25,972","+/-2,741",40.0,+/-3.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",130,"$1,500 to $1,999","9,016","+/-1,630",13.9,+/-2.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",131,"$2,000 to $2,499","2,127",+/-987,3.3,+/-1.5
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",132,"$2,500 to $2,999",181,+/-156,0.3,+/-0.2
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",133,"$3,000 or more",439,+/-368,0.7,+/-0.6
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",134,Median (dollars),"1,083",+/-32,(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",134.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",135,No rent paid,"4,674","+/-1,615",(X),(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",135.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"64,229","+/-3,728","64,229",(X)
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",137,Less than 15.0 percent,"8,723","+/-1,818",13.6,+/-2.7
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",138,15.0 to 19.9 percent,"7,416","+/-1,346",11.5,+/-2.0
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",139,20.0 to 24.9 percent,"7,672","+/-1,957",11.9,+/-3.0
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",140,25.0 to 29.9 percent,"8,761","+/-1,853",13.6,+/-2.8
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",141,30.0 to 34.9 percent,"6,856","+/-1,566",10.7,+/-2.4
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",142,35.0 percent or more,"24,801","+/-3,141",38.6,+/-4.1
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",142.3,,,,,
+DP04,5001800US0106,"Congressional District 6 (118th Congress), Alabama",143,Not computed,"5,435","+/-1,691",(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",0.5,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",1,Total housing units,"344,719","+/-4,203","344,719",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",2,Occupied housing units,"281,678","+/-5,360",81.7,+/-1.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",3,Vacant housing units,"63,041","+/-4,005",18.3,+/-1.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",3.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",4,Homeowner vacancy rate,0.8,+/-0.4,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",5,Rental vacancy rate,4.6,+/-1.0,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",5.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",6,Total housing units,"344,719","+/-4,203","344,719",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",7,"1-unit, detached","224,742","+/-6,329",65.2,+/-1.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",8,"1-unit, attached","5,060","+/-1,347",1.5,+/-0.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",9,2 units,"7,886","+/-1,521",2.3,+/-0.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",10,3 or 4 units,"14,878","+/-2,410",4.3,+/-0.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",11,5 to 9 units,"17,355","+/-2,469",5.0,+/-0.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",12,10 to 19 units,"15,950","+/-2,531",4.6,+/-0.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",13,20 or more units,"24,475","+/-2,546",7.1,+/-0.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",14,Mobile home,"34,226","+/-2,811",9.9,+/-0.8
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",15,"Boat, RV, van, etc.",147,+/-152,0.0,+/-0.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",15.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",16,Total housing units,"344,719","+/-4,203","344,719",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",17,Built 2020 or later,"1,479",+/-627,0.4,+/-0.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",18,Built 2010 to 2019,"32,552","+/-3,763",9.4,+/-1.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",19,Built 2000 to 2009,"38,737","+/-3,420",11.2,+/-1.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",20,Built 1990 to 1999,"36,309","+/-3,335",10.5,+/-1.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",21,Built 1980 to 1989,"41,518","+/-3,568",12.0,+/-1.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",22,Built 1970 to 1979,"56,506","+/-4,155",16.4,+/-1.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",23,Built 1960 to 1969,"43,154","+/-3,497",12.5,+/-1.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",24,Built 1950 to 1959,"45,101","+/-3,637",13.1,+/-1.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",25,Built 1940 to 1949,"20,652","+/-2,665",6.0,+/-0.8
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",26,Built 1939 or earlier,"28,711","+/-2,693",8.3,+/-0.8
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",26.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",26.5,ROOMS,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",27,Total housing units,"344,719","+/-4,203","344,719",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",28,1 room,"5,084","+/-1,492",1.5,+/-0.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",29,2 rooms,"7,368","+/-1,675",2.1,+/-0.5
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",30,3 rooms,"22,419","+/-2,806",6.5,+/-0.8
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",31,4 rooms,"56,466","+/-4,118",16.4,+/-1.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",32,5 rooms,"83,046","+/-4,465",24.1,+/-1.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",33,6 rooms,"70,227","+/-4,060",20.4,+/-1.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",34,7 rooms,"42,714","+/-3,384",12.4,+/-1.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",35,8 rooms,"25,894","+/-2,464",7.5,+/-0.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",36,9 rooms or more,"31,501","+/-2,900",9.1,+/-0.8
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",37,Median rooms,5.5,+/-0.1,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",37.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",37.5,BEDROOMS,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",38,Total housing units,"344,719","+/-4,203","344,719",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",39,No bedroom,"5,665","+/-1,548",1.6,+/-0.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",40,1 bedroom,"29,700","+/-3,069",8.6,+/-0.9
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",41,2 bedrooms,"86,431","+/-5,701",25.1,+/-1.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",42,3 bedrooms,"166,389","+/-5,739",48.3,+/-1.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",43,4 bedrooms,"46,434","+/-4,292",13.5,+/-1.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",44,5 or more bedrooms,"10,100","+/-1,731",2.9,+/-0.5
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",44.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",44.5,HOUSING TENURE,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",45,Occupied housing units,"281,678","+/-5,360","281,678",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",46,Owner-occupied,"170,937","+/-5,301",60.7,+/-1.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",47,Renter-occupied,"110,741","+/-4,382",39.3,+/-1.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",47.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",48,Average household size of owner-occupied unit,2.54,+/-0.06,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",49,Average household size of renter-occupied unit,2.26,+/-0.09,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",49.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",50,Occupied housing units,"281,678","+/-5,360","281,678",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",51,Moved in 2019 or later,"76,230","+/-4,078",27.1,+/-1.5
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",52,Moved in 2015 to 2018,"53,877","+/-4,372",19.1,+/-1.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",53,Moved in 2010 to 2014,"32,067","+/-3,399",11.4,+/-1.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",54,Moved in 2000 to 2009,"46,893","+/-3,998",16.6,+/-1.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",55,Moved in 1990 to 1999,"30,846","+/-2,523",11.0,+/-0.9
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",56,Moved in 1989 and earlier,"41,765","+/-3,296",14.8,+/-1.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",56.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",57,Occupied housing units,"281,678","+/-5,360","281,678",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",58,No vehicles available,"20,154","+/-2,194",7.2,+/-0.8
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",59,1 vehicle available,"108,372","+/-4,998",38.5,+/-1.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",60,2 vehicles available,"88,332","+/-5,437",31.4,+/-1.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",61,3 or more vehicles available,"64,820","+/-4,374",23.0,+/-1.5
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",61.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",62,Occupied housing units,"281,678","+/-5,360","281,678",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",63,Utility gas,"99,233","+/-4,675",35.2,+/-1.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",64,"Bottled, tank, or LP gas","14,261","+/-2,058",5.1,+/-0.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",65,Electricity,"163,808","+/-6,108",58.2,+/-1.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",66,"Fuel oil, kerosene, etc.",206,+/-200,0.1,+/-0.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",67,Coal or coke,0,+/-216,0.0,+/-0.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",68,Wood,"1,880",+/-837,0.7,+/-0.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",69,Solar energy,0,+/-216,0.0,+/-0.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",70,Other fuel,425,+/-299,0.2,+/-0.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",71,No fuel used,"1,865",+/-803,0.7,+/-0.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",71.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",72,Occupied housing units,"281,678","+/-5,360","281,678",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",73,Lacking complete plumbing facilities,"1,155",+/-592,0.4,+/-0.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",74,Lacking complete kitchen facilities,"2,016",+/-643,0.7,+/-0.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",75,No telephone service available,"3,275","+/-1,043",1.2,+/-0.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",75.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",76,Occupied housing units,"281,678","+/-5,360","281,678",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",77,1.00 or less,"275,848","+/-5,448",97.9,+/-0.5
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",78,1.01 to 1.50,"3,659","+/-1,218",1.3,+/-0.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",79,1.51 or more,"2,171",+/-925,0.8,+/-0.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",79.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",79.5,VALUE,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",80,Owner-occupied units,"170,937","+/-5,301","170,937",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",81,"Less than $50,000","27,250","+/-2,031",15.9,+/-1.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",82,"$50,000 to $99,999","38,713","+/-2,892",22.6,+/-1.5
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",83,"$100,000 to $149,999","27,702","+/-2,671",16.2,+/-1.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",84,"$150,000 to $199,999","25,659","+/-2,849",15.0,+/-1.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",85,"$200,000 to $299,999","27,768","+/-2,915",16.2,+/-1.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",86,"$300,000 to $499,999","17,097","+/-2,116",10.0,+/-1.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",87,"$500,000 to $999,999","5,993","+/-1,211",3.5,+/-0.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",88,"$1,000,000 or more",755,+/-451,0.4,+/-0.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",89,Median (dollars),"130,500","+/-7,453",(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",89.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",90,Owner-occupied units,"170,937","+/-5,301","170,937",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",91,Housing units with a mortgage,"83,406","+/-5,319",48.8,+/-2.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",92,Housing units without a mortgage,"87,531","+/-4,050",51.2,+/-2.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",92.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",93,Housing units with a mortgage,"83,406","+/-5,319","83,406",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",94,Less than $500,"2,249","+/-1,065",2.7,+/-1.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",95,$500 to $999,"26,935","+/-2,872",32.3,+/-2.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",96,"$1,000 to $1,499","32,189","+/-3,521",38.6,+/-3.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",97,"$1,500 to $1,999","11,343","+/-2,059",13.6,+/-2.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",98,"$2,000 to $2,499","6,721","+/-1,703",8.1,+/-2.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",99,"$2,500 to $2,999","2,454",+/-828,2.9,+/-1.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",100,"$3,000 or more","1,515",+/-612,1.8,+/-0.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",101,Median (dollars),"1,180",+/-33,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",101.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",102,Housing units without a mortgage,"87,531","+/-4,050","87,531",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",103,Less than $250,"14,496","+/-1,392",16.6,+/-1.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",104,$250 to $399,"35,470","+/-2,595",40.5,+/-2.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",105,$400 to $599,"25,590","+/-2,448",29.2,+/-2.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",106,$600 to $799,"8,978","+/-1,744",10.3,+/-1.8
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",107,$800 to $999,"1,788",+/-614,2.0,+/-0.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",108,"$1,000 or more","1,209",+/-529,1.4,+/-0.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",109,Median (dollars),373,+/-9,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",109.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"82,976","+/-5,334","82,976",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",111,Less than 20.0 percent,"40,230","+/-3,517",48.5,+/-3.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",112,20.0 to 24.9 percent,"10,623","+/-1,835",12.8,+/-2.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",113,25.0 to 29.9 percent,"7,481","+/-2,041",9.0,+/-2.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",114,30.0 to 34.9 percent,"5,246","+/-1,255",6.3,+/-1.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",115,35.0 percent or more,"19,396","+/-2,650",23.4,+/-2.7
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",115.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",116,Not computed,430,+/-234,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",116.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"85,369","+/-3,873","85,369",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",118,Less than 10.0 percent,"38,858","+/-2,845",45.5,+/-2.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",119,10.0 to 14.9 percent,"14,718","+/-1,785",17.2,+/-2.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",120,15.0 to 19.9 percent,"10,187","+/-1,725",11.9,+/-1.9
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",121,20.0 to 24.9 percent,"5,769","+/-1,220",6.8,+/-1.5
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",122,25.0 to 29.9 percent,"4,132",+/-954,4.8,+/-1.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",123,30.0 to 34.9 percent,"2,483",+/-992,2.9,+/-1.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",124,35.0 percent or more,"9,222","+/-1,721",10.8,+/-1.9
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",124.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",125,Not computed,"2,162",+/-773,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",125.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",125.5,GROSS RENT,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",126,Occupied units paying rent,"101,840","+/-4,145","101,840",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",127,Less than $500,"16,920","+/-2,142",16.6,+/-2.1
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",128,$500 to $999,"53,669","+/-3,457",52.7,+/-2.9
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",129,"$1,000 to $1,499","23,311","+/-3,105",22.9,+/-2.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",130,"$1,500 to $1,999","6,467","+/-1,481",6.4,+/-1.5
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",131,"$2,000 to $2,499",829,+/-503,0.8,+/-0.5
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",132,"$2,500 to $2,999",170,+/-211,0.2,+/-0.2
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",133,"$3,000 or more",474,+/-368,0.5,+/-0.4
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",134,Median (dollars),856,+/-25,(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",134.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",135,No rent paid,"8,901","+/-1,473",(X),(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",135.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"98,380","+/-4,153","98,380",(X)
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",137,Less than 15.0 percent,"10,972","+/-1,964",11.2,+/-2.0
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",138,15.0 to 19.9 percent,"11,550","+/-2,232",11.7,+/-2.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",139,20.0 to 24.9 percent,"10,283","+/-2,327",10.5,+/-2.3
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",140,25.0 to 29.9 percent,"8,622","+/-1,576",8.8,+/-1.6
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",141,30.0 to 34.9 percent,"9,195","+/-1,857",9.3,+/-1.9
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",142,35.0 percent or more,"47,758","+/-3,711",48.5,+/-2.9
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",142.3,,,,,
+DP04,5001800US0107,"Congressional District 7 (118th Congress), Alabama",143,Not computed,"12,361","+/-1,752",(X),(X)

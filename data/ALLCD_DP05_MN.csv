@@ -1,0 +1,857 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",0.5,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",0.8,SEX AND AGE,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",1,Total population,"714,441","+/-1,665","714,441",(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",2,Male,"360,115","+/-2,195",50.4,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",3,Female,"354,326","+/-1,981",49.6,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",4,Sex ratio (males per 100 females),101.6,+/-1.1,(X),(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",4.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",5,Under 5 years,"40,189","+/-1,051",5.6,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",6,5 to 9 years,"45,068","+/-2,082",6.3,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",7,10 to 14 years,"48,327","+/-2,160",6.8,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",8,15 to 19 years,"49,218","+/-1,792",6.9,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",9,20 to 24 years,"51,800","+/-2,405",7.3,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",10,25 to 34 years,"86,103","+/-2,463",12.1,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",11,35 to 44 years,"90,962","+/-2,086",12.7,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",12,45 to 54 years,"78,990","+/-2,008",11.1,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",13,55 to 59 years,"43,767","+/-2,395",6.1,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",14,60 to 64 years,"48,945","+/-2,167",6.9,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",15,65 to 74 years,"75,443","+/-1,137",10.6,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",16,75 to 84 years,"38,614","+/-1,479",5.4,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",17,85 years and over,"17,015","+/-1,466",2.4,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",17.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",18,Median age (years),38.9,+/-0.3,(X),(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",18.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",19,Under 18 years,"161,653","+/-1,572",22.6,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",20,16 years and over,"571,906","+/-1,914",80.0,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",21,18 years and over,"552,788","+/-1,591",77.4,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",22,21 years and over,"522,772","+/-2,456",73.2,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",23,62 years and over,"161,342","+/-2,280",22.6,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",24,65 years and over,"131,072","+/-1,378",18.3,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",24.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",25,18 years and over,"552,788","+/-1,591","552,788",(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",26,Male,"275,674","+/-1,666",49.9,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",27,Female,"277,114","+/-1,416",50.1,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",28,Sex ratio (males per 100 females),99.5,+/-1.0,(X),(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",28.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",29,65 years and over,"131,072","+/-1,378","131,072",(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",30,Male,"60,738",+/-898,46.3,+/-0.4
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",31,Female,"70,334",+/-877,53.7,+/-0.4
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",32,Sex ratio (males per 100 females),86.4,+/-1.5,(X),(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",32.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",32.5,RACE,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",33,Total population,"714,441","+/-1,665","714,441",(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",34,One race,"669,181","+/-3,709",93.7,+/-0.5
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",35,Two or more races,"45,260","+/-3,867",6.3,+/-0.5
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",35.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",36,One race,"669,181","+/-3,709",93.7,+/-0.5
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",37,White,"600,135","+/-3,323",84.0,+/-0.5
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",38,Black or African American,"25,008","+/-2,091",3.5,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",39,American Indian and Alaska Native,"4,878","+/-1,922",0.7,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",44,Asian,"19,237","+/-1,564",2.7,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",45,Asian Indian,"2,483","+/-1,163",0.3,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",46,Chinese,"3,458","+/-1,180",0.5,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",47,Filipino,"1,529",+/-867,0.2,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",48,Japanese,252,+/-203,0.0,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",49,Korean,"1,917",+/-935,0.3,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",50,Vietnamese,"2,159","+/-1,096",0.3,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",51,Other Asian,"7,439","+/-1,841",1.0,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",52,Native Hawaiian and Other Pacific Islander,10,+/-14,0.0,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",53,Native Hawaiian,N,N,N,N
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",54,Chamorro,N,N,N,N
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",55,Samoan,N,N,N,N
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",57,Some other race,"19,913","+/-3,572",2.8,+/-0.5
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",58,Two or more races,"45,260","+/-3,867",6.3,+/-0.5
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",59,White and Black or African American,"4,646","+/-1,213",0.7,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",60,White and American Indian and Alaska Native,"5,957","+/-1,302",0.8,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",61,White and Asian,"5,404","+/-1,324",0.8,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",62,Black or African American and American Indian and Alaska Native,8,+/-17,0.0,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",62.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",63,Total population,"714,441","+/-1,665","714,441",(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",64,White,"644,559","+/-4,108",90.2,+/-0.5
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",65,Black or African American,"31,322","+/-2,039",4.4,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",66,American Indian and Alaska Native,"12,133","+/-2,281",1.7,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",67,Asian,"25,736","+/-1,626",3.6,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",68,Native Hawaiian and Other Pacific Islander,869,+/-514,0.1,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",69,Some other race,"47,217","+/-4,153",6.6,+/-0.6
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",69.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",70,Total population,"714,441","+/-1,665","714,441",(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",71,Hispanic or Latino (of any race),"50,383","+/-1,088",7.1,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",72,Mexican,"33,166","+/-2,484",4.6,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",73,Puerto Rican,"2,004",+/-793,0.3,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",74,Cuban,628,+/-394,0.1,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",75,Other Hispanic or Latino,"14,585","+/-2,225",2.0,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",76,Not Hispanic or Latino,"664,058","+/-2,006",92.9,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",77,White alone,"590,413","+/-2,682",82.6,+/-0.4
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",78,Black or African American alone,"24,804","+/-2,101",3.5,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",79,American Indian and Alaska Native alone,"1,766",+/-490,0.2,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",80,Asian alone,"18,963","+/-1,606",2.7,+/-0.2
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",81,Native Hawaiian and Other Pacific Islander alone,10,+/-14,0.0,+/-0.1
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",82,Some other race alone,"4,074","+/-1,857",0.6,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",83,Two or more races,"24,028","+/-3,021",3.4,+/-0.4
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",84,Two races including Some other race,"6,933","+/-2,169",1.0,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",85,"Two races excluding Some other race, and Three or more races","17,095","+/-2,111",2.4,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",85.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",86,Total housing units,"308,262","+/-1,355",(X),(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",86.3,,,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",87,"Citizen, 18 and over population","533,556","+/-2,922","533,556",(X)
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",88,Male,"264,483","+/-2,127",49.6,+/-0.3
+DP05,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",89,Female,"269,073","+/-2,161",50.4,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",0.5,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",0.8,SEX AND AGE,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",1,Total population,"722,101","+/-5,103","722,101",(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",2,Male,"361,021","+/-3,843",50.0,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",3,Female,"361,080","+/-3,071",50.0,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",4,Sex ratio (males per 100 females),100.0,+/-1.3,(X),(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",4.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",5,Under 5 years,"43,756","+/-1,300",6.1,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",6,5 to 9 years,"49,584","+/-3,399",6.9,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",7,10 to 14 years,"52,305","+/-3,046",7.2,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",8,15 to 19 years,"49,303","+/-1,992",6.8,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",9,20 to 24 years,"43,301","+/-2,666",6.0,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",10,25 to 34 years,"90,208","+/-2,552",12.5,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",11,35 to 44 years,"103,183","+/-2,549",14.3,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",12,45 to 54 years,"92,408","+/-2,390",12.8,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",13,55 to 59 years,"47,328","+/-2,800",6.6,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",14,60 to 64 years,"48,049","+/-2,306",6.7,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",15,65 to 74 years,"62,637","+/-1,589",8.7,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",16,75 to 84 years,"29,599","+/-1,685",4.1,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",17,85 years and over,"10,440","+/-1,417",1.4,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",17.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",18,Median age (years),37.9,+/-0.4,(X),(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",18.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",19,Under 18 years,"177,871","+/-4,001",24.6,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",20,16 years and over,"566,147","+/-3,800",78.4,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",21,18 years and over,"544,230","+/-3,467",75.4,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",22,21 years and over,"518,881","+/-3,414",71.9,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",23,62 years and over,"129,893","+/-2,973",18.0,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",24,65 years and over,"102,676","+/-2,054",14.2,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",24.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",25,18 years and over,"544,230","+/-3,467","544,230",(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",26,Male,"269,331","+/-2,032",49.5,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",27,Female,"274,899","+/-2,270",50.5,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",28,Sex ratio (males per 100 females),98.0,+/-0.9,(X),(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",28.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",29,65 years and over,"102,676","+/-2,054","102,676",(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",30,Male,"47,209","+/-1,172",46.0,+/-0.7
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",31,Female,"55,467","+/-1,330",54.0,+/-0.7
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",32,Sex ratio (males per 100 females),85.1,+/-2.4,(X),(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",32.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",32.5,RACE,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",33,Total population,"722,101","+/-5,103","722,101",(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",34,One race,"670,593","+/-7,453",92.9,+/-0.8
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",35,Two or more races,"51,508","+/-5,553",7.1,+/-0.8
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",35.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",36,One race,"670,593","+/-7,453",92.9,+/-0.8
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",37,White,"554,662","+/-5,452",76.8,+/-0.6
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",38,Black or African American,"46,873","+/-2,851",6.5,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",39,American Indian and Alaska Native,"2,922","+/-1,059",0.4,+/-0.1
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",44,Asian,"41,917","+/-3,736",5.8,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",45,Asian Indian,"9,417","+/-2,379",1.3,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",46,Chinese,"3,882","+/-1,662",0.5,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",47,Filipino,"3,763","+/-1,247",0.5,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",48,Japanese,902,+/-567,0.1,+/-0.1
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",49,Korean,"1,447",+/-829,0.2,+/-0.1
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",50,Vietnamese,"6,118","+/-2,147",0.8,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",51,Other Asian,"16,388","+/-4,343",2.3,+/-0.6
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",52,Native Hawaiian and Other Pacific Islander,218,+/-269,0.0,+/-0.1
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",53,Native Hawaiian,N,N,N,N
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",54,Chamorro,N,N,N,N
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",55,Samoan,N,N,N,N
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",57,Some other race,"24,001","+/-3,633",3.3,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",58,Two or more races,"51,508","+/-5,553",7.1,+/-0.8
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",59,White and Black or African American,"10,237","+/-2,776",1.4,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",60,White and American Indian and Alaska Native,"4,874","+/-1,154",0.7,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",61,White and Asian,"6,554","+/-1,850",0.9,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",62,Black or African American and American Indian and Alaska Native,274,+/-251,0.0,+/-0.1
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",62.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",63,Total population,"722,101","+/-5,103","722,101",(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",64,White,"604,302","+/-6,434",83.7,+/-0.8
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",65,Black or African American,"60,935","+/-2,849",8.4,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",66,American Indian and Alaska Native,"10,292","+/-1,785",1.4,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",67,Asian,"50,262","+/-3,726",7.0,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",68,Native Hawaiian and Other Pacific Islander,584,+/-465,0.1,+/-0.1
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",69,Some other race,"51,327","+/-3,433",7.1,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",69.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",70,Total population,"722,101","+/-5,103","722,101",(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",71,Hispanic or Latino (of any race),"52,189","+/-2,221",7.2,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",72,Mexican,"34,193","+/-3,648",4.7,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",73,Puerto Rican,"2,378","+/-1,353",0.3,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",74,Cuban,374,+/-276,0.1,+/-0.1
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",75,Other Hispanic or Latino,"15,244","+/-3,513",2.1,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",76,Not Hispanic or Latino,"669,912","+/-4,619",92.8,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",77,White alone,"548,518","+/-5,007",76.0,+/-0.6
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",78,Black or African American alone,"46,382","+/-2,828",6.4,+/-0.4
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",79,American Indian and Alaska Native alone,"1,980",+/-660,0.3,+/-0.1
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",80,Asian alone,"41,571","+/-3,683",5.8,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",81,Native Hawaiian and Other Pacific Islander alone,218,+/-269,0.0,+/-0.1
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",82,Some other race alone,"2,516","+/-1,257",0.3,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",83,Two or more races,"28,727","+/-4,389",4.0,+/-0.6
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",84,Two races including Some other race,"5,388","+/-1,733",0.7,+/-0.2
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",85,"Two races excluding Some other race, and Three or more races","23,339","+/-3,818",3.2,+/-0.5
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",85.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",86,Total housing units,"279,631","+/-1,741",(X),(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",86.3,,,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",87,"Citizen, 18 and over population","519,250","+/-4,214","519,250",(X)
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",88,Male,"257,783","+/-2,454",49.6,+/-0.3
+DP05,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",89,Female,"261,467","+/-2,864",50.4,+/-0.3
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",0.5,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",0.8,SEX AND AGE,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",1,Total population,"706,411","+/-7,057","706,411",(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",2,Male,"346,734","+/-4,866",49.1,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",3,Female,"359,677","+/-6,864",50.9,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",4,Sex ratio (males per 100 females),96.4,+/-2.6,(X),(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",4.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",5,Under 5 years,"41,980","+/-2,715",5.9,+/-0.4
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",6,5 to 9 years,"43,153","+/-4,070",6.1,+/-0.6
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",7,10 to 14 years,"49,959","+/-3,588",7.1,+/-0.5
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",8,15 to 19 years,"39,720","+/-2,949",5.6,+/-0.4
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",9,20 to 24 years,"28,252","+/-2,624",4.0,+/-0.4
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",10,25 to 34 years,"90,706","+/-5,416",12.8,+/-0.8
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",11,35 to 44 years,"97,615","+/-4,409",13.8,+/-0.6
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",12,45 to 54 years,"91,967","+/-3,383",13.0,+/-0.5
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",13,55 to 59 years,"47,993","+/-3,578",6.8,+/-0.5
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",14,60 to 64 years,"53,141","+/-3,005",7.5,+/-0.4
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",15,65 to 74 years,"74,487","+/-3,416",10.5,+/-0.5
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",16,75 to 84 years,"33,755","+/-2,410",4.8,+/-0.3
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",17,85 years and over,"13,683","+/-1,699",1.9,+/-0.2
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",17.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",18,Median age (years),40.9,+/-0.7,(X),(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",18.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",19,Under 18 years,"163,782","+/-6,273",23.2,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",20,16 years and over,"562,747","+/-5,647",79.7,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",21,18 years and over,"542,629","+/-5,293",76.8,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",22,21 years and over,"526,546","+/-5,781",74.5,+/-0.8
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",23,62 years and over,"153,864","+/-4,455",21.8,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",24,65 years and over,"121,925","+/-4,333",17.3,+/-0.6
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",24.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",25,18 years and over,"542,629","+/-5,293","542,629",(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",26,Male,"264,573","+/-4,398",48.8,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",27,Female,"278,056","+/-4,719",51.2,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",28,Sex ratio (males per 100 females),95.2,+/-2.6,(X),(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",28.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",29,65 years and over,"121,925","+/-4,333","121,925",(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",30,Male,"54,261","+/-2,120",44.5,+/-0.9
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",31,Female,"67,664","+/-2,717",55.5,+/-0.9
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",32,Sex ratio (males per 100 females),80.2,+/-2.9,(X),(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",32.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",32.5,RACE,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",33,Total population,"706,411","+/-7,057","706,411",(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",34,One race,"654,741","+/-9,149",92.7,+/-0.9
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",35,Two or more races,"51,670","+/-6,479",7.3,+/-0.9
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",35.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",36,One race,"654,741","+/-9,149",92.7,+/-0.9
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",37,White,"505,735","+/-8,561",71.6,+/-1.2
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",38,Black or African American,"73,082","+/-7,790",10.3,+/-1.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",39,American Indian and Alaska Native,"1,879",+/-913,0.3,+/-0.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",44,Asian,"57,927","+/-4,792",8.2,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",45,Asian Indian,"16,624","+/-4,255",2.4,+/-0.6
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",46,Chinese,"7,978","+/-2,783",1.1,+/-0.4
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",47,Filipino,"1,351",+/-793,0.2,+/-0.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",48,Japanese,918,+/-636,0.1,+/-0.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",49,Korean,"2,601","+/-1,475",0.4,+/-0.2
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",50,Vietnamese,"5,182","+/-2,139",0.7,+/-0.3
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",51,Other Asian,"23,273","+/-4,767",3.3,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",52,Native Hawaiian and Other Pacific Islander,43,+/-57,0.0,+/-0.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",53,Native Hawaiian,N,N,N,N
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",54,Chamorro,N,N,N,N
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",55,Samoan,N,N,N,N
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",57,Some other race,"16,075","+/-3,811",2.3,+/-0.5
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",58,Two or more races,"51,670","+/-6,479",7.3,+/-0.9
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",59,White and Black or African American,"11,007","+/-3,087",1.6,+/-0.4
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",60,White and American Indian and Alaska Native,"5,724","+/-1,400",0.8,+/-0.2
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",61,White and Asian,"7,956","+/-2,062",1.1,+/-0.3
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",62,Black or African American and American Indian and Alaska Native,663,+/-551,0.1,+/-0.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",62.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",63,Total population,"706,411","+/-7,057","706,411",(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",64,White,"554,824","+/-8,815",78.5,+/-1.2
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",65,Black or African American,"89,146","+/-7,973",12.6,+/-1.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",66,American Indian and Alaska Native,"11,855","+/-2,725",1.7,+/-0.4
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",67,Asian,"68,318","+/-4,685",9.7,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",68,Native Hawaiian and Other Pacific Islander,801,+/-538,0.1,+/-0.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",69,Some other race,"38,738","+/-5,220",5.5,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",69.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",70,Total population,"706,411","+/-7,057","706,411",(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",71,Hispanic or Latino (of any race),"35,991","+/-4,564",5.1,+/-0.6
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",72,Mexican,"17,638","+/-3,436",2.5,+/-0.5
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",73,Puerto Rican,"2,264","+/-1,170",0.3,+/-0.2
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",74,Cuban,"1,643","+/-1,007",0.2,+/-0.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",75,Other Hispanic or Latino,"14,446","+/-3,291",2.0,+/-0.5
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",76,Not Hispanic or Latino,"670,420","+/-8,194",94.9,+/-0.6
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",77,White alone,"500,811","+/-8,420",70.9,+/-1.2
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",78,Black or African American alone,"72,849","+/-7,774",10.3,+/-1.0
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",79,American Indian and Alaska Native alone,"1,620",+/-822,0.2,+/-0.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",80,Asian alone,"57,603","+/-4,794",8.2,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",81,Native Hawaiian and Other Pacific Islander alone,43,+/-57,0.0,+/-0.1
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",82,Some other race alone,"3,843","+/-1,448",0.5,+/-0.2
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",83,Two or more races,"33,651","+/-4,510",4.8,+/-0.6
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",84,Two races including Some other race,"5,933","+/-2,663",0.8,+/-0.4
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",85,"Two races excluding Some other race, and Three or more races","27,718","+/-3,866",3.9,+/-0.6
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",85.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",86,Total housing units,"297,752","+/-4,109",(X),(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",86.3,,,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",87,"Citizen, 18 and over population","509,150","+/-6,071","509,150",(X)
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",88,Male,"249,624","+/-4,601",49.0,+/-0.7
+DP05,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",89,Female,"259,526","+/-4,642",51.0,+/-0.7
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",0.5,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",0.8,SEX AND AGE,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",1,Total population,"705,033","+/-6,263","705,033",(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",2,Male,"346,683","+/-3,921",49.2,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",3,Female,"358,350","+/-3,143",50.8,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",4,Sex ratio (males per 100 females),96.7,+/-0.9,(X),(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",4.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",5,Under 5 years,"41,738","+/-1,238",5.9,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",6,5 to 9 years,"43,633","+/-3,345",6.2,+/-0.5
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",7,10 to 14 years,"49,721","+/-3,207",7.1,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",8,15 to 19 years,"46,667","+/-1,648",6.6,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",9,20 to 24 years,"45,567","+/-1,611",6.5,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",10,25 to 34 years,"103,015","+/-2,101",14.6,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",11,35 to 44 years,"96,804","+/-2,144",13.7,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",12,45 to 54 years,"79,888","+/-1,864",11.3,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",13,55 to 59 years,"42,090","+/-2,725",6.0,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",14,60 to 64 years,"44,914","+/-2,674",6.4,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",15,65 to 74 years,"69,297","+/-1,779",9.8,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",16,75 to 84 years,"28,919","+/-1,754",4.1,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",17,85 years and over,"12,780","+/-1,480",1.8,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",17.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",18,Median age (years),37.1,+/-0.4,(X),(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",18.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",19,Under 18 years,"162,437","+/-3,719",23.0,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",20,16 years and over,"561,016","+/-4,508",79.6,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",21,18 years and over,"542,596","+/-3,939",77.0,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",22,21 years and over,"512,836","+/-3,858",72.7,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",23,62 years and over,"137,815","+/-3,404",19.5,+/-0.5
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",24,65 years and over,"110,996","+/-2,139",15.7,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",24.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",25,18 years and over,"542,596","+/-3,939","542,596",(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",26,Male,"264,218","+/-2,266",48.7,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",27,Female,"278,378","+/-2,338",51.3,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",28,Sex ratio (males per 100 females),94.9,+/-0.8,(X),(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",28.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",29,65 years and over,"110,996","+/-2,139","110,996",(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",30,Male,"49,088","+/-1,180",44.2,+/-0.6
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",31,Female,"61,908","+/-1,287",55.8,+/-0.6
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",32,Sex ratio (males per 100 females),79.3,+/-1.8,(X),(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",32.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",32.5,RACE,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",33,Total population,"705,033","+/-6,263","705,033",(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",34,One race,"651,611","+/-8,157",92.4,+/-0.8
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",35,Two or more races,"53,422","+/-5,520",7.6,+/-0.8
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",35.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",36,One race,"651,611","+/-8,157",92.4,+/-0.8
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",37,White,"453,098","+/-6,147",64.3,+/-0.7
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",38,Black or African American,"78,030","+/-4,198",11.1,+/-0.6
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",39,American Indian and Alaska Native,"2,357",+/-868,0.3,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",44,Asian,"94,860","+/-3,416",13.5,+/-0.5
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",45,Asian Indian,"4,271","+/-1,617",0.6,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",46,Chinese,"5,963","+/-1,585",0.8,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",47,Filipino,"1,539",+/-683,0.2,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",48,Japanese,567,+/-379,0.1,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",49,Korean,"2,571",+/-957,0.4,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",50,Vietnamese,"5,249","+/-2,499",0.7,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",51,Other Asian,"74,700","+/-5,141",10.6,+/-0.7
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",52,Native Hawaiian and Other Pacific Islander,153,+/-260,0.0,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",53,Native Hawaiian,N,N,N,N
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",54,Chamorro,N,N,N,N
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",55,Samoan,N,N,N,N
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",57,Some other race,"23,113","+/-3,743",3.3,+/-0.5
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",58,Two or more races,"53,422","+/-5,520",7.6,+/-0.8
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",59,White and Black or African American,"11,405","+/-2,865",1.6,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",60,White and American Indian and Alaska Native,"5,686",+/-887,0.8,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",61,White and Asian,"6,402","+/-1,822",0.9,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",62,Black or African American and American Indian and Alaska Native,524,+/-400,0.1,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",62.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",63,Total population,"705,033","+/-6,263","705,033",(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",64,White,"503,267","+/-7,188",71.4,+/-0.8
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",65,Black or African American,"94,366","+/-2,709",13.4,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",66,American Indian and Alaska Native,"12,313","+/-2,261",1.7,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",67,Asian,"103,067","+/-3,514",14.6,+/-0.5
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",68,Native Hawaiian and Other Pacific Islander,"1,165",+/-534,0.2,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",69,Some other race,"49,721","+/-4,788",7.1,+/-0.7
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",69.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",70,Total population,"705,033","+/-6,263","705,033",(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",71,Hispanic or Latino (of any race),"49,393","+/-2,082",7.0,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",72,Mexican,"33,895","+/-3,093",4.8,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",73,Puerto Rican,"2,239",+/-949,0.3,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",74,Cuban,"1,523","+/-1,044",0.2,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",75,Other Hispanic or Latino,"11,736","+/-2,614",1.7,+/-0.4
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",76,Not Hispanic or Latino,"655,640","+/-5,608",93.0,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",77,White alone,"447,092","+/-5,986",63.4,+/-0.7
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",78,Black or African American alone,"76,942","+/-4,053",10.9,+/-0.6
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",79,American Indian and Alaska Native alone,"1,589",+/-627,0.2,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",80,Asian alone,"94,161","+/-3,374",13.4,+/-0.5
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",81,Native Hawaiian and Other Pacific Islander alone,153,+/-260,0.0,+/-0.1
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",82,Some other race alone,"3,846","+/-1,885",0.5,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",83,Two or more races,"31,857","+/-4,558",4.5,+/-0.6
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",84,Two races including Some other race,"4,930","+/-1,289",0.7,+/-0.2
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",85,"Two races excluding Some other race, and Three or more races","26,927","+/-4,248",3.8,+/-0.6
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",85.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",86,Total housing units,"296,391","+/-2,069",(X),(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",86.3,,,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",87,"Citizen, 18 and over population","513,507","+/-4,652","513,507",(X)
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",88,Male,"249,524","+/-2,863",48.6,+/-0.3
+DP05,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",89,Female,"263,983","+/-2,894",51.4,+/-0.3
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",0.5,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",0.8,SEX AND AGE,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",1,Total population,"708,012","+/-7,380","708,012",(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",2,Male,"356,696","+/-5,039",50.4,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",3,Female,"351,316","+/-6,342",49.6,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",4,Sex ratio (males per 100 females),101.5,+/-2.5,(X),(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",4.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",5,Under 5 years,"40,590","+/-2,753",5.7,+/-0.4
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",6,5 to 9 years,"42,329","+/-3,082",6.0,+/-0.4
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",7,10 to 14 years,"36,917","+/-3,177",5.2,+/-0.4
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",8,15 to 19 years,"43,132","+/-3,015",6.1,+/-0.4
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",9,20 to 24 years,"56,921","+/-3,111",8.0,+/-0.4
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",10,25 to 34 years,"136,143","+/-5,720",19.2,+/-0.8
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",11,35 to 44 years,"106,876","+/-4,388",15.1,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",12,45 to 54 years,"75,997","+/-3,215",10.7,+/-0.5
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",13,55 to 59 years,"38,676","+/-3,163",5.5,+/-0.5
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",14,60 to 64 years,"36,875","+/-3,092",5.2,+/-0.4
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",15,65 to 74 years,"57,114","+/-3,357",8.1,+/-0.5
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",16,75 to 84 years,"25,764","+/-2,278",3.6,+/-0.3
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",17,85 years and over,"10,678","+/-1,392",1.5,+/-0.2
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",17.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",18,Median age (years),34.9,+/-0.5,(X),(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",18.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",19,Under 18 years,"142,638","+/-6,615",20.1,+/-0.8
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",20,16 years and over,"580,382","+/-6,272",82.0,+/-0.8
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",21,18 years and over,"565,374","+/-6,037",79.9,+/-0.8
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",22,21 years and over,"532,309","+/-6,046",75.2,+/-0.9
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",23,62 years and over,"115,860","+/-5,110",16.4,+/-0.7
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",24,65 years and over,"93,556","+/-4,262",13.2,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",24.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",25,18 years and over,"565,374","+/-6,037","565,374",(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",26,Male,"282,133","+/-4,881",49.9,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",27,Female,"283,241","+/-4,440",50.1,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",28,Sex ratio (males per 100 females),99.6,+/-2.5,(X),(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",28.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",29,65 years and over,"93,556","+/-4,262","93,556",(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",30,Male,"41,530","+/-2,293",44.4,+/-1.2
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",31,Female,"52,026","+/-2,498",55.6,+/-1.2
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",32,Sex ratio (males per 100 females),79.8,+/-3.8,(X),(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",32.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",32.5,RACE,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",33,Total population,"708,012","+/-7,380","708,012",(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",34,One race,"640,974","+/-8,791",90.5,+/-0.9
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",35,Two or more races,"67,038","+/-6,584",9.5,+/-0.9
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",35.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",36,One race,"640,974","+/-8,791",90.5,+/-0.9
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",37,White,"445,586","+/-7,172",62.9,+/-1.0
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",38,Black or African American,"116,657","+/-7,523",16.5,+/-1.0
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",39,American Indian and Alaska Native,"4,582","+/-1,195",0.6,+/-0.2
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",44,Asian,"39,570","+/-4,029",5.6,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",45,Asian Indian,"6,615","+/-1,667",0.9,+/-0.2
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",46,Chinese,"8,314","+/-1,889",1.2,+/-0.3
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",47,Filipino,"2,122","+/-1,253",0.3,+/-0.2
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",48,Japanese,"1,214",+/-922,0.2,+/-0.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",49,Korean,"1,794",+/-666,0.3,+/-0.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",50,Vietnamese,"3,473","+/-1,255",0.5,+/-0.2
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",51,Other Asian,"16,038","+/-3,464",2.3,+/-0.5
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",52,Native Hawaiian and Other Pacific Islander,184,+/-187,0.0,+/-0.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",53,Native Hawaiian,N,N,N,N
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",54,Chamorro,N,N,N,N
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",55,Samoan,N,N,N,N
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",57,Some other race,"34,395","+/-5,284",4.9,+/-0.7
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",58,Two or more races,"67,038","+/-6,584",9.5,+/-0.9
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",59,White and Black or African American,"13,570","+/-3,370",1.9,+/-0.5
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",60,White and American Indian and Alaska Native,"7,314","+/-1,849",1.0,+/-0.3
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",61,White and Asian,"10,666","+/-2,051",1.5,+/-0.3
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",62,Black or African American and American Indian and Alaska Native,"1,565",+/-890,0.2,+/-0.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",62.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",63,Total population,"708,012","+/-7,380","708,012",(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",64,White,"507,981","+/-8,461",71.7,+/-1.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",65,Black or African American,"137,079","+/-7,302",19.4,+/-1.0
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",66,American Indian and Alaska Native,"18,894","+/-3,578",2.7,+/-0.5
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",67,Asian,"52,954","+/-4,740",7.5,+/-0.7
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",68,Native Hawaiian and Other Pacific Islander,646,+/-408,0.1,+/-0.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",69,Some other race,"64,333","+/-5,984",9.1,+/-0.8
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",69.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",70,Total population,"708,012","+/-7,380","708,012",(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",71,Hispanic or Latino (of any race),"67,380","+/-5,128",9.5,+/-0.7
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",72,Mexican,"34,876","+/-4,518",4.9,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",73,Puerto Rican,"1,723",+/-893,0.2,+/-0.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",74,Cuban,"1,089",+/-887,0.2,+/-0.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",75,Other Hispanic or Latino,"29,692","+/-4,902",4.2,+/-0.7
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",76,Not Hispanic or Latino,"640,632","+/-8,610",90.5,+/-0.7
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",77,White alone,"436,677","+/-7,380",61.7,+/-1.0
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",78,Black or African American alone,"115,922","+/-7,578",16.4,+/-1.0
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",79,American Indian and Alaska Native alone,"3,213","+/-1,021",0.5,+/-0.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",80,Asian alone,"38,840","+/-4,040",5.5,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",81,Native Hawaiian and Other Pacific Islander alone,184,+/-187,0.0,+/-0.1
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",82,Some other race alone,"4,348","+/-1,595",0.6,+/-0.2
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",83,Two or more races,"41,448","+/-4,813",5.9,+/-0.7
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",84,Two races including Some other race,"6,404","+/-1,899",0.9,+/-0.3
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",85,"Two races excluding Some other race, and Three or more races","35,044","+/-4,352",4.9,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",85.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",86,Total housing units,"327,491","+/-3,978",(X),(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",86.3,,,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",87,"Citizen, 18 and over population","524,774","+/-6,603","524,774",(X)
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",88,Male,"259,569","+/-4,738",49.5,+/-0.6
+DP05,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",89,Female,"265,205","+/-4,664",50.5,+/-0.6
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",0.5,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",0.8,SEX AND AGE,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",1,Total population,"725,893","+/-5,309","725,893",(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",2,Male,"367,480","+/-4,288",50.6,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",3,Female,"358,413","+/-3,401",49.4,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",4,Sex ratio (males per 100 females),102.5,+/-1.6,(X),(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",4.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",5,Under 5 years,"45,445","+/-2,093",6.3,+/-0.3
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",6,5 to 9 years,"51,180","+/-3,414",7.1,+/-0.5
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",7,10 to 14 years,"55,818","+/-3,249",7.7,+/-0.5
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",8,15 to 19 years,"54,860","+/-2,334",7.6,+/-0.3
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",9,20 to 24 years,"46,692","+/-3,125",6.4,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",10,25 to 34 years,"83,650","+/-3,028",11.5,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",11,35 to 44 years,"102,790","+/-2,863",14.2,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",12,45 to 54 years,"90,925","+/-2,550",12.5,+/-0.3
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",13,55 to 59 years,"51,377","+/-2,952",7.1,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",14,60 to 64 years,"44,832","+/-3,017",6.2,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",15,65 to 74 years,"63,790","+/-1,871",8.8,+/-0.3
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",16,75 to 84 years,"24,902","+/-1,809",3.4,+/-0.3
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",17,85 years and over,"9,632","+/-1,249",1.3,+/-0.2
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",17.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",18,Median age (years),37.5,+/-0.5,(X),(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",18.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",19,Under 18 years,"186,792","+/-3,484",25.7,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",20,16 years and over,"561,072","+/-5,036",77.3,+/-0.5
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",21,18 years and over,"539,101","+/-4,486",74.3,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",22,21 years and over,"510,038","+/-4,218",70.3,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",23,62 years and over,"125,260","+/-3,993",17.3,+/-0.6
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",24,65 years and over,"98,324","+/-2,583",13.5,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",24.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",25,18 years and over,"539,101","+/-4,486","539,101",(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",26,Male,"273,881","+/-3,239",50.8,+/-0.3
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",27,Female,"265,220","+/-2,453",49.2,+/-0.3
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",28,Sex ratio (males per 100 females),103.3,+/-1.4,(X),(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",28.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",29,65 years and over,"98,324","+/-2,583","98,324",(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",30,Male,"47,202","+/-1,398",48.0,+/-0.7
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",31,Female,"51,122","+/-1,522",52.0,+/-0.7
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",32,Sex ratio (males per 100 females),92.3,+/-2.6,(X),(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",32.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",32.5,RACE,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",33,Total population,"725,893","+/-5,309","725,893",(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",34,One race,"682,760","+/-7,688",94.1,+/-0.8
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",35,Two or more races,"43,133","+/-5,471",5.9,+/-0.8
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",35.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",36,One race,"682,760","+/-7,688",94.1,+/-0.8
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",37,White,"616,120","+/-7,435",84.9,+/-0.8
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",38,Black or African American,"30,963","+/-4,240",4.3,+/-0.6
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",39,American Indian and Alaska Native,"2,280",+/-974,0.3,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",44,Asian,"21,364","+/-2,972",2.9,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",45,Asian Indian,"4,012","+/-1,730",0.6,+/-0.2
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",46,Chinese,"2,419",+/-992,0.3,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",47,Filipino,"2,208","+/-1,182",0.3,+/-0.2
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",48,Japanese,48,+/-86,0.0,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",49,Korean,"1,752",+/-766,0.2,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",50,Vietnamese,"1,595",+/-987,0.2,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",51,Other Asian,"9,330","+/-2,727",1.3,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",52,Native Hawaiian and Other Pacific Islander,131,+/-203,0.0,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",53,Native Hawaiian,N,N,N,N
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",54,Chamorro,N,N,N,N
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",55,Samoan,N,N,N,N
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",57,Some other race,"11,902","+/-2,967",1.6,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",58,Two or more races,"43,133","+/-5,471",5.9,+/-0.8
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",59,White and Black or African American,"9,703","+/-2,720",1.3,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",60,White and American Indian and Alaska Native,"6,526","+/-1,309",0.9,+/-0.2
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",61,White and Asian,"7,157","+/-1,784",1.0,+/-0.2
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",62,Black or African American and American Indian and Alaska Native,181,+/-261,0.0,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",62.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",63,Total population,"725,893","+/-5,309","725,893",(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",64,White,"657,528","+/-7,312",90.6,+/-0.8
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",65,Black or African American,"42,138","+/-3,787",5.8,+/-0.5
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",66,American Indian and Alaska Native,"10,383","+/-1,644",1.4,+/-0.2
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",67,Asian,"30,125","+/-2,603",4.2,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",68,Native Hawaiian and Other Pacific Islander,"1,681","+/-1,001",0.2,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",69,Some other race,"29,425","+/-4,547",4.1,+/-0.6
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",69.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",70,Total population,"725,893","+/-5,309","725,893",(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",71,Hispanic or Latino (of any race),"25,499","+/-2,589",3.5,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",72,Mexican,"14,159","+/-2,812",2.0,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",73,Puerto Rican,"1,303",+/-757,0.2,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",74,Cuban,656,+/-579,0.1,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",75,Other Hispanic or Latino,"9,381","+/-2,834",1.3,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",76,Not Hispanic or Latino,"700,394","+/-6,128",96.5,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",77,White alone,"611,630","+/-7,311",84.3,+/-0.8
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",78,Black or African American alone,"30,310","+/-4,149",4.2,+/-0.6
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",79,American Indian and Alaska Native alone,"1,128",+/-560,0.2,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",80,Asian alone,"21,232","+/-2,953",2.9,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",81,Native Hawaiian and Other Pacific Islander alone,131,+/-203,0.0,+/-0.1
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",82,Some other race alone,"2,728","+/-1,873",0.4,+/-0.3
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",83,Two or more races,"33,235","+/-5,018",4.6,+/-0.7
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",84,Two races including Some other race,"8,742","+/-2,994",1.2,+/-0.4
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",85,"Two races excluding Some other race, and Three or more races","24,493","+/-3,516",3.4,+/-0.5
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",85.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",86,Total housing units,"275,730","+/-2,863",(X),(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",86.3,,,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",87,"Citizen, 18 and over population","524,483","+/-5,643","524,483",(X)
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",88,Male,"266,325","+/-3,728",50.8,+/-0.3
+DP05,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",89,Female,"258,158","+/-2,905",49.2,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",0.5,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",0.8,SEX AND AGE,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",1,Total population,"707,323","+/-4,381","707,323",(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",2,Male,"358,118","+/-3,212",50.6,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",3,Female,"349,205","+/-2,491",49.4,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",4,Sex ratio (males per 100 females),102.6,+/-1.1,(X),(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",4.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",5,Under 5 years,"40,394","+/-1,257",5.7,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",6,5 to 9 years,"42,453","+/-1,779",6.0,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",7,10 to 14 years,"50,189","+/-2,155",7.1,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",8,15 to 19 years,"46,910","+/-1,875",6.6,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",9,20 to 24 years,"37,571","+/-1,907",5.3,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",10,25 to 34 years,"75,852","+/-2,141",10.7,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",11,35 to 44 years,"85,518","+/-1,823",12.1,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",12,45 to 54 years,"76,970","+/-1,604",10.9,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",13,55 to 59 years,"47,119","+/-1,983",6.7,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",14,60 to 64 years,"54,885","+/-2,201",7.8,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",15,65 to 74 years,"85,238","+/-1,419",12.1,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",16,75 to 84 years,"43,929","+/-1,395",6.2,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",17,85 years and over,"20,295","+/-1,262",2.9,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",17.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",18,Median age (years),41.7,+/-0.3,(X),(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",18.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",19,Under 18 years,"162,650","+/-2,264",23.0,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",20,16 years and over,"564,819","+/-4,053",79.9,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",21,18 years and over,"544,673","+/-3,897",77.0,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",22,21 years and over,"518,516","+/-4,086",73.3,+/-0.4
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",23,62 years and over,"182,058","+/-2,495",25.7,+/-0.4
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",24,65 years and over,"149,462","+/-1,852",21.1,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",24.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",25,18 years and over,"544,673","+/-3,897","544,673",(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",26,Male,"273,468","+/-2,617",50.2,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",27,Female,"271,205","+/-2,418",49.8,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",28,Sex ratio (males per 100 females),100.8,+/-1.2,(X),(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",28.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",29,65 years and over,"149,462","+/-1,852","149,462",(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",30,Male,"70,956","+/-1,230",47.5,+/-0.5
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",31,Female,"78,506","+/-1,222",52.5,+/-0.5
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",32,Sex ratio (males per 100 females),90.4,+/-2.0,(X),(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",32.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",32.5,RACE,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",33,Total population,"707,323","+/-4,381","707,323",(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",34,One race,"668,513","+/-5,164",94.5,+/-0.5
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",35,Two or more races,"38,810","+/-3,253",5.5,+/-0.5
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",35.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",36,One race,"668,513","+/-5,164",94.5,+/-0.5
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",37,White,"629,554","+/-5,160",89.0,+/-0.4
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",38,Black or African American,"9,875","+/-1,629",1.4,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",39,American Indian and Alaska Native,"5,110","+/-1,139",0.7,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",44,Asian,"7,885",+/-972,1.1,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",45,Asian Indian,451,+/-428,0.1,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",46,Chinese,624,+/-387,0.1,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",47,Filipino,"1,241",+/-705,0.2,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",48,Japanese,254,+/-307,0.0,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",49,Korean,"1,204",+/-803,0.2,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",50,Vietnamese,445,+/-385,0.1,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",51,Other Asian,"3,666",+/-754,0.5,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",52,Native Hawaiian and Other Pacific Islander,914,+/-462,0.1,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",53,Native Hawaiian,N,N,N,N
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",54,Chamorro,N,N,N,N
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",55,Samoan,N,N,N,N
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",57,Some other race,"15,175","+/-2,984",2.1,+/-0.4
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",58,Two or more races,"38,810","+/-3,253",5.5,+/-0.5
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",59,White and Black or African American,"3,302",+/-980,0.5,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",60,White and American Indian and Alaska Native,"9,150","+/-1,109",1.3,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",61,White and Asian,"3,163","+/-1,180",0.4,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",62,Black or African American and American Indian and Alaska Native,58,+/-56,0.0,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",62.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",63,Total population,"707,323","+/-4,381","707,323",(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",64,White,"667,177","+/-5,735",94.3,+/-0.5
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",65,Black or African American,"14,367","+/-2,061",2.0,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",66,American Indian and Alaska Native,"15,522","+/-1,438",2.2,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",67,Asian,"12,074","+/-1,566",1.7,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",68,Native Hawaiian and Other Pacific Islander,"1,302",+/-630,0.2,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",69,Some other race,"37,032","+/-2,759",5.2,+/-0.4
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",69.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",70,Total population,"707,323","+/-4,381","707,323",(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",71,Hispanic or Latino (of any race),"35,997","+/-1,144",5.1,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",72,Mexican,"23,254","+/-2,207",3.3,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",73,Puerto Rican,"1,780",+/-706,0.3,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",74,Cuban,618,+/-324,0.1,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",75,Other Hispanic or Latino,"10,345","+/-2,421",1.5,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",76,Not Hispanic or Latino,"671,326","+/-4,566",94.9,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",77,White alone,"623,383","+/-4,745",88.1,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",78,Black or African American alone,"9,299","+/-1,415",1.3,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",79,American Indian and Alaska Native alone,"4,322","+/-1,088",0.6,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",80,Asian alone,"7,751",+/-993,1.1,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",81,Native Hawaiian and Other Pacific Islander alone,903,+/-460,0.1,+/-0.1
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",82,Some other race alone,"2,984","+/-1,164",0.4,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",83,Two or more races,"22,684","+/-2,381",3.2,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",84,Two races including Some other race,"6,622","+/-1,622",0.9,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",85,"Two races excluding Some other race, and Three or more races","16,062","+/-1,540",2.3,+/-0.2
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",85.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",86,Total housing units,"348,316","+/-2,209",(X),(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",86.3,,,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",87,"Citizen, 18 and over population","534,856","+/-4,529","534,856",(X)
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",88,Male,"267,595","+/-2,895",50.0,+/-0.3
+DP05,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",89,Female,"267,261","+/-2,731",50.0,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",0.5,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",0.8,SEX AND AGE,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",1,Total population,"718,176","+/-3,875","718,176",(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",2,Male,"363,821","+/-2,381",50.7,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",3,Female,"354,355","+/-2,386",49.3,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",4,Sex ratio (males per 100 females),102.7,+/-0.8,(X),(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",4.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",5,Under 5 years,"36,642","+/-1,199",5.1,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",6,5 to 9 years,"41,771","+/-2,336",5.8,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",7,10 to 14 years,"45,391","+/-2,090",6.3,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",8,15 to 19 years,"46,714","+/-1,380",6.5,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",9,20 to 24 years,"43,488","+/-1,437",6.1,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",10,25 to 34 years,"76,885","+/-1,877",10.7,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",11,35 to 44 years,"86,904","+/-1,853",12.1,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",12,45 to 54 years,"81,856","+/-1,451",11.4,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",13,55 to 59 years,"50,267","+/-2,500",7.0,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",14,60 to 64 years,"56,997","+/-2,177",7.9,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",15,65 to 74 years,"92,987","+/-1,486",12.9,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",16,75 to 84 years,"42,340","+/-1,312",5.9,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",17,85 years and over,"15,934","+/-1,172",2.2,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",17.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",18,Median age (years),42.9,+/-0.5,(X),(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",18.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",19,Under 18 years,"151,158","+/-2,716",21.0,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",20,16 years and over,"586,037","+/-2,795",81.6,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",21,18 years and over,"567,018","+/-2,556",79.0,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",22,21 years and over,"537,415","+/-2,939",74.8,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",23,62 years and over,"186,327","+/-2,678",25.9,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",24,65 years and over,"151,261","+/-1,730",21.1,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",24.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",25,18 years and over,"567,018","+/-2,556","567,018",(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",26,Male,"286,650","+/-1,715",50.6,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",27,Female,"280,368","+/-1,801",49.4,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",28,Sex ratio (males per 100 females),102.2,+/-0.9,(X),(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",28.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",29,65 years and over,"151,261","+/-1,730","151,261",(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",30,Male,"72,644","+/-1,075",48.0,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",31,Female,"78,617","+/-1,127",52.0,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",32,Sex ratio (males per 100 females),92.4,+/-1.7,(X),(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",32.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",32.5,RACE,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",33,Total population,"718,176","+/-3,875","718,176",(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",34,One race,"677,594","+/-4,800",94.3,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",35,Two or more races,"40,582","+/-2,894",5.7,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",35.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",36,One race,"677,594","+/-4,800",94.3,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",37,White,"631,967","+/-4,288",88.0,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",38,Black or African American,"8,087","+/-2,134",1.1,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",39,American Indian and Alaska Native,"24,301","+/-2,264",3.4,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",44,Asian,"7,023",+/-977,1.0,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",45,Asian Indian,688,+/-440,0.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",46,Chinese,808,+/-469,0.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",47,Filipino,704,+/-423,0.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",48,Japanese,281,+/-175,0.0,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",49,Korean,481,+/-200,0.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",50,Vietnamese,578,+/-332,0.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",51,Other Asian,"3,483",+/-880,0.5,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",52,Native Hawaiian and Other Pacific Islander,251,+/-225,0.0,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",53,Native Hawaiian,N,N,N,N
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",54,Chamorro,N,N,N,N
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",55,Samoan,N,N,N,N
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",57,Some other race,"5,965","+/-1,645",0.8,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",58,Two or more races,"40,582","+/-2,894",5.7,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",59,White and Black or African American,"4,945","+/-1,295",0.7,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",60,White and American Indian and Alaska Native,"15,196","+/-1,607",2.1,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",61,White and Asian,"3,167",+/-813,0.4,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",62,Black or African American and American Indian and Alaska Native,500,+/-241,0.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",62.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",63,Total population,"718,176","+/-3,875","718,176",(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",64,White,"671,284","+/-4,307",93.5,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",65,Black or African American,"14,662","+/-2,363",2.0,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",66,American Indian and Alaska Native,"42,057","+/-1,786",5.9,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",67,Asian,"10,906","+/-1,202",1.5,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",68,Native Hawaiian and Other Pacific Islander,968,+/-374,0.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",69,Some other race,"20,816","+/-2,272",2.9,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",69.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",70,Total population,"718,176","+/-3,875","718,176",(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",71,Hispanic or Latino (of any race),"15,207",+/-593,2.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",72,Mexican,"8,794","+/-1,092",1.2,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",73,Puerto Rican,607,+/-358,0.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",74,Cuban,544,+/-318,0.1,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",75,Other Hispanic or Latino,"5,262","+/-1,074",0.7,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",76,Not Hispanic or Latino,"702,969","+/-3,884",97.9,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",77,White alone,"628,243","+/-4,287",87.5,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",78,Black or African American alone,"8,040","+/-2,130",1.1,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",79,American Indian and Alaska Native alone,"23,315","+/-2,255",3.2,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",80,Asian alone,"7,023",+/-977,1.0,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",81,Native Hawaiian and Other Pacific Islander alone,244,+/-225,0.0,+/-0.1
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",82,Some other race alone,"3,524","+/-1,465",0.5,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",83,Two or more races,"32,580","+/-2,661",4.5,+/-0.4
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",84,Two races including Some other race,"7,852","+/-1,429",1.1,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",85,"Two races excluding Some other race, and Three or more races","24,728","+/-2,227",3.4,+/-0.3
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",85.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",86,Total housing units,"383,600","+/-1,816",(X),(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",86.3,,,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",87,"Citizen, 18 and over population","561,939","+/-2,617","561,939",(X)
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",88,Male,"284,176","+/-1,744",50.6,+/-0.2
+DP05,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",89,Female,"277,763","+/-1,897",49.4,+/-0.2

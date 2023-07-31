@@ -1,0 +1,373 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",0.5,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",1,Total housing units,"396,896","+/-3,521","396,896",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",2,Occupied housing units,"352,443","+/-4,629",88.8,+/-0.9
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",3,Vacant housing units,"44,453","+/-3,675",11.2,+/-0.9
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",3.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",4,Homeowner vacancy rate,0.3,+/-0.3,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",5,Rental vacancy rate,4.1,+/-1.7,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",5.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",6,Total housing units,"396,896","+/-3,521","396,896",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",7,"1-unit, detached","308,054","+/-5,754",77.6,+/-1.3
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",8,"1-unit, attached","9,572","+/-1,860",2.4,+/-0.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",9,2 units,"6,175","+/-1,715",1.6,+/-0.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",10,3 or 4 units,"12,446","+/-2,559",3.1,+/-0.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",11,5 to 9 units,"8,464","+/-1,688",2.1,+/-0.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",12,10 to 19 units,"9,823","+/-2,729",2.5,+/-0.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",13,20 or more units,"9,868","+/-1,946",2.5,+/-0.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",14,Mobile home,"30,984","+/-3,216",7.8,+/-0.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",15,"Boat, RV, van, etc.","1,510",+/-716,0.4,+/-0.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",15.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",16,Total housing units,"396,896","+/-3,521","396,896",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",17,Built 2020 or later,"7,383","+/-2,022",1.9,+/-0.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",18,Built 2010 to 2019,"69,273","+/-4,813",17.5,+/-1.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",19,Built 2000 to 2009,"90,614","+/-6,306",22.8,+/-1.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",20,Built 1990 to 1999,"63,980","+/-5,068",16.1,+/-1.3
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",21,Built 1980 to 1989,"32,305","+/-3,346",8.1,+/-0.9
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",22,Built 1970 to 1979,"56,068","+/-3,957",14.1,+/-1.0
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",23,Built 1960 to 1969,"19,746","+/-2,392",5.0,+/-0.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",24,Built 1950 to 1959,"16,075","+/-1,976",4.1,+/-0.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",25,Built 1940 to 1949,"13,132","+/-1,812",3.3,+/-0.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",26,Built 1939 or earlier,"28,320","+/-3,307",7.1,+/-0.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",26.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",26.5,ROOMS,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",27,Total housing units,"396,896","+/-3,521","396,896",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",28,1 room,"6,427","+/-1,483",1.6,+/-0.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",29,2 rooms,"10,112","+/-2,347",2.5,+/-0.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",30,3 rooms,"19,602","+/-2,914",4.9,+/-0.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",31,4 rooms,"63,267","+/-5,264",15.9,+/-1.3
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",32,5 rooms,"71,522","+/-4,882",18.0,+/-1.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",33,6 rooms,"69,562","+/-4,897",17.5,+/-1.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",34,7 rooms,"55,508","+/-5,026",14.0,+/-1.3
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",35,8 rooms,"38,724","+/-3,395",9.8,+/-0.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",36,9 rooms or more,"62,172","+/-4,338",15.7,+/-1.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",37,Median rooms,5.9,+/-0.1,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",37.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",37.5,BEDROOMS,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",38,Total housing units,"396,896","+/-3,521","396,896",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",39,No bedroom,"6,886","+/-1,437",1.7,+/-0.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",40,1 bedroom,"23,287","+/-3,223",5.9,+/-0.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",41,2 bedrooms,"83,325","+/-4,829",21.0,+/-1.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",42,3 bedrooms,"181,102","+/-6,574",45.6,+/-1.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",43,4 bedrooms,"75,897","+/-5,730",19.1,+/-1.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",44,5 or more bedrooms,"26,399","+/-3,294",6.7,+/-0.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",44.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",44.5,HOUSING TENURE,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",45,Occupied housing units,"352,443","+/-4,629","352,443",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",46,Owner-occupied,"261,514","+/-5,810",74.2,+/-1.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",47,Renter-occupied,"90,929","+/-5,050",25.8,+/-1.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",47.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",48,Average household size of owner-occupied unit,2.77,+/-0.06,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",49,Average household size of renter-occupied unit,2.47,+/-0.08,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",49.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",50,Occupied housing units,"352,443","+/-4,629","352,443",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",51,Moved in 2019 or later,"100,709","+/-5,656",28.6,+/-1.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",52,Moved in 2015 to 2018,"91,962","+/-5,395",26.1,+/-1.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",53,Moved in 2010 to 2014,"51,842","+/-4,013",14.7,+/-1.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",54,Moved in 2000 to 2009,"58,110","+/-4,253",16.5,+/-1.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",55,Moved in 1990 to 1999,"29,466","+/-2,596",8.4,+/-0.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",56,Moved in 1989 and earlier,"20,354","+/-2,047",5.8,+/-0.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",56.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",57,Occupied housing units,"352,443","+/-4,629","352,443",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",58,No vehicles available,"14,709","+/-1,847",4.2,+/-0.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",59,1 vehicle available,"77,455","+/-4,823",22.0,+/-1.3
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",60,2 vehicles available,"142,405","+/-6,845",40.4,+/-1.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",61,3 or more vehicles available,"117,874","+/-5,918",33.4,+/-1.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",61.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",62,Occupied housing units,"352,443","+/-4,629","352,443",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",63,Utility gas,"179,698","+/-5,381",51.0,+/-1.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",64,"Bottled, tank, or LP gas","15,948","+/-2,462",4.5,+/-0.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",65,Electricity,"117,728","+/-6,140",33.4,+/-1.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",66,"Fuel oil, kerosene, etc.","7,046","+/-1,484",2.0,+/-0.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",67,Coal or coke,23,+/-41,0.0,+/-0.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",68,Wood,"27,771","+/-2,664",7.9,+/-0.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",69,Solar energy,118,+/-169,0.0,+/-0.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",70,Other fuel,"2,992",+/-888,0.8,+/-0.3
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",71,No fuel used,"1,119",+/-559,0.3,+/-0.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",71.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",72,Occupied housing units,"352,443","+/-4,629","352,443",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",73,Lacking complete plumbing facilities,"1,790",+/-834,0.5,+/-0.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",74,Lacking complete kitchen facilities,"3,462","+/-1,407",1.0,+/-0.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",75,No telephone service available,"3,165","+/-1,102",0.9,+/-0.3
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",75.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",76,Occupied housing units,"352,443","+/-4,629","352,443",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",77,1.00 or less,"343,084","+/-5,444",97.3,+/-0.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",78,1.01 to 1.50,"7,137","+/-1,537",2.0,+/-0.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",79,1.51 or more,"2,222",+/-918,0.6,+/-0.3
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",79.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",79.5,VALUE,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",80,Owner-occupied units,"261,514","+/-5,810","261,514",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",81,"Less than $50,000","12,991","+/-1,909",5.0,+/-0.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",82,"$50,000 to $99,999","7,661","+/-1,267",2.9,+/-0.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",83,"$100,000 to $149,999","7,695","+/-1,633",2.9,+/-0.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",84,"$150,000 to $199,999","12,010","+/-1,643",4.6,+/-0.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",85,"$200,000 to $299,999","36,929","+/-3,073",14.1,+/-1.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",86,"$300,000 to $499,999","102,392","+/-5,867",39.2,+/-2.0
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",87,"$500,000 to $999,999","70,775","+/-4,784",27.1,+/-1.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",88,"$1,000,000 or more","11,061","+/-1,787",4.2,+/-0.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",89,Median (dollars),"393,400","+/-8,247",(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",89.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",90,Owner-occupied units,"261,514","+/-5,810","261,514",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",91,Housing units with a mortgage,"170,045","+/-5,534",65.0,+/-1.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",92,Housing units without a mortgage,"91,469","+/-4,555",35.0,+/-1.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",92.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",93,Housing units with a mortgage,"170,045","+/-5,534","170,045",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",94,Less than $500,"1,808",+/-756,1.1,+/-0.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",95,$500 to $999,"28,676","+/-3,381",16.9,+/-1.9
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",96,"$1,000 to $1,499","58,386","+/-4,474",34.3,+/-2.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",97,"$1,500 to $1,999","46,463","+/-4,588",27.3,+/-2.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",98,"$2,000 to $2,499","19,284","+/-2,894",11.3,+/-1.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",99,"$2,500 to $2,999","8,199","+/-1,980",4.8,+/-1.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",100,"$3,000 or more","7,229","+/-1,484",4.3,+/-0.9
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",101,Median (dollars),"1,471",+/-34,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",101.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",102,Housing units without a mortgage,"91,469","+/-4,555","91,469",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",103,Less than $250,"11,682","+/-1,625",12.8,+/-1.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",104,$250 to $399,"30,097","+/-2,924",32.9,+/-2.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",105,$400 to $599,"29,884","+/-2,835",32.7,+/-2.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",106,$600 to $799,"11,681","+/-1,661",12.8,+/-1.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",107,$800 to $999,"4,029",+/-977,4.4,+/-1.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",108,"$1,000 or more","4,096","+/-1,117",4.5,+/-1.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",109,Median (dollars),422,+/-14,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",109.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"169,181","+/-5,636","169,181",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",111,Less than 20.0 percent,"78,553","+/-4,199",46.4,+/-2.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",112,20.0 to 24.9 percent,"25,750","+/-2,677",15.2,+/-1.6
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",113,25.0 to 29.9 percent,"18,372","+/-2,475",10.9,+/-1.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",114,30.0 to 34.9 percent,"11,817","+/-2,563",7.0,+/-1.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",115,35.0 percent or more,"34,689","+/-4,307",20.5,+/-2.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",115.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",116,Not computed,864,+/-633,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",116.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"89,322","+/-4,415","89,322",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",118,Less than 10.0 percent,"47,309","+/-3,866",53.0,+/-3.0
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",119,10.0 to 14.9 percent,"15,229","+/-2,180",17.0,+/-2.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",120,15.0 to 19.9 percent,"9,306","+/-1,415",10.4,+/-1.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",121,20.0 to 24.9 percent,"4,984",+/-975,5.6,+/-1.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",122,25.0 to 29.9 percent,"2,048",+/-789,2.3,+/-0.9
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",123,30.0 to 34.9 percent,"2,140",+/-875,2.4,+/-1.0
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",124,35.0 percent or more,"8,306","+/-1,861",9.3,+/-2.0
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",124.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",125,Not computed,"2,147",+/-908,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",125.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",125.5,GROSS RENT,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",126,Occupied units paying rent,"84,965","+/-5,259","84,965",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",127,Less than $500,"7,047","+/-1,391",8.3,+/-1.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",128,$500 to $999,"28,220","+/-2,354",33.2,+/-3.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",129,"$1,000 to $1,499","28,791","+/-3,647",33.9,+/-3.3
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",130,"$1,500 to $1,999","13,829","+/-3,049",16.3,+/-3.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",131,"$2,000 to $2,499","4,910","+/-1,740",5.8,+/-2.0
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",132,"$2,500 to $2,999","1,305","+/-1,198",1.5,+/-1.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",133,"$3,000 or more",863,+/-640,1.0,+/-0.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",134,Median (dollars),"1,099",+/-37,(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",134.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",135,No rent paid,"5,964","+/-1,487",(X),(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",135.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"83,820","+/-5,137","83,820",(X)
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",137,Less than 15.0 percent,"11,844","+/-2,199",14.1,+/-2.5
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",138,15.0 to 19.9 percent,"12,582","+/-2,461",15.0,+/-2.8
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",139,20.0 to 24.9 percent,"9,706","+/-1,983",11.6,+/-2.4
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",140,25.0 to 29.9 percent,"8,757","+/-2,004",10.4,+/-2.2
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",141,30.0 to 34.9 percent,"9,824","+/-2,346",11.7,+/-2.7
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",142,35.0 percent or more,"31,107","+/-3,301",37.1,+/-3.1
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",142.3,,,,,
+DP04,5001800US1601,"Congressional District 1 (118th Congress), Idaho",143,Not computed,"7,109","+/-1,544",(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",0.5,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",1,Total housing units,"378,434","+/-3,512","378,434",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",2,Occupied housing units,"341,439","+/-4,030",90.2,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",3,Vacant housing units,"36,995","+/-2,911",9.8,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",3.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",4,Homeowner vacancy rate,0.2,+/-0.2,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",5,Rental vacancy rate,2.8,+/-1.1,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",5.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",6,Total housing units,"378,434","+/-3,512","378,434",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",7,"1-unit, detached","262,931","+/-4,886",69.5,+/-1.2
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",8,"1-unit, attached","17,930","+/-2,180",4.7,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",9,2 units,"9,766","+/-1,812",2.6,+/-0.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",10,3 or 4 units,"22,764","+/-2,493",6.0,+/-0.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",11,5 to 9 units,"13,106","+/-2,069",3.5,+/-0.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",12,10 to 19 units,"10,040","+/-2,065",2.7,+/-0.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",13,20 or more units,"15,416","+/-2,212",4.1,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",14,Mobile home,"26,396","+/-2,289",7.0,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",15,"Boat, RV, van, etc.",85,+/-104,0.0,+/-0.1
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",15.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",16,Total housing units,"378,434","+/-3,512","378,434",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",17,Built 2020 or later,"3,615","+/-1,301",1.0,+/-0.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",18,Built 2010 to 2019,"42,655","+/-3,704",11.3,+/-1.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",19,Built 2000 to 2009,"58,838","+/-3,882",15.5,+/-1.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",20,Built 1990 to 1999,"54,204","+/-3,684",14.3,+/-1.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",21,Built 1980 to 1989,"40,660","+/-3,100",10.7,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",22,Built 1970 to 1979,"71,313","+/-3,609",18.8,+/-1.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",23,Built 1960 to 1969,"27,239","+/-2,647",7.2,+/-0.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",24,Built 1950 to 1959,"29,060","+/-2,379",7.7,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",25,Built 1940 to 1949,"14,695","+/-1,808",3.9,+/-0.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",26,Built 1939 or earlier,"36,155","+/-3,120",9.6,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",26.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",26.5,ROOMS,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",27,Total housing units,"378,434","+/-3,512","378,434",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",28,1 room,"7,823","+/-1,334",2.1,+/-0.4
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",29,2 rooms,"10,477","+/-1,808",2.8,+/-0.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",30,3 rooms,"25,990","+/-2,641",6.9,+/-0.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",31,4 rooms,"58,604","+/-3,994",15.5,+/-1.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",32,5 rooms,"70,879","+/-3,956",18.7,+/-1.1
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",33,6 rooms,"51,966","+/-3,955",13.7,+/-1.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",34,7 rooms,"41,963","+/-3,317",11.1,+/-0.9
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",35,8 rooms,"38,224","+/-3,159",10.1,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",36,9 rooms or more,"72,508","+/-4,027",19.2,+/-1.1
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",37,Median rooms,5.8,+/-0.1,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",37.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",37.5,BEDROOMS,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",38,Total housing units,"378,434","+/-3,512","378,434",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",39,No bedroom,"8,560","+/-1,491",2.3,+/-0.4
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",40,1 bedroom,"26,829","+/-2,617",7.1,+/-0.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",41,2 bedrooms,"88,614","+/-4,537",23.4,+/-1.1
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",42,3 bedrooms,"140,107","+/-4,963",37.0,+/-1.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",43,4 bedrooms,"71,911","+/-3,967",19.0,+/-1.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",44,5 or more bedrooms,"42,413","+/-3,327",11.2,+/-0.9
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",44.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",44.5,HOUSING TENURE,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",45,Occupied housing units,"341,439","+/-4,030","341,439",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",46,Owner-occupied,"237,358","+/-4,497",69.5,+/-1.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",47,Renter-occupied,"104,081","+/-4,928",30.5,+/-1.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",47.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",48,Average household size of owner-occupied unit,2.82,+/-0.04,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",49,Average household size of renter-occupied unit,2.42,+/-0.09,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",49.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",50,Occupied housing units,"341,439","+/-4,030","341,439",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",51,Moved in 2019 or later,"101,618","+/-5,094",29.8,+/-1.4
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",52,Moved in 2015 to 2018,"80,982","+/-4,149",23.7,+/-1.1
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",53,Moved in 2010 to 2014,"41,983","+/-2,828",12.3,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",54,Moved in 2000 to 2009,"53,740","+/-3,196",15.7,+/-0.9
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",55,Moved in 1990 to 1999,"33,486","+/-2,327",9.8,+/-0.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",56,Moved in 1989 and earlier,"29,630","+/-2,259",8.7,+/-0.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",56.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",57,Occupied housing units,"341,439","+/-4,030","341,439",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",58,No vehicles available,"12,397","+/-1,983",3.6,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",59,1 vehicle available,"86,785","+/-4,454",25.4,+/-1.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",60,2 vehicles available,"127,922","+/-5,461",37.5,+/-1.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",61,3 or more vehicles available,"114,335","+/-4,389",33.5,+/-1.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",61.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",62,Occupied housing units,"341,439","+/-4,030","341,439",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",63,Utility gas,"172,114","+/-4,960",50.4,+/-1.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",64,"Bottled, tank, or LP gas","21,997","+/-2,224",6.4,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",65,Electricity,"125,958","+/-5,178",36.9,+/-1.4
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",66,"Fuel oil, kerosene, etc.","4,537",+/-978,1.3,+/-0.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",67,Coal or coke,236,+/-253,0.1,+/-0.1
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",68,Wood,"12,726","+/-1,803",3.7,+/-0.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",69,Solar energy,657,+/-319,0.2,+/-0.1
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",70,Other fuel,"1,881",+/-545,0.6,+/-0.2
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",71,No fuel used,"1,333",+/-629,0.4,+/-0.2
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",71.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",72,Occupied housing units,"341,439","+/-4,030","341,439",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",73,Lacking complete plumbing facilities,994,+/-552,0.3,+/-0.2
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",74,Lacking complete kitchen facilities,"2,864",+/-994,0.8,+/-0.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",75,No telephone service available,"2,427",+/-873,0.7,+/-0.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",75.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",76,Occupied housing units,"341,439","+/-4,030","341,439",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",77,1.00 or less,"329,242","+/-4,935",96.4,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",78,1.01 to 1.50,"8,846","+/-1,922",2.6,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",79,1.51 or more,"3,351","+/-1,025",1.0,+/-0.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",79.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",79.5,VALUE,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",80,Owner-occupied units,"237,358","+/-4,497","237,358",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",81,"Less than $50,000","13,895","+/-1,919",5.9,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",82,"$50,000 to $99,999","10,032","+/-1,479",4.2,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",83,"$100,000 to $149,999","12,180","+/-1,382",5.1,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",84,"$150,000 to $199,999","19,541","+/-2,031",8.2,+/-0.9
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",85,"$200,000 to $299,999","44,868","+/-3,040",18.9,+/-1.2
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",86,"$300,000 to $499,999","82,326","+/-4,319",34.7,+/-1.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",87,"$500,000 to $999,999","46,246","+/-3,270",19.5,+/-1.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",88,"$1,000,000 or more","8,270","+/-1,454",3.5,+/-0.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",89,Median (dollars),"339,400","+/-6,305",(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",89.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",90,Owner-occupied units,"237,358","+/-4,497","237,358",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",91,Housing units with a mortgage,"149,059","+/-4,789",62.8,+/-1.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",92,Housing units without a mortgage,"88,299","+/-3,992",37.2,+/-1.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",92.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",93,Housing units with a mortgage,"149,059","+/-4,789","149,059",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",94,Less than $500,"1,889",+/-633,1.3,+/-0.4
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",95,$500 to $999,"33,842","+/-3,020",22.7,+/-1.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",96,"$1,000 to $1,499","52,597","+/-3,074",35.3,+/-1.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",97,"$1,500 to $1,999","34,518","+/-3,029",23.2,+/-2.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",98,"$2,000 to $2,499","13,804","+/-2,057",9.3,+/-1.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",99,"$2,500 to $2,999","6,167","+/-1,275",4.1,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",100,"$3,000 or more","6,242","+/-1,000",4.2,+/-0.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",101,Median (dollars),"1,369",+/-28,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",101.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",102,Housing units without a mortgage,"88,299","+/-3,992","88,299",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",103,Less than $250,"12,151","+/-1,671",13.8,+/-1.9
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",104,$250 to $399,"29,407","+/-2,525",33.3,+/-2.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",105,$400 to $599,"26,862","+/-2,703",30.4,+/-2.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",106,$600 to $799,"12,413","+/-1,872",14.1,+/-2.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",107,$800 to $999,"4,189",+/-986,4.7,+/-1.1
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",108,"$1,000 or more","3,277",+/-912,3.7,+/-1.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",109,Median (dollars),416,+/-14,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",109.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"148,420","+/-4,751","148,420",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",111,Less than 20.0 percent,"76,239","+/-4,318",51.4,+/-2.4
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",112,20.0 to 24.9 percent,"24,067","+/-2,674",16.2,+/-1.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",113,25.0 to 29.9 percent,"12,772","+/-1,930",8.6,+/-1.3
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",114,30.0 to 34.9 percent,"8,515","+/-1,592",5.7,+/-1.1
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",115,35.0 percent or more,"26,827","+/-2,747",18.1,+/-1.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",115.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",116,Not computed,639,+/-382,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",116.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"86,979","+/-3,987","86,979",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",118,Less than 10.0 percent,"46,613","+/-3,102",53.6,+/-2.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",119,10.0 to 14.9 percent,"16,994","+/-2,512",19.5,+/-2.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",120,15.0 to 19.9 percent,"7,366","+/-1,252",8.5,+/-1.4
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",121,20.0 to 24.9 percent,"4,034","+/-1,404",4.6,+/-1.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",122,25.0 to 29.9 percent,"3,106",+/-846,3.6,+/-0.9
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",123,30.0 to 34.9 percent,"1,585",+/-671,1.8,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",124,35.0 percent or more,"7,281","+/-1,279",8.4,+/-1.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",124.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",125,Not computed,"1,320",+/-576,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",125.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",125.5,GROSS RENT,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",126,Occupied units paying rent,"97,635","+/-4,679","97,635",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",127,Less than $500,"9,327","+/-1,660",9.6,+/-1.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",128,$500 to $999,"41,206","+/-3,128",42.2,+/-2.9
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",129,"$1,000 to $1,499","31,740","+/-3,012",32.5,+/-2.7
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",130,"$1,500 to $1,999","12,321","+/-2,778",12.6,+/-2.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",131,"$2,000 to $2,499","1,768",+/-835,1.8,+/-0.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",132,"$2,500 to $2,999",675,+/-426,0.7,+/-0.4
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",133,"$3,000 or more",598,+/-515,0.6,+/-0.5
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",134,Median (dollars),979,+/-33,(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",134.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",135,No rent paid,"6,446","+/-1,227",(X),(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",135.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"96,435","+/-4,513","96,435",(X)
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",137,Less than 15.0 percent,"14,468","+/-2,008",15.0,+/-2.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",138,15.0 to 19.9 percent,"10,812","+/-1,955",11.2,+/-2.0
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",139,20.0 to 24.9 percent,"16,450","+/-2,241",17.1,+/-2.2
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",140,25.0 to 29.9 percent,"11,456","+/-1,773",11.9,+/-1.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",141,30.0 to 34.9 percent,"8,652","+/-1,877",9.0,+/-1.8
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",142,35.0 percent or more,"34,597","+/-3,061",35.9,+/-2.6
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",142.3,,,,,
+DP04,5001800US1602,"Congressional District 2 (118th Congress), Idaho",143,Not computed,"7,646","+/-1,395",(X),(X)

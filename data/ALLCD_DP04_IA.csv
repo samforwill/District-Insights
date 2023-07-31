@@ -1,0 +1,745 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",0.5,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",1,Total housing units,"353,329","+/-1,252","353,329",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",2,Occupied housing units,"322,535","+/-3,014",91.3,+/-0.9
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",3,Vacant housing units,"30,794","+/-3,109",8.7,+/-0.9
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",3.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",4,Homeowner vacancy rate,0.9,+/-0.3,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",5,Rental vacancy rate,5.0,+/-1.6,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",5.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",6,Total housing units,"353,329","+/-1,252","353,329",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",7,"1-unit, detached","251,593","+/-3,838",71.2,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",8,"1-unit, attached","17,662","+/-2,116",5.0,+/-0.6
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",9,2 units,"8,065","+/-1,573",2.3,+/-0.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",10,3 or 4 units,"12,610","+/-1,986",3.6,+/-0.6
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",11,5 to 9 units,"13,042","+/-1,912",3.7,+/-0.5
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",12,10 to 19 units,"15,597","+/-2,264",4.4,+/-0.6
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",13,20 or more units,"21,746","+/-2,119",6.2,+/-0.6
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",14,Mobile home,"12,747","+/-1,659",3.6,+/-0.5
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",15,"Boat, RV, van, etc.",267,+/-214,0.1,+/-0.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",15.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",16,Total housing units,"353,329","+/-1,252","353,329",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",17,Built 2020 or later,"1,842",+/-586,0.5,+/-0.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",18,Built 2010 to 2019,"31,505","+/-2,691",8.9,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",19,Built 2000 to 2009,"40,076","+/-2,951",11.3,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",20,Built 1990 to 1999,"34,231","+/-2,731",9.7,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",21,Built 1980 to 1989,"25,998","+/-2,345",7.4,+/-0.7
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",22,Built 1970 to 1979,"54,852","+/-3,082",15.5,+/-0.9
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",23,Built 1960 to 1969,"35,291","+/-2,301",10.0,+/-0.7
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",24,Built 1950 to 1959,"30,635","+/-2,310",8.7,+/-0.7
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",25,Built 1940 to 1949,"15,331","+/-1,613",4.3,+/-0.5
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",26,Built 1939 or earlier,"83,568","+/-3,451",23.7,+/-1.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",26.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",26.5,ROOMS,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",27,Total housing units,"353,329","+/-1,252","353,329",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",28,1 room,"5,809","+/-1,293",1.6,+/-0.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",29,2 rooms,"7,579","+/-1,390",2.1,+/-0.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",30,3 rooms,"27,400","+/-2,489",7.8,+/-0.7
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",31,4 rooms,"51,148","+/-3,547",14.5,+/-1.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",32,5 rooms,"55,989","+/-3,571",15.8,+/-1.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",33,6 rooms,"57,959","+/-3,613",16.4,+/-1.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",34,7 rooms,"44,838","+/-2,894",12.7,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",35,8 rooms,"37,495","+/-2,781",10.6,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",36,9 rooms or more,"65,112","+/-3,731",18.4,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",37,Median rooms,6.0,+/-0.1,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",37.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",37.5,BEDROOMS,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",38,Total housing units,"353,329","+/-1,252","353,329",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",39,No bedroom,"7,023","+/-1,510",2.0,+/-0.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",40,1 bedroom,"31,828","+/-2,869",9.0,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",41,2 bedrooms,"97,086","+/-3,949",27.5,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",42,3 bedrooms,"130,933","+/-4,794",37.1,+/-1.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",43,4 bedrooms,"64,028","+/-3,470",18.1,+/-1.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",44,5 or more bedrooms,"22,431","+/-2,432",6.3,+/-0.7
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",44.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",44.5,HOUSING TENURE,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",45,Occupied housing units,"322,535","+/-3,014","322,535",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",46,Owner-occupied,"230,202","+/-4,024",71.4,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",47,Renter-occupied,"92,333","+/-3,886",28.6,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",47.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",48,Average household size of owner-occupied unit,2.54,+/-0.03,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",49,Average household size of renter-occupied unit,2.02,+/-0.07,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",49.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",50,Occupied housing units,"322,535","+/-3,014","322,535",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",51,Moved in 2019 or later,"83,506","+/-4,015",25.9,+/-1.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",52,Moved in 2015 to 2018,"67,167","+/-4,138",20.8,+/-1.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",53,Moved in 2010 to 2014,"42,492","+/-3,021",13.2,+/-0.9
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",54,Moved in 2000 to 2009,"58,850","+/-3,184",18.2,+/-1.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",55,Moved in 1990 to 1999,"33,392","+/-2,596",10.4,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",56,Moved in 1989 and earlier,"37,128","+/-2,542",11.5,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",56.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",57,Occupied housing units,"322,535","+/-3,014","322,535",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",58,No vehicles available,"21,560","+/-2,072",6.7,+/-0.6
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",59,1 vehicle available,"96,717","+/-3,925",30.0,+/-1.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",60,2 vehicles available,"122,173","+/-4,300",37.9,+/-1.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",61,3 or more vehicles available,"82,085","+/-3,480",25.4,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",61.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",62,Occupied housing units,"322,535","+/-3,014","322,535",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",63,Utility gas,"196,511","+/-4,592",60.9,+/-1.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",64,"Bottled, tank, or LP gas","44,176","+/-2,317",13.7,+/-0.7
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",65,Electricity,"72,579","+/-3,997",22.5,+/-1.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",66,"Fuel oil, kerosene, etc.",874,+/-357,0.3,+/-0.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",67,Coal or coke,68,+/-107,0.0,+/-0.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",68,Wood,"3,858",+/-810,1.2,+/-0.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",69,Solar energy,458,+/-227,0.1,+/-0.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",70,Other fuel,"2,070",+/-635,0.6,+/-0.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",71,No fuel used,"1,941",+/-893,0.6,+/-0.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",71.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",72,Occupied housing units,"322,535","+/-3,014","322,535",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",73,Lacking complete plumbing facilities,835,+/-474,0.3,+/-0.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",74,Lacking complete kitchen facilities,"2,778",+/-986,0.9,+/-0.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",75,No telephone service available,"3,697","+/-1,037",1.1,+/-0.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",75.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",76,Occupied housing units,"322,535","+/-3,014","322,535",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",77,1.00 or less,"318,762","+/-3,272",98.8,+/-0.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",78,1.01 to 1.50,"2,627",+/-806,0.8,+/-0.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",79,1.51 or more,"1,146",+/-483,0.4,+/-0.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",79.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",79.5,VALUE,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",80,Owner-occupied units,"230,202","+/-4,024","230,202",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",81,"Less than $50,000","17,779","+/-1,803",7.7,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",82,"$50,000 to $99,999","33,694","+/-2,081",14.6,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",83,"$100,000 to $149,999","38,005","+/-2,515",16.5,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",84,"$150,000 to $199,999","40,233","+/-2,885",17.5,+/-1.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",85,"$200,000 to $299,999","47,737","+/-3,102",20.7,+/-1.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",86,"$300,000 to $499,999","40,015","+/-2,666",17.4,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",87,"$500,000 to $999,999","11,368","+/-1,870",4.9,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",88,"$1,000,000 or more","1,371",+/-464,0.6,+/-0.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",89,Median (dollars),"178,100","+/-4,893",(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",89.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",90,Owner-occupied units,"230,202","+/-4,024","230,202",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",91,Housing units with a mortgage,"140,746","+/-3,891",61.1,+/-1.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",92,Housing units without a mortgage,"89,456","+/-3,397",38.9,+/-1.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",92.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",93,Housing units with a mortgage,"140,746","+/-3,891","140,746",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",94,Less than $500,"1,822",+/-626,1.3,+/-0.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",95,$500 to $999,"33,418","+/-2,187",23.7,+/-1.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",96,"$1,000 to $1,499","46,550","+/-3,347",33.1,+/-2.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",97,"$1,500 to $1,999","31,017","+/-2,216",22.0,+/-1.6
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",98,"$2,000 to $2,499","15,693","+/-1,813",11.1,+/-1.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",99,"$2,500 to $2,999","5,117","+/-1,107",3.6,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",100,"$3,000 or more","7,129","+/-1,382",5.1,+/-1.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",101,Median (dollars),"1,359",+/-31,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",101.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",102,Housing units without a mortgage,"89,456","+/-3,397","89,456",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",103,Less than $250,"5,524",+/-868,6.2,+/-1.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",104,$250 to $399,"15,605","+/-1,858",17.4,+/-1.9
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",105,$400 to $599,"35,023","+/-2,219",39.2,+/-2.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",106,$600 to $799,"19,848","+/-1,995",22.2,+/-2.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",107,$800 to $999,"7,778","+/-1,321",8.7,+/-1.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",108,"$1,000 or more","5,678","+/-1,124",6.3,+/-1.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",109,Median (dollars),533,+/-11,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",109.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"140,064","+/-3,834","140,064",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",111,Less than 20.0 percent,"77,816","+/-3,971",55.6,+/-2.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",112,20.0 to 24.9 percent,"20,704","+/-1,885",14.8,+/-1.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",113,25.0 to 29.9 percent,"13,014","+/-1,923",9.3,+/-1.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",114,30.0 to 34.9 percent,"8,518","+/-1,595",6.1,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",115,35.0 percent or more,"20,012","+/-1,947",14.3,+/-1.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",115.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",116,Not computed,682,+/-624,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",116.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"88,160","+/-3,430","88,160",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",118,Less than 10.0 percent,"39,484","+/-2,627",44.8,+/-2.3
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",119,10.0 to 14.9 percent,"19,264","+/-1,868",21.9,+/-1.9
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",120,15.0 to 19.9 percent,"10,610","+/-1,097",12.0,+/-1.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",121,20.0 to 24.9 percent,"5,460",+/-926,6.2,+/-1.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",122,25.0 to 29.9 percent,"2,873",+/-699,3.3,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",123,30.0 to 34.9 percent,"2,854",+/-731,3.2,+/-0.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",124,35.0 percent or more,"7,615","+/-1,317",8.6,+/-1.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",124.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",125,Not computed,"1,296",+/-436,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",125.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",125.5,GROSS RENT,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",126,Occupied units paying rent,"86,527","+/-3,941","86,527",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",127,Less than $500,"9,480","+/-1,301",11.0,+/-1.5
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",128,$500 to $999,"50,829","+/-3,234",58.7,+/-2.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",129,"$1,000 to $1,499","19,860","+/-2,433",23.0,+/-2.5
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",130,"$1,500 to $1,999","4,019","+/-1,024",4.6,+/-1.2
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",131,"$2,000 to $2,499",798,+/-369,0.9,+/-0.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",132,"$2,500 to $2,999",322,+/-354,0.4,+/-0.4
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",133,"$3,000 or more","1,219",+/-464,1.4,+/-0.5
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",134,Median (dollars),845,+/-18,(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",134.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",135,No rent paid,"5,806","+/-1,055",(X),(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",135.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"84,867","+/-3,985","84,867",(X)
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",137,Less than 15.0 percent,"13,790","+/-1,818",16.2,+/-2.0
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",138,15.0 to 19.9 percent,"11,482","+/-1,900",13.5,+/-2.1
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",139,20.0 to 24.9 percent,"10,122","+/-1,557",11.9,+/-1.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",140,25.0 to 29.9 percent,"8,275","+/-1,592",9.8,+/-1.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",141,30.0 to 34.9 percent,"6,529","+/-1,519",7.7,+/-1.8
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",142,35.0 percent or more,"34,669","+/-3,512",40.9,+/-3.6
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",142.3,,,,,
+DP04,5001800US1901,"Congressional District 1 (118th Congress), Iowa",143,Not computed,"7,466","+/-1,235",(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",0.5,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",1,Total housing units,"362,205","+/-1,104","362,205",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",2,Occupied housing units,"328,465","+/-3,432",90.7,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",3,Vacant housing units,"33,740","+/-3,164",9.3,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",3.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",4,Homeowner vacancy rate,0.9,+/-0.4,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",5,Rental vacancy rate,6.0,+/-1.6,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",5.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",6,Total housing units,"362,205","+/-1,104","362,205",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",7,"1-unit, detached","273,309","+/-3,166",75.5,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",8,"1-unit, attached","11,692","+/-1,480",3.2,+/-0.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",9,2 units,"8,533","+/-1,419",2.4,+/-0.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",10,3 or 4 units,"13,303","+/-1,672",3.7,+/-0.5
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",11,5 to 9 units,"13,616","+/-2,065",3.8,+/-0.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",12,10 to 19 units,"13,156","+/-2,011",3.6,+/-0.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",13,20 or more units,"16,841","+/-1,726",4.6,+/-0.5
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",14,Mobile home,"11,755","+/-1,961",3.2,+/-0.5
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",15,"Boat, RV, van, etc.",0,+/-170,0.0,+/-0.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",15.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",16,Total housing units,"362,205","+/-1,104","362,205",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",17,Built 2020 or later,"1,745",+/-659,0.5,+/-0.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",18,Built 2010 to 2019,"27,659","+/-2,699",7.6,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",19,Built 2000 to 2009,"37,716","+/-3,074",10.4,+/-0.8
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",20,Built 1990 to 1999,"30,059","+/-2,663",8.3,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",21,Built 1980 to 1989,"25,082","+/-2,169",6.9,+/-0.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",22,Built 1970 to 1979,"52,102","+/-2,915",14.4,+/-0.8
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",23,Built 1960 to 1969,"40,154","+/-2,642",11.1,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",24,Built 1950 to 1959,"37,873","+/-2,380",10.5,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",25,Built 1940 to 1949,"17,588","+/-1,798",4.9,+/-0.5
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",26,Built 1939 or earlier,"92,227","+/-3,146",25.5,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",26.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",26.5,ROOMS,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",27,Total housing units,"362,205","+/-1,104","362,205",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",28,1 room,"5,858","+/-1,308",1.6,+/-0.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",29,2 rooms,"8,913","+/-1,538",2.5,+/-0.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",30,3 rooms,"21,686","+/-2,299",6.0,+/-0.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",31,4 rooms,"49,190","+/-3,603",13.6,+/-1.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",32,5 rooms,"61,216","+/-3,400",16.9,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",33,6 rooms,"60,103","+/-3,273",16.6,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",34,7 rooms,"51,854","+/-2,859",14.3,+/-0.8
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",35,8 rooms,"39,404","+/-2,582",10.9,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",36,9 rooms or more,"63,981","+/-3,744",17.7,+/-1.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",37,Median rooms,6.1,+/-0.1,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",37.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",37.5,BEDROOMS,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",38,Total housing units,"362,205","+/-1,104","362,205",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",39,No bedroom,"6,431","+/-1,289",1.8,+/-0.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",40,1 bedroom,"30,089","+/-2,500",8.3,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",41,2 bedrooms,"91,195","+/-4,166",25.2,+/-1.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",42,3 bedrooms,"145,407","+/-3,474",40.1,+/-1.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",43,4 bedrooms,"67,790","+/-3,246",18.7,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",44,5 or more bedrooms,"21,293","+/-2,181",5.9,+/-0.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",44.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",44.5,HOUSING TENURE,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",45,Occupied housing units,"328,465","+/-3,432","328,465",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",46,Owner-occupied,"244,881","+/-4,198",74.6,+/-1.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",47,Renter-occupied,"83,584","+/-3,327",25.4,+/-1.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",47.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",48,Average household size of owner-occupied unit,2.46,+/-0.03,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",49,Average household size of renter-occupied unit,2.03,+/-0.07,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",49.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",50,Occupied housing units,"328,465","+/-3,432","328,465",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",51,Moved in 2019 or later,"82,015","+/-4,067",25.0,+/-1.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",52,Moved in 2015 to 2018,"64,085","+/-3,415",19.5,+/-1.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",53,Moved in 2010 to 2014,"44,182","+/-2,782",13.5,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",54,Moved in 2000 to 2009,"60,558","+/-3,062",18.4,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",55,Moved in 1990 to 1999,"36,079","+/-2,587",11.0,+/-0.8
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",56,Moved in 1989 and earlier,"41,546","+/-2,065",12.6,+/-0.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",56.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",57,Occupied housing units,"328,465","+/-3,432","328,465",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",58,No vehicles available,"17,935","+/-1,847",5.5,+/-0.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",59,1 vehicle available,"98,273","+/-4,740",29.9,+/-1.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",60,2 vehicles available,"125,152","+/-3,765",38.1,+/-1.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",61,3 or more vehicles available,"87,105","+/-4,223",26.5,+/-1.3
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",61.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",62,Occupied housing units,"328,465","+/-3,432","328,465",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",63,Utility gas,"203,626","+/-4,340",62.0,+/-1.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",64,"Bottled, tank, or LP gas","46,944","+/-2,235",14.3,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",65,Electricity,"66,669","+/-3,667",20.3,+/-1.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",66,"Fuel oil, kerosene, etc.","1,800",+/-458,0.5,+/-0.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",67,Coal or coke,0,+/-170,0.0,+/-0.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",68,Wood,"4,960","+/-1,096",1.5,+/-0.3
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",69,Solar energy,315,+/-217,0.1,+/-0.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",70,Other fuel,"2,582",+/-766,0.8,+/-0.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",71,No fuel used,"1,569",+/-552,0.5,+/-0.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",71.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",72,Occupied housing units,"328,465","+/-3,432","328,465",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",73,Lacking complete plumbing facilities,"1,550",+/-575,0.5,+/-0.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",74,Lacking complete kitchen facilities,"3,420",+/-839,1.0,+/-0.3
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",75,No telephone service available,"2,280",+/-695,0.7,+/-0.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",75.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",76,Occupied housing units,"328,465","+/-3,432","328,465",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",77,1.00 or less,"324,680","+/-3,307",98.8,+/-0.3
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",78,1.01 to 1.50,"2,673",+/-885,0.8,+/-0.3
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",79,1.51 or more,"1,112",+/-465,0.3,+/-0.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",79.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",79.5,VALUE,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",80,Owner-occupied units,"244,881","+/-4,198","244,881",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",81,"Less than $50,000","16,543","+/-1,956",6.8,+/-0.8
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",82,"$50,000 to $99,999","33,799","+/-2,343",13.8,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",83,"$100,000 to $149,999","47,992","+/-2,336",19.6,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",84,"$150,000 to $199,999","48,852","+/-3,152",19.9,+/-1.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",85,"$200,000 to $299,999","53,179","+/-3,137",21.7,+/-1.3
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",86,"$300,000 to $499,999","33,832","+/-2,482",13.8,+/-1.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",87,"$500,000 to $999,999","8,975","+/-1,630",3.7,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",88,"$1,000,000 or more","1,709",+/-609,0.7,+/-0.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",89,Median (dollars),"168,600","+/-2,496",(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",89.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",90,Owner-occupied units,"244,881","+/-4,198","244,881",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",91,Housing units with a mortgage,"146,074","+/-4,510",59.7,+/-1.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",92,Housing units without a mortgage,"98,807","+/-3,493",40.3,+/-1.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",92.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",93,Housing units with a mortgage,"146,074","+/-4,510","146,074",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",94,Less than $500,"2,041",+/-561,1.4,+/-0.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",95,$500 to $999,"37,335","+/-2,598",25.6,+/-1.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",96,"$1,000 to $1,499","55,748","+/-3,343",38.2,+/-2.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",97,"$1,500 to $1,999","29,736","+/-2,121",20.4,+/-1.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",98,"$2,000 to $2,499","11,307","+/-1,589",7.7,+/-1.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",99,"$2,500 to $2,999","4,289",+/-996,2.9,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",100,"$3,000 or more","5,618","+/-1,282",3.8,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",101,Median (dollars),"1,276",+/-26,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",101.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",102,Housing units without a mortgage,"98,807","+/-3,493","98,807",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",103,Less than $250,"5,694",+/-954,5.8,+/-1.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",104,$250 to $399,"18,870","+/-1,921",19.1,+/-1.8
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",105,$400 to $599,"38,192","+/-2,548",38.7,+/-2.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",106,$600 to $799,"21,417","+/-1,966",21.7,+/-1.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",107,$800 to $999,"8,940","+/-1,405",9.0,+/-1.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",108,"$1,000 or more","5,694","+/-1,609",5.8,+/-1.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",109,Median (dollars),526,+/-11,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",109.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"145,744","+/-4,505","145,744",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",111,Less than 20.0 percent,"79,142","+/-3,706",54.3,+/-2.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",112,20.0 to 24.9 percent,"20,447","+/-2,231",14.0,+/-1.4
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",113,25.0 to 29.9 percent,"14,095","+/-1,766",9.7,+/-1.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",114,30.0 to 34.9 percent,"8,137","+/-1,314",5.6,+/-0.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",115,35.0 percent or more,"23,923","+/-2,487",16.4,+/-1.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",115.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",116,Not computed,330,+/-321,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",116.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"98,414","+/-3,511","98,414",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",118,Less than 10.0 percent,"45,040","+/-2,647",45.8,+/-2.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",119,10.0 to 14.9 percent,"21,778","+/-1,723",22.1,+/-1.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",120,15.0 to 19.9 percent,"10,682","+/-1,296",10.9,+/-1.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",121,20.0 to 24.9 percent,"6,034","+/-1,074",6.1,+/-1.1
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",122,25.0 to 29.9 percent,"3,189",+/-603,3.2,+/-0.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",123,30.0 to 34.9 percent,"2,461",+/-686,2.5,+/-0.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",124,35.0 percent or more,"9,230","+/-1,693",9.4,+/-1.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",124.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",125,Not computed,393,+/-215,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",125.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",125.5,GROSS RENT,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",126,Occupied units paying rent,"77,417","+/-3,253","77,417",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",127,Less than $500,"11,187","+/-1,426",14.5,+/-1.9
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",128,$500 to $999,"45,887","+/-3,094",59.3,+/-3.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",129,"$1,000 to $1,499","15,295","+/-2,181",19.8,+/-2.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",130,"$1,500 to $1,999","3,223","+/-1,001",4.2,+/-1.3
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",131,"$2,000 to $2,499",642,+/-379,0.8,+/-0.5
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",132,"$2,500 to $2,999",187,+/-159,0.2,+/-0.2
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",133,"$3,000 or more",996,+/-479,1.3,+/-0.6
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",134,Median (dollars),788,+/-21,(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",134.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",135,No rent paid,"6,167","+/-1,020",(X),(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",135.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"76,005","+/-3,276","76,005",(X)
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",137,Less than 15.0 percent,"12,679","+/-1,623",16.7,+/-2.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",138,15.0 to 19.9 percent,"10,251","+/-1,585",13.5,+/-2.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",139,20.0 to 24.9 percent,"9,280","+/-1,556",12.2,+/-2.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",140,25.0 to 29.9 percent,"8,613","+/-1,546",11.3,+/-2.0
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",141,30.0 to 34.9 percent,"5,823","+/-1,304",7.7,+/-1.7
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",142,35.0 percent or more,"29,359","+/-2,475",38.6,+/-2.8
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",142.3,,,,,
+DP04,5001800US1902,"Congressional District 2 (118th Congress), Iowa",143,Not computed,"7,579","+/-1,276",(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",0.5,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",1,Total housing units,"355,382","+/-1,642","355,382",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",2,Occupied housing units,"328,779","+/-3,200",92.5,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",3,Vacant housing units,"26,603","+/-2,824",7.5,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",3.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",4,Homeowner vacancy rate,0.8,+/-0.3,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",5,Rental vacancy rate,5.7,+/-1.4,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",5.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",6,Total housing units,"355,382","+/-1,642","355,382",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",7,"1-unit, detached","242,164","+/-4,830",68.1,+/-1.3
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",8,"1-unit, attached","21,679","+/-2,889",6.1,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",9,2 units,"7,631","+/-1,434",2.1,+/-0.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",10,3 or 4 units,"9,306","+/-1,945",2.6,+/-0.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",11,5 to 9 units,"11,719","+/-1,736",3.3,+/-0.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",12,10 to 19 units,"15,212","+/-2,463",4.3,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",13,20 or more units,"38,792","+/-3,079",10.9,+/-0.9
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",14,Mobile home,"8,156","+/-1,365",2.3,+/-0.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",15,"Boat, RV, van, etc.",723,+/-564,0.2,+/-0.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",15.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",16,Total housing units,"355,382","+/-1,642","355,382",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",17,Built 2020 or later,"4,355","+/-1,070",1.2,+/-0.3
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",18,Built 2010 to 2019,"49,029","+/-3,491",13.8,+/-1.0
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",19,Built 2000 to 2009,"48,339","+/-3,936",13.6,+/-1.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",20,Built 1990 to 1999,"36,521","+/-2,708",10.3,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",21,Built 1980 to 1989,"27,306","+/-2,467",7.7,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",22,Built 1970 to 1979,"45,644","+/-3,159",12.8,+/-0.9
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",23,Built 1960 to 1969,"28,217","+/-2,605",7.9,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",24,Built 1950 to 1959,"31,554","+/-2,380",8.9,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",25,Built 1940 to 1949,"15,179","+/-1,443",4.3,+/-0.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",26,Built 1939 or earlier,"69,238","+/-3,749",19.5,+/-1.0
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",26.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",26.5,ROOMS,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",27,Total housing units,"355,382","+/-1,642","355,382",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",28,1 room,"7,374","+/-1,708",2.1,+/-0.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",29,2 rooms,"12,629","+/-1,866",3.6,+/-0.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",30,3 rooms,"29,236","+/-2,483",8.2,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",31,4 rooms,"53,460","+/-3,505",15.0,+/-1.0
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",32,5 rooms,"59,955","+/-3,994",16.9,+/-1.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",33,6 rooms,"58,589","+/-3,598",16.5,+/-1.0
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",34,7 rooms,"41,950","+/-2,914",11.8,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",35,8 rooms,"35,966","+/-2,862",10.1,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",36,9 rooms or more,"56,223","+/-3,002",15.8,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",37,Median rooms,5.8,+/-0.2,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",37.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",37.5,BEDROOMS,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",38,Total housing units,"355,382","+/-1,642","355,382",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",39,No bedroom,"8,267","+/-1,831",2.3,+/-0.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",40,1 bedroom,"35,311","+/-2,884",9.9,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",41,2 bedrooms,"99,528","+/-4,622",28.0,+/-1.3
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",42,3 bedrooms,"129,745","+/-4,364",36.5,+/-1.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",43,4 bedrooms,"62,257","+/-3,747",17.5,+/-1.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",44,5 or more bedrooms,"20,274","+/-2,479",5.7,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",44.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",44.5,HOUSING TENURE,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",45,Occupied housing units,"328,779","+/-3,200","328,779",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",46,Owner-occupied,"227,627","+/-4,448",69.2,+/-1.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",47,Renter-occupied,"101,152","+/-4,243",30.8,+/-1.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",47.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",48,Average household size of owner-occupied unit,2.62,+/-0.03,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",49,Average household size of renter-occupied unit,1.96,+/-0.07,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",49.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",50,Occupied housing units,"328,779","+/-3,200","328,779",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",51,Moved in 2019 or later,"99,896","+/-4,670",30.4,+/-1.3
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",52,Moved in 2015 to 2018,"77,197","+/-4,576",23.5,+/-1.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",53,Moved in 2010 to 2014,"38,525","+/-3,514",11.7,+/-1.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",54,Moved in 2000 to 2009,"56,062","+/-3,199",17.1,+/-1.0
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",55,Moved in 1990 to 1999,"28,224","+/-2,358",8.6,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",56,Moved in 1989 and earlier,"28,875","+/-2,231",8.8,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",56.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",57,Occupied housing units,"328,779","+/-3,200","328,779",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",58,No vehicles available,"16,949","+/-2,152",5.2,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",59,1 vehicle available,"103,824","+/-5,175",31.6,+/-1.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",60,2 vehicles available,"128,889","+/-5,285",39.2,+/-1.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",61,3 or more vehicles available,"79,117","+/-3,907",24.1,+/-1.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",61.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",62,Occupied housing units,"328,779","+/-3,200","328,779",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",63,Utility gas,"200,982","+/-5,042",61.1,+/-1.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",64,"Bottled, tank, or LP gas","25,898","+/-2,064",7.9,+/-0.6
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",65,Electricity,"94,343","+/-4,778",28.7,+/-1.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",66,"Fuel oil, kerosene, etc.",525,+/-306,0.2,+/-0.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",67,Coal or coke,185,+/-187,0.1,+/-0.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",68,Wood,"3,238",+/-714,1.0,+/-0.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",69,Solar energy,98,+/-126,0.0,+/-0.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",70,Other fuel,"1,925",+/-599,0.6,+/-0.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",71,No fuel used,"1,585",+/-492,0.5,+/-0.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",71.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",72,Occupied housing units,"328,779","+/-3,200","328,779",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",73,Lacking complete plumbing facilities,"1,414",+/-785,0.4,+/-0.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",74,Lacking complete kitchen facilities,"2,517",+/-749,0.8,+/-0.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",75,No telephone service available,"1,800",+/-522,0.5,+/-0.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",75.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",76,Occupied housing units,"328,779","+/-3,200","328,779",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",77,1.00 or less,"321,988","+/-3,617",97.9,+/-0.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",78,1.01 to 1.50,"4,870","+/-1,167",1.5,+/-0.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",79,1.51 or more,"1,921",+/-956,0.6,+/-0.3
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",79.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",79.5,VALUE,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",80,Owner-occupied units,"227,627","+/-4,448","227,627",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",81,"Less than $50,000","14,829","+/-1,605",6.5,+/-0.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",82,"$50,000 to $99,999","24,638","+/-1,833",10.8,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",83,"$100,000 to $149,999","31,621","+/-2,568",13.9,+/-1.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",84,"$150,000 to $199,999","36,349","+/-2,885",16.0,+/-1.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",85,"$200,000 to $299,999","58,080","+/-3,455",25.5,+/-1.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",86,"$300,000 to $499,999","48,071","+/-3,335",21.1,+/-1.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",87,"$500,000 to $999,999","12,426","+/-1,841",5.5,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",88,"$1,000,000 or more","1,613",+/-494,0.7,+/-0.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",89,Median (dollars),"210,100","+/-4,274",(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",89.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",90,Owner-occupied units,"227,627","+/-4,448","227,627",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",91,Housing units with a mortgage,"147,400","+/-4,982",64.8,+/-1.6
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",92,Housing units without a mortgage,"80,227","+/-3,630",35.2,+/-1.6
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",92.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",93,Housing units with a mortgage,"147,400","+/-4,982","147,400",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",94,Less than $500,"1,583",+/-683,1.1,+/-0.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",95,$500 to $999,"24,503","+/-2,189",16.6,+/-1.3
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",96,"$1,000 to $1,499","51,333","+/-3,767",34.8,+/-2.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",97,"$1,500 to $1,999","37,767","+/-3,160",25.6,+/-2.0
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",98,"$2,000 to $2,499","18,036","+/-2,739",12.2,+/-1.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",99,"$2,500 to $2,999","7,026","+/-1,689",4.8,+/-1.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",100,"$3,000 or more","7,152","+/-1,148",4.9,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",101,Median (dollars),"1,465",+/-30,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",101.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",102,Housing units without a mortgage,"80,227","+/-3,630","80,227",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",103,Less than $250,"5,273",+/-903,6.6,+/-1.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",104,$250 to $399,"13,591","+/-1,814",16.9,+/-2.0
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",105,$400 to $599,"26,390","+/-2,409",32.9,+/-2.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",106,$600 to $799,"17,582","+/-1,559",21.9,+/-1.9
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",107,$800 to $999,"9,757","+/-1,390",12.2,+/-1.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",108,"$1,000 or more","7,634","+/-1,394",9.5,+/-1.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",109,Median (dollars),560,+/-16,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",109.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"146,886","+/-4,983","146,886",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",111,Less than 20.0 percent,"83,204","+/-4,478",56.6,+/-2.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",112,20.0 to 24.9 percent,"23,044","+/-2,922",15.7,+/-1.9
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",113,25.0 to 29.9 percent,"12,682","+/-2,044",8.6,+/-1.3
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",114,30.0 to 34.9 percent,"8,090","+/-1,660",5.5,+/-1.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",115,35.0 percent or more,"19,866","+/-2,060",13.5,+/-1.3
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",115.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",116,Not computed,514,+/-391,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",116.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"79,594","+/-3,628","79,594",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",118,Less than 10.0 percent,"36,057","+/-2,562",45.3,+/-2.6
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",119,10.0 to 14.9 percent,"15,563","+/-1,824",19.6,+/-2.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",120,15.0 to 19.9 percent,"9,158","+/-1,338",11.5,+/-1.6
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",121,20.0 to 24.9 percent,"6,172","+/-1,501",7.8,+/-1.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",122,25.0 to 29.9 percent,"2,629",+/-694,3.3,+/-0.9
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",123,30.0 to 34.9 percent,"1,869",+/-691,2.3,+/-0.9
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",124,35.0 percent or more,"8,146","+/-1,453",10.2,+/-1.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",124.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",125,Not computed,633,+/-301,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",125.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",125.5,GROSS RENT,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",126,Occupied units paying rent,"95,788","+/-4,275","95,788",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",127,Less than $500,"7,887","+/-1,333",8.2,+/-1.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",128,$500 to $999,"47,537","+/-3,269",49.6,+/-3.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",129,"$1,000 to $1,499","29,794","+/-3,015",31.1,+/-2.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",130,"$1,500 to $1,999","8,092","+/-2,236",8.4,+/-2.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",131,"$2,000 to $2,499","1,474",+/-807,1.5,+/-0.8
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",132,"$2,500 to $2,999",380,+/-271,0.4,+/-0.3
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",133,"$3,000 or more",624,+/-357,0.7,+/-0.4
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",134,Median (dollars),943,+/-20,(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",134.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",135,No rent paid,"5,364","+/-1,197",(X),(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",135.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"94,011","+/-4,318","94,011",(X)
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",137,Less than 15.0 percent,"12,275","+/-2,161",13.1,+/-2.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",138,15.0 to 19.9 percent,"14,677","+/-2,459",15.6,+/-2.5
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",139,20.0 to 24.9 percent,"14,261","+/-2,125",15.2,+/-2.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",140,25.0 to 29.9 percent,"11,698","+/-1,568",12.4,+/-1.7
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",141,30.0 to 34.9 percent,"9,382","+/-1,999",10.0,+/-2.1
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",142,35.0 percent or more,"31,718","+/-3,366",33.7,+/-3.2
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",142.3,,,,,
+DP04,5001800US1903,"Congressional District 3 (118th Congress), Iowa",143,Not computed,"7,141","+/-1,432",(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",0.5,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",1,Total housing units,"355,123","+/-1,340","355,123",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",2,Occupied housing units,"320,688","+/-3,320",90.3,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",3,Vacant housing units,"34,435","+/-2,722",9.7,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",3.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",4,Homeowner vacancy rate,0.7,+/-0.3,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",5,Rental vacancy rate,4.5,+/-1.1,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",5.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",6,Total housing units,"355,123","+/-1,340","355,123",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",7,"1-unit, detached","276,504","+/-3,493",77.9,+/-0.9
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",8,"1-unit, attached","9,999","+/-1,559",2.8,+/-0.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",9,2 units,"7,382","+/-1,300",2.1,+/-0.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",10,3 or 4 units,"11,558","+/-1,397",3.3,+/-0.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",11,5 to 9 units,"11,398","+/-1,638",3.2,+/-0.5
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",12,10 to 19 units,"11,085","+/-1,509",3.1,+/-0.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",13,20 or more units,"16,924","+/-1,966",4.8,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",14,Mobile home,"10,261","+/-1,311",2.9,+/-0.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",15,"Boat, RV, van, etc.",12,+/-24,0.0,+/-0.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",15.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",16,Total housing units,"355,123","+/-1,340","355,123",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",17,Built 2020 or later,"1,511",+/-637,0.4,+/-0.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",18,Built 2010 to 2019,"22,886","+/-2,189",6.4,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",19,Built 2000 to 2009,"29,248","+/-1,983",8.2,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",20,Built 1990 to 1999,"26,618","+/-2,293",7.5,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",21,Built 1980 to 1989,"22,713","+/-2,217",6.4,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",22,Built 1970 to 1979,"48,989","+/-2,990",13.8,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",23,Built 1960 to 1969,"36,706","+/-2,899",10.3,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",24,Built 1950 to 1959,"38,654","+/-2,682",10.9,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",25,Built 1940 to 1949,"19,863","+/-1,665",5.6,+/-0.5
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",26,Built 1939 or earlier,"107,935","+/-3,496",30.4,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",26.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",26.5,ROOMS,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",27,Total housing units,"355,123","+/-1,340","355,123",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",28,1 room,"4,635","+/-1,193",1.3,+/-0.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",29,2 rooms,"6,314","+/-1,264",1.8,+/-0.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",30,3 rooms,"22,948","+/-2,282",6.5,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",31,4 rooms,"46,530","+/-2,769",13.1,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",32,5 rooms,"62,027","+/-3,532",17.5,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",33,6 rooms,"59,770","+/-3,343",16.8,+/-0.9
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",34,7 rooms,"47,864","+/-2,682",13.5,+/-0.7
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",35,8 rooms,"40,361","+/-2,896",11.4,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",36,9 rooms or more,"64,674","+/-2,826",18.2,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",37,Median rooms,6.1,+/-0.1,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",37.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",37.5,BEDROOMS,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",38,Total housing units,"355,123","+/-1,340","355,123",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",39,No bedroom,"5,081","+/-1,207",1.4,+/-0.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",40,1 bedroom,"29,673","+/-2,370",8.4,+/-0.7
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",41,2 bedrooms,"93,193","+/-3,778",26.2,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",42,3 bedrooms,"137,356","+/-4,049",38.7,+/-1.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",43,4 bedrooms,"65,665","+/-3,359",18.5,+/-0.9
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",44,5 or more bedrooms,"24,155","+/-2,148",6.8,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",44.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",44.5,HOUSING TENURE,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",45,Occupied housing units,"320,688","+/-3,320","320,688",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",46,Owner-occupied,"232,401","+/-3,899",72.5,+/-1.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",47,Renter-occupied,"88,287","+/-3,661",27.5,+/-1.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",47.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",48,Average household size of owner-occupied unit,2.50,+/-0.03,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",49,Average household size of renter-occupied unit,2.07,+/-0.06,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",49.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",50,Occupied housing units,"320,688","+/-3,320","320,688",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",51,Moved in 2019 or later,"77,456","+/-2,999",24.2,+/-0.9
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",52,Moved in 2015 to 2018,"63,523","+/-2,782",19.8,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",53,Moved in 2010 to 2014,"42,202","+/-2,682",13.2,+/-0.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",54,Moved in 2000 to 2009,"57,369","+/-3,119",17.9,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",55,Moved in 1990 to 1999,"36,612","+/-2,216",11.4,+/-0.7
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",56,Moved in 1989 and earlier,"43,526","+/-2,060",13.6,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",56.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",57,Occupied housing units,"320,688","+/-3,320","320,688",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",58,No vehicles available,"15,790","+/-1,706",4.9,+/-0.5
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",59,1 vehicle available,"92,118","+/-3,860",28.7,+/-1.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",60,2 vehicles available,"117,560","+/-3,928",36.7,+/-1.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",61,3 or more vehicles available,"95,220","+/-4,304",29.7,+/-1.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",61.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",62,Occupied housing units,"320,688","+/-3,320","320,688",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",63,Utility gas,"183,560","+/-3,876",57.2,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",64,"Bottled, tank, or LP gas","47,757","+/-2,379",14.9,+/-0.7
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",65,Electricity,"80,896","+/-3,644",25.2,+/-1.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",66,"Fuel oil, kerosene, etc.","2,072",+/-637,0.6,+/-0.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",67,Coal or coke,67,+/-113,0.0,+/-0.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",68,Wood,"2,263",+/-553,0.7,+/-0.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",69,Solar energy,213,+/-161,0.1,+/-0.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",70,Other fuel,"2,672",+/-826,0.8,+/-0.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",71,No fuel used,"1,188",+/-418,0.4,+/-0.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",71.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",72,Occupied housing units,"320,688","+/-3,320","320,688",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",73,Lacking complete plumbing facilities,658,+/-313,0.2,+/-0.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",74,Lacking complete kitchen facilities,"2,008",+/-594,0.6,+/-0.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",75,No telephone service available,"2,491",+/-817,0.8,+/-0.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",75.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",76,Occupied housing units,"320,688","+/-3,320","320,688",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",77,1.00 or less,"315,379","+/-3,448",98.3,+/-0.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",78,1.01 to 1.50,"3,834",+/-970,1.2,+/-0.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",79,1.51 or more,"1,475",+/-512,0.5,+/-0.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",79.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",79.5,VALUE,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",80,Owner-occupied units,"232,401","+/-3,899","232,401",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",81,"Less than $50,000","20,655","+/-1,831",8.9,+/-0.7
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",82,"$50,000 to $99,999","44,978","+/-2,403",19.4,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",83,"$100,000 to $149,999","43,366","+/-2,385",18.7,+/-1.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",84,"$150,000 to $199,999","40,112","+/-2,671",17.3,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",85,"$200,000 to $299,999","45,509","+/-2,636",19.6,+/-1.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",86,"$300,000 to $499,999","27,810","+/-2,237",12.0,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",87,"$500,000 to $999,999","8,485","+/-1,316",3.7,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",88,"$1,000,000 or more","1,486",+/-460,0.6,+/-0.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",89,Median (dollars),"157,400","+/-3,409",(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",89.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",90,Owner-occupied units,"232,401","+/-3,899","232,401",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",91,Housing units with a mortgage,"128,634","+/-4,121",55.4,+/-1.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",92,Housing units without a mortgage,"103,767","+/-3,201",44.6,+/-1.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",92.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",93,Housing units with a mortgage,"128,634","+/-4,121","128,634",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",94,Less than $500,"1,982",+/-478,1.5,+/-0.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",95,$500 to $999,"39,327","+/-2,228",30.6,+/-1.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",96,"$1,000 to $1,499","48,954","+/-2,973",38.1,+/-1.9
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",97,"$1,500 to $1,999","21,428","+/-1,997",16.7,+/-1.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",98,"$2,000 to $2,499","10,117","+/-1,327",7.9,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",99,"$2,500 to $2,999","3,737",+/-765,2.9,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",100,"$3,000 or more","3,089",+/-901,2.4,+/-0.7
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",101,Median (dollars),"1,201",+/-17,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",101.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",102,Housing units without a mortgage,"103,767","+/-3,201","103,767",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",103,Less than $250,"9,338","+/-1,138",9.0,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",104,$250 to $399,"25,486","+/-1,661",24.6,+/-1.5
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",105,$400 to $599,"39,056","+/-2,431",37.6,+/-2.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",106,$600 to $799,"17,936","+/-1,724",17.3,+/-1.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",107,$800 to $999,"6,380","+/-1,130",6.1,+/-1.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",108,"$1,000 or more","5,571",+/-997,5.4,+/-0.9
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",109,Median (dollars),480,+/-9,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",109.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"128,233","+/-4,119","128,233",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",111,Less than 20.0 percent,"74,719","+/-3,515",58.3,+/-2.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",112,20.0 to 24.9 percent,"18,570","+/-1,830",14.5,+/-1.3
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",113,25.0 to 29.9 percent,"10,707","+/-1,407",8.3,+/-1.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",114,30.0 to 34.9 percent,"7,548","+/-1,275",5.9,+/-1.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",115,35.0 percent or more,"16,689","+/-2,240",13.0,+/-1.7
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",115.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",116,Not computed,401,+/-272,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",116.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"102,779","+/-3,248","102,779",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",118,Less than 10.0 percent,"51,334","+/-2,593",49.9,+/-1.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",119,10.0 to 14.9 percent,"20,194","+/-1,632",19.6,+/-1.5
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",120,15.0 to 19.9 percent,"10,869","+/-1,145",10.6,+/-1.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",121,20.0 to 24.9 percent,"6,155",+/-889,6.0,+/-0.9
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",122,25.0 to 29.9 percent,"2,908",+/-618,2.8,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",123,30.0 to 34.9 percent,"2,866",+/-774,2.8,+/-0.7
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",124,35.0 percent or more,"8,453","+/-1,151",8.2,+/-1.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",124.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",125,Not computed,988,+/-451,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",125.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",125.5,GROSS RENT,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",126,Occupied units paying rent,"81,269","+/-3,462","81,269",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",127,Less than $500,"12,244","+/-1,493",15.1,+/-1.8
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",128,$500 to $999,"48,809","+/-3,143",60.1,+/-3.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",129,"$1,000 to $1,499","15,871","+/-2,051",19.5,+/-2.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",130,"$1,500 to $1,999","2,745",+/-997,3.4,+/-1.2
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",131,"$2,000 to $2,499",599,+/-368,0.7,+/-0.5
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",132,"$2,500 to $2,999",46,+/-80,0.1,+/-0.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",133,"$3,000 or more",955,+/-497,1.2,+/-0.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",134,Median (dollars),780,+/-18,(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",134.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",135,No rent paid,"7,018","+/-1,316",(X),(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",135.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"79,415","+/-3,470","79,415",(X)
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",137,Less than 15.0 percent,"17,338","+/-1,960",21.8,+/-2.1
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",138,15.0 to 19.9 percent,"11,690","+/-1,660",14.7,+/-1.9
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",139,20.0 to 24.9 percent,"8,460","+/-1,231",10.7,+/-1.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",140,25.0 to 29.9 percent,"8,868","+/-1,534",11.2,+/-2.0
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",141,30.0 to 34.9 percent,"6,092","+/-1,162",7.7,+/-1.4
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",142,35.0 percent or more,"26,967","+/-2,360",34.0,+/-2.6
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",142.3,,,,,
+DP04,5001800US1904,"Congressional District 4 (118th Congress), Iowa",143,Not computed,"8,872","+/-1,632",(X),(X)

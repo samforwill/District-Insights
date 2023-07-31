@@ -1,0 +1,1675 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",0.5,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",1,Total housing units,"399,272","+/-6,773","399,272",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",2,Occupied housing units,"357,279","+/-6,279",89.5,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",3,Vacant housing units,"41,993","+/-4,101",10.5,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",3.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",4,Homeowner vacancy rate,0.6,+/-0.3,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",5,Rental vacancy rate,4.0,+/-1.2,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",5.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",6,Total housing units,"399,272","+/-6,773","399,272",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",7,"1-unit, detached","228,784","+/-6,938",57.3,+/-1.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",8,"1-unit, attached","35,426","+/-3,695",8.9,+/-0.9
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",9,2 units,"2,861",+/-974,0.7,+/-0.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",10,3 or 4 units,"17,137","+/-2,543",4.3,+/-0.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",11,5 to 9 units,"19,855","+/-2,772",5.0,+/-0.7
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",12,10 to 19 units,"18,886","+/-2,552",4.7,+/-0.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",13,20 or more units,"65,205","+/-3,973",16.3,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",14,Mobile home,"10,513","+/-1,851",2.6,+/-0.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",15,"Boat, RV, van, etc.",605,+/-494,0.2,+/-0.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",15.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",16,Total housing units,"399,272","+/-6,773","399,272",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",17,Built 2020 or later,"2,371",+/-909,0.6,+/-0.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",18,Built 2010 to 2019,"34,345","+/-3,152",8.6,+/-0.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",19,Built 2000 to 2009,"55,551","+/-4,223",13.9,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",20,Built 1990 to 1999,"84,084","+/-4,462",21.1,+/-1.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",21,Built 1980 to 1989,"83,477","+/-5,293",20.9,+/-1.3
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",22,Built 1970 to 1979,"69,637","+/-5,042",17.4,+/-1.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",23,Built 1960 to 1969,"32,670","+/-2,861",8.2,+/-0.7
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",24,Built 1950 to 1959,"31,399","+/-2,860",7.9,+/-0.7
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",25,Built 1940 to 1949,"3,662","+/-1,112",0.9,+/-0.3
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",26,Built 1939 or earlier,"2,076",+/-770,0.5,+/-0.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",26.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",26.5,ROOMS,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",27,Total housing units,"399,272","+/-6,773","399,272",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",28,1 room,"10,174","+/-2,197",2.5,+/-0.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",29,2 rooms,"14,944","+/-2,439",3.7,+/-0.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",30,3 rooms,"40,480","+/-3,311",10.1,+/-0.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",31,4 rooms,"68,325","+/-4,597",17.1,+/-1.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",32,5 rooms,"70,504","+/-4,404",17.7,+/-1.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",33,6 rooms,"63,958","+/-4,399",16.0,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",34,7 rooms,"50,421","+/-3,307",12.6,+/-0.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",35,8 rooms,"35,168","+/-3,162",8.8,+/-0.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",36,9 rooms or more,"45,298","+/-3,136",11.3,+/-0.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",37,Median rooms,5.4,+/-0.2,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",37.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",37.5,BEDROOMS,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",38,Total housing units,"399,272","+/-6,773","399,272",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",39,No bedroom,"10,799","+/-2,301",2.7,+/-0.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",40,1 bedroom,"43,696","+/-3,432",10.9,+/-0.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",41,2 bedrooms,"117,310","+/-5,396",29.4,+/-1.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",42,3 bedrooms,"132,153","+/-6,024",33.1,+/-1.3
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",43,4 bedrooms,"76,384","+/-3,965",19.1,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",44,5 or more bedrooms,"18,930","+/-2,266",4.7,+/-0.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",44.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",44.5,HOUSING TENURE,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",45,Occupied housing units,"357,279","+/-6,279","357,279",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",46,Owner-occupied,"234,070","+/-6,757",65.5,+/-1.4
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",47,Renter-occupied,"123,209","+/-5,267",34.5,+/-1.4
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",47.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",48,Average household size of owner-occupied unit,2.31,+/-0.04,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",49,Average household size of renter-occupied unit,2.04,+/-0.07,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",49.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",50,Occupied housing units,"357,279","+/-6,279","357,279",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",51,Moved in 2019 or later,"122,884","+/-4,357",34.4,+/-1.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",52,Moved in 2015 to 2018,"86,153","+/-4,191",24.1,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",53,Moved in 2010 to 2014,"43,608","+/-3,217",12.2,+/-0.9
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",54,Moved in 2000 to 2009,"51,734","+/-3,719",14.5,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",55,Moved in 1990 to 1999,"33,686","+/-2,914",9.4,+/-0.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",56,Moved in 1989 and earlier,"19,214","+/-2,108",5.4,+/-0.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",56.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",57,Occupied housing units,"357,279","+/-6,279","357,279",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",58,No vehicles available,"15,268","+/-2,445",4.3,+/-0.7
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",59,1 vehicle available,"133,243","+/-5,776",37.3,+/-1.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",60,2 vehicles available,"146,356","+/-5,599",41.0,+/-1.4
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",61,3 or more vehicles available,"62,412","+/-3,826",17.5,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",61.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",62,Occupied housing units,"357,279","+/-6,279","357,279",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",63,Utility gas,"95,463","+/-4,242",26.7,+/-1.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",64,"Bottled, tank, or LP gas","4,003","+/-1,251",1.1,+/-0.4
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",65,Electricity,"251,834","+/-6,289",70.5,+/-1.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",66,"Fuel oil, kerosene, etc.",303,+/-336,0.1,+/-0.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",67,Coal or coke,0,+/-224,0.0,+/-0.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",68,Wood,154,+/-147,0.0,+/-0.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",69,Solar energy,"2,315",+/-800,0.6,+/-0.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",70,Other fuel,794,+/-427,0.2,+/-0.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",71,No fuel used,"2,413",+/-948,0.7,+/-0.3
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",71.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",72,Occupied housing units,"357,279","+/-6,279","357,279",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",73,Lacking complete plumbing facilities,996,+/-593,0.3,+/-0.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",74,Lacking complete kitchen facilities,"2,416","+/-1,127",0.7,+/-0.3
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",75,No telephone service available,"4,044",+/-971,1.1,+/-0.3
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",75.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",76,Occupied housing units,"357,279","+/-6,279","357,279",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",77,1.00 or less,"346,905","+/-6,345",97.1,+/-0.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",78,1.01 to 1.50,"7,577","+/-1,618",2.1,+/-0.4
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",79,1.51 or more,"2,797","+/-1,025",0.8,+/-0.3
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",79.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",79.5,VALUE,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",80,Owner-occupied units,"234,070","+/-6,757","234,070",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",81,"Less than $50,000","5,947","+/-1,215",2.5,+/-0.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",82,"$50,000 to $99,999","3,284",+/-861,1.4,+/-0.4
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",83,"$100,000 to $149,999","4,181","+/-1,130",1.8,+/-0.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",84,"$150,000 to $199,999","5,516","+/-1,168",2.4,+/-0.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",85,"$200,000 to $299,999","22,649","+/-2,798",9.7,+/-1.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",86,"$300,000 to $499,999","62,599","+/-3,957",26.7,+/-1.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",87,"$500,000 to $999,999","92,015","+/-4,650",39.3,+/-1.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",88,"$1,000,000 or more","37,879","+/-2,842",16.2,+/-1.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",89,Median (dollars),"552,900","+/-14,660",(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",89.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",90,Owner-occupied units,"234,070","+/-6,757","234,070",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",91,Housing units with a mortgage,"151,153","+/-5,850",64.6,+/-1.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",92,Housing units without a mortgage,"82,917","+/-4,100",35.4,+/-1.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",92.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",93,Housing units with a mortgage,"151,153","+/-5,850","151,153",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",94,Less than $500,750,+/-360,0.5,+/-0.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",95,$500 to $999,"12,966","+/-1,996",8.6,+/-1.3
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",96,"$1,000 to $1,499","27,428","+/-2,782",18.1,+/-1.7
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",97,"$1,500 to $1,999","34,951","+/-3,076",23.1,+/-1.9
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",98,"$2,000 to $2,499","27,228","+/-2,870",18.0,+/-1.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",99,"$2,500 to $2,999","18,349","+/-1,837",12.1,+/-1.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",100,"$3,000 or more","29,481","+/-2,924",19.5,+/-1.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",101,Median (dollars),"1,992",+/-48,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",101.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",102,Housing units without a mortgage,"82,917","+/-4,100","82,917",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",103,Less than $250,"4,776","+/-1,258",5.8,+/-1.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",104,$250 to $399,"12,382","+/-1,602",14.9,+/-1.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",105,$400 to $599,"23,810","+/-2,093",28.7,+/-2.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",106,$600 to $799,"18,004","+/-1,984",21.7,+/-2.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",107,$800 to $999,"9,366","+/-1,505",11.3,+/-1.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",108,"$1,000 or more","14,579","+/-1,787",17.6,+/-2.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",109,Median (dollars),605,+/-19,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",109.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"150,442","+/-5,734","150,442",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",111,Less than 20.0 percent,"75,369","+/-4,062",50.1,+/-2.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",112,20.0 to 24.9 percent,"21,776","+/-2,343",14.5,+/-1.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",113,25.0 to 29.9 percent,"14,230","+/-2,229",9.5,+/-1.4
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",114,30.0 to 34.9 percent,"8,653","+/-1,500",5.8,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",115,35.0 percent or more,"30,414","+/-2,649",20.2,+/-1.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",115.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",116,Not computed,711,+/-527,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",116.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"81,648","+/-4,035","81,648",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",118,Less than 10.0 percent,"44,334","+/-3,072",54.3,+/-2.9
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",119,10.0 to 14.9 percent,"12,614","+/-1,576",15.4,+/-1.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",120,15.0 to 19.9 percent,"6,102","+/-1,288",7.5,+/-1.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",121,20.0 to 24.9 percent,"4,945","+/-1,134",6.1,+/-1.4
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",122,25.0 to 29.9 percent,"2,303",+/-737,2.8,+/-0.9
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",123,30.0 to 34.9 percent,"1,737",+/-543,2.1,+/-0.7
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",124,35.0 percent or more,"9,613","+/-1,441",11.8,+/-1.7
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",124.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",125,Not computed,"1,269",+/-564,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",125.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",125.5,GROSS RENT,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",126,Occupied units paying rent,"117,871","+/-5,073","117,871",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",127,Less than $500,"1,848",+/-913,1.6,+/-0.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",128,$500 to $999,"16,876","+/-2,479",14.3,+/-2.2
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",129,"$1,000 to $1,499","46,357","+/-4,451",39.3,+/-3.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",130,"$1,500 to $1,999","31,163","+/-3,300",26.4,+/-2.5
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",131,"$2,000 to $2,499","11,607","+/-2,050",9.8,+/-1.7
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",132,"$2,500 to $2,999","4,241","+/-1,260",3.6,+/-1.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",133,"$3,000 or more","5,779","+/-1,562",4.9,+/-1.3
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",134,Median (dollars),"1,433",+/-34,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",134.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",135,No rent paid,"5,338",+/-992,(X),(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",135.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"115,519","+/-5,011","115,519",(X)
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",137,Less than 15.0 percent,"15,471","+/-2,171",13.4,+/-1.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",138,15.0 to 19.9 percent,"13,913","+/-2,323",12.0,+/-2.0
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",139,20.0 to 24.9 percent,"13,765","+/-1,834",11.9,+/-1.6
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",140,25.0 to 29.9 percent,"16,037","+/-2,488",13.9,+/-2.1
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",141,30.0 to 34.9 percent,"9,680","+/-2,268",8.4,+/-1.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",142,35.0 percent or more,"46,653","+/-3,857",40.4,+/-2.8
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",142.3,,,,,
+DP04,5001800US0401,"Congressional District 1 (118th Congress), Arizona",143,Not computed,"7,690","+/-1,388",(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",0.5,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",1,Total housing units,"383,955","+/-3,590","383,955",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",2,Occupied housing units,"315,229","+/-4,839",82.1,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",3,Vacant housing units,"68,726","+/-4,246",17.9,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",3.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",4,Homeowner vacancy rate,0.4,+/-0.3,(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",5,Rental vacancy rate,3.8,+/-1.5,(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",5.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",6,Total housing units,"383,955","+/-3,590","383,955",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",7,"1-unit, detached","272,362","+/-5,896",70.9,+/-1.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",8,"1-unit, attached","12,359","+/-2,333",3.2,+/-0.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",9,2 units,"8,352","+/-1,743",2.2,+/-0.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",10,3 or 4 units,"7,622","+/-1,633",2.0,+/-0.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",11,5 to 9 units,"9,387","+/-2,067",2.4,+/-0.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",12,10 to 19 units,"5,177","+/-1,267",1.3,+/-0.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",13,20 or more units,"8,407","+/-1,600",2.2,+/-0.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",14,Mobile home,"58,393","+/-4,331",15.2,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",15,"Boat, RV, van, etc.","1,896",+/-869,0.5,+/-0.2
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",15.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",16,Total housing units,"383,955","+/-3,590","383,955",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",17,Built 2020 or later,"2,718","+/-1,014",0.7,+/-0.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",18,Built 2010 to 2019,"39,294","+/-3,399",10.2,+/-0.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",19,Built 2000 to 2009,"104,448","+/-4,865",27.2,+/-1.2
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",20,Built 1990 to 1999,"75,365","+/-4,523",19.6,+/-1.2
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",21,Built 1980 to 1989,"61,473","+/-3,705",16.0,+/-1.0
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",22,Built 1970 to 1979,"52,232","+/-3,293",13.6,+/-0.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",23,Built 1960 to 1969,"21,532","+/-2,313",5.6,+/-0.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",24,Built 1950 to 1959,"12,409","+/-1,882",3.2,+/-0.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",25,Built 1940 to 1949,"5,492","+/-1,426",1.4,+/-0.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",26,Built 1939 or earlier,"8,992","+/-1,612",2.3,+/-0.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",26.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",26.5,ROOMS,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",27,Total housing units,"383,955","+/-3,590","383,955",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",28,1 room,"14,579","+/-1,829",3.8,+/-0.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",29,2 rooms,"14,560","+/-2,452",3.8,+/-0.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",30,3 rooms,"29,114","+/-2,774",7.6,+/-0.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",31,4 rooms,"63,539","+/-3,857",16.5,+/-1.0
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",32,5 rooms,"85,991","+/-4,484",22.4,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",33,6 rooms,"77,725","+/-4,101",20.2,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",34,7 rooms,"41,724","+/-3,507",10.9,+/-0.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",35,8 rooms,"27,032","+/-3,246",7.0,+/-0.8
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",36,9 rooms or more,"29,691","+/-2,546",7.7,+/-0.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",37,Median rooms,5.3,+/-0.1,(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",37.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",37.5,BEDROOMS,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",38,Total housing units,"383,955","+/-3,590","383,955",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",39,No bedroom,"15,360","+/-1,886",4.0,+/-0.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",40,1 bedroom,"29,059","+/-2,743",7.6,+/-0.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",41,2 bedrooms,"97,347","+/-5,125",25.4,+/-1.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",42,3 bedrooms,"169,549","+/-5,939",44.2,+/-1.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",43,4 bedrooms,"59,150","+/-4,506",15.4,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",44,5 or more bedrooms,"13,490","+/-1,846",3.5,+/-0.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",44.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",44.5,HOUSING TENURE,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",45,Occupied housing units,"315,229","+/-4,839","315,229",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",46,Owner-occupied,"232,405","+/-4,579",73.7,+/-1.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",47,Renter-occupied,"82,824","+/-4,926",26.3,+/-1.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",47.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",48,Average household size of owner-occupied unit,2.45,+/-0.04,(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",49,Average household size of renter-occupied unit,2.49,+/-0.10,(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",49.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",50,Occupied housing units,"315,229","+/-4,839","315,229",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",51,Moved in 2019 or later,"89,660","+/-5,496",28.4,+/-1.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",52,Moved in 2015 to 2018,"78,587","+/-4,629",24.9,+/-1.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",53,Moved in 2010 to 2014,"43,797","+/-3,945",13.9,+/-1.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",54,Moved in 2000 to 2009,"54,116","+/-3,911",17.2,+/-1.2
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",55,Moved in 1990 to 1999,"25,101","+/-2,630",8.0,+/-0.8
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",56,Moved in 1989 and earlier,"23,968","+/-2,168",7.6,+/-0.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",56.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",57,Occupied housing units,"315,229","+/-4,839","315,229",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",58,No vehicles available,"16,349","+/-2,357",5.2,+/-0.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",59,1 vehicle available,"93,791","+/-5,310",29.8,+/-1.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",60,2 vehicles available,"117,837","+/-5,887",37.4,+/-1.8
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",61,3 or more vehicles available,"87,252","+/-4,224",27.7,+/-1.2
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",61.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",62,Occupied housing units,"315,229","+/-4,839","315,229",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",63,Utility gas,"131,649","+/-4,684",41.8,+/-1.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",64,"Bottled, tank, or LP gas","32,393","+/-2,991",10.3,+/-0.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",65,Electricity,"105,340","+/-4,673",33.4,+/-1.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",66,"Fuel oil, kerosene, etc.",247,+/-282,0.1,+/-0.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",67,Coal or coke,0,+/-224,0.0,+/-0.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",68,Wood,"36,913","+/-2,394",11.7,+/-0.8
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",69,Solar energy,"4,144","+/-1,189",1.3,+/-0.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",70,Other fuel,"3,290","+/-1,111",1.0,+/-0.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",71,No fuel used,"1,253",+/-612,0.4,+/-0.2
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",71.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",72,Occupied housing units,"315,229","+/-4,839","315,229",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",73,Lacking complete plumbing facilities,"8,281","+/-1,164",2.6,+/-0.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",74,Lacking complete kitchen facilities,"7,555","+/-1,397",2.4,+/-0.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",75,No telephone service available,"4,762","+/-1,109",1.5,+/-0.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",75.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",76,Occupied housing units,"315,229","+/-4,839","315,229",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",77,1.00 or less,"296,612","+/-5,248",94.1,+/-0.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",78,1.01 to 1.50,"12,726","+/-2,281",4.0,+/-0.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",79,1.51 or more,"5,891","+/-1,557",1.9,+/-0.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",79.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",79.5,VALUE,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",80,Owner-occupied units,"232,405","+/-4,579","232,405",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",81,"Less than $50,000","26,476","+/-2,278",11.4,+/-1.0
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",82,"$50,000 to $99,999","18,693","+/-1,970",8.0,+/-0.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",83,"$100,000 to $149,999","10,876","+/-1,566",4.7,+/-0.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",84,"$150,000 to $199,999","18,711","+/-2,779",8.1,+/-1.2
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",85,"$200,000 to $299,999","40,336","+/-3,888",17.4,+/-1.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",86,"$300,000 to $499,999","76,126","+/-4,226",32.8,+/-1.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",87,"$500,000 to $999,999","36,042","+/-3,480",15.5,+/-1.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",88,"$1,000,000 or more","5,145","+/-1,295",2.2,+/-0.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",89,Median (dollars),"302,400","+/-8,034",(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",89.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",90,Owner-occupied units,"232,405","+/-4,579","232,405",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",91,Housing units with a mortgage,"118,419","+/-5,113",51.0,+/-1.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",92,Housing units without a mortgage,"113,986","+/-4,172",49.0,+/-1.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",92.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",93,Housing units with a mortgage,"118,419","+/-5,113","118,419",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",94,Less than $500,"1,613",+/-663,1.4,+/-0.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",95,$500 to $999,"21,886","+/-2,520",18.5,+/-2.0
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",96,"$1,000 to $1,499","39,362","+/-3,529",33.2,+/-2.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",97,"$1,500 to $1,999","30,356","+/-3,113",25.6,+/-2.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",98,"$2,000 to $2,499","15,620","+/-2,141",13.2,+/-1.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",99,"$2,500 to $2,999","5,113","+/-1,343",4.3,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",100,"$3,000 or more","4,469","+/-1,332",3.8,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",101,Median (dollars),"1,457",+/-33,(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",101.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",102,Housing units without a mortgage,"113,986","+/-4,172","113,986",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",103,Less than $250,"32,367","+/-2,038",28.4,+/-1.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",104,$250 to $399,"37,174","+/-3,090",32.6,+/-2.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",105,$400 to $599,"26,436","+/-2,727",23.2,+/-2.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",106,$600 to $799,"11,222","+/-1,872",9.8,+/-1.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",107,$800 to $999,"4,132","+/-1,255",3.6,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",108,"$1,000 or more","2,655",+/-856,2.3,+/-0.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",109,Median (dollars),346,+/-8,(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",109.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"117,941","+/-5,071","117,941",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",111,Less than 20.0 percent,"50,373","+/-3,587",42.7,+/-2.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",112,20.0 to 24.9 percent,"19,247","+/-3,064",16.3,+/-2.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",113,25.0 to 29.9 percent,"10,912","+/-2,181",9.3,+/-1.8
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",114,30.0 to 34.9 percent,"8,662","+/-2,067",7.3,+/-1.8
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",115,35.0 percent or more,"28,747","+/-3,197",24.4,+/-2.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",115.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",116,Not computed,478,+/-344,(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",116.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"109,043","+/-4,271","109,043",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",118,Less than 10.0 percent,"63,496","+/-3,963",58.2,+/-2.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",119,10.0 to 14.9 percent,"16,522","+/-2,202",15.2,+/-1.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",120,15.0 to 19.9 percent,"8,576","+/-1,911",7.9,+/-1.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",121,20.0 to 24.9 percent,"5,863","+/-1,208",5.4,+/-1.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",122,25.0 to 29.9 percent,"3,697","+/-1,026",3.4,+/-0.9
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",123,30.0 to 34.9 percent,"1,729",+/-756,1.6,+/-0.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",124,35.0 percent or more,"9,160","+/-1,707",8.4,+/-1.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",124.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",125,Not computed,"4,943","+/-1,003",(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",125.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",125.5,GROSS RENT,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",126,Occupied units paying rent,"73,273","+/-4,454","73,273",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",127,Less than $500,"8,207","+/-1,488",11.2,+/-2.1
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",128,$500 to $999,"24,948","+/-3,076",34.0,+/-3.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",129,"$1,000 to $1,499","21,683","+/-2,654",29.6,+/-3.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",130,"$1,500 to $1,999","14,056","+/-2,636",19.2,+/-3.3
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",131,"$2,000 to $2,499","2,941","+/-1,017",4.0,+/-1.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",132,"$2,500 to $2,999",565,+/-425,0.8,+/-0.6
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",133,"$3,000 or more",873,+/-359,1.2,+/-0.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",134,Median (dollars),"1,071",+/-50,(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",134.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",135,No rent paid,"9,551","+/-1,792",(X),(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",135.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"71,989","+/-4,575","71,989",(X)
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",137,Less than 15.0 percent,"11,099","+/-1,858",15.4,+/-2.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",138,15.0 to 19.9 percent,"9,866","+/-2,186",13.7,+/-3.0
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",139,20.0 to 24.9 percent,"7,327","+/-1,856",10.2,+/-2.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",140,25.0 to 29.9 percent,"9,150","+/-1,691",12.7,+/-2.4
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",141,30.0 to 34.9 percent,"7,644","+/-1,903",10.6,+/-2.5
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",142,35.0 percent or more,"26,903","+/-3,329",37.4,+/-3.7
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",142.3,,,,,
+DP04,5001800US0402,"Congressional District 2 (118th Congress), Arizona",143,Not computed,"10,835","+/-2,089",(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",0.5,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",1,Total housing units,"279,713","+/-6,346","279,713",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",2,Occupied housing units,"262,399","+/-6,470",93.8,+/-0.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",3,Vacant housing units,"17,314","+/-2,261",6.2,+/-0.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",3.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",4,Homeowner vacancy rate,0.7,+/-0.4,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",5,Rental vacancy rate,3.7,+/-1.0,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",5.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",6,Total housing units,"279,713","+/-6,346","279,713",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",7,"1-unit, detached","165,192","+/-5,844",59.1,+/-1.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",8,"1-unit, attached","12,147","+/-2,015",4.3,+/-0.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",9,2 units,"6,211","+/-1,485",2.2,+/-0.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",10,3 or 4 units,"15,198","+/-2,322",5.4,+/-0.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",11,5 to 9 units,"12,914","+/-2,057",4.6,+/-0.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",12,10 to 19 units,"15,106","+/-2,456",5.4,+/-0.9
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",13,20 or more units,"40,912","+/-3,438",14.6,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",14,Mobile home,"11,748","+/-1,965",4.2,+/-0.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",15,"Boat, RV, van, etc.",285,+/-336,0.1,+/-0.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",15.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",16,Total housing units,"279,713","+/-6,346","279,713",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",17,Built 2020 or later,"1,685",+/-803,0.6,+/-0.3
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",18,Built 2010 to 2019,"31,665","+/-2,846",11.3,+/-0.9
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",19,Built 2000 to 2009,"49,998","+/-3,448",17.9,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",20,Built 1990 to 1999,"20,191","+/-2,365",7.2,+/-0.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",21,Built 1980 to 1989,"34,856","+/-3,055",12.5,+/-1.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",22,Built 1970 to 1979,"49,457","+/-3,265",17.7,+/-1.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",23,Built 1960 to 1969,"29,002","+/-2,590",10.4,+/-0.9
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",24,Built 1950 to 1959,"38,827","+/-3,520",13.9,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",25,Built 1940 to 1949,"13,374","+/-2,122",4.8,+/-0.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",26,Built 1939 or earlier,"10,658","+/-1,813",3.8,+/-0.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",26.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",26.5,ROOMS,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",27,Total housing units,"279,713","+/-6,346","279,713",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",28,1 room,"12,931","+/-1,954",4.6,+/-0.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",29,2 rooms,"10,953","+/-1,791",3.9,+/-0.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",30,3 rooms,"30,802","+/-2,837",11.0,+/-1.0
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",31,4 rooms,"54,617","+/-4,583",19.5,+/-1.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",32,5 rooms,"68,180","+/-4,149",24.4,+/-1.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",33,6 rooms,"49,679","+/-3,289",17.8,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",34,7 rooms,"26,480","+/-2,932",9.5,+/-1.0
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",35,8 rooms,"12,538","+/-2,142",4.5,+/-0.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",36,9 rooms or more,"13,533","+/-1,724",4.8,+/-0.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",37,Median rooms,4.9,+/-0.2,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",37.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",37.5,BEDROOMS,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",38,Total housing units,"279,713","+/-6,346","279,713",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",39,No bedroom,"14,969","+/-1,968",5.4,+/-0.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",40,1 bedroom,"35,312","+/-3,509",12.6,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",41,2 bedrooms,"71,216","+/-4,499",25.5,+/-1.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",42,3 bedrooms,"101,619","+/-5,247",36.3,+/-1.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",43,4 bedrooms,"47,914","+/-3,813",17.1,+/-1.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",44,5 or more bedrooms,"8,683","+/-1,573",3.1,+/-0.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",44.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",44.5,HOUSING TENURE,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",45,Occupied housing units,"262,399","+/-6,470","262,399",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",46,Owner-occupied,"139,282","+/-6,071",53.1,+/-1.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",47,Renter-occupied,"123,117","+/-5,085",46.9,+/-1.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",47.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",48,Average household size of owner-occupied unit,3.17,+/-0.08,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",49,Average household size of renter-occupied unit,2.78,+/-0.09,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",49.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",50,Occupied housing units,"262,399","+/-6,470","262,399",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",51,Moved in 2019 or later,"96,872","+/-6,008",36.9,+/-2.0
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",52,Moved in 2015 to 2018,"67,549","+/-4,332",25.7,+/-1.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",53,Moved in 2010 to 2014,"38,499","+/-3,289",14.7,+/-1.3
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",54,Moved in 2000 to 2009,"32,482","+/-2,840",12.4,+/-1.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",55,Moved in 1990 to 1999,"12,231","+/-1,745",4.7,+/-0.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",56,Moved in 1989 and earlier,"14,766","+/-1,877",5.6,+/-0.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",56.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",57,Occupied housing units,"262,399","+/-6,470","262,399",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",58,No vehicles available,"19,878","+/-2,515",7.6,+/-0.9
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",59,1 vehicle available,"90,124","+/-5,127",34.3,+/-1.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",60,2 vehicles available,"92,543","+/-5,562",35.3,+/-1.9
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",61,3 or more vehicles available,"59,854","+/-3,867",22.8,+/-1.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",61.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",62,Occupied housing units,"262,399","+/-6,470","262,399",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",63,Utility gas,"47,675","+/-3,177",18.2,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",64,"Bottled, tank, or LP gas","3,547","+/-1,025",1.4,+/-0.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",65,Electricity,"204,642","+/-6,008",78.0,+/-1.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",66,"Fuel oil, kerosene, etc.",249,+/-222,0.1,+/-0.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",67,Coal or coke,0,+/-224,0.0,+/-0.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",68,Wood,187,+/-182,0.1,+/-0.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",69,Solar energy,"1,122",+/-626,0.4,+/-0.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",70,Other fuel,557,+/-629,0.2,+/-0.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",71,No fuel used,"4,420","+/-1,281",1.7,+/-0.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",71.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",72,Occupied housing units,"262,399","+/-6,470","262,399",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",73,Lacking complete plumbing facilities,"1,458",+/-708,0.6,+/-0.3
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",74,Lacking complete kitchen facilities,"1,458",+/-728,0.6,+/-0.3
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",75,No telephone service available,"4,288","+/-1,328",1.6,+/-0.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",75.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",76,Occupied housing units,"262,399","+/-6,470","262,399",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",77,1.00 or less,"238,232","+/-6,950",90.8,+/-1.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",78,1.01 to 1.50,"16,283","+/-2,505",6.2,+/-1.0
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",79,1.51 or more,"7,884","+/-1,554",3.0,+/-0.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",79.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",79.5,VALUE,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",80,Owner-occupied units,"139,282","+/-6,071","139,282",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",81,"Less than $50,000","10,601","+/-1,494",7.6,+/-1.0
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",82,"$50,000 to $99,999","1,578",+/-602,1.1,+/-0.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",83,"$100,000 to $149,999","6,960","+/-1,733",5.0,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",84,"$150,000 to $199,999","13,707","+/-1,935",9.8,+/-1.3
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",85,"$200,000 to $299,999","44,054","+/-3,683",31.6,+/-2.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",86,"$300,000 to $499,999","50,419","+/-4,246",36.2,+/-2.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",87,"$500,000 to $999,999","9,606","+/-1,639",6.9,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",88,"$1,000,000 or more","2,357","+/-1,038",1.7,+/-0.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",89,Median (dollars),"281,300","+/-6,697",(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",89.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",90,Owner-occupied units,"139,282","+/-6,071","139,282",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",91,Housing units with a mortgage,"94,500","+/-5,627",67.8,+/-2.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",92,Housing units without a mortgage,"44,782","+/-3,615",32.2,+/-2.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",92.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",93,Housing units with a mortgage,"94,500","+/-5,627","94,500",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",94,Less than $500,"1,327",+/-495,1.4,+/-0.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",95,$500 to $999,"15,731","+/-2,375",16.6,+/-2.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",96,"$1,000 to $1,499","38,478","+/-4,088",40.7,+/-3.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",97,"$1,500 to $1,999","26,456","+/-2,890",28.0,+/-2.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",98,"$2,000 to $2,499","7,686","+/-1,739",8.1,+/-1.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",99,"$2,500 to $2,999","2,774",+/-830,2.9,+/-0.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",100,"$3,000 or more","2,048",+/-917,2.2,+/-1.0
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",101,Median (dollars),"1,401",+/-31,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",101.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",102,Housing units without a mortgage,"44,782","+/-3,615","44,782",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",103,Less than $250,"6,947","+/-1,633",15.5,+/-3.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",104,$250 to $399,"15,198","+/-2,249",33.9,+/-4.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",105,$400 to $599,"14,491","+/-1,895",32.4,+/-4.0
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",106,$600 to $799,"4,980","+/-1,094",11.1,+/-2.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",107,$800 to $999,"2,156",+/-798,4.8,+/-1.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",108,"$1,000 or more","1,010",+/-514,2.3,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",109,Median (dollars),403,+/-21,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",109.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"93,666","+/-5,549","93,666",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",111,Less than 20.0 percent,"39,573","+/-3,404",42.2,+/-3.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",112,20.0 to 24.9 percent,"15,545","+/-2,174",16.6,+/-2.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",113,25.0 to 29.9 percent,"8,341","+/-1,760",8.9,+/-1.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",114,30.0 to 34.9 percent,"7,445","+/-1,747",7.9,+/-1.7
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",115,35.0 percent or more,"22,762","+/-2,759",24.3,+/-2.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",115.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",116,Not computed,834,+/-546,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",116.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"43,648","+/-3,601","43,648",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",118,Less than 10.0 percent,"24,043","+/-2,731",55.1,+/-4.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",119,10.0 to 14.9 percent,"7,639","+/-1,350",17.5,+/-2.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",120,15.0 to 19.9 percent,"4,203","+/-1,115",9.6,+/-2.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",121,20.0 to 24.9 percent,"1,771",+/-598,4.1,+/-1.3
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",122,25.0 to 29.9 percent,902,+/-422,2.1,+/-0.9
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",123,30.0 to 34.9 percent,600,+/-356,1.4,+/-0.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",124,35.0 percent or more,"4,490","+/-1,162",10.3,+/-2.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",124.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",125,Not computed,"1,134",+/-541,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",125.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",125.5,GROSS RENT,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",126,Occupied units paying rent,"119,123","+/-5,120","119,123",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",127,Less than $500,"5,421","+/-1,395",4.6,+/-1.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",128,$500 to $999,"31,258","+/-3,102",26.2,+/-2.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",129,"$1,000 to $1,499","52,837","+/-4,729",44.4,+/-3.2
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",130,"$1,500 to $1,999","24,663","+/-2,993",20.7,+/-2.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",131,"$2,000 to $2,499","3,948","+/-1,353",3.3,+/-1.1
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",132,"$2,500 to $2,999",675,+/-450,0.6,+/-0.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",133,"$3,000 or more",321,+/-514,0.3,+/-0.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",134,Median (dollars),"1,211",+/-25,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",134.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",135,No rent paid,"3,994",+/-998,(X),(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",135.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"115,559","+/-5,135","115,559",(X)
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",137,Less than 15.0 percent,"12,306","+/-1,841",10.6,+/-1.5
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",138,15.0 to 19.9 percent,"13,006","+/-2,141",11.3,+/-1.9
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",139,20.0 to 24.9 percent,"14,462","+/-2,110",12.5,+/-1.8
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",140,25.0 to 29.9 percent,"14,536","+/-2,392",12.6,+/-2.0
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",141,30.0 to 34.9 percent,"9,473","+/-1,663",8.2,+/-1.4
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",142,35.0 percent or more,"51,776","+/-4,295",44.8,+/-2.6
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",142.3,,,,,
+DP04,5001800US0403,"Congressional District 3 (118th Congress), Arizona",143,Not computed,"7,558","+/-1,279",(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",0.5,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",1,Total housing units,"355,883","+/-6,299","355,883",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",2,Occupied housing units,"326,603","+/-5,476",91.8,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",3,Vacant housing units,"29,280","+/-3,782",8.2,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",3.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",4,Homeowner vacancy rate,0.3,+/-0.3,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",5,Rental vacancy rate,3.3,+/-1.0,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",5.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",6,Total housing units,"355,883","+/-6,299","355,883",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",7,"1-unit, detached","183,596","+/-5,457",51.6,+/-1.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",8,"1-unit, attached","25,525","+/-3,056",7.2,+/-0.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",9,2 units,"3,963","+/-1,416",1.1,+/-0.4
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",10,3 or 4 units,"20,167","+/-2,593",5.7,+/-0.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",11,5 to 9 units,"24,085","+/-3,291",6.8,+/-0.9
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",12,10 to 19 units,"23,765","+/-3,345",6.7,+/-0.9
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",13,20 or more units,"49,322","+/-3,486",13.9,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",14,Mobile home,"24,272","+/-2,258",6.8,+/-0.6
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",15,"Boat, RV, van, etc.","1,188",+/-620,0.3,+/-0.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",15.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",16,Total housing units,"355,883","+/-6,299","355,883",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",17,Built 2020 or later,"1,988",+/-699,0.6,+/-0.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",18,Built 2010 to 2019,"25,690","+/-2,723",7.2,+/-0.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",19,Built 2000 to 2009,"39,746","+/-3,425",11.2,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",20,Built 1990 to 1999,"73,568","+/-4,541",20.7,+/-1.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",21,Built 1980 to 1989,"99,781","+/-5,176",28.0,+/-1.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",22,Built 1970 to 1979,"71,945","+/-3,871",20.2,+/-1.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",23,Built 1960 to 1969,"25,493","+/-2,669",7.2,+/-0.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",24,Built 1950 to 1959,"12,870","+/-1,698",3.6,+/-0.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",25,Built 1940 to 1949,"3,679","+/-1,047",1.0,+/-0.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",26,Built 1939 or earlier,"1,123",+/-574,0.3,+/-0.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",26.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",26.5,ROOMS,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",27,Total housing units,"355,883","+/-6,299","355,883",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",28,1 room,"9,893","+/-1,695",2.8,+/-0.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",29,2 rooms,"20,238","+/-2,854",5.7,+/-0.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",30,3 rooms,"47,902","+/-3,656",13.5,+/-0.9
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",31,4 rooms,"63,989","+/-4,276",18.0,+/-1.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",32,5 rooms,"69,749","+/-4,243",19.6,+/-1.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",33,6 rooms,"62,090","+/-3,365",17.4,+/-0.9
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",34,7 rooms,"32,970","+/-2,813",9.3,+/-0.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",35,8 rooms,"27,320","+/-2,550",7.7,+/-0.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",36,9 rooms or more,"21,732","+/-2,134",6.1,+/-0.6
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",37,Median rooms,5.0,+/-0.1,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",37.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",37.5,BEDROOMS,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",38,Total housing units,"355,883","+/-6,299","355,883",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",39,No bedroom,"10,616","+/-1,736",3.0,+/-0.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",40,1 bedroom,"52,249","+/-3,812",14.7,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",41,2 bedrooms,"111,568","+/-5,400",31.3,+/-1.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",42,3 bedrooms,"111,214","+/-4,843",31.3,+/-1.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",43,4 bedrooms,"55,953","+/-3,669",15.7,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",44,5 or more bedrooms,"14,283","+/-1,910",4.0,+/-0.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",44.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",44.5,HOUSING TENURE,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",45,Occupied housing units,"326,603","+/-5,476","326,603",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",46,Owner-occupied,"182,506","+/-5,191",55.9,+/-1.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",47,Renter-occupied,"144,097","+/-4,748",44.1,+/-1.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",47.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",48,Average household size of owner-occupied unit,2.49,+/-0.06,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",49,Average household size of renter-occupied unit,2.32,+/-0.06,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",49.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",50,Occupied housing units,"326,603","+/-5,476","326,603",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",51,Moved in 2019 or later,"125,900","+/-5,132",38.5,+/-1.4
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",52,Moved in 2015 to 2018,"72,778","+/-4,146",22.3,+/-1.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",53,Moved in 2010 to 2014,"40,006","+/-2,945",12.2,+/-0.9
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",54,Moved in 2000 to 2009,"41,783","+/-3,214",12.8,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",55,Moved in 1990 to 1999,"29,526","+/-2,442",9.0,+/-0.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",56,Moved in 1989 and earlier,"16,610","+/-1,943",5.1,+/-0.6
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",56.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",57,Occupied housing units,"326,603","+/-5,476","326,603",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",58,No vehicles available,"17,946","+/-2,556",5.5,+/-0.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",59,1 vehicle available,"121,630","+/-5,173",37.2,+/-1.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",60,2 vehicles available,"127,138","+/-5,135",38.9,+/-1.4
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",61,3 or more vehicles available,"59,889","+/-3,909",18.3,+/-1.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",61.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",62,Occupied housing units,"326,603","+/-5,476","326,603",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",63,Utility gas,"48,014","+/-3,155",14.7,+/-0.9
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",64,"Bottled, tank, or LP gas","2,786",+/-892,0.9,+/-0.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",65,Electricity,"268,033","+/-5,522",82.1,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",66,"Fuel oil, kerosene, etc.",314,+/-311,0.1,+/-0.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",67,Coal or coke,244,+/-308,0.1,+/-0.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",68,Wood,797,+/-543,0.2,+/-0.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",69,Solar energy,"1,820",+/-728,0.6,+/-0.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",70,Other fuel,320,+/-311,0.1,+/-0.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",71,No fuel used,"4,275","+/-1,126",1.3,+/-0.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",71.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",72,Occupied housing units,"326,603","+/-5,476","326,603",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",73,Lacking complete plumbing facilities,922,+/-474,0.3,+/-0.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",74,Lacking complete kitchen facilities,"1,729",+/-746,0.5,+/-0.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",75,No telephone service available,"2,922","+/-1,039",0.9,+/-0.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",75.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",76,Occupied housing units,"326,603","+/-5,476","326,603",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",77,1.00 or less,"310,791","+/-5,649",95.2,+/-0.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",78,1.01 to 1.50,"10,968","+/-1,868",3.4,+/-0.6
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",79,1.51 or more,"4,844","+/-1,118",1.5,+/-0.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",79.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",79.5,VALUE,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",80,Owner-occupied units,"182,506","+/-5,191","182,506",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",81,"Less than $50,000","10,923","+/-1,416",6.0,+/-0.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",82,"$50,000 to $99,999","3,529",+/-756,1.9,+/-0.4
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",83,"$100,000 to $149,999","4,052","+/-1,027",2.2,+/-0.6
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",84,"$150,000 to $199,999","7,315","+/-1,212",4.0,+/-0.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",85,"$200,000 to $299,999","35,865","+/-2,750",19.7,+/-1.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",86,"$300,000 to $499,999","85,819","+/-3,791",47.0,+/-1.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",87,"$500,000 to $999,999","32,291","+/-2,924",17.7,+/-1.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",88,"$1,000,000 or more","2,712",+/-819,1.5,+/-0.4
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",89,Median (dollars),"358,500","+/-5,369",(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",89.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",90,Owner-occupied units,"182,506","+/-5,191","182,506",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",91,Housing units with a mortgage,"121,335","+/-4,584",66.5,+/-1.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",92,Housing units without a mortgage,"61,171","+/-3,789",33.5,+/-1.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",92.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",93,Housing units with a mortgage,"121,335","+/-4,584","121,335",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",94,Less than $500,"1,132",+/-546,0.9,+/-0.4
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",95,$500 to $999,"16,005","+/-2,111",13.2,+/-1.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",96,"$1,000 to $1,499","38,161","+/-3,027",31.5,+/-2.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",97,"$1,500 to $1,999","36,041","+/-3,115",29.7,+/-2.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",98,"$2,000 to $2,499","16,087","+/-2,318",13.3,+/-1.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",99,"$2,500 to $2,999","7,582","+/-1,362",6.2,+/-1.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",100,"$3,000 or more","6,327","+/-1,250",5.2,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",101,Median (dollars),"1,564",+/-34,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",101.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",102,Housing units without a mortgage,"61,171","+/-3,789","61,171",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",103,Less than $250,"5,345","+/-1,153",8.7,+/-1.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",104,$250 to $399,"18,307","+/-2,223",29.9,+/-3.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",105,$400 to $599,"18,483","+/-1,980",30.2,+/-2.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",106,$600 to $799,"9,073","+/-1,408",14.8,+/-2.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",107,$800 to $999,"5,762","+/-1,134",9.4,+/-1.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",108,"$1,000 or more","4,201",+/-927,6.9,+/-1.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",109,Median (dollars),460,+/-16,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",109.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"120,835","+/-4,578","120,835",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",111,Less than 20.0 percent,"60,764","+/-3,610",50.3,+/-2.4
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",112,20.0 to 24.9 percent,"19,127","+/-2,486",15.8,+/-2.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",113,25.0 to 29.9 percent,"10,758","+/-1,772",8.9,+/-1.4
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",114,30.0 to 34.9 percent,"7,058","+/-1,396",5.8,+/-1.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",115,35.0 percent or more,"23,128","+/-2,352",19.1,+/-1.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",115.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",116,Not computed,500,+/-399,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",116.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"60,193","+/-3,770","60,193",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",118,Less than 10.0 percent,"34,150","+/-2,760",56.7,+/-2.9
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",119,10.0 to 14.9 percent,"9,144","+/-1,403",15.2,+/-2.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",120,15.0 to 19.9 percent,"4,354","+/-1,040",7.2,+/-1.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",121,20.0 to 24.9 percent,"2,206",+/-585,3.7,+/-1.0
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",122,25.0 to 29.9 percent,"2,075",+/-686,3.4,+/-1.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",123,30.0 to 34.9 percent,"2,122",+/-812,3.5,+/-1.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",124,35.0 percent or more,"6,142",+/-980,10.2,+/-1.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",124.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",125,Not computed,978,+/-605,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",125.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",125.5,GROSS RENT,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",126,Occupied units paying rent,"141,128","+/-4,725","141,128",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",127,Less than $500,"3,366","+/-1,308",2.4,+/-0.9
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",128,$500 to $999,"19,134","+/-2,564",13.6,+/-1.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",129,"$1,000 to $1,499","62,232","+/-4,149",44.1,+/-2.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",130,"$1,500 to $1,999","42,202","+/-3,473",29.9,+/-2.2
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",131,"$2,000 to $2,499","10,304","+/-1,576",7.3,+/-1.1
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",132,"$2,500 to $2,999","2,122",+/-752,1.5,+/-0.5
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",133,"$3,000 or more","1,768",+/-777,1.3,+/-0.6
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",134,Median (dollars),"1,389",+/-24,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",134.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",135,No rent paid,"2,969",+/-818,(X),(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",135.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"138,363","+/-4,641","138,363",(X)
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",137,Less than 15.0 percent,"13,673","+/-2,010",9.9,+/-1.4
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",138,15.0 to 19.9 percent,"17,298","+/-2,565",12.5,+/-1.8
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",139,20.0 to 24.9 percent,"16,266","+/-2,181",11.8,+/-1.6
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",140,25.0 to 29.9 percent,"18,249","+/-2,403",13.2,+/-1.7
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",141,30.0 to 34.9 percent,"13,135","+/-1,831",9.5,+/-1.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",142,35.0 percent or more,"59,742","+/-3,818",43.2,+/-2.3
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",142.3,,,,,
+DP04,5001800US0404,"Congressional District 4 (118th Congress), Arizona",143,Not computed,"5,734","+/-1,296",(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",0.5,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",1,Total housing units,"316,856","+/-6,193","316,856",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",2,Occupied housing units,"290,145","+/-5,881",91.6,+/-0.9
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",3,Vacant housing units,"26,711","+/-2,851",8.4,+/-0.9
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",3.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",4,Homeowner vacancy rate,0.5,+/-0.2,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",5,Rental vacancy rate,5.1,+/-1.8,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",5.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",6,Total housing units,"316,856","+/-6,193","316,856",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",7,"1-unit, detached","244,411","+/-6,118",77.1,+/-1.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",8,"1-unit, attached","9,541","+/-1,662",3.0,+/-0.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",9,2 units,"1,972",+/-898,0.6,+/-0.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",10,3 or 4 units,"5,037","+/-1,448",1.6,+/-0.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",11,5 to 9 units,"5,247","+/-1,484",1.7,+/-0.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",12,10 to 19 units,"5,969","+/-1,669",1.9,+/-0.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",13,20 or more units,"13,255","+/-2,271",4.2,+/-0.7
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",14,Mobile home,"30,564","+/-2,837",9.6,+/-0.9
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",15,"Boat, RV, van, etc.",860,+/-405,0.3,+/-0.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",15.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",16,Total housing units,"316,856","+/-6,193","316,856",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",17,Built 2020 or later,"6,585","+/-1,514",2.1,+/-0.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",18,Built 2010 to 2019,"73,600","+/-4,634",23.2,+/-1.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",19,Built 2000 to 2009,"115,424","+/-5,944",36.4,+/-1.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",20,Built 1990 to 1999,"63,339","+/-3,713",20.0,+/-1.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",21,Built 1980 to 1989,"31,338","+/-2,750",9.9,+/-0.9
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",22,Built 1970 to 1979,"18,398","+/-2,336",5.8,+/-0.7
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",23,Built 1960 to 1969,"4,963","+/-1,319",1.6,+/-0.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",24,Built 1950 to 1959,"2,294",+/-852,0.7,+/-0.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",25,Built 1940 to 1949,778,+/-487,0.2,+/-0.2
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",26,Built 1939 or earlier,137,+/-130,0.0,+/-0.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",26.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",26.5,ROOMS,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",27,Total housing units,"316,856","+/-6,193","316,856",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",28,1 room,"3,684","+/-1,119",1.2,+/-0.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",29,2 rooms,"9,097","+/-2,178",2.9,+/-0.7
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",30,3 rooms,"17,970","+/-2,774",5.7,+/-0.9
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",31,4 rooms,"37,315","+/-4,017",11.8,+/-1.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",32,5 rooms,"59,947","+/-4,230",18.9,+/-1.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",33,6 rooms,"60,025","+/-4,288",18.9,+/-1.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",34,7 rooms,"45,631","+/-3,814",14.4,+/-1.2
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",35,8 rooms,"36,411","+/-3,718",11.5,+/-1.2
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",36,9 rooms or more,"46,776","+/-4,036",14.8,+/-1.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",37,Median rooms,6.0,+/-0.1,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",37.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",37.5,BEDROOMS,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",38,Total housing units,"316,856","+/-6,193","316,856",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",39,No bedroom,"4,265","+/-1,156",1.3,+/-0.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",40,1 bedroom,"19,460","+/-2,609",6.1,+/-0.8
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",41,2 bedrooms,"67,154","+/-4,250",21.2,+/-1.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",42,3 bedrooms,"105,598","+/-4,810",33.3,+/-1.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",43,4 bedrooms,"86,490","+/-5,319",27.3,+/-1.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",44,5 or more bedrooms,"33,889","+/-3,534",10.7,+/-1.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",44.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",44.5,HOUSING TENURE,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",45,Occupied housing units,"290,145","+/-5,881","290,145",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",46,Owner-occupied,"229,488","+/-5,653",79.1,+/-1.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",47,Renter-occupied,"60,657","+/-4,280",20.9,+/-1.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",47.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",48,Average household size of owner-occupied unit,2.87,+/-0.05,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",49,Average household size of renter-occupied unit,2.54,+/-0.13,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",49.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",50,Occupied housing units,"290,145","+/-5,881","290,145",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",51,Moved in 2019 or later,"93,466","+/-4,626",32.2,+/-1.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",52,Moved in 2015 to 2018,"82,993","+/-5,024",28.6,+/-1.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",53,Moved in 2010 to 2014,"42,842","+/-3,805",14.8,+/-1.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",54,Moved in 2000 to 2009,"50,234","+/-3,216",17.3,+/-1.0
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",55,Moved in 1990 to 1999,"16,836","+/-1,929",5.8,+/-0.7
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",56,Moved in 1989 and earlier,"3,774",+/-781,1.3,+/-0.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",56.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",57,Occupied housing units,"290,145","+/-5,881","290,145",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",58,No vehicles available,"8,585","+/-1,546",3.0,+/-0.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",59,1 vehicle available,"78,175","+/-4,547",26.9,+/-1.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",60,2 vehicles available,"127,193","+/-5,128",43.8,+/-1.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",61,3 or more vehicles available,"76,192","+/-4,662",26.3,+/-1.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",61.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",62,Occupied housing units,"290,145","+/-5,881","290,145",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",63,Utility gas,"120,256","+/-5,298",41.4,+/-1.7
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",64,"Bottled, tank, or LP gas","5,023","+/-1,478",1.7,+/-0.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",65,Electricity,"160,363","+/-6,166",55.3,+/-1.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",66,"Fuel oil, kerosene, etc.",405,+/-392,0.1,+/-0.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",67,Coal or coke,93,+/-110,0.0,+/-0.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",68,Wood,868,+/-645,0.3,+/-0.2
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",69,Solar energy,"2,125",+/-942,0.7,+/-0.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",70,Other fuel,151,+/-169,0.1,+/-0.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",71,No fuel used,861,+/-506,0.3,+/-0.2
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",71.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",72,Occupied housing units,"290,145","+/-5,881","290,145",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",73,Lacking complete plumbing facilities,"1,008",+/-668,0.3,+/-0.2
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",74,Lacking complete kitchen facilities,840,+/-386,0.3,+/-0.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",75,No telephone service available,"1,761",+/-804,0.6,+/-0.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",75.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",76,Occupied housing units,"290,145","+/-5,881","290,145",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",77,1.00 or less,"281,423","+/-6,428",97.0,+/-0.7
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",78,1.01 to 1.50,"6,491","+/-1,854",2.2,+/-0.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",79,1.51 or more,"2,231","+/-1,176",0.8,+/-0.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",79.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",79.5,VALUE,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",80,Owner-occupied units,"229,488","+/-5,653","229,488",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",81,"Less than $50,000","10,161","+/-1,533",4.4,+/-0.7
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",82,"$50,000 to $99,999","5,390","+/-1,315",2.3,+/-0.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",83,"$100,000 to $149,999","3,298",+/-889,1.4,+/-0.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",84,"$150,000 to $199,999","5,482","+/-1,067",2.4,+/-0.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",85,"$200,000 to $299,999","22,158","+/-2,534",9.7,+/-1.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",86,"$300,000 to $499,999","100,500","+/-4,787",43.8,+/-1.7
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",87,"$500,000 to $999,999","76,288","+/-3,957",33.2,+/-1.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",88,"$1,000,000 or more","6,211","+/-1,300",2.7,+/-0.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",89,Median (dollars),"436,800","+/-7,009",(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",89.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",90,Owner-occupied units,"229,488","+/-5,653","229,488",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",91,Housing units with a mortgage,"167,128","+/-5,494",72.8,+/-1.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",92,Housing units without a mortgage,"62,360","+/-3,698",27.2,+/-1.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",92.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",93,Housing units with a mortgage,"167,128","+/-5,494","167,128",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",94,Less than $500,"1,456",+/-647,0.9,+/-0.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",95,$500 to $999,"11,881","+/-1,540",7.1,+/-0.9
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",96,"$1,000 to $1,499","38,972","+/-3,937",23.3,+/-2.0
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",97,"$1,500 to $1,999","50,393","+/-3,761",30.2,+/-2.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",98,"$2,000 to $2,499","35,111","+/-3,566",21.0,+/-2.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",99,"$2,500 to $2,999","15,395","+/-2,138",9.2,+/-1.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",100,"$3,000 or more","13,920","+/-2,424",8.3,+/-1.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",101,Median (dollars),"1,784",+/-45,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",101.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",102,Housing units without a mortgage,"62,360","+/-3,698","62,360",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",103,Less than $250,"4,676","+/-1,033",7.5,+/-1.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",104,$250 to $399,"15,489","+/-2,197",24.8,+/-2.8
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",105,$400 to $599,"20,069","+/-2,077",32.2,+/-3.0
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",106,$600 to $799,"13,128","+/-1,958",21.1,+/-2.8
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",107,$800 to $999,"4,793","+/-1,086",7.7,+/-1.7
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",108,"$1,000 or more","4,205","+/-1,014",6.7,+/-1.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",109,Median (dollars),489,+/-14,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",109.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"166,898","+/-5,499","166,898",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",111,Less than 20.0 percent,"86,517","+/-4,931",51.8,+/-2.2
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",112,20.0 to 24.9 percent,"25,735","+/-3,072",15.4,+/-1.8
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",113,25.0 to 29.9 percent,"15,406","+/-2,233",9.2,+/-1.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",114,30.0 to 34.9 percent,"13,113","+/-1,954",7.9,+/-1.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",115,35.0 percent or more,"26,127","+/-2,504",15.7,+/-1.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",115.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",116,Not computed,230,+/-214,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",116.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"61,496","+/-3,619","61,496",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",118,Less than 10.0 percent,"32,463","+/-2,708",52.8,+/-3.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",119,10.0 to 14.9 percent,"10,744","+/-1,820",17.5,+/-2.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",120,15.0 to 19.9 percent,"6,411","+/-1,292",10.4,+/-2.0
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",121,20.0 to 24.9 percent,"3,694",+/-979,6.0,+/-1.6
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",122,25.0 to 29.9 percent,"2,297",+/-902,3.7,+/-1.5
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",123,30.0 to 34.9 percent,"1,372",+/-589,2.2,+/-0.9
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",124,35.0 percent or more,"4,515",+/-865,7.3,+/-1.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",124.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",125,Not computed,864,+/-595,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",125.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",125.5,GROSS RENT,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",126,Occupied units paying rent,N,N,N,N
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",127,Less than $500,N,N,N,N
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",128,$500 to $999,N,N,N,N
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",129,"$1,000 to $1,499",N,N,N,N
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",130,"$1,500 to $1,999",N,N,N,N
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",131,"$2,000 to $2,499",N,N,N,N
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",132,"$2,500 to $2,999",N,N,N,N
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",133,"$3,000 or more",N,N,N,N
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",134,Median (dollars),"1,707",+/-48,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",134.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",135,No rent paid,N,N,(X),(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",135.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"58,396","+/-4,153","58,396",(X)
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",137,Less than 15.0 percent,"7,034","+/-1,843",12.0,+/-3.0
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",138,15.0 to 19.9 percent,"8,198","+/-2,127",14.0,+/-3.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",139,20.0 to 24.9 percent,"9,699","+/-2,107",16.6,+/-3.4
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",140,25.0 to 29.9 percent,"7,899","+/-1,850",13.5,+/-3.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",141,30.0 to 34.9 percent,"5,259","+/-1,361",9.0,+/-2.3
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",142,35.0 percent or more,"20,307","+/-2,673",34.8,+/-4.1
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",142.3,,,,,
+DP04,5001800US0405,"Congressional District 5 (118th Congress), Arizona",143,Not computed,"2,261",+/-883,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",0.5,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",1,Total housing units,"378,050","+/-4,888","378,050",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",2,Occupied housing units,"339,378","+/-5,702",89.8,+/-1.3
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",3,Vacant housing units,"38,672","+/-4,961",10.2,+/-1.3
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",3.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",4,Homeowner vacancy rate,1.4,+/-0.5,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",5,Rental vacancy rate,5.4,+/-1.5,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",5.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",6,Total housing units,"378,050","+/-4,888","378,050",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",7,"1-unit, detached","248,414","+/-4,874",65.7,+/-1.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",8,"1-unit, attached","30,194","+/-2,351",8.0,+/-0.6
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",9,2 units,"2,298",+/-794,0.6,+/-0.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",10,3 or 4 units,"12,643","+/-2,023",3.3,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",11,5 to 9 units,"12,480","+/-2,053",3.3,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",12,10 to 19 units,"13,302","+/-1,898",3.5,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",13,20 or more units,"30,918","+/-2,948",8.2,+/-0.8
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",14,Mobile home,"26,787","+/-2,035",7.1,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",15,"Boat, RV, van, etc.","1,014",+/-473,0.3,+/-0.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",15.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",16,Total housing units,"378,050","+/-4,888","378,050",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",17,Built 2020 or later,"3,798","+/-1,407",1.0,+/-0.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",18,Built 2010 to 2019,"38,385","+/-3,289",10.2,+/-0.9
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",19,Built 2000 to 2009,"78,428","+/-4,469",20.7,+/-1.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",20,Built 1990 to 1999,"69,354","+/-4,864",18.3,+/-1.3
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",21,Built 1980 to 1989,"62,749","+/-3,883",16.6,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",22,Built 1970 to 1979,"67,959","+/-4,299",18.0,+/-1.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",23,Built 1960 to 1969,"27,000","+/-2,520",7.1,+/-0.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",24,Built 1950 to 1959,"21,079","+/-2,510",5.6,+/-0.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",25,Built 1940 to 1949,"5,842","+/-1,333",1.5,+/-0.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",26,Built 1939 or earlier,"3,456",+/-838,0.9,+/-0.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",26.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",26.5,ROOMS,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",27,Total housing units,"378,050","+/-4,888","378,050",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",28,1 room,"9,584","+/-1,921",2.5,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",29,2 rooms,"13,979","+/-2,347",3.7,+/-0.6
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",30,3 rooms,"31,515","+/-3,410",8.3,+/-0.9
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",31,4 rooms,"55,871","+/-4,296",14.8,+/-1.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",32,5 rooms,"80,000","+/-4,574",21.2,+/-1.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",33,6 rooms,"74,983","+/-3,962",19.8,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",34,7 rooms,"49,991","+/-3,276",13.2,+/-0.9
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",35,8 rooms,"32,346","+/-3,046",8.6,+/-0.8
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",36,9 rooms or more,"29,781","+/-2,530",7.9,+/-0.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",37,Median rooms,5.5,+/-0.1,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",37.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",37.5,BEDROOMS,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",38,Total housing units,"378,050","+/-4,888","378,050",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",39,No bedroom,"9,969","+/-2,002",2.6,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",40,1 bedroom,"39,340","+/-3,741",10.4,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",41,2 bedrooms,"103,151","+/-5,210",27.3,+/-1.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",42,3 bedrooms,"144,301","+/-4,430",38.2,+/-1.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",43,4 bedrooms,"71,551","+/-3,834",18.9,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",44,5 or more bedrooms,"9,738","+/-1,439",2.6,+/-0.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",44.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",44.5,HOUSING TENURE,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",45,Occupied housing units,"339,378","+/-5,702","339,378",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",46,Owner-occupied,"235,220","+/-5,662",69.3,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",47,Renter-occupied,"104,158","+/-5,202",30.7,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",47.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",48,Average household size of owner-occupied unit,2.41,+/-0.04,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",49,Average household size of renter-occupied unit,2.12,+/-0.08,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",49.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",50,Occupied housing units,"339,378","+/-5,702","339,378",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",51,Moved in 2019 or later,"108,932","+/-5,364",32.1,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",52,Moved in 2015 to 2018,"77,328","+/-4,690",22.8,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",53,Moved in 2010 to 2014,"44,148","+/-3,555",13.0,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",54,Moved in 2000 to 2009,"58,827","+/-3,883",17.3,+/-1.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",55,Moved in 1990 to 1999,"29,188","+/-2,194",8.6,+/-0.6
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",56,Moved in 1989 and earlier,"20,955","+/-1,813",6.2,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",56.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",57,Occupied housing units,"339,378","+/-5,702","339,378",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",58,No vehicles available,"18,054","+/-2,313",5.3,+/-0.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",59,1 vehicle available,"115,300","+/-5,109",34.0,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",60,2 vehicles available,"131,950","+/-5,511",38.9,+/-1.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",61,3 or more vehicles available,"74,074","+/-4,207",21.8,+/-1.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",61.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",62,Occupied housing units,"339,378","+/-5,702","339,378",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",63,Utility gas,"174,334","+/-5,142",51.4,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",64,"Bottled, tank, or LP gas","9,634","+/-1,395",2.8,+/-0.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",65,Electricity,"146,062","+/-5,839",43.0,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",66,"Fuel oil, kerosene, etc.",0,+/-224,0.0,+/-0.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",67,Coal or coke,0,+/-224,0.0,+/-0.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",68,Wood,"2,481",+/-810,0.7,+/-0.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",69,Solar energy,"3,715",+/-913,1.1,+/-0.3
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",70,Other fuel,880,+/-646,0.3,+/-0.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",71,No fuel used,"2,272",+/-662,0.7,+/-0.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",71.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",72,Occupied housing units,"339,378","+/-5,702","339,378",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",73,Lacking complete plumbing facilities,"1,357",+/-749,0.4,+/-0.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",74,Lacking complete kitchen facilities,"2,090",+/-786,0.6,+/-0.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",75,No telephone service available,"3,677","+/-1,032",1.1,+/-0.3
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",75.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",76,Occupied housing units,"339,378","+/-5,702","339,378",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",77,1.00 or less,"332,000","+/-5,372",97.8,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",78,1.01 to 1.50,"4,194","+/-1,173",1.2,+/-0.3
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",79,1.51 or more,"3,184","+/-1,168",0.9,+/-0.3
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",79.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",79.5,VALUE,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",80,Owner-occupied units,"235,220","+/-5,662","235,220",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",81,"Less than $50,000","13,787","+/-1,739",5.9,+/-0.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",82,"$50,000 to $99,999","9,353","+/-1,263",4.0,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",83,"$100,000 to $149,999","15,522","+/-1,783",6.6,+/-0.8
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",84,"$150,000 to $199,999","25,741","+/-2,561",10.9,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",85,"$200,000 to $299,999","65,968","+/-3,937",28.0,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",86,"$300,000 to $499,999","70,644","+/-3,309",30.0,+/-1.3
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",87,"$500,000 to $999,999","29,126","+/-2,509",12.4,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",88,"$1,000,000 or more","5,079","+/-1,004",2.2,+/-0.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",89,Median (dollars),"279,900","+/-4,721",(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",89.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",90,Owner-occupied units,"235,220","+/-5,662","235,220",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",91,Housing units with a mortgage,"140,915","+/-5,016",59.9,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",92,Housing units without a mortgage,"94,305","+/-3,857",40.1,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",92.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",93,Housing units with a mortgage,"140,915","+/-5,016","140,915",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",94,Less than $500,"2,133",+/-708,1.5,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",95,$500 to $999,"22,531","+/-2,332",16.0,+/-1.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",96,"$1,000 to $1,499","50,783","+/-3,734",36.0,+/-2.3
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",97,"$1,500 to $1,999","34,843","+/-2,962",24.7,+/-2.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",98,"$2,000 to $2,499","17,125","+/-2,590",12.2,+/-1.8
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",99,"$2,500 to $2,999","6,744","+/-1,547",4.8,+/-1.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",100,"$3,000 or more","6,756","+/-1,291",4.8,+/-0.9
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",101,Median (dollars),"1,454",+/-29,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",101.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",102,Housing units without a mortgage,"94,305","+/-3,857","94,305",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",103,Less than $250,"10,374","+/-2,078",11.0,+/-2.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",104,$250 to $399,"25,002","+/-2,513",26.5,+/-2.6
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",105,$400 to $599,"32,078","+/-2,351",34.0,+/-2.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",106,$600 to $799,"14,758","+/-1,817",15.6,+/-1.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",107,$800 to $999,"6,592","+/-1,008",7.0,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",108,"$1,000 or more","5,501",+/-975,5.8,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",109,Median (dollars),470,+/-13,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",109.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"140,390","+/-4,972","140,390",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",111,Less than 20.0 percent,"67,626","+/-4,426",48.2,+/-2.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",112,20.0 to 24.9 percent,"22,617","+/-2,418",16.1,+/-1.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",113,25.0 to 29.9 percent,"14,469","+/-2,106",10.3,+/-1.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",114,30.0 to 34.9 percent,"9,354","+/-1,426",6.7,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",115,35.0 percent or more,"26,324","+/-2,541",18.8,+/-1.6
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",115.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",116,Not computed,525,+/-350,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",116.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"93,374","+/-3,851","93,374",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",118,Less than 10.0 percent,"50,033","+/-3,358",53.6,+/-2.6
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",119,10.0 to 14.9 percent,"18,504","+/-2,057",19.8,+/-2.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",120,15.0 to 19.9 percent,"8,245","+/-1,365",8.8,+/-1.4
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",121,20.0 to 24.9 percent,"4,503","+/-1,014",4.8,+/-1.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",122,25.0 to 29.9 percent,"3,773",+/-845,4.0,+/-0.9
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",123,30.0 to 34.9 percent,"1,756",+/-652,1.9,+/-0.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",124,35.0 percent or more,"6,560","+/-1,059",7.0,+/-1.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",124.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",125,Not computed,931,+/-414,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",125.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",125.5,GROSS RENT,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",126,Occupied units paying rent,"98,572","+/-5,140","98,572",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",127,Less than $500,"5,292","+/-1,137",5.4,+/-1.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",128,$500 to $999,"40,061","+/-3,735",40.6,+/-3.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",129,"$1,000 to $1,499","34,423","+/-3,033",34.9,+/-3.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",130,"$1,500 to $1,999","14,007","+/-2,381",14.2,+/-2.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",131,"$2,000 to $2,499","2,583",+/-987,2.6,+/-1.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",132,"$2,500 to $2,999",896,+/-673,0.9,+/-0.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",133,"$3,000 or more","1,310",+/-518,1.3,+/-0.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",134,Median (dollars),"1,050",+/-33,(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",134.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",135,No rent paid,"5,586","+/-1,334",(X),(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",135.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"95,549","+/-5,009","95,549",(X)
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",137,Less than 15.0 percent,"13,970","+/-1,972",14.6,+/-2.1
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",138,15.0 to 19.9 percent,"12,262","+/-2,091",12.8,+/-2.2
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",139,20.0 to 24.9 percent,"14,016","+/-2,659",14.7,+/-2.5
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",140,25.0 to 29.9 percent,"9,575","+/-1,944",10.0,+/-1.9
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",141,30.0 to 34.9 percent,"7,675","+/-1,548",8.0,+/-1.7
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",142,35.0 percent or more,"38,051","+/-3,538",39.8,+/-3.0
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",142.3,,,,,
+DP04,5001800US0406,"Congressional District 6 (118th Congress), Arizona",143,Not computed,"8,609","+/-1,822",(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",0.5,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",1,Total housing units,"313,370","+/-5,849","313,370",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",2,Occupied housing units,"284,660","+/-5,734",90.8,+/-0.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",3,Vacant housing units,"28,710","+/-3,001",9.2,+/-0.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",3.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",4,Homeowner vacancy rate,1.0,+/-0.5,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",5,Rental vacancy rate,3.4,+/-1.0,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",5.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",6,Total housing units,"313,370","+/-5,849","313,370",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",7,"1-unit, detached","187,013","+/-4,681",59.7,+/-1.3
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",8,"1-unit, attached","13,935","+/-1,913",4.4,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",9,2 units,"7,086","+/-1,365",2.3,+/-0.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",10,3 or 4 units,"11,300","+/-1,898",3.6,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",11,5 to 9 units,"11,190","+/-2,171",3.6,+/-0.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",12,10 to 19 units,"9,189","+/-1,946",2.9,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",13,20 or more units,"21,028","+/-2,571",6.7,+/-0.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",14,Mobile home,"51,342","+/-3,551",16.4,+/-1.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",15,"Boat, RV, van, etc.","1,287",+/-642,0.4,+/-0.2
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",15.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",16,Total housing units,"313,370","+/-5,849","313,370",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",17,Built 2020 or later,"2,442","+/-1,011",0.8,+/-0.3
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",18,Built 2010 to 2019,"21,121","+/-2,382",6.7,+/-0.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",19,Built 2000 to 2009,"72,805","+/-4,509",23.2,+/-1.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",20,Built 1990 to 1999,"39,659","+/-3,221",12.7,+/-1.0
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",21,Built 1980 to 1989,"44,105","+/-3,285",14.1,+/-1.0
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",22,Built 1970 to 1979,"51,468","+/-3,765",16.4,+/-1.2
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",23,Built 1960 to 1969,"25,019","+/-2,859",8.0,+/-0.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",24,Built 1950 to 1959,"30,255","+/-3,054",9.7,+/-0.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",25,Built 1940 to 1949,"11,931","+/-1,805",3.8,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",26,Built 1939 or earlier,"14,565","+/-2,034",4.6,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",26.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",26.5,ROOMS,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",27,Total housing units,"313,370","+/-5,849","313,370",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",28,1 room,"13,906","+/-1,955",4.4,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",29,2 rooms,"11,712","+/-1,915",3.7,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",30,3 rooms,"32,477","+/-3,424",10.4,+/-1.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",31,4 rooms,"55,939","+/-3,658",17.9,+/-1.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",32,5 rooms,"70,682","+/-5,019",22.6,+/-1.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",33,6 rooms,"60,271","+/-3,612",19.2,+/-1.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",34,7 rooms,"34,335","+/-2,580",11.0,+/-0.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",35,8 rooms,"17,943","+/-2,313",5.7,+/-0.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",36,9 rooms or more,"16,105","+/-2,216",5.1,+/-0.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",37,Median rooms,5.1,+/-0.1,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",37.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",37.5,BEDROOMS,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",38,Total housing units,"313,370","+/-5,849","313,370",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",39,No bedroom,"14,972","+/-2,002",4.8,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",40,1 bedroom,"34,740","+/-3,557",11.1,+/-1.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",41,2 bedrooms,"74,634","+/-3,991",23.8,+/-1.2
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",42,3 bedrooms,"127,755","+/-5,697",40.8,+/-1.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",43,4 bedrooms,"51,869","+/-4,311",16.6,+/-1.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",44,5 or more bedrooms,"9,400","+/-1,790",3.0,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",44.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",44.5,HOUSING TENURE,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",45,Occupied housing units,"284,660","+/-5,734","284,660",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",46,Owner-occupied,"178,480","+/-5,390",62.7,+/-1.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",47,Renter-occupied,"106,180","+/-5,496",37.3,+/-1.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",47.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",48,Average household size of owner-occupied unit,2.76,+/-0.07,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",49,Average household size of renter-occupied unit,2.56,+/-0.10,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",49.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",50,Occupied housing units,"284,660","+/-5,734","284,660",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",51,Moved in 2019 or later,"88,219","+/-4,719",31.0,+/-1.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",52,Moved in 2015 to 2018,"66,669","+/-4,257",23.4,+/-1.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",53,Moved in 2010 to 2014,"31,853","+/-2,986",11.2,+/-1.0
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",54,Moved in 2000 to 2009,"50,679","+/-3,807",17.8,+/-1.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",55,Moved in 1990 to 1999,"22,673","+/-2,395",8.0,+/-0.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",56,Moved in 1989 and earlier,"24,567","+/-2,242",8.6,+/-0.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",56.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",57,Occupied housing units,"284,660","+/-5,734","284,660",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",58,No vehicles available,"19,474","+/-2,607",6.8,+/-0.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",59,1 vehicle available,"97,677","+/-4,678",34.3,+/-1.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",60,2 vehicles available,"101,035","+/-4,988",35.5,+/-1.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",61,3 or more vehicles available,"66,474","+/-4,140",23.4,+/-1.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",61.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",62,Occupied housing units,"284,660","+/-5,734","284,660",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",63,Utility gas,"116,483","+/-4,150",40.9,+/-1.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",64,"Bottled, tank, or LP gas","9,636","+/-1,525",3.4,+/-0.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",65,Electricity,"146,561","+/-6,187",51.5,+/-1.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",66,"Fuel oil, kerosene, etc.",178,+/-195,0.1,+/-0.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",67,Coal or coke,172,+/-279,0.1,+/-0.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",68,Wood,"1,405",+/-553,0.5,+/-0.2
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",69,Solar energy,"3,214",+/-934,1.1,+/-0.3
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",70,Other fuel,574,+/-470,0.2,+/-0.2
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",71,No fuel used,"6,437","+/-1,710",2.3,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",71.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",72,Occupied housing units,"284,660","+/-5,734","284,660",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",73,Lacking complete plumbing facilities,"2,561","+/-1,091",0.9,+/-0.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",74,Lacking complete kitchen facilities,"2,484","+/-1,129",0.9,+/-0.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",75,No telephone service available,"4,727","+/-1,510",1.7,+/-0.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",75.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",76,Occupied housing units,"284,660","+/-5,734","284,660",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",77,1.00 or less,"262,854","+/-5,807",92.3,+/-0.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",78,1.01 to 1.50,"12,876","+/-1,972",4.5,+/-0.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",79,1.51 or more,"8,930","+/-1,889",3.1,+/-0.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",79.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",79.5,VALUE,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",80,Owner-occupied units,"178,480","+/-5,390","178,480",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",81,"Less than $50,000","21,139","+/-2,071",11.8,+/-1.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",82,"$50,000 to $99,999","13,587","+/-2,001",7.6,+/-1.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",83,"$100,000 to $149,999","21,604","+/-2,917",12.1,+/-1.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",84,"$150,000 to $199,999","31,835","+/-2,791",17.8,+/-1.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",85,"$200,000 to $299,999","46,054","+/-3,445",25.8,+/-1.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",86,"$300,000 to $499,999","35,346","+/-3,443",19.8,+/-1.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",87,"$500,000 to $999,999","7,739","+/-1,407",4.3,+/-0.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",88,"$1,000,000 or more","1,176",+/-468,0.7,+/-0.3
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",89,Median (dollars),"202,000","+/-6,274",(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",89.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",90,Owner-occupied units,"178,480","+/-5,390","178,480",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",91,Housing units with a mortgage,"104,763","+/-4,429",58.7,+/-1.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",92,Housing units without a mortgage,"73,717","+/-4,281",41.3,+/-1.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",92.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",93,Housing units with a mortgage,"104,763","+/-4,429","104,763",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",94,Less than $500,"1,931",+/-777,1.8,+/-0.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",95,$500 to $999,"30,004","+/-2,981",28.6,+/-2.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",96,"$1,000 to $1,499","42,441","+/-3,308",40.5,+/-3.0
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",97,"$1,500 to $1,999","20,807","+/-2,768",19.9,+/-2.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",98,"$2,000 to $2,499","6,295","+/-1,265",6.0,+/-1.2
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",99,"$2,500 to $2,999","1,903",+/-670,1.8,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",100,"$3,000 or more","1,382",+/-653,1.3,+/-0.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",101,Median (dollars),"1,190",+/-23,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",101.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",102,Housing units without a mortgage,"73,717","+/-4,281","73,717",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",103,Less than $250,"13,554","+/-1,755",18.4,+/-2.2
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",104,$250 to $399,"24,249","+/-2,575",32.9,+/-3.0
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",105,$400 to $599,"19,970","+/-2,456",27.1,+/-2.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",106,$600 to $799,"10,189","+/-1,693",13.8,+/-2.2
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",107,$800 to $999,"3,397","+/-1,065",4.6,+/-1.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",108,"$1,000 or more","2,358",+/-750,3.2,+/-1.0
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",109,Median (dollars),394,+/-16,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",109.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"103,497","+/-4,398","103,497",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",111,Less than 20.0 percent,"48,556","+/-3,262",46.9,+/-2.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",112,20.0 to 24.9 percent,"13,931","+/-1,896",13.5,+/-1.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",113,25.0 to 29.9 percent,"9,500","+/-1,620",9.2,+/-1.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",114,30.0 to 34.9 percent,"6,530","+/-1,606",6.3,+/-1.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",115,35.0 percent or more,"24,980","+/-2,863",24.1,+/-2.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",115.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",116,Not computed,"1,266",+/-839,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",116.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"73,070","+/-4,275","73,070",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",118,Less than 10.0 percent,"34,811","+/-2,825",47.6,+/-2.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",119,10.0 to 14.9 percent,"12,914","+/-1,979",17.7,+/-2.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",120,15.0 to 19.9 percent,"6,746","+/-1,347",9.2,+/-1.9
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",121,20.0 to 24.9 percent,"4,103",+/-964,5.6,+/-1.3
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",122,25.0 to 29.9 percent,"3,433","+/-1,048",4.7,+/-1.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",123,30.0 to 34.9 percent,"2,219",+/-805,3.0,+/-1.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",124,35.0 percent or more,"8,844","+/-1,632",12.1,+/-2.0
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",124.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",125,Not computed,647,+/-415,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",125.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",125.5,GROSS RENT,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",126,Occupied units paying rent,"100,396","+/-5,235","100,396",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",127,Less than $500,"7,654","+/-1,413",7.6,+/-1.4
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",128,$500 to $999,"49,562","+/-3,792",49.4,+/-3.0
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",129,"$1,000 to $1,499","29,193","+/-3,827",29.1,+/-3.5
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",130,"$1,500 to $1,999","9,995","+/-1,914",10.0,+/-1.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",131,"$2,000 to $2,499","3,058","+/-1,112",3.0,+/-1.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",132,"$2,500 to $2,999",832,+/-758,0.8,+/-0.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",133,"$3,000 or more",102,+/-111,0.1,+/-0.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",134,Median (dollars),927,+/-31,(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",134.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",135,No rent paid,"5,784","+/-1,218",(X),(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",135.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"97,479","+/-5,178","97,479",(X)
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",137,Less than 15.0 percent,"13,676","+/-2,319",14.0,+/-2.3
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",138,15.0 to 19.9 percent,"11,701","+/-1,902",12.0,+/-1.8
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",139,20.0 to 24.9 percent,"11,590","+/-1,951",11.9,+/-2.0
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",140,25.0 to 29.9 percent,"9,985","+/-1,640",10.2,+/-1.6
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",141,30.0 to 34.9 percent,"8,467","+/-1,693",8.7,+/-1.7
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",142,35.0 percent or more,"42,060","+/-4,111",43.1,+/-3.1
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",142.3,,,,,
+DP04,5001800US0407,"Congressional District 7 (118th Congress), Arizona",143,Not computed,"8,701","+/-1,623",(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",0.5,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",1,Total housing units,"348,942","+/-6,772","348,942",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",2,Occupied housing units,"324,919","+/-6,458",93.1,+/-0.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",3,Vacant housing units,"24,023","+/-3,206",6.9,+/-0.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",3.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",4,Homeowner vacancy rate,1.0,+/-0.5,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",5,Rental vacancy rate,5.8,+/-1.6,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",5.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",6,Total housing units,"348,942","+/-6,772","348,942",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",7,"1-unit, detached","247,628","+/-5,973",71.0,+/-1.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",8,"1-unit, attached","23,018","+/-2,621",6.6,+/-0.8
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",9,2 units,"2,433",+/-846,0.7,+/-0.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",10,3 or 4 units,"7,160","+/-1,369",2.1,+/-0.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",11,5 to 9 units,"14,312","+/-2,374",4.1,+/-0.7
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",12,10 to 19 units,"13,496","+/-2,623",3.9,+/-0.7
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",13,20 or more units,"30,435","+/-3,445",8.7,+/-1.0
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",14,Mobile home,"10,187","+/-1,767",2.9,+/-0.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",15,"Boat, RV, van, etc.",273,+/-260,0.1,+/-0.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",15.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",16,Total housing units,"348,942","+/-6,772","348,942",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",17,Built 2020 or later,"2,710",+/-887,0.8,+/-0.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",18,Built 2010 to 2019,"34,871","+/-3,295",10.0,+/-0.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",19,Built 2000 to 2009,"72,006","+/-3,919",20.6,+/-1.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",20,Built 1990 to 1999,"68,767","+/-3,725",19.7,+/-1.0
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",21,Built 1980 to 1989,"61,943","+/-4,096",17.8,+/-1.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",22,Built 1970 to 1979,"73,661","+/-3,916",21.1,+/-1.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",23,Built 1960 to 1969,"24,200","+/-2,733",6.9,+/-0.8
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",24,Built 1950 to 1959,"8,230","+/-1,421",2.4,+/-0.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",25,Built 1940 to 1949,"1,859",+/-743,0.5,+/-0.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",26,Built 1939 or earlier,695,+/-432,0.2,+/-0.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",26.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",26.5,ROOMS,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",27,Total housing units,"348,942","+/-6,772","348,942",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",28,1 room,"8,131","+/-1,678",2.3,+/-0.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",29,2 rooms,"10,491","+/-2,071",3.0,+/-0.6
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",30,3 rooms,"28,276","+/-3,310",8.1,+/-0.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",31,4 rooms,"46,808","+/-4,324",13.4,+/-1.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",32,5 rooms,"69,950","+/-4,791",20.0,+/-1.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",33,6 rooms,"74,116","+/-4,182",21.2,+/-1.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",34,7 rooms,"44,716","+/-3,207",12.8,+/-0.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",35,8 rooms,"29,133","+/-2,711",8.3,+/-0.8
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",36,9 rooms or more,"37,321","+/-3,296",10.7,+/-0.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",37,Median rooms,5.6,+/-0.2,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",37.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",37.5,BEDROOMS,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",38,Total housing units,"348,942","+/-6,772","348,942",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",39,No bedroom,"8,289","+/-1,714",2.4,+/-0.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",40,1 bedroom,"33,620","+/-3,280",9.6,+/-0.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",41,2 bedrooms,"97,871","+/-4,675",28.0,+/-1.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",42,3 bedrooms,"121,299","+/-5,372",34.8,+/-1.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",43,4 bedrooms,"69,319","+/-4,177",19.9,+/-1.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",44,5 or more bedrooms,"18,544","+/-2,811",5.3,+/-0.8
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",44.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",44.5,HOUSING TENURE,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",45,Occupied housing units,"324,919","+/-6,458","324,919",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",46,Owner-occupied,"232,197","+/-5,886",71.5,+/-1.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",47,Renter-occupied,"92,722","+/-5,226",28.5,+/-1.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",47.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",48,Average household size of owner-occupied unit,2.52,+/-0.05,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",49,Average household size of renter-occupied unit,2.39,+/-0.09,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",49.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",50,Occupied housing units,"324,919","+/-6,458","324,919",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",51,Moved in 2019 or later,"95,429","+/-5,104",29.4,+/-1.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",52,Moved in 2015 to 2018,"85,725","+/-5,280",26.4,+/-1.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",53,Moved in 2010 to 2014,"46,437","+/-3,730",14.3,+/-1.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",54,Moved in 2000 to 2009,"56,668","+/-3,810",17.4,+/-1.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",55,Moved in 1990 to 1999,"27,924","+/-2,806",8.6,+/-0.8
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",56,Moved in 1989 and earlier,"12,736","+/-1,576",3.9,+/-0.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",56.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",57,Occupied housing units,"324,919","+/-6,458","324,919",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",58,No vehicles available,"15,884","+/-2,432",4.9,+/-0.7
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",59,1 vehicle available,"115,133","+/-5,703",35.4,+/-1.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",60,2 vehicles available,"124,376","+/-5,299",38.3,+/-1.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",61,3 or more vehicles available,"69,526","+/-4,148",21.4,+/-1.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",61.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",62,Occupied housing units,"324,919","+/-6,458","324,919",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",63,Utility gas,"97,591","+/-4,975",30.0,+/-1.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",64,"Bottled, tank, or LP gas","2,990",+/-791,0.9,+/-0.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",65,Electricity,"214,997","+/-5,939",66.2,+/-1.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",66,"Fuel oil, kerosene, etc.",0,+/-224,0.0,+/-0.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",67,Coal or coke,74,+/-123,0.0,+/-0.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",68,Wood,164,+/-181,0.1,+/-0.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",69,Solar energy,"5,219","+/-1,164",1.6,+/-0.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",70,Other fuel,267,+/-272,0.1,+/-0.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",71,No fuel used,"3,617","+/-1,058",1.1,+/-0.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",71.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",72,Occupied housing units,"324,919","+/-6,458","324,919",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",73,Lacking complete plumbing facilities,846,+/-512,0.3,+/-0.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",74,Lacking complete kitchen facilities,"2,266","+/-1,024",0.7,+/-0.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",75,No telephone service available,"1,418",+/-814,0.4,+/-0.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",75.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",76,Occupied housing units,"324,919","+/-6,458","324,919",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",77,1.00 or less,"314,030","+/-6,703",96.6,+/-0.7
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",78,1.01 to 1.50,"7,752","+/-1,957",2.4,+/-0.6
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",79,1.51 or more,"3,137","+/-1,006",1.0,+/-0.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",79.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",79.5,VALUE,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",80,Owner-occupied units,"232,197","+/-5,886","232,197",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",81,"Less than $50,000","8,084","+/-1,608",3.5,+/-0.7
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",82,"$50,000 to $99,999","2,822",+/-712,1.2,+/-0.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",83,"$100,000 to $149,999","4,483","+/-1,203",1.9,+/-0.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",84,"$150,000 to $199,999","12,155","+/-1,802",5.2,+/-0.8
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",85,"$200,000 to $299,999","55,193","+/-4,130",23.8,+/-1.6
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",86,"$300,000 to $499,999","98,939","+/-4,875",42.6,+/-2.0
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",87,"$500,000 to $999,999","47,265","+/-3,172",20.4,+/-1.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",88,"$1,000,000 or more","3,256","+/-1,004",1.4,+/-0.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",89,Median (dollars),"353,300","+/-5,148",(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",89.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",90,Owner-occupied units,"232,197","+/-5,886","232,197",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",91,Housing units with a mortgage,"152,832","+/-6,239",65.8,+/-1.8
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",92,Housing units without a mortgage,"79,365","+/-4,163",34.2,+/-1.8
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",92.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",93,Housing units with a mortgage,"152,832","+/-6,239","152,832",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",94,Less than $500,"1,728",+/-770,1.1,+/-0.5
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",95,$500 to $999,"21,739","+/-2,689",14.2,+/-1.6
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",96,"$1,000 to $1,499","49,965","+/-3,784",32.7,+/-2.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",97,"$1,500 to $1,999","37,591","+/-3,414",24.6,+/-2.0
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",98,"$2,000 to $2,499","22,448","+/-2,641",14.7,+/-1.7
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",99,"$2,500 to $2,999","11,791","+/-2,057",7.7,+/-1.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",100,"$3,000 or more","7,570","+/-1,798",5.0,+/-1.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",101,Median (dollars),"1,536",+/-41,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",101.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",102,Housing units without a mortgage,"79,365","+/-4,163","79,365",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",103,Less than $250,"7,186","+/-1,317",9.1,+/-1.6
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",104,$250 to $399,"24,567","+/-2,612",31.0,+/-2.6
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",105,$400 to $599,"28,397","+/-2,450",35.8,+/-2.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",106,$600 to $799,"12,854","+/-1,906",16.2,+/-2.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",107,$800 to $999,"3,827","+/-1,078",4.8,+/-1.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",108,"$1,000 or more","2,534",+/-750,3.2,+/-0.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",109,Median (dollars),452,+/-14,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",109.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"152,058","+/-6,219","152,058",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",111,Less than 20.0 percent,"76,314","+/-4,688",50.2,+/-2.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",112,20.0 to 24.9 percent,"24,746","+/-2,459",16.3,+/-1.6
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",113,25.0 to 29.9 percent,"14,540","+/-2,273",9.6,+/-1.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",114,30.0 to 34.9 percent,"9,661","+/-2,183",6.4,+/-1.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",115,35.0 percent or more,"26,797","+/-2,720",17.6,+/-1.6
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",115.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",116,Not computed,774,+/-464,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",116.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"77,986","+/-4,141","77,986",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",118,Less than 10.0 percent,"42,736","+/-3,530",54.8,+/-3.0
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",119,10.0 to 14.9 percent,"15,316","+/-1,947",19.6,+/-2.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",120,15.0 to 19.9 percent,"5,242","+/-1,134",6.7,+/-1.4
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",121,20.0 to 24.9 percent,"3,554",+/-901,4.6,+/-1.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",122,25.0 to 29.9 percent,"2,994",+/-962,3.8,+/-1.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",123,30.0 to 34.9 percent,"1,763",+/-752,2.3,+/-1.0
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",124,35.0 percent or more,"6,381","+/-1,338",8.2,+/-1.7
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",124.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",125,Not computed,"1,379",+/-624,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",125.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",125.5,GROSS RENT,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",126,Occupied units paying rent,"89,891","+/-5,023","89,891",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",127,Less than $500,"2,572","+/-1,004",2.9,+/-1.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",128,$500 to $999,"17,283","+/-3,137",19.2,+/-3.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",129,"$1,000 to $1,499","35,388","+/-4,036",39.4,+/-4.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",130,"$1,500 to $1,999","22,882","+/-3,289",25.5,+/-3.3
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",131,"$2,000 to $2,499","5,835","+/-1,545",6.5,+/-1.7
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",132,"$2,500 to $2,999","2,403","+/-1,075",2.7,+/-1.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",133,"$3,000 or more","3,528","+/-1,081",3.9,+/-1.2
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",134,Median (dollars),"1,360",+/-38,(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",134.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",135,No rent paid,"2,831","+/-1,018",(X),(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",135.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"88,100","+/-4,905","88,100",(X)
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",137,Less than 15.0 percent,"8,214","+/-1,944",9.3,+/-2.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",138,15.0 to 19.9 percent,"8,771","+/-1,887",10.0,+/-2.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",139,20.0 to 24.9 percent,"8,228","+/-1,815",9.3,+/-2.0
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",140,25.0 to 29.9 percent,"10,204","+/-1,712",11.6,+/-1.9
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",141,30.0 to 34.9 percent,"7,735","+/-1,678",8.8,+/-1.8
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",142,35.0 percent or more,"44,948","+/-3,782",51.0,+/-3.1
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",142.3,,,,,
+DP04,5001800US0408,"Congressional District 8 (118th Congress), Arizona",143,Not computed,"4,622","+/-1,464",(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",0.5,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",1,Total housing units,"362,644","+/-5,116","362,644",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",2,Occupied housing units,"317,111","+/-5,123",87.4,+/-0.8
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",3,Vacant housing units,"45,533","+/-3,196",12.6,+/-0.8
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",3.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",4,Homeowner vacancy rate,0.8,+/-0.4,(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",5,Rental vacancy rate,2.8,+/-1.1,(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",5.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",6,Total housing units,"362,644","+/-5,116","362,644",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",7,"1-unit, detached","253,653","+/-5,654",69.9,+/-1.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",8,"1-unit, attached","8,352","+/-1,886",2.3,+/-0.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",9,2 units,"3,574","+/-1,025",1.0,+/-0.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",10,3 or 4 units,"6,528","+/-1,752",1.8,+/-0.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",11,5 to 9 units,"6,242","+/-1,542",1.7,+/-0.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",12,10 to 19 units,"4,209","+/-1,535",1.2,+/-0.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",13,20 or more units,"11,372","+/-2,009",3.1,+/-0.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",14,Mobile home,"66,711","+/-4,191",18.4,+/-1.1
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",15,"Boat, RV, van, etc.","2,003",+/-735,0.6,+/-0.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",15.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",16,Total housing units,"362,644","+/-5,116","362,644",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",17,Built 2020 or later,"7,406","+/-1,666",2.0,+/-0.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",18,Built 2010 to 2019,"70,294","+/-4,815",19.4,+/-1.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",19,Built 2000 to 2009,"127,352","+/-6,598",35.1,+/-1.7
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",20,Built 1990 to 1999,"54,830","+/-4,083",15.1,+/-1.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",21,Built 1980 to 1989,"43,743","+/-3,595",12.1,+/-1.0
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",22,Built 1970 to 1979,"36,856","+/-3,785",10.2,+/-1.0
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",23,Built 1960 to 1969,"12,632","+/-2,124",3.5,+/-0.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",24,Built 1950 to 1959,"6,349","+/-1,482",1.8,+/-0.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",25,Built 1940 to 1949,"1,490",+/-599,0.4,+/-0.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",26,Built 1939 or earlier,"1,692",+/-675,0.5,+/-0.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",26.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",26.5,ROOMS,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",27,Total housing units,"362,644","+/-5,116","362,644",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",28,1 room,"5,445","+/-1,280",1.5,+/-0.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",29,2 rooms,"12,565","+/-1,989",3.5,+/-0.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",30,3 rooms,"26,222","+/-3,178",7.2,+/-0.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",31,4 rooms,"60,061","+/-4,818",16.6,+/-1.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",32,5 rooms,"78,749","+/-4,545",21.7,+/-1.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",33,6 rooms,"72,669","+/-5,120",20.0,+/-1.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",34,7 rooms,"46,428","+/-3,762",12.8,+/-1.0
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",35,8 rooms,"30,431","+/-3,088",8.4,+/-0.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",36,9 rooms or more,"30,074","+/-2,970",8.3,+/-0.8
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",37,Median rooms,5.5,+/-0.1,(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",37.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",37.5,BEDROOMS,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",38,Total housing units,"362,644","+/-5,116","362,644",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",39,No bedroom,"6,350","+/-1,518",1.8,+/-0.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",40,1 bedroom,"31,423","+/-3,334",8.7,+/-0.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",41,2 bedrooms,"77,642","+/-4,793",21.4,+/-1.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",42,3 bedrooms,"159,771","+/-5,646",44.1,+/-1.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",43,4 bedrooms,"70,794","+/-4,336",19.5,+/-1.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",44,5 or more bedrooms,"16,664","+/-2,758",4.6,+/-0.8
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",44.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",44.5,HOUSING TENURE,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",45,Occupied housing units,"317,111","+/-5,123","317,111",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",46,Owner-occupied,"242,042","+/-5,617",76.3,+/-1.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",47,Renter-occupied,"75,069","+/-4,399",23.7,+/-1.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",47.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",48,Average household size of owner-occupied unit,2.60,+/-0.05,(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",49,Average household size of renter-occupied unit,2.59,+/-0.11,(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",49.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",50,Occupied housing units,"317,111","+/-5,123","317,111",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",51,Moved in 2019 or later,"100,391","+/-5,153",31.7,+/-1.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",52,Moved in 2015 to 2018,"87,585","+/-4,901",27.6,+/-1.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",53,Moved in 2010 to 2014,"47,113","+/-4,282",14.9,+/-1.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",54,Moved in 2000 to 2009,"54,501","+/-4,163",17.2,+/-1.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",55,Moved in 1990 to 1999,"18,067","+/-2,484",5.7,+/-0.8
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",56,Moved in 1989 and earlier,"9,454","+/-1,735",3.0,+/-0.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",56.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",57,Occupied housing units,"317,111","+/-5,123","317,111",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",58,No vehicles available,"9,958","+/-1,782",3.1,+/-0.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",59,1 vehicle available,"93,426","+/-5,060",29.5,+/-1.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",60,2 vehicles available,"125,506","+/-5,136",39.6,+/-1.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",61,3 or more vehicles available,"88,221","+/-4,688",27.8,+/-1.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",61.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",62,Occupied housing units,"317,111","+/-5,123","317,111",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",63,Utility gas,"103,975","+/-4,552",32.8,+/-1.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",64,"Bottled, tank, or LP gas","9,927","+/-1,753",3.1,+/-0.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",65,Electricity,"189,180","+/-6,270",59.7,+/-1.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",66,"Fuel oil, kerosene, etc.",365,+/-366,0.1,+/-0.1
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",67,Coal or coke,0,+/-224,0.0,+/-0.1
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",68,Wood,"2,349","+/-1,042",0.7,+/-0.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",69,Solar energy,"6,624","+/-1,533",2.1,+/-0.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",70,Other fuel,"1,082",+/-571,0.3,+/-0.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",71,No fuel used,"3,609","+/-1,012",1.1,+/-0.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",71.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",72,Occupied housing units,"317,111","+/-5,123","317,111",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",73,Lacking complete plumbing facilities,824,+/-486,0.3,+/-0.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",74,Lacking complete kitchen facilities,"1,855",+/-729,0.6,+/-0.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",75,No telephone service available,"2,696","+/-1,296",0.9,+/-0.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",75.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",76,Occupied housing units,"317,111","+/-5,123","317,111",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",77,1.00 or less,"302,260","+/-4,952",95.3,+/-0.8
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",78,1.01 to 1.50,"10,028","+/-2,121",3.2,+/-0.7
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",79,1.51 or more,"4,823","+/-1,158",1.5,+/-0.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",79.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",79.5,VALUE,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",80,Owner-occupied units,"242,042","+/-5,617","242,042",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",81,"Less than $50,000","18,574","+/-2,563",7.7,+/-1.1
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",82,"$50,000 to $99,999","14,993","+/-2,188",6.2,+/-0.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",83,"$100,000 to $149,999","14,330","+/-2,506",5.9,+/-1.0
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",84,"$150,000 to $199,999","17,496","+/-2,323",7.2,+/-0.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",85,"$200,000 to $299,999","50,815","+/-4,012",21.0,+/-1.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",86,"$300,000 to $499,999","90,119","+/-5,264",37.2,+/-1.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",87,"$500,000 to $999,999","32,870","+/-3,118",13.6,+/-1.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",88,"$1,000,000 or more","2,845","+/-1,185",1.2,+/-0.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",89,Median (dollars),"308,500","+/-8,020",(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",89.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",90,Owner-occupied units,"242,042","+/-5,617","242,042",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",91,Housing units with a mortgage,"154,550","+/-5,912",63.9,+/-1.8
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",92,Housing units without a mortgage,"87,492","+/-4,749",36.1,+/-1.8
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",92.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",93,Housing units with a mortgage,"154,550","+/-5,912","154,550",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",94,Less than $500,"1,820",+/-808,1.2,+/-0.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",95,$500 to $999,"27,389","+/-3,170",17.7,+/-1.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",96,"$1,000 to $1,499","50,797","+/-3,649",32.9,+/-2.0
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",97,"$1,500 to $1,999","44,559","+/-4,158",28.8,+/-2.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",98,"$2,000 to $2,499","18,273","+/-2,481",11.8,+/-1.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",99,"$2,500 to $2,999","7,714","+/-1,874",5.0,+/-1.2
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",100,"$3,000 or more","3,998",+/-930,2.6,+/-0.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",101,Median (dollars),"1,475",+/-37,(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",101.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",102,Housing units without a mortgage,"87,492","+/-4,749","87,492",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",103,Less than $250,"18,737","+/-2,770",21.4,+/-2.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",104,$250 to $399,"26,346","+/-2,888",30.1,+/-2.8
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",105,$400 to $599,"25,106","+/-2,121",28.7,+/-2.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",106,$600 to $799,"10,702","+/-2,013",12.2,+/-2.0
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",107,$800 to $999,"4,093","+/-1,345",4.7,+/-1.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",108,"$1,000 or more","2,508",+/-952,2.9,+/-1.1
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",109,Median (dollars),393,+/-13,(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",109.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"152,707","+/-5,934","152,707",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",111,Less than 20.0 percent,"71,222","+/-5,386",46.6,+/-2.7
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",112,20.0 to 24.9 percent,"27,287","+/-3,328",17.9,+/-2.1
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",113,25.0 to 29.9 percent,"15,667","+/-2,264",10.3,+/-1.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",114,30.0 to 34.9 percent,"9,443","+/-1,718",6.2,+/-1.1
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",115,35.0 percent or more,"29,088","+/-3,471",19.0,+/-2.3
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",115.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",116,Not computed,"1,843","+/-1,046",(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",116.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"85,977","+/-4,891","85,977",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",118,Less than 10.0 percent,"43,744","+/-3,200",50.9,+/-2.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",119,10.0 to 14.9 percent,"16,321","+/-2,516",19.0,+/-2.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",120,15.0 to 19.9 percent,"9,368","+/-1,728",10.9,+/-1.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",121,20.0 to 24.9 percent,"3,982","+/-1,244",4.6,+/-1.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",122,25.0 to 29.9 percent,"2,308",+/-898,2.7,+/-1.0
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",123,30.0 to 34.9 percent,"3,960","+/-1,465",4.6,+/-1.7
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",124,35.0 percent or more,"6,294","+/-1,667",7.3,+/-1.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",124.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",125,Not computed,"1,515",+/-620,(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",125.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",125.5,GROSS RENT,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",126,Occupied units paying rent,"69,526","+/-4,461","69,526",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",127,Less than $500,"3,337","+/-1,032",4.8,+/-1.5
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",128,$500 to $999,"22,614","+/-3,372",32.5,+/-4.1
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",129,"$1,000 to $1,499","21,216","+/-3,279",30.5,+/-4.0
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",130,"$1,500 to $1,999","14,494","+/-2,102",20.8,+/-3.0
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",131,"$2,000 to $2,499","4,860","+/-1,348",7.0,+/-1.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",132,"$2,500 to $2,999","1,956",+/-933,2.8,+/-1.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",133,"$3,000 or more","1,049",+/-637,1.5,+/-0.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",134,Median (dollars),"1,177",+/-49,(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",134.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",135,No rent paid,"5,543","+/-1,385",(X),(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",135.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"68,664","+/-4,439","68,664",(X)
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",137,Less than 15.0 percent,"7,300","+/-1,476",10.6,+/-1.9
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",138,15.0 to 19.9 percent,"7,974","+/-1,951",11.6,+/-2.6
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",139,20.0 to 24.9 percent,"8,435","+/-1,701",12.3,+/-2.4
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",140,25.0 to 29.9 percent,"7,979","+/-1,925",11.6,+/-2.7
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",141,30.0 to 34.9 percent,"6,705","+/-1,899",9.8,+/-2.7
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",142,35.0 percent or more,"30,271","+/-2,959",44.1,+/-3.7
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",142.3,,,,,
+DP04,5001800US0409,"Congressional District 9 (118th Congress), Arizona",143,Not computed,"6,405","+/-1,543",(X),(X)

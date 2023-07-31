@@ -1,0 +1,1675 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",0.5,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",1,Total housing units,"325,339","+/-1,506","325,339",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",2,Occupied housing units,"292,553","+/-3,069",89.9,+/-0.9
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",3,Vacant housing units,"32,786","+/-2,868",10.1,+/-0.9
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",3.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",4,Homeowner vacancy rate,0.6,+/-0.3,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",5,Rental vacancy rate,7.0,+/-1.7,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",5.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",6,Total housing units,"325,339","+/-1,506","325,339",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",7,"1-unit, detached","235,728","+/-4,032",72.5,+/-1.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",8,"1-unit, attached","23,768","+/-2,437",7.3,+/-0.8
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",9,2 units,"8,680","+/-1,825",2.7,+/-0.6
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",10,3 or 4 units,"11,219","+/-2,038",3.4,+/-0.6
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",11,5 to 9 units,"11,796","+/-1,958",3.6,+/-0.6
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",12,10 to 19 units,"13,802","+/-2,326",4.2,+/-0.7
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",13,20 or more units,"12,599","+/-2,024",3.9,+/-0.6
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",14,Mobile home,"7,747","+/-1,562",2.4,+/-0.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",15,"Boat, RV, van, etc.",0,+/-208,0.0,+/-0.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",15.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",16,Total housing units,"325,339","+/-1,506","325,339",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",17,Built 2020 or later,"1,384",+/-676,0.4,+/-0.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",18,Built 2010 to 2019,"20,570","+/-2,312",6.3,+/-0.7
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",19,Built 2000 to 2009,"37,384","+/-2,909",11.5,+/-0.9
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",20,Built 1990 to 1999,"33,971","+/-3,161",10.4,+/-1.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",21,Built 1980 to 1989,"21,704","+/-2,603",6.7,+/-0.8
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",22,Built 1970 to 1979,"50,998","+/-3,479",15.7,+/-1.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",23,Built 1960 to 1969,"37,876","+/-3,000",11.6,+/-0.9
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",24,Built 1950 to 1959,"46,337","+/-3,291",14.2,+/-1.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",25,Built 1940 to 1949,"25,721","+/-2,368",7.9,+/-0.7
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",26,Built 1939 or earlier,"49,394","+/-3,343",15.2,+/-1.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",26.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",26.5,ROOMS,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",27,Total housing units,"325,339","+/-1,506","325,339",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",28,1 room,"3,727","+/-1,005",1.1,+/-0.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",29,2 rooms,"2,229",+/-860,0.7,+/-0.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",30,3 rooms,"17,638","+/-2,215",5.4,+/-0.7
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",31,4 rooms,"48,340","+/-3,241",14.9,+/-1.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",32,5 rooms,"71,913","+/-3,554",22.1,+/-1.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",33,6 rooms,"66,686","+/-3,456",20.5,+/-1.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",34,7 rooms,"43,922","+/-3,701",13.5,+/-1.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",35,8 rooms,"31,111","+/-2,506",9.6,+/-0.8
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",36,9 rooms or more,"39,773","+/-3,161",12.2,+/-1.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",37,Median rooms,5.8,+/-0.1,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",37.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",37.5,BEDROOMS,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",38,Total housing units,"325,339","+/-1,506","325,339",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",39,No bedroom,"3,975","+/-1,028",1.2,+/-0.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",40,1 bedroom,"21,898","+/-2,422",6.7,+/-0.7
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",41,2 bedrooms,"86,759","+/-3,989",26.7,+/-1.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",42,3 bedrooms,"142,184","+/-4,915",43.7,+/-1.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",43,4 bedrooms,"56,577","+/-4,193",17.4,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",44,5 or more bedrooms,"13,946","+/-2,058",4.3,+/-0.6
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",44.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",44.5,HOUSING TENURE,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",45,Occupied housing units,"292,553","+/-3,069","292,553",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",46,Owner-occupied,"211,184","+/-3,680",72.2,+/-1.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",47,Renter-occupied,"81,369","+/-3,857",27.8,+/-1.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",47.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",48,Average household size of owner-occupied unit,2.57,+/-0.04,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",49,Average household size of renter-occupied unit,2.39,+/-0.08,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",49.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",50,Occupied housing units,"292,553","+/-3,069","292,553",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",51,Moved in 2019 or later,"67,148","+/-3,834",23.0,+/-1.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",52,Moved in 2015 to 2018,"64,900","+/-3,742",22.2,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",53,Moved in 2010 to 2014,"34,898","+/-2,748",11.9,+/-0.9
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",54,Moved in 2000 to 2009,"57,177","+/-3,769",19.5,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",55,Moved in 1990 to 1999,"31,077","+/-2,696",10.6,+/-0.9
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",56,Moved in 1989 and earlier,"37,353","+/-2,835",12.8,+/-1.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",56.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",57,Occupied housing units,"292,553","+/-3,069","292,553",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",58,No vehicles available,"15,992","+/-2,117",5.5,+/-0.7
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",59,1 vehicle available,"97,502","+/-3,755",33.3,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",60,2 vehicles available,"112,592","+/-4,569",38.5,+/-1.4
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",61,3 or more vehicles available,"66,467","+/-3,382",22.7,+/-1.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",61.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",62,Occupied housing units,"292,553","+/-3,069","292,553",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",63,Utility gas,"253,722","+/-3,859",86.7,+/-1.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",64,"Bottled, tank, or LP gas","4,865","+/-1,221",1.7,+/-0.4
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",65,Electricity,"30,085","+/-2,655",10.3,+/-0.9
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",66,"Fuel oil, kerosene, etc.",427,+/-254,0.1,+/-0.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",67,Coal or coke,0,+/-208,0.0,+/-0.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",68,Wood,627,+/-319,0.2,+/-0.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",69,Solar energy,483,+/-553,0.2,+/-0.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",70,Other fuel,588,+/-409,0.2,+/-0.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",71,No fuel used,"1,756",+/-772,0.6,+/-0.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",71.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",72,Occupied housing units,"292,553","+/-3,069","292,553",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",73,Lacking complete plumbing facilities,741,+/-444,0.3,+/-0.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",74,Lacking complete kitchen facilities,"1,864",+/-609,0.6,+/-0.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",75,No telephone service available,"2,092",+/-869,0.7,+/-0.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",75.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",76,Occupied housing units,"292,553","+/-3,069","292,553",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",77,1.00 or less,"287,384","+/-3,066",98.2,+/-0.4
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",78,1.01 to 1.50,"3,731","+/-1,124",1.3,+/-0.4
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",79,1.51 or more,"1,438",+/-772,0.5,+/-0.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",79.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",79.5,VALUE,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",80,Owner-occupied units,"211,184","+/-3,680","211,184",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",81,"Less than $50,000","11,268","+/-1,505",5.3,+/-0.7
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",82,"$50,000 to $99,999","21,955","+/-2,401",10.4,+/-1.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",83,"$100,000 to $149,999","31,508","+/-2,537",14.9,+/-1.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",84,"$150,000 to $199,999","35,364","+/-2,889",16.7,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",85,"$200,000 to $299,999","57,895","+/-3,790",27.4,+/-1.8
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",86,"$300,000 to $499,999","41,416","+/-3,202",19.6,+/-1.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",87,"$500,000 to $999,999","10,322","+/-1,473",4.9,+/-0.7
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",88,"$1,000,000 or more","1,456",+/-499,0.7,+/-0.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",89,Median (dollars),"208,500","+/-5,477",(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",89.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",90,Owner-occupied units,"211,184","+/-3,680","211,184",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",91,Housing units with a mortgage,"135,034","+/-4,241",63.9,+/-1.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",92,Housing units without a mortgage,"76,150","+/-3,177",36.1,+/-1.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",92.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",93,Housing units with a mortgage,"135,034","+/-4,241","135,034",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",94,Less than $500,"1,102",+/-436,0.8,+/-0.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",95,$500 to $999,"31,113","+/-3,086",23.0,+/-2.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",96,"$1,000 to $1,499","50,510","+/-3,486",37.4,+/-2.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",97,"$1,500 to $1,999","32,887","+/-3,256",24.4,+/-2.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",98,"$2,000 to $2,499","10,878","+/-1,728",8.1,+/-1.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",99,"$2,500 to $2,999","4,391","+/-1,153",3.3,+/-0.8
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",100,"$3,000 or more","4,153","+/-1,265",3.1,+/-1.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",101,Median (dollars),"1,342",+/-31,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",101.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",102,Housing units without a mortgage,"76,150","+/-3,177","76,150",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",103,Less than $250,"4,207","+/-1,029",5.5,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",104,$250 to $399,"18,210","+/-2,148",23.9,+/-2.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",105,$400 to $599,"30,604","+/-2,865",40.2,+/-3.4
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",106,$600 to $799,"16,314","+/-2,082",21.4,+/-2.6
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",107,$800 to $999,"3,826",+/-925,5.0,+/-1.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",108,"$1,000 or more","2,989",+/-974,3.9,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",109,Median (dollars),497,+/-14,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",109.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"134,099","+/-4,327","134,099",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",111,Less than 20.0 percent,"70,963","+/-3,581",52.9,+/-2.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",112,20.0 to 24.9 percent,"20,815","+/-2,060",15.5,+/-1.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",113,25.0 to 29.9 percent,"11,596","+/-1,727",8.6,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",114,30.0 to 34.9 percent,"6,032","+/-1,293",4.5,+/-0.9
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",115,35.0 percent or more,"24,693","+/-2,597",18.4,+/-1.8
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",115.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",116,Not computed,935,+/-578,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",116.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"75,359","+/-3,198","75,359",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",118,Less than 10.0 percent,"34,020","+/-2,747",45.1,+/-2.6
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",119,10.0 to 14.9 percent,"15,519","+/-1,945",20.6,+/-2.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",120,15.0 to 19.9 percent,"7,057","+/-1,195",9.4,+/-1.6
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",121,20.0 to 24.9 percent,"4,320","+/-1,012",5.7,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",122,25.0 to 29.9 percent,"3,100",+/-940,4.1,+/-1.3
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",123,30.0 to 34.9 percent,"2,824",+/-804,3.7,+/-1.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",124,35.0 percent or more,"8,519","+/-1,539",11.3,+/-2.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",124.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",125,Not computed,791,+/-394,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",125.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",125.5,GROSS RENT,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",126,Occupied units paying rent,"76,898","+/-3,871","76,898",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",127,Less than $500,"5,910","+/-1,206",7.7,+/-1.5
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",128,$500 to $999,"32,140","+/-2,818",41.8,+/-3.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",129,"$1,000 to $1,499","31,341","+/-2,708",40.8,+/-2.8
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",130,"$1,500 to $1,999","5,625","+/-1,246",7.3,+/-1.6
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",131,"$2,000 to $2,499","1,815",+/-904,2.4,+/-1.1
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",132,"$2,500 to $2,999",0,+/-208,0.0,+/-0.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",133,"$3,000 or more",67,+/-119,0.1,+/-0.2
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",134,Median (dollars),"1,005",+/-26,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",134.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",135,No rent paid,"4,471",+/-822,(X),(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",135.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"73,702","+/-4,002","73,702",(X)
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",137,Less than 15.0 percent,"10,428","+/-1,877",14.1,+/-2.4
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",138,15.0 to 19.9 percent,"8,781","+/-2,012",11.9,+/-2.7
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",139,20.0 to 24.9 percent,"9,010","+/-1,879",12.2,+/-2.4
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",140,25.0 to 29.9 percent,"6,917","+/-1,576",9.4,+/-2.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",141,30.0 to 34.9 percent,"6,499","+/-1,478",8.8,+/-2.0
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",142,35.0 percent or more,"32,067","+/-3,236",43.5,+/-3.9
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",142.3,,,,,
+DP04,5001800US1801,"Congressional District 1 (118th Congress), Indiana",143,Not computed,"7,667","+/-1,204",(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",0.5,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",1,Total housing units,"318,657","+/-2,068","318,657",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",2,Occupied housing units,"281,334","+/-3,963",88.3,+/-1.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",3,Vacant housing units,"37,323","+/-3,500",11.7,+/-1.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",3.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",4,Homeowner vacancy rate,1.0,+/-0.4,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",5,Rental vacancy rate,6.5,+/-1.7,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",5.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",6,Total housing units,"318,657","+/-2,068","318,657",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",7,"1-unit, detached","245,879","+/-3,904",77.2,+/-1.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",8,"1-unit, attached","8,476","+/-1,469",2.7,+/-0.5
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",9,2 units,"4,384","+/-1,186",1.4,+/-0.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",10,3 or 4 units,"9,924","+/-1,558",3.1,+/-0.5
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",11,5 to 9 units,"10,535","+/-2,066",3.3,+/-0.6
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",12,10 to 19 units,"9,494","+/-1,527",3.0,+/-0.5
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",13,20 or more units,"12,769","+/-1,615",4.0,+/-0.5
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",14,Mobile home,"17,123","+/-1,673",5.4,+/-0.5
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",15,"Boat, RV, van, etc.",73,+/-116,0.0,+/-0.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",15.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",16,Total housing units,"318,657","+/-2,068","318,657",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",17,Built 2020 or later,"1,676",+/-822,0.5,+/-0.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",18,Built 2010 to 2019,"18,160","+/-2,083",5.7,+/-0.7
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",19,Built 2000 to 2009,"34,913","+/-3,189",11.0,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",20,Built 1990 to 1999,"37,372","+/-3,353",11.7,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",21,Built 1980 to 1989,"33,204","+/-2,957",10.4,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",22,Built 1970 to 1979,"41,556","+/-3,216",13.0,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",23,Built 1960 to 1969,"29,872","+/-2,636",9.4,+/-0.8
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",24,Built 1950 to 1959,"37,362","+/-2,993",11.7,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",25,Built 1940 to 1949,"18,866","+/-2,034",5.9,+/-0.6
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",26,Built 1939 or earlier,"65,676","+/-3,382",20.6,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",26.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",26.5,ROOMS,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",27,Total housing units,"318,657","+/-2,068","318,657",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",28,1 room,"3,273",+/-866,1.0,+/-0.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",29,2 rooms,"5,451","+/-1,385",1.7,+/-0.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",30,3 rooms,"19,027","+/-2,191",6.0,+/-0.7
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",31,4 rooms,"37,484","+/-3,798",11.8,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",32,5 rooms,"63,228","+/-2,963",19.8,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",33,6 rooms,"58,024","+/-3,664",18.2,+/-1.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",34,7 rooms,"47,696","+/-3,871",15.0,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",35,8 rooms,"34,896","+/-2,778",11.0,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",36,9 rooms or more,"49,578","+/-2,975",15.6,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",37,Median rooms,6.0,+/-0.2,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",37.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",37.5,BEDROOMS,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",38,Total housing units,"318,657","+/-2,068","318,657",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",39,No bedroom,"3,556",+/-841,1.1,+/-0.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",40,1 bedroom,"26,243","+/-2,969",8.2,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",41,2 bedrooms,"77,043","+/-3,980",24.2,+/-1.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",42,3 bedrooms,"145,566","+/-4,594",45.7,+/-1.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",43,4 bedrooms,"52,332","+/-3,526",16.4,+/-1.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",44,5 or more bedrooms,"13,917","+/-1,939",4.4,+/-0.6
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",44.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",44.5,HOUSING TENURE,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",45,Occupied housing units,"281,334","+/-3,963","281,334",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",46,Owner-occupied,"209,591","+/-4,668",74.5,+/-1.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",47,Renter-occupied,"71,743","+/-3,760",25.5,+/-1.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",47.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",48,Average household size of owner-occupied unit,2.67,+/-0.04,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",49,Average household size of renter-occupied unit,2.38,+/-0.10,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",49.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",50,Occupied housing units,"281,334","+/-3,963","281,334",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",51,Moved in 2019 or later,"65,711","+/-3,456",23.4,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",52,Moved in 2015 to 2018,"58,536","+/-3,541",20.8,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",53,Moved in 2010 to 2014,"37,095","+/-2,877",13.2,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",54,Moved in 2000 to 2009,"52,867","+/-3,215",18.8,+/-1.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",55,Moved in 1990 to 1999,"32,163","+/-2,509",11.4,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",56,Moved in 1989 and earlier,"34,962","+/-2,578",12.4,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",56.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",57,Occupied housing units,"281,334","+/-3,963","281,334",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",58,No vehicles available,"18,493","+/-1,985",6.6,+/-0.7
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",59,1 vehicle available,"85,231","+/-3,928",30.3,+/-1.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",60,2 vehicles available,"111,108","+/-4,357",39.5,+/-1.5
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",61,3 or more vehicles available,"66,502","+/-3,790",23.6,+/-1.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",61.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",62,Occupied housing units,"281,334","+/-3,963","281,334",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",63,Utility gas,"207,440","+/-4,163",73.7,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",64,"Bottled, tank, or LP gas","20,209","+/-2,001",7.2,+/-0.7
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",65,Electricity,"44,567","+/-2,930",15.8,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",66,"Fuel oil, kerosene, etc.",866,+/-455,0.3,+/-0.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",67,Coal or coke,35,+/-59,0.0,+/-0.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",68,Wood,"5,647","+/-1,176",2.0,+/-0.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",69,Solar energy,156,+/-153,0.1,+/-0.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",70,Other fuel,"1,309",+/-576,0.5,+/-0.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",71,No fuel used,"1,105",+/-469,0.4,+/-0.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",71.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",72,Occupied housing units,"281,334","+/-3,963","281,334",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",73,Lacking complete plumbing facilities,470,+/-310,0.2,+/-0.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",74,Lacking complete kitchen facilities,"1,236",+/-543,0.4,+/-0.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",75,No telephone service available,"1,809",+/-564,0.6,+/-0.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",75.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",76,Occupied housing units,"281,334","+/-3,963","281,334",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",77,1.00 or less,"275,090","+/-3,789",97.8,+/-0.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",78,1.01 to 1.50,"4,715","+/-1,240",1.7,+/-0.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",79,1.51 or more,"1,529",+/-619,0.5,+/-0.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",79.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",79.5,VALUE,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",80,Owner-occupied units,"209,591","+/-4,668","209,591",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",81,"Less than $50,000","14,997","+/-1,818",7.2,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",82,"$50,000 to $99,999","35,983","+/-2,844",17.2,+/-1.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",83,"$100,000 to $149,999","41,348","+/-3,825",19.7,+/-1.7
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",84,"$150,000 to $199,999","39,318","+/-2,500",18.8,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",85,"$200,000 to $299,999","45,762","+/-3,013",21.8,+/-1.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",86,"$300,000 to $499,999","24,291","+/-2,111",11.6,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",87,"$500,000 to $999,999","5,685","+/-1,219",2.7,+/-0.6
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",88,"$1,000,000 or more","2,207",+/-834,1.1,+/-0.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",89,Median (dollars),"163,700","+/-3,593",(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",89.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",90,Owner-occupied units,"209,591","+/-4,668","209,591",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",91,Housing units with a mortgage,"127,942","+/-3,876",61.0,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",92,Housing units without a mortgage,"81,649","+/-3,094",39.0,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",92.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",93,Housing units with a mortgage,"127,942","+/-3,876","127,942",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",94,Less than $500,"4,486","+/-1,094",3.5,+/-0.8
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",95,$500 to $999,"48,252","+/-2,863",37.7,+/-2.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",96,"$1,000 to $1,499","46,203","+/-2,876",36.1,+/-2.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",97,"$1,500 to $1,999","18,556","+/-2,118",14.5,+/-1.5
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",98,"$2,000 to $2,499","5,981","+/-1,237",4.7,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",99,"$2,500 to $2,999","2,071",+/-557,1.6,+/-0.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",100,"$3,000 or more","2,393",+/-765,1.9,+/-0.6
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",101,Median (dollars),"1,100",+/-22,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",101.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",102,Housing units without a mortgage,"81,649","+/-3,094","81,649",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",103,Less than $250,"10,443","+/-1,453",12.8,+/-1.8
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",104,$250 to $399,"27,850","+/-2,202",34.1,+/-2.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",105,$400 to $599,"28,775","+/-2,084",35.2,+/-2.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",106,$600 to $799,"9,874","+/-1,478",12.1,+/-1.7
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",107,$800 to $999,"2,533",+/-781,3.1,+/-0.9
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",108,"$1,000 or more","2,174",+/-796,2.7,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",109,Median (dollars),414,+/-10,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",109.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"127,083","+/-3,883","127,083",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",111,Less than 20.0 percent,"75,508","+/-3,336",59.4,+/-2.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",112,20.0 to 24.9 percent,"15,985","+/-2,093",12.6,+/-1.6
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",113,25.0 to 29.9 percent,"10,592","+/-1,621",8.3,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",114,30.0 to 34.9 percent,"6,304","+/-1,423",5.0,+/-1.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",115,35.0 percent or more,"18,694","+/-1,926",14.7,+/-1.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",115.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",116,Not computed,859,+/-388,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",116.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"81,134","+/-3,065","81,134",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",118,Less than 10.0 percent,"46,298","+/-2,776",57.1,+/-2.5
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",119,10.0 to 14.9 percent,"13,350","+/-1,463",16.5,+/-1.7
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",120,15.0 to 19.9 percent,"7,047","+/-1,229",8.7,+/-1.5
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",121,20.0 to 24.9 percent,"3,966",+/-890,4.9,+/-1.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",122,25.0 to 29.9 percent,"3,178",+/-828,3.9,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",123,30.0 to 34.9 percent,"1,248",+/-469,1.5,+/-0.6
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",124,35.0 percent or more,"6,047","+/-1,414",7.5,+/-1.7
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",124.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",125,Not computed,515,+/-342,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",125.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",125.5,GROSS RENT,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",126,Occupied units paying rent,"68,687","+/-3,566","68,687",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",127,Less than $500,"7,672","+/-1,515",11.2,+/-2.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",128,$500 to $999,"39,158","+/-3,199",57.0,+/-3.6
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",129,"$1,000 to $1,499","17,951","+/-2,287",26.1,+/-3.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",130,"$1,500 to $1,999","2,321",+/-821,3.4,+/-1.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",131,"$2,000 to $2,499","1,131",+/-688,1.6,+/-1.0
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",132,"$2,500 to $2,999",113,+/-113,0.2,+/-0.2
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",133,"$3,000 or more",341,+/-244,0.5,+/-0.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",134,Median (dollars),869,+/-24,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",134.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",135,No rent paid,"3,056",+/-906,(X),(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",135.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"67,293","+/-3,653","67,293",(X)
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",137,Less than 15.0 percent,"10,256","+/-1,817",15.2,+/-2.6
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",138,15.0 to 19.9 percent,"9,820","+/-1,588",14.6,+/-2.4
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",139,20.0 to 24.9 percent,"8,039","+/-1,473",11.9,+/-2.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",140,25.0 to 29.9 percent,"8,159","+/-1,515",12.1,+/-2.1
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",141,30.0 to 34.9 percent,"5,820","+/-1,295",8.6,+/-1.8
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",142,35.0 percent or more,"25,199","+/-2,681",37.4,+/-3.3
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",142.3,,,,,
+DP04,5001800US1802,"Congressional District 2 (118th Congress), Indiana",143,Not computed,"4,450","+/-1,177",(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",0.5,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",1,Total housing units,"327,304","+/-1,760","327,304",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",2,Occupied housing units,"298,414","+/-3,360",91.2,+/-1.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",3,Vacant housing units,"28,890","+/-3,307",8.8,+/-1.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",3.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",4,Homeowner vacancy rate,0.7,+/-0.4,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",5,Rental vacancy rate,3.7,+/-1.3,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",5.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",6,Total housing units,"327,304","+/-1,760","327,304",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",7,"1-unit, detached","256,272","+/-3,437",78.3,+/-1.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",8,"1-unit, attached","6,380","+/-1,129",1.9,+/-0.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",9,2 units,"6,054","+/-1,248",1.8,+/-0.4
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",10,3 or 4 units,"9,421","+/-1,589",2.9,+/-0.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",11,5 to 9 units,"11,793","+/-1,745",3.6,+/-0.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",12,10 to 19 units,"9,189","+/-1,806",2.8,+/-0.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",13,20 or more units,"11,915","+/-1,897",3.6,+/-0.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",14,Mobile home,"16,144","+/-1,650",4.9,+/-0.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",15,"Boat, RV, van, etc.",136,+/-200,0.0,+/-0.1
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",15.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",16,Total housing units,"327,304","+/-1,760","327,304",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",17,Built 2020 or later,"2,049",+/-722,0.6,+/-0.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",18,Built 2010 to 2019,"24,566","+/-2,280",7.5,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",19,Built 2000 to 2009,"35,629","+/-2,586",10.9,+/-0.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",20,Built 1990 to 1999,"47,200","+/-2,774",14.4,+/-0.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",21,Built 1980 to 1989,"31,879","+/-2,408",9.7,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",22,Built 1970 to 1979,"47,422","+/-3,060",14.5,+/-0.9
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",23,Built 1960 to 1969,"32,987","+/-2,222",10.1,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",24,Built 1950 to 1959,"28,952","+/-1,873",8.8,+/-0.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",25,Built 1940 to 1949,"17,395","+/-2,167",5.3,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",26,Built 1939 or earlier,"59,225","+/-3,459",18.1,+/-1.1
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",26.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",26.5,ROOMS,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",27,Total housing units,"327,304","+/-1,760","327,304",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",28,1 room,"4,229","+/-1,123",1.3,+/-0.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",29,2 rooms,"6,351","+/-1,482",1.9,+/-0.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",30,3 rooms,"19,300","+/-2,240",5.9,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",31,4 rooms,"35,706","+/-2,587",10.9,+/-0.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",32,5 rooms,"57,189","+/-3,924",17.5,+/-1.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",33,6 rooms,"63,847","+/-3,825",19.5,+/-1.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",34,7 rooms,"51,147","+/-2,910",15.6,+/-0.9
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",35,8 rooms,"36,316","+/-2,834",11.1,+/-0.9
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",36,9 rooms or more,"53,219","+/-2,537",16.3,+/-0.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",37,Median rooms,6.1,+/-0.2,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",37.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",37.5,BEDROOMS,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",38,Total housing units,"327,304","+/-1,760","327,304",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",39,No bedroom,"4,656","+/-1,217",1.4,+/-0.4
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",40,1 bedroom,"25,342","+/-2,499",7.7,+/-0.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",41,2 bedrooms,"68,573","+/-3,468",21.0,+/-1.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",42,3 bedrooms,"148,472","+/-4,319",45.4,+/-1.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",43,4 bedrooms,"62,692","+/-3,496",19.2,+/-1.1
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",44,5 or more bedrooms,"17,569","+/-1,853",5.4,+/-0.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",44.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",44.5,HOUSING TENURE,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",45,Occupied housing units,"298,414","+/-3,360","298,414",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",46,Owner-occupied,"222,565","+/-3,812",74.6,+/-1.4
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",47,Renter-occupied,"75,849","+/-4,510",25.4,+/-1.4
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",47.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",48,Average household size of owner-occupied unit,2.59,+/-0.04,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",49,Average household size of renter-occupied unit,2.19,+/-0.08,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",49.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",50,Occupied housing units,"298,414","+/-3,360","298,414",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",51,Moved in 2019 or later,"78,222","+/-3,905",26.2,+/-1.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",52,Moved in 2015 to 2018,"63,973","+/-3,372",21.4,+/-1.1
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",53,Moved in 2010 to 2014,"40,155","+/-2,901",13.5,+/-1.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",54,Moved in 2000 to 2009,"51,270","+/-3,032",17.2,+/-1.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",55,Moved in 1990 to 1999,"32,974","+/-2,575",11.0,+/-0.9
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",56,Moved in 1989 and earlier,"31,820","+/-2,225",10.7,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",56.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",57,Occupied housing units,"298,414","+/-3,360","298,414",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",58,No vehicles available,"18,933","+/-2,064",6.3,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",59,1 vehicle available,"92,269","+/-4,160",30.9,+/-1.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",60,2 vehicles available,"114,908","+/-4,663",38.5,+/-1.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",61,3 or more vehicles available,"72,304","+/-3,618",24.2,+/-1.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",61.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",62,Occupied housing units,"298,414","+/-3,360","298,414",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",63,Utility gas,"178,638","+/-4,116",59.9,+/-1.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",64,"Bottled, tank, or LP gas","31,669","+/-2,154",10.6,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",65,Electricity,"74,701","+/-3,878",25.0,+/-1.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",66,"Fuel oil, kerosene, etc.","1,995",+/-668,0.7,+/-0.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",67,Coal or coke,"1,977",+/-768,0.7,+/-0.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",68,Wood,"5,468","+/-1,013",1.8,+/-0.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",69,Solar energy,306,+/-273,0.1,+/-0.1
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",70,Other fuel,"2,118",+/-631,0.7,+/-0.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",71,No fuel used,"1,542",+/-557,0.5,+/-0.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",71.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",72,Occupied housing units,"298,414","+/-3,360","298,414",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",73,Lacking complete plumbing facilities,"1,806",+/-594,0.6,+/-0.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",74,Lacking complete kitchen facilities,"2,437",+/-717,0.8,+/-0.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",75,No telephone service available,"4,538",+/-990,1.5,+/-0.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",75.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",76,Occupied housing units,"298,414","+/-3,360","298,414",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",77,1.00 or less,"291,710","+/-3,517",97.8,+/-0.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",78,1.01 to 1.50,"4,155",+/-894,1.4,+/-0.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",79,1.51 or more,"2,549",+/-990,0.9,+/-0.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",79.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",79.5,VALUE,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",80,Owner-occupied units,"222,565","+/-3,812","222,565",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",81,"Less than $50,000","17,419","+/-1,894",7.8,+/-0.9
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",82,"$50,000 to $99,999","35,452","+/-2,514",15.9,+/-1.1
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",83,"$100,000 to $149,999","45,026","+/-3,078",20.2,+/-1.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",84,"$150,000 to $199,999","42,353","+/-2,837",19.0,+/-1.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",85,"$200,000 to $299,999","42,781","+/-2,496",19.2,+/-1.1
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",86,"$300,000 to $499,999","27,314","+/-2,320",12.3,+/-1.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",87,"$500,000 to $999,999","10,554","+/-1,387",4.7,+/-0.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",88,"$1,000,000 or more","1,666",+/-514,0.7,+/-0.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",89,Median (dollars),"163,400","+/-2,878",(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",89.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",90,Owner-occupied units,"222,565","+/-3,812","222,565",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",91,Housing units with a mortgage,"141,475","+/-3,870",63.6,+/-1.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",92,Housing units without a mortgage,"81,090","+/-3,810",36.4,+/-1.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",92.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",93,Housing units with a mortgage,"141,475","+/-3,870","141,475",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",94,Less than $500,"2,818",+/-827,2.0,+/-0.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",95,$500 to $999,"58,914","+/-2,788",41.6,+/-1.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",96,"$1,000 to $1,499","48,401","+/-2,908",34.2,+/-1.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",97,"$1,500 to $1,999","18,724","+/-2,550",13.2,+/-1.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",98,"$2,000 to $2,499","5,644","+/-1,124",4.0,+/-0.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",99,"$2,500 to $2,999","3,421",+/-915,2.4,+/-0.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",100,"$3,000 or more","3,553","+/-1,009",2.5,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",101,Median (dollars),"1,074",+/-18,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",101.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",102,Housing units without a mortgage,"81,090","+/-3,810","81,090",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",103,Less than $250,"11,408","+/-1,499",14.1,+/-1.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",104,$250 to $399,"27,233","+/-2,005",33.6,+/-2.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",105,$400 to $599,"27,749","+/-2,237",34.2,+/-2.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",106,$600 to $799,"10,206","+/-1,568",12.6,+/-1.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",107,$800 to $999,"2,781",+/-820,3.4,+/-1.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",108,"$1,000 or more","1,713",+/-633,2.1,+/-0.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",109,Median (dollars),412,+/-10,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",109.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"140,735","+/-3,886","140,735",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",111,Less than 20.0 percent,"84,208","+/-3,791",59.8,+/-2.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",112,20.0 to 24.9 percent,"19,882","+/-2,444",14.1,+/-1.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",113,25.0 to 29.9 percent,"12,680","+/-1,714",9.0,+/-1.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",114,30.0 to 34.9 percent,"7,189","+/-1,411",5.1,+/-1.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",115,35.0 percent or more,"16,776","+/-2,223",11.9,+/-1.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",115.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",116,Not computed,740,+/-501,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",116.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"80,459","+/-3,783","80,459",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",118,Less than 10.0 percent,"43,869","+/-2,793",54.5,+/-2.1
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",119,10.0 to 14.9 percent,"14,589","+/-1,527",18.1,+/-1.9
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",120,15.0 to 19.9 percent,"8,293","+/-1,122",10.3,+/-1.4
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",121,20.0 to 24.9 percent,"3,156",+/-750,3.9,+/-0.9
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",122,25.0 to 29.9 percent,"2,102",+/-561,2.6,+/-0.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",123,30.0 to 34.9 percent,"1,959",+/-666,2.4,+/-0.8
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",124,35.0 percent or more,"6,491","+/-1,249",8.1,+/-1.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",124.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",125,Not computed,631,+/-328,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",125.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",125.5,GROSS RENT,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",126,Occupied units paying rent,"71,888","+/-4,528","71,888",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",127,Less than $500,"7,667","+/-1,321",10.7,+/-1.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",128,$500 to $999,"44,770","+/-3,346",62.3,+/-2.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",129,"$1,000 to $1,499","15,617","+/-2,006",21.7,+/-2.6
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",130,"$1,500 to $1,999","2,875","+/-1,005",4.0,+/-1.4
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",131,"$2,000 to $2,499",511,+/-358,0.7,+/-0.5
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",132,"$2,500 to $2,999",299,+/-212,0.4,+/-0.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",133,"$3,000 or more",149,+/-110,0.2,+/-0.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",134,Median (dollars),806,+/-23,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",134.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",135,No rent paid,"3,961",+/-903,(X),(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",135.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"70,486","+/-4,393","70,486",(X)
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",137,Less than 15.0 percent,"12,654","+/-2,178",18.0,+/-2.7
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",138,15.0 to 19.9 percent,"9,509","+/-1,534",13.5,+/-2.1
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",139,20.0 to 24.9 percent,"9,232","+/-1,797",13.1,+/-2.3
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",140,25.0 to 29.9 percent,"8,039","+/-1,760",11.4,+/-2.4
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",141,30.0 to 34.9 percent,"8,729","+/-1,658",12.4,+/-2.2
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",142,35.0 percent or more,"22,323","+/-2,204",31.7,+/-3.0
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",142.3,,,,,
+DP04,5001800US1803,"Congressional District 3 (118th Congress), Indiana",143,Not computed,"5,363","+/-1,059",(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",0.5,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",1,Total housing units,"316,668","+/-1,554","316,668",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",2,Occupied housing units,"291,809","+/-3,262",92.1,+/-1.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",3,Vacant housing units,"24,859","+/-3,276",7.9,+/-1.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",3.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",4,Homeowner vacancy rate,0.6,+/-0.3,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",5,Rental vacancy rate,6.9,+/-2.1,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",5.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",6,Total housing units,"316,668","+/-1,554","316,668",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",7,"1-unit, detached","241,048","+/-4,050",76.1,+/-1.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",8,"1-unit, attached","9,969","+/-1,803",3.1,+/-0.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",9,2 units,"8,960","+/-1,866",2.8,+/-0.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",10,3 or 4 units,"7,307","+/-1,435",2.3,+/-0.5
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",11,5 to 9 units,"12,133","+/-2,515",3.8,+/-0.8
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",12,10 to 19 units,"11,616","+/-1,889",3.7,+/-0.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",13,20 or more units,"13,105","+/-2,059",4.1,+/-0.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",14,Mobile home,"12,326","+/-1,808",3.9,+/-0.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",15,"Boat, RV, van, etc.",204,+/-185,0.1,+/-0.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",15.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",16,Total housing units,"316,668","+/-1,554","316,668",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",17,Built 2020 or later,"3,257",+/-951,1.0,+/-0.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",18,Built 2010 to 2019,"35,883","+/-3,308",11.3,+/-1.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",19,Built 2000 to 2009,"52,942","+/-3,860",16.7,+/-1.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",20,Built 1990 to 1999,"46,165","+/-3,532",14.6,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",21,Built 1980 to 1989,"26,508","+/-2,468",8.4,+/-0.8
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",22,Built 1970 to 1979,"36,313","+/-2,824",11.5,+/-0.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",23,Built 1960 to 1969,"27,727","+/-2,505",8.8,+/-0.8
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",24,Built 1950 to 1959,"24,842","+/-2,462",7.8,+/-0.8
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",25,Built 1940 to 1949,"13,941","+/-1,880",4.4,+/-0.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",26,Built 1939 or earlier,"49,090","+/-3,106",15.5,+/-1.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",26.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",26.5,ROOMS,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",27,Total housing units,"316,668","+/-1,554","316,668",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",28,1 room,"3,555","+/-1,082",1.1,+/-0.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",29,2 rooms,"4,160","+/-1,047",1.3,+/-0.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",30,3 rooms,"18,620","+/-2,350",5.9,+/-0.7
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",31,4 rooms,"38,364","+/-3,343",12.1,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",32,5 rooms,"56,458","+/-3,890",17.8,+/-1.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",33,6 rooms,"54,934","+/-3,641",17.3,+/-1.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",34,7 rooms,"44,822","+/-3,083",14.2,+/-1.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",35,8 rooms,"37,893","+/-3,664",12.0,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",36,9 rooms or more,"57,862","+/-3,460",18.3,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",37,Median rooms,6.2,+/-0.1,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",37.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",37.5,BEDROOMS,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",38,Total housing units,"316,668","+/-1,554","316,668",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",39,No bedroom,"3,708","+/-1,138",1.2,+/-0.4
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",40,1 bedroom,"26,341","+/-2,871",8.3,+/-0.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",41,2 bedrooms,"70,360","+/-4,377",22.2,+/-1.4
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",42,3 bedrooms,"138,207","+/-4,782",43.6,+/-1.5
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",43,4 bedrooms,"59,121","+/-4,003",18.7,+/-1.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",44,5 or more bedrooms,"18,931","+/-2,565",6.0,+/-0.8
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",44.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",44.5,HOUSING TENURE,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",45,Occupied housing units,"291,809","+/-3,262","291,809",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",46,Owner-occupied,"215,674","+/-3,783",73.9,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",47,Renter-occupied,"76,135","+/-3,421",26.1,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",47.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",48,Average household size of owner-occupied unit,2.65,+/-0.04,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",49,Average household size of renter-occupied unit,2.12,+/-0.08,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",49.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",50,Occupied housing units,"291,809","+/-3,262","291,809",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",51,Moved in 2019 or later,"81,766","+/-5,296",28.0,+/-1.7
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",52,Moved in 2015 to 2018,"67,826","+/-3,827",23.2,+/-1.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",53,Moved in 2010 to 2014,"37,362","+/-3,232",12.8,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",54,Moved in 2000 to 2009,"50,727","+/-3,299",17.4,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",55,Moved in 1990 to 1999,"25,657","+/-2,616",8.8,+/-0.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",56,Moved in 1989 and earlier,"28,471","+/-2,044",9.8,+/-0.7
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",56.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",57,Occupied housing units,"291,809","+/-3,262","291,809",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",58,No vehicles available,"13,766","+/-1,867",4.7,+/-0.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",59,1 vehicle available,"80,418","+/-4,306",27.6,+/-1.4
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",60,2 vehicles available,"119,238","+/-5,616",40.9,+/-1.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",61,3 or more vehicles available,"78,387","+/-4,936",26.9,+/-1.7
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",61.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",62,Occupied housing units,"291,809","+/-3,262","291,809",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",63,Utility gas,"151,416","+/-4,937",51.9,+/-1.5
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",64,"Bottled, tank, or LP gas","38,248","+/-2,620",13.1,+/-0.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",65,Electricity,"94,015","+/-4,289",32.2,+/-1.4
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",66,"Fuel oil, kerosene, etc.","2,009",+/-678,0.7,+/-0.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",67,Coal or coke,0,+/-208,0.0,+/-0.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",68,Wood,"4,071","+/-1,049",1.4,+/-0.4
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",69,Solar energy,116,+/-192,0.0,+/-0.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",70,Other fuel,635,+/-390,0.2,+/-0.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",71,No fuel used,"1,299",+/-816,0.4,+/-0.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",71.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",72,Occupied housing units,"291,809","+/-3,262","291,809",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",73,Lacking complete plumbing facilities,390,+/-324,0.1,+/-0.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",74,Lacking complete kitchen facilities,914,+/-413,0.3,+/-0.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",75,No telephone service available,"1,820",+/-830,0.6,+/-0.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",75.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",76,Occupied housing units,"291,809","+/-3,262","291,809",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",77,1.00 or less,"288,461","+/-3,607",98.9,+/-0.4
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",78,1.01 to 1.50,"2,789","+/-1,073",1.0,+/-0.4
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",79,1.51 or more,559,+/-423,0.2,+/-0.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",79.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",79.5,VALUE,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",80,Owner-occupied units,"215,674","+/-3,783","215,674",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",81,"Less than $50,000","10,534","+/-1,642",4.9,+/-0.8
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",82,"$50,000 to $99,999","24,810","+/-2,090",11.5,+/-0.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",83,"$100,000 to $149,999","32,021","+/-3,036",14.8,+/-1.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",84,"$150,000 to $199,999","37,181","+/-3,338",17.2,+/-1.5
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",85,"$200,000 to $299,999","52,637","+/-3,682",24.4,+/-1.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",86,"$300,000 to $499,999","44,357","+/-2,827",20.6,+/-1.4
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",87,"$500,000 to $999,999","12,378","+/-1,675",5.7,+/-0.8
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",88,"$1,000,000 or more","1,756",+/-637,0.8,+/-0.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",89,Median (dollars),"205,600","+/-6,715",(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",89.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",90,Owner-occupied units,"215,674","+/-3,783","215,674",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",91,Housing units with a mortgage,"144,329","+/-4,138",66.9,+/-1.5
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",92,Housing units without a mortgage,"71,345","+/-3,536",33.1,+/-1.5
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",92.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",93,Housing units with a mortgage,"144,329","+/-4,138","144,329",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",94,Less than $500,"2,739",+/-671,1.9,+/-0.5
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",95,$500 to $999,"40,745","+/-2,886",28.2,+/-1.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",96,"$1,000 to $1,499","50,134","+/-3,435",34.7,+/-2.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",97,"$1,500 to $1,999","26,652","+/-3,039",18.5,+/-2.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",98,"$2,000 to $2,499","12,966","+/-1,830",9.0,+/-1.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",99,"$2,500 to $2,999","6,630","+/-1,724",4.6,+/-1.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",100,"$3,000 or more","4,463","+/-1,040",3.1,+/-0.7
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",101,Median (dollars),"1,274",+/-35,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",101.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",102,Housing units without a mortgage,"71,345","+/-3,536","71,345",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",103,Less than $250,"8,055","+/-1,554",11.3,+/-2.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",104,$250 to $399,"24,137","+/-1,762",33.8,+/-2.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",105,$400 to $599,"24,405","+/-2,120",34.2,+/-2.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",106,$600 to $799,"9,060","+/-1,481",12.7,+/-1.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",107,$800 to $999,"3,679",+/-908,5.2,+/-1.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",108,"$1,000 or more","2,009",+/-846,2.8,+/-1.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",109,Median (dollars),422,+/-10,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",109.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"143,745","+/-4,122","143,745",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",111,Less than 20.0 percent,"86,278","+/-4,374",60.0,+/-2.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",112,20.0 to 24.9 percent,"21,202","+/-2,800",14.7,+/-2.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",113,25.0 to 29.9 percent,"10,769","+/-1,624",7.5,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",114,30.0 to 34.9 percent,"6,599","+/-1,522",4.6,+/-1.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",115,35.0 percent or more,"18,897","+/-2,278",13.1,+/-1.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",115.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",116,Not computed,584,+/-366,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",116.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"70,773","+/-3,463","70,773",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",118,Less than 10.0 percent,"41,416","+/-2,888",58.5,+/-3.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",119,10.0 to 14.9 percent,"11,767","+/-1,540",16.6,+/-1.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",120,15.0 to 19.9 percent,"5,722","+/-1,271",8.1,+/-1.7
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",121,20.0 to 24.9 percent,"4,206","+/-1,076",5.9,+/-1.5
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",122,25.0 to 29.9 percent,"2,690",+/-822,3.8,+/-1.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",123,30.0 to 34.9 percent,"1,291",+/-545,1.8,+/-0.7
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",124,35.0 percent or more,"3,681",+/-775,5.2,+/-1.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",124.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",125,Not computed,572,+/-371,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",125.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",125.5,GROSS RENT,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",126,Occupied units paying rent,"71,733","+/-3,480","71,733",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",127,Less than $500,"5,574","+/-1,202",7.8,+/-1.7
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",128,$500 to $999,"38,773","+/-3,028",54.1,+/-3.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",129,"$1,000 to $1,499","20,379","+/-2,376",28.4,+/-3.0
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",130,"$1,500 to $1,999","4,832","+/-1,357",6.7,+/-1.8
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",131,"$2,000 to $2,499","1,419",+/-863,2.0,+/-1.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",132,"$2,500 to $2,999",137,+/-133,0.2,+/-0.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",133,"$3,000 or more",619,+/-647,0.9,+/-0.9
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",134,Median (dollars),908,+/-23,(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",134.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",135,No rent paid,"4,402","+/-1,289",(X),(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",135.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"69,690","+/-3,407","69,690",(X)
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",137,Less than 15.0 percent,"8,944","+/-1,549",12.8,+/-2.1
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",138,15.0 to 19.9 percent,"9,799","+/-1,903",14.1,+/-2.6
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",139,20.0 to 24.9 percent,"8,882","+/-1,529",12.7,+/-2.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",140,25.0 to 29.9 percent,"7,629","+/-1,568",10.9,+/-2.2
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",141,30.0 to 34.9 percent,"7,814","+/-1,686",11.2,+/-2.3
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",142,35.0 percent or more,"26,622","+/-2,668",38.2,+/-3.5
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",142.3,,,,,
+DP04,5001800US1804,"Congressional District 4 (118th Congress), Indiana",143,Not computed,"6,445","+/-1,567",(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",0.5,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",1,Total housing units,"326,733","+/-1,232","326,733",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",2,Occupied housing units,"301,543","+/-3,373",92.3,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",3,Vacant housing units,"25,190","+/-3,167",7.7,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",3.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",4,Homeowner vacancy rate,0.4,+/-0.2,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",5,Rental vacancy rate,8.0,+/-1.8,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",5.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",6,Total housing units,"326,733","+/-1,232","326,733",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",7,"1-unit, detached","249,705","+/-4,134",76.4,+/-1.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",8,"1-unit, attached","11,278","+/-1,689",3.5,+/-0.5
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",9,2 units,"6,690","+/-1,717",2.0,+/-0.5
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",10,3 or 4 units,"11,379","+/-1,828",3.5,+/-0.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",11,5 to 9 units,"13,925","+/-2,385",4.3,+/-0.7
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",12,10 to 19 units,"10,723","+/-2,134",3.3,+/-0.7
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",13,20 or more units,"13,847","+/-2,248",4.2,+/-0.7
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",14,Mobile home,"9,114","+/-1,729",2.8,+/-0.5
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",15,"Boat, RV, van, etc.",72,+/-122,0.0,+/-0.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",15.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",16,Total housing units,"326,733","+/-1,232","326,733",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",17,Built 2020 or later,"3,052","+/-1,205",0.9,+/-0.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",18,Built 2010 to 2019,"41,389","+/-3,923",12.7,+/-1.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",19,Built 2000 to 2009,"49,342","+/-3,996",15.1,+/-1.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",20,Built 1990 to 1999,"46,344","+/-3,716",14.2,+/-1.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",21,Built 1980 to 1989,"27,661","+/-3,399",8.5,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",22,Built 1970 to 1979,"39,600","+/-3,294",12.1,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",23,Built 1960 to 1969,"30,279","+/-2,676",9.3,+/-0.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",24,Built 1950 to 1959,"29,473","+/-2,495",9.0,+/-0.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",25,Built 1940 to 1949,"14,422","+/-1,691",4.4,+/-0.5
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",26,Built 1939 or earlier,"45,171","+/-2,721",13.8,+/-0.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",26.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",26.5,ROOMS,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",27,Total housing units,"326,733","+/-1,232","326,733",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",28,1 room,"4,501","+/-1,163",1.4,+/-0.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",29,2 rooms,"3,926","+/-1,178",1.2,+/-0.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",30,3 rooms,"19,280","+/-2,751",5.9,+/-0.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",31,4 rooms,"36,544","+/-3,382",11.2,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",32,5 rooms,"57,820","+/-4,235",17.7,+/-1.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",33,6 rooms,"58,819","+/-3,914",18.0,+/-1.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",34,7 rooms,"44,817","+/-4,108",13.7,+/-1.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",35,8 rooms,"35,056","+/-3,261",10.7,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",36,9 rooms or more,"65,970","+/-4,523",20.2,+/-1.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",37,Median rooms,6.2,+/-0.1,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",37.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",37.5,BEDROOMS,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",38,Total housing units,"326,733","+/-1,232","326,733",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",39,No bedroom,"4,864","+/-1,198",1.5,+/-0.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",40,1 bedroom,"23,456","+/-2,751",7.2,+/-0.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",41,2 bedrooms,"73,744","+/-3,846",22.6,+/-1.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",42,3 bedrooms,"134,249","+/-4,350",41.1,+/-1.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",43,4 bedrooms,"67,615","+/-4,214",20.7,+/-1.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",44,5 or more bedrooms,"22,805","+/-2,792",7.0,+/-0.9
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",44.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",44.5,HOUSING TENURE,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",45,Occupied housing units,"301,543","+/-3,373","301,543",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",46,Owner-occupied,"218,638","+/-3,834",72.5,+/-1.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",47,Renter-occupied,"82,905","+/-3,811",27.5,+/-1.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",47.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",48,Average household size of owner-occupied unit,2.62,+/-0.04,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",49,Average household size of renter-occupied unit,2.06,+/-0.08,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",49.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",50,Occupied housing units,"301,543","+/-3,373","301,543",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",51,Moved in 2019 or later,"85,654","+/-4,632",28.4,+/-1.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",52,Moved in 2015 to 2018,"72,485","+/-4,627",24.0,+/-1.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",53,Moved in 2010 to 2014,"38,215","+/-3,148",12.7,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",54,Moved in 2000 to 2009,"46,400","+/-3,853",15.4,+/-1.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",55,Moved in 1990 to 1999,"28,833","+/-2,628",9.6,+/-0.9
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",56,Moved in 1989 and earlier,"29,956","+/-2,208",9.9,+/-0.7
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",56.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",57,Occupied housing units,"301,543","+/-3,373","301,543",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",58,No vehicles available,"11,054","+/-2,009",3.7,+/-0.7
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",59,1 vehicle available,"88,918","+/-5,002",29.5,+/-1.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",60,2 vehicles available,"128,330","+/-4,885",42.6,+/-1.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",61,3 or more vehicles available,"73,241","+/-3,908",24.3,+/-1.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",61.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",62,Occupied housing units,"301,543","+/-3,373","301,543",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",63,Utility gas,"185,334","+/-4,784",61.5,+/-1.5
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",64,"Bottled, tank, or LP gas","12,286","+/-1,556",4.1,+/-0.5
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",65,Electricity,"98,445","+/-5,039",32.6,+/-1.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",66,"Fuel oil, kerosene, etc.","1,489",+/-667,0.5,+/-0.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",67,Coal or coke,0,+/-208,0.0,+/-0.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",68,Wood,"2,008",+/-742,0.7,+/-0.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",69,Solar energy,54,+/-74,0.0,+/-0.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",70,Other fuel,"1,631","+/-1,284",0.5,+/-0.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",71,No fuel used,296,+/-289,0.1,+/-0.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",71.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",72,Occupied housing units,"301,543","+/-3,373","301,543",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",73,Lacking complete plumbing facilities,771,+/-400,0.3,+/-0.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",74,Lacking complete kitchen facilities,"3,243","+/-1,031",1.1,+/-0.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",75,No telephone service available,"1,854",+/-789,0.6,+/-0.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",75.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",76,Occupied housing units,"301,543","+/-3,373","301,543",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",77,1.00 or less,"296,155","+/-3,349",98.2,+/-0.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",78,1.01 to 1.50,"3,944","+/-1,657",1.3,+/-0.5
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",79,1.51 or more,"1,444",+/-623,0.5,+/-0.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",79.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",79.5,VALUE,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",80,Owner-occupied units,"218,638","+/-3,834","218,638",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",81,"Less than $50,000","17,371","+/-1,696",7.9,+/-0.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",82,"$50,000 to $99,999","30,417","+/-2,651",13.9,+/-1.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",83,"$100,000 to $149,999","27,243","+/-2,243",12.5,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",84,"$150,000 to $199,999","28,254","+/-2,973",12.9,+/-1.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",85,"$200,000 to $299,999","44,667","+/-3,436",20.4,+/-1.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",86,"$300,000 to $499,999","50,761","+/-3,830",23.2,+/-1.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",87,"$500,000 to $999,999","16,330","+/-2,643",7.5,+/-1.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",88,"$1,000,000 or more","3,595","+/-1,661",1.6,+/-0.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",89,Median (dollars),"212,200","+/-6,847",(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",89.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",90,Owner-occupied units,"218,638","+/-3,834","218,638",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",91,Housing units with a mortgage,"146,403","+/-4,102",67.0,+/-1.7
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",92,Housing units without a mortgage,"72,235","+/-4,060",33.0,+/-1.7
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",92.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",93,Housing units with a mortgage,"146,403","+/-4,102","146,403",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",94,Less than $500,"2,623",+/-721,1.8,+/-0.5
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",95,$500 to $999,"41,122","+/-3,328",28.1,+/-2.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",96,"$1,000 to $1,499","45,483","+/-3,427",31.1,+/-2.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",97,"$1,500 to $1,999","26,165","+/-2,731",17.9,+/-1.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",98,"$2,000 to $2,499","18,926","+/-2,702",12.9,+/-1.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",99,"$2,500 to $2,999","5,884","+/-1,494",4.0,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",100,"$3,000 or more","6,200","+/-1,947",4.2,+/-1.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",101,Median (dollars),"1,310",+/-38,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",101.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",102,Housing units without a mortgage,"72,235","+/-4,060","72,235",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",103,Less than $250,"9,126","+/-1,519",12.6,+/-1.9
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",104,$250 to $399,"18,777","+/-2,041",26.0,+/-2.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",105,$400 to $599,"26,177","+/-2,644",36.2,+/-3.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",106,$600 to $799,"10,894","+/-1,602",15.1,+/-2.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",107,$800 to $999,"4,493","+/-1,154",6.2,+/-1.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",108,"$1,000 or more","2,768",+/-917,3.8,+/-1.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",109,Median (dollars),456,+/-12,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",109.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"146,091","+/-4,104","146,091",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",111,Less than 20.0 percent,"89,835","+/-4,026",61.5,+/-2.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",112,20.0 to 24.9 percent,"18,584","+/-2,431",12.7,+/-1.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",113,25.0 to 29.9 percent,"11,011","+/-1,744",7.5,+/-1.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",114,30.0 to 34.9 percent,"7,913","+/-1,558",5.4,+/-1.0
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",115,35.0 percent or more,"18,748","+/-2,645",12.8,+/-1.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",115.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",116,Not computed,312,+/-229,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",116.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"71,048","+/-4,074","71,048",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",118,Less than 10.0 percent,"36,839","+/-3,029",51.9,+/-3.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",119,10.0 to 14.9 percent,"13,711","+/-1,800",19.3,+/-2.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",120,15.0 to 19.9 percent,"6,125","+/-1,341",8.6,+/-1.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",121,20.0 to 24.9 percent,"3,780",+/-964,5.3,+/-1.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",122,25.0 to 29.9 percent,"3,032","+/-1,377",4.3,+/-1.9
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",123,30.0 to 34.9 percent,"1,906",+/-795,2.7,+/-1.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",124,35.0 percent or more,"5,655","+/-1,032",8.0,+/-1.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",124.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",125,Not computed,"1,187",+/-474,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",125.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",125.5,GROSS RENT,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",126,Occupied units paying rent,"77,891","+/-3,762","77,891",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",127,Less than $500,"6,026","+/-1,182",7.7,+/-1.4
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",128,$500 to $999,"34,470","+/-2,840",44.3,+/-3.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",129,"$1,000 to $1,499","25,079","+/-2,965",32.2,+/-3.7
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",130,"$1,500 to $1,999","8,676","+/-2,153",11.1,+/-2.6
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",131,"$2,000 to $2,499","1,884",+/-943,2.4,+/-1.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",132,"$2,500 to $2,999","1,458",+/-836,1.9,+/-1.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",133,"$3,000 or more",298,+/-214,0.4,+/-0.3
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",134,Median (dollars),976,+/-40,(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",134.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",135,No rent paid,"5,014","+/-1,468",(X),(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",135.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"75,640","+/-3,935","75,640",(X)
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",137,Less than 15.0 percent,"11,608","+/-1,912",15.3,+/-2.5
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",138,15.0 to 19.9 percent,"11,024","+/-2,475",14.6,+/-3.2
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",139,20.0 to 24.9 percent,"10,820","+/-2,113",14.3,+/-2.7
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",140,25.0 to 29.9 percent,"10,506","+/-2,296",13.9,+/-2.8
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",141,30.0 to 34.9 percent,"7,490","+/-1,603",9.9,+/-2.1
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",142,35.0 percent or more,"24,192","+/-2,468",32.0,+/-2.9
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",142.3,,,,,
+DP04,5001800US1805,"Congressional District 5 (118th Congress), Indiana",143,Not computed,"7,265","+/-1,763",(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",0.5,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",1,Total housing units,"314,826","+/-4,248","314,826",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",2,Occupied housing units,"294,410","+/-4,477",93.5,+/-0.8
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",3,Vacant housing units,"20,416","+/-2,673",6.5,+/-0.8
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",3.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",4,Homeowner vacancy rate,0.9,+/-0.4,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",5,Rental vacancy rate,3.0,+/-1.2,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",5.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",6,Total housing units,"314,826","+/-4,248","314,826",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",7,"1-unit, detached","240,793","+/-4,558",76.5,+/-1.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",8,"1-unit, attached","13,164","+/-2,385",4.2,+/-0.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",9,2 units,"5,244","+/-1,188",1.7,+/-0.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",10,3 or 4 units,"7,714","+/-1,801",2.5,+/-0.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",11,5 to 9 units,"13,200","+/-2,001",4.2,+/-0.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",12,10 to 19 units,"13,726","+/-2,777",4.4,+/-0.9
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",13,20 or more units,"11,302","+/-2,023",3.6,+/-0.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",14,Mobile home,"9,590","+/-1,671",3.0,+/-0.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",15,"Boat, RV, van, etc.",93,+/-109,0.0,+/-0.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",15.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",16,Total housing units,"314,826","+/-4,248","314,826",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",17,Built 2020 or later,"2,328",+/-935,0.7,+/-0.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",18,Built 2010 to 2019,"28,374","+/-3,201",9.0,+/-1.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",19,Built 2000 to 2009,"46,904","+/-4,135",14.9,+/-1.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",20,Built 1990 to 1999,"46,683","+/-3,870",14.8,+/-1.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",21,Built 1980 to 1989,"28,314","+/-2,770",9.0,+/-0.9
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",22,Built 1970 to 1979,"37,671","+/-3,495",12.0,+/-1.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",23,Built 1960 to 1969,"35,315","+/-3,025",11.2,+/-1.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",24,Built 1950 to 1959,"32,248","+/-2,922",10.2,+/-0.9
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",25,Built 1940 to 1949,"12,561","+/-1,892",4.0,+/-0.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",26,Built 1939 or earlier,"44,428","+/-3,715",14.1,+/-1.2
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",26.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",26.5,ROOMS,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",27,Total housing units,"314,826","+/-4,248","314,826",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",28,1 room,"2,622",+/-929,0.8,+/-0.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",29,2 rooms,"5,480","+/-1,304",1.7,+/-0.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",30,3 rooms,"16,823","+/-2,404",5.3,+/-0.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",31,4 rooms,"37,953","+/-4,218",12.1,+/-1.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",32,5 rooms,"57,796","+/-4,681",18.4,+/-1.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",33,6 rooms,"63,114","+/-4,408",20.0,+/-1.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",34,7 rooms,"48,985","+/-4,322",15.6,+/-1.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",35,8 rooms,"35,240","+/-3,559",11.2,+/-1.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",36,9 rooms or more,"46,813","+/-3,942",14.9,+/-1.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",37,Median rooms,6.1,+/-0.1,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",37.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",37.5,BEDROOMS,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",38,Total housing units,"314,826","+/-4,248","314,826",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",39,No bedroom,"3,109",+/-913,1.0,+/-0.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",40,1 bedroom,"25,618","+/-3,049",8.1,+/-0.9
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",41,2 bedrooms,"69,392","+/-4,464",22.0,+/-1.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",42,3 bedrooms,"149,517","+/-4,842",47.5,+/-1.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",43,4 bedrooms,"54,207","+/-3,411",17.2,+/-1.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",44,5 or more bedrooms,"12,983","+/-2,095",4.1,+/-0.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",44.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",44.5,HOUSING TENURE,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",45,Occupied housing units,"294,410","+/-4,477","294,410",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",46,Owner-occupied,"210,542","+/-4,456",71.5,+/-1.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",47,Renter-occupied,"83,868","+/-5,031",28.5,+/-1.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",47.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",48,Average household size of owner-occupied unit,2.64,+/-0.05,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",49,Average household size of renter-occupied unit,2.18,+/-0.10,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",49.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",50,Occupied housing units,"294,410","+/-4,477","294,410",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",51,Moved in 2019 or later,"82,738","+/-5,511",28.1,+/-1.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",52,Moved in 2015 to 2018,"66,162","+/-4,316",22.5,+/-1.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",53,Moved in 2010 to 2014,"36,950","+/-3,111",12.6,+/-1.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",54,Moved in 2000 to 2009,"49,363","+/-3,832",16.8,+/-1.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",55,Moved in 1990 to 1999,"30,839","+/-2,811",10.5,+/-0.9
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",56,Moved in 1989 and earlier,"28,358","+/-2,381",9.6,+/-0.8
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",56.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",57,Occupied housing units,"294,410","+/-4,477","294,410",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",58,No vehicles available,"12,751","+/-1,965",4.3,+/-0.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",59,1 vehicle available,"83,709","+/-6,178",28.4,+/-1.9
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",60,2 vehicles available,"121,249","+/-5,990",41.2,+/-2.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",61,3 or more vehicles available,"76,701","+/-4,286",26.1,+/-1.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",61.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",62,Occupied housing units,"294,410","+/-4,477","294,410",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",63,Utility gas,"154,376","+/-5,750",52.4,+/-1.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",64,"Bottled, tank, or LP gas","20,433","+/-1,959",6.9,+/-0.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",65,Electricity,"108,542","+/-5,320",36.9,+/-1.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",66,"Fuel oil, kerosene, etc.","2,893",+/-842,1.0,+/-0.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",67,Coal or coke,30,+/-54,0.0,+/-0.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",68,Wood,"5,048","+/-1,691",1.7,+/-0.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",69,Solar energy,171,+/-175,0.1,+/-0.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",70,Other fuel,"1,793",+/-754,0.6,+/-0.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",71,No fuel used,"1,124",+/-462,0.4,+/-0.2
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",71.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",72,Occupied housing units,"294,410","+/-4,477","294,410",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",73,Lacking complete plumbing facilities,652,+/-440,0.2,+/-0.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",74,Lacking complete kitchen facilities,"3,409","+/-1,605",1.2,+/-0.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",75,No telephone service available,"1,944","+/-1,217",0.7,+/-0.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",75.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",76,Occupied housing units,"294,410","+/-4,477","294,410",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",77,1.00 or less,"290,548","+/-4,383",98.7,+/-0.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",78,1.01 to 1.50,"2,792",+/-829,0.9,+/-0.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",79,1.51 or more,"1,070",+/-618,0.4,+/-0.2
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",79.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",79.5,VALUE,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",80,Owner-occupied units,"210,542","+/-4,456","210,542",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",81,"Less than $50,000","12,256","+/-2,043",5.8,+/-1.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",82,"$50,000 to $99,999","22,483","+/-2,040",10.7,+/-1.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",83,"$100,000 to $149,999","31,748","+/-3,072",15.1,+/-1.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",84,"$150,000 to $199,999","45,816","+/-3,318",21.8,+/-1.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",85,"$200,000 to $299,999","56,833","+/-4,145",27.0,+/-1.8
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",86,"$300,000 to $499,999","32,273","+/-3,297",15.3,+/-1.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",87,"$500,000 to $999,999","8,332","+/-1,649",4.0,+/-0.8
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",88,"$1,000,000 or more",801,+/-416,0.4,+/-0.2
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",89,Median (dollars),"190,900","+/-5,242",(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",89.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",90,Owner-occupied units,"210,542","+/-4,456","210,542",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",91,Housing units with a mortgage,"142,756","+/-4,651",67.8,+/-1.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",92,Housing units without a mortgage,"67,786","+/-3,618",32.2,+/-1.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",92.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",93,Housing units with a mortgage,"142,756","+/-4,651","142,756",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",94,Less than $500,"2,057",+/-655,1.4,+/-0.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",95,$500 to $999,"43,480","+/-3,686",30.5,+/-2.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",96,"$1,000 to $1,499","56,614","+/-3,817",39.7,+/-2.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",97,"$1,500 to $1,999","25,612","+/-2,927",17.9,+/-2.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",98,"$2,000 to $2,499","8,299","+/-1,671",5.8,+/-1.2
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",99,"$2,500 to $2,999","4,426","+/-1,375",3.1,+/-1.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",100,"$3,000 or more","2,268",+/-733,1.6,+/-0.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",101,Median (dollars),"1,201",+/-27,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",101.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",102,Housing units without a mortgage,"67,786","+/-3,618","67,786",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",103,Less than $250,"6,814","+/-1,126",10.1,+/-1.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",104,$250 to $399,"20,212","+/-2,603",29.8,+/-3.2
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",105,$400 to $599,"24,714","+/-2,314",36.5,+/-3.1
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",106,$600 to $799,"10,526","+/-1,733",15.5,+/-2.5
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",107,$800 to $999,"3,935","+/-1,385",5.8,+/-2.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",108,"$1,000 or more","1,585",+/-570,2.3,+/-0.8
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",109,Median (dollars),448,+/-13,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",109.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"142,610","+/-4,664","142,610",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",111,Less than 20.0 percent,"86,676","+/-4,400",60.8,+/-2.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",112,20.0 to 24.9 percent,"19,912","+/-2,583",14.0,+/-1.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",113,25.0 to 29.9 percent,"11,536","+/-2,108",8.1,+/-1.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",114,30.0 to 34.9 percent,"6,271","+/-1,463",4.4,+/-1.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",115,35.0 percent or more,"18,215","+/-2,502",12.8,+/-1.7
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",115.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",116,Not computed,146,+/-174,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",116.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"67,254","+/-3,639","67,254",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",118,Less than 10.0 percent,"34,285","+/-3,109",51.0,+/-3.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",119,10.0 to 14.9 percent,"13,472","+/-2,080",20.0,+/-3.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",120,15.0 to 19.9 percent,"6,595","+/-1,519",9.8,+/-2.2
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",121,20.0 to 24.9 percent,"4,020","+/-1,135",6.0,+/-1.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",122,25.0 to 29.9 percent,"2,084",+/-664,3.1,+/-1.0
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",123,30.0 to 34.9 percent,"1,334",+/-557,2.0,+/-0.8
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",124,35.0 percent or more,"5,464","+/-1,291",8.1,+/-1.9
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",124.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",125,Not computed,532,+/-325,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",125.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",125.5,GROSS RENT,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",126,Occupied units paying rent,"79,996","+/-4,823","79,996",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",127,Less than $500,"5,282","+/-1,340",6.6,+/-1.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",128,$500 to $999,"42,713","+/-3,533",53.4,+/-3.9
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",129,"$1,000 to $1,499","25,400","+/-3,232",31.8,+/-3.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",130,"$1,500 to $1,999","5,797","+/-1,950",7.2,+/-2.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",131,"$2,000 to $2,499",325,+/-276,0.4,+/-0.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",132,"$2,500 to $2,999",130,+/-164,0.2,+/-0.2
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",133,"$3,000 or more",349,+/-285,0.4,+/-0.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",134,Median (dollars),927,+/-28,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",134.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",135,No rent paid,"3,872",+/-977,(X),(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",135.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"79,278","+/-4,792","79,278",(X)
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",137,Less than 15.0 percent,"13,020","+/-2,634",16.4,+/-3.2
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",138,15.0 to 19.9 percent,"9,544","+/-1,972",12.0,+/-2.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",139,20.0 to 24.9 percent,"10,308","+/-1,966",13.0,+/-2.4
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",140,25.0 to 29.9 percent,"10,338","+/-2,457",13.0,+/-2.8
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",141,30.0 to 34.9 percent,"7,143","+/-1,815",9.0,+/-2.3
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",142,35.0 percent or more,"28,925","+/-3,112",36.5,+/-3.6
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",142.3,,,,,
+DP04,5001800US1806,"Congressional District 6 (118th Congress), Indiana",143,Not computed,"4,590","+/-1,008",(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",0.5,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",1,Total housing units,"350,453","+/-4,005","350,453",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",2,Occupied housing units,"310,473","+/-4,589",88.6,+/-1.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",3,Vacant housing units,"39,980","+/-3,484",11.4,+/-1.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",3.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",4,Homeowner vacancy rate,1.1,+/-0.5,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",5,Rental vacancy rate,5.2,+/-1.2,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",5.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",6,Total housing units,"350,453","+/-4,005","350,453",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",7,"1-unit, detached","201,569","+/-5,117",57.5,+/-1.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",8,"1-unit, attached","32,032","+/-3,145",9.1,+/-0.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",9,2 units,"9,544","+/-2,059",2.7,+/-0.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",10,3 or 4 units,"25,171","+/-3,379",7.2,+/-1.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",11,5 to 9 units,"27,667","+/-3,232",7.9,+/-0.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",12,10 to 19 units,"19,234","+/-2,821",5.5,+/-0.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",13,20 or more units,"30,727","+/-2,954",8.8,+/-0.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",14,Mobile home,"4,509","+/-1,133",1.3,+/-0.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",15,"Boat, RV, van, etc.",0,+/-208,0.0,+/-0.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",15.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",16,Total housing units,"350,453","+/-4,005","350,453",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",17,Built 2020 or later,826,+/-518,0.2,+/-0.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",18,Built 2010 to 2019,"19,796","+/-2,480",5.6,+/-0.7
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",19,Built 2000 to 2009,"26,269","+/-2,997",7.5,+/-0.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",20,Built 1990 to 1999,"43,190","+/-4,005",12.3,+/-1.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",21,Built 1980 to 1989,"42,094","+/-3,395",12.0,+/-1.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",22,Built 1970 to 1979,"45,643","+/-3,860",13.0,+/-1.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",23,Built 1960 to 1969,"44,986","+/-4,024",12.8,+/-1.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",24,Built 1950 to 1959,"47,245","+/-3,532",13.5,+/-1.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",25,Built 1940 to 1949,"18,217","+/-2,293",5.2,+/-0.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",26,Built 1939 or earlier,"62,187","+/-3,581",17.7,+/-1.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",26.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",26.5,ROOMS,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",27,Total housing units,"350,453","+/-4,005","350,453",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",28,1 room,"9,131","+/-2,142",2.6,+/-0.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",29,2 rooms,"10,358","+/-1,888",3.0,+/-0.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",30,3 rooms,"32,972","+/-4,052",9.4,+/-1.2
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",31,4 rooms,"59,733","+/-4,695",17.0,+/-1.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",32,5 rooms,"70,331","+/-3,933",20.1,+/-1.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",33,6 rooms,"64,261","+/-4,452",18.3,+/-1.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",34,7 rooms,"39,711","+/-3,945",11.3,+/-1.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",35,8 rooms,"25,097","+/-2,839",7.2,+/-0.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",36,9 rooms or more,"38,859","+/-2,898",11.1,+/-0.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",37,Median rooms,5.4,+/-0.1,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",37.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",37.5,BEDROOMS,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",38,Total housing units,"350,453","+/-4,005","350,453",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",39,No bedroom,"11,281","+/-2,333",3.2,+/-0.7
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",40,1 bedroom,"49,673","+/-4,523",14.2,+/-1.2
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",41,2 bedrooms,"111,733","+/-6,002",31.9,+/-1.7
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",42,3 bedrooms,"123,419","+/-5,199",35.2,+/-1.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",43,4 bedrooms,"43,966","+/-3,408",12.5,+/-0.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",44,5 or more bedrooms,"10,381","+/-1,753",3.0,+/-0.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",44.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",44.5,HOUSING TENURE,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",45,Occupied housing units,"310,473","+/-4,589","310,473",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",46,Owner-occupied,"172,605","+/-5,051",55.6,+/-1.4
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",47,Renter-occupied,"137,868","+/-4,931",44.4,+/-1.4
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",47.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",48,Average household size of owner-occupied unit,2.54,+/-0.06,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",49,Average household size of renter-occupied unit,2.17,+/-0.07,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",49.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",50,Occupied housing units,"310,473","+/-4,589","310,473",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",51,Moved in 2019 or later,"106,645","+/-5,031",34.3,+/-1.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",52,Moved in 2015 to 2018,"71,126","+/-5,095",22.9,+/-1.7
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",53,Moved in 2010 to 2014,"36,134","+/-3,754",11.6,+/-1.2
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",54,Moved in 2000 to 2009,"43,464","+/-3,077",14.0,+/-1.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",55,Moved in 1990 to 1999,"25,502","+/-2,522",8.2,+/-0.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",56,Moved in 1989 and earlier,"27,602","+/-2,541",8.9,+/-0.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",56.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",57,Occupied housing units,"310,473","+/-4,589","310,473",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",58,No vehicles available,"22,265","+/-2,603",7.2,+/-0.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",59,1 vehicle available,"129,899","+/-5,105",41.8,+/-1.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",60,2 vehicles available,"113,802","+/-5,324",36.7,+/-1.7
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",61,3 or more vehicles available,"44,507","+/-4,037",14.3,+/-1.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",61.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",62,Occupied housing units,"310,473","+/-4,589","310,473",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",63,Utility gas,"180,715","+/-5,945",58.2,+/-1.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",64,"Bottled, tank, or LP gas","4,327","+/-1,440",1.4,+/-0.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",65,Electricity,"121,152","+/-5,512",39.0,+/-1.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",66,"Fuel oil, kerosene, etc.",851,+/-509,0.3,+/-0.2
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",67,Coal or coke,0,+/-208,0.0,+/-0.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",68,Wood,406,+/-316,0.1,+/-0.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",69,Solar energy,128,+/-115,0.0,+/-0.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",70,Other fuel,"1,526",+/-913,0.5,+/-0.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",71,No fuel used,"1,368",+/-690,0.4,+/-0.2
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",71.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",72,Occupied housing units,"310,473","+/-4,589","310,473",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",73,Lacking complete plumbing facilities,"1,204",+/-631,0.4,+/-0.2
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",74,Lacking complete kitchen facilities,"2,796","+/-1,119",0.9,+/-0.4
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",75,No telephone service available,"3,811","+/-1,661",1.2,+/-0.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",75.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",76,Occupied housing units,"310,473","+/-4,589","310,473",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",77,1.00 or less,"302,810","+/-5,303",97.5,+/-0.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",78,1.01 to 1.50,"4,668","+/-1,631",1.5,+/-0.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",79,1.51 or more,"2,995","+/-1,241",1.0,+/-0.4
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",79.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",79.5,VALUE,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",80,Owner-occupied units,"172,605","+/-5,051","172,605",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",81,"Less than $50,000","9,328","+/-1,631",5.4,+/-0.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",82,"$50,000 to $99,999","25,154","+/-3,031",14.6,+/-1.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",83,"$100,000 to $149,999","28,087","+/-2,776",16.3,+/-1.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",84,"$150,000 to $199,999","35,597","+/-3,396",20.6,+/-1.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",85,"$200,000 to $299,999","36,960","+/-3,000",21.4,+/-1.7
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",86,"$300,000 to $499,999","25,510","+/-2,366",14.8,+/-1.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",87,"$500,000 to $999,999","10,508","+/-1,569",6.1,+/-0.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",88,"$1,000,000 or more","1,461",+/-582,0.8,+/-0.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",89,Median (dollars),"181,100","+/-5,338",(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",89.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",90,Owner-occupied units,"172,605","+/-5,051","172,605",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",91,Housing units with a mortgage,"116,468","+/-4,312",67.5,+/-1.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",92,Housing units without a mortgage,"56,137","+/-3,857",32.5,+/-1.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",92.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",93,Housing units with a mortgage,"116,468","+/-4,312","116,468",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",94,Less than $500,"1,732",+/-729,1.5,+/-0.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",95,$500 to $999,"32,630","+/-2,867",28.0,+/-2.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",96,"$1,000 to $1,499","45,068","+/-3,837",38.7,+/-2.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",97,"$1,500 to $1,999","18,377","+/-1,943",15.8,+/-1.7
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",98,"$2,000 to $2,499","9,763","+/-1,809",8.4,+/-1.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",99,"$2,500 to $2,999","3,816",+/-961,3.3,+/-0.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",100,"$3,000 or more","5,082","+/-1,093",4.4,+/-0.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",101,Median (dollars),"1,251",+/-29,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",101.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",102,Housing units without a mortgage,"56,137","+/-3,857","56,137",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",103,Less than $250,"5,151","+/-1,355",9.2,+/-2.4
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",104,$250 to $399,"15,600","+/-1,868",27.8,+/-3.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",105,$400 to $599,"19,378","+/-2,534",34.5,+/-3.7
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",106,$600 to $799,"9,334","+/-1,446",16.6,+/-2.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",107,$800 to $999,"3,162",+/-868,5.6,+/-1.4
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",108,"$1,000 or more","3,512","+/-1,109",6.3,+/-2.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",109,Median (dollars),470,+/-16,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",109.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"115,542","+/-4,235","115,542",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",111,Less than 20.0 percent,"64,912","+/-3,281",56.2,+/-2.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",112,20.0 to 24.9 percent,"14,375","+/-1,841",12.4,+/-1.5
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",113,25.0 to 29.9 percent,"9,242","+/-1,731",8.0,+/-1.4
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",114,30.0 to 34.9 percent,"7,027","+/-1,287",6.1,+/-1.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",115,35.0 percent or more,"19,986","+/-2,759",17.3,+/-2.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",115.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",116,Not computed,926,+/-613,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",116.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"55,140","+/-3,925","55,140",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",118,Less than 10.0 percent,"28,540","+/-3,179",51.8,+/-3.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",119,10.0 to 14.9 percent,"9,965","+/-1,828",18.1,+/-3.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",120,15.0 to 19.9 percent,"5,632","+/-1,058",10.2,+/-2.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",121,20.0 to 24.9 percent,"3,582",+/-996,6.5,+/-1.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",122,25.0 to 29.9 percent,"2,623","+/-1,022",4.8,+/-1.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",123,30.0 to 34.9 percent,"1,288",+/-563,2.3,+/-1.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",124,35.0 percent or more,"3,510",+/-998,6.4,+/-1.8
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",124.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",125,Not computed,997,+/-848,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",125.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",125.5,GROSS RENT,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",126,Occupied units paying rent,"134,217","+/-4,714","134,217",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",127,Less than $500,"7,616","+/-1,838",5.7,+/-1.3
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",128,$500 to $999,"68,477","+/-4,290",51.0,+/-2.7
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",129,"$1,000 to $1,499","46,724","+/-3,536",34.8,+/-2.4
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",130,"$1,500 to $1,999","8,181","+/-1,687",6.1,+/-1.2
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",131,"$2,000 to $2,499","1,816",+/-856,1.4,+/-0.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",132,"$2,500 to $2,999",314,+/-318,0.2,+/-0.2
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",133,"$3,000 or more","1,089",+/-819,0.8,+/-0.6
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",134,Median (dollars),957,+/-16,(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",134.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",135,No rent paid,"3,651","+/-1,105",(X),(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",135.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"132,174","+/-4,787","132,174",(X)
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",137,Less than 15.0 percent,"16,241","+/-2,722",12.3,+/-2.0
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",138,15.0 to 19.9 percent,"20,504","+/-2,924",15.5,+/-2.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",139,20.0 to 24.9 percent,"16,995","+/-2,799",12.9,+/-2.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",140,25.0 to 29.9 percent,"13,824","+/-1,964",10.5,+/-1.4
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",141,30.0 to 34.9 percent,"12,889","+/-2,566",9.8,+/-1.9
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",142,35.0 percent or more,"51,721","+/-4,519",39.1,+/-3.1
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",142.3,,,,,
+DP04,5001800US1807,"Congressional District 7 (118th Congress), Indiana",143,Not computed,"5,694","+/-1,368",(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",0.5,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",1,Total housing units,"338,326","+/-1,314","338,326",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",2,Occupied housing units,"308,930","+/-2,764",91.3,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",3,Vacant housing units,"29,396","+/-2,705",8.7,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",3.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",4,Homeowner vacancy rate,0.7,+/-0.3,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",5,Rental vacancy rate,2.4,+/-0.9,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",5.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",6,Total housing units,"338,326","+/-1,314","338,326",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",7,"1-unit, detached","257,081","+/-3,810",76.0,+/-1.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",8,"1-unit, attached","6,128","+/-1,199",1.8,+/-0.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",9,2 units,"9,142","+/-1,635",2.7,+/-0.5
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",10,3 or 4 units,"13,203","+/-2,197",3.9,+/-0.6
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",11,5 to 9 units,"11,240","+/-1,919",3.3,+/-0.6
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",12,10 to 19 units,"7,021","+/-1,368",2.1,+/-0.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",13,20 or more units,"10,888","+/-1,653",3.2,+/-0.5
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",14,Mobile home,"23,190","+/-2,509",6.9,+/-0.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",15,"Boat, RV, van, etc.",433,+/-294,0.1,+/-0.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",15.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",16,Total housing units,"338,326","+/-1,314","338,326",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",17,Built 2020 or later,"1,833",+/-681,0.5,+/-0.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",18,Built 2010 to 2019,"24,472","+/-2,758",7.2,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",19,Built 2000 to 2009,"41,264","+/-2,544",12.2,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",20,Built 1990 to 1999,"37,648","+/-2,518",11.1,+/-0.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",21,Built 1980 to 1989,"34,880","+/-3,117",10.3,+/-0.9
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",22,Built 1970 to 1979,"46,393","+/-3,093",13.7,+/-0.9
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",23,Built 1960 to 1969,"28,545","+/-2,621",8.4,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",24,Built 1950 to 1959,"38,131","+/-3,266",11.3,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",25,Built 1940 to 1949,"20,603","+/-2,405",6.1,+/-0.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",26,Built 1939 or earlier,"64,557","+/-3,319",19.1,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",26.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",26.5,ROOMS,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",27,Total housing units,"338,326","+/-1,314","338,326",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",28,1 room,"7,929","+/-1,624",2.3,+/-0.5
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",29,2 rooms,"8,052","+/-1,613",2.4,+/-0.5
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",30,3 rooms,"21,381","+/-2,258",6.3,+/-0.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",31,4 rooms,"49,157","+/-3,617",14.5,+/-1.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",32,5 rooms,"73,559","+/-3,489",21.7,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",33,6 rooms,"64,026","+/-3,334",18.9,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",34,7 rooms,"43,402","+/-3,476",12.8,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",35,8 rooms,"29,810","+/-2,364",8.8,+/-0.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",36,9 rooms or more,"41,010","+/-2,611",12.1,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",37,Median rooms,5.6,+/-0.2,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",37.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",37.5,BEDROOMS,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",38,Total housing units,"338,326","+/-1,314","338,326",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",39,No bedroom,"8,537","+/-1,663",2.5,+/-0.5
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",40,1 bedroom,"31,819","+/-2,640",9.4,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",41,2 bedrooms,"93,841","+/-4,470",27.7,+/-1.3
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",42,3 bedrooms,"149,253","+/-4,444",44.1,+/-1.3
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",43,4 bedrooms,"43,876","+/-3,111",13.0,+/-0.9
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",44,5 or more bedrooms,"11,000","+/-1,416",3.3,+/-0.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",44.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",44.5,HOUSING TENURE,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",45,Occupied housing units,"308,930","+/-2,764","308,930",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",46,Owner-occupied,"222,685","+/-3,994",72.1,+/-1.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",47,Renter-occupied,"86,245","+/-3,933",27.9,+/-1.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",47.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",48,Average household size of owner-occupied unit,2.46,+/-0.03,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",49,Average household size of renter-occupied unit,2.09,+/-0.08,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",49.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",50,Occupied housing units,"308,930","+/-2,764","308,930",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",51,Moved in 2019 or later,"74,003","+/-4,560",24.0,+/-1.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",52,Moved in 2015 to 2018,"66,933","+/-4,062",21.7,+/-1.3
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",53,Moved in 2010 to 2014,"39,219","+/-2,965",12.7,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",54,Moved in 2000 to 2009,"54,533","+/-3,181",17.7,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",55,Moved in 1990 to 1999,"34,775","+/-2,460",11.3,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",56,Moved in 1989 and earlier,"39,467","+/-2,476",12.8,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",56.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",57,Occupied housing units,"308,930","+/-2,764","308,930",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",58,No vehicles available,"20,250","+/-2,178",6.6,+/-0.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",59,1 vehicle available,"92,739","+/-4,278",30.0,+/-1.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",60,2 vehicles available,"118,795","+/-5,036",38.5,+/-1.5
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",61,3 or more vehicles available,"77,146","+/-3,662",25.0,+/-1.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",61.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",62,Occupied housing units,"308,930","+/-2,764","308,930",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",63,Utility gas,"153,445","+/-5,008",49.7,+/-1.6
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",64,"Bottled, tank, or LP gas","27,199","+/-2,289",8.8,+/-0.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",65,Electricity,"113,909","+/-5,085",36.9,+/-1.6
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",66,"Fuel oil, kerosene, etc.","1,607",+/-600,0.5,+/-0.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",67,Coal or coke,621,+/-407,0.2,+/-0.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",68,Wood,"9,202","+/-1,214",3.0,+/-0.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",69,Solar energy,530,+/-340,0.2,+/-0.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",70,Other fuel,716,+/-357,0.2,+/-0.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",71,No fuel used,"1,701",+/-679,0.6,+/-0.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",71.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",72,Occupied housing units,"308,930","+/-2,764","308,930",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",73,Lacking complete plumbing facilities,"1,786",+/-668,0.6,+/-0.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",74,Lacking complete kitchen facilities,"2,500",+/-768,0.8,+/-0.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",75,No telephone service available,"1,820",+/-513,0.6,+/-0.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",75.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",76,Occupied housing units,"308,930","+/-2,764","308,930",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",77,1.00 or less,"302,598","+/-3,066",98.0,+/-0.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",78,1.01 to 1.50,"3,524","+/-1,104",1.1,+/-0.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",79,1.51 or more,"2,808","+/-1,060",0.9,+/-0.3
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",79.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",79.5,VALUE,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",80,Owner-occupied units,"222,685","+/-3,994","222,685",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",81,"Less than $50,000","23,796","+/-2,255",10.7,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",82,"$50,000 to $99,999","44,735","+/-3,136",20.1,+/-1.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",83,"$100,000 to $149,999","42,041","+/-3,231",18.9,+/-1.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",84,"$150,000 to $199,999","38,605","+/-2,603",17.3,+/-1.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",85,"$200,000 to $299,999","39,828","+/-2,617",17.9,+/-1.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",86,"$300,000 to $499,999","26,345","+/-2,247",11.8,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",87,"$500,000 to $999,999","6,363","+/-1,089",2.9,+/-0.5
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",88,"$1,000,000 or more",972,+/-480,0.4,+/-0.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",89,Median (dollars),"150,800","+/-3,775",(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",89.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",90,Owner-occupied units,"222,685","+/-3,994","222,685",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",91,Housing units with a mortgage,"128,761","+/-4,593",57.8,+/-1.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",92,Housing units without a mortgage,"93,924","+/-4,548",42.2,+/-1.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",92.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",93,Housing units with a mortgage,"128,761","+/-4,593","128,761",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",94,Less than $500,"3,751",+/-830,2.9,+/-0.6
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",95,$500 to $999,"51,724","+/-3,250",40.2,+/-2.3
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",96,"$1,000 to $1,499","43,632","+/-2,873",33.9,+/-1.9
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",97,"$1,500 to $1,999","17,899","+/-2,175",13.9,+/-1.5
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",98,"$2,000 to $2,499","6,655","+/-1,297",5.2,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",99,"$2,500 to $2,999","2,702",+/-881,2.1,+/-0.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",100,"$3,000 or more","2,398",+/-617,1.9,+/-0.5
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",101,Median (dollars),"1,088",+/-26,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",101.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",102,Housing units without a mortgage,"93,924","+/-4,548","93,924",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",103,Less than $250,"12,240","+/-1,675",13.0,+/-1.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",104,$250 to $399,"33,207","+/-2,740",35.4,+/-2.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",105,$400 to $599,"31,779","+/-2,506",33.8,+/-2.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",106,$600 to $799,"10,347","+/-1,326",11.0,+/-1.3
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",107,$800 to $999,"3,541",+/-838,3.8,+/-0.9
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",108,"$1,000 or more","2,810",+/-825,3.0,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",109,Median (dollars),408,+/-11,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",109.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"128,063","+/-4,606","128,063",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",111,Less than 20.0 percent,"75,794","+/-3,965",59.2,+/-2.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",112,20.0 to 24.9 percent,"18,515","+/-2,260",14.5,+/-1.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",113,25.0 to 29.9 percent,"10,361","+/-1,603",8.1,+/-1.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",114,30.0 to 34.9 percent,"5,583","+/-1,241",4.4,+/-0.9
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",115,35.0 percent or more,"17,810","+/-2,181",13.9,+/-1.6
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",115.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",116,Not computed,698,+/-374,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",116.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"92,589","+/-4,604","92,589",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",118,Less than 10.0 percent,"48,592","+/-3,436",52.5,+/-2.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",119,10.0 to 14.9 percent,"17,887","+/-1,737",19.3,+/-1.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",120,15.0 to 19.9 percent,"8,509","+/-1,318",9.2,+/-1.3
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",121,20.0 to 24.9 percent,"5,290","+/-1,066",5.7,+/-1.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",122,25.0 to 29.9 percent,"3,264",+/-859,3.5,+/-1.0
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",123,30.0 to 34.9 percent,"2,057",+/-763,2.2,+/-0.8
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",124,35.0 percent or more,"6,990","+/-1,227",7.5,+/-1.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",124.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",125,Not computed,"1,335",+/-561,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",125.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",125.5,GROSS RENT,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",126,Occupied units paying rent,"79,316","+/-3,913","79,316",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",127,Less than $500,"13,243","+/-1,943",16.7,+/-2.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",128,$500 to $999,"47,964","+/-3,122",60.5,+/-3.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",129,"$1,000 to $1,499","14,843","+/-2,288",18.7,+/-2.6
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",130,"$1,500 to $1,999","2,704","+/-1,083",3.4,+/-1.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",131,"$2,000 to $2,499",216,+/-218,0.3,+/-0.3
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",132,"$2,500 to $2,999",53,+/-86,0.1,+/-0.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",133,"$3,000 or more",293,+/-323,0.4,+/-0.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",134,Median (dollars),797,+/-18,(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",134.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",135,No rent paid,"6,929","+/-1,403",(X),(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",135.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"77,314","+/-3,960","77,314",(X)
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",137,Less than 15.0 percent,"15,929","+/-2,184",20.6,+/-2.6
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",138,15.0 to 19.9 percent,"11,631","+/-1,868",15.0,+/-2.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",139,20.0 to 24.9 percent,"8,580","+/-1,680",11.1,+/-2.1
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",140,25.0 to 29.9 percent,"8,544","+/-1,754",11.1,+/-2.2
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",141,30.0 to 34.9 percent,"5,830","+/-1,313",7.5,+/-1.7
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",142,35.0 percent or more,"26,800","+/-2,782",34.7,+/-3.4
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",142.3,,,,,
+DP04,5001800US1808,"Congressional District 8 (118th Congress), Indiana",143,Not computed,"8,931","+/-1,620",(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",0.5,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",1,Total housing units,"331,815","+/-1,896","331,815",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",2,Occupied housing units,"301,228","+/-3,758",90.8,+/-1.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",3,Vacant housing units,"30,587","+/-3,632",9.2,+/-1.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",3.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",4,Homeowner vacancy rate,1.5,+/-0.6,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",5,Rental vacancy rate,6.1,+/-1.8,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",5.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",6,Total housing units,"331,815","+/-1,896","331,815",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",7,"1-unit, detached","243,771","+/-4,151",73.5,+/-1.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",8,"1-unit, attached","7,918","+/-1,185",2.4,+/-0.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",9,2 units,"7,145","+/-1,132",2.2,+/-0.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",10,3 or 4 units,"9,944","+/-1,532",3.0,+/-0.5
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",11,5 to 9 units,"13,495","+/-1,952",4.1,+/-0.6
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",12,10 to 19 units,"10,294","+/-1,719",3.1,+/-0.5
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",13,20 or more units,"14,402","+/-2,054",4.3,+/-0.6
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",14,Mobile home,"24,791","+/-2,968",7.5,+/-0.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",15,"Boat, RV, van, etc.",55,+/-95,0.0,+/-0.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",15.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",16,Total housing units,"331,815","+/-1,896","331,815",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",17,Built 2020 or later,"1,804",+/-847,0.5,+/-0.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",18,Built 2010 to 2019,"29,107","+/-2,810",8.8,+/-0.8
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",19,Built 2000 to 2009,"47,112","+/-3,467",14.2,+/-1.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",20,Built 1990 to 1999,"54,692","+/-3,709",16.5,+/-1.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",21,Built 1980 to 1989,"32,676","+/-2,495",9.8,+/-0.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",22,Built 1970 to 1979,"49,325","+/-3,375",14.9,+/-1.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",23,Built 1960 to 1969,"32,980","+/-2,932",9.9,+/-0.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",24,Built 1950 to 1959,"26,874","+/-2,735",8.1,+/-0.8
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",25,Built 1940 to 1949,"13,654","+/-1,771",4.1,+/-0.5
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",26,Built 1939 or earlier,"43,591","+/-3,448",13.1,+/-1.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",26.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",26.5,ROOMS,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",27,Total housing units,"331,815","+/-1,896","331,815",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",28,1 room,"6,543","+/-1,440",2.0,+/-0.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",29,2 rooms,"7,700","+/-1,515",2.3,+/-0.5
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",30,3 rooms,"20,772","+/-2,365",6.3,+/-0.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",31,4 rooms,"48,991","+/-3,560",14.8,+/-1.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",32,5 rooms,"66,759","+/-4,372",20.1,+/-1.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",33,6 rooms,"63,318","+/-3,923",19.1,+/-1.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",34,7 rooms,"44,576","+/-3,105",13.4,+/-0.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",35,8 rooms,"30,736","+/-3,012",9.3,+/-0.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",36,9 rooms or more,"42,420","+/-3,269",12.8,+/-1.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",37,Median rooms,5.7,+/-0.2,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",37.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",37.5,BEDROOMS,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",38,Total housing units,"331,815","+/-1,896","331,815",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",39,No bedroom,"6,969","+/-1,465",2.1,+/-0.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",40,1 bedroom,"28,402","+/-2,563",8.6,+/-0.8
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",41,2 bedrooms,"76,520","+/-4,201",23.1,+/-1.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",42,3 bedrooms,"161,233","+/-4,025",48.6,+/-1.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",43,4 bedrooms,"47,304","+/-3,161",14.3,+/-1.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",44,5 or more bedrooms,"11,387","+/-1,708",3.4,+/-0.5
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",44.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",44.5,HOUSING TENURE,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",45,Occupied housing units,"301,228","+/-3,758","301,228",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",46,Owner-occupied,"222,365","+/-4,615",73.8,+/-1.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",47,Renter-occupied,"78,863","+/-3,690",26.2,+/-1.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",47.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",48,Average household size of owner-occupied unit,2.58,+/-0.04,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",49,Average household size of renter-occupied unit,2.01,+/-0.06,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",49.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",50,Occupied housing units,"301,228","+/-3,758","301,228",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",51,Moved in 2019 or later,"71,262","+/-3,524",23.7,+/-1.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",52,Moved in 2015 to 2018,"66,866","+/-3,300",22.2,+/-1.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",53,Moved in 2010 to 2014,"41,643","+/-3,255",13.8,+/-1.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",54,Moved in 2000 to 2009,"51,623","+/-3,102",17.1,+/-1.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",55,Moved in 1990 to 1999,"33,845","+/-2,587",11.2,+/-0.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",56,Moved in 1989 and earlier,"35,989","+/-2,374",11.9,+/-0.8
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",56.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",57,Occupied housing units,"301,228","+/-3,758","301,228",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",58,No vehicles available,"16,474","+/-2,104",5.5,+/-0.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",59,1 vehicle available,"92,065","+/-4,128",30.6,+/-1.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",60,2 vehicles available,"106,153","+/-4,853",35.2,+/-1.5
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",61,3 or more vehicles available,"86,536","+/-4,126",28.7,+/-1.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",61.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",62,Occupied housing units,"301,228","+/-3,758","301,228",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",63,Utility gas,"107,799","+/-4,075",35.8,+/-1.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",64,"Bottled, tank, or LP gas","34,616","+/-2,668",11.5,+/-0.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",65,Electricity,"140,385","+/-4,930",46.6,+/-1.5
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",66,"Fuel oil, kerosene, etc.","2,244",+/-792,0.7,+/-0.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",67,Coal or coke,150,+/-182,0.0,+/-0.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",68,Wood,"13,382","+/-1,810",4.4,+/-0.6
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",69,Solar energy,276,+/-259,0.1,+/-0.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",70,Other fuel,780,+/-483,0.3,+/-0.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",71,No fuel used,"1,596",+/-719,0.5,+/-0.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",71.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",72,Occupied housing units,"301,228","+/-3,758","301,228",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",73,Lacking complete plumbing facilities,"1,165",+/-520,0.4,+/-0.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",74,Lacking complete kitchen facilities,"3,238",+/-913,1.1,+/-0.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",75,No telephone service available,"3,075",+/-890,1.0,+/-0.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",75.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",76,Occupied housing units,"301,228","+/-3,758","301,228",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",77,1.00 or less,"295,502","+/-3,716",98.1,+/-0.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",78,1.01 to 1.50,"4,436","+/-1,106",1.5,+/-0.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",79,1.51 or more,"1,290",+/-735,0.4,+/-0.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",79.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",79.5,VALUE,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",80,Owner-occupied units,"222,365","+/-4,615","222,365",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",81,"Less than $50,000","15,590","+/-1,966",7.0,+/-0.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",82,"$50,000 to $99,999","22,465","+/-2,297",10.1,+/-1.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",83,"$100,000 to $149,999","35,047","+/-2,918",15.8,+/-1.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",84,"$150,000 to $199,999","45,450","+/-3,131",20.4,+/-1.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",85,"$200,000 to $299,999","55,080","+/-3,035",24.8,+/-1.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",86,"$300,000 to $499,999","39,005","+/-2,864",17.5,+/-1.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",87,"$500,000 to $999,999","8,545","+/-1,270",3.8,+/-0.6
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",88,"$1,000,000 or more","1,183",+/-489,0.5,+/-0.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",89,Median (dollars),"190,500","+/-4,547",(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",89.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",90,Owner-occupied units,"222,365","+/-4,615","222,365",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",91,Housing units with a mortgage,"141,380","+/-4,524",63.6,+/-1.6
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",92,Housing units without a mortgage,"80,985","+/-3,961",36.4,+/-1.6
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",92.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",93,Housing units with a mortgage,"141,380","+/-4,524","141,380",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",94,Less than $500,"3,754",+/-947,2.7,+/-0.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",95,$500 to $999,"44,492","+/-2,938",31.5,+/-1.8
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",96,"$1,000 to $1,499","55,711","+/-3,207",39.4,+/-1.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",97,"$1,500 to $1,999","21,745","+/-2,477",15.4,+/-1.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",98,"$2,000 to $2,499","10,043","+/-1,948",7.1,+/-1.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",99,"$2,500 to $2,999","3,509","+/-1,028",2.5,+/-0.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",100,"$3,000 or more","2,126",+/-593,1.5,+/-0.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",101,Median (dollars),"1,174",+/-19,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",101.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",102,Housing units without a mortgage,"80,985","+/-3,961","80,985",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",103,Less than $250,"9,508","+/-1,412",11.7,+/-1.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",104,$250 to $399,"25,647","+/-2,367",31.7,+/-2.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",105,$400 to $599,"30,056","+/-2,748",37.1,+/-2.8
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",106,$600 to $799,"10,550","+/-1,339",13.0,+/-1.5
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",107,$800 to $999,"3,621",+/-836,4.5,+/-1.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",108,"$1,000 or more","1,603",+/-608,2.0,+/-0.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",109,Median (dollars),429,+/-10,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",109.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"140,932","+/-4,577","140,932",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",111,Less than 20.0 percent,"81,948","+/-3,943",58.1,+/-2.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",112,20.0 to 24.9 percent,"19,432","+/-2,029",13.8,+/-1.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",113,25.0 to 29.9 percent,"11,188","+/-1,715",7.9,+/-1.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",114,30.0 to 34.9 percent,"6,304","+/-1,366",4.5,+/-0.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",115,35.0 percent or more,"22,060","+/-2,476",15.7,+/-1.8
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",115.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",116,Not computed,448,+/-231,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",116.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"79,847","+/-3,982","79,847",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",118,Less than 10.0 percent,"41,620","+/-2,962",52.1,+/-2.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",119,10.0 to 14.9 percent,"15,264","+/-1,855",19.1,+/-2.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",120,15.0 to 19.9 percent,"8,733","+/-1,352",10.9,+/-1.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",121,20.0 to 24.9 percent,"4,554","+/-1,089",5.7,+/-1.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",122,25.0 to 29.9 percent,"2,874",+/-922,3.6,+/-1.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",123,30.0 to 34.9 percent,"1,927",+/-722,2.4,+/-0.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",124,35.0 percent or more,"4,875",+/-977,6.1,+/-1.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",124.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",125,Not computed,"1,138",+/-437,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",125.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",125.5,GROSS RENT,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",126,Occupied units paying rent,"73,443","+/-3,555","73,443",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",127,Less than $500,"10,210","+/-1,434",13.9,+/-1.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",128,$500 to $999,"39,493","+/-3,007",53.8,+/-3.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",129,"$1,000 to $1,499","17,274","+/-2,283",23.5,+/-2.9
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",130,"$1,500 to $1,999","4,476","+/-1,021",6.1,+/-1.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",131,"$2,000 to $2,499",802,+/-493,1.1,+/-0.7
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",132,"$2,500 to $2,999",389,+/-429,0.5,+/-0.6
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",133,"$3,000 or more",799,+/-405,1.1,+/-0.5
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",134,Median (dollars),874,+/-20,(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",134.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",135,No rent paid,"5,420","+/-1,304",(X),(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",135.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"69,669","+/-3,342","69,669",(X)
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",137,Less than 15.0 percent,"9,769","+/-1,630",14.0,+/-2.3
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",138,15.0 to 19.9 percent,"9,484","+/-1,724",13.6,+/-2.4
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",139,20.0 to 24.9 percent,"7,343","+/-1,494",10.5,+/-2.1
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",140,25.0 to 29.9 percent,"7,928","+/-1,642",11.4,+/-2.2
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",141,30.0 to 34.9 percent,"6,151","+/-1,437",8.8,+/-2.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",142,35.0 percent or more,"28,994","+/-2,321",41.6,+/-3.0
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",142.3,,,,,
+DP04,5001800US1809,"Congressional District 9 (118th Congress), Indiana",143,Not computed,"9,194","+/-1,750",(X),(X)

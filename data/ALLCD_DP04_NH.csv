@@ -1,0 +1,373 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",0.5,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",1,Total housing units,"322,313","+/-3,411","322,313",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",2,Occupied housing units,"280,962","+/-4,791",87.2,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",3,Vacant housing units,"41,351","+/-3,633",12.8,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",3.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",4,Homeowner vacancy rate,0.3,+/-0.2,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",5,Rental vacancy rate,3.9,+/-1.4,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",5.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",6,Total housing units,"322,313","+/-3,411","322,313",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",7,"1-unit, detached","196,124","+/-4,477",60.8,+/-1.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",8,"1-unit, attached","21,005","+/-2,541",6.5,+/-0.8
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",9,2 units,"18,601","+/-2,429",5.8,+/-0.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",10,3 or 4 units,"19,781","+/-2,520",6.1,+/-0.8
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",11,5 to 9 units,"15,341","+/-2,469",4.8,+/-0.8
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",12,10 to 19 units,"10,164","+/-1,811",3.2,+/-0.6
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",13,20 or more units,"26,596","+/-2,733",8.3,+/-0.8
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",14,Mobile home,"14,433","+/-1,735",4.5,+/-0.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",15,"Boat, RV, van, etc.",268,+/-314,0.1,+/-0.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",15.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",16,Total housing units,"322,313","+/-3,411","322,313",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",17,Built 2020 or later,"1,304",+/-584,0.4,+/-0.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",18,Built 2010 to 2019,"23,714","+/-2,543",7.4,+/-0.8
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",19,Built 2000 to 2009,"39,989","+/-2,688",12.4,+/-0.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",20,Built 1990 to 1999,"34,173","+/-3,143",10.6,+/-1.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",21,Built 1980 to 1989,"63,777","+/-3,676",19.8,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",22,Built 1970 to 1979,"45,968","+/-3,481",14.3,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",23,Built 1960 to 1969,"27,893","+/-2,562",8.7,+/-0.8
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",24,Built 1950 to 1959,"21,179","+/-2,213",6.6,+/-0.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",25,Built 1940 to 1949,"9,603","+/-1,628",3.0,+/-0.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",26,Built 1939 or earlier,"54,713","+/-3,754",17.0,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",26.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",26.5,ROOMS,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",27,Total housing units,"322,313","+/-3,411","322,313",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",28,1 room,"4,542","+/-1,193",1.4,+/-0.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",29,2 rooms,"8,659","+/-1,530",2.7,+/-0.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",30,3 rooms,"26,757","+/-2,399",8.3,+/-0.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",31,4 rooms,"51,659","+/-3,647",16.0,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",32,5 rooms,"61,240","+/-3,774",19.0,+/-1.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",33,6 rooms,"54,820","+/-4,064",17.0,+/-1.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",34,7 rooms,"43,084","+/-3,359",13.4,+/-1.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",35,8 rooms,"29,663","+/-2,374",9.2,+/-0.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",36,9 rooms or more,"41,889","+/-2,653",13.0,+/-0.8
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",37,Median rooms,5.7,+/-0.2,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",37.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",37.5,BEDROOMS,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",38,Total housing units,"322,313","+/-3,411","322,313",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",39,No bedroom,"4,942","+/-1,251",1.5,+/-0.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",40,1 bedroom,"34,162","+/-3,313",10.6,+/-1.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",41,2 bedrooms,"96,563","+/-4,334",30.0,+/-1.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",42,3 bedrooms,"122,238","+/-4,738",37.9,+/-1.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",43,4 bedrooms,"52,355","+/-3,748",16.2,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",44,5 or more bedrooms,"12,053","+/-1,922",3.7,+/-0.6
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",44.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",44.5,HOUSING TENURE,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",45,Occupied housing units,"280,962","+/-4,791","280,962",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",46,Owner-occupied,"201,056","+/-4,137",71.6,+/-1.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",47,Renter-occupied,"79,906","+/-4,305",28.4,+/-1.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",47.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",48,Average household size of owner-occupied unit,2.55,+/-0.05,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",49,Average household size of renter-occupied unit,2.07,+/-0.07,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",49.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",50,Occupied housing units,"280,962","+/-4,791","280,962",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",51,Moved in 2019 or later,"65,269","+/-4,227",23.2,+/-1.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",52,Moved in 2015 to 2018,"67,569","+/-4,329",24.0,+/-1.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",53,Moved in 2010 to 2014,"37,902","+/-2,849",13.5,+/-1.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",54,Moved in 2000 to 2009,"52,561","+/-3,374",18.7,+/-1.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",55,Moved in 1990 to 1999,"30,128","+/-2,552",10.7,+/-0.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",56,Moved in 1989 and earlier,"27,533","+/-2,695",9.8,+/-0.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",56.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",57,Occupied housing units,"280,962","+/-4,791","280,962",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",58,No vehicles available,"11,178","+/-1,482",4.0,+/-0.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",59,1 vehicle available,"83,354","+/-4,183",29.7,+/-1.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",60,2 vehicles available,"120,655","+/-5,269",42.9,+/-1.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",61,3 or more vehicles available,"65,775","+/-4,559",23.4,+/-1.6
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",61.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",62,Occupied housing units,"280,962","+/-4,791","280,962",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",63,Utility gas,"68,109","+/-3,325",24.2,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",64,"Bottled, tank, or LP gas","49,295","+/-3,068",17.5,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",65,Electricity,"33,681","+/-3,061",12.0,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",66,"Fuel oil, kerosene, etc.","112,031","+/-4,303",39.9,+/-1.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",67,Coal or coke,257,+/-393,0.1,+/-0.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",68,Wood,"9,753","+/-1,770",3.5,+/-0.6
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",69,Solar energy,733,+/-440,0.3,+/-0.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",70,Other fuel,"5,259","+/-1,402",1.9,+/-0.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",71,No fuel used,"1,844",+/-925,0.7,+/-0.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",71.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",72,Occupied housing units,"280,962","+/-4,791","280,962",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",73,Lacking complete plumbing facilities,"1,221",+/-575,0.4,+/-0.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",74,Lacking complete kitchen facilities,"2,207",+/-915,0.8,+/-0.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",75,No telephone service available,"2,002",+/-797,0.7,+/-0.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",75.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",76,Occupied housing units,"280,962","+/-4,791","280,962",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",77,1.00 or less,"276,848","+/-5,073",98.5,+/-0.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",78,1.01 to 1.50,"2,558",+/-952,0.9,+/-0.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",79,1.51 or more,"1,556",+/-673,0.6,+/-0.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",79.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",79.5,VALUE,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",80,Owner-occupied units,"201,056","+/-4,137","201,056",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",81,"Less than $50,000","6,581","+/-1,373",3.3,+/-0.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",82,"$50,000 to $99,999","3,548","+/-1,013",1.8,+/-0.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",83,"$100,000 to $149,999","5,754","+/-1,074",2.9,+/-0.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",84,"$150,000 to $199,999","11,073","+/-1,907",5.5,+/-0.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",85,"$200,000 to $299,999","37,885","+/-3,118",18.8,+/-1.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",86,"$300,000 to $499,999","86,563","+/-4,575",43.1,+/-2.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",87,"$500,000 to $999,999","43,575","+/-2,931",21.7,+/-1.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",88,"$1,000,000 or more","6,077","+/-1,318",3.0,+/-0.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",89,Median (dollars),"366,800","+/-5,374",(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",89.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",90,Owner-occupied units,"201,056","+/-4,137","201,056",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",91,Housing units with a mortgage,"130,997","+/-4,849",65.2,+/-1.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",92,Housing units without a mortgage,"70,059","+/-4,107",34.8,+/-1.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",92.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",93,Housing units with a mortgage,"130,997","+/-4,849","130,997",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",94,Less than $500,549,+/-270,0.4,+/-0.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",95,$500 to $999,"6,739","+/-1,413",5.1,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",96,"$1,000 to $1,499","18,210","+/-2,253",13.9,+/-1.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",97,"$1,500 to $1,999","33,973","+/-3,127",25.9,+/-2.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",98,"$2,000 to $2,499","30,987","+/-2,747",23.7,+/-2.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",99,"$2,500 to $2,999","20,593","+/-2,802",15.7,+/-1.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",100,"$3,000 or more","19,946","+/-2,388",15.2,+/-1.8
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",101,Median (dollars),"2,097",+/-52,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",101.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",102,Housing units without a mortgage,"70,059","+/-4,107","70,059",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",103,Less than $250,"2,790",+/-881,4.0,+/-1.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",104,$250 to $399,"2,164",+/-680,3.1,+/-0.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",105,$400 to $599,"9,747","+/-1,790",13.9,+/-2.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",106,$600 to $799,"14,117","+/-2,123",20.2,+/-2.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",107,$800 to $999,"14,659","+/-1,957",20.9,+/-2.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",108,"$1,000 or more","26,582","+/-2,488",37.9,+/-2.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",109,Median (dollars),901,+/-27,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",109.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"130,788","+/-4,875","130,788",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",111,Less than 20.0 percent,"56,700","+/-3,525",43.4,+/-2.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",112,20.0 to 24.9 percent,"23,793","+/-2,770",18.2,+/-2.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",113,25.0 to 29.9 percent,"13,727","+/-1,917",10.5,+/-1.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",114,30.0 to 34.9 percent,"9,113","+/-1,563",7.0,+/-1.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",115,35.0 percent or more,"27,455","+/-2,860",21.0,+/-1.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",115.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",116,Not computed,209,+/-184,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",116.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"69,276","+/-4,022","69,276",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",118,Less than 10.0 percent,"23,000","+/-2,615",33.2,+/-3.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",119,10.0 to 14.9 percent,"16,030","+/-2,175",23.1,+/-3.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",120,15.0 to 19.9 percent,"8,775","+/-1,420",12.7,+/-1.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",121,20.0 to 24.9 percent,"6,101","+/-1,385",8.8,+/-2.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",122,25.0 to 29.9 percent,"3,333",+/-786,4.8,+/-1.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",123,30.0 to 34.9 percent,"2,873",+/-851,4.1,+/-1.2
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",124,35.0 percent or more,"9,164","+/-1,571",13.2,+/-2.1
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",124.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",125,Not computed,783,+/-447,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",125.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",125.5,GROSS RENT,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",126,Occupied units paying rent,"76,566","+/-4,220","76,566",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",127,Less than $500,"5,419","+/-1,166",7.1,+/-1.5
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",128,$500 to $999,"13,556","+/-2,508",17.7,+/-3.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",129,"$1,000 to $1,499","28,136","+/-3,158",36.7,+/-3.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",130,"$1,500 to $1,999","20,259","+/-2,242",26.5,+/-2.8
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",131,"$2,000 to $2,499","6,511","+/-1,474",8.5,+/-1.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",132,"$2,500 to $2,999","1,121",+/-524,1.5,+/-0.7
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",133,"$3,000 or more","1,564",+/-728,2.0,+/-0.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",134,Median (dollars),"1,317",+/-44,(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",134.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",135,No rent paid,"3,340","+/-1,042",(X),(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",135.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"76,005","+/-4,226","76,005",(X)
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",137,Less than 15.0 percent,"9,848","+/-1,906",13.0,+/-2.4
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",138,15.0 to 19.9 percent,"13,881","+/-1,768",18.3,+/-2.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",139,20.0 to 24.9 percent,"9,347","+/-1,834",12.3,+/-2.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",140,25.0 to 29.9 percent,"11,033","+/-2,293",14.5,+/-2.9
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",141,30.0 to 34.9 percent,"7,422","+/-1,898",9.8,+/-2.3
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",142,35.0 percent or more,"24,474","+/-2,429",32.2,+/-3.0
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",142.3,,,,,
+DP04,5001800US3301,"Congressional District 1 (118th Congress), New Hampshire",143,Not computed,"3,901","+/-1,091",(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",0.5,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",1,Total housing units,"321,666","+/-3,429","321,666",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",2,Occupied housing units,"267,064","+/-4,148",83.0,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",3,Vacant housing units,"54,602","+/-3,442",17.0,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",3.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",4,Homeowner vacancy rate,0.5,+/-0.4,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",5,Rental vacancy rate,2.3,+/-0.9,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",5.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",6,Total housing units,"321,666","+/-3,429","321,666",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",7,"1-unit, detached","216,232","+/-4,379",67.2,+/-1.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",8,"1-unit, attached","15,691","+/-1,698",4.9,+/-0.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",9,2 units,"15,974","+/-2,028",5.0,+/-0.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",10,3 or 4 units,"13,650","+/-1,644",4.2,+/-0.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",11,5 to 9 units,"14,244","+/-2,088",4.4,+/-0.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",12,10 to 19 units,"8,979","+/-1,834",2.8,+/-0.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",13,20 or more units,"21,533","+/-2,318",6.7,+/-0.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",14,Mobile home,"15,347","+/-1,715",4.8,+/-0.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",15,"Boat, RV, van, etc.",16,+/-31,0.0,+/-0.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",15.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",16,Total housing units,"321,666","+/-3,429","321,666",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",17,Built 2020 or later,"1,156",+/-500,0.4,+/-0.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",18,Built 2010 to 2019,"19,879","+/-2,007",6.2,+/-0.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",19,Built 2000 to 2009,"36,688","+/-2,552",11.4,+/-0.8
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",20,Built 1990 to 1999,"27,028","+/-2,132",8.4,+/-0.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",21,Built 1980 to 1989,"58,604","+/-3,506",18.2,+/-1.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",22,Built 1970 to 1979,"47,780","+/-3,218",14.9,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",23,Built 1960 to 1969,"28,984","+/-2,670",9.0,+/-0.8
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",24,Built 1950 to 1959,"21,612","+/-2,334",6.7,+/-0.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",25,Built 1940 to 1949,"10,335","+/-1,566",3.2,+/-0.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",26,Built 1939 or earlier,"69,600","+/-3,793",21.6,+/-1.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",26.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",26.5,ROOMS,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",27,Total housing units,"321,666","+/-3,429","321,666",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",28,1 room,"6,006","+/-1,367",1.9,+/-0.4
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",29,2 rooms,"9,133","+/-1,551",2.8,+/-0.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",30,3 rooms,"28,559","+/-2,784",8.9,+/-0.8
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",31,4 rooms,"51,349","+/-3,367",16.0,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",32,5 rooms,"56,575","+/-3,376",17.6,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",33,6 rooms,"56,996","+/-3,355",17.7,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",34,7 rooms,"39,447","+/-2,528",12.3,+/-0.8
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",35,8 rooms,"31,854","+/-2,574",9.9,+/-0.8
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",36,9 rooms or more,"41,747","+/-3,374",13.0,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",37,Median rooms,5.7,+/-0.2,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",37.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",37.5,BEDROOMS,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",38,Total housing units,"321,666","+/-3,429","321,666",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",39,No bedroom,"6,560","+/-1,408",2.0,+/-0.4
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",40,1 bedroom,"38,424","+/-3,085",11.9,+/-0.9
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",41,2 bedrooms,"94,134","+/-5,080",29.3,+/-1.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",42,3 bedrooms,"117,207","+/-4,521",36.4,+/-1.4
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",43,4 bedrooms,"53,480","+/-3,362",16.6,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",44,5 or more bedrooms,"11,861","+/-1,851",3.7,+/-0.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",44.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",44.5,HOUSING TENURE,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",45,Occupied housing units,"267,064","+/-4,148","267,064",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",46,Owner-occupied,"196,169","+/-4,509",73.5,+/-1.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",47,Renter-occupied,"70,895","+/-4,292",26.5,+/-1.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",47.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",48,Average household size of owner-occupied unit,2.68,+/-0.04,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",49,Average household size of renter-occupied unit,2.05,+/-0.07,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",49.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",50,Occupied housing units,"267,064","+/-4,148","267,064",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",51,Moved in 2019 or later,"60,755","+/-4,240",22.7,+/-1.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",52,Moved in 2015 to 2018,"53,958","+/-3,294",20.2,+/-1.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",53,Moved in 2010 to 2014,"33,426","+/-2,649",12.5,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",54,Moved in 2000 to 2009,"52,004","+/-2,877",19.5,+/-1.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",55,Moved in 1990 to 1999,"30,291","+/-2,474",11.3,+/-0.9
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",56,Moved in 1989 and earlier,"36,630","+/-2,305",13.7,+/-0.9
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",56.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",57,Occupied housing units,"267,064","+/-4,148","267,064",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",58,No vehicles available,"12,481","+/-1,650",4.7,+/-0.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",59,1 vehicle available,"79,649","+/-4,354",29.8,+/-1.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",60,2 vehicles available,"112,892","+/-4,529",42.3,+/-1.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",61,3 or more vehicles available,"62,042","+/-3,066",23.2,+/-1.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",61.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",62,Occupied housing units,"267,064","+/-4,148","267,064",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",63,Utility gas,"53,857","+/-2,604",20.2,+/-0.9
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",64,"Bottled, tank, or LP gas","52,913","+/-3,676",19.8,+/-1.3
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",65,Electricity,"25,084","+/-2,336",9.4,+/-0.9
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",66,"Fuel oil, kerosene, etc.","106,693","+/-3,386",40.0,+/-1.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",67,Coal or coke,590,+/-365,0.2,+/-0.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",68,Wood,"20,628","+/-1,958",7.7,+/-0.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",69,Solar energy,157,+/-110,0.1,+/-0.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",70,Other fuel,"4,743","+/-1,032",1.8,+/-0.4
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",71,No fuel used,"2,399",+/-888,0.9,+/-0.3
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",71.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",72,Occupied housing units,"267,064","+/-4,148","267,064",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",73,Lacking complete plumbing facilities,671,+/-335,0.3,+/-0.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",74,Lacking complete kitchen facilities,"1,203",+/-604,0.5,+/-0.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",75,No telephone service available,"1,756",+/-714,0.7,+/-0.3
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",75.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",76,Occupied housing units,"267,064","+/-4,148","267,064",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",77,1.00 or less,"262,987","+/-4,496",98.5,+/-0.4
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",78,1.01 to 1.50,"2,120",+/-780,0.8,+/-0.3
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",79,1.51 or more,"1,957",+/-576,0.7,+/-0.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",79.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",79.5,VALUE,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",80,Owner-occupied units,"196,169","+/-4,509","196,169",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",81,"Less than $50,000","8,195","+/-1,224",4.2,+/-0.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",82,"$50,000 to $99,999","7,584","+/-1,228",3.9,+/-0.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",83,"$100,000 to $149,999","9,861","+/-1,455",5.0,+/-0.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",84,"$150,000 to $199,999","18,031","+/-1,860",9.2,+/-0.9
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",85,"$200,000 to $299,999","46,061","+/-2,743",23.5,+/-1.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",86,"$300,000 to $499,999","74,588","+/-3,172",38.0,+/-1.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",87,"$500,000 to $999,999","29,441","+/-2,460",15.0,+/-1.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",88,"$1,000,000 or more","2,408",+/-698,1.2,+/-0.3
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",89,Median (dollars),"318,900","+/-5,706",(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",89.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",90,Owner-occupied units,"196,169","+/-4,509","196,169",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",91,Housing units with a mortgage,"118,838","+/-4,357",60.6,+/-1.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",92,Housing units without a mortgage,"77,331","+/-3,216",39.4,+/-1.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",92.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",93,Housing units with a mortgage,"118,838","+/-4,357","118,838",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",94,Less than $500,"1,021",+/-408,0.9,+/-0.3
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",95,$500 to $999,"6,181","+/-1,053",5.2,+/-0.9
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",96,"$1,000 to $1,499","24,689","+/-2,324",20.8,+/-1.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",97,"$1,500 to $1,999","33,083","+/-2,511",27.8,+/-2.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",98,"$2,000 to $2,499","24,035","+/-2,595",20.2,+/-2.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",99,"$2,500 to $2,999","13,746","+/-1,743",11.6,+/-1.4
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",100,"$3,000 or more","16,083","+/-1,890",13.5,+/-1.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",101,Median (dollars),"1,914",+/-36,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",101.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",102,Housing units without a mortgage,"77,331","+/-3,216","77,331",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",103,Less than $250,"1,203",+/-472,1.6,+/-0.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",104,$250 to $399,"4,602",+/-808,6.0,+/-1.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",105,$400 to $599,"11,068","+/-1,385",14.3,+/-1.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",106,$600 to $799,"18,779","+/-1,833",24.3,+/-2.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",107,$800 to $999,"17,427","+/-1,912",22.5,+/-2.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",108,"$1,000 or more","24,252","+/-2,475",31.4,+/-2.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",109,Median (dollars),832,+/-19,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",109.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"118,705","+/-4,363","118,705",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",111,Less than 20.0 percent,"56,889","+/-3,558",47.9,+/-2.4
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",112,20.0 to 24.9 percent,"19,307","+/-2,378",16.3,+/-1.9
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",113,25.0 to 29.9 percent,"13,677","+/-2,176",11.5,+/-1.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",114,30.0 to 34.9 percent,"7,569","+/-1,388",6.4,+/-1.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",115,35.0 percent or more,"21,263","+/-1,967",17.9,+/-1.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",115.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",116,Not computed,133,+/-160,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",116.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"76,430","+/-3,272","76,430",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",118,Less than 10.0 percent,"23,158","+/-2,141",30.3,+/-2.3
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",119,10.0 to 14.9 percent,"17,304","+/-2,090",22.6,+/-2.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",120,15.0 to 19.9 percent,"9,868","+/-1,448",12.9,+/-1.8
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",121,20.0 to 24.9 percent,"7,857","+/-1,412",10.3,+/-1.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",122,25.0 to 29.9 percent,"4,147",+/-852,5.4,+/-1.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",123,30.0 to 34.9 percent,"4,195","+/-1,152",5.5,+/-1.5
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",124,35.0 percent or more,"9,901","+/-1,443",13.0,+/-1.9
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",124.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",125,Not computed,901,+/-460,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",125.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",125.5,GROSS RENT,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",126,Occupied units paying rent,"67,905","+/-4,167","67,905",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",127,Less than $500,"6,269","+/-1,218",9.2,+/-1.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",128,$500 to $999,"16,275","+/-2,062",24.0,+/-3.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",129,"$1,000 to $1,499","24,492","+/-3,266",36.1,+/-3.8
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",130,"$1,500 to $1,999","15,126","+/-2,152",22.3,+/-3.1
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",131,"$2,000 to $2,499","3,971","+/-1,225",5.8,+/-1.8
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",132,"$2,500 to $2,999",597,+/-454,0.9,+/-0.7
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",133,"$3,000 or more","1,175",+/-590,1.7,+/-0.8
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",134,Median (dollars),"1,213",+/-37,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",134.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",135,No rent paid,"2,990",+/-637,(X),(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",135.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"66,677","+/-4,157","66,677",(X)
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",137,Less than 15.0 percent,"7,995","+/-1,536",12.0,+/-2.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",138,15.0 to 19.9 percent,"9,403","+/-1,622",14.1,+/-2.3
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",139,20.0 to 24.9 percent,"8,046","+/-1,458",12.1,+/-2.0
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",140,25.0 to 29.9 percent,"8,949","+/-1,540",13.4,+/-2.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",141,30.0 to 34.9 percent,"4,332","+/-1,095",6.5,+/-1.6
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",142,35.0 percent or more,"27,952","+/-2,737",41.9,+/-3.2
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",142.3,,,,,
+DP04,5001800US3302,"Congressional District 2 (118th Congress), New Hampshire",143,Not computed,"4,218",+/-857,(X),(X)

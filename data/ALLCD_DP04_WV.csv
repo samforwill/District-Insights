@@ -1,0 +1,373 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",0.5,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",1,Total housing units,"438,203","+/-1,551","438,203",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",2,Occupied housing units,"359,332","+/-4,283",82.0,+/-1.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",3,Vacant housing units,"78,871","+/-4,444",18.0,+/-1.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",3.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",4,Homeowner vacancy rate,1.1,+/-0.3,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",5,Rental vacancy rate,5.9,+/-1.6,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",5.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",6,Total housing units,"438,203","+/-1,551","438,203",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",7,"1-unit, detached","310,676","+/-4,653",70.9,+/-1.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",8,"1-unit, attached","5,381","+/-1,232",1.2,+/-0.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",9,2 units,"7,440","+/-1,479",1.7,+/-0.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",10,3 or 4 units,"14,417","+/-2,041",3.3,+/-0.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",11,5 to 9 units,"13,094","+/-2,481",3.0,+/-0.6
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",12,10 to 19 units,"6,212","+/-1,483",1.4,+/-0.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",13,20 or more units,"11,742","+/-1,991",2.7,+/-0.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",14,Mobile home,"69,161","+/-4,121",15.8,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",15,"Boat, RV, van, etc.",80,+/-123,0.0,+/-0.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",15.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",16,Total housing units,"438,203","+/-1,551","438,203",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",17,Built 2020 or later,"1,280",+/-564,0.3,+/-0.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",18,Built 2010 to 2019,"22,919","+/-2,955",5.2,+/-0.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",19,Built 2000 to 2009,"45,306","+/-3,757",10.3,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",20,Built 1990 to 1999,"51,413","+/-4,051",11.7,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",21,Built 1980 to 1989,"54,826","+/-3,767",12.5,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",22,Built 1970 to 1979,"77,989","+/-5,056",17.8,+/-1.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",23,Built 1960 to 1969,"39,151","+/-3,552",8.9,+/-0.8
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",24,Built 1950 to 1959,"55,179","+/-3,844",12.6,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",25,Built 1940 to 1949,"32,475","+/-2,992",7.4,+/-0.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",26,Built 1939 or earlier,"57,665","+/-4,100",13.2,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",26.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",26.5,ROOMS,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",27,Total housing units,"438,203","+/-1,551","438,203",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",28,1 room,"10,677","+/-1,736",2.4,+/-0.4
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",29,2 rooms,"7,381","+/-1,802",1.7,+/-0.4
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",30,3 rooms,"21,405","+/-2,703",4.9,+/-0.6
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",31,4 rooms,"56,040","+/-3,547",12.8,+/-0.8
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",32,5 rooms,"89,579","+/-4,696",20.4,+/-1.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",33,6 rooms,"99,376","+/-5,615",22.7,+/-1.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",34,7 rooms,"54,868","+/-3,632",12.5,+/-0.8
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",35,8 rooms,"43,627","+/-3,886",10.0,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",36,9 rooms or more,"55,250","+/-4,080",12.6,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",37,Median rooms,5.8,+/-0.2,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",37.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",37.5,BEDROOMS,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",38,Total housing units,"438,203","+/-1,551","438,203",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",39,No bedroom,"11,278","+/-1,801",2.6,+/-0.4
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",40,1 bedroom,"29,332","+/-2,673",6.7,+/-0.6
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",41,2 bedrooms,"120,905","+/-4,607",27.6,+/-1.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",42,3 bedrooms,"201,739","+/-5,121",46.0,+/-1.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",43,4 bedrooms,"58,677","+/-4,404",13.4,+/-1.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",44,5 or more bedrooms,"16,272","+/-2,359",3.7,+/-0.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",44.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",44.5,HOUSING TENURE,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",45,Occupied housing units,"359,332","+/-4,283","359,332",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",46,Owner-occupied,"269,411","+/-5,855",75.0,+/-1.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",47,Renter-occupied,"89,921","+/-4,092",25.0,+/-1.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",47.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",48,Average household size of owner-occupied unit,2.49,+/-0.04,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",49,Average household size of renter-occupied unit,2.13,+/-0.07,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",49.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",50,Occupied housing units,"359,332","+/-4,283","359,332",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",51,Moved in 2019 or later,"69,545","+/-4,277",19.4,+/-1.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",52,Moved in 2015 to 2018,"63,577","+/-3,925",17.7,+/-1.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",53,Moved in 2010 to 2014,"43,420","+/-3,761",12.1,+/-1.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",54,Moved in 2000 to 2009,"68,868","+/-3,918",19.2,+/-1.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",55,Moved in 1990 to 1999,"48,899","+/-3,376",13.6,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",56,Moved in 1989 and earlier,"65,023","+/-3,167",18.1,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",56.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",57,Occupied housing units,"359,332","+/-4,283","359,332",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",58,No vehicles available,"31,994","+/-3,145",8.9,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",59,1 vehicle available,"126,945","+/-5,049",35.3,+/-1.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",60,2 vehicles available,"131,570","+/-5,141",36.6,+/-1.4
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",61,3 or more vehicles available,"68,823","+/-4,391",19.2,+/-1.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",61.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",62,Occupied housing units,"359,332","+/-4,283","359,332",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",63,Utility gas,"134,173","+/-5,384",37.3,+/-1.4
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",64,"Bottled, tank, or LP gas","16,845","+/-1,810",4.7,+/-0.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",65,Electricity,"183,211","+/-5,693",51.0,+/-1.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",66,"Fuel oil, kerosene, etc.","4,210","+/-1,120",1.2,+/-0.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",67,Coal or coke,742,+/-490,0.2,+/-0.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",68,Wood,"17,324","+/-2,630",4.8,+/-0.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",69,Solar energy,0,+/-216,0.0,+/-0.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",70,Other fuel,"1,578",+/-569,0.4,+/-0.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",71,No fuel used,"1,249",+/-507,0.3,+/-0.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",71.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",72,Occupied housing units,"359,332","+/-4,283","359,332",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",73,Lacking complete plumbing facilities,"1,596",+/-601,0.4,+/-0.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",74,Lacking complete kitchen facilities,"1,732",+/-748,0.5,+/-0.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",75,No telephone service available,"5,456","+/-1,235",1.5,+/-0.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",75.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",76,Occupied housing units,"359,332","+/-4,283","359,332",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",77,1.00 or less,"354,941","+/-4,212",98.8,+/-0.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",78,1.01 to 1.50,"2,657",+/-960,0.7,+/-0.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",79,1.51 or more,"1,734",+/-827,0.5,+/-0.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",79.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",79.5,VALUE,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",80,Owner-occupied units,"269,411","+/-5,855","269,411",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",81,"Less than $50,000","47,030","+/-3,568",17.5,+/-1.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",82,"$50,000 to $99,999","66,448","+/-3,762",24.7,+/-1.4
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",83,"$100,000 to $149,999","48,288","+/-4,225",17.9,+/-1.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",84,"$150,000 to $199,999","44,208","+/-3,542",16.4,+/-1.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",85,"$200,000 to $299,999","37,284","+/-3,370",13.8,+/-1.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",86,"$300,000 to $499,999","18,888","+/-2,342",7.0,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",87,"$500,000 to $999,999","6,083","+/-1,255",2.3,+/-0.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",88,"$1,000,000 or more","1,182",+/-545,0.4,+/-0.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",89,Median (dollars),"118,400","+/-3,367",(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",89.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",90,Owner-occupied units,"269,411","+/-5,855","269,411",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",91,Housing units with a mortgage,"110,988","+/-5,406",41.2,+/-1.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",92,Housing units without a mortgage,"158,423","+/-4,539",58.8,+/-1.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",92.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",93,Housing units with a mortgage,"110,988","+/-5,406","110,988",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",94,Less than $500,"4,206","+/-1,095",3.8,+/-1.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",95,$500 to $999,"50,315","+/-3,843",45.3,+/-2.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",96,"$1,000 to $1,499","35,410","+/-3,542",31.9,+/-2.6
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",97,"$1,500 to $1,999","13,634","+/-2,046",12.3,+/-1.8
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",98,"$2,000 to $2,499","3,821",+/-938,3.4,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",99,"$2,500 to $2,999","1,951",+/-737,1.8,+/-0.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",100,"$3,000 or more","1,651",+/-642,1.5,+/-0.6
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",101,Median (dollars),"1,011",+/-30,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",101.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",102,Housing units without a mortgage,"158,423","+/-4,539","158,423",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",103,Less than $250,"40,805","+/-3,345",25.8,+/-2.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",104,$250 to $399,"57,789","+/-3,955",36.5,+/-2.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",105,$400 to $599,"41,879","+/-3,429",26.4,+/-2.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",106,$600 to $799,"12,970","+/-1,956",8.2,+/-1.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",107,$800 to $999,"3,790",+/-996,2.4,+/-0.6
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",108,"$1,000 or more","1,190",+/-511,0.8,+/-0.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",109,Median (dollars),343,+/-7,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",109.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"109,931","+/-5,422","109,931",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",111,Less than 20.0 percent,"64,292","+/-4,036",58.5,+/-2.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",112,20.0 to 24.9 percent,"10,894","+/-1,711",9.9,+/-1.4
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",113,25.0 to 29.9 percent,"9,391","+/-1,621",8.5,+/-1.4
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",114,30.0 to 34.9 percent,"5,212","+/-1,204",4.7,+/-1.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",115,35.0 percent or more,"20,142","+/-2,591",18.3,+/-2.1
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",115.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",116,Not computed,"1,057",+/-688,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",116.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"155,778","+/-4,663","155,778",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",118,Less than 10.0 percent,"79,360","+/-4,368",50.9,+/-2.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",119,10.0 to 14.9 percent,"27,753","+/-2,466",17.8,+/-1.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",120,15.0 to 19.9 percent,"14,812","+/-2,073",9.5,+/-1.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",121,20.0 to 24.9 percent,"8,805","+/-1,579",5.7,+/-1.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",122,25.0 to 29.9 percent,"5,711","+/-1,381",3.7,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",123,30.0 to 34.9 percent,"4,342","+/-1,138",2.8,+/-0.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",124,35.0 percent or more,"14,995","+/-2,463",9.6,+/-1.6
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",124.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",125,Not computed,"2,645",+/-918,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",125.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",125.5,GROSS RENT,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",126,Occupied units paying rent,"75,444","+/-3,898","75,444",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",127,Less than $500,"14,289","+/-1,647",18.9,+/-2.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",128,$500 to $999,"45,815","+/-3,453",60.7,+/-3.5
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",129,"$1,000 to $1,499","12,798","+/-2,279",17.0,+/-2.6
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",130,"$1,500 to $1,999","1,752",+/-697,2.3,+/-0.9
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",131,"$2,000 to $2,499",616,+/-517,0.8,+/-0.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",132,"$2,500 to $2,999",0,+/-216,0.0,+/-0.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",133,"$3,000 or more",174,+/-160,0.2,+/-0.2
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",134,Median (dollars),751,+/-28,(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",134.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",135,No rent paid,"14,477","+/-2,092",(X),(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",135.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"72,644","+/-3,830","72,644",(X)
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",137,Less than 15.0 percent,"8,881","+/-1,446",12.2,+/-2.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",138,15.0 to 19.9 percent,"9,996","+/-2,028",13.8,+/-2.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",139,20.0 to 24.9 percent,"9,987","+/-2,092",13.7,+/-2.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",140,25.0 to 29.9 percent,"8,098","+/-1,682",11.1,+/-2.3
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",141,30.0 to 34.9 percent,"5,036","+/-1,244",6.9,+/-1.7
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",142,35.0 percent or more,"30,646","+/-2,919",42.2,+/-3.0
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",142.3,,,,,
+DP04,5001800US5401,"Congressional District 1 (118th Congress), West Virginia",143,Not computed,"17,277","+/-2,167",(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",0.5,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",1,Total housing units,"420,259","+/-1,492","420,259",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",2,Occupied housing units,"362,869","+/-3,913",86.3,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",3,Vacant housing units,"57,390","+/-3,677",13.7,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",3.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",4,Homeowner vacancy rate,1.0,+/-0.4,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",5,Rental vacancy rate,7.0,+/-1.7,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",5.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",6,Total housing units,"420,259","+/-1,492","420,259",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",7,"1-unit, detached","300,079","+/-5,251",71.4,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",8,"1-unit, attached","16,536","+/-2,260",3.9,+/-0.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",9,2 units,"8,701","+/-1,503",2.1,+/-0.4
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",10,3 or 4 units,"12,334","+/-1,956",2.9,+/-0.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",11,5 to 9 units,"13,725","+/-2,207",3.3,+/-0.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",12,10 to 19 units,"8,795","+/-1,657",2.1,+/-0.4
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",13,20 or more units,"14,296","+/-2,102",3.4,+/-0.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",14,Mobile home,"45,230","+/-3,929",10.8,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",15,"Boat, RV, van, etc.",563,+/-485,0.1,+/-0.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",15.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",16,Total housing units,"420,259","+/-1,492","420,259",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",17,Built 2020 or later,669,+/-378,0.2,+/-0.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",18,Built 2010 to 2019,"38,428","+/-3,286",9.1,+/-0.8
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",19,Built 2000 to 2009,"53,833","+/-3,980",12.8,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",20,Built 1990 to 1999,"49,398","+/-3,724",11.8,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",21,Built 1980 to 1989,"48,781","+/-3,322",11.6,+/-0.8
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",22,Built 1970 to 1979,"60,435","+/-3,315",14.4,+/-0.8
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",23,Built 1960 to 1969,"32,670","+/-2,902",7.8,+/-0.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",24,Built 1950 to 1959,"39,714","+/-3,370",9.4,+/-0.8
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",25,Built 1940 to 1949,"23,184","+/-2,102",5.5,+/-0.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",26,Built 1939 or earlier,"73,147","+/-3,794",17.4,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",26.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",26.5,ROOMS,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",27,Total housing units,"420,259","+/-1,492","420,259",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",28,1 room,"7,365","+/-1,844",1.8,+/-0.4
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",29,2 rooms,"6,161","+/-1,266",1.5,+/-0.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",30,3 rooms,"26,135","+/-3,126",6.2,+/-0.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",31,4 rooms,"52,721","+/-3,879",12.5,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",32,5 rooms,"79,392","+/-3,647",18.9,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",33,6 rooms,"87,622","+/-4,194",20.8,+/-1.0
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",34,7 rooms,"56,909","+/-3,281",13.5,+/-0.8
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",35,8 rooms,"42,307","+/-3,132",10.1,+/-0.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",36,9 rooms or more,"61,647","+/-3,656",14.7,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",37,Median rooms,5.9,+/-0.2,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",37.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",37.5,BEDROOMS,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",38,Total housing units,"420,259","+/-1,492","420,259",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",39,No bedroom,"7,823","+/-1,852",1.9,+/-0.4
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",40,1 bedroom,"29,441","+/-2,949",7.0,+/-0.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",41,2 bedrooms,"105,951","+/-4,900",25.2,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",42,3 bedrooms,"198,226","+/-5,578",47.2,+/-1.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",43,4 bedrooms,"62,848","+/-4,110",15.0,+/-1.0
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",44,5 or more bedrooms,"15,970","+/-2,107",3.8,+/-0.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",44.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",44.5,HOUSING TENURE,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",45,Occupied housing units,"362,869","+/-3,913","362,869",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",46,Owner-occupied,"273,394","+/-4,811",75.3,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",47,Renter-occupied,"89,475","+/-4,646",24.7,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",47.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",48,Average household size of owner-occupied unit,2.50,+/-0.04,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",49,Average household size of renter-occupied unit,2.15,+/-0.08,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",49.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",50,Occupied housing units,"362,869","+/-3,913","362,869",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",51,Moved in 2019 or later,"76,927","+/-4,510",21.2,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",52,Moved in 2015 to 2018,"68,273","+/-3,993",18.8,+/-1.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",53,Moved in 2010 to 2014,"48,014","+/-3,511",13.2,+/-1.0
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",54,Moved in 2000 to 2009,"71,282","+/-3,715",19.6,+/-1.0
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",55,Moved in 1990 to 1999,"40,281","+/-3,246",11.1,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",56,Moved in 1989 and earlier,"58,092","+/-3,007",16.0,+/-0.8
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",56.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",57,Occupied housing units,"362,869","+/-3,913","362,869",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",58,No vehicles available,"23,179","+/-2,426",6.4,+/-0.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",59,1 vehicle available,"116,453","+/-3,991",32.1,+/-1.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",60,2 vehicles available,"133,526","+/-4,934",36.8,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",61,3 or more vehicles available,"89,711","+/-3,999",24.7,+/-1.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",61.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",62,Occupied housing units,"362,869","+/-3,913","362,869",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",63,Utility gas,"164,433","+/-4,487",45.3,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",64,"Bottled, tank, or LP gas","19,750","+/-2,128",5.4,+/-0.6
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",65,Electricity,"143,588","+/-5,138",39.6,+/-1.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",66,"Fuel oil, kerosene, etc.","10,642","+/-1,431",2.9,+/-0.4
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",67,Coal or coke,"1,528",+/-694,0.4,+/-0.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",68,Wood,"19,723","+/-2,081",5.4,+/-0.6
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",69,Solar energy,52,+/-89,0.0,+/-0.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",70,Other fuel,"2,140",+/-799,0.6,+/-0.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",71,No fuel used,"1,013",+/-452,0.3,+/-0.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",71.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",72,Occupied housing units,"362,869","+/-3,913","362,869",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",73,Lacking complete plumbing facilities,"1,178",+/-497,0.3,+/-0.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",74,Lacking complete kitchen facilities,"1,452",+/-585,0.4,+/-0.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",75,No telephone service available,"3,062",+/-717,0.8,+/-0.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",75.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",76,Occupied housing units,"362,869","+/-3,913","362,869",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",77,1.00 or less,"358,949","+/-4,093",98.9,+/-0.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",78,1.01 to 1.50,"2,978",+/-958,0.8,+/-0.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",79,1.51 or more,942,+/-454,0.3,+/-0.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",79.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",79.5,VALUE,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",80,Owner-occupied units,"273,394","+/-4,811","273,394",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",81,"Less than $50,000","31,556","+/-2,828",11.5,+/-1.0
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",82,"$50,000 to $99,999","46,155","+/-3,118",16.9,+/-1.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",83,"$100,000 to $149,999","41,880","+/-3,375",15.3,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",84,"$150,000 to $199,999","45,937","+/-3,590",16.8,+/-1.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",85,"$200,000 to $299,999","57,579","+/-3,142",21.1,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",86,"$300,000 to $499,999","38,794","+/-2,751",14.2,+/-1.0
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",87,"$500,000 to $999,999","9,093","+/-1,582",3.3,+/-0.6
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",88,"$1,000,000 or more","2,400",+/-850,0.9,+/-0.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",89,Median (dollars),"165,600","+/-3,407",(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",89.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",90,Owner-occupied units,"273,394","+/-4,811","273,394",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",91,Housing units with a mortgage,"140,022","+/-5,044",51.2,+/-1.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",92,Housing units without a mortgage,"133,372","+/-4,560",48.8,+/-1.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",92.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",93,Housing units with a mortgage,"140,022","+/-5,044","140,022",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",94,Less than $500,"4,278",+/-937,3.1,+/-0.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",95,$500 to $999,"52,996","+/-4,079",37.8,+/-2.4
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",96,"$1,000 to $1,499","44,436","+/-3,656",31.7,+/-2.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",97,"$1,500 to $1,999","23,037","+/-2,268",16.5,+/-1.6
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",98,"$2,000 to $2,499","9,642","+/-1,506",6.9,+/-1.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",99,"$2,500 to $2,999","2,461",+/-713,1.8,+/-0.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",100,"$3,000 or more","3,172","+/-1,025",2.3,+/-0.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",101,Median (dollars),"1,123",+/-30,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",101.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",102,Housing units without a mortgage,"133,372","+/-4,560","133,372",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",103,Less than $250,"35,133","+/-2,562",26.3,+/-1.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",104,$250 to $399,"54,254","+/-3,403",40.7,+/-2.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",105,$400 to $599,"29,655","+/-2,483",22.2,+/-1.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",106,$600 to $799,"10,084","+/-1,566",7.6,+/-1.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",107,$800 to $999,"2,888",+/-903,2.2,+/-0.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",108,"$1,000 or more","1,358",+/-493,1.0,+/-0.4
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",109,Median (dollars),333,+/-7,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",109.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"139,849","+/-5,060","139,849",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",111,Less than 20.0 percent,"86,528","+/-4,837",61.9,+/-2.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",112,20.0 to 24.9 percent,"18,005","+/-1,799",12.9,+/-1.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",113,25.0 to 29.9 percent,"10,523","+/-1,875",7.5,+/-1.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",114,30.0 to 34.9 percent,"6,136","+/-1,260",4.4,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",115,35.0 percent or more,"18,657","+/-2,383",13.3,+/-1.7
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",115.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",116,Not computed,173,+/-170,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",116.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"131,378","+/-4,454","131,378",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",118,Less than 10.0 percent,"76,823","+/-2,816",58.5,+/-2.0
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",119,10.0 to 14.9 percent,"20,279","+/-2,185",15.4,+/-1.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",120,15.0 to 19.9 percent,"12,531","+/-1,729",9.5,+/-1.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",121,20.0 to 24.9 percent,"6,312","+/-1,288",4.8,+/-0.9
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",122,25.0 to 29.9 percent,"4,257","+/-1,119",3.2,+/-0.8
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",123,30.0 to 34.9 percent,"2,389",+/-753,1.8,+/-0.6
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",124,35.0 percent or more,"8,787","+/-1,484",6.7,+/-1.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",124.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",125,Not computed,"1,994",+/-828,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",125.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",125.5,GROSS RENT,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",126,Occupied units paying rent,"77,599","+/-4,731","77,599",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",127,Less than $500,"14,552","+/-2,052",18.8,+/-2.4
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",128,$500 to $999,"42,251","+/-3,354",54.4,+/-3.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",129,"$1,000 to $1,499","17,307","+/-2,636",22.3,+/-3.0
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",130,"$1,500 to $1,999","2,701",+/-933,3.5,+/-1.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",131,"$2,000 to $2,499",731,+/-454,0.9,+/-0.6
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",132,"$2,500 to $2,999",57,+/-102,0.1,+/-0.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",133,"$3,000 or more",0,+/-216,0.0,+/-0.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",134,Median (dollars),778,+/-25,(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",134.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",135,No rent paid,"11,876","+/-1,640",(X),(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",135.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"75,781","+/-4,688","75,781",(X)
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",137,Less than 15.0 percent,"10,393","+/-1,678",13.7,+/-2.2
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",138,15.0 to 19.9 percent,"10,551","+/-2,013",13.9,+/-2.5
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",139,20.0 to 24.9 percent,"8,714","+/-1,639",11.5,+/-2.0
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",140,25.0 to 29.9 percent,"8,074","+/-1,640",10.7,+/-2.1
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",141,30.0 to 34.9 percent,"7,337","+/-1,405",9.7,+/-1.8
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",142,35.0 percent or more,"30,712","+/-3,338",40.5,+/-3.3
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",142.3,,,,,
+DP04,5001800US5402,"Congressional District 2 (118th Congress), West Virginia",143,Not computed,"13,694","+/-1,759",(X),(X)

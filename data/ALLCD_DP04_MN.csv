@@ -1,0 +1,1489 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",0.5,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",1,Total housing units,"308,262","+/-1,355","308,262",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",2,Occupied housing units,"287,498","+/-2,577",93.3,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",3,Vacant housing units,"20,764","+/-2,249",6.7,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",3.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",4,Homeowner vacancy rate,0.7,+/-0.3,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",5,Rental vacancy rate,5.4,+/-1.5,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",5.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",6,Total housing units,"308,262","+/-1,355","308,262",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",7,"1-unit, detached","221,353","+/-3,439",71.8,+/-1.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",8,"1-unit, attached","14,925","+/-1,471",4.8,+/-0.5
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",9,2 units,"6,614","+/-1,257",2.1,+/-0.4
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",10,3 or 4 units,"11,302","+/-2,023",3.7,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",11,5 to 9 units,"6,812","+/-1,114",2.2,+/-0.4
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",12,10 to 19 units,"8,968","+/-1,257",2.9,+/-0.4
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",13,20 or more units,"26,049","+/-2,858",8.5,+/-0.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",14,Mobile home,"12,052","+/-1,406",3.9,+/-0.5
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",15,"Boat, RV, van, etc.",187,+/-196,0.1,+/-0.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",15.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",16,Total housing units,"308,262","+/-1,355","308,262",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",17,Built 2020 or later,"1,590",+/-652,0.5,+/-0.2
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",18,Built 2010 to 2019,"25,485","+/-2,119",8.3,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",19,Built 2000 to 2009,"40,232","+/-2,360",13.1,+/-0.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",20,Built 1990 to 1999,"31,662","+/-1,968",10.3,+/-0.6
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",21,Built 1980 to 1989,"28,332","+/-2,448",9.2,+/-0.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",22,Built 1970 to 1979,"41,923","+/-2,689",13.6,+/-0.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",23,Built 1960 to 1969,"25,597","+/-1,735",8.3,+/-0.6
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",24,Built 1950 to 1959,"29,859","+/-2,219",9.7,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",25,Built 1940 to 1949,"14,829","+/-1,454",4.8,+/-0.5
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",26,Built 1939 or earlier,"68,753","+/-2,556",22.3,+/-0.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",26.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",26.5,ROOMS,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",27,Total housing units,"308,262","+/-1,355","308,262",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",28,1 room,"5,214","+/-1,106",1.7,+/-0.4
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",29,2 rooms,"9,147","+/-1,699",3.0,+/-0.5
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",30,3 rooms,"19,428","+/-2,051",6.3,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",31,4 rooms,"38,180","+/-2,574",12.4,+/-0.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",32,5 rooms,"42,735","+/-2,469",13.9,+/-0.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",33,6 rooms,"48,350","+/-2,957",15.7,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",34,7 rooms,"42,596","+/-2,164",13.8,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",35,8 rooms,"36,196","+/-2,014",11.7,+/-0.6
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",36,9 rooms or more,"66,416","+/-2,966",21.5,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",37,Median rooms,6.3,+/-0.1,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",37.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",37.5,BEDROOMS,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",38,Total housing units,"308,262","+/-1,355","308,262",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",39,No bedroom,"6,065","+/-1,159",2.0,+/-0.4
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",40,1 bedroom,"29,451","+/-2,477",9.6,+/-0.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",41,2 bedrooms,"74,544","+/-3,442",24.2,+/-1.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",42,3 bedrooms,"107,725","+/-3,927",34.9,+/-1.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",43,4 bedrooms,"69,368","+/-2,881",22.5,+/-0.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",44,5 or more bedrooms,"21,109","+/-1,897",6.8,+/-0.6
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",44.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",44.5,HOUSING TENURE,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",45,Occupied housing units,"287,498","+/-2,577","287,498",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",46,Owner-occupied,"215,562","+/-3,102",75.0,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",47,Renter-occupied,"71,936","+/-3,106",25.0,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",47.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",48,Average household size of owner-occupied unit,2.53,+/-0.03,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",49,Average household size of renter-occupied unit,2.02,+/-0.07,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",49.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",50,Occupied housing units,"287,498","+/-2,577","287,498",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",51,Moved in 2019 or later,"72,478","+/-3,112",25.2,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",52,Moved in 2015 to 2018,"58,929","+/-3,317",20.5,+/-1.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",53,Moved in 2010 to 2014,"33,804","+/-2,246",11.8,+/-0.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",54,Moved in 2000 to 2009,"52,277","+/-2,599",18.2,+/-0.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",55,Moved in 1990 to 1999,"31,861","+/-1,820",11.1,+/-0.6
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",56,Moved in 1989 and earlier,"38,149","+/-2,000",13.3,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",56.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",57,Occupied housing units,"287,498","+/-2,577","287,498",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",58,No vehicles available,"17,397","+/-1,682",6.1,+/-0.6
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",59,1 vehicle available,"82,167","+/-3,352",28.6,+/-1.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",60,2 vehicles available,"115,803","+/-3,587",40.3,+/-1.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",61,3 or more vehicles available,"72,131","+/-3,380",25.1,+/-1.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",61.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",62,Occupied housing units,"287,498","+/-2,577","287,498",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",63,Utility gas,"177,290","+/-3,794",61.7,+/-1.2
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",64,"Bottled, tank, or LP gas","50,239","+/-2,172",17.5,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",65,Electricity,"47,226","+/-2,488",16.4,+/-0.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",66,"Fuel oil, kerosene, etc.","2,875",+/-587,1.0,+/-0.2
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",67,Coal or coke,85,+/-91,0.0,+/-0.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",68,Wood,"4,853",+/-498,1.7,+/-0.2
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",69,Solar energy,114,+/-83,0.0,+/-0.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",70,Other fuel,"2,659",+/-511,0.9,+/-0.2
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",71,No fuel used,"2,157",+/-729,0.8,+/-0.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",71.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",72,Occupied housing units,"287,498","+/-2,577","287,498",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",73,Lacking complete plumbing facilities,"1,340",+/-515,0.5,+/-0.2
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",74,Lacking complete kitchen facilities,"2,243",+/-659,0.8,+/-0.2
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",75,No telephone service available,"3,021",+/-745,1.1,+/-0.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",75.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",76,Occupied housing units,"287,498","+/-2,577","287,498",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",77,1.00 or less,"282,045","+/-2,829",98.1,+/-0.4
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",78,1.01 to 1.50,"4,412","+/-1,074",1.5,+/-0.4
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",79,1.51 or more,"1,041",+/-397,0.4,+/-0.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",79.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",79.5,VALUE,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",80,Owner-occupied units,"215,562","+/-3,102","215,562",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",81,"Less than $50,000","15,728","+/-1,671",7.3,+/-0.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",82,"$50,000 to $99,999","18,749","+/-1,495",8.7,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",83,"$100,000 to $149,999","29,003","+/-2,092",13.5,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",84,"$150,000 to $199,999","33,929","+/-2,325",15.7,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",85,"$200,000 to $299,999","57,596","+/-2,448",26.7,+/-1.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",86,"$300,000 to $499,999","44,238","+/-2,133",20.5,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",87,"$500,000 to $999,999","13,951","+/-1,310",6.5,+/-0.6
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",88,"$1,000,000 or more","2,368",+/-600,1.1,+/-0.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",89,Median (dollars),"216,500","+/-4,163",(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",89.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",90,Owner-occupied units,"215,562","+/-3,102","215,562",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",91,Housing units with a mortgage,"125,477","+/-3,486",58.2,+/-1.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",92,Housing units without a mortgage,"90,085","+/-2,849",41.8,+/-1.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",92.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",93,Housing units with a mortgage,"125,477","+/-3,486","125,477",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",94,Less than $500,"1,543",+/-388,1.2,+/-0.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",95,$500 to $999,"24,450","+/-1,917",19.5,+/-1.4
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",96,"$1,000 to $1,499","44,021","+/-2,470",35.1,+/-1.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",97,"$1,500 to $1,999","29,411","+/-1,914",23.4,+/-1.4
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",98,"$2,000 to $2,499","13,677","+/-1,357",10.9,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",99,"$2,500 to $2,999","5,833",+/-710,4.6,+/-0.6
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",100,"$3,000 or more","6,542","+/-1,082",5.2,+/-0.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",101,Median (dollars),"1,413",+/-22,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",101.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",102,Housing units without a mortgage,"90,085","+/-2,849","90,085",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",103,Less than $250,"5,806",+/-956,6.4,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",104,$250 to $399,"18,367","+/-1,821",20.4,+/-2.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",105,$400 to $599,"30,947","+/-1,913",34.4,+/-1.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",106,$600 to $799,"21,839","+/-1,797",24.2,+/-1.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",107,$800 to $999,"7,515","+/-1,057",8.3,+/-1.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",108,"$1,000 or more","5,611",+/-768,6.2,+/-0.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",109,Median (dollars),536,+/-11,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",109.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"124,886","+/-3,526","124,886",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",111,Less than 20.0 percent,"68,549","+/-2,798",54.9,+/-1.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",112,20.0 to 24.9 percent,"19,802","+/-1,925",15.9,+/-1.5
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",113,25.0 to 29.9 percent,"11,815","+/-1,431",9.5,+/-1.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",114,30.0 to 34.9 percent,"6,657",+/-926,5.3,+/-0.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",115,35.0 percent or more,"18,063","+/-1,341",14.5,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",115.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",116,Not computed,591,+/-326,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",116.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"89,602","+/-2,843","89,602",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",118,Less than 10.0 percent,"42,935","+/-2,345",47.9,+/-2.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",119,10.0 to 14.9 percent,"18,425","+/-1,682",20.6,+/-1.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",120,15.0 to 19.9 percent,"9,686",+/-957,10.8,+/-1.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",121,20.0 to 24.9 percent,"5,417",+/-868,6.0,+/-0.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",122,25.0 to 29.9 percent,"3,710",+/-859,4.1,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",123,30.0 to 34.9 percent,"1,982",+/-420,2.2,+/-0.5
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",124,35.0 percent or more,"7,447","+/-1,164",8.3,+/-1.2
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",124.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",125,Not computed,483,+/-207,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",125.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",125.5,GROSS RENT,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",126,Occupied units paying rent,"68,538","+/-3,078","68,538",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",127,Less than $500,"10,037","+/-1,483",14.6,+/-2.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",128,$500 to $999,"31,631","+/-2,350",46.2,+/-2.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",129,"$1,000 to $1,499","18,053","+/-2,121",26.3,+/-3.1
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",130,"$1,500 to $1,999","6,109","+/-1,235",8.9,+/-1.7
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",131,"$2,000 to $2,499","1,759",+/-658,2.6,+/-1.0
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",132,"$2,500 to $2,999",495,+/-345,0.7,+/-0.5
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",133,"$3,000 or more",454,+/-236,0.7,+/-0.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",134,Median (dollars),891,+/-31,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",134.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",135,No rent paid,"3,398",+/-606,(X),(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",135.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"67,638","+/-3,090","67,638",(X)
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",137,Less than 15.0 percent,"10,596","+/-1,597",15.7,+/-2.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",138,15.0 to 19.9 percent,"7,826","+/-1,317",11.6,+/-1.8
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",139,20.0 to 24.9 percent,"8,747","+/-1,513",12.9,+/-2.3
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",140,25.0 to 29.9 percent,"8,180","+/-1,516",12.1,+/-2.2
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",141,30.0 to 34.9 percent,"6,767","+/-1,310",10.0,+/-1.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",142,35.0 percent or more,"25,522","+/-2,362",37.7,+/-2.9
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",142.3,,,,,
+DP04,5001800US2701,"Congressional District 1 (118th Congress), Minnesota",143,Not computed,"4,298",+/-708,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",0.5,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",1,Total housing units,"279,631","+/-1,741","279,631",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",2,Occupied housing units,"271,228","+/-2,654",97.0,+/-0.6
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",3,Vacant housing units,"8,403","+/-1,594",3.0,+/-0.6
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",3.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",5,Rental vacancy rate,2.9,+/-1.3,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",5.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",6,Total housing units,"279,631","+/-1,741","279,631",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",7,"1-unit, detached","180,860","+/-3,913",64.7,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",8,"1-unit, attached","42,938","+/-2,906",15.4,+/-1.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",9,2 units,"2,734","+/-1,074",1.0,+/-0.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",10,3 or 4 units,"6,395","+/-1,443",2.3,+/-0.5
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",11,5 to 9 units,"4,359","+/-1,204",1.6,+/-0.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",12,10 to 19 units,"6,162","+/-1,187",2.2,+/-0.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",13,20 or more units,"31,970","+/-2,610",11.4,+/-0.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",14,Mobile home,"4,204",+/-934,1.5,+/-0.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",15,"Boat, RV, van, etc.",9,+/-17,0.0,+/-0.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",15.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",16,Total housing units,"279,631","+/-1,741","279,631",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",17,Built 2020 or later,"3,596","+/-1,121",1.3,+/-0.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",18,Built 2010 to 2019,"27,993","+/-2,409",10.0,+/-0.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",19,Built 2000 to 2009,"48,826","+/-3,105",17.5,+/-1.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",20,Built 1990 to 1999,"51,514","+/-3,200",18.4,+/-1.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",21,Built 1980 to 1989,"49,340","+/-2,533",17.6,+/-0.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",22,Built 1970 to 1979,"37,373","+/-2,920",13.4,+/-1.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",23,Built 1960 to 1969,"25,486","+/-2,143",9.1,+/-0.8
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",24,Built 1950 to 1959,"14,227","+/-1,585",5.1,+/-0.6
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",25,Built 1940 to 1949,"5,318",+/-867,1.9,+/-0.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",26,Built 1939 or earlier,"15,958","+/-1,941",5.7,+/-0.7
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",26.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",26.5,ROOMS,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",27,Total housing units,"279,631","+/-1,741","279,631",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",28,1 room,"2,753",+/-925,1.0,+/-0.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",29,2 rooms,"4,067",+/-956,1.5,+/-0.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",30,3 rooms,"21,034","+/-2,366",7.5,+/-0.8
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",31,4 rooms,"32,406","+/-2,853",11.6,+/-1.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",32,5 rooms,"34,655","+/-3,383",12.4,+/-1.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",33,6 rooms,"37,388","+/-2,666",13.4,+/-1.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",34,7 rooms,"35,790","+/-2,491",12.8,+/-0.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",35,8 rooms,"36,748","+/-2,986",13.1,+/-1.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",36,9 rooms or more,"74,790","+/-3,528",26.7,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",37,Median rooms,6.7,+/-0.1,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",37.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",37.5,BEDROOMS,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",38,Total housing units,"279,631","+/-1,741","279,631",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",39,No bedroom,"3,415","+/-1,010",1.2,+/-0.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",40,1 bedroom,"20,868","+/-2,067",7.5,+/-0.7
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",41,2 bedrooms,"63,480","+/-3,538",22.7,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",42,3 bedrooms,"88,526","+/-3,666",31.7,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",43,4 bedrooms,"72,635","+/-3,542",26.0,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",44,5 or more bedrooms,"30,707","+/-2,916",11.0,+/-1.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",44.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",44.5,HOUSING TENURE,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",45,Occupied housing units,"271,228","+/-2,654","271,228",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",46,Owner-occupied,"213,894","+/-3,381",78.9,+/-1.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",47,Renter-occupied,"57,334","+/-3,368",21.1,+/-1.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",47.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",48,Average household size of owner-occupied unit,2.75,+/-0.03,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",49,Average household size of renter-occupied unit,2.17,+/-0.11,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",49.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",50,Occupied housing units,"271,228","+/-2,654","271,228",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",51,Moved in 2019 or later,"65,934","+/-3,590",24.3,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",52,Moved in 2015 to 2018,"64,662","+/-4,042",23.8,+/-1.5
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",53,Moved in 2010 to 2014,"31,434","+/-2,427",11.6,+/-0.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",54,Moved in 2000 to 2009,"49,433","+/-2,871",18.2,+/-1.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",55,Moved in 1990 to 1999,"34,262","+/-2,408",12.6,+/-0.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",56,Moved in 1989 and earlier,"25,503","+/-1,947",9.4,+/-0.7
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",56.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",57,Occupied housing units,"271,228","+/-2,654","271,228",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",58,No vehicles available,"10,114","+/-1,559",3.7,+/-0.6
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",59,1 vehicle available,"70,915","+/-3,494",26.1,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",60,2 vehicles available,"123,640","+/-4,175",45.6,+/-1.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",61,3 or more vehicles available,"66,559","+/-3,610",24.5,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",61.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",62,Occupied housing units,"271,228","+/-2,654","271,228",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",63,Utility gas,"214,536","+/-4,135",79.1,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",64,"Bottled, tank, or LP gas","11,687","+/-1,374",4.3,+/-0.5
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",65,Electricity,"39,637","+/-3,536",14.6,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",66,"Fuel oil, kerosene, etc.",690,+/-362,0.3,+/-0.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",67,Coal or coke,0,+/-157,0.0,+/-0.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",68,Wood,"1,178",+/-473,0.4,+/-0.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",69,Solar energy,78,+/-95,0.0,+/-0.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",70,Other fuel,"1,420",+/-447,0.5,+/-0.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",71,No fuel used,"2,002",+/-758,0.7,+/-0.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",71.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",72,Occupied housing units,"271,228","+/-2,654","271,228",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",73,Lacking complete plumbing facilities,608,+/-505,0.2,+/-0.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",74,Lacking complete kitchen facilities,886,+/-574,0.3,+/-0.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",75,No telephone service available,"1,430",+/-782,0.5,+/-0.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",75.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",76,Occupied housing units,"271,228","+/-2,654","271,228",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",77,1.00 or less,"267,448","+/-2,964",98.6,+/-0.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",78,1.01 to 1.50,"2,962","+/-1,033",1.1,+/-0.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",79,1.51 or more,818,+/-469,0.3,+/-0.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",79.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",79.5,VALUE,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",80,Owner-occupied units,"213,894","+/-3,381","213,894",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",81,"Less than $50,000","7,660","+/-1,336",3.6,+/-0.6
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",82,"$50,000 to $99,999","3,167",+/-988,1.5,+/-0.5
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",83,"$100,000 to $149,999","3,780",+/-819,1.8,+/-0.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",84,"$150,000 to $199,999","11,264","+/-1,509",5.3,+/-0.7
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",85,"$200,000 to $299,999","58,891","+/-2,912",27.5,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",86,"$300,000 to $499,999","92,593","+/-3,534",43.3,+/-1.5
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",87,"$500,000 to $999,999","34,813","+/-2,649",16.3,+/-1.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",88,"$1,000,000 or more","1,726",+/-480,0.8,+/-0.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",89,Median (dollars),"337,800","+/-4,940",(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",89.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",90,Owner-occupied units,"213,894","+/-3,381","213,894",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",91,Housing units with a mortgage,"151,340","+/-4,039",70.8,+/-1.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",92,Housing units without a mortgage,"62,554","+/-3,014",29.2,+/-1.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",92.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",93,Housing units with a mortgage,"151,340","+/-4,039","151,340",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",94,Less than $500,869,+/-382,0.6,+/-0.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",95,$500 to $999,"9,299","+/-1,528",6.1,+/-1.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",96,"$1,000 to $1,499","34,875","+/-2,658",23.0,+/-1.8
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",97,"$1,500 to $1,999","45,174","+/-3,124",29.8,+/-2.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",98,"$2,000 to $2,499","31,187","+/-2,837",20.6,+/-1.7
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",99,"$2,500 to $2,999","16,048","+/-2,082",10.6,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",100,"$3,000 or more","13,888","+/-1,678",9.2,+/-1.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",101,Median (dollars),"1,832",+/-33,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",101.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",102,Housing units without a mortgage,"62,554","+/-3,014","62,554",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",103,Less than $250,"2,219",+/-675,3.5,+/-1.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",104,$250 to $399,"5,561","+/-1,189",8.9,+/-1.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",105,$400 to $599,"18,821","+/-1,726",30.1,+/-2.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",106,$600 to $799,"19,264","+/-1,616",30.8,+/-2.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",107,$800 to $999,"9,793","+/-1,437",15.7,+/-2.1
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",108,"$1,000 or more","6,896","+/-1,010",11.0,+/-1.6
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",109,Median (dollars),645,+/-14,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",109.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"150,996","+/-4,028","150,996",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",111,Less than 20.0 percent,"80,787","+/-3,475",53.5,+/-1.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",112,20.0 to 24.9 percent,"23,143","+/-2,268",15.3,+/-1.5
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",113,25.0 to 29.9 percent,"16,406","+/-2,259",10.9,+/-1.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",114,30.0 to 34.9 percent,"9,558","+/-1,501",6.3,+/-1.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",115,35.0 percent or more,"21,102","+/-2,200",14.0,+/-1.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",115.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",116,Not computed,344,+/-352,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",116.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"62,365","+/-3,002","62,365",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",118,Less than 10.0 percent,"32,120","+/-2,501",51.5,+/-3.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",119,10.0 to 14.9 percent,"13,295","+/-1,553",21.3,+/-2.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",120,15.0 to 19.9 percent,"5,870","+/-1,243",9.4,+/-1.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",121,20.0 to 24.9 percent,"2,997",+/-745,4.8,+/-1.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",122,25.0 to 29.9 percent,"1,564",+/-532,2.5,+/-0.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",123,30.0 to 34.9 percent,"1,029",+/-362,1.6,+/-0.6
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",124,35.0 percent or more,"5,490","+/-1,113",8.8,+/-1.7
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",124.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",125,Not computed,189,+/-141,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",125.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",125.5,GROSS RENT,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",126,Occupied units paying rent,"55,951","+/-3,348","55,951",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",127,Less than $500,"2,875",+/-692,5.1,+/-1.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",128,$500 to $999,"12,165","+/-1,945",21.7,+/-3.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",129,"$1,000 to $1,499","22,488","+/-2,446",40.2,+/-3.5
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",130,"$1,500 to $1,999","12,971","+/-2,215",23.2,+/-3.7
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",131,"$2,000 to $2,499","3,723","+/-1,184",6.7,+/-2.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",132,"$2,500 to $2,999",771,+/-496,1.4,+/-0.9
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",133,"$3,000 or more",958,+/-525,1.7,+/-1.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",134,Median (dollars),"1,275",+/-55,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",134.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",135,No rent paid,"1,383",+/-536,(X),(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",135.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"55,026","+/-3,319","55,026",(X)
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",137,Less than 15.0 percent,"5,356","+/-1,303",9.7,+/-2.3
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",138,15.0 to 19.9 percent,"8,122","+/-1,634",14.8,+/-3.0
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",139,20.0 to 24.9 percent,"7,745","+/-1,605",14.1,+/-2.8
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",140,25.0 to 29.9 percent,"7,067","+/-1,574",12.8,+/-2.7
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",141,30.0 to 34.9 percent,"5,613","+/-1,339",10.2,+/-2.4
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",142,35.0 percent or more,"21,123","+/-2,756",38.4,+/-4.2
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",142.3,,,,,
+DP04,5001800US2702,"Congressional District 2 (118th Congress), Minnesota",143,Not computed,"2,308",+/-723,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",0.5,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",1,Total housing units,"297,752","+/-4,109","297,752",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",2,Occupied housing units,"283,792","+/-4,205",95.3,+/-0.9
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",3,Vacant housing units,"13,960","+/-2,705",4.7,+/-0.9
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",3.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",5,Rental vacancy rate,3.9,+/-1.3,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",5.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",6,Total housing units,"297,752","+/-4,109","297,752",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",7,"1-unit, detached","176,446","+/-4,194",59.3,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",8,"1-unit, attached","39,272","+/-2,688",13.2,+/-0.9
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",9,2 units,"1,945",+/-802,0.7,+/-0.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",10,3 or 4 units,"4,521","+/-1,464",1.5,+/-0.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",11,5 to 9 units,"4,956","+/-1,221",1.7,+/-0.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",12,10 to 19 units,"9,774","+/-1,664",3.3,+/-0.6
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",13,20 or more units,"59,514","+/-3,593",20.0,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",14,Mobile home,"1,174",+/-702,0.4,+/-0.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",15,"Boat, RV, van, etc.",150,+/-251,0.1,+/-0.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",15.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",16,Total housing units,"297,752","+/-4,109","297,752",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",17,Built 2020 or later,"2,358",+/-873,0.8,+/-0.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",18,Built 2010 to 2019,"25,075","+/-2,557",8.4,+/-0.8
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",19,Built 2000 to 2009,"29,534","+/-2,754",9.9,+/-0.9
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",20,Built 1990 to 1999,"45,898","+/-3,329",15.4,+/-1.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",21,Built 1980 to 1989,"57,128","+/-4,157",19.2,+/-1.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",22,Built 1970 to 1979,"56,173","+/-3,453",18.9,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",23,Built 1960 to 1969,"34,341","+/-2,290",11.5,+/-0.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",24,Built 1950 to 1959,"29,199","+/-2,530",9.8,+/-0.8
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",25,Built 1940 to 1949,"6,193","+/-1,238",2.1,+/-0.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",26,Built 1939 or earlier,"11,853","+/-1,843",4.0,+/-0.6
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",26.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",26.5,ROOMS,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",27,Total housing units,"297,752","+/-4,109","297,752",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",28,1 room,"3,963","+/-1,381",1.3,+/-0.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",29,2 rooms,"9,972","+/-1,756",3.3,+/-0.6
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",30,3 rooms,"25,740","+/-2,451",8.6,+/-0.8
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",31,4 rooms,"35,563","+/-2,950",11.9,+/-1.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",32,5 rooms,"37,266","+/-3,368",12.5,+/-1.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",33,6 rooms,"37,507","+/-3,143",12.6,+/-1.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",34,7 rooms,"32,778","+/-2,958",11.0,+/-1.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",35,8 rooms,"36,079","+/-2,910",12.1,+/-1.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",36,9 rooms or more,"78,884","+/-3,670",26.5,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",37,Median rooms,6.5,+/-0.2,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",37.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",37.5,BEDROOMS,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",38,Total housing units,"297,752","+/-4,109","297,752",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",39,No bedroom,"4,140","+/-1,353",1.4,+/-0.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",40,1 bedroom,"33,864","+/-3,058",11.4,+/-1.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",41,2 bedrooms,"75,000","+/-3,609",25.2,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",42,3 bedrooms,"79,445","+/-3,674",26.7,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",43,4 bedrooms,"73,779","+/-3,158",24.8,+/-1.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",44,5 or more bedrooms,"31,524","+/-2,954",10.6,+/-1.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",44.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",44.5,HOUSING TENURE,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",45,Occupied housing units,"283,792","+/-4,205","283,792",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",46,Owner-occupied,"208,347","+/-4,669",73.4,+/-1.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",47,Renter-occupied,"75,445","+/-4,109",26.6,+/-1.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",47.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",48,Average household size of owner-occupied unit,2.63,+/-0.05,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",49,Average household size of renter-occupied unit,2.03,+/-0.10,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",49.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",50,Occupied housing units,"283,792","+/-4,205","283,792",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",51,Moved in 2019 or later,"71,103","+/-4,476",25.1,+/-1.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",52,Moved in 2015 to 2018,"65,870","+/-3,406",23.2,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",53,Moved in 2010 to 2014,"36,995","+/-2,932",13.0,+/-1.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",54,Moved in 2000 to 2009,"46,749","+/-3,070",16.5,+/-1.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",55,Moved in 1990 to 1999,"33,330","+/-2,760",11.7,+/-1.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",56,Moved in 1989 and earlier,"29,745","+/-2,428",10.5,+/-0.8
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",56.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",57,Occupied housing units,"283,792","+/-4,205","283,792",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",58,No vehicles available,"14,578","+/-2,217",5.1,+/-0.8
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",59,1 vehicle available,"89,656","+/-4,675",31.6,+/-1.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",60,2 vehicles available,"123,049","+/-4,616",43.4,+/-1.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",61,3 or more vehicles available,"56,509","+/-3,384",19.9,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",61.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",62,Occupied housing units,"283,792","+/-4,205","283,792",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",63,Utility gas,"225,605","+/-4,872",79.5,+/-1.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",64,"Bottled, tank, or LP gas","5,258","+/-1,234",1.9,+/-0.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",65,Electricity,"46,528","+/-3,609",16.4,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",66,"Fuel oil, kerosene, etc.",884,+/-485,0.3,+/-0.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",67,Coal or coke,144,+/-190,0.1,+/-0.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",68,Wood,521,+/-525,0.2,+/-0.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",69,Solar energy,0,+/-157,0.0,+/-0.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",70,Other fuel,"2,078",+/-796,0.7,+/-0.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",71,No fuel used,"2,774",+/-919,1.0,+/-0.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",71.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",72,Occupied housing units,"283,792","+/-4,205","283,792",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",73,Lacking complete plumbing facilities,"1,416",+/-743,0.5,+/-0.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",74,Lacking complete kitchen facilities,"2,045",+/-762,0.7,+/-0.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",75,No telephone service available,"1,891",+/-709,0.7,+/-0.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",75.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",76,Occupied housing units,"283,792","+/-4,205","283,792",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",77,1.00 or less,"279,533","+/-4,177",98.5,+/-0.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",78,1.01 to 1.50,"2,920",+/-939,1.0,+/-0.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",79,1.51 or more,"1,339",+/-649,0.5,+/-0.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",79.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",79.5,VALUE,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",80,Owner-occupied units,"208,347","+/-4,669","208,347",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",81,"Less than $50,000","4,284",+/-918,2.1,+/-0.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",82,"$50,000 to $99,999","1,905",+/-552,0.9,+/-0.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",83,"$100,000 to $149,999","4,212","+/-1,051",2.0,+/-0.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",84,"$150,000 to $199,999","10,984","+/-1,590",5.3,+/-0.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",85,"$200,000 to $299,999","49,992","+/-3,659",24.0,+/-1.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",86,"$300,000 to $499,999","82,819","+/-3,828",39.8,+/-1.6
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",87,"$500,000 to $999,999","46,420","+/-2,964",22.3,+/-1.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",88,"$1,000,000 or more","7,731","+/-1,213",3.7,+/-0.6
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",89,Median (dollars),"364,100","+/-6,746",(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",89.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",90,Owner-occupied units,"208,347","+/-4,669","208,347",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",91,Housing units with a mortgage,"140,853","+/-4,103",67.6,+/-1.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",92,Housing units without a mortgage,"67,494","+/-3,565",32.4,+/-1.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",92.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",93,Housing units with a mortgage,"140,853","+/-4,103","140,853",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",94,Less than $500,589,+/-322,0.4,+/-0.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",95,$500 to $999,"6,429","+/-1,273",4.6,+/-0.9
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",96,"$1,000 to $1,499","26,698","+/-2,536",19.0,+/-1.6
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",97,"$1,500 to $1,999","38,277","+/-2,910",27.2,+/-2.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",98,"$2,000 to $2,499","27,443","+/-2,641",19.5,+/-1.8
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",99,"$2,500 to $2,999","16,781","+/-1,863",11.9,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",100,"$3,000 or more","24,636","+/-2,550",17.5,+/-1.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",101,Median (dollars),"1,978",+/-43,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",101.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",102,Housing units without a mortgage,"67,494","+/-3,565","67,494",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",103,Less than $250,"1,917",+/-829,2.8,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",104,$250 to $399,"3,469","+/-1,002",5.1,+/-1.5
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",105,$400 to $599,"16,897","+/-2,089",25.0,+/-2.6
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",106,$600 to $799,"19,882","+/-2,106",29.5,+/-2.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",107,$800 to $999,"13,560","+/-1,656",20.1,+/-2.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",108,"$1,000 or more","11,769","+/-1,308",17.4,+/-1.9
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",109,Median (dollars),714,+/-20,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",109.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"140,399","+/-4,069","140,399",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",111,Less than 20.0 percent,"73,376","+/-3,875",52.3,+/-2.3
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",112,20.0 to 24.9 percent,"22,743","+/-2,499",16.2,+/-1.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",113,25.0 to 29.9 percent,"12,230","+/-1,823",8.7,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",114,30.0 to 34.9 percent,"8,434","+/-1,643",6.0,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",115,35.0 percent or more,"23,616","+/-2,405",16.8,+/-1.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",115.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",116,Not computed,454,+/-280,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",116.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"66,867","+/-3,545","66,867",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",118,Less than 10.0 percent,"34,069","+/-2,630",51.0,+/-2.8
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",119,10.0 to 14.9 percent,"12,375","+/-1,863",18.5,+/-2.6
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",120,15.0 to 19.9 percent,"6,636","+/-1,466",9.9,+/-2.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",121,20.0 to 24.9 percent,"3,936",+/-976,5.9,+/-1.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",122,25.0 to 29.9 percent,"1,407",+/-509,2.1,+/-0.8
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",123,30.0 to 34.9 percent,"1,432",+/-500,2.1,+/-0.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",124,35.0 percent or more,"7,012","+/-1,167",10.5,+/-1.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",124.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",125,Not computed,627,+/-335,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",125.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",125.5,GROSS RENT,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",126,Occupied units paying rent,"72,688","+/-4,272","72,688",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",127,Less than $500,"3,858","+/-1,244",5.3,+/-1.7
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",128,$500 to $999,"9,291","+/-1,720",12.8,+/-2.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",129,"$1,000 to $1,499","29,034","+/-3,413",39.9,+/-3.9
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",130,"$1,500 to $1,999","18,525","+/-2,275",25.5,+/-3.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",131,"$2,000 to $2,499","7,506","+/-1,600",10.3,+/-2.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",132,"$2,500 to $2,999","2,436",+/-796,3.4,+/-1.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",133,"$3,000 or more","2,038",+/-913,2.8,+/-1.2
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",134,Median (dollars),"1,401",+/-38,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",134.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",135,No rent paid,"2,757",+/-989,(X),(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",135.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"71,602","+/-4,257","71,602",(X)
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",137,Less than 15.0 percent,"7,944","+/-1,619",11.1,+/-2.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",138,15.0 to 19.9 percent,"9,457","+/-1,478",13.2,+/-2.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",139,20.0 to 24.9 percent,"11,849","+/-1,868",16.5,+/-2.4
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",140,25.0 to 29.9 percent,"7,649","+/-1,417",10.7,+/-2.0
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",141,30.0 to 34.9 percent,"6,910","+/-1,411",9.7,+/-1.9
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",142,35.0 percent or more,"27,793","+/-2,983",38.8,+/-3.1
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",142.3,,,,,
+DP04,5001800US2703,"Congressional District 3 (118th Congress), Minnesota",143,Not computed,"3,843","+/-1,070",(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",0.5,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",1,Total housing units,"296,391","+/-2,069","296,391",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",2,Occupied housing units,"280,487","+/-2,950",94.6,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",3,Vacant housing units,"15,904","+/-2,644",5.4,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",3.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",4,Homeowner vacancy rate,0.7,+/-0.4,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",5,Rental vacancy rate,8.8,+/-2.0,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",5.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",6,Total housing units,"296,391","+/-2,069","296,391",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",7,"1-unit, detached","165,700","+/-3,526",55.9,+/-1.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",8,"1-unit, attached","30,600","+/-2,704",10.3,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",9,2 units,"9,990","+/-1,713",3.4,+/-0.6
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",10,3 or 4 units,"7,229","+/-1,267",2.4,+/-0.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",11,5 to 9 units,"9,844","+/-1,624",3.3,+/-0.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",12,10 to 19 units,"13,973","+/-2,027",4.7,+/-0.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",13,20 or more units,"55,433","+/-3,396",18.7,+/-1.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",14,Mobile home,"3,560","+/-1,019",1.2,+/-0.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",15,"Boat, RV, van, etc.",62,+/-91,0.0,+/-0.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",15.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",16,Total housing units,"296,391","+/-2,069","296,391",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",17,Built 2020 or later,"1,117",+/-548,0.4,+/-0.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",18,Built 2010 to 2019,"17,398","+/-1,977",5.9,+/-0.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",19,Built 2000 to 2009,"28,952","+/-2,571",9.8,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",20,Built 1990 to 1999,"34,001","+/-2,838",11.5,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",21,Built 1980 to 1989,"37,968","+/-2,573",12.8,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",22,Built 1970 to 1979,"38,399","+/-2,987",13.0,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",23,Built 1960 to 1969,"31,575","+/-2,960",10.7,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",24,Built 1950 to 1959,"32,643","+/-2,609",11.0,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",25,Built 1940 to 1949,"12,618","+/-1,486",4.3,+/-0.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",26,Built 1939 or earlier,"61,720","+/-2,701",20.8,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",26.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",26.5,ROOMS,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",27,Total housing units,"296,391","+/-2,069","296,391",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",28,1 room,"8,176","+/-1,445",2.8,+/-0.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",29,2 rooms,"8,770","+/-1,559",3.0,+/-0.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",30,3 rooms,"35,193","+/-2,961",11.9,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",31,4 rooms,"41,780","+/-3,575",14.1,+/-1.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",32,5 rooms,"39,050","+/-2,900",13.2,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",33,6 rooms,"42,466","+/-2,983",14.3,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",34,7 rooms,"36,361","+/-2,855",12.3,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",35,8 rooms,"29,983","+/-2,525",10.1,+/-0.8
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",36,9 rooms or more,"54,612","+/-2,789",18.4,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",37,Median rooms,5.9,+/-0.2,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",37.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",37.5,BEDROOMS,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",38,Total housing units,"296,391","+/-2,069","296,391",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",39,No bedroom,"9,609","+/-1,507",3.2,+/-0.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",40,1 bedroom,"45,978","+/-3,322",15.5,+/-1.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",41,2 bedrooms,"78,102","+/-3,888",26.4,+/-1.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",42,3 bedrooms,"88,575","+/-4,277",29.9,+/-1.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",43,4 bedrooms,"55,663","+/-3,079",18.8,+/-1.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",44,5 or more bedrooms,"18,464","+/-2,187",6.2,+/-0.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",44.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",44.5,HOUSING TENURE,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",45,Occupied housing units,"280,487","+/-2,950","280,487",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",46,Owner-occupied,"186,085","+/-3,275",66.3,+/-1.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",47,Renter-occupied,"94,402","+/-3,468",33.7,+/-1.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",47.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",48,Average household size of owner-occupied unit,2.65,+/-0.04,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",49,Average household size of renter-occupied unit,2.07,+/-0.07,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",49.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",50,Occupied housing units,"280,487","+/-2,950","280,487",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",51,Moved in 2019 or later,"74,230","+/-4,124",26.5,+/-1.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",52,Moved in 2015 to 2018,"70,049","+/-3,686",25.0,+/-1.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",53,Moved in 2010 to 2014,"33,002","+/-2,672",11.8,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",54,Moved in 2000 to 2009,"41,334","+/-3,250",14.7,+/-1.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",55,Moved in 1990 to 1999,"31,777","+/-2,844",11.3,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",56,Moved in 1989 and earlier,"30,095","+/-1,690",10.7,+/-0.6
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",56.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",57,Occupied housing units,"280,487","+/-2,950","280,487",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",58,No vehicles available,"24,061","+/-2,460",8.6,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",59,1 vehicle available,"95,947","+/-3,944",34.2,+/-1.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",60,2 vehicles available,"111,614","+/-3,962",39.8,+/-1.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",61,3 or more vehicles available,"48,865","+/-3,237",17.4,+/-1.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",61.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",62,Occupied housing units,"280,487","+/-2,950","280,487",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",63,Utility gas,"202,583","+/-4,643",72.2,+/-1.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",64,"Bottled, tank, or LP gas","4,819","+/-1,067",1.7,+/-0.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",65,Electricity,"64,175","+/-3,773",22.9,+/-1.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",66,"Fuel oil, kerosene, etc.",970,+/-459,0.3,+/-0.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",67,Coal or coke,0,+/-157,0.0,+/-0.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",68,Wood,"1,226",+/-590,0.4,+/-0.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",69,Solar energy,168,+/-200,0.1,+/-0.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",70,Other fuel,"2,531",+/-988,0.9,+/-0.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",71,No fuel used,"4,015","+/-1,104",1.4,+/-0.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",71.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",72,Occupied housing units,"280,487","+/-2,950","280,487",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",73,Lacking complete plumbing facilities,527,+/-328,0.2,+/-0.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",74,Lacking complete kitchen facilities,"2,662","+/-1,139",0.9,+/-0.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",75,No telephone service available,"1,551",+/-749,0.6,+/-0.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",75.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",76,Occupied housing units,"280,487","+/-2,950","280,487",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",77,1.00 or less,"270,719","+/-3,128",96.5,+/-0.6
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",78,1.01 to 1.50,"5,693","+/-1,279",2.0,+/-0.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",79,1.51 or more,"4,075","+/-1,092",1.5,+/-0.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",79.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",79.5,VALUE,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",80,Owner-occupied units,"186,085","+/-3,275","186,085",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",81,"Less than $50,000","6,761","+/-1,358",3.6,+/-0.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",82,"$50,000 to $99,999","2,031",+/-605,1.1,+/-0.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",83,"$100,000 to $149,999","7,460","+/-1,415",4.0,+/-0.8
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",84,"$150,000 to $199,999","16,217","+/-2,098",8.7,+/-1.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",85,"$200,000 to $299,999","53,657","+/-3,098",28.8,+/-1.6
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",86,"$300,000 to $499,999","70,850","+/-3,138",38.1,+/-1.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",87,"$500,000 to $999,999","26,182","+/-1,965",14.1,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",88,"$1,000,000 or more","2,927",+/-733,1.6,+/-0.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",89,Median (dollars),"315,100","+/-5,382",(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",89.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",90,Owner-occupied units,"186,085","+/-3,275","186,085",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",91,Housing units with a mortgage,"123,816","+/-3,890",66.5,+/-1.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",92,Housing units without a mortgage,"62,269","+/-3,197",33.5,+/-1.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",92.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",93,Housing units with a mortgage,"123,816","+/-3,890","123,816",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",94,Less than $500,627,+/-348,0.5,+/-0.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",95,$500 to $999,"7,965","+/-1,405",6.4,+/-1.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",96,"$1,000 to $1,499","30,616","+/-2,940",24.7,+/-2.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",97,"$1,500 to $1,999","38,210","+/-2,702",30.9,+/-1.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",98,"$2,000 to $2,499","21,701","+/-1,737",17.5,+/-1.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",99,"$2,500 to $2,999","11,800","+/-1,510",9.5,+/-1.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",100,"$3,000 or more","12,897","+/-1,692",10.4,+/-1.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",101,Median (dollars),"1,782",+/-37,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",101.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",102,Housing units without a mortgage,"62,269","+/-3,197","62,269",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",103,Less than $250,"1,292",+/-469,2.1,+/-0.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",104,$250 to $399,"5,448","+/-1,081",8.7,+/-1.6
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",105,$400 to $599,"17,745","+/-1,950",28.5,+/-2.6
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",106,$600 to $799,"18,368","+/-1,608",29.5,+/-2.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",107,$800 to $999,"11,064","+/-1,533",17.8,+/-2.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",108,"$1,000 or more","8,352","+/-1,347",13.4,+/-2.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",109,Median (dollars),664,+/-15,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",109.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"123,660","+/-3,873","123,660",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",111,Less than 20.0 percent,"63,288","+/-3,351",51.2,+/-2.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",112,20.0 to 24.9 percent,"18,810","+/-2,047",15.2,+/-1.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",113,25.0 to 29.9 percent,"10,974","+/-1,627",8.9,+/-1.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",114,30.0 to 34.9 percent,"8,233","+/-1,413",6.7,+/-1.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",115,35.0 percent or more,"22,355","+/-2,364",18.1,+/-1.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",115.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",116,Not computed,156,+/-180,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",116.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"61,933","+/-3,192","61,933",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",118,Less than 10.0 percent,"27,727","+/-2,400",44.8,+/-3.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",119,10.0 to 14.9 percent,"14,644","+/-1,491",23.6,+/-2.3
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",120,15.0 to 19.9 percent,"7,480","+/-1,394",12.1,+/-2.1
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",121,20.0 to 24.9 percent,"2,904",+/-593,4.7,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",122,25.0 to 29.9 percent,"2,137",+/-647,3.5,+/-1.0
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",123,30.0 to 34.9 percent,"1,381",+/-550,2.2,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",124,35.0 percent or more,"5,660","+/-1,147",9.1,+/-1.8
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",124.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",125,Not computed,336,+/-231,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",125.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",125.5,GROSS RENT,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",126,Occupied units paying rent,"91,699","+/-3,501","91,699",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",127,Less than $500,"8,468","+/-1,437",9.2,+/-1.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",128,$500 to $999,"21,006","+/-2,241",22.9,+/-2.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",129,"$1,000 to $1,499","38,132","+/-2,920",41.6,+/-2.8
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",130,"$1,500 to $1,999","16,831","+/-2,115",18.4,+/-2.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",131,"$2,000 to $2,499","4,834","+/-1,270",5.3,+/-1.4
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",132,"$2,500 to $2,999",866,+/-454,0.9,+/-0.5
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",133,"$3,000 or more","1,562",+/-834,1.7,+/-0.9
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",134,Median (dollars),"1,179",+/-24,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",134.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",135,No rent paid,"2,703",+/-959,(X),(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",135.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"89,765","+/-3,433","89,765",(X)
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",137,Less than 15.0 percent,"10,532","+/-1,507",11.7,+/-1.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",138,15.0 to 19.9 percent,"10,516","+/-1,630",11.7,+/-1.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",139,20.0 to 24.9 percent,"13,590","+/-2,049",15.1,+/-2.2
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",140,25.0 to 29.9 percent,"11,661","+/-1,642",13.0,+/-1.7
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",141,30.0 to 34.9 percent,"9,807","+/-1,736",10.9,+/-1.8
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",142,35.0 percent or more,"33,659","+/-2,676",37.5,+/-2.6
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",142.3,,,,,
+DP04,5001800US2704,"Congressional District 4 (118th Congress), Minnesota",143,Not computed,"4,637","+/-1,326",(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",0.5,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",1,Total housing units,"327,491","+/-3,978","327,491",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",2,Occupied housing units,"306,099","+/-4,117",93.5,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",3,Vacant housing units,"21,392","+/-2,445",6.5,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",3.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",4,Homeowner vacancy rate,0.7,+/-0.3,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",5,Rental vacancy rate,7.3,+/-1.4,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",5.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",6,Total housing units,"327,491","+/-3,978","327,491",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",7,"1-unit, detached","157,609","+/-3,916",48.1,+/-1.0
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",8,"1-unit, attached","15,316","+/-1,903",4.7,+/-0.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",9,2 units,"16,600","+/-2,197",5.1,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",10,3 or 4 units,"9,453","+/-1,713",2.9,+/-0.5
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",11,5 to 9 units,"10,247","+/-2,005",3.1,+/-0.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",12,10 to 19 units,"19,792","+/-2,481",6.0,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",13,20 or more units,"96,983","+/-3,949",29.6,+/-1.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",14,Mobile home,"1,491",+/-605,0.5,+/-0.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",15,"Boat, RV, van, etc.",0,+/-157,0.0,+/-0.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",15.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",16,Total housing units,"327,491","+/-3,978","327,491",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",17,Built 2020 or later,698,+/-484,0.2,+/-0.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",18,Built 2010 to 2019,"25,241","+/-2,409",7.7,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",19,Built 2000 to 2009,"22,185","+/-2,275",6.8,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",20,Built 1990 to 1999,"11,941","+/-1,558",3.6,+/-0.5
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",21,Built 1980 to 1989,"24,691","+/-2,494",7.5,+/-0.8
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",22,Built 1970 to 1979,"30,741","+/-2,680",9.4,+/-0.8
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",23,Built 1960 to 1969,"42,161","+/-2,902",12.9,+/-0.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",24,Built 1950 to 1959,"50,630","+/-2,698",15.5,+/-0.8
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",25,Built 1940 to 1949,"22,244","+/-2,246",6.8,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",26,Built 1939 or earlier,"96,959","+/-4,270",29.6,+/-1.3
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",26.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",26.5,ROOMS,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",27,Total housing units,"327,491","+/-3,978","327,491",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",28,1 room,"20,316","+/-2,778",6.2,+/-0.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",29,2 rooms,"20,119","+/-2,272",6.1,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",30,3 rooms,"50,672","+/-3,783",15.5,+/-1.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",31,4 rooms,"47,032","+/-3,044",14.4,+/-0.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",32,5 rooms,"39,203","+/-2,789",12.0,+/-0.8
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",33,6 rooms,"47,696","+/-3,524",14.6,+/-1.0
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",34,7 rooms,"34,407","+/-2,309",10.5,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",35,8 rooms,"24,613","+/-2,258",7.5,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",36,9 rooms or more,"43,433","+/-2,507",13.3,+/-0.8
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",37,Median rooms,5.2,+/-0.2,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",37.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",37.5,BEDROOMS,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",38,Total housing units,"327,491","+/-3,978","327,491",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",39,No bedroom,"22,864","+/-2,754",7.0,+/-0.8
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",40,1 bedroom,"71,150","+/-4,254",21.7,+/-1.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",41,2 bedrooms,"86,372","+/-4,234",26.4,+/-1.3
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",42,3 bedrooms,"88,876","+/-4,093",27.1,+/-1.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",43,4 bedrooms,"45,054","+/-3,075",13.8,+/-0.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",44,5 or more bedrooms,"13,175","+/-1,701",4.0,+/-0.5
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",44.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",44.5,HOUSING TENURE,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",45,Occupied housing units,"306,099","+/-4,117","306,099",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",46,Owner-occupied,"170,653","+/-5,193",55.8,+/-1.4
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",47,Renter-occupied,"135,446","+/-4,411",44.2,+/-1.4
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",47.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",48,Average household size of owner-occupied unit,2.44,+/-0.05,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",49,Average household size of renter-occupied unit,2.01,+/-0.06,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",49.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",50,Occupied housing units,"306,099","+/-4,117","306,099",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",51,Moved in 2019 or later,"107,185","+/-4,488",35.0,+/-1.4
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",52,Moved in 2015 to 2018,"64,281","+/-4,079",21.0,+/-1.3
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",53,Moved in 2010 to 2014,"39,561","+/-2,901",12.9,+/-0.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",54,Moved in 2000 to 2009,"41,201","+/-2,983",13.5,+/-1.0
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",55,Moved in 1990 to 1999,"27,079","+/-2,164",8.8,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",56,Moved in 1989 and earlier,"26,792","+/-2,250",8.8,+/-0.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",56.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",57,Occupied housing units,"306,099","+/-4,117","306,099",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",58,No vehicles available,"37,606","+/-3,199",12.3,+/-1.0
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",59,1 vehicle available,"126,359","+/-5,579",41.3,+/-1.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",60,2 vehicles available,"104,899","+/-4,330",34.3,+/-1.3
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",61,3 or more vehicles available,"37,235","+/-2,630",12.2,+/-0.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",61.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",62,Occupied housing units,"306,099","+/-4,117","306,099",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",63,Utility gas,"220,074","+/-5,461",71.9,+/-1.3
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",64,"Bottled, tank, or LP gas","5,493","+/-1,345",1.8,+/-0.4
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",65,Electricity,"72,067","+/-4,048",23.5,+/-1.4
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",66,"Fuel oil, kerosene, etc.",756,+/-389,0.2,+/-0.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",67,Coal or coke,0,+/-157,0.0,+/-0.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",68,Wood,265,+/-209,0.1,+/-0.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",69,Solar energy,266,+/-220,0.1,+/-0.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",70,Other fuel,"3,307",+/-929,1.1,+/-0.3
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",71,No fuel used,"3,871","+/-1,159",1.3,+/-0.4
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",71.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",72,Occupied housing units,"306,099","+/-4,117","306,099",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",73,Lacking complete plumbing facilities,686,+/-465,0.2,+/-0.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",74,Lacking complete kitchen facilities,"1,313",+/-723,0.4,+/-0.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",75,No telephone service available,"2,077","+/-1,000",0.7,+/-0.3
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",75.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",76,Occupied housing units,"306,099","+/-4,117","306,099",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",77,1.00 or less,"294,550","+/-5,446",96.2,+/-0.8
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",78,1.01 to 1.50,"5,907","+/-1,690",1.9,+/-0.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",79,1.51 or more,"5,642","+/-1,791",1.8,+/-0.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",79.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",79.5,VALUE,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",80,Owner-occupied units,"170,653","+/-5,193","170,653",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",81,"Less than $50,000","3,932",+/-898,2.3,+/-0.5
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",82,"$50,000 to $99,999","2,160",+/-784,1.3,+/-0.5
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",83,"$100,000 to $149,999","6,636","+/-1,384",3.9,+/-0.8
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",84,"$150,000 to $199,999","14,570","+/-1,699",8.5,+/-0.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",85,"$200,000 to $299,999","56,204","+/-3,470",32.9,+/-1.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",86,"$300,000 to $499,999","62,495","+/-3,663",36.6,+/-1.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",87,"$500,000 to $999,999","19,781","+/-2,078",11.6,+/-1.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",88,"$1,000,000 or more","4,875",+/-881,2.9,+/-0.5
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",89,Median (dollars),"304,200","+/-6,877",(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",89.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",90,Owner-occupied units,"170,653","+/-5,193","170,653",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",91,Housing units with a mortgage,"121,370","+/-4,548",71.1,+/-1.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",92,Housing units without a mortgage,"49,283","+/-3,163",28.9,+/-1.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",92.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",93,Housing units with a mortgage,"121,370","+/-4,548","121,370",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",94,Less than $500,964,+/-441,0.8,+/-0.4
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",95,$500 to $999,"6,451","+/-1,192",5.3,+/-0.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",96,"$1,000 to $1,499","30,668","+/-3,088",25.3,+/-2.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",97,"$1,500 to $1,999","41,462","+/-2,600",34.2,+/-1.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",98,"$2,000 to $2,499","20,625","+/-2,054",17.0,+/-1.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",99,"$2,500 to $2,999","9,158","+/-1,255",7.5,+/-1.0
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",100,"$3,000 or more","12,042","+/-1,377",9.9,+/-1.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",101,Median (dollars),"1,754",+/-31,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",101.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",102,Housing units without a mortgage,"49,283","+/-3,163","49,283",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",103,Less than $250,"1,737",+/-867,3.5,+/-1.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",104,$250 to $399,"3,508",+/-949,7.1,+/-1.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",105,$400 to $599,"14,087","+/-1,387",28.6,+/-2.5
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",106,$600 to $799,"14,833","+/-1,672",30.1,+/-2.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",107,$800 to $999,"7,227","+/-1,200",14.7,+/-2.3
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",108,"$1,000 or more","7,891","+/-1,259",16.0,+/-2.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",109,Median (dollars),666,+/-18,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",109.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"120,696","+/-4,571","120,696",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",111,Less than 20.0 percent,"59,782","+/-3,337",49.5,+/-2.0
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",112,20.0 to 24.9 percent,"17,950","+/-1,957",14.9,+/-1.5
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",113,25.0 to 29.9 percent,"13,497","+/-1,771",11.2,+/-1.4
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",114,30.0 to 34.9 percent,"8,283","+/-1,318",6.9,+/-1.0
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",115,35.0 percent or more,"21,184","+/-2,580",17.6,+/-2.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",115.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",116,Not computed,674,+/-485,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",116.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"48,693","+/-3,096","48,693",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",118,Less than 10.0 percent,"20,667","+/-2,407",42.4,+/-3.3
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",119,10.0 to 14.9 percent,"9,706","+/-1,329",19.9,+/-2.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",120,15.0 to 19.9 percent,"5,732","+/-1,016",11.8,+/-1.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",121,20.0 to 24.9 percent,"3,690",+/-761,7.6,+/-1.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",122,25.0 to 29.9 percent,"1,713",+/-505,3.5,+/-1.0
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",123,30.0 to 34.9 percent,"1,923",+/-594,3.9,+/-1.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",124,35.0 percent or more,"5,262","+/-1,083",10.8,+/-2.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",124.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",125,Not computed,590,+/-359,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",125.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",125.5,GROSS RENT,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",126,Occupied units paying rent,"131,438","+/-4,330","131,438",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",127,Less than $500,"12,160","+/-1,558",9.3,+/-1.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",128,$500 to $999,"28,536","+/-2,956",21.7,+/-2.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",129,"$1,000 to $1,499","49,201","+/-3,736",37.4,+/-2.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",130,"$1,500 to $1,999","26,132","+/-2,930",19.9,+/-2.1
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",131,"$2,000 to $2,499","9,840","+/-1,627",7.5,+/-1.2
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",132,"$2,500 to $2,999","3,391","+/-1,126",2.6,+/-0.8
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",133,"$3,000 or more","2,178",+/-847,1.7,+/-0.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",134,Median (dollars),"1,237",+/-27,(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",134.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",135,No rent paid,"4,008","+/-1,192",(X),(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",135.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"129,904","+/-4,356","129,904",(X)
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",137,Less than 15.0 percent,"14,277","+/-2,012",11.0,+/-1.5
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",138,15.0 to 19.9 percent,"16,626","+/-2,198",12.8,+/-1.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",139,20.0 to 24.9 percent,"18,125","+/-2,591",14.0,+/-1.9
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",140,25.0 to 29.9 percent,"15,653","+/-1,995",12.0,+/-1.6
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",141,30.0 to 34.9 percent,"13,507","+/-2,146",10.4,+/-1.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",142,35.0 percent or more,"51,716","+/-4,277",39.8,+/-2.7
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",142.3,,,,,
+DP04,5001800US2705,"Congressional District 5 (118th Congress), Minnesota",143,Not computed,"5,542","+/-1,423",(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",0.5,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",1,Total housing units,"275,730","+/-2,863","275,730",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",2,Occupied housing units,"264,998","+/-3,098",96.1,+/-0.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",3,Vacant housing units,"10,732","+/-2,008",3.9,+/-0.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",3.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",4,Homeowner vacancy rate,0.2,+/-0.2,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",5,Rental vacancy rate,3.2,+/-1.9,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",5.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",6,Total housing units,"275,730","+/-2,863","275,730",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",7,"1-unit, detached","205,126","+/-4,268",74.4,+/-1.5
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",8,"1-unit, attached","23,828","+/-2,671",8.6,+/-1.0
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",9,2 units,"1,290",+/-735,0.5,+/-0.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",10,3 or 4 units,"2,734","+/-1,079",1.0,+/-0.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",11,5 to 9 units,"3,906","+/-1,110",1.4,+/-0.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",12,10 to 19 units,"7,861","+/-1,980",2.9,+/-0.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",13,20 or more units,"22,374","+/-2,841",8.1,+/-1.0
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",14,Mobile home,"8,481","+/-1,691",3.1,+/-0.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",15,"Boat, RV, van, etc.",130,+/-200,0.0,+/-0.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",15.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",16,Total housing units,"275,730","+/-2,863","275,730",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",17,Built 2020 or later,"2,561","+/-1,051",0.9,+/-0.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",18,Built 2010 to 2019,"32,981","+/-3,277",12.0,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",19,Built 2000 to 2009,"65,452","+/-4,129",23.7,+/-1.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",20,Built 1990 to 1999,"48,212","+/-3,294",17.5,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",21,Built 1980 to 1989,"36,764","+/-3,252",13.3,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",22,Built 1970 to 1979,"40,291","+/-3,068",14.6,+/-1.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",23,Built 1960 to 1969,"16,218","+/-1,878",5.9,+/-0.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",24,Built 1950 to 1959,"13,503","+/-1,987",4.9,+/-0.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",25,Built 1940 to 1949,"6,076","+/-1,296",2.2,+/-0.5
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",26,Built 1939 or earlier,"13,672","+/-1,861",5.0,+/-0.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",26.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",26.5,ROOMS,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",27,Total housing units,"275,730","+/-2,863","275,730",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",28,1 room,"2,840","+/-1,162",1.0,+/-0.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",29,2 rooms,"5,059","+/-1,509",1.8,+/-0.5
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",30,3 rooms,"16,391","+/-2,389",5.9,+/-0.9
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",31,4 rooms,"30,983","+/-3,167",11.2,+/-1.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",32,5 rooms,"32,151","+/-3,249",11.7,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",33,6 rooms,"41,977","+/-3,435",15.2,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",34,7 rooms,"40,169","+/-3,324",14.6,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",35,8 rooms,"34,838","+/-2,586",12.6,+/-1.0
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",36,9 rooms or more,"71,322","+/-3,522",25.9,+/-1.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",37,Median rooms,6.7,+/-0.1,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",37.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",37.5,BEDROOMS,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",38,Total housing units,"275,730","+/-2,863","275,730",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",39,No bedroom,"3,341","+/-1,181",1.2,+/-0.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",40,1 bedroom,"13,982","+/-2,279",5.1,+/-0.8
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",41,2 bedrooms,"54,168","+/-4,057",19.6,+/-1.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",42,3 bedrooms,"92,697","+/-4,647",33.6,+/-1.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",43,4 bedrooms,"84,944","+/-4,109",30.8,+/-1.5
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",44,5 or more bedrooms,"26,598","+/-2,583",9.6,+/-1.0
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",44.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",44.5,HOUSING TENURE,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",45,Occupied housing units,"264,998","+/-3,098","264,998",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",46,Owner-occupied,"212,946","+/-3,837",80.4,+/-1.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",47,Renter-occupied,"52,052","+/-3,550",19.6,+/-1.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",47.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",48,Average household size of owner-occupied unit,2.80,+/-0.04,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",49,Average household size of renter-occupied unit,2.25,+/-0.13,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",49.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",50,Occupied housing units,"264,998","+/-3,098","264,998",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",51,Moved in 2019 or later,"65,029","+/-3,726",24.5,+/-1.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",52,Moved in 2015 to 2018,"56,937","+/-3,376",21.5,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",53,Moved in 2010 to 2014,"34,755","+/-3,190",13.1,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",54,Moved in 2000 to 2009,"52,143","+/-3,649",19.7,+/-1.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",55,Moved in 1990 to 1999,"30,858","+/-2,466",11.6,+/-0.9
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",56,Moved in 1989 and earlier,"25,276","+/-2,244",9.5,+/-0.8
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",56.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",57,Occupied housing units,"264,998","+/-3,098","264,998",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",58,No vehicles available,"9,770","+/-1,565",3.7,+/-0.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",59,1 vehicle available,"61,845","+/-4,052",23.3,+/-1.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",60,2 vehicles available,"109,245","+/-4,067",41.2,+/-1.5
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",61,3 or more vehicles available,"84,138","+/-4,140",31.8,+/-1.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",61.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",62,Occupied housing units,"264,998","+/-3,098","264,998",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",63,Utility gas,"188,114","+/-3,849",71.0,+/-1.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",64,"Bottled, tank, or LP gas","20,103","+/-1,737",7.6,+/-0.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",65,Electricity,"48,490","+/-3,294",18.3,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",66,"Fuel oil, kerosene, etc.","1,630",+/-604,0.6,+/-0.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",67,Coal or coke,66,+/-112,0.0,+/-0.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",68,Wood,"2,495",+/-612,0.9,+/-0.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",69,Solar energy,129,+/-120,0.0,+/-0.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",70,Other fuel,"2,247",+/-714,0.8,+/-0.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",71,No fuel used,"1,724",+/-816,0.7,+/-0.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",71.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",72,Occupied housing units,"264,998","+/-3,098","264,998",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",73,Lacking complete plumbing facilities,795,+/-549,0.3,+/-0.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",74,Lacking complete kitchen facilities,"1,457",+/-659,0.5,+/-0.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",75,No telephone service available,"1,620",+/-762,0.6,+/-0.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",75.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",76,Occupied housing units,"264,998","+/-3,098","264,998",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",77,1.00 or less,"259,193","+/-3,418",97.8,+/-0.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",78,1.01 to 1.50,"3,589","+/-1,176",1.4,+/-0.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",79,1.51 or more,"2,216","+/-1,058",0.8,+/-0.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",79.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",79.5,VALUE,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",80,Owner-occupied units,"212,946","+/-3,837","212,946",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",81,"Less than $50,000","11,500","+/-2,109",5.4,+/-1.0
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",82,"$50,000 to $99,999","2,816",+/-813,1.3,+/-0.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",83,"$100,000 to $149,999","7,514","+/-1,206",3.5,+/-0.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",84,"$150,000 to $199,999","17,402","+/-2,053",8.2,+/-0.9
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",85,"$200,000 to $299,999","58,739","+/-3,555",27.6,+/-1.5
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",86,"$300,000 to $499,999","85,762","+/-3,273",40.3,+/-1.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",87,"$500,000 to $999,999","26,360","+/-2,331",12.4,+/-1.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",88,"$1,000,000 or more","2,853",+/-723,1.3,+/-0.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",89,Median (dollars),"315,900","+/-5,934",(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",89.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",90,Owner-occupied units,"212,946","+/-3,837","212,946",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",91,Housing units with a mortgage,"144,925","+/-4,491",68.1,+/-1.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",92,Housing units without a mortgage,"68,021","+/-3,905",31.9,+/-1.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",92.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",93,Housing units with a mortgage,"144,925","+/-4,491","144,925",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",94,Less than $500,829,+/-494,0.6,+/-0.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",95,$500 to $999,"10,858","+/-1,898",7.5,+/-1.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",96,"$1,000 to $1,499","34,774","+/-2,900",24.0,+/-1.8
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",97,"$1,500 to $1,999","43,752","+/-3,346",30.2,+/-2.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",98,"$2,000 to $2,499","30,685","+/-2,659",21.2,+/-1.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",99,"$2,500 to $2,999","13,958","+/-1,852",9.6,+/-1.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",100,"$3,000 or more","10,069","+/-1,388",6.9,+/-0.9
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",101,Median (dollars),"1,762",+/-35,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",101.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",102,Housing units without a mortgage,"68,021","+/-3,905","68,021",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",103,Less than $250,"2,471",+/-851,3.6,+/-1.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",104,$250 to $399,"7,908","+/-1,566",11.6,+/-2.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",105,$400 to $599,"23,409","+/-2,580",34.4,+/-3.2
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",106,$600 to $799,"19,385","+/-2,183",28.5,+/-3.0
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",107,$800 to $999,"9,197","+/-1,340",13.5,+/-1.8
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",108,"$1,000 or more","5,651","+/-1,254",8.3,+/-1.8
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",109,Median (dollars),602,+/-19,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",109.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"144,837","+/-4,491","144,837",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",111,Less than 20.0 percent,"73,666","+/-4,171",50.9,+/-2.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",112,20.0 to 24.9 percent,"24,804","+/-2,559",17.1,+/-1.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",113,25.0 to 29.9 percent,"14,873","+/-1,874",10.3,+/-1.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",114,30.0 to 34.9 percent,"8,529","+/-1,395",5.9,+/-1.0
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",115,35.0 percent or more,"22,965","+/-2,464",15.9,+/-1.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",115.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",116,Not computed,88,+/-97,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",116.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"67,273","+/-3,915","67,273",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",118,Less than 10.0 percent,"37,492","+/-3,312",55.7,+/-3.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",119,10.0 to 14.9 percent,"12,342","+/-1,753",18.3,+/-2.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",120,15.0 to 19.9 percent,"4,964",+/-964,7.4,+/-1.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",121,20.0 to 24.9 percent,"3,543","+/-1,024",5.3,+/-1.5
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",122,25.0 to 29.9 percent,"2,185",+/-591,3.2,+/-0.9
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",123,30.0 to 34.9 percent,"1,976",+/-695,2.9,+/-1.0
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",124,35.0 percent or more,"4,771","+/-1,069",7.1,+/-1.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",124.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",125,Not computed,748,+/-507,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",125.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",125.5,GROSS RENT,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",126,Occupied units paying rent,"50,478","+/-3,545","50,478",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",127,Less than $500,"4,139","+/-1,194",8.2,+/-2.4
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",128,$500 to $999,"18,455","+/-2,537",36.6,+/-3.8
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",129,"$1,000 to $1,499","14,667","+/-2,036",29.1,+/-3.7
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",130,"$1,500 to $1,999","9,483","+/-2,052",18.8,+/-3.8
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",131,"$2,000 to $2,499","2,745","+/-1,063",5.4,+/-2.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",132,"$2,500 to $2,999",349,+/-299,0.7,+/-0.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",133,"$3,000 or more",640,+/-397,1.3,+/-0.8
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",134,Median (dollars),"1,073",+/-53,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",134.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",135,No rent paid,"1,574",+/-556,(X),(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",135.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"50,287","+/-3,570","50,287",(X)
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",137,Less than 15.0 percent,"7,315","+/-1,896",14.5,+/-3.6
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",138,15.0 to 19.9 percent,"6,270","+/-1,987",12.5,+/-3.8
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",139,20.0 to 24.9 percent,"7,959","+/-1,557",15.8,+/-3.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",140,25.0 to 29.9 percent,"4,431","+/-1,033",8.8,+/-2.1
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",141,30.0 to 34.9 percent,"4,086","+/-1,297",8.1,+/-2.5
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",142,35.0 percent or more,"20,226","+/-2,743",40.2,+/-4.3
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",142.3,,,,,
+DP04,5001800US2706,"Congressional District 6 (118th Congress), Minnesota",143,Not computed,"1,765",+/-606,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",0.5,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",1,Total housing units,"348,316","+/-2,209","348,316",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",2,Occupied housing units,"292,792","+/-3,065",84.1,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",3,Vacant housing units,"55,524","+/-2,246",15.9,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",3.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",4,Homeowner vacancy rate,0.5,+/-0.2,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",5,Rental vacancy rate,6.4,+/-1.3,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",5.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",6,Total housing units,"348,316","+/-2,209","348,316",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",7,"1-unit, detached","272,085","+/-3,845",78.1,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",8,"1-unit, attached","10,149","+/-1,347",2.9,+/-0.4
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",9,2 units,"3,746",+/-761,1.1,+/-0.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",10,3 or 4 units,"5,857","+/-1,103",1.7,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",11,5 to 9 units,"6,200","+/-1,140",1.8,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",12,10 to 19 units,"10,390","+/-1,628",3.0,+/-0.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",13,20 or more units,"22,944","+/-1,944",6.6,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",14,Mobile home,"16,716","+/-1,398",4.8,+/-0.4
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",15,"Boat, RV, van, etc.",229,+/-129,0.1,+/-0.1
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",15.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",16,Total housing units,"348,316","+/-2,209","348,316",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",17,Built 2020 or later,"2,235",+/-458,0.6,+/-0.1
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",18,Built 2010 to 2019,"26,275","+/-1,729",7.5,+/-0.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",19,Built 2000 to 2009,"45,994","+/-2,299",13.2,+/-0.7
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",20,Built 1990 to 1999,"35,945","+/-2,025",10.3,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",21,Built 1980 to 1989,"34,736","+/-2,055",10.0,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",22,Built 1970 to 1979,"54,504","+/-2,195",15.6,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",23,Built 1960 to 1969,"31,468","+/-2,018",9.0,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",24,Built 1950 to 1959,"31,008","+/-1,631",8.9,+/-0.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",25,Built 1940 to 1949,"19,462","+/-1,201",5.6,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",26,Built 1939 or earlier,"66,689","+/-2,761",19.1,+/-0.8
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",26.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",26.5,ROOMS,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",27,Total housing units,"348,316","+/-2,209","348,316",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",28,1 room,"5,422","+/-1,128",1.6,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",29,2 rooms,"7,165","+/-1,121",2.1,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",30,3 rooms,"22,501","+/-2,088",6.5,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",31,4 rooms,"42,299","+/-2,318",12.1,+/-0.7
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",32,5 rooms,"53,858","+/-2,733",15.5,+/-0.8
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",33,6 rooms,"54,556","+/-2,403",15.7,+/-0.7
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",34,7 rooms,"46,671","+/-2,310",13.4,+/-0.7
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",35,8 rooms,"43,225","+/-2,011",12.4,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",36,9 rooms or more,"72,619","+/-2,363",20.8,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",37,Median rooms,6.3,+/-0.1,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",37.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",37.5,BEDROOMS,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",38,Total housing units,"348,316","+/-2,209","348,316",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",39,No bedroom,"5,613","+/-1,132",1.6,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",40,1 bedroom,"27,686","+/-1,984",7.9,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",41,2 bedrooms,"82,830","+/-3,119",23.8,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",42,3 bedrooms,"128,786","+/-3,239",37.0,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",43,4 bedrooms,"79,213","+/-2,621",22.7,+/-0.7
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",44,5 or more bedrooms,"24,188","+/-1,402",6.9,+/-0.4
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",44.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",44.5,HOUSING TENURE,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",45,Occupied housing units,"292,792","+/-3,065","292,792",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",46,Owner-occupied,"226,782","+/-3,420",77.5,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",47,Renter-occupied,"66,010","+/-2,938",22.5,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",47.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",48,Average household size of owner-occupied unit,2.49,+/-0.02,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",49,Average household size of renter-occupied unit,1.95,+/-0.06,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",49.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",50,Occupied housing units,"292,792","+/-3,065","292,792",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",51,Moved in 2019 or later,"63,582","+/-2,658",21.7,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",52,Moved in 2015 to 2018,"61,362","+/-2,421",21.0,+/-0.8
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",53,Moved in 2010 to 2014,"38,460","+/-2,433",13.1,+/-0.8
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",54,Moved in 2000 to 2009,"56,017","+/-2,461",19.1,+/-0.8
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",55,Moved in 1990 to 1999,"33,657","+/-1,546",11.5,+/-0.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",56,Moved in 1989 and earlier,"39,714","+/-1,648",13.6,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",56.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",57,Occupied housing units,"292,792","+/-3,065","292,792",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",58,No vehicles available,"16,238","+/-1,890",5.5,+/-0.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",59,1 vehicle available,"76,412","+/-2,934",26.1,+/-1.0
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",60,2 vehicles available,"110,398","+/-3,105",37.7,+/-1.0
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",61,3 or more vehicles available,"89,744","+/-2,792",30.7,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",61.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",62,Occupied housing units,"292,792","+/-3,065","292,792",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",63,Utility gas,"120,004","+/-3,566",41.0,+/-1.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",64,"Bottled, tank, or LP gas","78,199","+/-2,594",26.7,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",65,Electricity,"67,490","+/-2,709",23.1,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",66,"Fuel oil, kerosene, etc.","10,593",+/-890,3.6,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",67,Coal or coke,77,+/-45,0.0,+/-0.1
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",68,Wood,"10,293",+/-805,3.5,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",69,Solar energy,62,+/-52,0.0,+/-0.1
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",70,Other fuel,"3,258",+/-625,1.1,+/-0.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",71,No fuel used,"2,816",+/-701,1.0,+/-0.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",71.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",72,Occupied housing units,"292,792","+/-3,065","292,792",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",73,Lacking complete plumbing facilities,941,+/-241,0.3,+/-0.1
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",74,Lacking complete kitchen facilities,"2,319",+/-670,0.8,+/-0.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",75,No telephone service available,"2,464",+/-483,0.8,+/-0.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",75.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",76,Occupied housing units,"292,792","+/-3,065","292,792",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",77,1.00 or less,"288,246","+/-3,187",98.4,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",78,1.01 to 1.50,"2,926",+/-708,1.0,+/-0.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",79,1.51 or more,"1,620",+/-459,0.6,+/-0.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",79.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",79.5,VALUE,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",80,Owner-occupied units,"226,782","+/-3,420","226,782",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",81,"Less than $50,000","17,605","+/-1,266",7.8,+/-0.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",82,"$50,000 to $99,999","26,452","+/-1,522",11.7,+/-0.7
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",83,"$100,000 to $149,999","32,088","+/-1,859",14.1,+/-0.8
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",84,"$150,000 to $199,999","37,487","+/-2,071",16.5,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",85,"$200,000 to $299,999","52,907","+/-1,926",23.3,+/-0.8
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",86,"$300,000 to $499,999","43,438","+/-2,053",19.2,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",87,"$500,000 to $999,999","14,231","+/-1,187",6.3,+/-0.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",88,"$1,000,000 or more","2,574",+/-549,1.1,+/-0.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",89,Median (dollars),"199,600","+/-3,897",(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",89.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",90,Owner-occupied units,"226,782","+/-3,420","226,782",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",91,Housing units with a mortgage,"125,164","+/-3,005",55.2,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",92,Housing units without a mortgage,"101,618","+/-2,387",44.8,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",92.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",93,Housing units with a mortgage,"125,164","+/-3,005","125,164",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",94,Less than $500,"1,791",+/-384,1.4,+/-0.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",95,$500 to $999,"27,922","+/-1,958",22.3,+/-1.4
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",96,"$1,000 to $1,499","45,513","+/-2,139",36.4,+/-1.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",97,"$1,500 to $1,999","29,919","+/-1,682",23.9,+/-1.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",98,"$2,000 to $2,499","11,418","+/-1,148",9.1,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",99,"$2,500 to $2,999","4,488",+/-620,3.6,+/-0.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",100,"$3,000 or more","4,113",+/-555,3.3,+/-0.4
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",101,Median (dollars),"1,363",+/-21,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",101.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",102,Housing units without a mortgage,"101,618","+/-2,387","101,618",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",103,Less than $250,"7,553",+/-849,7.4,+/-0.8
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",104,$250 to $399,"21,741","+/-1,304",21.4,+/-1.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",105,$400 to $599,"36,397","+/-1,612",35.8,+/-1.4
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",106,$600 to $799,"20,997","+/-1,276",20.7,+/-1.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",107,$800 to $999,"9,167",+/-974,9.0,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",108,"$1,000 or more","5,763",+/-742,5.7,+/-0.7
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",109,Median (dollars),514,+/-9,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",109.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"124,865","+/-3,001","124,865",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",111,Less than 20.0 percent,"64,958","+/-2,465",52.0,+/-1.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",112,20.0 to 24.9 percent,"18,566","+/-1,373",14.9,+/-1.0
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",113,25.0 to 29.9 percent,"11,599","+/-1,176",9.3,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",114,30.0 to 34.9 percent,"8,433","+/-1,086",6.8,+/-0.8
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",115,35.0 percent or more,"21,309","+/-1,570",17.1,+/-1.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",115.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",116,Not computed,299,+/-157,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",116.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"100,591","+/-2,379","100,591",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",118,Less than 10.0 percent,"46,594","+/-1,969",46.3,+/-1.6
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",119,10.0 to 14.9 percent,"21,377","+/-1,328",21.3,+/-1.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",120,15.0 to 19.9 percent,"11,320","+/-1,066",11.3,+/-1.0
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",121,20.0 to 24.9 percent,"6,352",+/-737,6.3,+/-0.7
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",122,25.0 to 29.9 percent,"3,665",+/-529,3.6,+/-0.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",123,30.0 to 34.9 percent,"2,405",+/-395,2.4,+/-0.4
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",124,35.0 percent or more,"8,878",+/-996,8.8,+/-0.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",124.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",125,Not computed,"1,027",+/-352,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",125.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",125.5,GROSS RENT,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",126,Occupied units paying rent,"59,401","+/-2,860","59,401",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",127,Less than $500,"10,948","+/-1,386",18.4,+/-2.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",128,$500 to $999,"33,359","+/-2,462",56.2,+/-3.0
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",129,"$1,000 to $1,499","11,797","+/-1,536",19.9,+/-2.4
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",130,"$1,500 to $1,999","2,479",+/-751,4.2,+/-1.3
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",131,"$2,000 to $2,499",751,+/-284,1.3,+/-0.5
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",132,"$2,500 to $2,999",7,+/-11,0.0,+/-0.1
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",133,"$3,000 or more",60,+/-67,0.1,+/-0.1
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",134,Median (dollars),754,+/-24,(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",134.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",135,No rent paid,"6,609","+/-1,023",(X),(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",135.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"58,528","+/-2,902","58,528",(X)
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",137,Less than 15.0 percent,"9,212","+/-1,191",15.7,+/-2.0
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",138,15.0 to 19.9 percent,"8,036","+/-1,236",13.7,+/-2.1
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",139,20.0 to 24.9 percent,"8,556","+/-1,290",14.6,+/-2.0
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",140,25.0 to 29.9 percent,"7,571","+/-1,351",12.9,+/-2.1
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",141,30.0 to 34.9 percent,"5,159","+/-1,158",8.8,+/-1.9
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",142,35.0 percent or more,"19,994","+/-2,042",34.2,+/-3.2
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",142.3,,,,,
+DP04,5001800US2707,"Congressional District 7 (118th Congress), Minnesota",143,Not computed,"7,482","+/-1,105",(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",0.5,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",1,Total housing units,"383,600","+/-1,816","383,600",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",2,Occupied housing units,"294,139","+/-3,841",76.7,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",3,Vacant housing units,"89,461","+/-3,102",23.3,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",3.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",4,Homeowner vacancy rate,0.5,+/-0.2,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",5,Rental vacancy rate,4.9,+/-1.4,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",5.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",6,Total housing units,"383,600","+/-1,816","383,600",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",7,"1-unit, detached","299,605","+/-3,194",78.1,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",8,"1-unit, attached","10,235","+/-1,406",2.7,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",9,2 units,"6,290","+/-1,037",1.6,+/-0.3
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",10,3 or 4 units,"7,277","+/-1,149",1.9,+/-0.3
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",11,5 to 9 units,"6,140","+/-1,241",1.6,+/-0.3
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",12,10 to 19 units,"6,911","+/-1,334",1.8,+/-0.3
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",13,20 or more units,"20,649","+/-2,202",5.4,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",14,Mobile home,"26,228","+/-1,678",6.8,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",15,"Boat, RV, van, etc.",265,+/-105,0.1,+/-0.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",15.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",16,Total housing units,"383,600","+/-1,816","383,600",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",17,Built 2020 or later,"1,603",+/-359,0.4,+/-0.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",18,Built 2010 to 2019,"31,927","+/-2,313",8.3,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",19,Built 2000 to 2009,"63,680","+/-2,583",16.6,+/-0.7
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",20,Built 1990 to 1999,"50,304","+/-2,715",13.1,+/-0.7
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",21,Built 1980 to 1989,"40,704","+/-2,336",10.6,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",22,Built 1970 to 1979,"58,913","+/-2,524",15.4,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",23,Built 1960 to 1969,"28,959","+/-1,913",7.5,+/-0.5
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",24,Built 1950 to 1959,"33,013","+/-2,100",8.6,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",25,Built 1940 to 1949,"18,032","+/-1,673",4.7,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",26,Built 1939 or earlier,"56,465","+/-2,544",14.7,+/-0.7
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",26.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",26.5,ROOMS,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",27,Total housing units,"383,600","+/-1,816","383,600",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",28,1 room,"8,736","+/-1,384",2.3,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",29,2 rooms,"11,752","+/-1,488",3.1,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",30,3 rooms,"29,307","+/-2,062",7.6,+/-0.5
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",31,4 rooms,"57,372","+/-2,664",15.0,+/-0.7
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",32,5 rooms,"68,200","+/-2,955",17.8,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",33,6 rooms,"66,650","+/-2,991",17.4,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",34,7 rooms,"49,226","+/-2,692",12.8,+/-0.7
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",35,8 rooms,"35,552","+/-2,108",9.3,+/-0.5
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",36,9 rooms or more,"56,805","+/-2,779",14.8,+/-0.7
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",37,Median rooms,5.7,+/-0.2,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",37.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",37.5,BEDROOMS,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",38,Total housing units,"383,600","+/-1,816","383,600",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",39,No bedroom,"9,537","+/-1,457",2.5,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",40,1 bedroom,"35,201","+/-2,261",9.2,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",41,2 bedrooms,"104,144","+/-3,107",27.1,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",42,3 bedrooms,"146,911","+/-3,274",38.3,+/-0.9
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",43,4 bedrooms,"68,427","+/-3,156",17.8,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",44,5 or more bedrooms,"19,380","+/-1,422",5.1,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",44.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",44.5,HOUSING TENURE,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",45,Occupied housing units,"294,139","+/-3,841","294,139",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",46,Owner-occupied,"230,832","+/-3,544",78.5,+/-1.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",47,Renter-occupied,"63,307","+/-3,140",21.5,+/-1.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",47.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",48,Average household size of owner-occupied unit,2.46,+/-0.04,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",49,Average household size of renter-occupied unit,2.02,+/-0.08,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",49.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",50,Occupied housing units,"294,139","+/-3,841","294,139",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",51,Moved in 2019 or later,"63,744","+/-3,003",21.7,+/-1.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",52,Moved in 2015 to 2018,"61,870","+/-3,285",21.0,+/-1.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",53,Moved in 2010 to 2014,"40,174","+/-2,668",13.7,+/-0.9
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",54,Moved in 2000 to 2009,"59,723","+/-2,990",20.3,+/-1.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",55,Moved in 1990 to 1999,"33,846","+/-1,926",11.5,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",56,Moved in 1989 and earlier,"34,782","+/-1,847",11.8,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",56.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",57,Occupied housing units,"294,139","+/-3,841","294,139",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",58,No vehicles available,"16,423","+/-1,674",5.6,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",59,1 vehicle available,"76,238","+/-3,369",25.9,+/-1.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",60,2 vehicles available,"116,677","+/-3,520",39.7,+/-1.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",61,3 or more vehicles available,"84,801","+/-3,572",28.8,+/-1.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",61.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",62,Occupied housing units,"294,139","+/-3,841","294,139",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",63,Utility gas,"128,465","+/-3,418",43.7,+/-0.9
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",64,"Bottled, tank, or LP gas","76,493","+/-2,383",26.0,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",65,Electricity,"56,118","+/-2,888",19.1,+/-0.9
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",66,"Fuel oil, kerosene, etc.","10,978","+/-1,245",3.7,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",67,Coal or coke,0,+/-157,0.0,+/-0.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",68,Wood,"15,056","+/-1,013",5.1,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",69,Solar energy,159,+/-106,0.1,+/-0.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",70,Other fuel,"4,244",+/-810,1.4,+/-0.3
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",71,No fuel used,"2,626",+/-678,0.9,+/-0.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",71.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",72,Occupied housing units,"294,139","+/-3,841","294,139",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",73,Lacking complete plumbing facilities,"2,381",+/-562,0.8,+/-0.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",74,Lacking complete kitchen facilities,"3,199",+/-543,1.1,+/-0.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",75,No telephone service available,"2,022",+/-593,0.7,+/-0.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",75.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",76,Occupied housing units,"294,139","+/-3,841","294,139",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",77,1.00 or less,"289,576","+/-3,852",98.4,+/-0.3
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",78,1.01 to 1.50,"3,136",+/-636,1.1,+/-0.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",79,1.51 or more,"1,427",+/-506,0.5,+/-0.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",79.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",79.5,VALUE,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",80,Owner-occupied units,"230,832","+/-3,544","230,832",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",81,"Less than $50,000","13,382","+/-1,335",5.8,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",82,"$50,000 to $99,999","21,372","+/-1,519",9.3,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",83,"$100,000 to $149,999","26,856","+/-1,944",11.6,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",84,"$150,000 to $199,999","32,916","+/-2,131",14.3,+/-0.9
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",85,"$200,000 to $299,999","59,067","+/-2,753",25.6,+/-1.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",86,"$300,000 to $499,999","54,366","+/-2,576",23.6,+/-1.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",87,"$500,000 to $999,999","20,113","+/-1,684",8.7,+/-0.7
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",88,"$1,000,000 or more","2,760",+/-544,1.2,+/-0.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",89,Median (dollars),"232,800","+/-3,735",(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",89.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",90,Owner-occupied units,"230,832","+/-3,544","230,832",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",91,Housing units with a mortgage,"137,572","+/-3,130",59.6,+/-1.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",92,Housing units without a mortgage,"93,260","+/-2,953",40.4,+/-1.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",92.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",93,Housing units with a mortgage,"137,572","+/-3,130","137,572",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",94,Less than $500,"1,736",+/-503,1.3,+/-0.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",95,$500 to $999,"27,851","+/-2,154",20.2,+/-1.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",96,"$1,000 to $1,499","45,655","+/-2,671",33.2,+/-1.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",97,"$1,500 to $1,999","33,449","+/-2,095",24.3,+/-1.5
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",98,"$2,000 to $2,499","15,525","+/-1,285",11.3,+/-0.9
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",99,"$2,500 to $2,999","6,827","+/-1,038",5.0,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",100,"$3,000 or more","6,529",+/-918,4.7,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",101,Median (dollars),"1,433",+/-22,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",101.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",102,Housing units without a mortgage,"93,260","+/-2,953","93,260",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",103,Less than $250,"9,364","+/-1,188",10.0,+/-1.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",104,$250 to $399,"19,044","+/-1,284",20.4,+/-1.3
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",105,$400 to $599,"31,916","+/-1,648",34.2,+/-1.5
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",106,$600 to $799,"18,714","+/-1,539",20.1,+/-1.5
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",107,$800 to $999,"7,982","+/-1,023",8.6,+/-1.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",108,"$1,000 or more","6,240",+/-991,6.7,+/-1.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",109,Median (dollars),512,+/-10,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",109.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"136,957","+/-3,096","136,957",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",111,Less than 20.0 percent,"68,374","+/-2,426",49.9,+/-1.5
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",112,20.0 to 24.9 percent,"21,873","+/-1,768",16.0,+/-1.3
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",113,25.0 to 29.9 percent,"13,117","+/-1,487",9.6,+/-1.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",114,30.0 to 34.9 percent,"8,565","+/-1,251",6.3,+/-0.9
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",115,35.0 percent or more,"25,028","+/-1,846",18.3,+/-1.2
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",115.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",116,Not computed,615,+/-275,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",116.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"92,252","+/-2,934","92,252",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",118,Less than 10.0 percent,"42,681","+/-2,142",46.3,+/-2.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",119,10.0 to 14.9 percent,"17,737","+/-1,487",19.2,+/-1.5
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",120,15.0 to 19.9 percent,"10,416","+/-1,353",11.3,+/-1.4
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",121,20.0 to 24.9 percent,"6,926","+/-1,023",7.5,+/-1.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",122,25.0 to 29.9 percent,"3,232",+/-559,3.5,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",123,30.0 to 34.9 percent,"2,184",+/-575,2.4,+/-0.6
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",124,35.0 percent or more,"9,076","+/-1,066",9.8,+/-1.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",124.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",125,Not computed,"1,008",+/-334,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",125.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",125.5,GROSS RENT,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",126,Occupied units paying rent,"58,348","+/-3,125","58,348",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",127,Less than $500,"8,491","+/-1,156",14.6,+/-1.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",128,$500 to $999,"26,736","+/-2,025",45.8,+/-3.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",129,"$1,000 to $1,499","15,161","+/-1,973",26.0,+/-3.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",130,"$1,500 to $1,999","5,357",+/-956,9.2,+/-1.5
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",131,"$2,000 to $2,499","1,534",+/-487,2.6,+/-0.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",132,"$2,500 to $2,999",228,+/-178,0.4,+/-0.3
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",133,"$3,000 or more",841,+/-438,1.4,+/-0.7
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",134,Median (dollars),902,+/-26,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",134.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",135,No rent paid,"4,959",+/-804,(X),(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",135.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"57,384","+/-3,188","57,384",(X)
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",137,Less than 15.0 percent,"9,106","+/-1,321",15.9,+/-2.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",138,15.0 to 19.9 percent,"6,813","+/-1,044",11.9,+/-1.8
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",139,20.0 to 24.9 percent,"7,187","+/-1,245",12.5,+/-2.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",140,25.0 to 29.9 percent,"5,844","+/-1,060",10.2,+/-1.9
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",141,30.0 to 34.9 percent,"6,203","+/-1,172",10.8,+/-2.0
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",142,35.0 percent or more,"22,231","+/-2,281",38.7,+/-3.1
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",142.3,,,,,
+DP04,5001800US2708,"Congressional District 8 (118th Congress), Minnesota",143,Not computed,"5,923",+/-990,(X),(X)

@@ -1,0 +1,964 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",0.5,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",0.8,SEX AND AGE,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",1,Total population,"754,129","+/-3,794","754,129",(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",2,Male,"371,929","+/-2,730",49.3,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",3,Female,"382,200","+/-2,574",50.7,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",4,Sex ratio (males per 100 females),97.3,+/-1.0,(X),(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",4.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",5,Under 5 years,"40,850","+/-1,039",5.4,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",6,5 to 9 years,"42,706","+/-2,910",5.7,+/-0.4
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",7,10 to 14 years,"53,465","+/-3,156",7.1,+/-0.4
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",8,15 to 19 years,"50,182","+/-1,622",6.7,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",9,20 to 24 years,"45,810","+/-1,508",6.1,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",10,25 to 34 years,"94,430","+/-1,812",12.5,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",11,35 to 44 years,"98,695","+/-1,404",13.1,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",12,45 to 54 years,"92,758","+/-1,529",12.3,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",13,55 to 59 years,"48,716","+/-2,759",6.5,+/-0.4
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",14,60 to 64 years,"53,259","+/-2,762",7.1,+/-0.4
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",15,65 to 74 years,"82,330","+/-1,066",10.9,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",16,75 to 84 years,"37,319","+/-1,846",4.9,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",17,85 years and over,"13,609","+/-1,647",1.8,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",17.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",18,Median age (years),40.3,+/-0.4,(X),(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",18.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",19,Under 18 years,"168,745","+/-2,270",22.4,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",20,16 years and over,"606,152","+/-3,212",80.4,+/-0.3
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",21,18 years and over,"585,384","+/-2,560",77.6,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",22,21 years and over,"558,602","+/-3,236",74.1,+/-0.3
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",23,62 years and over,"162,482","+/-2,678",21.5,+/-0.4
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",24,65 years and over,"133,258","+/-1,353",17.7,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",24.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",25,18 years and over,"585,384","+/-2,560","585,384",(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",26,Male,"285,654","+/-1,795",48.8,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",27,Female,"299,730","+/-1,500",51.2,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",28,Sex ratio (males per 100 females),95.3,+/-0.7,(X),(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",28.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",29,65 years and over,"133,258","+/-1,353","133,258",(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",30,Male,"59,381",+/-937,44.6,+/-0.5
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",31,Female,"73,877",+/-882,55.4,+/-0.5
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",32,Sex ratio (males per 100 females),80.4,+/-1.5,(X),(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",32.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",32.5,RACE,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",33,Total population,"754,129","+/-3,794","754,129",(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",34,One race,"669,834","+/-7,020",88.8,+/-0.8
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",35,Two or more races,"84,295","+/-6,340",11.2,+/-0.8
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",35.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",36,One race,"669,834","+/-7,020",88.8,+/-0.8
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",37,White,"478,369","+/-4,860",63.4,+/-0.5
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",38,Black or African American,"126,492","+/-3,504",16.8,+/-0.5
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",39,American Indian and Alaska Native,"3,171","+/-1,468",0.4,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",44,Asian,"10,678",+/-988,1.4,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",45,Asian Indian,"2,927","+/-1,326",0.4,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",46,Chinese,"3,052","+/-1,323",0.4,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",47,Filipino,"3,054","+/-1,101",0.4,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",48,Japanese,294,+/-336,0.0,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",49,Korean,135,+/-134,0.0,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",50,Vietnamese,448,+/-589,0.1,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",51,Other Asian,768,+/-680,0.1,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",52,Native Hawaiian and Other Pacific Islander,136,+/-145,0.0,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",53,Native Hawaiian,N,N,N,N
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",54,Chamorro,N,N,N,N
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",55,Samoan,N,N,N,N
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",57,Some other race,"50,988","+/-5,471",6.8,+/-0.7
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",58,Two or more races,"84,295","+/-6,340",11.2,+/-0.8
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",59,White and Black or African American,"8,957","+/-2,119",1.2,+/-0.3
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",60,White and American Indian and Alaska Native,"11,447","+/-2,471",1.5,+/-0.3
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",61,White and Asian,"2,825",+/-895,0.4,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",62,Black or African American and American Indian and Alaska Native,"1,193",+/-819,0.2,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",62.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",63,Total population,"754,129","+/-3,794","754,129",(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",64,White,"559,616","+/-7,540",74.2,+/-0.9
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",65,Black or African American,"140,944","+/-3,326",18.7,+/-0.5
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",66,American Indian and Alaska Native,"18,389","+/-3,143",2.4,+/-0.4
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",67,Asian,"14,070",+/-668,1.9,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",68,Native Hawaiian and Other Pacific Islander,595,+/-443,0.1,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",69,Some other race,"109,938","+/-4,260",14.6,+/-0.6
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",69.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",70,Total population,"754,129","+/-3,794","754,129",(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",71,Hispanic or Latino (of any race),"126,289","+/-1,098",16.7,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",72,Mexican,"96,355","+/-4,601",12.8,+/-0.6
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",73,Puerto Rican,"20,163","+/-4,254",2.7,+/-0.6
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",74,Cuban,532,+/-479,0.1,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",75,Other Hispanic or Latino,"9,239","+/-2,250",1.2,+/-0.3
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",76,Not Hispanic or Latino,"627,840","+/-3,624",83.3,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",77,White alone,"459,136","+/-3,543",60.9,+/-0.3
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",78,Black or African American alone,"124,921","+/-3,261",16.6,+/-0.4
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",79,American Indian and Alaska Native alone,"2,358","+/-1,330",0.3,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",80,Asian alone,"10,477",+/-884,1.4,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",81,Native Hawaiian and Other Pacific Islander alone,70,+/-92,0.0,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",82,Some other race alone,"1,954","+/-1,078",0.3,+/-0.1
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",83,Two or more races,"28,924","+/-3,438",3.8,+/-0.5
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",84,Two races including Some other race,"6,467","+/-1,811",0.9,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",85,"Two races excluding Some other race, and Three or more races","22,457","+/-3,021",3.0,+/-0.4
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",85.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",86,Total housing units,"325,339","+/-1,506",(X),(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",86.3,,,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",87,"Citizen, 18 and over population","567,881","+/-3,212","567,881",(X)
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",88,Male,"276,322","+/-2,135",48.7,+/-0.2
+DP05,5001800US1801,"Congressional District 1 (118th Congress), Indiana",89,Female,"291,559","+/-1,925",51.3,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",0.5,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",0.8,SEX AND AGE,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",1,Total population,"752,280","+/-4,745","752,280",(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",2,Male,"371,534","+/-3,392",49.4,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",3,Female,"380,746","+/-3,325",50.6,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",4,Sex ratio (males per 100 females),97.6,+/-1.2,(X),(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",4.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",5,Under 5 years,"48,616","+/-1,571",6.5,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",6,5 to 9 years,"48,737","+/-2,933",6.5,+/-0.4
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",7,10 to 14 years,"54,173","+/-3,321",7.2,+/-0.4
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",8,15 to 19 years,"53,728","+/-2,169",7.1,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",9,20 to 24 years,"52,495","+/-2,481",7.0,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",10,25 to 34 years,"91,953","+/-2,389",12.2,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",11,35 to 44 years,"92,434","+/-2,240",12.3,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",12,45 to 54 years,"90,038","+/-1,724",12.0,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",13,55 to 59 years,"44,967","+/-2,349",6.0,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",14,60 to 64 years,"47,885","+/-2,528",6.4,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",15,65 to 74 years,"77,350","+/-1,497",10.3,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",16,75 to 84 years,"34,493","+/-2,074",4.6,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",17,85 years and over,"15,411","+/-1,749",2.0,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",17.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",18,Median age (years),38.2,+/-0.3,(X),(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",18.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",19,Under 18 years,"185,263","+/-2,683",24.6,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",20,16 years and over,"587,721","+/-3,626",78.1,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",21,18 years and over,"567,017","+/-3,370",75.4,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",22,21 years and over,"535,126","+/-4,042",71.1,+/-0.4
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",23,62 years and over,"156,137","+/-2,836",20.8,+/-0.4
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",24,65 years and over,"127,254","+/-1,822",16.9,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",24.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",25,18 years and over,"567,017","+/-3,370","567,017",(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",26,Male,"277,372","+/-2,256",48.9,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",27,Female,"289,645","+/-1,867",51.1,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",28,Sex ratio (males per 100 females),95.8,+/-0.8,(X),(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",28.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",29,65 years and over,"127,254","+/-1,822","127,254",(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",30,Male,"57,249","+/-1,112",45.0,+/-0.5
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",31,Female,"70,005","+/-1,101",55.0,+/-0.5
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",32,Sex ratio (males per 100 females),81.8,+/-1.6,(X),(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",32.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",32.5,RACE,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",33,Total population,"752,280","+/-4,745","752,280",(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",34,One race,"685,427","+/-7,922",91.1,+/-0.8
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",35,Two or more races,"66,853","+/-6,289",8.9,+/-0.8
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",35.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",36,One race,"685,427","+/-7,922",91.1,+/-0.8
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",37,White,"593,460","+/-6,297",78.9,+/-0.6
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",38,Black or African American,"47,005","+/-3,384",6.2,+/-0.4
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",39,American Indian and Alaska Native,"1,912",+/-818,0.3,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",44,Asian,"10,208","+/-1,063",1.4,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",45,Asian Indian,"2,179","+/-1,278",0.3,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",46,Chinese,"2,144",+/-857,0.3,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",47,Filipino,"1,015",+/-456,0.1,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",48,Japanese,230,+/-206,0.0,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",49,Korean,"1,564",+/-543,0.2,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",50,Vietnamese,"1,026",+/-596,0.1,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",51,Other Asian,"2,050",+/-968,0.3,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",52,Native Hawaiian and Other Pacific Islander,268,+/-343,0.0,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",53,Native Hawaiian,N,N,N,N
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",54,Chamorro,N,N,N,N
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",55,Samoan,N,N,N,N
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",57,Some other race,"32,574","+/-4,796",4.3,+/-0.6
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",58,Two or more races,"66,853","+/-6,289",8.9,+/-0.8
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",59,White and Black or African American,"12,995","+/-3,213",1.7,+/-0.4
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",60,White and American Indian and Alaska Native,"7,312",+/-820,1.0,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",61,White and Asian,"3,862",+/-868,0.5,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",62,Black or African American and American Indian and Alaska Native,135,+/-141,0.0,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",62.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",63,Total population,"752,280","+/-4,745","752,280",(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",64,White,"658,348","+/-7,780",87.5,+/-0.8
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",65,Black or African American,"63,681","+/-1,734",8.5,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",66,American Indian and Alaska Native,"10,869","+/-1,321",1.4,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",67,Asian,"15,197",+/-958,2.0,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",68,Native Hawaiian and Other Pacific Islander,776,+/-534,0.1,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",69,Some other race,"73,011","+/-4,043",9.7,+/-0.5
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",69.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",70,Total population,"752,280","+/-4,745","752,280",(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",71,Hispanic or Latino (of any race),"81,932","+/-1,234",10.9,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",72,Mexican,"57,341","+/-4,773",7.6,+/-0.6
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",73,Puerto Rican,"6,846","+/-2,432",0.9,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",74,Cuban,513,+/-532,0.1,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",75,Other Hispanic or Latino,"17,232","+/-3,913",2.3,+/-0.5
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",76,Not Hispanic or Latino,"670,348","+/-4,678",89.1,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",77,White alone,"579,867","+/-5,141",77.1,+/-0.4
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",78,Black or African American alone,"46,479","+/-3,358",6.2,+/-0.4
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",79,American Indian and Alaska Native alone,851,+/-389,0.1,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",80,Asian alone,"10,208","+/-1,063",1.4,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",81,Native Hawaiian and Other Pacific Islander alone,268,+/-343,0.0,+/-0.1
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",82,Some other race alone,"2,083","+/-1,522",0.3,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",83,Two or more races,"30,592","+/-4,168",4.1,+/-0.6
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",84,Two races including Some other race,"5,734","+/-1,457",0.8,+/-0.2
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",85,"Two races excluding Some other race, and Three or more races","24,858","+/-3,713",3.3,+/-0.5
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",85.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",86,Total housing units,"318,657","+/-2,068",(X),(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",86.3,,,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",87,"Citizen, 18 and over population","547,803","+/-3,851","547,803",(X)
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",88,Male,"267,365","+/-2,618",48.8,+/-0.3
+DP05,5001800US1802,"Congressional District 2 (118th Congress), Indiana",89,Female,"280,438","+/-2,207",51.2,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",0.5,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",0.8,SEX AND AGE,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",1,Total population,"755,001","+/-2,995","755,001",(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",2,Male,"376,940","+/-2,371",49.9,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",3,Female,"378,061","+/-1,790",50.1,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",4,Sex ratio (males per 100 females),99.7,+/-0.8,(X),(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",4.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",5,Under 5 years,"50,354",+/-797,6.7,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",6,5 to 9 years,"51,985","+/-2,447",6.9,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",7,10 to 14 years,"54,159","+/-2,452",7.2,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",8,15 to 19 years,"50,895","+/-1,217",6.7,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",9,20 to 24 years,"48,761","+/-1,358",6.5,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",10,25 to 34 years,"95,580","+/-1,926",12.7,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",11,35 to 44 years,"93,539","+/-1,553",12.4,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",12,45 to 54 years,"89,056","+/-1,433",11.8,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",13,55 to 59 years,"46,087","+/-2,333",6.1,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",14,60 to 64 years,"49,646","+/-2,305",6.6,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",15,65 to 74 years,"76,947","+/-1,254",10.2,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",16,75 to 84 years,"36,036","+/-1,449",4.8,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",17,85 years and over,"11,956","+/-1,291",1.6,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",17.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",18,Median age (years),37.8,+/-0.4,(X),(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",18.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",19,Under 18 years,"189,450","+/-1,821",25.1,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",20,16 years and over,"586,663","+/-2,758",77.7,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",21,18 years and over,"565,551","+/-2,533",74.9,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",22,21 years and over,"537,642","+/-3,112",71.2,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",23,62 years and over,"155,325","+/-2,550",20.6,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",24,65 years and over,"124,939","+/-1,581",16.5,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",24.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",25,18 years and over,"565,551","+/-2,533","565,551",(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",26,Male,"277,736","+/-1,583",49.1,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",27,Female,"287,815","+/-1,518",50.9,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",28,Sex ratio (males per 100 females),96.5,+/-0.6,(X),(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",28.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",29,65 years and over,"124,939","+/-1,581","124,939",(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",30,Male,"56,191",+/-624,45.0,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",31,Female,"68,748","+/-1,177",55.0,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",32,Sex ratio (males per 100 females),81.7,+/-1.2,(X),(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",32.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",32.5,RACE,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",33,Total population,"755,001","+/-2,995","755,001",(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",34,One race,"699,140","+/-5,512",92.6,+/-0.7
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",35,Two or more races,"55,861","+/-4,968",7.4,+/-0.7
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",35.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",36,One race,"699,140","+/-5,512",92.6,+/-0.7
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",37,White,"620,110","+/-4,560",82.1,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",38,Black or African American,"38,798","+/-3,187",5.1,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",39,American Indian and Alaska Native,"1,748",+/-883,0.2,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",44,Asian,"21,824",+/-971,2.9,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",45,Asian Indian,"2,114","+/-1,515",0.3,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",46,Chinese,"2,806","+/-1,637",0.4,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",47,Filipino,"1,438",+/-694,0.2,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",48,Japanese,179,+/-155,0.0,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",49,Korean,307,+/-258,0.0,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",50,Vietnamese,841,+/-551,0.1,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",51,Other Asian,"14,139","+/-2,288",1.9,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",52,Native Hawaiian and Other Pacific Islander,129,+/-165,0.0,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",53,Native Hawaiian,N,N,N,N
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",54,Chamorro,N,N,N,N
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",55,Samoan,N,N,N,N
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",57,Some other race,"16,531","+/-3,908",2.2,+/-0.5
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",58,Two or more races,"55,861","+/-4,968",7.4,+/-0.7
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",59,White and Black or African American,"10,000","+/-2,432",1.3,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",60,White and American Indian and Alaska Native,"12,982","+/-2,631",1.7,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",61,White and Asian,"1,849",+/-794,0.2,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",62,Black or African American and American Indian and Alaska Native,555,+/-435,0.1,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",62.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",63,Total population,"755,001","+/-2,995","755,001",(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",64,White,"674,917","+/-6,321",89.4,+/-0.7
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",65,Black or African American,"50,969","+/-3,019",6.8,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",66,American Indian and Alaska Native,"16,214","+/-2,820",2.1,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",67,Asian,"24,193",+/-711,3.2,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",68,Native Hawaiian and Other Pacific Islander,610,+/-484,0.1,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",69,Some other race,"45,931","+/-3,217",6.1,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",69.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",70,Total population,"755,001","+/-2,995","755,001",(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",71,Hispanic or Latino (of any race),"48,084",+/-976,6.4,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",72,Mexican,"34,364","+/-3,479",4.6,+/-0.5
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",73,Puerto Rican,"3,696","+/-2,609",0.5,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",74,Cuban,116,+/-130,0.0,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",75,Other Hispanic or Latino,"9,908","+/-2,603",1.3,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",76,Not Hispanic or Latino,"706,917","+/-3,143",93.6,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",77,White alone,"611,524","+/-4,505",81.0,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",78,Black or African American alone,"38,469","+/-3,038",5.1,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",79,American Indian and Alaska Native alone,"1,040",+/-657,0.1,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",80,Asian alone,"21,679",+/-965,2.9,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",81,Native Hawaiian and Other Pacific Islander alone,129,+/-165,0.0,+/-0.1
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",82,Some other race alone,"3,165","+/-1,419",0.4,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",83,Two or more races,"30,911","+/-3,589",4.1,+/-0.5
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",84,Two races including Some other race,"5,638","+/-2,069",0.7,+/-0.3
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",85,"Two races excluding Some other race, and Three or more races","25,273","+/-2,913",3.3,+/-0.4
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",85.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",86,Total housing units,"327,304","+/-1,760",(X),(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",86.3,,,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",87,"Citizen, 18 and over population","548,629","+/-3,517","548,629",(X)
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",88,Male,"269,511","+/-2,413",49.1,+/-0.2
+DP05,5001800US1803,"Congressional District 3 (118th Congress), Indiana",89,Female,"279,118","+/-1,849",50.9,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",0.5,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",0.8,SEX AND AGE,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",1,Total population,"762,956","+/-2,649","762,956",(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",2,Male,"384,802","+/-2,534",50.4,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",3,Female,"378,154","+/-2,441",49.6,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",4,Sex ratio (males per 100 females),101.8,+/-1.1,(X),(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",4.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",5,Under 5 years,"40,803",+/-888,5.3,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",6,5 to 9 years,"46,262","+/-2,797",6.1,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",7,10 to 14 years,"54,825","+/-2,770",7.2,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",8,15 to 19 years,"59,794","+/-2,435",7.8,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",9,20 to 24 years,"63,820","+/-2,586",8.4,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",10,25 to 34 years,"94,211","+/-2,602",12.3,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",11,35 to 44 years,"96,791","+/-2,576",12.7,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",12,45 to 54 years,"93,637","+/-2,595",12.3,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",13,55 to 59 years,"43,337","+/-3,271",5.7,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",14,60 to 64 years,"50,661","+/-3,282",6.6,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",15,65 to 74 years,"72,798","+/-1,918",9.5,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",16,75 to 84 years,"33,293","+/-1,968",4.4,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",17,85 years and over,"12,724","+/-1,724",1.7,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",17.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",18,Median age (years),37.3,+/-0.5,(X),(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",18.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",19,Under 18 years,"173,105","+/-1,591",22.7,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",20,16 years and over,"609,859","+/-2,789",79.9,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",21,18 years and over,"589,851","+/-2,327",77.3,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",22,21 years and over,"547,013","+/-3,930",71.7,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",23,62 years and over,"146,207","+/-3,097",19.2,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",24,65 years and over,"118,815","+/-2,205",15.6,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",24.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",25,18 years and over,"589,851","+/-2,327","589,851",(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",26,Male,"297,927","+/-2,014",50.5,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",27,Female,"291,924","+/-1,782",49.5,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",28,Sex ratio (males per 100 females),102.1,+/-1.0,(X),(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",28.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",29,65 years and over,"118,815","+/-2,205","118,815",(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",30,Male,"54,259","+/-1,358",45.7,+/-0.6
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",31,Female,"64,556","+/-1,181",54.3,+/-0.6
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",32,Sex ratio (males per 100 females),84.0,+/-1.9,(X),(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",32.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",32.5,RACE,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",33,Total population,"762,956","+/-2,649","762,956",(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",34,One race,"711,798","+/-5,079",93.3,+/-0.6
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",35,Two or more races,"51,158","+/-4,798",6.7,+/-0.6
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",35.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",36,One race,"711,798","+/-5,079",93.3,+/-0.6
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",37,White,"638,056","+/-4,085",83.6,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",38,Black or African American,"29,070","+/-3,235",3.8,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",39,American Indian and Alaska Native,"2,701","+/-1,946",0.4,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",44,Asian,"22,231","+/-2,266",2.9,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",45,Asian Indian,"5,940","+/-1,861",0.8,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",46,Chinese,"6,882","+/-1,956",0.9,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",47,Filipino,"1,984","+/-1,604",0.3,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",48,Japanese,877,+/-646,0.1,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",49,Korean,"1,382",+/-657,0.2,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",50,Vietnamese,277,+/-300,0.0,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",51,Other Asian,"4,889","+/-1,878",0.6,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",52,Native Hawaiian and Other Pacific Islander,173,+/-302,0.0,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",53,Native Hawaiian,N,N,N,N
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",54,Chamorro,N,N,N,N
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",55,Samoan,N,N,N,N
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",57,Some other race,"19,567","+/-3,425",2.6,+/-0.5
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",58,Two or more races,"51,158","+/-4,798",6.7,+/-0.6
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",59,White and Black or African American,"6,475","+/-2,195",0.8,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",60,White and American Indian and Alaska Native,"11,071","+/-2,187",1.5,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",61,White and Asian,"2,677","+/-1,293",0.4,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",62,Black or African American and American Indian and Alaska Native,0,+/-208,0.0,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",62.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",63,Total population,"762,956","+/-2,649","762,956",(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",64,White,"687,544","+/-5,647",90.1,+/-0.6
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",65,Black or African American,"37,166","+/-2,798",4.9,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",66,American Indian and Alaska Native,"15,868","+/-3,052",2.1,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",67,Asian,"26,464","+/-1,753",3.5,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",68,Native Hawaiian and Other Pacific Islander,"1,544","+/-1,231",0.2,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",69,Some other race,"47,918","+/-3,146",6.3,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",69.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",70,Total population,"762,956","+/-2,649","762,956",(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",71,Hispanic or Latino (of any race),"51,507",+/-913,6.8,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",72,Mexican,"34,338","+/-2,878",4.5,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",73,Puerto Rican,"3,484","+/-1,518",0.5,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",74,Cuban,"1,803",+/-789,0.2,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",75,Other Hispanic or Latino,"11,882","+/-2,700",1.6,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",76,Not Hispanic or Latino,"711,449","+/-2,547",93.2,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",77,White alone,"629,443","+/-3,253",82.5,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",78,Black or African American alone,"28,342","+/-3,206",3.7,+/-0.4
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",79,American Indian and Alaska Native alone,"2,069","+/-1,710",0.3,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",80,Asian alone,"22,186","+/-2,273",2.9,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",81,Native Hawaiian and Other Pacific Islander alone,0,+/-208,0.0,+/-0.1
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",82,Some other race alone,"1,901","+/-1,169",0.2,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",83,Two or more races,"27,508","+/-3,799",3.6,+/-0.5
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",84,Two races including Some other race,"5,606","+/-1,456",0.7,+/-0.2
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",85,"Two races excluding Some other race, and Three or more races","21,902","+/-3,660",2.9,+/-0.5
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",85.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",86,Total housing units,"316,668","+/-1,554",(X),(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",86.3,,,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",87,"Citizen, 18 and over population","567,348","+/-4,288","567,348",(X)
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",88,Male,"284,466","+/-3,242",50.1,+/-0.3
+DP05,5001800US1804,"Congressional District 4 (118th Congress), Indiana",89,Female,"282,882","+/-2,251",49.9,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",0.5,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",0.8,SEX AND AGE,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",1,Total population,"766,044","+/-1,618","766,044",(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",2,Male,"376,618","+/-2,132",49.2,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",3,Female,"389,426","+/-2,056",50.8,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",4,Sex ratio (males per 100 females),96.7,+/-1.0,(X),(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",4.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",5,Under 5 years,"43,172",+/-927,5.6,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",6,5 to 9 years,"51,816","+/-3,744",6.8,+/-0.5
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",7,10 to 14 years,"50,048","+/-3,632",6.5,+/-0.5
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",8,15 to 19 years,"55,174","+/-1,749",7.2,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",9,20 to 24 years,"53,548","+/-1,900",7.0,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",10,25 to 34 years,"91,807","+/-2,210",12.0,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",11,35 to 44 years,"101,306","+/-2,481",13.2,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",12,45 to 54 years,"98,456","+/-2,281",12.9,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",13,55 to 59 years,"50,055","+/-3,165",6.5,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",14,60 to 64 years,"46,703","+/-2,844",6.1,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",15,65 to 74 years,"74,985","+/-1,530",9.8,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",16,75 to 84 years,"34,373","+/-1,753",4.5,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",17,85 years and over,"14,601","+/-1,522",1.9,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",17.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",18,Median age (years),38.4,+/-0.4,(X),(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",18.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",19,Under 18 years,"176,221",+/-886,23.0,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",20,16 years and over,"609,192","+/-1,987",79.5,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",21,18 years and over,"589,823","+/-1,423",77.0,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",22,21 years and over,"554,584","+/-2,686",72.4,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",23,62 years and over,"150,857","+/-3,129",19.7,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",24,65 years and over,"123,959","+/-1,592",16.2,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",24.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",25,18 years and over,"589,823","+/-1,423","589,823",(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",26,Male,"285,900","+/-1,206",48.5,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",27,Female,"303,923","+/-1,190",51.5,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",28,Sex ratio (males per 100 females),94.1,+/-0.6,(X),(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",28.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",29,65 years and over,"123,959","+/-1,592","123,959",(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",30,Male,"55,017",+/-772,44.4,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",31,Female,"68,942","+/-1,057",55.6,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",32,Sex ratio (males per 100 females),79.8,+/-1.2,(X),(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",32.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",32.5,RACE,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",33,Total population,"766,044","+/-1,618","766,044",(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",34,One race,"712,972","+/-6,696",93.1,+/-0.8
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",35,Two or more races,"53,072","+/-6,259",6.9,+/-0.8
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",35.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",36,One race,"712,972","+/-6,696",93.1,+/-0.8
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",37,White,"641,184","+/-4,375",83.7,+/-0.5
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",38,Black or African American,"34,429","+/-4,071",4.5,+/-0.5
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",39,American Indian and Alaska Native,"2,561","+/-1,335",0.3,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",44,Asian,"25,453","+/-2,201",3.3,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",45,Asian Indian,"8,912","+/-2,775",1.2,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",46,Chinese,"5,728","+/-2,120",0.7,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",47,Filipino,"1,383",+/-745,0.2,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",48,Japanese,"1,911","+/-1,376",0.2,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",49,Korean,"1,856","+/-1,003",0.2,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",50,Vietnamese,"2,246","+/-1,218",0.3,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",51,Other Asian,"3,417","+/-1,952",0.4,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",52,Native Hawaiian and Other Pacific Islander,146,+/-257,0.0,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",53,Native Hawaiian,N,N,N,N
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",54,Chamorro,N,N,N,N
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",55,Samoan,N,N,N,N
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",57,Some other race,"9,199","+/-2,416",1.2,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",58,Two or more races,"53,072","+/-6,259",6.9,+/-0.8
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",59,White and Black or African American,"8,565","+/-2,646",1.1,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",60,White and American Indian and Alaska Native,"15,325","+/-2,960",2.0,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",61,White and Asian,"4,686","+/-1,437",0.6,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",62,Black or African American and American Indian and Alaska Native,"1,408","+/-1,211",0.2,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",62.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",63,Total population,"766,044","+/-1,618","766,044",(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",64,White,"690,240","+/-5,109",90.1,+/-0.7
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",65,Black or African American,"47,601","+/-2,903",6.2,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",66,American Indian and Alaska Native,"21,238","+/-4,033",2.8,+/-0.5
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",67,Asian,"31,495","+/-1,755",4.1,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",68,Native Hawaiian and Other Pacific Islander,779,+/-628,0.1,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",69,Some other race,"30,277","+/-4,102",4.0,+/-0.5
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",69.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",70,Total population,"766,044","+/-1,618","766,044",(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",71,Hispanic or Latino (of any race),"32,285",+/-470,4.2,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",72,Mexican,"18,134","+/-2,407",2.4,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",73,Puerto Rican,"3,561","+/-1,686",0.5,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",74,Cuban,"1,047",+/-770,0.1,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",75,Other Hispanic or Latino,"9,543","+/-2,411",1.2,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",76,Not Hispanic or Latino,"733,759","+/-1,631",95.8,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",77,White alone,"630,710","+/-3,472",82.3,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",78,Black or African American alone,"34,219","+/-4,060",4.5,+/-0.5
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",79,American Indian and Alaska Native alone,"1,877","+/-1,254",0.2,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",80,Asian alone,"25,245","+/-2,139",3.3,+/-0.3
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",81,Native Hawaiian and Other Pacific Islander alone,146,+/-257,0.0,+/-0.1
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",82,Some other race alone,"2,439","+/-1,288",0.3,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",83,Two or more races,"39,123","+/-5,665",5.1,+/-0.7
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",84,Two races including Some other race,"7,451","+/-3,013",1.0,+/-0.4
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",85,"Two races excluding Some other race, and Three or more races","31,672","+/-4,793",4.1,+/-0.6
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",85.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",86,Total housing units,"326,733","+/-1,232",(X),(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",86.3,,,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",87,"Citizen, 18 and over population","571,649","+/-4,017","571,649",(X)
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",88,Male,"276,755","+/-2,156",48.4,+/-0.2
+DP05,5001800US1805,"Congressional District 5 (118th Congress), Indiana",89,Female,"294,894","+/-2,506",51.6,+/-0.2
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",0.5,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",0.8,SEX AND AGE,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",1,Total population,"753,496","+/-4,072","753,496",(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",2,Male,"378,038","+/-4,854",50.2,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",3,Female,"375,458","+/-4,423",49.8,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",4,Sex ratio (males per 100 females),100.7,+/-2.2,(X),(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",4.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",5,Under 5 years,"47,354","+/-2,430",6.3,+/-0.3
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",6,5 to 9 years,"48,391","+/-3,868",6.4,+/-0.5
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",7,10 to 14 years,"56,097","+/-4,171",7.4,+/-0.5
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",8,15 to 19 years,"47,768","+/-3,075",6.3,+/-0.4
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",9,20 to 24 years,"46,116","+/-3,502",6.1,+/-0.5
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",10,25 to 34 years,"102,933","+/-4,280",13.7,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",11,35 to 44 years,"100,323","+/-3,782",13.3,+/-0.5
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",12,45 to 54 years,"88,235","+/-3,084",11.7,+/-0.4
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",13,55 to 59 years,"49,282","+/-3,713",6.5,+/-0.5
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",14,60 to 64 years,"48,011","+/-2,934",6.4,+/-0.4
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",15,65 to 74 years,"72,151","+/-2,608",9.6,+/-0.3
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",16,75 to 84 years,"35,090","+/-2,094",4.7,+/-0.3
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",17,85 years and over,"11,745","+/-1,752",1.6,+/-0.2
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",17.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",18,Median age (years),38.0,+/-0.7,(X),(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",18.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",19,Under 18 years,"182,623","+/-4,471",24.2,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",20,16 years and over,"592,159","+/-5,463",78.6,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",21,18 years and over,"570,873","+/-5,036",75.8,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",22,21 years and over,"545,115","+/-5,481",72.3,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",23,62 years and over,"146,936","+/-4,034",19.5,+/-0.5
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",24,65 years and over,"118,986","+/-3,172",15.8,+/-0.4
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",24.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",25,18 years and over,"570,873","+/-5,036","570,873",(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",26,Male,"283,040","+/-4,391",49.6,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",27,Female,"287,833","+/-3,697",50.4,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",28,Sex ratio (males per 100 females),98.3,+/-2.2,(X),(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",28.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",29,65 years and over,"118,986","+/-3,172","118,986",(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",30,Male,"52,630","+/-1,621",44.2,+/-1.0
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",31,Female,"66,356","+/-2,322",55.8,+/-1.0
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",32,Sex ratio (males per 100 females),79.3,+/-3.2,(X),(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",32.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",32.5,RACE,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",33,Total population,"753,496","+/-4,072","753,496",(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",34,One race,"714,071","+/-6,673",94.8,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",35,Two or more races,"39,425","+/-5,077",5.2,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",35.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",36,One race,"714,071","+/-6,673",94.8,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",37,White,"626,976","+/-8,452",83.2,+/-1.0
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",38,Black or African American,"28,386","+/-5,419",3.8,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",39,American Indian and Alaska Native,"2,225","+/-1,459",0.3,+/-0.2
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",44,Asian,"38,498","+/-4,264",5.1,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",45,Asian Indian,"13,598","+/-3,003",1.8,+/-0.4
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",46,Chinese,"1,370",+/-844,0.2,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",47,Filipino,"1,196",+/-912,0.2,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",48,Japanese,226,+/-416,0.0,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",49,Korean,634,+/-679,0.1,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",50,Vietnamese,413,+/-335,0.1,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",51,Other Asian,"21,061","+/-5,317",2.8,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",52,Native Hawaiian and Other Pacific Islander,294,+/-399,0.0,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",53,Native Hawaiian,N,N,N,N
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",54,Chamorro,N,N,N,N
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",55,Samoan,N,N,N,N
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",57,Some other race,"17,692","+/-4,307",2.3,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",58,Two or more races,"39,425","+/-5,077",5.2,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",59,White and Black or African American,"10,501","+/-3,571",1.4,+/-0.5
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",60,White and American Indian and Alaska Native,"6,934","+/-1,459",0.9,+/-0.2
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",61,White and Asian,"5,306","+/-2,247",0.7,+/-0.3
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",62,Black or African American and American Indian and Alaska Native,566,+/-635,0.1,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",62.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",63,Total population,"753,496","+/-4,072","753,496",(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",64,White,"664,162","+/-9,067",88.1,+/-1.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",65,Black or African American,"41,234","+/-5,206",5.5,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",66,American Indian and Alaska Native,"12,514","+/-2,982",1.7,+/-0.4
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",67,Asian,"44,660","+/-3,914",5.9,+/-0.5
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",68,Native Hawaiian and Other Pacific Islander,"1,029",+/-671,0.1,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",69,Some other race,"31,999","+/-4,905",4.2,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",69.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",70,Total population,"753,496","+/-4,072","753,496",(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",71,Hispanic or Latino (of any race),"38,998","+/-4,703",5.2,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",72,Mexican,"28,762","+/-5,060",3.8,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",73,Puerto Rican,"4,673","+/-2,217",0.6,+/-0.3
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",74,Cuban,489,+/-694,0.1,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",75,Other Hispanic or Latino,"5,074","+/-1,956",0.7,+/-0.3
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",76,Not Hispanic or Latino,"714,498","+/-5,926",94.8,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",77,White alone,"617,554","+/-8,493",82.0,+/-1.0
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",78,Black or African American alone,"27,173","+/-5,319",3.6,+/-0.7
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",79,American Indian and Alaska Native alone,359,+/-220,0.0,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",80,Asian alone,"38,284","+/-4,339",5.1,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",81,Native Hawaiian and Other Pacific Islander alone,271,+/-395,0.0,+/-0.1
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",82,Some other race alone,"2,258","+/-1,428",0.3,+/-0.2
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",83,Two or more races,"28,599","+/-4,421",3.8,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",84,Two races including Some other race,"3,565","+/-1,145",0.5,+/-0.2
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",85,"Two races excluding Some other race, and Three or more races","25,034","+/-4,401",3.3,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",85.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",86,Total housing units,"314,826","+/-4,248",(X),(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",86.3,,,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",87,"Citizen, 18 and over population","543,590","+/-6,310","543,590",(X)
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",88,Male,"267,478","+/-4,771",49.2,+/-0.6
+DP05,5001800US1806,"Congressional District 6 (118th Congress), Indiana",89,Female,"276,112","+/-3,952",50.8,+/-0.6
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",0.5,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",0.8,SEX AND AGE,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",1,Total population,"749,635","+/-1,365","749,635",(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",2,Male,"359,752","+/-3,560",48.0,+/-0.5
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",3,Female,"389,883","+/-3,471",52.0,+/-0.5
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",4,Sex ratio (males per 100 females),92.3,+/-1.7,(X),(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",4.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",5,Under 5 years,"50,302","+/-2,458",6.7,+/-0.3
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",6,5 to 9 years,"47,721","+/-3,998",6.4,+/-0.5
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",7,10 to 14 years,"52,907","+/-3,952",7.1,+/-0.5
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",8,15 to 19 years,"46,988","+/-2,057",6.3,+/-0.3
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",9,20 to 24 years,"52,609","+/-2,667",7.0,+/-0.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",10,25 to 34 years,"124,831","+/-3,677",16.7,+/-0.5
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",11,35 to 44 years,"100,489","+/-2,952",13.4,+/-0.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",12,45 to 54 years,"85,279","+/-2,513",11.4,+/-0.3
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",13,55 to 59 years,"40,848","+/-2,986",5.4,+/-0.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",14,60 to 64 years,"47,504","+/-3,408",6.3,+/-0.5
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",15,65 to 74 years,"64,065","+/-2,138",8.5,+/-0.3
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",16,75 to 84 years,"26,277","+/-2,151",3.5,+/-0.3
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",17,85 years and over,"9,815","+/-1,782",1.3,+/-0.2
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",17.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",18,Median age (years),35.0,+/-0.5,(X),(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",18.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",19,Under 18 years,"180,923","+/-4,425",24.1,+/-0.6
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",20,16 years and over,"587,232","+/-4,545",78.3,+/-0.6
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",21,18 years and over,"568,712","+/-4,264",75.9,+/-0.6
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",22,21 years and over,"543,912","+/-4,787",72.6,+/-0.6
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",23,62 years and over,"125,331","+/-3,928",16.7,+/-0.5
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",24,65 years and over,"100,157","+/-2,769",13.4,+/-0.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",24.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",25,18 years and over,"568,712","+/-4,264","568,712",(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",26,Male,"267,859","+/-3,464",47.1,+/-0.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",27,Female,"300,853","+/-2,979",52.9,+/-0.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",28,Sex ratio (males per 100 females),89.0,+/-1.5,(X),(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",28.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",29,65 years and over,"100,157","+/-2,769","100,157",(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",30,Male,"43,080","+/-1,348",43.0,+/-1.0
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",31,Female,"57,077","+/-2,047",57.0,+/-1.0
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",32,Sex ratio (males per 100 females),75.5,+/-3.0,(X),(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",32.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",32.5,RACE,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",33,Total population,"749,635","+/-1,365","749,635",(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",34,One race,"677,795","+/-8,411",90.4,+/-1.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",35,Two or more races,"71,840","+/-8,609",9.6,+/-1.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",35.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",36,One race,"677,795","+/-8,411",90.4,+/-1.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",37,White,"364,818","+/-8,014",48.7,+/-1.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",38,Black or African American,"250,421","+/-7,614",33.4,+/-1.0
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",39,American Indian and Alaska Native,"1,518","+/-1,339",0.2,+/-0.2
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",44,Asian,"14,784","+/-2,837",2.0,+/-0.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",45,Asian Indian,"4,384","+/-1,751",0.6,+/-0.2
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",46,Chinese,"2,032","+/-1,112",0.3,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",47,Filipino,"1,620",+/-828,0.2,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",48,Japanese,428,+/-353,0.1,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",49,Korean,983,+/-506,0.1,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",50,Vietnamese,665,+/-573,0.1,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",51,Other Asian,"4,672","+/-1,953",0.6,+/-0.3
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",52,Native Hawaiian and Other Pacific Islander,0,+/-208,0.0,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",53,Native Hawaiian,N,N,N,N
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",54,Chamorro,N,N,N,N
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",55,Samoan,N,N,N,N
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",57,Some other race,"46,254","+/-7,906",6.2,+/-1.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",58,Two or more races,"71,840","+/-8,609",9.6,+/-1.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",59,White and Black or African American,"21,453","+/-5,136",2.9,+/-0.7
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",60,White and American Indian and Alaska Native,"3,925","+/-1,016",0.5,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",61,White and Asian,"3,944","+/-1,608",0.5,+/-0.2
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",62,Black or African American and American Indian and Alaska Native,677,+/-428,0.1,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",62.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",63,Total population,"749,635","+/-1,365","749,635",(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",64,White,"430,885","+/-10,404",57.5,+/-1.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",65,Black or African American,"279,239","+/-6,549",37.2,+/-0.9
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",66,American Indian and Alaska Native,"9,927","+/-2,501",1.3,+/-0.3
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",67,Asian,"21,448","+/-3,331",2.9,+/-0.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",68,Native Hawaiian and Other Pacific Islander,"1,605","+/-1,133",0.2,+/-0.2
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",69,Some other race,"83,242","+/-7,133",11.1,+/-0.9
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",69.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",70,Total population,"749,635","+/-1,365","749,635",(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",71,Hispanic or Latino (of any race),"92,843","+/-4,718",12.4,+/-0.6
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",72,Mexican,"60,324","+/-6,071",8.0,+/-0.8
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",73,Puerto Rican,"6,257","+/-2,319",0.8,+/-0.3
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",74,Cuban,"1,741",+/-962,0.2,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",75,Other Hispanic or Latino,"24,521","+/-4,788",3.3,+/-0.6
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",76,Not Hispanic or Latino,"656,792","+/-4,579",87.6,+/-0.6
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",77,White alone,"349,403","+/-7,094",46.6,+/-1.0
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",78,Black or African American alone,"249,243","+/-7,489",33.2,+/-1.0
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",79,American Indian and Alaska Native alone,186,+/-147,0.0,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",80,Asian alone,"14,717","+/-2,851",2.0,+/-0.4
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",81,Native Hawaiian and Other Pacific Islander alone,0,+/-208,0.0,+/-0.1
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",82,Some other race alone,"6,105","+/-3,464",0.8,+/-0.5
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",83,Two or more races,"37,138","+/-6,432",5.0,+/-0.9
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",84,Two races including Some other race,"4,681","+/-2,037",0.6,+/-0.3
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",85,"Two races excluding Some other race, and Three or more races","32,457","+/-6,119",4.3,+/-0.8
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",85.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",86,Total housing units,"350,453","+/-4,005",(X),(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",86.3,,,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",87,"Citizen, 18 and over population","522,318","+/-6,866","522,318",(X)
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",88,Male,"242,917","+/-5,417",46.5,+/-0.6
+DP05,5001800US1807,"Congressional District 7 (118th Congress), Indiana",89,Female,"279,401","+/-4,027",53.5,+/-0.6
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",0.5,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",0.8,SEX AND AGE,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",1,Total population,"754,451","+/-1,437","754,451",(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",2,Male,"377,976","+/-2,090",50.1,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",3,Female,"376,475","+/-2,047",49.9,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",4,Sex ratio (males per 100 females),100.4,+/-1.0,(X),(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",4.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",5,Under 5 years,"45,060","+/-1,234",6.0,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",6,5 to 9 years,"47,766","+/-2,624",6.3,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",7,10 to 14 years,"46,030","+/-2,720",6.1,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",8,15 to 19 years,"50,571","+/-2,011",6.7,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",9,20 to 24 years,"47,705","+/-2,214",6.3,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",10,25 to 34 years,"93,764","+/-2,077",12.4,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",11,35 to 44 years,"94,027","+/-1,628",12.5,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",12,45 to 54 years,"88,824","+/-1,403",11.8,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",13,55 to 59 years,"48,679","+/-2,605",6.5,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",14,60 to 64 years,"54,185","+/-2,857",7.2,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",15,65 to 74 years,"83,891","+/-1,140",11.1,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",16,75 to 84 years,"38,580","+/-1,681",5.1,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",17,85 years and over,"15,369","+/-1,644",2.0,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",17.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",18,Median age (years),39.8,+/-0.3,(X),(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",18.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",19,Under 18 years,"168,468","+/-1,572",22.3,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",20,16 years and over,"605,024","+/-2,283",80.2,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",21,18 years and over,"585,983","+/-1,871",77.7,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",22,21 years and over,"554,412","+/-3,238",73.5,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",23,62 years and over,"169,188","+/-2,777",22.4,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",24,65 years and over,"137,840","+/-1,404",18.3,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",24.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",25,18 years and over,"585,983","+/-1,871","585,983",(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",26,Male,"291,855","+/-1,711",49.8,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",27,Female,"294,128","+/-1,587",50.2,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",28,Sex ratio (males per 100 females),99.2,+/-0.9,(X),(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",28.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",29,65 years and over,"137,840","+/-1,404","137,840",(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",30,Male,"61,928",+/-782,44.9,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",31,Female,"75,912","+/-1,015",55.1,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",32,Sex ratio (males per 100 females),81.6,+/-1.3,(X),(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",32.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",32.5,RACE,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",33,Total population,"754,451","+/-1,437","754,451",(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",34,One race,"714,482","+/-3,820",94.7,+/-0.5
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",35,Two or more races,"39,969","+/-3,425",5.3,+/-0.5
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",35.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",36,One race,"714,482","+/-3,820",94.7,+/-0.5
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",37,White,"669,294","+/-4,283",88.7,+/-0.5
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",38,Black or African American,"28,184","+/-2,692",3.7,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",39,American Indian and Alaska Native,"1,799","+/-1,436",0.2,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",44,Asian,"6,007","+/-1,089",0.8,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",45,Asian Indian,920,+/-638,0.1,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",46,Chinese,"1,347",+/-690,0.2,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",47,Filipino,"1,760",+/-916,0.2,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",48,Japanese,532,+/-450,0.1,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",49,Korean,897,+/-798,0.1,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",50,Vietnamese,101,+/-164,0.0,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",51,Other Asian,450,+/-281,0.1,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",52,Native Hawaiian and Other Pacific Islander,530,+/-402,0.1,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",53,Native Hawaiian,N,N,N,N
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",54,Chamorro,N,N,N,N
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",55,Samoan,N,N,N,N
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",57,Some other race,"8,668","+/-2,991",1.1,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",58,Two or more races,"39,969","+/-3,425",5.3,+/-0.5
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",59,White and Black or African American,"8,317","+/-1,833",1.1,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",60,White and American Indian and Alaska Native,"9,456","+/-1,655",1.3,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",61,White and Asian,"4,007","+/-1,516",0.5,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",62,Black or African American and American Indian and Alaska Native,222,+/-233,0.0,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",62.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",63,Total population,"754,451","+/-1,437","754,451",(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",64,White,"707,540","+/-4,252",93.8,+/-0.5
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",65,Black or African American,"40,355","+/-2,158",5.3,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",66,American Indian and Alaska Native,"13,198","+/-2,294",1.7,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",67,Asian,"11,388","+/-1,514",1.5,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",68,Native Hawaiian and Other Pacific Islander,754,+/-320,0.1,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",69,Some other race,"24,478","+/-3,807",3.2,+/-0.5
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",69.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",70,Total population,"754,451","+/-1,437","754,451",(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",71,Hispanic or Latino (of any race),"20,242",+/-743,2.7,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",72,Mexican,"11,465","+/-1,563",1.5,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",73,Puerto Rican,"2,024",+/-986,0.3,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",74,Cuban,458,+/-630,0.1,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",75,Other Hispanic or Latino,"6,295","+/-1,690",0.8,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",76,Not Hispanic or Latino,"734,209","+/-1,490",97.3,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",77,White alone,"664,783","+/-4,015",88.1,+/-0.5
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",78,Black or African American alone,"28,157","+/-2,692",3.7,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",79,American Indian and Alaska Native alone,506,+/-255,0.1,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",80,Asian alone,"6,007","+/-1,089",0.8,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",81,Native Hawaiian and Other Pacific Islander alone,530,+/-402,0.1,+/-0.1
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",82,Some other race alone,"3,780","+/-2,926",0.5,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",83,Two or more races,"30,446","+/-3,174",4.0,+/-0.4
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",84,Two races including Some other race,"6,175","+/-1,717",0.8,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",85,"Two races excluding Some other race, and Three or more races","24,271","+/-2,627",3.2,+/-0.3
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",85.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",86,Total housing units,"338,326","+/-1,314",(X),(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",86.3,,,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",87,"Citizen, 18 and over population","578,940","+/-2,416","578,940",(X)
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",88,Male,"288,238","+/-1,898",49.8,+/-0.2
+DP05,5001800US1808,"Congressional District 8 (118th Congress), Indiana",89,Female,"290,702","+/-1,824",50.2,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",0.5,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",0.8,SEX AND AGE,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",1,Total population,"757,993","+/-3,277","757,993",(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",2,Male,"377,342","+/-3,015",49.8,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",3,Female,"380,651","+/-2,481",50.2,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",4,Sex ratio (males per 100 females),99.1,+/-1.2,(X),(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",4.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",5,Under 5 years,"41,519","+/-1,375",5.5,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",6,5 to 9 years,"42,613","+/-2,845",5.6,+/-0.4
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",7,10 to 14 years,"47,578","+/-2,879",6.3,+/-0.4
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",8,15 to 19 years,"57,665","+/-4,196",7.6,+/-0.5
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",9,20 to 24 years,"57,416","+/-3,442",7.6,+/-0.5
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",10,25 to 34 years,"93,216","+/-2,606",12.3,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",11,35 to 44 years,"94,128","+/-1,843",12.4,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",12,45 to 54 years,"91,781","+/-1,282",12.1,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",13,55 to 59 years,"51,657","+/-3,017",6.8,+/-0.4
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",14,60 to 64 years,"50,049","+/-2,961",6.6,+/-0.4
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",15,65 to 74 years,"80,269","+/-1,120",10.6,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",16,75 to 84 years,"38,339","+/-1,673",5.1,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",17,85 years and over,"11,763","+/-1,389",1.6,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",17.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",18,Median age (years),39.3,+/-0.3,(X),(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",18.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",19,Under 18 years,"160,600","+/-1,947",21.2,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",20,16 years and over,"617,075","+/-2,842",81.4,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",21,18 years and over,"597,393","+/-2,392",78.8,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",22,21 years and over,"557,592","+/-3,909",73.6,+/-0.6
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",23,62 years and over,"160,608","+/-3,062",21.2,+/-0.4
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",24,65 years and over,"130,371","+/-1,405",17.2,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",24.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",25,18 years and over,"597,393","+/-2,392","597,393",(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",26,Male,"293,314","+/-1,812",49.1,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",27,Female,"304,079","+/-1,557",50.9,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",28,Sex ratio (males per 100 females),96.5,+/-0.8,(X),(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",28.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",29,65 years and over,"130,371","+/-1,405","130,371",(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",30,Male,"59,481","+/-1,129",45.6,+/-0.6
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",31,Female,"70,890",+/-863,54.4,+/-0.6
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",32,Sex ratio (males per 100 females),83.9,+/-1.9,(X),(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",32.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",32.5,RACE,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",33,Total population,"757,993","+/-3,277","757,993",(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",34,One race,"718,447","+/-5,210",94.8,+/-0.5
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",35,Two or more races,"39,546","+/-3,942",5.2,+/-0.5
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",35.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",36,One race,"718,447","+/-5,210",94.8,+/-0.5
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",37,White,"676,253","+/-3,756",89.2,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",38,Black or African American,"18,643","+/-1,794",2.5,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",39,American Indian and Alaska Native,"1,539",+/-853,0.2,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",44,Asian,"12,638","+/-1,558",1.7,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",45,Asian Indian,"2,257",+/-956,0.3,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",46,Chinese,"3,948","+/-1,008",0.5,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",47,Filipino,"1,196",+/-632,0.2,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",48,Japanese,715,+/-624,0.1,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",49,Korean,"1,327",+/-658,0.2,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",50,Vietnamese,778,+/-748,0.1,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",51,Other Asian,"2,417","+/-1,163",0.3,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",52,Native Hawaiian and Other Pacific Islander,11,+/-21,0.0,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",53,Native Hawaiian,N,N,N,N
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",54,Chamorro,N,N,N,N
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",55,Samoan,N,N,N,N
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",57,Some other race,"9,363","+/-2,696",1.2,+/-0.4
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",58,Two or more races,"39,546","+/-3,942",5.2,+/-0.5
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",59,White and Black or African American,"7,902","+/-1,814",1.0,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",60,White and American Indian and Alaska Native,"9,601","+/-1,400",1.3,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",61,White and Asian,"3,091","+/-1,117",0.4,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",62,Black or African American and American Indian and Alaska Native,380,+/-357,0.1,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",62.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",63,Total population,"757,993","+/-3,277","757,993",(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",64,White,"713,065","+/-5,056",94.1,+/-0.5
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",65,Black or African American,"30,489","+/-1,575",4.0,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",66,American Indian and Alaska Native,"14,620","+/-1,964",1.9,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",67,Asian,"16,527","+/-1,398",2.2,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",68,Native Hawaiian and Other Pacific Islander,"1,563","+/-1,000",0.2,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",69,Some other race,"25,076","+/-2,309",3.3,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",69.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",70,Total population,"757,993","+/-3,277","757,993",(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",71,Hispanic or Latino (of any race),"25,821",+/-904,3.4,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",72,Mexican,"15,418","+/-2,335",2.0,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",73,Puerto Rican,"2,872","+/-1,292",0.4,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",74,Cuban,329,+/-312,0.0,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",75,Other Hispanic or Latino,"7,202","+/-1,983",1.0,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",76,Not Hispanic or Latino,"732,172","+/-3,250",96.6,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",77,White alone,"672,736","+/-3,439",88.8,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",78,Black or African American alone,"18,403","+/-1,735",2.4,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",79,American Indian and Alaska Native alone,56,+/-59,0.0,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",80,Asian alone,"12,631","+/-1,558",1.7,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",81,Native Hawaiian and Other Pacific Islander alone,11,+/-21,0.0,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",82,Some other race alone,"2,235","+/-1,170",0.3,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",83,Two or more races,"26,100","+/-2,724",3.4,+/-0.4
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",84,Two races including Some other race,"2,173",+/-856,0.3,+/-0.1
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",85,"Two races excluding Some other race, and Three or more races","23,927","+/-2,541",3.2,+/-0.3
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",85.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",86,Total housing units,"331,815","+/-1,896",(X),(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",86.3,,,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",87,"Citizen, 18 and over population","582,042","+/-2,937","582,042",(X)
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",88,Male,"284,850","+/-2,150",48.9,+/-0.2
+DP05,5001800US1809,"Congressional District 9 (118th Congress), Indiana",89,Female,"297,192","+/-1,680",51.1,+/-0.2

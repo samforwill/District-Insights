@@ -1,0 +1,1489 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",0.5,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",1,Total housing units,"355,345","+/-1,174","355,345",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",2,Occupied housing units,"329,825","+/-3,376",92.8,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",3,Vacant housing units,"25,520","+/-3,085",7.2,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",3.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",4,Homeowner vacancy rate,1.0,+/-0.5,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",5,Rental vacancy rate,5.1,+/-1.0,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",5.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",6,Total housing units,"355,345","+/-1,174","355,345",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",7,"1-unit, detached","151,729","+/-4,097",42.7,+/-1.2
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",8,"1-unit, attached","28,723","+/-2,684",8.1,+/-0.8
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",9,2 units,"7,292","+/-1,434",2.1,+/-0.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",10,3 or 4 units,"11,004","+/-2,094",3.1,+/-0.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",11,5 to 9 units,"13,161","+/-1,911",3.7,+/-0.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",12,10 to 19 units,"25,111","+/-3,166",7.1,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",13,20 or more units,"116,610","+/-5,047",32.8,+/-1.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",14,Mobile home,"1,404",+/-732,0.4,+/-0.2
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",15,"Boat, RV, van, etc.",311,+/-296,0.1,+/-0.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",15.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",16,Total housing units,"355,345","+/-1,174","355,345",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",17,Built 2020 or later,"3,962","+/-1,170",1.1,+/-0.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",18,Built 2010 to 2019,"59,995","+/-4,114",16.9,+/-1.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",19,Built 2000 to 2009,"40,245","+/-3,409",11.3,+/-1.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",20,Built 1990 to 1999,"21,723","+/-2,986",6.1,+/-0.8
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",21,Built 1980 to 1989,"28,393","+/-3,035",8.0,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",22,Built 1970 to 1979,"41,659","+/-3,550",11.7,+/-1.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",23,Built 1960 to 1969,"33,967","+/-2,784",9.6,+/-0.8
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",24,Built 1950 to 1959,"43,272","+/-2,989",12.2,+/-0.8
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",25,Built 1940 to 1949,"20,536","+/-2,703",5.8,+/-0.8
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",26,Built 1939 or earlier,"61,593","+/-3,788",17.3,+/-1.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",26.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",26.5,ROOMS,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",27,Total housing units,"355,345","+/-1,174","355,345",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",28,1 room,"22,681","+/-2,239",6.4,+/-0.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",29,2 rooms,"28,171","+/-3,096",7.9,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",30,3 rooms,"58,252","+/-4,037",16.4,+/-1.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",31,4 rooms,"65,724","+/-3,930",18.5,+/-1.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",32,5 rooms,"43,029","+/-3,461",12.1,+/-1.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",33,6 rooms,"37,992","+/-2,813",10.7,+/-0.8
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",34,7 rooms,"33,669","+/-2,970",9.5,+/-0.8
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",35,8 rooms,"24,597","+/-2,362",6.9,+/-0.7
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",36,9 rooms or more,"41,230","+/-3,040",11.6,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",37,Median rooms,4.6,+/-0.2,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",37.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",37.5,BEDROOMS,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",38,Total housing units,"355,345","+/-1,174","355,345",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",39,No bedroom,"24,856","+/-2,345",7.0,+/-0.7
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",40,1 bedroom,"78,215","+/-4,453",22.0,+/-1.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",41,2 bedrooms,"106,154","+/-4,790",29.9,+/-1.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",42,3 bedrooms,"79,010","+/-3,809",22.2,+/-1.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",43,4 bedrooms,"49,078","+/-3,118",13.8,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",44,5 or more bedrooms,"18,032","+/-2,000",5.1,+/-0.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",44.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",44.5,HOUSING TENURE,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",45,Occupied housing units,"329,825","+/-3,376","329,825",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",46,Owner-occupied,"164,491","+/-4,602",49.9,+/-1.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",47,Renter-occupied,"165,334","+/-5,430",50.1,+/-1.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",47.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",48,Average household size of owner-occupied unit,2.40,+/-0.05,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",49,Average household size of renter-occupied unit,1.88,+/-0.05,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",49.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",50,Occupied housing units,"329,825","+/-3,376","329,825",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",51,Moved in 2019 or later,"141,478","+/-5,236",42.9,+/-1.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",52,Moved in 2015 to 2018,"73,520","+/-4,250",22.3,+/-1.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",53,Moved in 2010 to 2014,"42,340","+/-3,039",12.8,+/-1.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",54,Moved in 2000 to 2009,"35,222","+/-2,745",10.7,+/-0.8
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",55,Moved in 1990 to 1999,"17,243","+/-1,972",5.2,+/-0.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",56,Moved in 1989 and earlier,"20,022","+/-2,058",6.1,+/-0.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",56.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",57,Occupied housing units,"329,825","+/-3,376","329,825",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",58,No vehicles available,"32,221","+/-3,100",9.8,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",59,1 vehicle available,"140,110","+/-5,131",42.5,+/-1.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",60,2 vehicles available,"110,546","+/-5,382",33.5,+/-1.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",61,3 or more vehicles available,"46,948","+/-3,038",14.2,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",61.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",62,Occupied housing units,"329,825","+/-3,376","329,825",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",63,Utility gas,"204,094","+/-5,303",61.9,+/-1.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",64,"Bottled, tank, or LP gas","3,951","+/-1,022",1.2,+/-0.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",65,Electricity,"114,758","+/-5,306",34.8,+/-1.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",66,"Fuel oil, kerosene, etc.",615,+/-474,0.2,+/-0.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",67,Coal or coke,0,+/-211,0.0,+/-0.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",68,Wood,37,+/-60,0.0,+/-0.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",69,Solar energy,"1,583",+/-730,0.5,+/-0.2
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",70,Other fuel,"2,229",+/-855,0.7,+/-0.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",71,No fuel used,"2,558","+/-1,064",0.8,+/-0.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",71.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",72,Occupied housing units,"329,825","+/-3,376","329,825",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",73,Lacking complete plumbing facilities,"2,097",+/-905,0.6,+/-0.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",74,Lacking complete kitchen facilities,"2,989",+/-882,0.9,+/-0.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",75,No telephone service available,"3,717","+/-1,299",1.1,+/-0.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",75.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",76,Occupied housing units,"329,825","+/-3,376","329,825",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",77,1.00 or less,"319,654","+/-4,103",96.9,+/-0.7
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",78,1.01 to 1.50,"6,410","+/-1,820",1.9,+/-0.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",79,1.51 or more,"3,761","+/-1,071",1.1,+/-0.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",79.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",79.5,VALUE,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",80,Owner-occupied units,"164,491","+/-4,602","164,491",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",81,"Less than $50,000","3,266","+/-1,205",2.0,+/-0.7
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",82,"$50,000 to $99,999",587,+/-345,0.4,+/-0.2
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",83,"$100,000 to $149,999","1,671",+/-684,1.0,+/-0.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",84,"$150,000 to $199,999","2,253",+/-632,1.4,+/-0.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",85,"$200,000 to $299,999","12,232","+/-1,905",7.4,+/-1.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",86,"$300,000 to $499,999","54,096","+/-4,283",32.9,+/-2.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",87,"$500,000 to $999,999","69,475","+/-4,469",42.2,+/-2.2
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",88,"$1,000,000 or more","20,911","+/-1,881",12.7,+/-1.2
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",89,Median (dollars),"542,700","+/-16,270",(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",89.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",90,Owner-occupied units,"164,491","+/-4,602","164,491",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",91,Housing units with a mortgage,"123,636","+/-4,241",75.2,+/-1.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",92,Housing units without a mortgage,"40,855","+/-2,796",24.8,+/-1.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",92.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",93,Housing units with a mortgage,"123,636","+/-4,241","123,636",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",94,Less than $500,"1,443",+/-791,1.2,+/-0.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",95,$500 to $999,"7,202","+/-1,283",5.8,+/-1.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",96,"$1,000 to $1,499","18,730","+/-2,203",15.1,+/-1.7
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",97,"$1,500 to $1,999","30,020","+/-2,970",24.3,+/-2.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",98,"$2,000 to $2,499","25,196","+/-2,740",20.4,+/-2.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",99,"$2,500 to $2,999","16,969","+/-2,161",13.7,+/-1.7
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",100,"$3,000 or more","24,076","+/-2,292",19.5,+/-1.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",101,Median (dollars),"2,088",+/-57,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",101.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",102,Housing units without a mortgage,"40,855","+/-2,796","40,855",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",103,Less than $250,984,+/-376,2.4,+/-0.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",104,$250 to $399,"6,463","+/-1,110",15.8,+/-2.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",105,$400 to $599,"13,641","+/-1,438",33.4,+/-2.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",106,$600 to $799,"10,819","+/-1,611",26.5,+/-3.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",107,$800 to $999,"3,072",+/-916,7.5,+/-2.2
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",108,"$1,000 or more","5,876","+/-1,061",14.4,+/-2.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",109,Median (dollars),590,+/-18,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",109.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"123,012","+/-4,254","123,012",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",111,Less than 20.0 percent,"53,250","+/-2,768",43.3,+/-2.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",112,20.0 to 24.9 percent,"18,397","+/-1,988",15.0,+/-1.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",113,25.0 to 29.9 percent,"13,850","+/-2,150",11.3,+/-1.7
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",114,30.0 to 34.9 percent,"8,355","+/-1,594",6.8,+/-1.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",115,35.0 percent or more,"29,160","+/-2,676",23.7,+/-1.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",115.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",116,Not computed,624,+/-489,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",116.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"40,311","+/-2,766","40,311",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",118,Less than 10.0 percent,"20,200","+/-1,696",50.1,+/-3.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",119,10.0 to 14.9 percent,"7,286","+/-1,273",18.1,+/-2.7
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",120,15.0 to 19.9 percent,"4,070",+/-956,10.1,+/-2.2
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",121,20.0 to 24.9 percent,"2,243",+/-699,5.6,+/-1.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",122,25.0 to 29.9 percent,897,+/-407,2.2,+/-1.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",123,30.0 to 34.9 percent,"1,183",+/-535,2.9,+/-1.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",124,35.0 percent or more,"4,432","+/-1,056",11.0,+/-2.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",124.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",125,Not computed,544,+/-360,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",125.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",125.5,GROSS RENT,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",126,Occupied units paying rent,"161,885","+/-5,476","161,885",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",127,Less than $500,"9,304","+/-1,909",5.7,+/-1.2
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",128,$500 to $999,"15,624","+/-2,171",9.7,+/-1.4
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",129,"$1,000 to $1,499","52,410","+/-3,798",32.4,+/-2.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",130,"$1,500 to $1,999","44,139","+/-3,549",27.3,+/-2.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",131,"$2,000 to $2,499","24,487","+/-2,840",15.1,+/-1.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",132,"$2,500 to $2,999","8,554","+/-1,874",5.3,+/-1.1
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",133,"$3,000 or more","7,367","+/-1,586",4.6,+/-1.0
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",134,Median (dollars),"1,541",+/-35,(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",134.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",135,No rent paid,"3,449","+/-1,129",(X),(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",135.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"158,686","+/-5,430","158,686",(X)
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",137,Less than 15.0 percent,"17,373","+/-2,353",10.9,+/-1.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",138,15.0 to 19.9 percent,"20,178","+/-2,817",12.7,+/-1.6
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",139,20.0 to 24.9 percent,"21,825","+/-2,902",13.8,+/-1.8
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",140,25.0 to 29.9 percent,"23,586","+/-3,121",14.9,+/-1.9
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",141,30.0 to 34.9 percent,"15,547","+/-2,089",9.8,+/-1.3
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",142,35.0 percent or more,"60,177","+/-4,696",37.9,+/-2.5
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",142.3,,,,,
+DP04,5001800US0801,"Congressional District 1 (118th Congress), Colorado",143,Not computed,"6,648","+/-1,701",(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",0.5,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",1,Total housing units,"364,003","+/-4,307","364,003",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",2,Occupied housing units,"292,169","+/-5,341",80.3,+/-1.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",3,Vacant housing units,"71,834","+/-3,697",19.7,+/-1.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",3.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",5,Rental vacancy rate,10.3,+/-1.9,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",5.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",6,Total housing units,"364,003","+/-4,307","364,003",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",7,"1-unit, detached","203,112","+/-4,786",55.8,+/-1.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",8,"1-unit, attached","34,914","+/-2,787",9.6,+/-0.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",9,2 units,"6,907","+/-1,469",1.9,+/-0.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",10,3 or 4 units,"12,759","+/-1,917",3.5,+/-0.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",11,5 to 9 units,"22,261","+/-2,636",6.1,+/-0.7
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",12,10 to 19 units,"24,494","+/-3,369",6.7,+/-0.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",13,20 or more units,"48,208","+/-3,835",13.2,+/-1.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",14,Mobile home,"10,783","+/-1,467",3.0,+/-0.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",15,"Boat, RV, van, etc.",565,+/-376,0.2,+/-0.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",15.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",16,Total housing units,"364,003","+/-4,307","364,003",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",17,Built 2020 or later,"2,280",+/-877,0.6,+/-0.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",18,Built 2010 to 2019,"42,140","+/-3,254",11.6,+/-0.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",19,Built 2000 to 2009,"59,835","+/-3,713",16.4,+/-1.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",20,Built 1990 to 1999,"66,945","+/-3,769",18.4,+/-1.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",21,Built 1980 to 1989,"57,182","+/-4,156",15.7,+/-1.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",22,Built 1970 to 1979,"72,691","+/-4,908",20.0,+/-1.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",23,Built 1960 to 1969,"26,211","+/-2,406",7.2,+/-0.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",24,Built 1950 to 1959,"12,710","+/-1,664",3.5,+/-0.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",25,Built 1940 to 1949,"3,968",+/-911,1.1,+/-0.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",26,Built 1939 or earlier,"20,041","+/-2,131",5.5,+/-0.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",26.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",26.5,ROOMS,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",27,Total housing units,"364,003","+/-4,307","364,003",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",28,1 room,"8,615","+/-1,852",2.4,+/-0.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",29,2 rooms,"20,361","+/-2,294",5.6,+/-0.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",30,3 rooms,"53,021","+/-3,483",14.6,+/-1.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",31,4 rooms,"53,072","+/-4,121",14.6,+/-1.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",32,5 rooms,"57,068","+/-4,776",15.7,+/-1.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",33,6 rooms,"46,587","+/-3,693",12.8,+/-1.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",34,7 rooms,"36,744","+/-3,147",10.1,+/-0.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",35,8 rooms,"29,735","+/-2,281",8.2,+/-0.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",36,9 rooms or more,"58,800","+/-3,350",16.2,+/-1.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",37,Median rooms,5.3,+/-0.1,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",37.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",37.5,BEDROOMS,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",38,Total housing units,"364,003","+/-4,307","364,003",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",39,No bedroom,"9,168","+/-1,833",2.5,+/-0.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",40,1 bedroom,"37,607","+/-3,119",10.3,+/-0.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",41,2 bedrooms,"101,479","+/-4,928",27.9,+/-1.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",42,3 bedrooms,"113,905","+/-5,001",31.3,+/-1.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",43,4 bedrooms,"73,260","+/-4,068",20.1,+/-1.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",44,5 or more bedrooms,"28,584","+/-2,773",7.9,+/-0.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",44.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",44.5,HOUSING TENURE,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",45,Occupied housing units,"292,169","+/-5,341","292,169",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",46,Owner-occupied,"186,122","+/-4,963",63.7,+/-1.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",47,Renter-occupied,"106,047","+/-5,341",36.3,+/-1.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",47.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",48,Average household size of owner-occupied unit,2.53,+/-0.04,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",49,Average household size of renter-occupied unit,2.13,+/-0.08,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",49.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",50,Occupied housing units,"292,169","+/-5,341","292,169",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",51,Moved in 2019 or later,"104,860","+/-5,003",35.9,+/-1.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",52,Moved in 2015 to 2018,"61,298","+/-3,325",21.0,+/-1.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",53,Moved in 2010 to 2014,"37,181","+/-3,379",12.7,+/-1.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",54,Moved in 2000 to 2009,"44,881","+/-3,319",15.4,+/-1.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",55,Moved in 1990 to 1999,"26,835","+/-2,552",9.2,+/-0.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",56,Moved in 1989 and earlier,"17,114","+/-1,950",5.9,+/-0.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",56.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",57,Occupied housing units,"292,169","+/-5,341","292,169",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",58,No vehicles available,"10,198","+/-1,766",3.5,+/-0.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",59,1 vehicle available,"87,879","+/-4,528",30.1,+/-1.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",60,2 vehicles available,"123,867","+/-4,902",42.4,+/-1.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",61,3 or more vehicles available,"70,225","+/-3,951",24.0,+/-1.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",61.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",62,Occupied housing units,"292,169","+/-5,341","292,169",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",63,Utility gas,"189,829","+/-5,342",65.0,+/-1.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",64,"Bottled, tank, or LP gas","12,909","+/-2,011",4.4,+/-0.7
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",65,Electricity,"78,608","+/-4,368",26.9,+/-1.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",66,"Fuel oil, kerosene, etc.",210,+/-190,0.1,+/-0.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",67,Coal or coke,153,+/-166,0.1,+/-0.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",68,Wood,"5,805","+/-1,250",2.0,+/-0.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",69,Solar energy,"2,009",+/-801,0.7,+/-0.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",70,Other fuel,"1,678",+/-734,0.6,+/-0.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",71,No fuel used,968,+/-569,0.3,+/-0.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",71.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",72,Occupied housing units,"292,169","+/-5,341","292,169",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",73,Lacking complete plumbing facilities,934,+/-634,0.3,+/-0.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",74,Lacking complete kitchen facilities,"1,421",+/-581,0.5,+/-0.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",75,No telephone service available,"1,116",+/-488,0.4,+/-0.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",75.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",76,Occupied housing units,"292,169","+/-5,341","292,169",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",77,1.00 or less,"286,609","+/-5,603",98.1,+/-0.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",78,1.01 to 1.50,"3,555","+/-1,209",1.2,+/-0.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",79,1.51 or more,"2,005",+/-937,0.7,+/-0.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",79.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",79.5,VALUE,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",80,Owner-occupied units,"186,122","+/-4,963","186,122",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",81,"Less than $50,000","5,985","+/-1,257",3.2,+/-0.7
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",82,"$50,000 to $99,999","3,096",+/-918,1.7,+/-0.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",83,"$100,000 to $149,999","1,482",+/-591,0.8,+/-0.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",84,"$150,000 to $199,999","1,402",+/-543,0.8,+/-0.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",85,"$200,000 to $299,999","7,625","+/-1,424",4.1,+/-0.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",86,"$300,000 to $499,999","49,713","+/-3,161",26.7,+/-1.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",87,"$500,000 to $999,999","84,786","+/-4,045",45.6,+/-1.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",88,"$1,000,000 or more","32,033","+/-2,607",17.2,+/-1.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",89,Median (dollars),"603,000","+/-11,039",(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",89.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",90,Owner-occupied units,"186,122","+/-4,963","186,122",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",91,Housing units with a mortgage,"126,301","+/-4,490",67.9,+/-1.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",92,Housing units without a mortgage,"59,821","+/-3,740",32.1,+/-1.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",92.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",93,Housing units with a mortgage,"126,301","+/-4,490","126,301",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",94,Less than $500,776,+/-420,0.6,+/-0.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",95,$500 to $999,"5,039","+/-1,155",4.0,+/-0.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",96,"$1,000 to $1,499","18,762","+/-2,076",14.9,+/-1.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",97,"$1,500 to $1,999","26,975","+/-2,447",21.4,+/-1.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",98,"$2,000 to $2,499","27,710","+/-2,675",21.9,+/-2.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",99,"$2,500 to $2,999","18,244","+/-2,316",14.4,+/-1.7
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",100,"$3,000 or more","28,795","+/-2,998",22.8,+/-2.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",101,Median (dollars),"2,209",+/-46,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",101.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",102,Housing units without a mortgage,"59,821","+/-3,740","59,821",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",103,Less than $250,"4,330","+/-1,129",7.2,+/-1.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",104,$250 to $399,"7,059","+/-1,533",11.8,+/-2.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",105,$400 to $599,"17,831","+/-2,055",29.8,+/-3.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",106,$600 to $799,"13,944","+/-1,942",23.3,+/-2.7
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",107,$800 to $999,"8,590","+/-1,398",14.4,+/-2.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",108,"$1,000 or more","8,067","+/-1,316",13.5,+/-2.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",109,Median (dollars),610,+/-23,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",109.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"125,968","+/-4,489","125,968",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",111,Less than 20.0 percent,"58,399","+/-2,895",46.4,+/-1.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",112,20.0 to 24.9 percent,"18,414","+/-1,881",14.6,+/-1.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",113,25.0 to 29.9 percent,"13,247","+/-1,875",10.5,+/-1.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",114,30.0 to 34.9 percent,"8,685","+/-1,459",6.9,+/-1.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",115,35.0 percent or more,"27,223","+/-2,606",21.6,+/-1.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",115.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",116,Not computed,333,+/-239,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",116.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"59,112","+/-3,668","59,112",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",118,Less than 10.0 percent,"31,253","+/-2,973",52.9,+/-3.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",119,10.0 to 14.9 percent,"10,333","+/-1,308",17.5,+/-2.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",120,15.0 to 19.9 percent,"4,094",+/-794,6.9,+/-1.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",121,20.0 to 24.9 percent,"3,698","+/-1,023",6.3,+/-1.6
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",122,25.0 to 29.9 percent,"2,172",+/-862,3.7,+/-1.4
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",123,30.0 to 34.9 percent,"1,230",+/-554,2.1,+/-0.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",124,35.0 percent or more,"6,332","+/-1,341",10.7,+/-2.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",124.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",125,Not computed,709,+/-465,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",125.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",125.5,GROSS RENT,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",126,Occupied units paying rent,"102,177","+/-5,125","102,177",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",127,Less than $500,"2,829","+/-1,002",2.8,+/-1.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",128,$500 to $999,"10,115","+/-1,841",9.9,+/-1.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",129,"$1,000 to $1,499","31,834","+/-3,431",31.2,+/-2.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",130,"$1,500 to $1,999","30,188","+/-3,370",29.5,+/-3.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",131,"$2,000 to $2,499","13,746","+/-2,224",13.5,+/-2.0
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",132,"$2,500 to $2,999","6,846","+/-1,610",6.7,+/-1.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",133,"$3,000 or more","6,619","+/-1,266",6.5,+/-1.2
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",134,Median (dollars),"1,605",+/-48,(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",134.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",135,No rent paid,"3,870","+/-1,163",(X),(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",135.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"99,663","+/-5,088","99,663",(X)
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",137,Less than 15.0 percent,"7,847","+/-1,435",7.9,+/-1.3
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",138,15.0 to 19.9 percent,"12,856","+/-1,992",12.9,+/-1.9
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",139,20.0 to 24.9 percent,"11,360","+/-1,741",11.4,+/-1.8
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",140,25.0 to 29.9 percent,"10,880","+/-1,796",10.9,+/-1.7
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",141,30.0 to 34.9 percent,"9,853","+/-1,600",9.9,+/-1.5
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",142,35.0 percent or more,"46,867","+/-4,053",47.0,+/-3.1
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",142.3,,,,,
+DP04,5001800US0802,"Congressional District 2 (118th Congress), Colorado",143,Not computed,"6,384","+/-1,505",(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",0.5,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",1,Total housing units,"350,262","+/-2,377","350,262",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",2,Occupied housing units,"300,470","+/-3,547",85.8,+/-0.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",3,Vacant housing units,"49,792","+/-3,043",14.2,+/-0.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",3.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",4,Homeowner vacancy rate,0.7,+/-0.4,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",5,Rental vacancy rate,5.2,+/-1.3,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",5.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",6,Total housing units,"350,262","+/-2,377","350,262",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",7,"1-unit, detached","245,536","+/-4,477",70.1,+/-1.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",8,"1-unit, attached","12,233","+/-1,720",3.5,+/-0.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",9,2 units,"8,614","+/-1,841",2.5,+/-0.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",10,3 or 4 units,"13,514","+/-2,307",3.9,+/-0.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",11,5 to 9 units,"11,222","+/-2,165",3.2,+/-0.6
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",12,10 to 19 units,"9,018","+/-1,669",2.6,+/-0.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",13,20 or more units,"15,934","+/-2,109",4.5,+/-0.6
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",14,Mobile home,"33,523","+/-2,830",9.6,+/-0.8
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",15,"Boat, RV, van, etc.",668,+/-278,0.2,+/-0.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",15.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",16,Total housing units,"350,262","+/-2,377","350,262",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",17,Built 2020 or later,"3,069","+/-1,080",0.9,+/-0.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",18,Built 2010 to 2019,"27,189","+/-2,482",7.8,+/-0.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",19,Built 2000 to 2009,"65,034","+/-3,101",18.6,+/-0.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",20,Built 1990 to 1999,"54,584","+/-3,365",15.6,+/-1.0
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",21,Built 1980 to 1989,"44,173","+/-3,661",12.6,+/-1.0
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",22,Built 1970 to 1979,"58,637","+/-3,456",16.7,+/-1.0
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",23,Built 1960 to 1969,"22,300","+/-2,459",6.4,+/-0.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",24,Built 1950 to 1959,"22,880","+/-2,434",6.5,+/-0.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",25,Built 1940 to 1949,"10,883","+/-1,721",3.1,+/-0.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",26,Built 1939 or earlier,"41,513","+/-3,044",11.9,+/-0.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",26.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",26.5,ROOMS,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",27,Total housing units,"350,262","+/-2,377","350,262",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",28,1 room,"9,639","+/-1,640",2.8,+/-0.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",29,2 rooms,"10,761","+/-1,863",3.1,+/-0.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",30,3 rooms,"25,656","+/-2,670",7.3,+/-0.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",31,4 rooms,"52,105","+/-3,858",14.9,+/-1.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",32,5 rooms,"71,539","+/-3,742",20.4,+/-1.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",33,6 rooms,"73,558","+/-3,722",21.0,+/-1.0
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",34,7 rooms,"40,624","+/-3,147",11.6,+/-0.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",35,8 rooms,"26,997","+/-2,264",7.7,+/-0.6
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",36,9 rooms or more,"39,383","+/-3,030",11.2,+/-0.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",37,Median rooms,5.6,+/-0.1,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",37.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",37.5,BEDROOMS,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",38,Total housing units,"350,262","+/-2,377","350,262",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",39,No bedroom,"10,504","+/-1,758",3.0,+/-0.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",40,1 bedroom,"28,814","+/-2,844",8.2,+/-0.8
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",41,2 bedrooms,"85,892","+/-4,331",24.5,+/-1.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",42,3 bedrooms,"149,639","+/-5,105",42.7,+/-1.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",43,4 bedrooms,"59,757","+/-3,775",17.1,+/-1.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",44,5 or more bedrooms,"15,656","+/-1,966",4.5,+/-0.6
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",44.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",44.5,HOUSING TENURE,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",45,Occupied housing units,"300,470","+/-3,547","300,470",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",46,Owner-occupied,"215,064","+/-4,384",71.6,+/-1.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",47,Renter-occupied,"85,406","+/-4,275",28.4,+/-1.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",47.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",48,Average household size of owner-occupied unit,2.50,+/-0.04,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",49,Average household size of renter-occupied unit,2.10,+/-0.08,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",49.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",50,Occupied housing units,"300,470","+/-3,547","300,470",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",51,Moved in 2019 or later,"86,312","+/-5,271",28.7,+/-1.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",52,Moved in 2015 to 2018,"69,361","+/-4,573",23.1,+/-1.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",53,Moved in 2010 to 2014,"38,907","+/-3,503",12.9,+/-1.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",54,Moved in 2000 to 2009,"51,188","+/-3,308",17.0,+/-1.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",55,Moved in 1990 to 1999,"28,707","+/-2,255",9.6,+/-0.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",56,Moved in 1989 and earlier,"25,995","+/-2,014",8.7,+/-0.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",56.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",57,Occupied housing units,"300,470","+/-3,547","300,470",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",58,No vehicles available,"16,811","+/-2,051",5.6,+/-0.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",59,1 vehicle available,"84,552","+/-4,243",28.1,+/-1.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",60,2 vehicles available,"110,065","+/-4,263",36.6,+/-1.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",61,3 or more vehicles available,"89,042","+/-3,481",29.6,+/-1.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",61.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",62,Occupied housing units,"300,470","+/-3,547","300,470",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",63,Utility gas,"184,519","+/-5,382",61.4,+/-1.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",64,"Bottled, tank, or LP gas","36,820","+/-2,730",12.3,+/-0.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",65,Electricity,"58,730","+/-3,972",19.5,+/-1.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",66,"Fuel oil, kerosene, etc.",294,+/-225,0.1,+/-0.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",67,Coal or coke,224,+/-229,0.1,+/-0.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",68,Wood,"15,142","+/-1,620",5.0,+/-0.6
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",69,Solar energy,"1,556",+/-588,0.5,+/-0.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",70,Other fuel,"2,245",+/-682,0.7,+/-0.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",71,No fuel used,940,+/-497,0.3,+/-0.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",71.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",72,Occupied housing units,"300,470","+/-3,547","300,470",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",73,Lacking complete plumbing facilities,"1,770",+/-710,0.6,+/-0.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",74,Lacking complete kitchen facilities,"2,805",+/-889,0.9,+/-0.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",75,No telephone service available,"2,844","+/-1,040",0.9,+/-0.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",75.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",76,Occupied housing units,"300,470","+/-3,547","300,470",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",77,1.00 or less,"294,824","+/-3,651",98.1,+/-0.4
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",78,1.01 to 1.50,"3,674",+/-951,1.2,+/-0.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",79,1.51 or more,"1,972",+/-885,0.7,+/-0.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",79.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",79.5,VALUE,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",80,Owner-occupied units,"215,064","+/-4,384","215,064",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",81,"Less than $50,000","11,585","+/-1,786",5.4,+/-0.8
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",82,"$50,000 to $99,999","12,133","+/-1,453",5.6,+/-0.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",83,"$100,000 to $149,999","13,985","+/-2,098",6.5,+/-0.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",84,"$150,000 to $199,999","22,484","+/-2,364",10.5,+/-1.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",85,"$200,000 to $299,999","43,009","+/-2,899",20.0,+/-1.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",86,"$300,000 to $499,999","63,323","+/-3,574",29.4,+/-1.6
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",87,"$500,000 to $999,999","35,609","+/-2,619",16.6,+/-1.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",88,"$1,000,000 or more","12,936","+/-1,683",6.0,+/-0.8
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",89,Median (dollars),"312,000","+/-9,594",(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",89.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",90,Owner-occupied units,"215,064","+/-4,384","215,064",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",91,Housing units with a mortgage,"126,238","+/-4,762",58.7,+/-1.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",92,Housing units without a mortgage,"88,826","+/-3,943",41.3,+/-1.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",92.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",93,Housing units with a mortgage,"126,238","+/-4,762","126,238",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",94,Less than $500,"1,569",+/-646,1.2,+/-0.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",95,$500 to $999,"22,241","+/-2,691",17.6,+/-1.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",96,"$1,000 to $1,499","40,771","+/-3,082",32.3,+/-1.8
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",97,"$1,500 to $1,999","30,585","+/-2,700",24.2,+/-2.0
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",98,"$2,000 to $2,499","14,797","+/-2,149",11.7,+/-1.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",99,"$2,500 to $2,999","7,912","+/-1,350",6.3,+/-1.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",100,"$3,000 or more","8,363","+/-1,483",6.6,+/-1.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",101,Median (dollars),"1,481",+/-33,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",101.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",102,Housing units without a mortgage,"88,826","+/-3,943","88,826",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",103,Less than $250,"13,586","+/-1,632",15.3,+/-1.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",104,$250 to $399,"28,810","+/-2,525",32.4,+/-2.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",105,$400 to $599,"26,163","+/-2,341",29.5,+/-2.4
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",106,$600 to $799,"10,858","+/-1,468",12.2,+/-1.6
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",107,$800 to $999,"3,484",+/-745,3.9,+/-0.8
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",108,"$1,000 or more","5,925","+/-1,430",6.7,+/-1.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",109,Median (dollars),415,+/-17,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",109.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"125,500","+/-4,737","125,500",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",111,Less than 20.0 percent,"53,198","+/-3,596",42.4,+/-2.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",112,20.0 to 24.9 percent,"19,959","+/-2,510",15.9,+/-1.8
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",113,25.0 to 29.9 percent,"12,423","+/-1,857",9.9,+/-1.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",114,30.0 to 34.9 percent,"9,859","+/-1,902",7.9,+/-1.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",115,35.0 percent or more,"30,061","+/-3,197",24.0,+/-2.4
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",115.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",116,Not computed,738,+/-465,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",116.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"87,224","+/-3,945","87,224",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",118,Less than 10.0 percent,"47,234","+/-2,949",54.2,+/-2.4
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",119,10.0 to 14.9 percent,"13,436","+/-1,594",15.4,+/-1.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",120,15.0 to 19.9 percent,"7,634","+/-1,240",8.8,+/-1.4
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",121,20.0 to 24.9 percent,"4,833",+/-953,5.5,+/-1.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",122,25.0 to 29.9 percent,"3,663","+/-1,124",4.2,+/-1.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",123,30.0 to 34.9 percent,"1,768",+/-718,2.0,+/-0.8
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",124,35.0 percent or more,"8,656","+/-1,447",9.9,+/-1.5
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",124.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",125,Not computed,"1,602",+/-637,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",125.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",125.5,GROSS RENT,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",126,Occupied units paying rent,"79,762","+/-4,245","79,762",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",127,Less than $500,"9,973","+/-1,445",12.5,+/-1.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",128,$500 to $999,"32,015","+/-2,732",40.1,+/-3.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",129,"$1,000 to $1,499","22,618","+/-2,977",28.4,+/-3.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",130,"$1,500 to $1,999","10,155","+/-1,889",12.7,+/-2.3
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",131,"$2,000 to $2,499","2,392","+/-1,111",3.0,+/-1.4
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",132,"$2,500 to $2,999","1,374",+/-702,1.7,+/-0.9
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",133,"$3,000 or more","1,235",+/-815,1.5,+/-1.0
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",134,Median (dollars),968,+/-35,(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",134.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",135,No rent paid,"5,644","+/-1,272",(X),(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",135.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"77,067","+/-4,270","77,067",(X)
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",137,Less than 15.0 percent,"9,450","+/-1,768",12.3,+/-2.2
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",138,15.0 to 19.9 percent,"9,256","+/-1,746",12.0,+/-2.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",139,20.0 to 24.9 percent,"10,864","+/-1,757",14.1,+/-2.0
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",140,25.0 to 29.9 percent,"9,160","+/-1,641",11.9,+/-2.1
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",141,30.0 to 34.9 percent,"6,586","+/-1,500",8.5,+/-1.8
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",142,35.0 percent or more,"31,751","+/-2,439",41.2,+/-2.7
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",142.3,,,,,
+DP04,5001800US0803,"Congressional District 3 (118th Congress), Colorado",143,Not computed,"8,339","+/-1,531",(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",0.5,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",1,Total housing units,"293,448","+/-3,735","293,448",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",2,Occupied housing units,"281,545","+/-3,999",95.9,+/-0.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",3,Vacant housing units,"11,903","+/-1,679",4.1,+/-0.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",3.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",4,Homeowner vacancy rate,0.5,+/-0.4,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",5,Rental vacancy rate,3.2,+/-1.1,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",5.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",6,Total housing units,"293,448","+/-3,735","293,448",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",7,"1-unit, detached","224,604","+/-4,340",76.5,+/-1.1
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",8,"1-unit, attached","14,854","+/-2,310",5.1,+/-0.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",9,2 units,"1,881",+/-783,0.6,+/-0.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",10,3 or 4 units,"4,653","+/-1,200",1.6,+/-0.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",11,5 to 9 units,"9,841","+/-2,050",3.4,+/-0.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",12,10 to 19 units,"9,178","+/-1,745",3.1,+/-0.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",13,20 or more units,"16,354","+/-2,102",5.6,+/-0.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",14,Mobile home,"11,609","+/-1,490",4.0,+/-0.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",15,"Boat, RV, van, etc.",474,+/-427,0.2,+/-0.1
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",15.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",16,Total housing units,"293,448","+/-3,735","293,448",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",17,Built 2020 or later,"7,288","+/-1,514",2.5,+/-0.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",18,Built 2010 to 2019,"53,571","+/-3,496",18.3,+/-1.1
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",19,Built 2000 to 2009,"69,458","+/-3,355",23.7,+/-1.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",20,Built 1990 to 1999,"63,966","+/-3,139",21.8,+/-1.1
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",21,Built 1980 to 1989,"30,586","+/-3,018",10.4,+/-1.0
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",22,Built 1970 to 1979,"27,374","+/-2,205",9.3,+/-0.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",23,Built 1960 to 1969,"9,630","+/-1,312",3.3,+/-0.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",24,Built 1950 to 1959,"7,249","+/-1,064",2.5,+/-0.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",25,Built 1940 to 1949,"6,166","+/-1,338",2.1,+/-0.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",26,Built 1939 or earlier,"18,160","+/-1,876",6.2,+/-0.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",26.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",26.5,ROOMS,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",27,Total housing units,"293,448","+/-3,735","293,448",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",28,1 room,"3,802","+/-1,191",1.3,+/-0.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",29,2 rooms,"6,893","+/-1,418",2.3,+/-0.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",30,3 rooms,"16,747","+/-2,302",5.7,+/-0.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",31,4 rooms,"29,917","+/-3,075",10.2,+/-1.0
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",32,5 rooms,"40,056","+/-3,439",13.7,+/-1.1
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",33,6 rooms,"42,076","+/-2,836",14.3,+/-0.9
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",34,7 rooms,"38,352","+/-3,402",13.1,+/-1.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",35,8 rooms,"35,466","+/-2,527",12.1,+/-0.9
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",36,9 rooms or more,"80,139","+/-3,868",27.3,+/-1.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",37,Median rooms,6.7,+/-0.1,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",37.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",37.5,BEDROOMS,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",38,Total housing units,"293,448","+/-3,735","293,448",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",39,No bedroom,"4,429","+/-1,279",1.5,+/-0.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",40,1 bedroom,"17,833","+/-2,407",6.1,+/-0.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",41,2 bedrooms,"49,882","+/-3,294",17.0,+/-1.1
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",42,3 bedrooms,"104,496","+/-4,846",35.6,+/-1.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",43,4 bedrooms,"77,416","+/-3,682",26.4,+/-1.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",44,5 or more bedrooms,"39,392","+/-3,006",13.4,+/-1.0
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",44.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",44.5,HOUSING TENURE,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",45,Occupied housing units,"281,545","+/-3,999","281,545",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",46,Owner-occupied,"216,847","+/-4,689",77.0,+/-1.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",47,Renter-occupied,"64,698","+/-3,699",23.0,+/-1.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",47.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",48,Average household size of owner-occupied unit,2.70,+/-0.04,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",49,Average household size of renter-occupied unit,2.36,+/-0.10,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",49.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",50,Occupied housing units,"281,545","+/-3,999","281,545",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",51,Moved in 2019 or later,"89,044","+/-4,181",31.6,+/-1.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",52,Moved in 2015 to 2018,"66,469","+/-4,794",23.6,+/-1.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",53,Moved in 2010 to 2014,"37,620","+/-3,164",13.4,+/-1.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",54,Moved in 2000 to 2009,"52,118","+/-3,261",18.5,+/-1.1
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",55,Moved in 1990 to 1999,"22,940","+/-2,089",8.1,+/-0.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",56,Moved in 1989 and earlier,"13,354","+/-1,786",4.7,+/-0.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",56.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",57,Occupied housing units,"281,545","+/-3,999","281,545",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",58,No vehicles available,"8,104","+/-1,789",2.9,+/-0.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",59,1 vehicle available,"63,361","+/-3,347",22.5,+/-1.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",60,2 vehicles available,"119,557","+/-4,327",42.5,+/-1.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",61,3 or more vehicles available,"90,523","+/-4,674",32.2,+/-1.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",61.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",62,Occupied housing units,"281,545","+/-3,999","281,545",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",63,Utility gas,"193,746","+/-5,142",68.8,+/-1.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",64,"Bottled, tank, or LP gas","22,891","+/-2,045",8.1,+/-0.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",65,Electricity,"58,191","+/-3,512",20.7,+/-1.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",66,"Fuel oil, kerosene, etc.",227,+/-231,0.1,+/-0.1
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",67,Coal or coke,67,+/-79,0.0,+/-0.1
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",68,Wood,"2,533",+/-800,0.9,+/-0.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",69,Solar energy,"1,115",+/-526,0.4,+/-0.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",70,Other fuel,"1,851",+/-760,0.7,+/-0.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",71,No fuel used,924,+/-668,0.3,+/-0.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",71.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",72,Occupied housing units,"281,545","+/-3,999","281,545",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",73,Lacking complete plumbing facilities,"1,013",+/-730,0.4,+/-0.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",74,Lacking complete kitchen facilities,"1,897",+/-904,0.7,+/-0.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",75,No telephone service available,"2,096","+/-1,111",0.7,+/-0.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",75.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",76,Occupied housing units,"281,545","+/-3,999","281,545",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",77,1.00 or less,"277,000","+/-4,057",98.4,+/-0.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",78,1.01 to 1.50,"2,765","+/-1,015",1.0,+/-0.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",79,1.51 or more,"1,780",+/-783,0.6,+/-0.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",79.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",79.5,VALUE,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",80,Owner-occupied units,"216,847","+/-4,689","216,847",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",81,"Less than $50,000","7,132","+/-1,460",3.3,+/-0.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",82,"$50,000 to $99,999","5,450","+/-1,107",2.5,+/-0.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",83,"$100,000 to $149,999","4,660","+/-1,075",2.1,+/-0.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",84,"$150,000 to $199,999","5,572","+/-1,184",2.6,+/-0.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",85,"$200,000 to $299,999","13,742","+/-1,572",6.3,+/-0.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",86,"$300,000 to $499,999","65,296","+/-4,078",30.1,+/-1.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",87,"$500,000 to $999,999","101,160","+/-3,649",46.7,+/-1.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",88,"$1,000,000 or more","13,835","+/-1,763",6.4,+/-0.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",89,Median (dollars),"522,100","+/-11,984",(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",89.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",90,Owner-occupied units,"216,847","+/-4,689","216,847",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",91,Housing units with a mortgage,"156,313","+/-4,626",72.1,+/-1.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",92,Housing units without a mortgage,"60,534","+/-3,160",27.9,+/-1.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",92.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",93,Housing units with a mortgage,"156,313","+/-4,626","156,313",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",94,Less than $500,"1,683",+/-900,1.1,+/-0.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",95,$500 to $999,"7,592","+/-1,270",4.9,+/-0.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",96,"$1,000 to $1,499","21,793","+/-2,300",13.9,+/-1.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",97,"$1,500 to $1,999","33,453","+/-3,335",21.4,+/-1.9
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",98,"$2,000 to $2,499","35,445","+/-2,854",22.7,+/-1.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",99,"$2,500 to $2,999","26,220","+/-2,714",16.8,+/-1.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",100,"$3,000 or more","30,127","+/-2,776",19.3,+/-1.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",101,Median (dollars),"2,192",+/-42,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",101.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",102,Housing units without a mortgage,"60,534","+/-3,160","60,534",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",103,Less than $250,"4,144","+/-1,036",6.8,+/-1.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",104,$250 to $399,"7,893","+/-1,199",13.0,+/-1.9
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",105,$400 to $599,"20,289","+/-1,948",33.5,+/-3.0
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",106,$600 to $799,"15,322","+/-1,963",25.3,+/-2.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",107,$800 to $999,"7,530","+/-1,313",12.4,+/-2.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",108,"$1,000 or more","5,356","+/-1,077",8.8,+/-1.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",109,Median (dollars),582,+/-15,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",109.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"155,598","+/-4,603","155,598",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",111,Less than 20.0 percent,"73,848","+/-4,364",47.5,+/-2.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",112,20.0 to 24.9 percent,"25,354","+/-2,929",16.3,+/-1.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",113,25.0 to 29.9 percent,"15,356","+/-2,144",9.9,+/-1.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",114,30.0 to 34.9 percent,"11,415","+/-1,503",7.3,+/-0.9
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",115,35.0 percent or more,"29,625","+/-3,357",19.0,+/-2.0
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",115.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",116,Not computed,715,+/-346,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",116.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"59,764","+/-3,089","59,764",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",118,Less than 10.0 percent,"34,433","+/-2,793",57.6,+/-3.4
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",119,10.0 to 14.9 percent,"9,791","+/-1,520",16.4,+/-2.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",120,15.0 to 19.9 percent,"4,283","+/-1,034",7.2,+/-1.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",121,20.0 to 24.9 percent,"3,237",+/-734,5.4,+/-1.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",122,25.0 to 29.9 percent,"1,675",+/-589,2.8,+/-1.0
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",123,30.0 to 34.9 percent,"1,573",+/-453,2.6,+/-0.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",124,35.0 percent or more,"4,772",+/-975,8.0,+/-1.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",124.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",125,Not computed,770,+/-386,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",125.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",125.5,GROSS RENT,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",126,Occupied units paying rent,"59,557","+/-3,784","59,557",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",127,Less than $500,"3,069",+/-888,5.2,+/-1.5
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",128,$500 to $999,"7,676","+/-1,316",12.9,+/-2.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",129,"$1,000 to $1,499","15,658","+/-2,649",26.3,+/-3.9
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",130,"$1,500 to $1,999","16,811","+/-2,330",28.2,+/-3.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",131,"$2,000 to $2,499","9,469","+/-1,867",15.9,+/-3.0
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",132,"$2,500 to $2,999","3,932","+/-1,125",6.6,+/-1.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",133,"$3,000 or more","2,942",+/-941,4.9,+/-1.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",134,Median (dollars),"1,600",+/-61,(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",134.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",135,No rent paid,"5,141","+/-1,321",(X),(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",135.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"58,799","+/-3,752","58,799",(X)
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",137,Less than 15.0 percent,"6,971","+/-1,601",11.9,+/-2.7
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",138,15.0 to 19.9 percent,"7,648","+/-1,354",13.0,+/-2.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",139,20.0 to 24.9 percent,"9,123","+/-1,731",15.5,+/-2.8
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",140,25.0 to 29.9 percent,"7,152","+/-1,587",12.2,+/-2.6
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",141,30.0 to 34.9 percent,"5,650","+/-1,391",9.6,+/-2.2
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",142,35.0 percent or more,"22,255","+/-2,867",37.8,+/-4.3
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",142.3,,,,,
+DP04,5001800US0804,"Congressional District 4 (118th Congress), Colorado",143,Not computed,"5,899","+/-1,245",(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",0.5,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",1,Total housing units,"291,577","+/-1,827","291,577",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",2,Occupied housing units,"279,849","+/-3,058",96.0,+/-0.9
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",3,Vacant housing units,"11,728","+/-2,512",4.0,+/-0.9
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",3.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",4,Homeowner vacancy rate,1.0,+/-0.5,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",5,Rental vacancy rate,3.2,+/-1.2,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",5.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",6,Total housing units,"291,577","+/-1,827","291,577",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",7,"1-unit, detached","199,206","+/-4,418",68.3,+/-1.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",8,"1-unit, attached","23,430","+/-2,607",8.0,+/-0.9
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",9,2 units,"3,697","+/-1,170",1.3,+/-0.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",10,3 or 4 units,"10,515","+/-2,162",3.6,+/-0.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",11,5 to 9 units,"10,368","+/-2,005",3.6,+/-0.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",12,10 to 19 units,"14,493","+/-2,675",5.0,+/-0.9
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",13,20 or more units,"22,767","+/-2,877",7.8,+/-1.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",14,Mobile home,"7,004","+/-1,321",2.4,+/-0.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",15,"Boat, RV, van, etc.",97,+/-128,0.0,+/-0.1
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",15.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",16,Total housing units,"291,577","+/-1,827","291,577",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",17,Built 2020 or later,"3,001","+/-1,030",1.0,+/-0.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",18,Built 2010 to 2019,"39,754","+/-3,568",13.6,+/-1.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",19,Built 2000 to 2009,"53,101","+/-3,839",18.2,+/-1.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",20,Built 1990 to 1999,"42,918","+/-4,133",14.7,+/-1.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",21,Built 1980 to 1989,"46,877","+/-3,433",16.1,+/-1.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",22,Built 1970 to 1979,"45,102","+/-3,102",15.5,+/-1.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",23,Built 1960 to 1969,"25,204","+/-2,654",8.6,+/-0.9
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",24,Built 1950 to 1959,"16,893","+/-1,917",5.8,+/-0.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",25,Built 1940 to 1949,"4,072",+/-937,1.4,+/-0.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",26,Built 1939 or earlier,"14,655","+/-1,711",5.0,+/-0.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",26.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",26.5,ROOMS,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",27,Total housing units,"291,577","+/-1,827","291,577",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",28,1 room,"3,611","+/-1,167",1.2,+/-0.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",29,2 rooms,"8,675","+/-1,876",3.0,+/-0.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",30,3 rooms,"22,228","+/-2,649",7.6,+/-0.9
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",31,4 rooms,"36,256","+/-2,892",12.4,+/-1.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",32,5 rooms,"39,889","+/-3,947",13.7,+/-1.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",33,6 rooms,"46,110","+/-3,931",15.8,+/-1.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",34,7 rooms,"38,325","+/-2,549",13.1,+/-0.9
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",35,8 rooms,"34,076","+/-3,289",11.7,+/-1.1
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",36,9 rooms or more,"62,407","+/-3,222",21.4,+/-1.1
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",37,Median rooms,6.3,+/-0.2,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",37.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",37.5,BEDROOMS,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",38,Total housing units,"291,577","+/-1,827","291,577",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",39,No bedroom,"4,121","+/-1,246",1.4,+/-0.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",40,1 bedroom,"25,683","+/-2,898",8.8,+/-1.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",41,2 bedrooms,"57,814","+/-3,710",19.8,+/-1.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",42,3 bedrooms,"92,384","+/-4,758",31.7,+/-1.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",43,4 bedrooms,"74,587","+/-4,545",25.6,+/-1.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",44,5 or more bedrooms,"36,988","+/-2,959",12.7,+/-1.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",44.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",44.5,HOUSING TENURE,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",45,Occupied housing units,"279,849","+/-3,058","279,849",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",46,Owner-occupied,"187,311","+/-4,121",66.9,+/-1.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",47,Renter-occupied,"92,538","+/-4,052",33.1,+/-1.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",47.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",48,Average household size of owner-occupied unit,2.65,+/-0.04,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",49,Average household size of renter-occupied unit,2.31,+/-0.08,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",49.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",50,Occupied housing units,"279,849","+/-3,058","279,849",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",51,Moved in 2019 or later,"101,393","+/-4,776",36.2,+/-1.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",52,Moved in 2015 to 2018,"66,809","+/-4,517",23.9,+/-1.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",53,Moved in 2010 to 2014,"30,406","+/-2,797",10.9,+/-1.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",54,Moved in 2000 to 2009,"43,396","+/-3,323",15.5,+/-1.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",55,Moved in 1990 to 1999,"23,507","+/-2,034",8.4,+/-0.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",56,Moved in 1989 and earlier,"14,338","+/-1,778",5.1,+/-0.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",56.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",57,Occupied housing units,"279,849","+/-3,058","279,849",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",58,No vehicles available,"9,684","+/-1,934",3.5,+/-0.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",59,1 vehicle available,"84,474","+/-4,603",30.2,+/-1.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",60,2 vehicles available,"114,037","+/-4,638",40.7,+/-1.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",61,3 or more vehicles available,"71,654","+/-4,190",25.6,+/-1.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",61.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",62,Occupied housing units,"279,849","+/-3,058","279,849",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",63,Utility gas,"196,112","+/-5,254",70.1,+/-1.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",64,"Bottled, tank, or LP gas","9,453","+/-1,509",3.4,+/-0.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",65,Electricity,"70,965","+/-4,201",25.4,+/-1.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",66,"Fuel oil, kerosene, etc.",101,+/-139,0.0,+/-0.1
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",67,Coal or coke,55,+/-90,0.0,+/-0.1
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",68,Wood,"1,100",+/-564,0.4,+/-0.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",69,Solar energy,679,+/-431,0.2,+/-0.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",70,Other fuel,534,+/-273,0.2,+/-0.1
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",71,No fuel used,850,+/-443,0.3,+/-0.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",71.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",72,Occupied housing units,"279,849","+/-3,058","279,849",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",73,Lacking complete plumbing facilities,469,+/-319,0.2,+/-0.1
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",74,Lacking complete kitchen facilities,929,+/-442,0.3,+/-0.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",75,No telephone service available,"1,065",+/-528,0.4,+/-0.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",75.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",76,Occupied housing units,"279,849","+/-3,058","279,849",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",77,1.00 or less,"274,191","+/-3,261",98.0,+/-0.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",78,1.01 to 1.50,"4,249","+/-1,503",1.5,+/-0.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",79,1.51 or more,"1,409",+/-628,0.5,+/-0.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",79.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",79.5,VALUE,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",80,Owner-occupied units,"187,311","+/-4,121","187,311",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",81,"Less than $50,000","6,479","+/-1,298",3.5,+/-0.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",82,"$50,000 to $99,999","2,413",+/-824,1.3,+/-0.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",83,"$100,000 to $149,999","2,976",+/-819,1.6,+/-0.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",84,"$150,000 to $199,999","3,621","+/-1,052",1.9,+/-0.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",85,"$200,000 to $299,999","28,028","+/-2,075",15.0,+/-1.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",86,"$300,000 to $499,999","89,737","+/-3,877",47.9,+/-2.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",87,"$500,000 to $999,999","50,204","+/-3,012",26.8,+/-1.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",88,"$1,000,000 or more","3,853",+/-942,2.1,+/-0.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",89,Median (dollars),"398,000","+/-6,375",(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",89.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",90,Owner-occupied units,"187,311","+/-4,121","187,311",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",91,Housing units with a mortgage,"135,502","+/-4,213",72.3,+/-1.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",92,Housing units without a mortgage,"51,809","+/-3,213",27.7,+/-1.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",92.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",93,Housing units with a mortgage,"135,502","+/-4,213","135,502",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",94,Less than $500,633,+/-358,0.5,+/-0.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",95,$500 to $999,"8,015","+/-1,387",5.9,+/-1.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",96,"$1,000 to $1,499","29,589","+/-2,427",21.8,+/-1.8
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",97,"$1,500 to $1,999","44,598","+/-3,174",32.9,+/-2.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",98,"$2,000 to $2,499","30,629","+/-2,980",22.6,+/-1.9
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",99,"$2,500 to $2,999","11,559","+/-1,683",8.5,+/-1.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",100,"$3,000 or more","10,479","+/-1,799",7.7,+/-1.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",101,Median (dollars),"1,828",+/-33,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",101.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",102,Housing units without a mortgage,"51,809","+/-3,213","51,809",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",103,Less than $250,"4,025","+/-1,114",7.8,+/-2.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",104,$250 to $399,"9,604","+/-1,414",18.5,+/-2.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",105,$400 to $599,"18,571","+/-2,140",35.8,+/-3.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",106,$600 to $799,"11,449","+/-1,515",22.1,+/-2.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",107,$800 to $999,"5,182","+/-1,376",10.0,+/-2.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",108,"$1,000 or more","2,978",+/-958,5.7,+/-1.8
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",109,Median (dollars),533,+/-17,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",109.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"134,764","+/-4,229","134,764",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",111,Less than 20.0 percent,"57,608","+/-3,558",42.7,+/-2.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",112,20.0 to 24.9 percent,"25,537","+/-2,847",18.9,+/-2.1
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",113,25.0 to 29.9 percent,"12,158","+/-1,930",9.0,+/-1.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",114,30.0 to 34.9 percent,"10,710","+/-2,311",7.9,+/-1.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",115,35.0 percent or more,"28,751","+/-3,027",21.3,+/-2.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",115.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",116,Not computed,738,+/-452,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",116.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"51,074","+/-3,154","51,074",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",118,Less than 10.0 percent,"27,700","+/-2,473",54.2,+/-3.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",119,10.0 to 14.9 percent,"9,775","+/-1,438",19.1,+/-2.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",120,15.0 to 19.9 percent,"4,903","+/-1,073",9.6,+/-2.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",121,20.0 to 24.9 percent,"2,627",+/-810,5.1,+/-1.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",122,25.0 to 29.9 percent,788,+/-324,1.5,+/-0.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",123,30.0 to 34.9 percent,"1,123",+/-522,2.2,+/-1.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",124,35.0 percent or more,"4,158",+/-929,8.1,+/-1.7
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",124.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",125,Not computed,735,+/-377,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",125.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",125.5,GROSS RENT,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",126,Occupied units paying rent,"89,518","+/-4,049","89,518",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",127,Less than $500,"3,078","+/-1,119",3.4,+/-1.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",128,$500 to $999,"12,368","+/-2,132",13.8,+/-2.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",129,"$1,000 to $1,499","32,015","+/-3,534",35.8,+/-3.5
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",130,"$1,500 to $1,999","28,482","+/-3,076",31.8,+/-3.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",131,"$2,000 to $2,499","10,239","+/-1,832",11.4,+/-2.1
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",132,"$2,500 to $2,999","2,064",+/-718,2.3,+/-0.8
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",133,"$3,000 or more","1,272",+/-503,1.4,+/-0.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",134,Median (dollars),"1,453",+/-44,(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",134.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",135,No rent paid,"3,020","+/-1,274",(X),(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",135.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"88,527","+/-4,190","88,527",(X)
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",137,Less than 15.0 percent,"10,295","+/-1,996",11.6,+/-2.2
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",138,15.0 to 19.9 percent,"9,235","+/-1,892",10.4,+/-2.0
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",139,20.0 to 24.9 percent,"10,079","+/-2,104",11.4,+/-2.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",140,25.0 to 29.9 percent,"9,725","+/-2,007",11.0,+/-2.3
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",141,30.0 to 34.9 percent,"10,964","+/-2,328",12.4,+/-2.6
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",142,35.0 percent or more,"38,229","+/-3,728",43.2,+/-3.4
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",142.3,,,,,
+DP04,5001800US0805,"Congressional District 5 (118th Congress), Colorado",143,Not computed,"4,011","+/-1,366",(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",0.5,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",1,Total housing units,"292,490","+/-2,826","292,490",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",2,Occupied housing units,"275,638","+/-3,707",94.2,+/-0.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",3,Vacant housing units,"16,852","+/-2,594",5.8,+/-0.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",3.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",4,Homeowner vacancy rate,0.7,+/-0.4,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",5,Rental vacancy rate,6.7,+/-1.5,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",5.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",6,Total housing units,"292,490","+/-2,826","292,490",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",7,"1-unit, detached","164,813","+/-4,221",56.3,+/-1.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",8,"1-unit, attached","32,152","+/-2,403",11.0,+/-0.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",9,2 units,"1,429",+/-641,0.5,+/-0.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",10,3 or 4 units,"8,680","+/-1,781",3.0,+/-0.6
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",11,5 to 9 units,"17,122","+/-2,478",5.9,+/-0.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",12,10 to 19 units,"25,760","+/-2,995",8.8,+/-1.0
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",13,20 or more units,"38,891","+/-2,799",13.3,+/-1.0
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",14,Mobile home,"3,366",+/-859,1.2,+/-0.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",15,"Boat, RV, van, etc.",277,+/-232,0.1,+/-0.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",15.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",16,Total housing units,"292,490","+/-2,826","292,490",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",17,Built 2020 or later,"2,787","+/-1,036",1.0,+/-0.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",18,Built 2010 to 2019,"27,150","+/-2,601",9.3,+/-0.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",19,Built 2000 to 2009,"44,620","+/-3,081",15.3,+/-1.0
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",20,Built 1990 to 1999,"32,304","+/-2,348",11.0,+/-0.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",21,Built 1980 to 1989,"67,421","+/-3,460",23.1,+/-1.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",22,Built 1970 to 1979,"68,594","+/-3,477",23.5,+/-1.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",23,Built 1960 to 1969,"21,402","+/-1,771",7.3,+/-0.6
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",24,Built 1950 to 1959,"19,202","+/-1,859",6.6,+/-0.6
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",25,Built 1940 to 1949,"3,510",+/-847,1.2,+/-0.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",26,Built 1939 or earlier,"5,500",+/-992,1.9,+/-0.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",26.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",26.5,ROOMS,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",27,Total housing units,"292,490","+/-2,826","292,490",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",28,1 room,"7,011","+/-1,352",2.4,+/-0.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",29,2 rooms,"12,958","+/-1,919",4.4,+/-0.6
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",30,3 rooms,"33,991","+/-2,867",11.6,+/-1.0
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",31,4 rooms,"43,263","+/-3,478",14.8,+/-1.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",32,5 rooms,"34,071","+/-2,934",11.6,+/-1.0
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",33,6 rooms,"38,258","+/-2,857",13.1,+/-0.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",34,7 rooms,"30,454","+/-2,716",10.4,+/-0.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",35,8 rooms,"30,944","+/-2,373",10.6,+/-0.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",36,9 rooms or more,"61,540","+/-3,498",21.0,+/-1.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",37,Median rooms,5.9,+/-0.1,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",37.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",37.5,BEDROOMS,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",38,Total housing units,"292,490","+/-2,826","292,490",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",39,No bedroom,"7,503","+/-1,381",2.6,+/-0.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",40,1 bedroom,"42,034","+/-3,301",14.4,+/-1.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",41,2 bedrooms,"69,464","+/-4,246",23.7,+/-1.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",42,3 bedrooms,"82,675","+/-3,912",28.3,+/-1.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",43,4 bedrooms,"61,953","+/-3,079",21.2,+/-1.0
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",44,5 or more bedrooms,"28,861","+/-2,363",9.9,+/-0.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",44.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",44.5,HOUSING TENURE,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",45,Occupied housing units,"275,638","+/-3,707","275,638",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",46,Owner-occupied,"183,691","+/-4,689",66.6,+/-1.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",47,Renter-occupied,"91,947","+/-3,983",33.4,+/-1.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",47.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",48,Average household size of owner-occupied unit,2.69,+/-0.05,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",49,Average household size of renter-occupied unit,2.46,+/-0.08,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",49.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",50,Occupied housing units,"275,638","+/-3,707","275,638",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",51,Moved in 2019 or later,"85,878","+/-4,316",31.2,+/-1.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",52,Moved in 2015 to 2018,"65,722","+/-3,340",23.8,+/-1.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",53,Moved in 2010 to 2014,"38,891","+/-2,608",14.1,+/-0.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",54,Moved in 2000 to 2009,"42,206","+/-2,741",15.3,+/-0.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",55,Moved in 1990 to 1999,"24,641","+/-2,089",8.9,+/-0.7
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",56,Moved in 1989 and earlier,"18,300","+/-1,326",6.6,+/-0.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",56.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",57,Occupied housing units,"275,638","+/-3,707","275,638",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",58,No vehicles available,"15,490","+/-2,087",5.6,+/-0.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",59,1 vehicle available,"86,922","+/-4,159",31.5,+/-1.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",60,2 vehicles available,"113,975","+/-4,634",41.3,+/-1.6
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",61,3 or more vehicles available,"59,251","+/-3,068",21.5,+/-1.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",61.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",62,Occupied housing units,"275,638","+/-3,707","275,638",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",63,Utility gas,"181,625","+/-5,069",65.9,+/-1.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",64,"Bottled, tank, or LP gas","2,731",+/-901,1.0,+/-0.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",65,Electricity,"86,344","+/-4,235",31.3,+/-1.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",66,"Fuel oil, kerosene, etc.",51,+/-86,0.0,+/-0.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",67,Coal or coke,48,+/-85,0.0,+/-0.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",68,Wood,291,+/-231,0.1,+/-0.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",69,Solar energy,"1,741",+/-594,0.6,+/-0.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",70,Other fuel,"1,450",+/-613,0.5,+/-0.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",71,No fuel used,"1,357",+/-594,0.5,+/-0.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",71.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",72,Occupied housing units,"275,638","+/-3,707","275,638",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",73,Lacking complete plumbing facilities,"1,039",+/-656,0.4,+/-0.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",74,Lacking complete kitchen facilities,"2,078",+/-696,0.8,+/-0.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",75,No telephone service available,"3,024",+/-851,1.1,+/-0.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",75.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",76,Occupied housing units,"275,638","+/-3,707","275,638",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",77,1.00 or less,"266,686","+/-4,036",96.8,+/-0.6
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",78,1.01 to 1.50,"4,834","+/-1,307",1.8,+/-0.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",79,1.51 or more,"4,118","+/-1,097",1.5,+/-0.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",79.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",79.5,VALUE,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",80,Owner-occupied units,"183,691","+/-4,689","183,691",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",81,"Less than $50,000","3,534",+/-780,1.9,+/-0.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",82,"$50,000 to $99,999","3,180",+/-924,1.7,+/-0.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",83,"$100,000 to $149,999","1,445",+/-510,0.8,+/-0.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",84,"$150,000 to $199,999","2,798",+/-808,1.5,+/-0.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",85,"$200,000 to $299,999","14,622","+/-1,664",8.0,+/-0.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",86,"$300,000 to $499,999","74,078","+/-3,672",40.3,+/-1.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",87,"$500,000 to $999,999","71,846","+/-2,903",39.1,+/-1.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",88,"$1,000,000 or more","12,188","+/-1,055",6.6,+/-0.6
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",89,Median (dollars),"479,800","+/-6,040",(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",89.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",90,Owner-occupied units,"183,691","+/-4,689","183,691",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",91,Housing units with a mortgage,"132,059","+/-4,214",71.9,+/-1.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",92,Housing units without a mortgage,"51,632","+/-2,835",28.1,+/-1.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",92.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",93,Housing units with a mortgage,"132,059","+/-4,214","132,059",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",94,Less than $500,921,+/-390,0.7,+/-0.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",95,$500 to $999,"5,386","+/-1,019",4.1,+/-0.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",96,"$1,000 to $1,499","25,829","+/-2,679",19.6,+/-1.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",97,"$1,500 to $1,999","32,869","+/-2,560",24.9,+/-1.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",98,"$2,000 to $2,499","30,244","+/-2,361",22.9,+/-1.7
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",99,"$2,500 to $2,999","18,820","+/-2,365",14.3,+/-1.7
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",100,"$3,000 or more","17,990","+/-1,890",13.6,+/-1.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",101,Median (dollars),"2,017",+/-45,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",101.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",102,Housing units without a mortgage,"51,632","+/-2,835","51,632",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",103,Less than $250,"2,350",+/-642,4.6,+/-1.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",104,$250 to $399,"5,537","+/-1,051",10.7,+/-1.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",105,$400 to $599,"16,871","+/-1,583",32.7,+/-2.7
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",106,$600 to $799,"13,923","+/-1,680",27.0,+/-2.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",107,$800 to $999,"5,915","+/-1,195",11.5,+/-2.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",108,"$1,000 or more","7,036","+/-1,021",13.6,+/-1.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",109,Median (dollars),613,+/-17,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",109.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"131,700","+/-4,187","131,700",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",111,Less than 20.0 percent,"58,446","+/-3,153",44.4,+/-2.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",112,20.0 to 24.9 percent,"20,463","+/-2,533",15.5,+/-1.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",113,25.0 to 29.9 percent,"15,769","+/-2,156",12.0,+/-1.5
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",114,30.0 to 34.9 percent,"9,446","+/-1,385",7.2,+/-1.0
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",115,35.0 percent or more,"27,576","+/-2,495",20.9,+/-1.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",115.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",116,Not computed,359,+/-212,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",116.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"51,386","+/-2,821","51,386",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",118,Less than 10.0 percent,"26,788","+/-1,849",52.1,+/-2.7
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",119,10.0 to 14.9 percent,"8,780","+/-1,286",17.1,+/-2.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",120,15.0 to 19.9 percent,"5,259","+/-1,174",10.2,+/-2.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",121,20.0 to 24.9 percent,"2,418",+/-666,4.7,+/-1.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",122,25.0 to 29.9 percent,"1,613",+/-640,3.1,+/-1.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",123,30.0 to 34.9 percent,"1,957",+/-630,3.8,+/-1.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",124,35.0 percent or more,"4,571",+/-967,8.9,+/-1.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",124.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",125,Not computed,246,+/-181,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",125.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",125.5,GROSS RENT,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",126,Occupied units paying rent,"89,978","+/-4,005","89,978",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",127,Less than $500,"2,146",+/-821,2.4,+/-0.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",128,$500 to $999,"7,459","+/-1,415",8.3,+/-1.6
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",129,"$1,000 to $1,499","29,913","+/-3,002",33.2,+/-3.0
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",130,"$1,500 to $1,999","29,551","+/-2,795",32.8,+/-2.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",131,"$2,000 to $2,499","13,486","+/-2,223",15.0,+/-2.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",132,"$2,500 to $2,999","5,452","+/-1,162",6.1,+/-1.3
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",133,"$3,000 or more","1,971",+/-725,2.2,+/-0.8
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",134,Median (dollars),"1,593",+/-40,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",134.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",135,No rent paid,"1,969",+/-585,(X),(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",135.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"88,815","+/-3,978","88,815",(X)
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",137,Less than 15.0 percent,"6,421","+/-1,341",7.2,+/-1.4
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",138,15.0 to 19.9 percent,"10,095","+/-1,858",11.4,+/-2.1
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",139,20.0 to 24.9 percent,"9,466","+/-1,713",10.7,+/-1.9
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",140,25.0 to 29.9 percent,"9,868","+/-1,965",11.1,+/-2.2
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",141,30.0 to 34.9 percent,"8,971","+/-1,521",10.1,+/-1.6
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",142,35.0 percent or more,"43,994","+/-3,087",49.5,+/-2.7
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",142.3,,,,,
+DP04,5001800US0806,"Congressional District 6 (118th Congress), Colorado",143,Not computed,"3,132",+/-807,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",0.5,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",1,Total housing units,"327,158","+/-2,827","327,158",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",2,Occupied housing units,"298,550","+/-3,626",91.3,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",3,Vacant housing units,"28,608","+/-2,734",8.7,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",3.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",5,Rental vacancy rate,4.7,+/-1.2,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",5.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",6,Total housing units,"327,158","+/-2,827","327,158",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",7,"1-unit, detached","219,690","+/-4,474",67.2,+/-1.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",8,"1-unit, attached","23,885","+/-2,185",7.3,+/-0.7
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",9,2 units,"3,236",+/-982,1.0,+/-0.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",10,3 or 4 units,"8,305","+/-1,286",2.5,+/-0.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",11,5 to 9 units,"15,130","+/-1,971",4.6,+/-0.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",12,10 to 19 units,"17,974","+/-1,914",5.5,+/-0.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",13,20 or more units,"28,917","+/-2,467",8.8,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",14,Mobile home,"9,979","+/-1,574",3.1,+/-0.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",15,"Boat, RV, van, etc.",42,+/-72,0.0,+/-0.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",15.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",16,Total housing units,"327,158","+/-2,827","327,158",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",17,Built 2020 or later,"2,842",+/-703,0.9,+/-0.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",18,Built 2010 to 2019,"32,558","+/-2,397",10.0,+/-0.7
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",19,Built 2000 to 2009,"41,001","+/-2,528",12.5,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",20,Built 1990 to 1999,"45,954","+/-3,378",14.0,+/-1.0
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",21,Built 1980 to 1989,"43,974","+/-3,109",13.4,+/-0.9
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",22,Built 1970 to 1979,"75,426","+/-3,595",23.1,+/-1.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",23,Built 1960 to 1969,"37,314","+/-2,708",11.4,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",24,Built 1950 to 1959,"28,808","+/-2,782",8.8,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",25,Built 1940 to 1949,"6,280","+/-1,218",1.9,+/-0.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",26,Built 1939 or earlier,"13,001","+/-1,756",4.0,+/-0.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",26.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",26.5,ROOMS,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",27,Total housing units,"327,158","+/-2,827","327,158",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",28,1 room,"5,345","+/-1,313",1.6,+/-0.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",29,2 rooms,"10,064","+/-1,555",3.1,+/-0.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",30,3 rooms,"27,905","+/-2,614",8.5,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",31,4 rooms,"49,717","+/-3,557",15.2,+/-1.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",32,5 rooms,"45,448","+/-3,463",13.9,+/-1.0
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",33,6 rooms,"48,847","+/-3,527",14.9,+/-1.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",34,7 rooms,"40,104","+/-2,463",12.3,+/-0.7
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",35,8 rooms,"36,044","+/-2,558",11.0,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",36,9 rooms or more,"63,684","+/-3,532",19.5,+/-1.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",37,Median rooms,6.0,+/-0.1,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",37.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",37.5,BEDROOMS,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",38,Total housing units,"327,158","+/-2,827","327,158",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",39,No bedroom,"5,712","+/-1,329",1.7,+/-0.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",40,1 bedroom,"34,087","+/-2,646",10.4,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",41,2 bedrooms,"77,607","+/-3,792",23.7,+/-1.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",42,3 bedrooms,"115,502","+/-4,901",35.3,+/-1.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",43,4 bedrooms,"69,327","+/-2,934",21.2,+/-0.9
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",44,5 or more bedrooms,"24,923","+/-2,145",7.6,+/-0.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",44.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",44.5,HOUSING TENURE,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",45,Occupied housing units,"298,550","+/-3,626","298,550",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",46,Owner-occupied,"209,162","+/-4,322",70.1,+/-1.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",47,Renter-occupied,"89,388","+/-3,642",29.9,+/-1.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",47.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",48,Average household size of owner-occupied unit,2.43,+/-0.03,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",49,Average household size of renter-occupied unit,2.12,+/-0.06,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",49.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",50,Occupied housing units,"298,550","+/-3,626","298,550",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",51,Moved in 2019 or later,"93,542","+/-4,843",31.3,+/-1.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",52,Moved in 2015 to 2018,"63,586","+/-3,836",21.3,+/-1.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",53,Moved in 2010 to 2014,"38,580","+/-3,263",12.9,+/-1.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",54,Moved in 2000 to 2009,"47,984","+/-3,225",16.1,+/-1.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",55,Moved in 1990 to 1999,"31,306","+/-2,140",10.5,+/-0.7
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",56,Moved in 1989 and earlier,"23,552","+/-2,099",7.9,+/-0.7
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",56.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",57,Occupied housing units,"298,550","+/-3,626","298,550",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",58,No vehicles available,"11,518","+/-1,855",3.9,+/-0.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",59,1 vehicle available,"86,804","+/-4,015",29.1,+/-1.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",60,2 vehicles available,"118,654","+/-5,050",39.7,+/-1.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",61,3 or more vehicles available,"81,574","+/-3,738",27.3,+/-1.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",61.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",62,Occupied housing units,"298,550","+/-3,626","298,550",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",63,Utility gas,"200,083","+/-4,832",67.0,+/-1.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",64,"Bottled, tank, or LP gas","16,054","+/-1,699",5.4,+/-0.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",65,Electricity,"71,554","+/-4,493",24.0,+/-1.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",66,"Fuel oil, kerosene, etc.",373,+/-432,0.1,+/-0.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",67,Coal or coke,93,+/-158,0.0,+/-0.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",68,Wood,"6,040","+/-1,157",2.0,+/-0.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",69,Solar energy,"1,508",+/-568,0.5,+/-0.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",70,Other fuel,"1,339",+/-670,0.4,+/-0.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",71,No fuel used,"1,506",+/-580,0.5,+/-0.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",71.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",72,Occupied housing units,"298,550","+/-3,626","298,550",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",73,Lacking complete plumbing facilities,469,+/-286,0.2,+/-0.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",74,Lacking complete kitchen facilities,"1,453",+/-519,0.5,+/-0.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",75,No telephone service available,"2,060",+/-775,0.7,+/-0.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",75.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",76,Occupied housing units,"298,550","+/-3,626","298,550",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",77,1.00 or less,"294,536","+/-3,772",98.7,+/-0.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",78,1.01 to 1.50,"2,853",+/-922,1.0,+/-0.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",79,1.51 or more,"1,161",+/-522,0.4,+/-0.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",79.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",79.5,VALUE,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",80,Owner-occupied units,"209,162","+/-4,322","209,162",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",81,"Less than $50,000","4,780","+/-1,131",2.3,+/-0.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",82,"$50,000 to $99,999","2,406",+/-837,1.2,+/-0.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",83,"$100,000 to $149,999","2,942",+/-922,1.4,+/-0.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",84,"$150,000 to $199,999","2,892",+/-717,1.4,+/-0.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",85,"$200,000 to $299,999","14,612","+/-2,061",7.0,+/-1.0
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",86,"$300,000 to $499,999","69,508","+/-3,267",33.2,+/-1.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",87,"$500,000 to $999,999","97,920","+/-3,982",46.8,+/-1.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",88,"$1,000,000 or more","14,102","+/-1,738",6.7,+/-0.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",89,Median (dollars),"525,300","+/-10,209",(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",89.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",90,Owner-occupied units,"209,162","+/-4,322","209,162",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",91,Housing units with a mortgage,"141,845","+/-4,371",67.8,+/-1.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",92,Housing units without a mortgage,"67,317","+/-2,865",32.2,+/-1.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",92.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",93,Housing units with a mortgage,"141,845","+/-4,371","141,845",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",94,Less than $500,"1,538",+/-666,1.1,+/-0.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",95,$500 to $999,"9,066","+/-1,584",6.4,+/-1.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",96,"$1,000 to $1,499","24,201","+/-2,118",17.1,+/-1.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",97,"$1,500 to $1,999","36,299","+/-2,674",25.6,+/-1.7
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",98,"$2,000 to $2,499","29,559","+/-2,623",20.8,+/-1.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",99,"$2,500 to $2,999","20,452","+/-2,294",14.4,+/-1.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",100,"$3,000 or more","20,730","+/-2,157",14.6,+/-1.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",101,Median (dollars),"1,998",+/-46,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",101.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",102,Housing units without a mortgage,"67,317","+/-2,865","67,317",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",103,Less than $250,"3,759",+/-906,5.6,+/-1.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",104,$250 to $399,"10,176","+/-1,481",15.1,+/-2.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",105,$400 to $599,"23,398","+/-2,179",34.8,+/-2.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",106,$600 to $799,"16,610","+/-1,764",24.7,+/-2.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",107,$800 to $999,"7,192","+/-1,241",10.7,+/-1.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",108,"$1,000 or more","6,182",+/-911,9.2,+/-1.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",109,Median (dollars),566,+/-17,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",109.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"140,802","+/-4,413","140,802",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",111,Less than 20.0 percent,"62,954","+/-3,485",44.7,+/-2.0
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",112,20.0 to 24.9 percent,"23,192","+/-2,107",16.5,+/-1.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",113,25.0 to 29.9 percent,"17,228","+/-1,847",12.2,+/-1.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",114,30.0 to 34.9 percent,"10,393","+/-1,480",7.4,+/-1.0
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",115,35.0 percent or more,"27,035","+/-2,614",19.2,+/-1.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",115.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",116,Not computed,"1,043",+/-520,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",116.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"66,679","+/-2,909","66,679",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",118,Less than 10.0 percent,"36,215","+/-2,282",54.3,+/-2.5
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",119,10.0 to 14.9 percent,"11,631","+/-1,457",17.4,+/-2.0
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",120,15.0 to 19.9 percent,"6,321","+/-1,164",9.5,+/-1.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",121,20.0 to 24.9 percent,"3,319",+/-843,5.0,+/-1.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",122,25.0 to 29.9 percent,"2,103",+/-651,3.2,+/-1.0
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",123,30.0 to 34.9 percent,"1,180",+/-409,1.8,+/-0.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",124,35.0 percent or more,"5,910","+/-1,138",8.9,+/-1.8
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",124.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",125,Not computed,638,+/-481,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",125.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",125.5,GROSS RENT,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",126,Occupied units paying rent,"87,373","+/-3,676","87,373",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",127,Less than $500,"3,657","+/-1,260",4.2,+/-1.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",128,$500 to $999,"9,838","+/-1,483",11.3,+/-1.7
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",129,"$1,000 to $1,499","26,127","+/-2,738",29.9,+/-2.7
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",130,"$1,500 to $1,999","27,159","+/-3,011",31.1,+/-3.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",131,"$2,000 to $2,499","13,064","+/-2,054",15.0,+/-2.4
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",132,"$2,500 to $2,999","4,110","+/-1,067",4.7,+/-1.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",133,"$3,000 or more","3,418","+/-1,093",3.9,+/-1.2
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",134,Median (dollars),"1,575",+/-39,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",134.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",135,No rent paid,"2,015",+/-564,(X),(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",135.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"86,489","+/-3,707","86,489",(X)
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",137,Less than 15.0 percent,"7,738","+/-1,443",8.9,+/-1.6
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",138,15.0 to 19.9 percent,"9,948","+/-1,544",11.5,+/-1.7
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",139,20.0 to 24.9 percent,"11,929","+/-1,877",13.8,+/-2.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",140,25.0 to 29.9 percent,"10,616","+/-1,761",12.3,+/-1.9
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",141,30.0 to 34.9 percent,"8,565","+/-1,854",9.9,+/-2.1
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",142,35.0 percent or more,"37,693","+/-3,057",43.6,+/-3.3
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",142.3,,,,,
+DP04,5001800US0807,"Congressional District 7 (118th Congress), Colorado",143,Not computed,"2,899",+/-770,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",0.5,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",1,Total housing units,"266,500","+/-2,989","266,500",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",2,Occupied housing units,"254,996","+/-3,739",95.7,+/-0.8
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",3,Vacant housing units,"11,504","+/-2,144",4.3,+/-0.8
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",3.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",4,Homeowner vacancy rate,0.6,+/-0.4,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",5,Rental vacancy rate,5.5,+/-1.5,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",5.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",6,Total housing units,"266,500","+/-2,989","266,500",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",7,"1-unit, detached","177,064","+/-4,568",66.4,+/-1.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",8,"1-unit, attached","17,787","+/-2,159",6.7,+/-0.8
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",9,2 units,"2,144",+/-753,0.8,+/-0.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",10,3 or 4 units,"8,269","+/-1,564",3.1,+/-0.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",11,5 to 9 units,"11,169","+/-1,775",4.2,+/-0.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",12,10 to 19 units,"15,485","+/-2,406",5.8,+/-0.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",13,20 or more units,"19,634","+/-2,604",7.4,+/-1.0
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",14,Mobile home,"14,611","+/-1,845",5.5,+/-0.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",15,"Boat, RV, van, etc.",337,+/-523,0.1,+/-0.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",15.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",16,Total housing units,"266,500","+/-2,989","266,500",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",17,Built 2020 or later,"3,901",+/-993,1.5,+/-0.4
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",18,Built 2010 to 2019,"41,533","+/-2,843",15.6,+/-1.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",19,Built 2000 to 2009,"65,106","+/-4,068",24.4,+/-1.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",20,Built 1990 to 1999,"37,549","+/-3,070",14.1,+/-1.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",21,Built 1980 to 1989,"26,987","+/-2,586",10.1,+/-1.0
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",22,Built 1970 to 1979,"38,680","+/-3,158",14.5,+/-1.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",23,Built 1960 to 1969,"22,249","+/-2,053",8.3,+/-0.8
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",24,Built 1950 to 1959,"18,292","+/-2,154",6.9,+/-0.8
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",25,Built 1940 to 1949,"4,172","+/-1,079",1.6,+/-0.4
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",26,Built 1939 or earlier,"8,031","+/-1,282",3.0,+/-0.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",26.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",26.5,ROOMS,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",27,Total housing units,"266,500","+/-2,989","266,500",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",28,1 room,"4,479","+/-1,447",1.7,+/-0.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",29,2 rooms,"6,231","+/-1,510",2.3,+/-0.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",30,3 rooms,"18,462","+/-2,541",6.9,+/-1.0
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",31,4 rooms,"39,655","+/-3,564",14.9,+/-1.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",32,5 rooms,"44,297","+/-3,557",16.6,+/-1.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",33,6 rooms,"41,615","+/-3,392",15.6,+/-1.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",34,7 rooms,"32,804","+/-3,069",12.3,+/-1.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",35,8 rooms,"31,577","+/-3,077",11.8,+/-1.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",36,9 rooms or more,"47,380","+/-3,369",17.8,+/-1.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",37,Median rooms,6.0,+/-0.1,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",37.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",37.5,BEDROOMS,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",38,Total housing units,"266,500","+/-2,989","266,500",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",39,No bedroom,"4,825","+/-1,500",1.8,+/-0.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",40,1 bedroom,"19,983","+/-2,153",7.5,+/-0.8
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",41,2 bedrooms,"55,255","+/-3,974",20.7,+/-1.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",42,3 bedrooms,"100,974","+/-4,047",37.9,+/-1.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",43,4 bedrooms,"61,064","+/-4,267",22.9,+/-1.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",44,5 or more bedrooms,"24,399","+/-2,423",9.2,+/-0.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",44.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",44.5,HOUSING TENURE,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",45,Occupied housing units,"254,996","+/-3,739","254,996",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",46,Owner-occupied,"183,545","+/-4,515",72.0,+/-1.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",47,Renter-occupied,"71,451","+/-3,496",28.0,+/-1.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",47.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",48,Average household size of owner-occupied unit,2.92,+/-0.05,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",49,Average household size of renter-occupied unit,2.52,+/-0.10,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",49.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",50,Occupied housing units,"254,996","+/-3,739","254,996",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",51,Moved in 2019 or later,"78,881","+/-4,276",30.9,+/-1.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",52,Moved in 2015 to 2018,"63,504","+/-4,235",24.9,+/-1.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",53,Moved in 2010 to 2014,"33,765","+/-2,991",13.2,+/-1.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",54,Moved in 2000 to 2009,"45,542","+/-3,407",17.9,+/-1.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",55,Moved in 1990 to 1999,"18,064","+/-2,130",7.1,+/-0.8
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",56,Moved in 1989 and earlier,"15,240","+/-1,915",6.0,+/-0.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",56.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",57,Occupied housing units,"254,996","+/-3,739","254,996",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",58,No vehicles available,"10,763","+/-1,816",4.2,+/-0.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",59,1 vehicle available,"63,071","+/-4,395",24.7,+/-1.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",60,2 vehicles available,"101,392","+/-5,014",39.8,+/-1.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",61,3 or more vehicles available,"79,770","+/-4,457",31.3,+/-1.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",61.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",62,Occupied housing units,"254,996","+/-3,739","254,996",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",63,Utility gas,"177,668","+/-5,324",69.7,+/-1.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",64,"Bottled, tank, or LP gas","8,505","+/-1,568",3.3,+/-0.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",65,Electricity,"64,414","+/-4,128",25.3,+/-1.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",66,"Fuel oil, kerosene, etc.",296,+/-248,0.1,+/-0.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",67,Coal or coke,0,+/-211,0.0,+/-0.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",68,Wood,456,+/-343,0.2,+/-0.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",69,Solar energy,"1,930",+/-864,0.8,+/-0.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",70,Other fuel,733,+/-321,0.3,+/-0.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",71,No fuel used,994,+/-607,0.4,+/-0.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",71.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",72,Occupied housing units,"254,996","+/-3,739","254,996",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",73,Lacking complete plumbing facilities,388,+/-266,0.2,+/-0.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",74,Lacking complete kitchen facilities,930,+/-367,0.4,+/-0.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",75,No telephone service available,"1,774",+/-775,0.7,+/-0.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",75.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",76,Occupied housing units,"254,996","+/-3,739","254,996",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",77,1.00 or less,"244,753","+/-4,145",96.0,+/-0.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",78,1.01 to 1.50,"7,272","+/-1,707",2.9,+/-0.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",79,1.51 or more,"2,971","+/-1,380",1.2,+/-0.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",79.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",79.5,VALUE,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",80,Owner-occupied units,"183,545","+/-4,515","183,545",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",81,"Less than $50,000","9,441","+/-1,705",5.1,+/-1.0
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",82,"$50,000 to $99,999","4,081","+/-1,100",2.2,+/-0.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",83,"$100,000 to $149,999","2,197",+/-678,1.2,+/-0.4
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",84,"$150,000 to $199,999","2,780",+/-749,1.5,+/-0.4
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",85,"$200,000 to $299,999","16,894","+/-2,344",9.2,+/-1.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",86,"$300,000 to $499,999","93,577","+/-4,075",51.0,+/-1.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",87,"$500,000 to $999,999","50,861","+/-3,626",27.7,+/-1.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",88,"$1,000,000 or more","3,714","+/-1,088",2.0,+/-0.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",89,Median (dollars),"421,200","+/-6,050",(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",89.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",90,Owner-occupied units,"183,545","+/-4,515","183,545",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",91,Housing units with a mortgage,"135,249","+/-5,342",73.7,+/-1.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",92,Housing units without a mortgage,"48,296","+/-3,364",26.3,+/-1.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",92.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",93,Housing units with a mortgage,"135,249","+/-5,342","135,249",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",94,Less than $500,"1,211",+/-627,0.9,+/-0.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",95,$500 to $999,"6,993","+/-1,455",5.2,+/-1.0
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",96,"$1,000 to $1,499","23,549","+/-2,701",17.4,+/-1.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",97,"$1,500 to $1,999","40,895","+/-3,474",30.2,+/-2.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",98,"$2,000 to $2,499","33,454","+/-3,297",24.7,+/-2.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",99,"$2,500 to $2,999","15,846","+/-1,957",11.7,+/-1.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",100,"$3,000 or more","13,301","+/-2,086",9.8,+/-1.4
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",101,Median (dollars),"1,947",+/-29,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",101.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",102,Housing units without a mortgage,"48,296","+/-3,364","48,296",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",103,Less than $250,"4,011",+/-996,8.3,+/-2.0
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",104,$250 to $399,"7,331","+/-1,382",15.2,+/-2.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",105,$400 to $599,"15,388","+/-1,928",31.9,+/-3.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",106,$600 to $799,"11,102","+/-1,711",23.0,+/-3.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",107,$800 to $999,"4,877","+/-1,121",10.1,+/-2.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",108,"$1,000 or more","5,587","+/-1,221",11.6,+/-2.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",109,Median (dollars),567,+/-19,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",109.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"134,516","+/-5,245","134,516",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",111,Less than 20.0 percent,"51,120","+/-3,530",38.0,+/-2.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",112,20.0 to 24.9 percent,"25,007","+/-2,916",18.6,+/-2.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",113,25.0 to 29.9 percent,"15,078","+/-2,378",11.2,+/-1.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",114,30.0 to 34.9 percent,"11,268","+/-1,697",8.4,+/-1.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",115,35.0 percent or more,"32,043","+/-3,001",23.8,+/-2.0
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",115.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",116,Not computed,733,+/-426,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",116.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"47,592","+/-3,373","47,592",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",118,Less than 10.0 percent,"24,162","+/-2,443",50.8,+/-3.7
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",119,10.0 to 14.9 percent,"7,839","+/-1,451",16.5,+/-2.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",120,15.0 to 19.9 percent,"5,424","+/-1,111",11.4,+/-2.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",121,20.0 to 24.9 percent,"2,913",+/-896,6.1,+/-1.8
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",122,25.0 to 29.9 percent,"1,651",+/-682,3.5,+/-1.4
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",123,30.0 to 34.9 percent,"1,194",+/-593,2.5,+/-1.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",124,35.0 percent or more,"4,409","+/-1,052",9.3,+/-2.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",124.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",125,Not computed,704,+/-365,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",125.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",125.5,GROSS RENT,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",126,Occupied units paying rent,"69,139","+/-3,504","69,139",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",127,Less than $500,"4,210","+/-1,076",6.1,+/-1.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",128,$500 to $999,"8,254","+/-1,443",11.9,+/-1.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",129,"$1,000 to $1,499","22,099","+/-2,922",32.0,+/-3.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",130,"$1,500 to $1,999","22,451","+/-2,675",32.5,+/-3.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",131,"$2,000 to $2,499","8,431","+/-1,788",12.2,+/-2.6
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",132,"$2,500 to $2,999","2,393","+/-1,014",3.5,+/-1.5
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",133,"$3,000 or more","1,301",+/-630,1.9,+/-0.9
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",134,Median (dollars),"1,500",+/-54,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",134.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",135,No rent paid,"2,312",+/-816,(X),(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",135.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"68,052","+/-3,428","68,052",(X)
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",137,Less than 15.0 percent,"5,892","+/-1,652",8.7,+/-2.3
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",138,15.0 to 19.9 percent,"5,841","+/-1,430",8.6,+/-2.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",139,20.0 to 24.9 percent,"8,757","+/-2,306",12.9,+/-3.2
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",140,25.0 to 29.9 percent,"7,797","+/-1,573",11.5,+/-2.4
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",141,30.0 to 34.9 percent,"6,458","+/-1,679",9.5,+/-2.4
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",142,35.0 percent or more,"33,307","+/-3,095",48.9,+/-4.1
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",142.3,,,,,
+DP04,5001800US0808,"Congressional District 8 (118th Congress), Colorado",143,Not computed,"3,399","+/-1,063",(X),(X)

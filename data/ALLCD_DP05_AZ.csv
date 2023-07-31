@@ -1,0 +1,964 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",0.5,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",0.8,SEX AND AGE,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",1,Total population,"796,924","+/-14,842","796,924",(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",2,Male,"392,962","+/-8,106",49.3,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",3,Female,"403,962","+/-10,133",50.7,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",4,Sex ratio (males per 100 females),97.3,+/-2.6,(X),(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",4.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",5,Under 5 years,"36,516","+/-3,368",4.6,+/-0.4
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",6,5 to 9 years,"38,455","+/-3,366",4.8,+/-0.4
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",7,10 to 14 years,"39,334","+/-3,877",4.9,+/-0.5
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",8,15 to 19 years,"39,549","+/-3,530",5.0,+/-0.4
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",9,20 to 24 years,"39,033","+/-4,403",4.9,+/-0.5
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",10,25 to 34 years,"114,916","+/-6,962",14.4,+/-0.8
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",11,35 to 44 years,"100,014","+/-5,778",12.6,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",12,45 to 54 years,"99,530","+/-5,590",12.5,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",13,55 to 59 years,"61,260","+/-4,543",7.7,+/-0.6
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",14,60 to 64 years,"62,366","+/-4,854",7.8,+/-0.6
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",15,65 to 74 years,"94,039","+/-5,821",11.8,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",16,75 to 84 years,"52,543","+/-3,928",6.6,+/-0.5
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",17,85 years and over,"19,369","+/-2,495",2.4,+/-0.3
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",17.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",18,Median age (years),44.1,+/-1.0,(X),(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",18.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",19,Under 18 years,"141,342","+/-7,552",17.7,+/-0.8
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",20,16 years and over,"674,173","+/-13,240",84.6,+/-0.8
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",21,18 years and over,"655,582","+/-12,678",82.3,+/-0.8
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",22,21 years and over,"635,780","+/-12,387",79.8,+/-0.8
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",23,62 years and over,"203,155","+/-8,173",25.5,+/-1.0
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",24,65 years and over,"165,951","+/-7,833",20.8,+/-0.9
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",24.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",25,18 years and over,"655,582","+/-12,678","655,582",(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",26,Male,"318,797","+/-7,014",48.6,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",27,Female,"336,785","+/-8,863",51.4,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",28,Sex ratio (males per 100 females),94.7,+/-2.8,(X),(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",28.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",29,65 years and over,"165,951","+/-7,833","165,951",(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",30,Male,"77,065","+/-4,078",46.4,+/-1.3
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",31,Female,"88,886","+/-4,931",53.6,+/-1.3
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",32,Sex ratio (males per 100 females),86.7,+/-4.7,(X),(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",32.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",32.5,RACE,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",33,Total population,"796,924","+/-14,842","796,924",(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",34,One race,"691,540","+/-15,676",86.8,+/-1.1
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",35,Two or more races,"105,384","+/-9,071",13.2,+/-1.1
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",35.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",36,One race,"691,540","+/-15,676",86.8,+/-1.1
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",37,White,"569,414","+/-15,127",71.5,+/-1.5
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",38,Black or African American,"29,858","+/-5,626",3.7,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",39,American Indian and Alaska Native,"14,924","+/-3,606",1.9,+/-0.5
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",44,Asian,"35,142","+/-5,427",4.4,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",45,Asian Indian,"14,290","+/-3,669",1.8,+/-0.5
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",46,Chinese,"7,675","+/-3,171",1.0,+/-0.4
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",47,Filipino,"4,420","+/-2,050",0.6,+/-0.3
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",48,Japanese,651,+/-397,0.1,+/-0.1
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",49,Korean,"2,229","+/-1,047",0.3,+/-0.1
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",50,Vietnamese,"1,910","+/-1,322",0.2,+/-0.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",51,Other Asian,"3,967","+/-1,446",0.5,+/-0.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",52,Native Hawaiian and Other Pacific Islander,"2,511","+/-1,362",0.3,+/-0.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",53,Native Hawaiian,N,N,N,N
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",54,Chamorro,N,N,N,N
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",55,Samoan,N,N,N,N
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",57,Some other race,"39,691","+/-5,289",5.0,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",58,Two or more races,"105,384","+/-9,071",13.2,+/-1.1
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",59,White and Black or African American,"7,723","+/-2,132",1.0,+/-0.3
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",60,White and American Indian and Alaska Native,"7,681","+/-2,188",1.0,+/-0.3
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",61,White and Asian,"8,145","+/-2,072",1.0,+/-0.3
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",62,Black or African American and American Indian and Alaska Native,378,+/-439,0.0,+/-0.1
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",62.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",63,Total population,"796,924","+/-14,842","796,924",(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",64,White,"670,853","+/-15,025",84.2,+/-1.3
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",65,Black or African American,"41,159","+/-6,212",5.2,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",66,American Indian and Alaska Native,"26,510","+/-4,150",3.3,+/-0.5
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",67,Asian,"44,943","+/-5,688",5.6,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",68,Native Hawaiian and Other Pacific Islander,"4,571","+/-1,935",0.6,+/-0.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",69,Some other race,"118,513","+/-10,143",14.9,+/-1.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",69.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",70,Total population,"796,924","+/-14,842","796,924",(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",71,Hispanic or Latino (of any race),"136,717","+/-10,078",17.2,+/-1.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",72,Mexican,"102,409","+/-8,518",12.9,+/-1.0
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",73,Puerto Rican,"5,426","+/-1,874",0.7,+/-0.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",74,Cuban,"1,603",+/-949,0.2,+/-0.1
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",75,Other Hispanic or Latino,"27,279","+/-5,169",3.4,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",76,Not Hispanic or Latino,"660,207","+/-15,837",82.8,+/-1.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",77,White alone,"542,604","+/-14,576",68.1,+/-1.5
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",78,Black or African American alone,"29,329","+/-5,582",3.7,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",79,American Indian and Alaska Native alone,"12,212","+/-3,356",1.5,+/-0.4
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",80,Asian alone,"35,054","+/-5,405",4.4,+/-0.7
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",81,Native Hawaiian and Other Pacific Islander alone,"2,354","+/-1,358",0.3,+/-0.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",82,Some other race alone,"5,315","+/-1,707",0.7,+/-0.2
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",83,Two or more races,"33,339","+/-5,253",4.2,+/-0.6
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",84,Two races including Some other race,"9,323","+/-3,539",1.2,+/-0.4
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",85,"Two races excluding Some other race, and Three or more races","24,016","+/-3,910",3.0,+/-0.5
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",85.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",86,Total housing units,"399,272","+/-6,773",(X),(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",86.3,,,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",87,"Citizen, 18 and over population","615,575","+/-12,754","615,575",(X)
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",88,Male,"299,059","+/-7,296",48.6,+/-0.8
+DP05,5001800US0401,"Congressional District 1 (118th Congress), Arizona",89,Female,"316,516","+/-8,732",51.4,+/-0.8
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",0.5,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",0.8,SEX AND AGE,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",1,Total population,"809,339","+/-7,045","809,339",(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",2,Male,"404,816","+/-5,050",50.0,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",3,Female,"404,523","+/-4,452",50.0,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",4,Sex ratio (males per 100 females),100.1,+/-1.6,(X),(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",4.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",5,Under 5 years,"38,122","+/-2,013",4.7,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",6,5 to 9 years,"46,836","+/-3,288",5.8,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",7,10 to 14 years,"49,340","+/-3,714",6.1,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",8,15 to 19 years,"56,346","+/-3,231",7.0,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",9,20 to 24 years,"51,327","+/-3,056",6.3,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",10,25 to 34 years,"92,415","+/-3,479",11.4,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",11,35 to 44 years,"90,275","+/-3,562",11.2,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",12,45 to 54 years,"85,787","+/-3,415",10.6,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",13,55 to 59 years,"47,356","+/-3,389",5.9,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",14,60 to 64 years,"61,994","+/-2,999",7.7,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",15,65 to 74 years,"117,687","+/-2,928",14.5,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",16,75 to 84 years,"59,041","+/-3,061",7.3,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",17,85 years and over,"12,813","+/-1,871",1.6,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",17.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",18,Median age (years),43.0,+/-0.5,(X),(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",18.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",19,Under 18 years,"165,176","+/-3,956",20.4,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",20,16 years and over,"665,975","+/-5,439",82.3,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",21,18 years and over,"644,163","+/-5,370",79.6,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",22,21 years and over,"607,589","+/-5,277",75.1,+/-0.5
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",23,62 years and over,"227,120","+/-4,832",28.1,+/-0.6
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",24,65 years and over,"189,541","+/-3,608",23.4,+/-0.5
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",24.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",25,18 years and over,"644,163","+/-5,370","644,163",(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",26,Male,"320,702","+/-3,479",49.8,+/-0.3
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",27,Female,"323,461","+/-3,287",50.2,+/-0.3
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",28,Sex ratio (males per 100 females),99.1,+/-1.3,(X),(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",28.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",29,65 years and over,"189,541","+/-3,608","189,541",(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",30,Male,"89,779","+/-2,125",47.4,+/-0.6
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",31,Female,"99,762","+/-2,142",52.6,+/-0.6
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",32,Sex ratio (males per 100 females),90.0,+/-2.2,(X),(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",32.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",32.5,RACE,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",33,Total population,"809,339","+/-7,045","809,339",(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",34,One race,"713,815","+/-9,806",88.2,+/-0.9
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",35,Two or more races,"95,524","+/-7,135",11.8,+/-0.9
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",35.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",36,One race,"713,815","+/-9,806",88.2,+/-0.9
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",37,White,"466,562","+/-8,229",57.6,+/-1.0
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",38,Black or African American,"20,710","+/-3,469",2.6,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",39,American Indian and Alaska Native,"166,582","+/-4,800",20.6,+/-0.6
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",44,Asian,"9,707","+/-1,974",1.2,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",45,Asian Indian,135,+/-159,0.0,+/-0.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",46,Chinese,"3,341","+/-1,390",0.4,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",47,Filipino,"3,032","+/-1,428",0.4,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",48,Japanese,"1,078",+/-695,0.1,+/-0.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",49,Korean,855,+/-708,0.1,+/-0.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",50,Vietnamese,756,+/-554,0.1,+/-0.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",51,Other Asian,510,+/-464,0.1,+/-0.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",52,Native Hawaiian and Other Pacific Islander,"1,270",+/-771,0.2,+/-0.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",53,Native Hawaiian,N,N,N,N
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",54,Chamorro,N,N,N,N
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",55,Samoan,N,N,N,N
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",57,Some other race,"48,984","+/-7,121",6.1,+/-0.9
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",58,Two or more races,"95,524","+/-7,135",11.8,+/-0.9
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",59,White and Black or African American,"5,767","+/-1,913",0.7,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",60,White and American Indian and Alaska Native,"15,866","+/-2,788",2.0,+/-0.3
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",61,White and Asian,"3,373","+/-1,290",0.4,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",62,Black or African American and American Indian and Alaska Native,947,"+/-1,050",0.1,+/-0.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",62.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",63,Total population,"809,339","+/-7,045","809,339",(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",64,White,"557,367","+/-9,125",68.9,+/-1.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",65,Black or African American,"32,147","+/-4,515",4.0,+/-0.6
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",66,American Indian and Alaska Native,"187,895","+/-4,597",23.2,+/-0.5
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",67,Asian,"15,069","+/-2,118",1.9,+/-0.3
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",68,Native Hawaiian and Other Pacific Islander,"3,114","+/-1,142",0.4,+/-0.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",69,Some other race,"115,083","+/-7,579",14.2,+/-0.9
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",69.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",70,Total population,"809,339","+/-7,045","809,339",(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",71,Hispanic or Latino (of any race),"150,859","+/-8,090",18.6,+/-0.9
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",72,Mexican,"125,037","+/-9,365",15.4,+/-1.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",73,Puerto Rican,"3,667","+/-1,435",0.5,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",74,Cuban,"2,255","+/-1,360",0.3,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",75,Other Hispanic or Latino,"19,900","+/-3,820",2.5,+/-0.5
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",76,Not Hispanic or Latino,"658,480","+/-6,746",81.4,+/-0.9
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",77,White alone,"436,430","+/-7,009",53.9,+/-0.9
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",78,Black or African American alone,"19,317","+/-3,038",2.4,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",79,American Indian and Alaska Native alone,"156,234","+/-3,703",19.3,+/-0.5
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",80,Asian alone,"9,246","+/-1,887",1.1,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",81,Native Hawaiian and Other Pacific Islander alone,967,+/-680,0.1,+/-0.1
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",82,Some other race alone,"2,893","+/-1,296",0.4,+/-0.2
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",83,Two or more races,"33,393","+/-3,309",4.1,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",84,Two races including Some other race,"8,193","+/-2,329",1.0,+/-0.3
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",85,"Two races excluding Some other race, and Three or more races","25,200","+/-2,796",3.1,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",85.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",86,Total housing units,"383,955","+/-3,590",(X),(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",86.3,,,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",87,"Citizen, 18 and over population","617,584","+/-7,569","617,584",(X)
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",88,Male,"306,806","+/-4,559",49.7,+/-0.4
+DP05,5001800US0402,"Congressional District 2 (118th Congress), Arizona",89,Female,"310,778","+/-4,256",50.3,+/-0.4
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",0.5,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",0.8,SEX AND AGE,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",1,Total population,"799,570","+/-16,882","799,570",(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",2,Male,"404,274","+/-10,568",50.6,+/-0.7
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",3,Female,"395,296","+/-9,638",49.4,+/-0.7
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",4,Sex ratio (males per 100 females),102.3,+/-2.8,(X),(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",4.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",5,Under 5 years,"51,569","+/-4,898",6.4,+/-0.6
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",6,5 to 9 years,"54,073","+/-4,092",6.8,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",7,10 to 14 years,"69,766","+/-5,192",8.7,+/-0.6
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",8,15 to 19 years,"68,486","+/-4,889",8.6,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",9,20 to 24 years,"71,671","+/-5,142",9.0,+/-0.7
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",10,25 to 34 years,"138,734","+/-6,166",17.4,+/-0.7
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",11,35 to 44 years,"110,562","+/-4,948",13.8,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",12,45 to 54 years,"92,689","+/-5,099",11.6,+/-0.6
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",13,55 to 59 years,"40,033","+/-3,013",5.0,+/-0.4
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",14,60 to 64 years,"34,767","+/-3,343",4.3,+/-0.4
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",15,65 to 74 years,"43,651","+/-3,191",5.5,+/-0.4
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",16,75 to 84 years,"17,844","+/-2,149",2.2,+/-0.3
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",17,85 years and over,"5,725","+/-1,314",0.7,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",17.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",18,Median age (years),31.0,+/-0.5,(X),(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",18.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",19,Under 18 years,"217,721","+/-9,959",27.2,+/-0.9
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",20,16 years and over,"608,803","+/-12,293",76.1,+/-0.9
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",21,18 years and over,"581,849","+/-11,662",72.8,+/-0.9
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",22,21 years and over,"542,586","+/-10,656",67.9,+/-1.0
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",23,62 years and over,"88,150","+/-5,071",11.0,+/-0.6
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",24,65 years and over,"67,220","+/-4,002",8.4,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",24.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",25,18 years and over,"581,849","+/-11,662","581,849",(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",26,Male,"293,895","+/-7,394",50.5,+/-0.7
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",27,Female,"287,954","+/-6,893",49.5,+/-0.7
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",28,Sex ratio (males per 100 females),102.1,+/-2.9,(X),(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",28.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",29,65 years and over,"67,220","+/-4,002","67,220",(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",30,Male,"30,782","+/-2,486",45.8,+/-2.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",31,Female,"36,438","+/-2,511",54.2,+/-2.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",32,Sex ratio (males per 100 females),84.5,+/-7.6,(X),(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",32.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",32.5,RACE,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",33,Total population,"799,570","+/-16,882","799,570",(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",34,One race,"513,045","+/-17,008",64.2,+/-1.9
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",35,Two or more races,"286,525","+/-16,861",35.8,+/-1.9
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",35.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",36,One race,"513,045","+/-17,008",64.2,+/-1.9
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",37,White,"224,555","+/-11,569",28.1,+/-1.4
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",38,Black or African American,"82,930","+/-8,834",10.4,+/-1.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",39,American Indian and Alaska Native,"20,763","+/-4,492",2.6,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",44,Asian,"19,406","+/-3,878",2.4,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",45,Asian Indian,"2,564","+/-1,285",0.3,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",46,Chinese,"3,740","+/-1,168",0.5,+/-0.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",47,Filipino,"5,439","+/-1,884",0.7,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",48,Japanese,523,+/-400,0.1,+/-0.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",49,Korean,"1,298","+/-1,021",0.2,+/-0.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",50,Vietnamese,"3,934","+/-1,959",0.5,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",51,Other Asian,"1,908","+/-1,119",0.2,+/-0.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",52,Native Hawaiian and Other Pacific Islander,622,+/-434,0.1,+/-0.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",53,Native Hawaiian,N,N,N,N
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",54,Chamorro,N,N,N,N
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",55,Samoan,N,N,N,N
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",57,Some other race,"164,769","+/-12,956",20.6,+/-1.6
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",58,Two or more races,"286,525","+/-16,861",35.8,+/-1.9
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",59,White and Black or African American,"5,599","+/-1,915",0.7,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",60,White and American Indian and Alaska Native,"4,507","+/-1,507",0.6,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",61,White and Asian,"4,243","+/-1,220",0.5,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",62,Black or African American and American Indian and Alaska Native,"2,673","+/-2,181",0.3,+/-0.3
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",62.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",63,Total population,"799,570","+/-16,882","799,570",(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",64,White,"500,021","+/-16,819",62.5,+/-1.6
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",65,Black or African American,"96,008","+/-9,243",12.0,+/-1.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",66,American Indian and Alaska Native,"38,151","+/-5,753",4.8,+/-0.7
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",67,Asian,"26,058","+/-4,357",3.3,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",68,Native Hawaiian and Other Pacific Islander,"2,095","+/-1,064",0.3,+/-0.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",69,Some other race,"430,700","+/-16,437",53.9,+/-1.7
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",69.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",70,Total population,"799,570","+/-16,882","799,570",(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",71,Hispanic or Latino (of any race),"519,769","+/-15,577",65.0,+/-1.3
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",72,Mexican,"475,453","+/-15,617",59.5,+/-1.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",73,Puerto Rican,"3,556","+/-1,412",0.4,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",74,Cuban,"3,292","+/-1,681",0.4,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",75,Other Hispanic or Latino,"37,468","+/-5,815",4.7,+/-0.7
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",76,Not Hispanic or Latino,"279,801","+/-11,738",35.0,+/-1.3
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",77,White alone,"144,344","+/-8,763",18.1,+/-1.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",78,Black or African American alone,"79,639","+/-8,571",10.0,+/-1.0
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",79,American Indian and Alaska Native alone,"14,874","+/-3,520",1.9,+/-0.4
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",80,Asian alone,"18,651","+/-3,776",2.3,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",81,Native Hawaiian and Other Pacific Islander alone,422,+/-359,0.1,+/-0.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",82,Some other race alone,"2,266","+/-1,284",0.3,+/-0.2
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",83,Two or more races,"19,605","+/-4,146",2.5,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",84,Two races including Some other race,"2,083",+/-985,0.3,+/-0.1
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",85,"Two races excluding Some other race, and Three or more races","17,522","+/-3,919",2.2,+/-0.5
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",85.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",86,Total housing units,"279,713","+/-6,346",(X),(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",86.3,,,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",87,"Citizen, 18 and over population","451,754","+/-10,828","451,754",(X)
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",88,Male,"226,929","+/-7,257",50.2,+/-0.9
+DP05,5001800US0403,"Congressional District 3 (118th Congress), Arizona",89,Female,"224,825","+/-6,476",49.8,+/-0.9
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",0.5,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",0.8,SEX AND AGE,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",1,Total population,"804,813","+/-14,147","804,813",(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",2,Male,"403,368","+/-9,809",50.1,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",3,Female,"401,445","+/-9,024",49.9,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",4,Sex ratio (males per 100 females),100.5,+/-3.1,(X),(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",4.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",5,Under 5 years,"46,925","+/-3,757",5.8,+/-0.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",6,5 to 9 years,"44,411","+/-3,516",5.5,+/-0.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",7,10 to 14 years,"46,311","+/-4,558",5.8,+/-0.5
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",8,15 to 19 years,"52,086","+/-4,549",6.5,+/-0.5
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",9,20 to 24 years,"68,098","+/-5,062",8.5,+/-0.6
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",10,25 to 34 years,"144,233","+/-7,161",17.9,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",11,35 to 44 years,"108,444","+/-5,722",13.5,+/-0.6
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",12,45 to 54 years,"86,099","+/-4,744",10.7,+/-0.6
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",13,55 to 59 years,"43,936","+/-3,397",5.5,+/-0.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",14,60 to 64 years,"48,544","+/-3,267",6.0,+/-0.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",15,65 to 74 years,"67,550","+/-4,103",8.4,+/-0.6
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",16,75 to 84 years,"34,012","+/-2,724",4.2,+/-0.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",17,85 years and over,"14,164","+/-1,971",1.8,+/-0.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",17.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",18,Median age (years),35.0,+/-0.7,(X),(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",18.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",19,Under 18 years,"164,497","+/-8,888",20.4,+/-1.0
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",20,16 years and over,"657,575","+/-11,831",81.7,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",21,18 years and over,"640,316","+/-11,807",79.6,+/-1.0
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",22,21 years and over,"602,253","+/-10,659",74.8,+/-1.0
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",23,62 years and over,"143,859","+/-6,003",17.9,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",24,65 years and over,"115,726","+/-5,231",14.4,+/-0.7
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",24.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",25,18 years and over,"640,316","+/-11,807","640,316",(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",26,Male,"323,467","+/-8,372",50.5,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",27,Female,"316,849","+/-7,114",49.5,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",28,Sex ratio (males per 100 females),102.1,+/-3.2,(X),(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",28.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",29,65 years and over,"115,726","+/-5,231","115,726",(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",30,Male,"52,002","+/-2,591",44.9,+/-1.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",31,Female,"63,724","+/-4,016",55.1,+/-1.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",32,Sex ratio (males per 100 females),81.6,+/-5.8,(X),(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",32.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",32.5,RACE,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",33,Total population,"804,813","+/-14,147","804,813",(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",34,One race,"670,571","+/-14,533",83.3,+/-1.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",35,Two or more races,"134,242","+/-10,364",16.7,+/-1.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",35.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",36,One race,"670,571","+/-14,533",83.3,+/-1.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",37,White,"491,163","+/-14,503",61.0,+/-1.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",38,Black or African American,"38,387","+/-6,219",4.8,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",39,American Indian and Alaska Native,"19,451","+/-3,575",2.4,+/-0.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",44,Asian,"42,154","+/-5,654",5.2,+/-0.7
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",45,Asian Indian,"11,158","+/-2,673",1.4,+/-0.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",46,Chinese,"9,360","+/-2,548",1.2,+/-0.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",47,Filipino,"5,463","+/-1,833",0.7,+/-0.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",48,Japanese,"2,321","+/-1,344",0.3,+/-0.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",49,Korean,"1,907","+/-1,033",0.2,+/-0.1
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",50,Vietnamese,"5,536","+/-2,276",0.7,+/-0.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",51,Other Asian,"6,409","+/-2,217",0.8,+/-0.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",52,Native Hawaiian and Other Pacific Islander,"2,249","+/-1,985",0.3,+/-0.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",53,Native Hawaiian,N,N,N,N
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",54,Chamorro,N,N,N,N
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",55,Samoan,N,N,N,N
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",57,Some other race,"77,167","+/-9,882",9.6,+/-1.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",58,Two or more races,"134,242","+/-10,364",16.7,+/-1.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",59,White and Black or African American,"11,045","+/-2,854",1.4,+/-0.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",60,White and American Indian and Alaska Native,"9,149","+/-2,577",1.1,+/-0.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",61,White and Asian,"9,236","+/-1,751",1.1,+/-0.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",62,Black or African American and American Indian and Alaska Native,"1,328","+/-1,017",0.2,+/-0.1
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",62.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",63,Total population,"804,813","+/-14,147","804,813",(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",64,White,"618,630","+/-16,480",76.9,+/-1.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",65,Black or African American,"56,752","+/-7,266",7.1,+/-0.9
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",66,American Indian and Alaska Native,"35,387","+/-5,062",4.4,+/-0.6
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",67,Asian,"56,599","+/-6,184",7.0,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",68,Native Hawaiian and Other Pacific Islander,"4,192","+/-2,155",0.5,+/-0.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",69,Some other race,"176,378","+/-11,267",21.9,+/-1.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",69.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",70,Total population,"804,813","+/-14,147","804,813",(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",71,Hispanic or Latino (of any race),"227,365","+/-12,685",28.3,+/-1.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",72,Mexican,"181,079","+/-12,951",22.5,+/-1.5
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",73,Puerto Rican,"6,508","+/-2,236",0.8,+/-0.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",74,Cuban,"3,092","+/-1,502",0.4,+/-0.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",75,Other Hispanic or Latino,"36,686","+/-6,514",4.6,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",76,Not Hispanic or Latino,"577,448","+/-12,643",71.7,+/-1.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",77,White alone,"439,211","+/-12,598",54.6,+/-1.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",78,Black or African American alone,"36,016","+/-5,948",4.5,+/-0.7
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",79,American Indian and Alaska Native alone,"14,418","+/-3,194",1.8,+/-0.4
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",80,Asian alone,"40,741","+/-5,420",5.1,+/-0.7
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",81,Native Hawaiian and Other Pacific Islander alone,"2,249","+/-1,985",0.3,+/-0.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",82,Some other race alone,"6,663","+/-2,596",0.8,+/-0.3
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",83,Two or more races,"38,150","+/-4,942",4.7,+/-0.6
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",84,Two races including Some other race,"6,512","+/-1,994",0.8,+/-0.2
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",85,"Two races excluding Some other race, and Three or more races","31,638","+/-4,137",3.9,+/-0.5
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",85.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",86,Total housing units,"355,883","+/-6,299",(X),(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",86.3,,,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",87,"Citizen, 18 and over population","588,499","+/-10,604","588,499",(X)
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",88,Male,"296,660","+/-7,889",50.4,+/-0.8
+DP05,5001800US0404,"Congressional District 4 (118th Congress), Arizona",89,Female,"291,839","+/-6,624",49.6,+/-0.8
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",0.5,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",0.8,SEX AND AGE,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",1,Total population,"813,308","+/-15,247","813,308",(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",2,Male,"410,677","+/-9,380",50.5,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",3,Female,"402,631","+/-9,045",49.5,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",4,Sex ratio (males per 100 females),102.0,+/-2.6,(X),(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",4.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",5,Under 5 years,"49,891","+/-4,052",6.1,+/-0.5
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",6,5 to 9 years,"60,080","+/-4,933",7.4,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",7,10 to 14 years,"63,130","+/-4,880",7.8,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",8,15 to 19 years,"59,206","+/-3,905",7.3,+/-0.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",9,20 to 24 years,"43,362","+/-4,996",5.3,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",10,25 to 34 years,"93,804","+/-5,518",11.5,+/-0.7
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",11,35 to 44 years,"119,447","+/-6,258",14.7,+/-0.8
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",12,45 to 54 years,"109,765","+/-7,025",13.5,+/-0.8
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",13,55 to 59 years,"46,871","+/-3,877",5.8,+/-0.5
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",14,60 to 64 years,"42,251","+/-3,686",5.2,+/-0.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",15,65 to 74 years,"74,863","+/-4,587",9.2,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",16,75 to 84 years,"40,037","+/-3,264",4.9,+/-0.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",17,85 years and over,"10,601","+/-1,891",1.3,+/-0.2
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",17.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",18,Median age (years),38.0,+/-0.6,(X),(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",18.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",19,Under 18 years,"209,816","+/-9,018",25.8,+/-1.0
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",20,16 years and over,"627,015","+/-13,570",77.1,+/-0.9
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",21,18 years and over,"603,492","+/-13,319",74.2,+/-1.0
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",22,21 years and over,"571,358","+/-12,373",70.3,+/-1.0
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",23,62 years and over,"151,509","+/-6,584",18.6,+/-0.8
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",24,65 years and over,"125,501","+/-5,815",15.4,+/-0.7
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",24.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",25,18 years and over,"603,492","+/-13,319","603,492",(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",26,Male,"299,734","+/-7,889",49.7,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",27,Female,"303,758","+/-7,349",50.3,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",28,Sex ratio (males per 100 females),98.7,+/-2.4,(X),(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",28.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",29,65 years and over,"125,501","+/-5,815","125,501",(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",30,Male,"59,157","+/-3,178",47.1,+/-1.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",31,Female,"66,344","+/-3,624",52.9,+/-1.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",32,Sex ratio (males per 100 females),89.2,+/-5.0,(X),(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",32.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",32.5,RACE,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",33,Total population,"813,308","+/-15,247","813,308",(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",34,One race,"699,976","+/-15,977",86.1,+/-1.5
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",35,Two or more races,"113,332","+/-12,415",13.9,+/-1.5
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",35.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",36,One race,"699,976","+/-15,977",86.1,+/-1.5
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",37,White,"575,524","+/-18,177",70.8,+/-1.9
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",38,Black or African American,"25,505","+/-4,911",3.1,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",39,American Indian and Alaska Native,"5,868","+/-2,113",0.7,+/-0.3
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",44,Asian,"43,700","+/-5,534",5.4,+/-0.7
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",45,Asian Indian,"12,389","+/-3,375",1.5,+/-0.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",46,Chinese,"7,536","+/-2,341",0.9,+/-0.3
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",47,Filipino,"8,394","+/-2,610",1.0,+/-0.3
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",48,Japanese,"1,522",+/-691,0.2,+/-0.1
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",49,Korean,"3,335","+/-1,274",0.4,+/-0.2
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",50,Vietnamese,"3,836","+/-1,627",0.5,+/-0.2
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",51,Other Asian,"6,688","+/-2,645",0.8,+/-0.3
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",52,Native Hawaiian and Other Pacific Islander,"2,981","+/-1,956",0.4,+/-0.2
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",53,Native Hawaiian,N,N,N,N
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",54,Chamorro,N,N,N,N
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",55,Samoan,N,N,N,N
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",57,Some other race,"46,398","+/-7,058",5.7,+/-0.9
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",58,Two or more races,"113,332","+/-12,415",13.9,+/-1.5
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",59,White and Black or African American,"12,878","+/-4,016",1.6,+/-0.5
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",60,White and American Indian and Alaska Native,"5,744","+/-1,650",0.7,+/-0.2
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",61,White and Asian,"13,797","+/-3,039",1.7,+/-0.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",62,Black or African American and American Indian and Alaska Native,229,+/-228,0.0,+/-0.1
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",62.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",63,Total population,"813,308","+/-15,247","813,308",(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",64,White,"684,613","+/-17,218",84.2,+/-1.2
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",65,Black or African American,"42,780","+/-6,307",5.3,+/-0.8
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",66,American Indian and Alaska Native,"14,975","+/-3,279",1.8,+/-0.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",67,Asian,"61,061","+/-6,456",7.5,+/-0.8
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",68,Native Hawaiian and Other Pacific Islander,"5,053","+/-2,221",0.6,+/-0.3
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",69,Some other race,"122,845","+/-13,557",15.1,+/-1.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",69.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",70,Total population,"813,308","+/-15,247","813,308",(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",71,Hispanic or Latino (of any race),"154,410","+/-12,753",19.0,+/-1.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",72,Mexican,"124,061","+/-13,128",15.3,+/-1.5
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",73,Puerto Rican,"7,278","+/-2,408",0.9,+/-0.3
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",74,Cuban,"1,989","+/-1,234",0.2,+/-0.2
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",75,Other Hispanic or Latino,"21,082","+/-5,165",2.6,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",76,Not Hispanic or Latino,"658,898","+/-14,511",81.0,+/-1.4
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",77,White alone,"538,323","+/-16,439",66.2,+/-1.7
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",78,Black or African American alone,"24,703","+/-4,793",3.0,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",79,American Indian and Alaska Native alone,"3,774","+/-1,813",0.5,+/-0.2
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",80,Asian alone,"42,517","+/-5,384",5.2,+/-0.7
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",81,Native Hawaiian and Other Pacific Islander alone,"2,842","+/-1,920",0.3,+/-0.2
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",82,Some other race alone,"5,048","+/-2,095",0.6,+/-0.3
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",83,Two or more races,"41,691","+/-6,100",5.1,+/-0.8
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",84,Two races including Some other race,"8,835","+/-2,470",1.1,+/-0.3
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",85,"Two races excluding Some other race, and Three or more races","32,856","+/-5,753",4.0,+/-0.7
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",85.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",86,Total housing units,"316,856","+/-6,193",(X),(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",86.3,,,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",87,"Citizen, 18 and over population","577,822","+/-12,817","577,822",(X)
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",88,Male,"286,869","+/-7,777",49.6,+/-0.6
+DP05,5001800US0405,"Congressional District 5 (118th Congress), Arizona",89,Female,"290,953","+/-7,024",50.4,+/-0.6
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",0.5,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",0.8,SEX AND AGE,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",1,Total population,"803,556","+/-13,465","803,556",(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",2,Male,"401,915","+/-8,600",50.0,+/-0.6
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",3,Female,"401,641","+/-8,063",50.0,+/-0.6
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",4,Sex ratio (males per 100 females),100.1,+/-2.4,(X),(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",4.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",5,Under 5 years,"40,825","+/-3,457",5.1,+/-0.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",6,5 to 9 years,"46,895","+/-3,948",5.8,+/-0.5
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",7,10 to 14 years,"44,212","+/-3,745",5.5,+/-0.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",8,15 to 19 years,"39,386","+/-3,511",4.9,+/-0.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",9,20 to 24 years,"53,664","+/-4,059",6.7,+/-0.5
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",10,25 to 34 years,"104,091","+/-4,593",13.0,+/-0.5
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",11,35 to 44 years,"91,710","+/-5,047",11.4,+/-0.6
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",12,45 to 54 years,"82,600","+/-3,911",10.3,+/-0.5
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",13,55 to 59 years,"44,649","+/-2,868",5.6,+/-0.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",14,60 to 64 years,"55,235","+/-3,607",6.9,+/-0.5
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",15,65 to 74 years,"113,230","+/-3,813",14.1,+/-0.5
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",16,75 to 84 years,"66,092","+/-3,247",8.2,+/-0.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",17,85 years and over,"20,967","+/-2,005",2.6,+/-0.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",17.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",18,Median age (years),42.7,+/-1.0,(X),(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",18.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",19,Under 18 years,"157,341","+/-8,179",19.6,+/-0.8
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",20,16 years and over,"662,893","+/-8,515",82.5,+/-0.7
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",21,18 years and over,"646,215","+/-8,018",80.4,+/-0.8
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",22,21 years and over,"623,651","+/-7,841",77.6,+/-0.8
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",23,62 years and over,"233,330","+/-5,879",29.0,+/-0.9
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",24,65 years and over,"200,289","+/-4,759",24.9,+/-0.7
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",24.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",25,18 years and over,"646,215","+/-8,018","646,215",(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",26,Male,"323,334","+/-6,017",50.0,+/-0.7
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",27,Female,"322,881","+/-5,622",50.0,+/-0.7
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",28,Sex ratio (males per 100 females),100.1,+/-2.6,(X),(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",28.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",29,65 years and over,"200,289","+/-4,759","200,289",(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",30,Male,"93,407","+/-2,707",46.6,+/-0.8
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",31,Female,"106,882","+/-2,960",53.4,+/-0.8
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",32,Sex ratio (males per 100 females),87.4,+/-2.7,(X),(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",32.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",32.5,RACE,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",33,Total population,"803,556","+/-13,465","803,556",(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",34,One race,"671,492","+/-14,558",83.6,+/-1.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",35,Two or more races,"132,064","+/-9,981",16.4,+/-1.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",35.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",36,One race,"671,492","+/-14,558",83.6,+/-1.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",37,White,"556,604","+/-14,101",69.3,+/-1.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",38,Black or African American,"26,650","+/-3,603",3.3,+/-0.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",39,American Indian and Alaska Native,"8,334","+/-2,055",1.0,+/-0.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",44,Asian,"22,249","+/-2,332",2.8,+/-0.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",45,Asian Indian,"4,674","+/-2,276",0.6,+/-0.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",46,Chinese,"5,133","+/-1,646",0.6,+/-0.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",47,Filipino,"3,644","+/-1,194",0.5,+/-0.1
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",48,Japanese,"1,430",+/-584,0.2,+/-0.1
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",49,Korean,"1,937","+/-1,017",0.2,+/-0.1
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",50,Vietnamese,"1,972","+/-1,104",0.2,+/-0.1
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",51,Other Asian,"3,459","+/-1,483",0.4,+/-0.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",52,Native Hawaiian and Other Pacific Islander,566,+/-444,0.1,+/-0.1
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",53,Native Hawaiian,N,N,N,N
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",54,Chamorro,N,N,N,N
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",55,Samoan,N,N,N,N
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",57,Some other race,"57,089","+/-7,063",7.1,+/-0.9
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",58,Two or more races,"132,064","+/-9,981",16.4,+/-1.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",59,White and Black or African American,"9,399","+/-2,571",1.2,+/-0.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",60,White and American Indian and Alaska Native,"10,142","+/-2,649",1.3,+/-0.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",61,White and Asian,"8,983","+/-2,079",1.1,+/-0.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",62,Black or African American and American Indian and Alaska Native,245,+/-245,0.0,+/-0.1
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",62.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",63,Total population,"803,556","+/-13,465","803,556",(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",64,White,"681,519","+/-14,666",84.8,+/-1.1
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",65,Black or African American,"45,692","+/-5,361",5.7,+/-0.7
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",66,American Indian and Alaska Native,"25,270","+/-4,249",3.1,+/-0.5
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",67,Asian,"37,940","+/-3,141",4.7,+/-0.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",68,Native Hawaiian and Other Pacific Islander,"3,271","+/-1,240",0.4,+/-0.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",69,Some other race,"154,417","+/-10,764",19.2,+/-1.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",69.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",70,Total population,"803,556","+/-13,465","803,556",(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",71,Hispanic or Latino (of any race),"220,210","+/-12,205",27.4,+/-1.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",72,Mexican,"184,914","+/-11,691",23.0,+/-1.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",73,Puerto Rican,"10,263","+/-3,363",1.3,+/-0.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",74,Cuban,926,+/-565,0.1,+/-0.1
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",75,Other Hispanic or Latino,"24,107","+/-4,620",3.0,+/-0.6
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",76,Not Hispanic or Latino,"583,346","+/-8,863",72.6,+/-1.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",77,White alone,"491,004","+/-9,229",61.1,+/-1.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",78,Black or African American alone,"25,640","+/-3,628",3.2,+/-0.4
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",79,American Indian and Alaska Native alone,"4,199","+/-1,485",0.5,+/-0.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",80,Asian alone,"21,510","+/-2,353",2.7,+/-0.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",81,Native Hawaiian and Other Pacific Islander alone,321,+/-367,0.0,+/-0.1
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",82,Some other race alone,"3,837","+/-2,003",0.5,+/-0.3
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",83,Two or more races,"36,835","+/-4,445",4.6,+/-0.5
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",84,Two races including Some other race,"7,175","+/-1,941",0.9,+/-0.2
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",85,"Two races excluding Some other race, and Three or more races","29,660","+/-3,713",3.7,+/-0.5
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",85.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",86,Total housing units,"378,050","+/-4,888",(X),(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",86.3,,,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",87,"Citizen, 18 and over population","621,707","+/-7,932","621,707",(X)
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",88,Male,"311,427","+/-6,107",50.1,+/-0.7
+DP05,5001800US0406,"Congressional District 6 (118th Congress), Arizona",89,Female,"310,280","+/-5,226",49.9,+/-0.7
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",0.5,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",0.8,SEX AND AGE,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",1,Total population,"793,370","+/-16,255","793,370",(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",2,Male,"394,746","+/-9,763",49.8,+/-0.7
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",3,Female,"398,624","+/-9,575",50.2,+/-0.7
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",4,Sex ratio (males per 100 females),99.0,+/-2.6,(X),(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",4.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",5,Under 5 years,"47,589","+/-4,437",6.0,+/-0.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",6,5 to 9 years,"54,017","+/-4,652",6.8,+/-0.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",7,10 to 14 years,"54,260","+/-4,325",6.8,+/-0.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",8,15 to 19 years,"67,046","+/-3,622",8.5,+/-0.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",9,20 to 24 years,"71,799","+/-5,054",9.0,+/-0.6
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",10,25 to 34 years,"108,183","+/-5,502",13.6,+/-0.6
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",11,35 to 44 years,"97,908","+/-5,425",12.3,+/-0.6
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",12,45 to 54 years,"88,704","+/-4,144",11.2,+/-0.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",13,55 to 59 years,"41,989","+/-3,103",5.3,+/-0.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",14,60 to 64 years,"43,710","+/-3,465",5.5,+/-0.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",15,65 to 74 years,"71,189","+/-3,803",9.0,+/-0.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",16,75 to 84 years,"37,968","+/-3,329",4.8,+/-0.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",17,85 years and over,"9,008","+/-1,589",1.1,+/-0.2
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",17.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",18,Median age (years),34.3,+/-0.9,(X),(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",18.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",19,Under 18 years,"191,143","+/-9,788",24.1,+/-0.9
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",20,16 years and over,"625,543","+/-11,642",78.8,+/-0.9
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",21,18 years and over,"602,227","+/-10,746",75.9,+/-0.9
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",22,21 years and over,"556,525","+/-10,660",70.1,+/-0.9
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",23,62 years and over,"146,208","+/-6,388",18.4,+/-0.9
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",24,65 years and over,"118,165","+/-4,940",14.9,+/-0.7
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",24.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",25,18 years and over,"602,227","+/-10,746","602,227",(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",26,Male,"296,782","+/-6,850",49.3,+/-0.6
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",27,Female,"305,445","+/-6,230",50.7,+/-0.6
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",28,Sex ratio (males per 100 females),97.2,+/-2.4,(X),(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",28.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",29,65 years and over,"118,165","+/-4,940","118,165",(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",30,Male,"55,574","+/-2,961",47.0,+/-1.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",31,Female,"62,591","+/-2,945",53.0,+/-1.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",32,Sex ratio (males per 100 females),88.8,+/-4.9,(X),(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",32.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",32.5,RACE,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",33,Total population,"793,370","+/-16,255","793,370",(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",34,One race,"508,598","+/-15,660",64.1,+/-1.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",35,Two or more races,"284,772","+/-13,893",35.9,+/-1.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",35.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",36,One race,"508,598","+/-15,660",64.1,+/-1.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",37,White,"294,555","+/-11,582",37.1,+/-1.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",38,Black or African American,"35,142","+/-6,119",4.4,+/-0.8
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",39,American Indian and Alaska Native,"32,416","+/-4,115",4.1,+/-0.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",44,Asian,"13,619","+/-2,566",1.7,+/-0.3
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",45,Asian Indian,"1,408",+/-693,0.2,+/-0.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",46,Chinese,"2,496",+/-858,0.3,+/-0.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",47,Filipino,"3,336","+/-1,504",0.4,+/-0.2
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",48,Japanese,863,+/-914,0.1,+/-0.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",49,Korean,583,+/-500,0.1,+/-0.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",50,Vietnamese,"3,052","+/-1,473",0.4,+/-0.2
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",51,Other Asian,"1,881",+/-962,0.2,+/-0.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",52,Native Hawaiian and Other Pacific Islander,41,+/-75,0.0,+/-0.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",53,Native Hawaiian,N,N,N,N
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",54,Chamorro,N,N,N,N
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",55,Samoan,N,N,N,N
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",57,Some other race,"132,825","+/-10,452",16.7,+/-1.2
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",58,Two or more races,"284,772","+/-13,893",35.9,+/-1.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",59,White and Black or African American,"4,723","+/-1,306",0.6,+/-0.2
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",60,White and American Indian and Alaska Native,"8,940","+/-2,476",1.1,+/-0.3
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",61,White and Asian,"5,549","+/-1,286",0.7,+/-0.2
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",62,Black or African American and American Indian and Alaska Native,"1,399","+/-1,090",0.2,+/-0.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",62.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",63,Total population,"793,370","+/-16,255","793,370",(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",64,White,"570,003","+/-16,513",71.8,+/-1.6
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",65,Black or African American,"46,399","+/-6,808",5.8,+/-0.8
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",66,American Indian and Alaska Native,"49,649","+/-5,467",6.3,+/-0.7
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",67,Asian,"22,298","+/-3,222",2.8,+/-0.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",68,Native Hawaiian and Other Pacific Islander,"1,932","+/-1,338",0.2,+/-0.2
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",69,Some other race,"394,247","+/-13,931",49.7,+/-1.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",69.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",70,Total population,"793,370","+/-16,255","793,370",(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",71,Hispanic or Latino (of any race),"483,943","+/-13,331",61.0,+/-1.0
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",72,Mexican,"445,558","+/-13,421",56.2,+/-1.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",73,Puerto Rican,"8,812","+/-2,934",1.1,+/-0.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",74,Cuban,"2,179","+/-1,710",0.3,+/-0.2
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",75,Other Hispanic or Latino,"27,394","+/-5,044",3.5,+/-0.6
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",76,Not Hispanic or Latino,"309,427","+/-9,525",39.0,+/-1.0
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",77,White alone,"217,289","+/-9,289",27.4,+/-1.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",78,Black or African American alone,"31,628","+/-5,719",4.0,+/-0.7
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",79,American Indian and Alaska Native alone,"21,476","+/-2,700",2.7,+/-0.3
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",80,Asian alone,"12,734","+/-2,430",1.6,+/-0.3
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",81,Native Hawaiian and Other Pacific Islander alone,41,+/-75,0.0,+/-0.1
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",82,Some other race alone,"3,716","+/-1,984",0.5,+/-0.2
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",83,Two or more races,"22,543","+/-3,933",2.8,+/-0.5
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",84,Two races including Some other race,"5,577","+/-3,290",0.7,+/-0.4
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",85,"Two races excluding Some other race, and Three or more races","16,966","+/-2,547",2.1,+/-0.3
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",85.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",86,Total housing units,"313,370","+/-5,849",(X),(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",86.3,,,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",87,"Citizen, 18 and over population","532,293","+/-11,098","532,293",(X)
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",88,Male,"263,537","+/-6,769",49.5,+/-0.7
+DP05,5001800US0407,"Congressional District 7 (118th Congress), Arizona",89,Female,"268,756","+/-6,683",50.5,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",0.5,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",0.8,SEX AND AGE,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",1,Total population,"813,094","+/-15,494","813,094",(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",2,Male,"394,897","+/-9,391",48.6,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",3,Female,"418,197","+/-10,307",51.4,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",4,Sex ratio (males per 100 females),94.4,+/-2.8,(X),(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",4.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",5,Under 5 years,"40,313","+/-4,408",5.0,+/-0.5
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",6,5 to 9 years,"46,404","+/-4,834",5.7,+/-0.6
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",7,10 to 14 years,"56,186","+/-4,257",6.9,+/-0.5
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",8,15 to 19 years,"51,032","+/-4,406",6.3,+/-0.5
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",9,20 to 24 years,"40,069","+/-3,518",4.9,+/-0.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",10,25 to 34 years,"99,326","+/-6,911",12.2,+/-0.8
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",11,35 to 44 years,"97,792","+/-5,385",12.0,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",12,45 to 54 years,"105,917","+/-5,233",13.0,+/-0.6
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",13,55 to 59 years,"47,044","+/-4,039",5.8,+/-0.5
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",14,60 to 64 years,"50,245","+/-3,497",6.2,+/-0.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",15,65 to 74 years,"97,049","+/-5,413",11.9,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",16,75 to 84 years,"60,694","+/-3,964",7.5,+/-0.5
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",17,85 years and over,"21,023","+/-2,434",2.6,+/-0.3
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",17.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",18,Median age (years),42.2,+/-1.1,(X),(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",18.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",19,Under 18 years,"176,376","+/-9,180",21.7,+/-0.9
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",20,16 years and over,"658,367","+/-12,593",81.0,+/-0.9
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",21,18 years and over,"636,718","+/-12,445",78.3,+/-0.9
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",22,21 years and over,"609,441","+/-11,851",75.0,+/-0.9
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",23,62 years and over,"209,064","+/-7,321",25.7,+/-0.9
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",24,65 years and over,"178,766","+/-6,717",22.0,+/-0.8
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",24.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",25,18 years and over,"636,718","+/-12,445","636,718",(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",26,Male,"302,904","+/-7,382",47.6,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",27,Female,"333,814","+/-7,893",52.4,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",28,Sex ratio (males per 100 females),90.7,+/-2.5,(X),(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",28.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",29,65 years and over,"178,766","+/-6,717","178,766",(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",30,Male,"77,108","+/-3,587",43.1,+/-1.3
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",31,Female,"101,658","+/-4,546",56.9,+/-1.3
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",32,Sex ratio (males per 100 females),75.9,+/-3.9,(X),(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",32.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",32.5,RACE,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",33,Total population,"813,094","+/-15,494","813,094",(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",34,One race,"677,161","+/-15,714",83.3,+/-1.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",35,Two or more races,"135,933","+/-12,429",16.7,+/-1.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",35.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",36,One race,"677,161","+/-15,714",83.3,+/-1.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",37,White,"540,667","+/-14,517",66.5,+/-1.6
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",38,Black or African American,"35,194","+/-5,803",4.3,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",39,American Indian and Alaska Native,"11,614","+/-4,366",1.4,+/-0.5
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",44,Asian,"43,335","+/-6,931",5.3,+/-0.9
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",45,Asian Indian,"12,007","+/-3,672",1.5,+/-0.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",46,Chinese,"5,053","+/-1,793",0.6,+/-0.2
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",47,Filipino,"9,024","+/-4,115",1.1,+/-0.5
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",48,Japanese,"1,504",+/-658,0.2,+/-0.1
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",49,Korean,"1,963","+/-1,124",0.2,+/-0.1
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",50,Vietnamese,"7,020","+/-2,946",0.9,+/-0.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",51,Other Asian,"6,764","+/-2,495",0.8,+/-0.3
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",52,Native Hawaiian and Other Pacific Islander,748,+/-506,0.1,+/-0.1
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",53,Native Hawaiian,N,N,N,N
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",54,Chamorro,N,N,N,N
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",55,Samoan,N,N,N,N
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",57,Some other race,"45,603","+/-8,392",5.6,+/-1.0
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",58,Two or more races,"135,933","+/-12,429",16.7,+/-1.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",59,White and Black or African American,"9,501","+/-2,777",1.2,+/-0.3
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",60,White and American Indian and Alaska Native,"10,111","+/-2,806",1.2,+/-0.3
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",61,White and Asian,"8,958","+/-3,019",1.1,+/-0.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",62,Black or African American and American Indian and Alaska Native,493,+/-741,0.1,+/-0.1
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",62.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",63,Total population,"813,094","+/-15,494","813,094",(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",64,White,"671,508","+/-16,502",82.6,+/-1.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",65,Black or African American,"51,118","+/-7,271",6.3,+/-0.9
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",66,American Indian and Alaska Native,"28,996","+/-5,886",3.6,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",67,Asian,"58,044","+/-7,517",7.1,+/-0.9
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",68,Native Hawaiian and Other Pacific Islander,"2,448",+/-901,0.3,+/-0.1
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",69,Some other race,"146,370","+/-12,846",18.0,+/-1.5
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",69.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",70,Total population,"813,094","+/-15,494","813,094",(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",71,Hispanic or Latino (of any race),"185,016","+/-14,159",22.8,+/-1.6
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",72,Mexican,"147,055","+/-13,471",18.1,+/-1.5
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",73,Puerto Rican,"5,456","+/-3,474",0.7,+/-0.4
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",74,Cuban,"4,453","+/-2,682",0.5,+/-0.3
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",75,Other Hispanic or Latino,"28,052","+/-5,532",3.5,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",76,Not Hispanic or Latino,"628,078","+/-14,550",77.2,+/-1.6
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",77,White alone,"504,256","+/-13,322",62.0,+/-1.6
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",78,Black or African American alone,"34,574","+/-5,871",4.3,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",79,American Indian and Alaska Native alone,"6,177","+/-1,859",0.8,+/-0.2
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",80,Asian alone,"42,194","+/-6,574",5.2,+/-0.8
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",81,Native Hawaiian and Other Pacific Islander alone,679,+/-499,0.1,+/-0.1
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",82,Some other race alone,"4,340","+/-1,798",0.5,+/-0.2
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",83,Two or more races,"35,858","+/-5,680",4.4,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",84,Two races including Some other race,"5,685","+/-1,433",0.7,+/-0.2
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",85,"Two races excluding Some other race, and Three or more races","30,173","+/-5,243",3.7,+/-0.6
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",85.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",86,Total housing units,"348,942","+/-6,772",(X),(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",86.3,,,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",87,"Citizen, 18 and over population","594,838","+/-11,479","594,838",(X)
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",88,Male,"282,667","+/-7,037",47.5,+/-0.7
+DP05,5001800US0408,"Congressional District 8 (118th Congress), Arizona",89,Female,"312,171","+/-7,312",52.5,+/-0.7
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",0.5,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",0.8,SEX AND AGE,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",1,Total population,"842,342","+/-12,427","842,342",(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",2,Male,"421,965","+/-8,953",50.1,+/-0.7
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",3,Female,"420,377","+/-7,612",49.9,+/-0.7
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",4,Sex ratio (males per 100 females),100.4,+/-2.6,(X),(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",4.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",5,Under 5 years,"50,505","+/-4,150",6.0,+/-0.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",6,5 to 9 years,"55,138","+/-5,444",6.5,+/-0.6
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",7,10 to 14 years,"53,706","+/-4,589",6.4,+/-0.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",8,15 to 19 years,"49,861","+/-3,540",5.9,+/-0.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",9,20 to 24 years,"49,189","+/-4,063",5.8,+/-0.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",10,25 to 34 years,"104,834","+/-5,652",12.4,+/-0.7
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",11,35 to 44 years,"99,272","+/-5,735",11.8,+/-0.6
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",12,45 to 54 years,"99,250","+/-5,143",11.8,+/-0.6
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",13,55 to 59 years,"50,177","+/-3,752",6.0,+/-0.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",14,60 to 64 years,"57,584","+/-4,762",6.8,+/-0.6
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",15,65 to 74 years,"105,109","+/-4,223",12.5,+/-0.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",16,75 to 84 years,"53,278","+/-3,546",6.3,+/-0.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",17,85 years and over,"14,439","+/-2,083",1.7,+/-0.3
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",17.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",18,Median age (years),40.3,+/-0.8,(X),(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",18.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",19,Under 18 years,"190,872","+/-8,989",22.7,+/-0.9
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",20,16 years and over,"672,569","+/-9,901",79.8,+/-0.9
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",21,18 years and over,"651,470","+/-10,112",77.3,+/-0.9
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",22,21 years and over,"623,429","+/-9,964",74.0,+/-0.9
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",23,62 years and over,"206,906","+/-6,671",24.6,+/-0.9
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",24,65 years and over,"172,826","+/-5,568",20.5,+/-0.7
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",24.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",25,18 years and over,"651,470","+/-10,112","651,470",(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",26,Male,"326,991","+/-7,049",50.2,+/-0.6
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",27,Female,"324,479","+/-5,925",49.8,+/-0.6
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",28,Sex ratio (males per 100 females),100.8,+/-2.5,(X),(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",28.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",29,65 years and over,"172,826","+/-5,568","172,826",(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",30,Male,"83,564","+/-3,052",48.4,+/-0.9
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",31,Female,"89,262","+/-3,382",51.6,+/-0.9
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",32,Sex ratio (males per 100 females),93.6,+/-3.5,(X),(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",32.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",32.5,RACE,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",33,Total population,"842,342","+/-12,427","842,342",(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",34,One race,"667,970","+/-14,989",79.3,+/-1.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",35,Two or more races,"174,372","+/-13,639",20.7,+/-1.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",35.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",36,One race,"667,970","+/-14,989",79.3,+/-1.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",37,White,"522,625","+/-15,853",62.0,+/-1.7
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",38,Black or African American,"32,262","+/-4,537",3.8,+/-0.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",39,American Indian and Alaska Native,"14,706","+/-4,151",1.7,+/-0.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",44,Asian,"15,973","+/-3,180",1.9,+/-0.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",45,Asian Indian,"1,231",+/-919,0.1,+/-0.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",46,Chinese,"1,534",+/-954,0.2,+/-0.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",47,Filipino,"6,164","+/-1,830",0.7,+/-0.2
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",48,Japanese,330,+/-293,0.0,+/-0.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",49,Korean,959,+/-841,0.1,+/-0.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",50,Vietnamese,"3,825","+/-2,678",0.5,+/-0.3
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",51,Other Asian,"1,930","+/-1,035",0.2,+/-0.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",52,Native Hawaiian and Other Pacific Islander,"1,444",+/-975,0.2,+/-0.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",53,Native Hawaiian,N,N,N,N
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",54,Chamorro,N,N,N,N
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",55,Samoan,N,N,N,N
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",57,Some other race,"80,960","+/-11,084",9.6,+/-1.3
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",58,Two or more races,"174,372","+/-13,639",20.7,+/-1.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",59,White and Black or African American,"8,254","+/-3,091",1.0,+/-0.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",60,White and American Indian and Alaska Native,"10,857","+/-2,363",1.3,+/-0.3
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",61,White and Asian,"6,102","+/-1,460",0.7,+/-0.2
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",62,Black or African American and American Indian and Alaska Native,264,+/-350,0.0,+/-0.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",62.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",63,Total population,"842,342","+/-12,427","842,342",(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",64,White,"690,950","+/-17,761",82.0,+/-1.6
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",65,Black or African American,"46,230","+/-6,118",5.5,+/-0.7
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",66,American Indian and Alaska Native,"31,518","+/-4,673",3.7,+/-0.6
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",67,Asian,"27,642","+/-3,486",3.3,+/-0.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",68,Native Hawaiian and Other Pacific Islander,"4,928","+/-1,553",0.6,+/-0.2
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",69,Some other race,"224,191","+/-15,255",26.6,+/-1.7
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",69.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",70,Total population,"842,342","+/-12,427","842,342",(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",71,Hispanic or Latino (of any race),"272,835","+/-13,614",32.4,+/-1.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",72,Mexican,"223,175","+/-13,392",26.5,+/-1.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",73,Puerto Rican,"4,933","+/-1,911",0.6,+/-0.2
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",74,Cuban,"1,780","+/-1,035",0.2,+/-0.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",75,Other Hispanic or Latino,"42,947","+/-9,418",5.1,+/-1.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",76,Not Hispanic or Latino,"569,507","+/-13,338",67.6,+/-1.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",77,White alone,"470,814","+/-12,327",55.9,+/-1.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",78,Black or African American alone,"31,351","+/-4,443",3.7,+/-0.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",79,American Indian and Alaska Native alone,"7,809","+/-2,080",0.9,+/-0.2
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",80,Asian alone,"15,536","+/-3,112",1.8,+/-0.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",81,Native Hawaiian and Other Pacific Islander alone,"1,394",+/-972,0.2,+/-0.1
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",82,Some other race alone,"7,866","+/-3,780",0.9,+/-0.4
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",83,Two or more races,"34,737","+/-4,806",4.1,+/-0.6
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",84,Two races including Some other race,"6,928","+/-2,144",0.8,+/-0.3
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",85,"Two races excluding Some other race, and Three or more races","27,809","+/-4,649",3.3,+/-0.5
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",85.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",86,Total housing units,"362,644","+/-5,116",(X),(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",86.3,,,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",87,"Citizen, 18 and over population","616,446","+/-10,735","616,446",(X)
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",88,Male,"310,226","+/-7,295",50.3,+/-0.7
+DP05,5001800US0409,"Congressional District 9 (118th Congress), Arizona",89,Female,"306,220","+/-6,296",49.7,+/-0.7

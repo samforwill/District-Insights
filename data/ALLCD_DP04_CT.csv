@@ -1,0 +1,931 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",0.5,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",1,Total housing units,"318,519","+/-4,094","318,519",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",2,Occupied housing units,"294,878","+/-4,345",92.6,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",3,Vacant housing units,"23,641","+/-2,960",7.4,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",3.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",5,Rental vacancy rate,5.2,+/-1.3,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",5.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",6,Total housing units,"318,519","+/-4,094","318,519",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",7,"1-unit, detached","178,468","+/-4,704",56.0,+/-1.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",8,"1-unit, attached","20,477","+/-2,238",6.4,+/-0.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",9,2 units,"21,066","+/-2,668",6.6,+/-0.8
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",10,3 or 4 units,"28,193","+/-2,886",8.9,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",11,5 to 9 units,"17,058","+/-2,153",5.4,+/-0.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",12,10 to 19 units,"14,773","+/-2,352",4.6,+/-0.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",13,20 or more units,"36,280","+/-2,816",11.4,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",14,Mobile home,"2,204",+/-768,0.7,+/-0.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",15,"Boat, RV, van, etc.",0,+/-217,0.0,+/-0.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",15.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",16,Total housing units,"318,519","+/-4,094","318,519",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",17,Built 2020 or later,525,+/-471,0.2,+/-0.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",18,Built 2010 to 2019,"12,006","+/-1,894",3.8,+/-0.6
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",19,Built 2000 to 2009,"19,850","+/-2,183",6.2,+/-0.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",20,Built 1990 to 1999,"24,410","+/-2,692",7.7,+/-0.8
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",21,Built 1980 to 1989,"38,001","+/-2,913",11.9,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",22,Built 1970 to 1979,"41,141","+/-2,636",12.9,+/-0.8
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",23,Built 1960 to 1969,"42,975","+/-3,574",13.5,+/-1.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",24,Built 1950 to 1959,"54,310","+/-3,511",17.1,+/-1.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",25,Built 1940 to 1949,"22,789","+/-2,151",7.2,+/-0.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",26,Built 1939 or earlier,"62,512","+/-3,599",19.6,+/-1.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",26.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",26.5,ROOMS,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",27,Total housing units,"318,519","+/-4,094","318,519",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",28,1 room,"6,969","+/-1,645",2.2,+/-0.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",29,2 rooms,"8,741","+/-1,293",2.7,+/-0.4
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",30,3 rooms,"31,131","+/-3,237",9.8,+/-1.0
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",31,4 rooms,"49,034","+/-2,908",15.4,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",32,5 rooms,"66,108","+/-4,093",20.8,+/-1.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",33,6 rooms,"59,964","+/-3,913",18.8,+/-1.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",34,7 rooms,"40,978","+/-3,159",12.9,+/-1.0
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",35,8 rooms,"26,196","+/-2,715",8.2,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",36,9 rooms or more,"29,398","+/-2,344",9.2,+/-0.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",37,Median rooms,5.5,+/-0.2,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",37.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",37.5,BEDROOMS,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",38,Total housing units,"318,519","+/-4,094","318,519",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",39,No bedroom,"7,195","+/-1,615",2.3,+/-0.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",40,1 bedroom,"41,456","+/-3,580",13.0,+/-1.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",41,2 bedrooms,"90,667","+/-4,148",28.5,+/-1.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",42,3 bedrooms,"122,957","+/-5,247",38.6,+/-1.6
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",43,4 bedrooms,"46,422","+/-3,130",14.6,+/-1.0
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",44,5 or more bedrooms,"9,822","+/-1,458",3.1,+/-0.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",44.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",44.5,HOUSING TENURE,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",45,Occupied housing units,"294,878","+/-4,345","294,878",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",46,Owner-occupied,"193,570","+/-5,215",65.6,+/-1.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",47,Renter-occupied,"101,308","+/-4,494",34.4,+/-1.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",47.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",48,Average household size of owner-occupied unit,2.50,+/-0.04,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",49,Average household size of renter-occupied unit,2.13,+/-0.07,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",49.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",50,Occupied housing units,"294,878","+/-4,345","294,878",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",51,Moved in 2019 or later,"72,457","+/-4,662",24.6,+/-1.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",52,Moved in 2015 to 2018,"60,048","+/-3,734",20.4,+/-1.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",53,Moved in 2010 to 2014,"36,537","+/-2,667",12.4,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",54,Moved in 2000 to 2009,"51,176","+/-3,576",17.4,+/-1.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",55,Moved in 1990 to 1999,"33,556","+/-2,695",11.4,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",56,Moved in 1989 and earlier,"41,104","+/-2,655",13.9,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",56.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",57,Occupied housing units,"294,878","+/-4,345","294,878",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",58,No vehicles available,"29,706","+/-2,674",10.1,+/-0.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",59,1 vehicle available,"101,625","+/-5,347",34.5,+/-1.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",60,2 vehicles available,"109,362","+/-4,551",37.1,+/-1.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",61,3 or more vehicles available,"54,185","+/-4,036",18.4,+/-1.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",61.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",62,Occupied housing units,"294,878","+/-4,345","294,878",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",63,Utility gas,"143,208","+/-4,932",48.6,+/-1.4
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",64,"Bottled, tank, or LP gas","11,482","+/-1,862",3.9,+/-0.6
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",65,Electricity,"49,378","+/-3,303",16.7,+/-1.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",66,"Fuel oil, kerosene, etc.","81,842","+/-4,091",27.8,+/-1.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",67,Coal or coke,278,+/-313,0.1,+/-0.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",68,Wood,"2,565",+/-804,0.9,+/-0.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",69,Solar energy,448,+/-281,0.2,+/-0.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",70,Other fuel,"3,681",+/-954,1.2,+/-0.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",71,No fuel used,"1,996",+/-878,0.7,+/-0.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",71.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",72,Occupied housing units,"294,878","+/-4,345","294,878",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",73,Lacking complete plumbing facilities,435,+/-448,0.1,+/-0.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",74,Lacking complete kitchen facilities,"1,852",+/-831,0.6,+/-0.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",75,No telephone service available,"1,440",+/-713,0.5,+/-0.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",75.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",76,Occupied housing units,"294,878","+/-4,345","294,878",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",77,1.00 or less,"290,574","+/-4,416",98.5,+/-0.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",78,1.01 to 1.50,"2,402",+/-761,0.8,+/-0.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",79,1.51 or more,"1,902",+/-753,0.6,+/-0.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",79.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",79.5,VALUE,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",80,Owner-occupied units,"193,570","+/-5,215","193,570",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",81,"Less than $50,000","6,391","+/-1,593",3.3,+/-0.8
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",82,"$50,000 to $99,999","3,984","+/-1,040",2.1,+/-0.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",83,"$100,000 to $149,999","14,203","+/-2,289",7.3,+/-1.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",84,"$150,000 to $199,999","30,421","+/-2,748",15.7,+/-1.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",85,"$200,000 to $299,999","68,438","+/-3,890",35.4,+/-1.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",86,"$300,000 to $499,999","56,953","+/-3,184",29.4,+/-1.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",87,"$500,000 to $999,999","11,524","+/-1,479",6.0,+/-0.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",88,"$1,000,000 or more","1,656",+/-669,0.9,+/-0.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",89,Median (dollars),"259,000","+/-5,159",(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",89.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",90,Owner-occupied units,"193,570","+/-5,215","193,570",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",91,Housing units with a mortgage,"125,284","+/-4,770",64.7,+/-1.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",92,Housing units without a mortgage,"68,286","+/-3,687",35.3,+/-1.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",92.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",93,Housing units with a mortgage,"125,284","+/-4,770","125,284",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",94,Less than $500,"1,111",+/-656,0.9,+/-0.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",95,$500 to $999,"5,748","+/-1,350",4.6,+/-1.0
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",96,"$1,000 to $1,499","26,804","+/-2,983",21.4,+/-2.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",97,"$1,500 to $1,999","39,823","+/-3,074",31.8,+/-2.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",98,"$2,000 to $2,499","26,873","+/-2,610",21.4,+/-2.0
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",99,"$2,500 to $2,999","11,842","+/-1,738",9.5,+/-1.4
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",100,"$3,000 or more","13,083","+/-1,544",10.4,+/-1.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",101,Median (dollars),"1,848",+/-39,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",101.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",102,Housing units without a mortgage,"68,286","+/-3,687","68,286",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",103,Less than $250,"1,360",+/-517,2.0,+/-0.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",104,$250 to $399,"1,916",+/-710,2.8,+/-1.0
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",105,$400 to $599,"6,920","+/-1,135",10.1,+/-1.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",106,$600 to $799,"17,356","+/-2,118",25.4,+/-2.8
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",107,$800 to $999,"19,748","+/-2,262",28.9,+/-2.9
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",108,"$1,000 or more","20,986","+/-1,967",30.7,+/-2.6
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",109,Median (dollars),864,+/-19,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",109.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"124,645","+/-4,796","124,645",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",111,Less than 20.0 percent,"57,320","+/-3,692",46.0,+/-2.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",112,20.0 to 24.9 percent,"19,100","+/-2,257",15.3,+/-1.8
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",113,25.0 to 29.9 percent,"12,750","+/-1,918",10.2,+/-1.6
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",114,30.0 to 34.9 percent,"9,891","+/-1,993",7.9,+/-1.6
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",115,35.0 percent or more,"25,584","+/-2,525",20.5,+/-1.8
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",115.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",116,Not computed,639,+/-368,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",116.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"67,306","+/-3,681","67,306",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",118,Less than 10.0 percent,"23,743","+/-2,529",35.3,+/-3.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",119,10.0 to 14.9 percent,"13,807","+/-1,834",20.5,+/-2.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",120,15.0 to 19.9 percent,"10,136","+/-1,880",15.1,+/-2.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",121,20.0 to 24.9 percent,"4,186",+/-896,6.2,+/-1.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",122,25.0 to 29.9 percent,"2,928",+/-839,4.4,+/-1.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",123,30.0 to 34.9 percent,"2,738",+/-936,4.1,+/-1.4
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",124,35.0 percent or more,"9,768","+/-1,368",14.5,+/-2.0
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",124.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",125,Not computed,980,+/-430,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",125.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",125.5,GROSS RENT,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",126,Occupied units paying rent,"97,978","+/-4,496","97,978",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",127,Less than $500,"8,620","+/-1,409",8.8,+/-1.4
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",128,$500 to $999,"19,674","+/-2,788",20.1,+/-2.6
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",129,"$1,000 to $1,499","41,254","+/-3,582",42.1,+/-3.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",130,"$1,500 to $1,999","22,410","+/-2,800",22.9,+/-2.6
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",131,"$2,000 to $2,499","3,438","+/-1,176",3.5,+/-1.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",132,"$2,500 to $2,999","1,171",+/-494,1.2,+/-0.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",133,"$3,000 or more","1,411",+/-521,1.4,+/-0.5
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",134,Median (dollars),"1,223",+/-31,(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",134.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",135,No rent paid,"3,330","+/-1,032",(X),(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",135.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"95,621","+/-4,591","95,621",(X)
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",137,Less than 15.0 percent,"11,821","+/-2,303",12.4,+/-2.3
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",138,15.0 to 19.9 percent,"11,673","+/-2,091",12.2,+/-2.2
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",139,20.0 to 24.9 percent,"10,467","+/-2,037",10.9,+/-2.1
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",140,25.0 to 29.9 percent,"9,936","+/-1,630",10.4,+/-1.7
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",141,30.0 to 34.9 percent,"10,316","+/-1,989",10.8,+/-2.0
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",142,35.0 percent or more,"41,408","+/-3,804",43.3,+/-3.4
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",142.3,,,,,
+DP04,5001800US0901,"Congressional District 1 (118th Congress), Connecticut",143,Not computed,"5,687","+/-1,400",(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",0.5,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",1,Total housing units,"317,200","+/-2,950","317,200",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",2,Occupied housing units,"291,752","+/-3,788",92.0,+/-0.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",3,Vacant housing units,"25,448","+/-3,022",8.0,+/-0.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",3.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",4,Homeowner vacancy rate,0.5,+/-0.4,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",5,Rental vacancy rate,4.6,+/-1.4,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",5.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",6,Total housing units,"317,200","+/-2,950","317,200",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",7,"1-unit, detached","215,427","+/-4,723",67.9,+/-1.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",8,"1-unit, attached","15,198","+/-1,999",4.8,+/-0.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",9,2 units,"18,380","+/-2,253",5.8,+/-0.7
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",10,3 or 4 units,"19,296","+/-2,628",6.1,+/-0.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",11,5 to 9 units,"14,995","+/-2,105",4.7,+/-0.7
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",12,10 to 19 units,"9,078","+/-1,790",2.9,+/-0.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",13,20 or more units,"18,338","+/-2,145",5.8,+/-0.7
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",14,Mobile home,"6,152","+/-1,490",1.9,+/-0.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",15,"Boat, RV, van, etc.",336,+/-333,0.1,+/-0.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",15.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",16,Total housing units,"317,200","+/-2,950","317,200",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",17,Built 2020 or later,960,+/-550,0.3,+/-0.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",18,Built 2010 to 2019,"13,963","+/-2,121",4.4,+/-0.7
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",19,Built 2000 to 2009,"29,797","+/-2,812",9.4,+/-0.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",20,Built 1990 to 1999,"27,565","+/-2,652",8.7,+/-0.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",21,Built 1980 to 1989,"46,702","+/-3,426",14.7,+/-1.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",22,Built 1970 to 1979,"43,499","+/-3,138",13.7,+/-1.0
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",23,Built 1960 to 1969,"40,611","+/-2,990",12.8,+/-0.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",24,Built 1950 to 1959,"38,552","+/-3,269",12.2,+/-1.0
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",25,Built 1940 to 1949,"14,186","+/-2,150",4.5,+/-0.7
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",26,Built 1939 or earlier,"61,365","+/-3,588",19.3,+/-1.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",26.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",26.5,ROOMS,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",27,Total housing units,"317,200","+/-2,950","317,200",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",28,1 room,"5,322","+/-1,392",1.7,+/-0.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",29,2 rooms,"7,946","+/-1,213",2.5,+/-0.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",30,3 rooms,"28,701","+/-3,206",9.0,+/-1.0
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",31,4 rooms,"46,640","+/-4,099",14.7,+/-1.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",32,5 rooms,"55,438","+/-3,712",17.5,+/-1.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",33,6 rooms,"58,469","+/-3,358",18.4,+/-1.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",34,7 rooms,"40,747","+/-3,280",12.8,+/-1.0
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",35,8 rooms,"36,139","+/-3,077",11.4,+/-1.0
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",36,9 rooms or more,"37,798","+/-2,532",11.9,+/-0.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",37,Median rooms,5.7,+/-0.2,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",37.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",37.5,BEDROOMS,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",38,Total housing units,"317,200","+/-2,950","317,200",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",39,No bedroom,"6,109","+/-1,410",1.9,+/-0.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",40,1 bedroom,"39,228","+/-3,447",12.4,+/-1.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",41,2 bedrooms,"77,917","+/-4,226",24.6,+/-1.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",42,3 bedrooms,"124,224","+/-4,705",39.2,+/-1.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",43,4 bedrooms,"58,052","+/-3,479",18.3,+/-1.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",44,5 or more bedrooms,"11,670","+/-1,935",3.7,+/-0.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",44.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",44.5,HOUSING TENURE,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",45,Occupied housing units,"291,752","+/-3,788","291,752",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",46,Owner-occupied,"208,259","+/-4,582",71.4,+/-1.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",47,Renter-occupied,"83,493","+/-3,729",28.6,+/-1.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",47.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",48,Average household size of owner-occupied unit,2.50,+/-0.04,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",49,Average household size of renter-occupied unit,2.05,+/-0.08,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",49.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",50,Occupied housing units,"291,752","+/-3,788","291,752",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",51,Moved in 2019 or later,"69,020","+/-4,682",23.7,+/-1.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",52,Moved in 2015 to 2018,"57,144","+/-3,727",19.6,+/-1.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",53,Moved in 2010 to 2014,"34,774","+/-3,185",11.9,+/-1.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",54,Moved in 2000 to 2009,"56,106","+/-3,412",19.2,+/-1.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",55,Moved in 1990 to 1999,"33,579","+/-2,789",11.5,+/-1.0
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",56,Moved in 1989 and earlier,"41,129","+/-2,690",14.1,+/-0.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",56.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",57,Occupied housing units,"291,752","+/-3,788","291,752",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",58,No vehicles available,"17,791","+/-2,424",6.1,+/-0.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",59,1 vehicle available,"89,855","+/-5,240",30.8,+/-1.7
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",60,2 vehicles available,"114,034","+/-4,315",39.1,+/-1.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",61,3 or more vehicles available,"70,072","+/-4,097",24.0,+/-1.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",61.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",62,Occupied housing units,"291,752","+/-3,788","291,752",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",63,Utility gas,"43,236","+/-2,834",14.8,+/-1.0
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",64,"Bottled, tank, or LP gas","24,853","+/-2,672",8.5,+/-0.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",65,Electricity,"51,279","+/-3,497",17.6,+/-1.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",66,"Fuel oil, kerosene, etc.","155,038","+/-4,750",53.1,+/-1.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",67,Coal or coke,303,+/-227,0.1,+/-0.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",68,Wood,"11,139","+/-1,498",3.8,+/-0.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",69,Solar energy,948,+/-669,0.3,+/-0.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",70,Other fuel,"3,297",+/-864,1.1,+/-0.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",71,No fuel used,"1,659",+/-671,0.6,+/-0.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",71.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",72,Occupied housing units,"291,752","+/-3,788","291,752",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",73,Lacking complete plumbing facilities,811,+/-490,0.3,+/-0.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",74,Lacking complete kitchen facilities,"1,795",+/-775,0.6,+/-0.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",75,No telephone service available,"3,282","+/-1,075",1.1,+/-0.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",75.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",76,Occupied housing units,"291,752","+/-3,788","291,752",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",77,1.00 or less,"288,686","+/-4,071",98.9,+/-0.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",78,1.01 to 1.50,"2,591",+/-950,0.9,+/-0.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",79,1.51 or more,475,+/-316,0.2,+/-0.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",79.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",79.5,VALUE,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",80,Owner-occupied units,"208,259","+/-4,582","208,259",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",81,"Less than $50,000","6,916","+/-1,376",3.3,+/-0.7
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",82,"$50,000 to $99,999","5,220",+/-998,2.5,+/-0.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",83,"$100,000 to $149,999","10,355","+/-1,756",5.0,+/-0.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",84,"$150,000 to $199,999","23,326","+/-2,206",11.2,+/-1.0
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",85,"$200,000 to $299,999","64,474","+/-3,703",31.0,+/-1.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",86,"$300,000 to $499,999","71,806","+/-3,351",34.5,+/-1.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",87,"$500,000 to $999,999","22,650","+/-1,971",10.9,+/-0.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",88,"$1,000,000 or more","3,512",+/-994,1.7,+/-0.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",89,Median (dollars),"291,200","+/-4,579",(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",89.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",90,Owner-occupied units,"208,259","+/-4,582","208,259",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",91,Housing units with a mortgage,"135,033","+/-4,718",64.8,+/-1.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",92,Housing units without a mortgage,"73,226","+/-3,403",35.2,+/-1.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",92.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",93,Housing units with a mortgage,"135,033","+/-4,718","135,033",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",94,Less than $500,706,+/-370,0.5,+/-0.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",95,$500 to $999,"5,827","+/-1,217",4.3,+/-0.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",96,"$1,000 to $1,499","26,610","+/-2,666",19.7,+/-1.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",97,"$1,500 to $1,999","42,326","+/-2,799",31.3,+/-2.0
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",98,"$2,000 to $2,499","27,335","+/-2,634",20.2,+/-1.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",99,"$2,500 to $2,999","14,107","+/-2,041",10.4,+/-1.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",100,"$3,000 or more","18,122","+/-2,093",13.4,+/-1.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",101,Median (dollars),"1,904",+/-34,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",101.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",102,Housing units without a mortgage,"73,226","+/-3,403","73,226",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",103,Less than $250,"1,286",+/-453,1.8,+/-0.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",104,$250 to $399,"2,813","+/-1,148",3.8,+/-1.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",105,$400 to $599,"11,050","+/-1,306",15.1,+/-1.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",106,$600 to $799,"19,443","+/-2,126",26.6,+/-2.7
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",107,$800 to $999,"16,998","+/-1,996",23.2,+/-2.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",108,"$1,000 or more","21,636","+/-2,204",29.5,+/-2.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",109,Median (dollars),821,+/-18,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",109.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"134,278","+/-4,658","134,278",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",111,Less than 20.0 percent,"64,223","+/-3,532",47.8,+/-2.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",112,20.0 to 24.9 percent,"21,805","+/-2,116",16.2,+/-1.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",113,25.0 to 29.9 percent,"12,442","+/-1,856",9.3,+/-1.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",114,30.0 to 34.9 percent,"10,556","+/-1,769",7.9,+/-1.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",115,35.0 percent or more,"25,252","+/-2,609",18.8,+/-1.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",115.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",116,Not computed,755,+/-392,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",116.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"72,346","+/-3,364","72,346",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",118,Less than 10.0 percent,"27,345","+/-2,302",37.8,+/-2.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",119,10.0 to 14.9 percent,"13,505","+/-1,513",18.7,+/-1.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",120,15.0 to 19.9 percent,"8,796","+/-1,530",12.2,+/-2.1
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",121,20.0 to 24.9 percent,"5,330",+/-960,7.4,+/-1.3
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",122,25.0 to 29.9 percent,"3,524","+/-1,121",4.9,+/-1.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",123,30.0 to 34.9 percent,"3,017",+/-867,4.2,+/-1.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",124,35.0 percent or more,"10,829","+/-1,818",15.0,+/-2.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",124.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",125,Not computed,880,+/-440,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",125.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",125.5,GROSS RENT,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",126,Occupied units paying rent,"79,680","+/-3,717","79,680",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",127,Less than $500,"8,083","+/-1,532",10.1,+/-1.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",128,$500 to $999,"18,696","+/-2,371",23.5,+/-2.8
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",129,"$1,000 to $1,499","34,687","+/-3,507",43.5,+/-3.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",130,"$1,500 to $1,999","12,350","+/-1,979",15.5,+/-2.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",131,"$2,000 to $2,499","4,686","+/-1,506",5.9,+/-1.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",132,"$2,500 to $2,999",316,+/-326,0.4,+/-0.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",133,"$3,000 or more",862,+/-478,1.1,+/-0.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",134,Median (dollars),"1,183",+/-33,(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",134.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",135,No rent paid,"3,813","+/-1,038",(X),(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",135.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"77,844","+/-3,903","77,844",(X)
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",137,Less than 15.0 percent,"11,777","+/-2,045",15.1,+/-2.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",138,15.0 to 19.9 percent,"7,894","+/-1,735",10.1,+/-2.2
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",139,20.0 to 24.9 percent,"11,181","+/-2,016",14.4,+/-2.4
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",140,25.0 to 29.9 percent,"9,438","+/-1,957",12.1,+/-2.5
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",141,30.0 to 34.9 percent,"7,506","+/-1,483",9.6,+/-1.9
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",142,35.0 percent or more,"30,048","+/-3,244",38.6,+/-3.6
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",142.3,,,,,
+DP04,5001800US0902,"Congressional District 2 (118th Congress), Connecticut",143,Not computed,"5,649","+/-1,394",(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",0.5,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",1,Total housing units,"308,175","+/-4,001","308,175",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",2,Occupied housing units,"291,460","+/-4,671",94.6,+/-0.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",3,Vacant housing units,"16,715","+/-2,699",5.4,+/-0.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",3.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",4,Homeowner vacancy rate,0.7,+/-0.4,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",5,Rental vacancy rate,3.1,+/-1.0,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",5.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",6,Total housing units,"308,175","+/-4,001","308,175",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",7,"1-unit, detached","167,285","+/-4,730",54.3,+/-1.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",8,"1-unit, attached","22,581","+/-2,830",7.3,+/-0.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",9,2 units,"26,844","+/-3,275",8.7,+/-1.0
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",10,3 or 4 units,"26,354","+/-2,406",8.6,+/-0.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",11,5 to 9 units,"16,052","+/-2,525",5.2,+/-0.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",12,10 to 19 units,"13,468","+/-1,889",4.4,+/-0.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",13,20 or more units,"33,591","+/-3,306",10.9,+/-1.0
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",14,Mobile home,"1,966",+/-713,0.6,+/-0.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",15,"Boat, RV, van, etc.",34,+/-58,0.0,+/-0.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",15.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",16,Total housing units,"308,175","+/-4,001","308,175",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",17,Built 2020 or later,340,+/-224,0.1,+/-0.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",18,Built 2010 to 2019,"11,509","+/-1,952",3.7,+/-0.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",19,Built 2000 to 2009,"18,872","+/-2,491",6.1,+/-0.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",20,Built 1990 to 1999,"21,199","+/-2,194",6.9,+/-0.7
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",21,Built 1980 to 1989,"39,412","+/-2,996",12.8,+/-1.0
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",22,Built 1970 to 1979,"41,312","+/-3,915",13.4,+/-1.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",23,Built 1960 to 1969,"40,970","+/-3,659",13.3,+/-1.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",24,Built 1950 to 1959,"47,260","+/-3,234",15.3,+/-1.0
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",25,Built 1940 to 1949,"20,809","+/-2,543",6.8,+/-0.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",26,Built 1939 or earlier,"66,492","+/-4,143",21.6,+/-1.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",26.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",26.5,ROOMS,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",27,Total housing units,"308,175","+/-4,001","308,175",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",28,1 room,"10,232","+/-1,990",3.3,+/-0.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",29,2 rooms,"11,475","+/-2,049",3.7,+/-0.7
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",30,3 rooms,"30,840","+/-3,279",10.0,+/-1.0
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",31,4 rooms,"46,339","+/-4,187",15.0,+/-1.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",32,5 rooms,"61,739","+/-3,993",20.0,+/-1.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",33,6 rooms,"55,783","+/-3,121",18.1,+/-1.0
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",34,7 rooms,"37,203","+/-3,477",12.1,+/-1.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",35,8 rooms,"25,888","+/-2,642",8.4,+/-0.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",36,9 rooms or more,"28,676","+/-2,634",9.3,+/-0.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",37,Median rooms,5.4,+/-0.1,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",37.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",37.5,BEDROOMS,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",38,Total housing units,"308,175","+/-4,001","308,175",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",39,No bedroom,"11,229","+/-2,147",3.6,+/-0.7
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",40,1 bedroom,"41,307","+/-3,775",13.4,+/-1.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",41,2 bedrooms,"90,959","+/-4,517",29.5,+/-1.4
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",42,3 bedrooms,"113,442","+/-4,960",36.8,+/-1.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",43,4 bedrooms,"43,741","+/-3,346",14.2,+/-1.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",44,5 or more bedrooms,"7,497","+/-1,440",2.4,+/-0.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",44.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",44.5,HOUSING TENURE,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",45,Occupied housing units,"291,460","+/-4,671","291,460",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",46,Owner-occupied,"181,292","+/-4,906",62.2,+/-1.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",47,Renter-occupied,"110,168","+/-4,997",37.8,+/-1.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",47.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",48,Average household size of owner-occupied unit,2.56,+/-0.05,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",49,Average household size of renter-occupied unit,2.09,+/-0.06,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",49.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",50,Occupied housing units,"291,460","+/-4,671","291,460",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",51,Moved in 2019 or later,"75,205","+/-4,397",25.8,+/-1.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",52,Moved in 2015 to 2018,"65,606","+/-3,570",22.5,+/-1.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",53,Moved in 2010 to 2014,"34,709","+/-3,474",11.9,+/-1.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",54,Moved in 2000 to 2009,"49,695","+/-3,782",17.1,+/-1.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",55,Moved in 1990 to 1999,"31,207","+/-2,626",10.7,+/-0.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",56,Moved in 1989 and earlier,"35,038","+/-2,475",12.0,+/-0.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",56.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",57,Occupied housing units,"291,460","+/-4,671","291,460",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",58,No vehicles available,"30,566","+/-3,328",10.5,+/-1.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",59,1 vehicle available,"106,346","+/-4,856",36.5,+/-1.7
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",60,2 vehicles available,"102,917","+/-4,520",35.3,+/-1.4
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",61,3 or more vehicles available,"51,631","+/-3,902",17.7,+/-1.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",61.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",62,Occupied housing units,"291,460","+/-4,671","291,460",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",63,Utility gas,"126,635","+/-4,592",43.4,+/-1.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",64,"Bottled, tank, or LP gas","11,018","+/-1,780",3.8,+/-0.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",65,Electricity,"52,254","+/-3,869",17.9,+/-1.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",66,"Fuel oil, kerosene, etc.","93,637","+/-4,273",32.1,+/-1.4
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",67,Coal or coke,126,+/-148,0.0,+/-0.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",68,Wood,"2,810",+/-858,1.0,+/-0.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",69,Solar energy,927,+/-689,0.3,+/-0.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",70,Other fuel,"1,969",+/-828,0.7,+/-0.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",71,No fuel used,"2,084","+/-1,029",0.7,+/-0.4
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",71.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",72,Occupied housing units,"291,460","+/-4,671","291,460",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",73,Lacking complete plumbing facilities,"1,214",+/-669,0.4,+/-0.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",74,Lacking complete kitchen facilities,"2,426","+/-1,029",0.8,+/-0.4
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",75,No telephone service available,"2,156",+/-878,0.7,+/-0.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",75.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",76,Occupied housing units,"291,460","+/-4,671","291,460",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",77,1.00 or less,"283,476","+/-5,220",97.3,+/-0.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",78,1.01 to 1.50,"5,712","+/-1,333",2.0,+/-0.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",79,1.51 or more,"2,272","+/-1,003",0.8,+/-0.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",79.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",79.5,VALUE,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",80,Owner-occupied units,"181,292","+/-4,906","181,292",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",81,"Less than $50,000","4,897","+/-1,236",2.7,+/-0.7
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",82,"$50,000 to $99,999","4,670","+/-1,083",2.6,+/-0.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",83,"$100,000 to $149,999","8,109","+/-1,518",4.5,+/-0.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",84,"$150,000 to $199,999","20,618","+/-2,475",11.4,+/-1.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",85,"$200,000 to $299,999","56,806","+/-3,686",31.3,+/-1.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",86,"$300,000 to $499,999","63,853","+/-3,745",35.2,+/-1.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",87,"$500,000 to $999,999","19,475","+/-1,839",10.7,+/-1.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",88,"$1,000,000 or more","2,864",+/-854,1.6,+/-0.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",89,Median (dollars),"292,900","+/-4,882",(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",89.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",90,Owner-occupied units,"181,292","+/-4,906","181,292",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",91,Housing units with a mortgage,"118,818","+/-4,825",65.5,+/-1.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",92,Housing units without a mortgage,"62,474","+/-3,555",34.5,+/-1.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",92.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",93,Housing units with a mortgage,"118,818","+/-4,825","118,818",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",94,Less than $500,565,+/-566,0.5,+/-0.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",95,$500 to $999,"3,952",+/-973,3.3,+/-0.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",96,"$1,000 to $1,499","19,279","+/-2,374",16.2,+/-1.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",97,"$1,500 to $1,999","31,448","+/-2,800",26.5,+/-2.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",98,"$2,000 to $2,499","27,630","+/-2,913",23.3,+/-2.4
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",99,"$2,500 to $2,999","17,914","+/-2,449",15.1,+/-2.0
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",100,"$3,000 or more","18,030","+/-2,059",15.2,+/-1.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",101,Median (dollars),"2,075",+/-49,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",101.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",102,Housing units without a mortgage,"62,474","+/-3,555","62,474",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",103,Less than $250,859,+/-450,1.4,+/-0.7
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",104,$250 to $399,"2,440",+/-799,3.9,+/-1.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",105,$400 to $599,"4,928","+/-1,042",7.9,+/-1.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",106,$600 to $799,"11,993","+/-1,737",19.2,+/-2.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",107,$800 to $999,"15,665","+/-1,968",25.1,+/-2.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",108,"$1,000 or more","26,589","+/-1,867",42.6,+/-2.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",109,Median (dollars),945,+/-18,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",109.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"118,032","+/-4,832","118,032",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",111,Less than 20.0 percent,"50,845","+/-3,580",43.1,+/-2.7
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",112,20.0 to 24.9 percent,"18,195","+/-2,110",15.4,+/-1.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",113,25.0 to 29.9 percent,"14,577","+/-2,362",12.4,+/-1.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",114,30.0 to 34.9 percent,"7,366","+/-1,685",6.2,+/-1.4
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",115,35.0 percent or more,"27,049","+/-3,011",22.9,+/-2.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",115.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",116,Not computed,786,+/-615,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",116.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"61,905","+/-3,595","61,905",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",118,Less than 10.0 percent,"20,172","+/-2,253",32.6,+/-3.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",119,10.0 to 14.9 percent,"12,577","+/-1,957",20.3,+/-3.0
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",120,15.0 to 19.9 percent,"8,112","+/-1,534",13.1,+/-2.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",121,20.0 to 24.9 percent,"4,939","+/-1,085",8.0,+/-1.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",122,25.0 to 29.9 percent,"3,384",+/-968,5.5,+/-1.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",123,30.0 to 34.9 percent,"2,658",+/-739,4.3,+/-1.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",124,35.0 percent or more,"10,063","+/-1,570",16.3,+/-2.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",124.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",125,Not computed,569,+/-348,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",125.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",125.5,GROSS RENT,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",126,Occupied units paying rent,"106,333","+/-4,868","106,333",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",127,Less than $500,"8,299","+/-1,788",7.8,+/-1.7
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",128,$500 to $999,"17,073","+/-2,349",16.1,+/-2.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",129,"$1,000 to $1,499","47,071","+/-3,978",44.3,+/-2.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",130,"$1,500 to $1,999","22,428","+/-2,639",21.1,+/-2.3
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",131,"$2,000 to $2,499","7,034","+/-1,677",6.6,+/-1.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",132,"$2,500 to $2,999","2,047",+/-819,1.9,+/-0.8
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",133,"$3,000 or more","2,381",+/-625,2.2,+/-0.6
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",134,Median (dollars),"1,297",+/-31,(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",134.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",135,No rent paid,"3,835","+/-1,252",(X),(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",135.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"103,091","+/-5,052","103,091",(X)
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",137,Less than 15.0 percent,"11,787","+/-2,229",11.4,+/-2.0
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",138,15.0 to 19.9 percent,"12,576","+/-2,167",12.2,+/-1.9
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",139,20.0 to 24.9 percent,"12,752","+/-2,253",12.4,+/-2.1
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",140,25.0 to 29.9 percent,"12,626","+/-2,318",12.2,+/-2.2
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",141,30.0 to 34.9 percent,"7,232","+/-1,421",7.0,+/-1.4
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",142,35.0 percent or more,"46,118","+/-4,038",44.7,+/-3.5
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",142.3,,,,,
+DP04,5001800US0903,"Congressional District 3 (118th Congress), Connecticut",143,Not computed,"7,077","+/-1,721",(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",0.5,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",1,Total housing units,"283,907","+/-3,373","283,907",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",2,Occupied housing units,"266,075","+/-3,983",93.7,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",3,Vacant housing units,"17,832","+/-2,554",6.3,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",3.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",4,Homeowner vacancy rate,0.7,+/-0.4,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",5,Rental vacancy rate,4.2,+/-1.4,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",5.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",6,Total housing units,"283,907","+/-3,373","283,907",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",7,"1-unit, detached","156,155","+/-4,780",55.0,+/-1.5
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",8,"1-unit, attached","22,856","+/-2,645",8.1,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",9,2 units,"22,470","+/-2,770",7.9,+/-1.0
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",10,3 or 4 units,"19,241","+/-2,539",6.8,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",11,5 to 9 units,"13,054","+/-2,302",4.6,+/-0.8
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",12,10 to 19 units,"10,505","+/-1,770",3.7,+/-0.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",13,20 or more units,"39,199","+/-3,257",13.8,+/-1.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",14,Mobile home,165,+/-230,0.1,+/-0.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",15,"Boat, RV, van, etc.",262,+/-349,0.1,+/-0.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",15.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",16,Total housing units,"283,907","+/-3,373","283,907",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",17,Built 2020 or later,401,+/-284,0.1,+/-0.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",18,Built 2010 to 2019,"20,469","+/-2,499",7.2,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",19,Built 2000 to 2009,"22,171","+/-2,573",7.8,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",20,Built 1990 to 1999,"17,273","+/-2,148",6.1,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",21,Built 1980 to 1989,"32,895","+/-3,270",11.6,+/-1.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",22,Built 1970 to 1979,"38,784","+/-3,573",13.7,+/-1.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",23,Built 1960 to 1969,"36,772","+/-2,700",13.0,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",24,Built 1950 to 1959,"41,567","+/-2,963",14.6,+/-1.0
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",25,Built 1940 to 1949,"21,133","+/-2,406",7.4,+/-0.8
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",26,Built 1939 or earlier,"52,442","+/-3,520",18.5,+/-1.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",26.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",26.5,ROOMS,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",27,Total housing units,"283,907","+/-3,373","283,907",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",28,1 room,"9,471","+/-2,020",3.3,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",29,2 rooms,"12,956","+/-2,376",4.6,+/-0.8
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",30,3 rooms,"24,843","+/-2,972",8.8,+/-1.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",31,4 rooms,"38,575","+/-3,297",13.6,+/-1.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",32,5 rooms,"42,924","+/-3,933",15.1,+/-1.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",33,6 rooms,"38,797","+/-3,692",13.7,+/-1.3
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",34,7 rooms,"28,072","+/-2,133",9.9,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",35,8 rooms,"29,011","+/-2,153",10.2,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",36,9 rooms or more,"59,258","+/-2,706",20.9,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",37,Median rooms,5.8,+/-0.2,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",37.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",37.5,BEDROOMS,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",38,Total housing units,"283,907","+/-3,373","283,907",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",39,No bedroom,"9,599","+/-2,021",3.4,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",40,1 bedroom,"37,800","+/-3,178",13.3,+/-1.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",41,2 bedrooms,"64,612","+/-3,975",22.8,+/-1.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",42,3 bedrooms,"82,820","+/-4,754",29.2,+/-1.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",43,4 bedrooms,"61,668","+/-3,482",21.7,+/-1.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",44,5 or more bedrooms,"27,408","+/-2,260",9.7,+/-0.8
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",44.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",44.5,HOUSING TENURE,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",45,Occupied housing units,"266,075","+/-3,983","266,075",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",46,Owner-occupied,"172,483","+/-4,325",64.8,+/-1.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",47,Renter-occupied,"93,592","+/-4,254",35.2,+/-1.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",47.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",48,Average household size of owner-occupied unit,2.80,+/-0.05,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",49,Average household size of renter-occupied unit,2.39,+/-0.07,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",49.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",50,Occupied housing units,"266,075","+/-3,983","266,075",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",51,Moved in 2019 or later,"62,309","+/-4,235",23.4,+/-1.5
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",52,Moved in 2015 to 2018,"56,150","+/-3,873",21.1,+/-1.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",53,Moved in 2010 to 2014,"38,888","+/-2,465",14.6,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",54,Moved in 2000 to 2009,"46,372","+/-3,284",17.4,+/-1.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",55,Moved in 1990 to 1999,"31,000","+/-2,639",11.7,+/-1.0
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",56,Moved in 1989 and earlier,"31,356","+/-2,797",11.8,+/-1.0
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",56.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",57,Occupied housing units,"266,075","+/-3,983","266,075",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",58,No vehicles available,"20,971","+/-2,670",7.9,+/-1.0
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",59,1 vehicle available,"86,878","+/-4,506",32.7,+/-1.5
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",60,2 vehicles available,"102,316","+/-3,777",38.5,+/-1.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",61,3 or more vehicles available,"55,910","+/-2,751",21.0,+/-1.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",61.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",62,Occupied housing units,"266,075","+/-3,983","266,075",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",63,Utility gas,"111,241","+/-4,957",41.8,+/-1.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",64,"Bottled, tank, or LP gas","14,488","+/-1,929",5.4,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",65,Electricity,"51,310","+/-3,889",19.3,+/-1.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",66,"Fuel oil, kerosene, etc.","84,507","+/-4,364",31.8,+/-1.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",67,Coal or coke,0,+/-217,0.0,+/-0.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",68,Wood,997,+/-467,0.4,+/-0.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",69,Solar energy,233,+/-174,0.1,+/-0.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",70,Other fuel,"1,698",+/-656,0.6,+/-0.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",71,No fuel used,"1,601",+/-768,0.6,+/-0.3
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",71.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",72,Occupied housing units,"266,075","+/-3,983","266,075",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",73,Lacking complete plumbing facilities,"1,201",+/-721,0.5,+/-0.3
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",74,Lacking complete kitchen facilities,"2,208",+/-998,0.8,+/-0.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",75,No telephone service available,"2,617",+/-983,1.0,+/-0.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",75.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",76,Occupied housing units,"266,075","+/-3,983","266,075",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",77,1.00 or less,"259,112","+/-4,111",97.4,+/-0.5
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",78,1.01 to 1.50,"3,366",+/-945,1.3,+/-0.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",79,1.51 or more,"3,597","+/-1,085",1.4,+/-0.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",79.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",79.5,VALUE,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",80,Owner-occupied units,"172,483","+/-4,325","172,483",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",81,"Less than $50,000","4,151","+/-1,121",2.4,+/-0.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",82,"$50,000 to $99,999","2,950","+/-1,008",1.7,+/-0.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",83,"$100,000 to $149,999","3,801","+/-1,270",2.2,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",84,"$150,000 to $199,999","5,055","+/-1,179",2.9,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",85,"$200,000 to $299,999","16,152","+/-2,454",9.4,+/-1.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",86,"$300,000 to $499,999","44,088","+/-2,997",25.6,+/-1.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",87,"$500,000 to $999,999","59,189","+/-3,200",34.3,+/-1.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",88,"$1,000,000 or more","37,097","+/-2,030",21.5,+/-1.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",89,Median (dollars),"567,800","+/-17,913",(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",89.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",90,Owner-occupied units,"172,483","+/-4,325","172,483",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",91,Housing units with a mortgage,"116,122","+/-3,850",67.3,+/-1.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",92,Housing units without a mortgage,"56,361","+/-3,132",32.7,+/-1.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",92.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",93,Housing units with a mortgage,"116,122","+/-3,850","116,122",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",94,Less than $500,693,+/-539,0.6,+/-0.5
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",95,$500 to $999,"2,022",+/-794,1.7,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",96,"$1,000 to $1,499","7,844","+/-1,532",6.8,+/-1.3
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",97,"$1,500 to $1,999","13,857","+/-2,104",11.9,+/-1.8
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",98,"$2,000 to $2,499","18,318","+/-2,492",15.8,+/-2.0
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",99,"$2,500 to $2,999","14,769","+/-1,874",12.7,+/-1.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",100,"$3,000 or more","58,619","+/-2,808",50.5,+/-2.0
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",101,Median (dollars),"3,021",+/-83,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",101.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",102,Housing units without a mortgage,"56,361","+/-3,132","56,361",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",103,Less than $250,550,+/-313,1.0,+/-0.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",104,$250 to $399,807,+/-394,1.4,+/-0.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",105,$400 to $599,"1,424",+/-510,2.5,+/-0.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",106,$600 to $799,"5,109","+/-1,002",9.1,+/-1.6
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",107,$800 to $999,"8,692","+/-1,414",15.4,+/-2.3
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",108,"$1,000 or more","39,779","+/-2,594",70.6,+/-3.0
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",109,Median (dollars),"1,301",+/-55,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",109.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"115,604","+/-3,776","115,604",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",111,Less than 20.0 percent,"48,109","+/-2,837",41.6,+/-2.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",112,20.0 to 24.9 percent,"17,590","+/-2,270",15.2,+/-1.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",113,25.0 to 29.9 percent,"9,967","+/-1,446",8.6,+/-1.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",114,30.0 to 34.9 percent,"8,098","+/-1,484",7.0,+/-1.3
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",115,35.0 percent or more,"31,840","+/-2,916",27.5,+/-2.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",115.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",116,Not computed,518,+/-389,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",116.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"55,754","+/-3,123","55,754",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",118,Less than 10.0 percent,"17,492","+/-1,626",31.4,+/-2.5
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",119,10.0 to 14.9 percent,"11,012","+/-1,533",19.8,+/-2.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",120,15.0 to 19.9 percent,"5,640","+/-1,036",10.1,+/-1.8
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",121,20.0 to 24.9 percent,"5,261","+/-1,125",9.4,+/-1.8
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",122,25.0 to 29.9 percent,"3,220",+/-853,5.8,+/-1.5
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",123,30.0 to 34.9 percent,"2,064",+/-807,3.7,+/-1.4
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",124,35.0 percent or more,"11,065","+/-1,612",19.8,+/-2.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",124.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",125,Not computed,607,+/-386,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",125.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",125.5,GROSS RENT,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",126,Occupied units paying rent,"90,642","+/-4,123","90,642",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",127,Less than $500,"8,257","+/-1,603",9.1,+/-1.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",128,$500 to $999,"9,059","+/-1,815",10.0,+/-1.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",129,"$1,000 to $1,499","21,588","+/-2,614",23.8,+/-2.7
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",130,"$1,500 to $1,999","20,322","+/-3,072",22.4,+/-3.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",131,"$2,000 to $2,499","15,654","+/-1,772",17.3,+/-2.0
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",132,"$2,500 to $2,999","6,146","+/-1,209",6.8,+/-1.3
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",133,"$3,000 or more","9,616","+/-1,627",10.6,+/-1.8
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",134,Median (dollars),"1,658",+/-65,(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",134.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",135,No rent paid,"2,950","+/-1,139",(X),(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",135.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"88,750","+/-4,266","88,750",(X)
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",137,Less than 15.0 percent,"7,830","+/-1,654",8.8,+/-1.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",138,15.0 to 19.9 percent,"10,000","+/-1,966",11.3,+/-2.1
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",139,20.0 to 24.9 percent,"10,694","+/-2,064",12.0,+/-2.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",140,25.0 to 29.9 percent,"11,133","+/-2,096",12.5,+/-2.2
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",141,30.0 to 34.9 percent,"8,275","+/-1,720",9.3,+/-1.9
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",142,35.0 percent or more,"40,818","+/-3,220",46.0,+/-3.3
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",142.3,,,,,
+DP04,5001800US0904,"Congressional District 4 (118th Congress), Connecticut",143,Not computed,"4,842","+/-1,486",(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",0.5,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",1,Total housing units,"308,526","+/-5,315","308,526",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",2,Occupied housing units,"284,148","+/-5,461",92.1,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",3,Vacant housing units,"24,378","+/-2,500",7.9,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",3.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",4,Homeowner vacancy rate,0.7,+/-0.4,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",5,Rental vacancy rate,3.7,+/-1.1,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",5.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",6,Total housing units,"308,526","+/-5,315","308,526",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",7,"1-unit, detached","190,084","+/-4,475",61.6,+/-1.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",8,"1-unit, attached","23,294","+/-2,612",7.6,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",9,2 units,"21,482","+/-2,377",7.0,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",10,3 or 4 units,"26,582","+/-2,932",8.6,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",11,5 to 9 units,"13,960","+/-1,814",4.5,+/-0.6
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",12,10 to 19 units,"9,911","+/-1,654",3.2,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",13,20 or more units,"21,428","+/-2,850",6.9,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",14,Mobile home,"1,313",+/-650,0.4,+/-0.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",15,"Boat, RV, van, etc.",472,+/-405,0.2,+/-0.1
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",15.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",16,Total housing units,"308,526","+/-5,315","308,526",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",17,Built 2020 or later,"1,011",+/-439,0.3,+/-0.1
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",18,Built 2010 to 2019,"9,921","+/-1,647",3.2,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",19,Built 2000 to 2009,"24,981","+/-2,545",8.1,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",20,Built 1990 to 1999,"24,689","+/-2,877",8.0,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",21,Built 1980 to 1989,"46,029","+/-3,371",14.9,+/-1.0
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",22,Built 1970 to 1979,"45,864","+/-3,467",14.9,+/-1.1
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",23,Built 1960 to 1969,"35,444","+/-3,086",11.5,+/-1.0
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",24,Built 1950 to 1959,"42,244","+/-3,410",13.7,+/-1.1
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",25,Built 1940 to 1949,"16,593","+/-2,241",5.4,+/-0.7
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",26,Built 1939 or earlier,"61,750","+/-4,017",20.0,+/-1.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",26.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",26.5,ROOMS,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",27,Total housing units,"308,526","+/-5,315","308,526",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",28,1 room,"6,686","+/-1,620",2.2,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",29,2 rooms,"6,363","+/-1,392",2.1,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",30,3 rooms,"23,614","+/-2,740",7.7,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",31,4 rooms,"46,275","+/-4,009",15.0,+/-1.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",32,5 rooms,"57,775","+/-3,885",18.7,+/-1.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",33,6 rooms,"57,194","+/-3,508",18.5,+/-1.1
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",34,7 rooms,"36,039","+/-2,690",11.7,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",35,8 rooms,"32,675","+/-2,859",10.6,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",36,9 rooms or more,"41,905","+/-2,486",13.6,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",37,Median rooms,5.7,+/-0.2,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",37.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",37.5,BEDROOMS,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",38,Total housing units,"308,526","+/-5,315","308,526",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",39,No bedroom,"7,131","+/-1,634",2.3,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",40,1 bedroom,"32,512","+/-3,160",10.5,+/-1.0
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",41,2 bedrooms,"82,602","+/-4,400",26.8,+/-1.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",42,3 bedrooms,"113,819","+/-5,036",36.9,+/-1.6
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",43,4 bedrooms,"58,716","+/-4,156",19.0,+/-1.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",44,5 or more bedrooms,"13,746","+/-1,894",4.5,+/-0.6
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",44.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",44.5,HOUSING TENURE,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",45,Occupied housing units,"284,148","+/-5,461","284,148",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",46,Owner-occupied,"195,912","+/-5,133",68.9,+/-1.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",47,Renter-occupied,"88,236","+/-3,860",31.1,+/-1.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",47.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",48,Average household size of owner-occupied unit,2.59,+/-0.06,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",49,Average household size of renter-occupied unit,2.23,+/-0.09,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",49.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",50,Occupied housing units,"284,148","+/-5,461","284,148",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",51,Moved in 2019 or later,"61,942","+/-3,887",21.8,+/-1.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",52,Moved in 2015 to 2018,"59,660","+/-3,686",21.0,+/-1.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",53,Moved in 2010 to 2014,"36,938","+/-2,878",13.0,+/-1.0
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",54,Moved in 2000 to 2009,"53,465","+/-3,763",18.8,+/-1.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",55,Moved in 1990 to 1999,"33,724","+/-2,674",11.9,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",56,Moved in 1989 and earlier,"38,419","+/-3,234",13.5,+/-1.0
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",56.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",57,Occupied housing units,"284,148","+/-5,461","284,148",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",58,No vehicles available,"21,158","+/-2,781",7.4,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",59,1 vehicle available,"95,272","+/-5,188",33.5,+/-1.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",60,2 vehicles available,"107,669","+/-4,124",37.9,+/-1.4
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",61,3 or more vehicles available,"60,049","+/-3,561",21.1,+/-1.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",61.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",62,Occupied housing units,"284,148","+/-5,461","284,148",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",63,Utility gas,"82,452","+/-4,788",29.0,+/-1.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",64,"Bottled, tank, or LP gas","18,880","+/-2,213",6.6,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",65,Electricity,"54,085","+/-3,839",19.0,+/-1.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",66,"Fuel oil, kerosene, etc.","117,029","+/-4,271",41.2,+/-1.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",67,Coal or coke,136,+/-199,0.0,+/-0.1
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",68,Wood,"5,481","+/-1,024",1.9,+/-0.4
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",69,Solar energy,410,+/-283,0.1,+/-0.1
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",70,Other fuel,"3,661",+/-940,1.3,+/-0.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",71,No fuel used,"2,014","+/-1,006",0.7,+/-0.4
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",71.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",72,Occupied housing units,"284,148","+/-5,461","284,148",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",73,Lacking complete plumbing facilities,"1,506",+/-733,0.5,+/-0.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",74,Lacking complete kitchen facilities,"2,577",+/-980,0.9,+/-0.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",75,No telephone service available,"2,154",+/-886,0.8,+/-0.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",75.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",76,Occupied housing units,"284,148","+/-5,461","284,148",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",77,1.00 or less,"277,747","+/-5,727",97.7,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",78,1.01 to 1.50,"5,145","+/-1,450",1.8,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",79,1.51 or more,"1,256",+/-621,0.4,+/-0.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",79.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",79.5,VALUE,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",80,Owner-occupied units,"195,912","+/-5,133","195,912",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",81,"Less than $50,000","4,290","+/-1,026",2.2,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",82,"$50,000 to $99,999","5,442","+/-1,086",2.8,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",83,"$100,000 to $149,999","11,059","+/-1,621",5.6,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",84,"$150,000 to $199,999","26,456","+/-2,991",13.5,+/-1.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",85,"$200,000 to $299,999","45,268","+/-2,999",23.1,+/-1.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",86,"$300,000 to $499,999","70,497","+/-3,584",36.0,+/-1.7
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",87,"$500,000 to $999,999","27,494","+/-2,036",14.0,+/-1.1
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",88,"$1,000,000 or more","5,406",+/-955,2.8,+/-0.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",89,Median (dollars),"312,700","+/-7,477",(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",89.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",90,Owner-occupied units,"195,912","+/-5,133","195,912",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",91,Housing units with a mortgage,"125,690","+/-4,382",64.2,+/-1.7
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",92,Housing units without a mortgage,"70,222","+/-3,943",35.8,+/-1.7
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",92.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",93,Housing units with a mortgage,"125,690","+/-4,382","125,690",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",94,Less than $500,685,+/-478,0.5,+/-0.4
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",95,$500 to $999,"4,053","+/-1,058",3.2,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",96,"$1,000 to $1,499","20,227","+/-2,452",16.1,+/-1.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",97,"$1,500 to $1,999","35,509","+/-3,040",28.3,+/-2.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",98,"$2,000 to $2,499","27,953","+/-2,969",22.2,+/-2.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",99,"$2,500 to $2,999","16,310","+/-2,273",13.0,+/-1.7
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",100,"$3,000 or more","20,953","+/-1,946",16.7,+/-1.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",101,Median (dollars),"2,042",+/-57,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",101.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",102,Housing units without a mortgage,"70,222","+/-3,943","70,222",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",103,Less than $250,"1,083",+/-581,1.5,+/-0.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",104,$250 to $399,"1,905",+/-651,2.7,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",105,$400 to $599,"7,510","+/-1,332",10.7,+/-1.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",106,$600 to $799,"15,904","+/-2,310",22.6,+/-2.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",107,$800 to $999,"13,690","+/-1,960",19.5,+/-2.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",108,"$1,000 or more","30,130","+/-2,824",42.9,+/-3.4
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",109,Median (dollars),920,+/-37,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",109.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"125,249","+/-4,426","125,249",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",111,Less than 20.0 percent,"54,427","+/-3,515",43.5,+/-2.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",112,20.0 to 24.9 percent,"18,927","+/-2,198",15.1,+/-1.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",113,25.0 to 29.9 percent,"12,831","+/-1,772",10.2,+/-1.4
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",114,30.0 to 34.9 percent,"8,816","+/-1,518",7.0,+/-1.2
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",115,35.0 percent or more,"30,248","+/-3,182",24.2,+/-2.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",115.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",116,Not computed,441,+/-410,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",116.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"69,659","+/-3,887","69,659",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",118,Less than 10.0 percent,"25,391","+/-2,419",36.5,+/-2.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",119,10.0 to 14.9 percent,"13,243","+/-1,817",19.0,+/-2.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",120,15.0 to 19.9 percent,"7,587","+/-1,089",10.9,+/-1.6
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",121,20.0 to 24.9 percent,"5,555","+/-1,134",8.0,+/-1.6
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",122,25.0 to 29.9 percent,"4,029",+/-921,5.8,+/-1.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",123,30.0 to 34.9 percent,"3,012",+/-954,4.3,+/-1.4
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",124,35.0 percent or more,"10,842","+/-1,553",15.6,+/-2.0
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",124.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",125,Not computed,563,+/-428,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",125.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",125.5,GROSS RENT,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",126,Occupied units paying rent,"84,506","+/-3,873","84,506",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",127,Less than $500,"9,830","+/-1,757",11.6,+/-2.0
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",128,$500 to $999,"20,683","+/-3,089",24.5,+/-3.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",129,"$1,000 to $1,499","30,438","+/-3,257",36.0,+/-3.7
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",130,"$1,500 to $1,999","14,077","+/-1,741",16.7,+/-2.0
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",131,"$2,000 to $2,499","6,194","+/-1,511",7.3,+/-1.8
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",132,"$2,500 to $2,999","1,436",+/-728,1.7,+/-0.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",133,"$3,000 or more","1,848",+/-622,2.2,+/-0.7
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",134,Median (dollars),"1,175",+/-40,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",134.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",135,No rent paid,"3,730",+/-981,(X),(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",135.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"83,126","+/-3,800","83,126",(X)
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",137,Less than 15.0 percent,"9,199","+/-1,706",11.1,+/-2.0
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",138,15.0 to 19.9 percent,"9,313","+/-1,829",11.2,+/-2.1
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",139,20.0 to 24.9 percent,"10,319","+/-2,022",12.4,+/-2.4
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",140,25.0 to 29.9 percent,"11,691","+/-2,075",14.1,+/-2.5
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",141,30.0 to 34.9 percent,"8,455","+/-1,716",10.2,+/-1.9
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",142,35.0 percent or more,"34,149","+/-3,150",41.1,+/-3.3
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",142.3,,,,,
+DP04,5001800US0905,"Congressional District 5 (118th Congress), Connecticut",143,Not computed,"5,110","+/-1,092",(X),(X)

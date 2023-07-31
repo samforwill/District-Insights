@@ -1,0 +1,559 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",0.5,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",1,Total housing units,"276,912","+/-1,952","276,912",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",2,Occupied housing units,"261,275","+/-3,108",94.4,+/-0.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",3,Vacant housing units,"15,637","+/-2,347",5.6,+/-0.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",3.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",4,Homeowner vacancy rate,0.6,+/-0.3,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",5,Rental vacancy rate,4.6,+/-1.2,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",5.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",6,Total housing units,"276,912","+/-1,952","276,912",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",7,"1-unit, detached","189,808","+/-3,705",68.5,+/-1.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",8,"1-unit, attached","15,582","+/-1,677",5.6,+/-0.6
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",9,2 units,"5,382","+/-1,285",1.9,+/-0.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",10,3 or 4 units,"6,208","+/-1,224",2.2,+/-0.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",11,5 to 9 units,"12,896","+/-1,904",4.7,+/-0.7
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",12,10 to 19 units,"15,327","+/-1,885",5.5,+/-0.7
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",13,20 or more units,"25,522","+/-2,486",9.2,+/-0.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",14,Mobile home,"6,187","+/-1,450",2.2,+/-0.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",15,"Boat, RV, van, etc.",0,+/-170,0.0,+/-0.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",15.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",16,Total housing units,"276,912","+/-1,952","276,912",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",17,Built 2020 or later,"1,718",+/-575,0.6,+/-0.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",18,Built 2010 to 2019,"29,718","+/-2,192",10.7,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",19,Built 2000 to 2009,"39,757","+/-2,377",14.4,+/-0.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",20,Built 1990 to 1999,"34,420","+/-2,414",12.4,+/-0.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",21,Built 1980 to 1989,"31,546","+/-2,774",11.4,+/-1.0
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",22,Built 1970 to 1979,"41,309","+/-2,395",14.9,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",23,Built 1960 to 1969,"26,035","+/-2,183",9.4,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",24,Built 1950 to 1959,"24,246","+/-2,355",8.8,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",25,Built 1940 to 1949,"10,834","+/-1,527",3.9,+/-0.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",26,Built 1939 or earlier,"37,329","+/-2,330",13.5,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",26.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",26.5,ROOMS,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",27,Total housing units,"276,912","+/-1,952","276,912",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",28,1 room,"6,512","+/-1,426",2.4,+/-0.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",29,2 rooms,"6,265","+/-1,248",2.3,+/-0.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",30,3 rooms,"26,650","+/-2,587",9.6,+/-0.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",31,4 rooms,"36,057","+/-3,153",13.0,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",32,5 rooms,"38,796","+/-2,979",14.0,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",33,6 rooms,"42,284","+/-3,175",15.3,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",34,7 rooms,"36,961","+/-2,860",13.3,+/-1.0
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",35,8 rooms,"30,039","+/-2,714",10.8,+/-1.0
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",36,9 rooms or more,"53,348","+/-2,902",19.3,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",37,Median rooms,6.1,+/-0.1,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",37.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",37.5,BEDROOMS,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",38,Total housing units,"276,912","+/-1,952","276,912",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",39,No bedroom,"7,023","+/-1,489",2.5,+/-0.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",40,1 bedroom,"28,362","+/-2,596",10.2,+/-0.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",41,2 bedrooms,"70,700","+/-3,280",25.5,+/-1.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",42,3 bedrooms,"101,046","+/-4,612",36.5,+/-1.6
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",43,4 bedrooms,"51,790","+/-2,960",18.7,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",44,5 or more bedrooms,"17,991","+/-1,773",6.5,+/-0.6
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",44.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",44.5,HOUSING TENURE,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",45,Occupied housing units,"261,275","+/-3,108","261,275",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",46,Owner-occupied,"171,952","+/-3,805",65.8,+/-1.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",47,Renter-occupied,"89,323","+/-3,634",34.2,+/-1.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",47.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",48,Average household size of owner-occupied unit,2.62,+/-0.04,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",49,Average household size of renter-occupied unit,2.11,+/-0.06,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",49.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",50,Occupied housing units,"261,275","+/-3,108","261,275",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",51,Moved in 2019 or later,"77,508","+/-3,509",29.7,+/-1.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",52,Moved in 2015 to 2018,"60,797","+/-3,938",23.3,+/-1.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",53,Moved in 2010 to 2014,"32,405","+/-2,715",12.4,+/-1.0
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",54,Moved in 2000 to 2009,"41,901","+/-2,686",16.0,+/-1.0
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",55,Moved in 1990 to 1999,"26,148","+/-2,465",10.0,+/-1.0
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",56,Moved in 1989 and earlier,"22,516","+/-2,020",8.6,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",56.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",57,Occupied housing units,"261,275","+/-3,108","261,275",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",58,No vehicles available,"13,305","+/-1,831",5.1,+/-0.7
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",59,1 vehicle available,"79,375","+/-3,729",30.4,+/-1.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",60,2 vehicles available,"101,804","+/-4,364",39.0,+/-1.6
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",61,3 or more vehicles available,"66,791","+/-3,059",25.6,+/-1.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",61.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",62,Occupied housing units,"261,275","+/-3,108","261,275",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",63,Utility gas,"152,220","+/-4,029",58.3,+/-1.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",64,"Bottled, tank, or LP gas","14,221","+/-1,648",5.4,+/-0.6
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",65,Electricity,"90,542","+/-3,429",34.7,+/-1.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",66,"Fuel oil, kerosene, etc.",881,+/-545,0.3,+/-0.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",67,Coal or coke,0,+/-170,0.0,+/-0.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",68,Wood,"1,957",+/-691,0.7,+/-0.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",69,Solar energy,75,+/-126,0.0,+/-0.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",70,Other fuel,671,+/-279,0.3,+/-0.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",71,No fuel used,708,+/-266,0.3,+/-0.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",71.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",72,Occupied housing units,"261,275","+/-3,108","261,275",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",73,Lacking complete plumbing facilities,868,+/-453,0.3,+/-0.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",74,Lacking complete kitchen facilities,"2,480",+/-821,0.9,+/-0.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",75,No telephone service available,"1,888",+/-699,0.7,+/-0.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",75.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",76,Occupied housing units,"261,275","+/-3,108","261,275",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",77,1.00 or less,"256,472","+/-3,124",98.2,+/-0.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",78,1.01 to 1.50,"2,989",+/-972,1.1,+/-0.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",79,1.51 or more,"1,814",+/-730,0.7,+/-0.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",79.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",79.5,VALUE,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",80,Owner-occupied units,"171,952","+/-3,805","171,952",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",81,"Less than $50,000","8,179","+/-1,397",4.8,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",82,"$50,000 to $99,999","10,533","+/-1,403",6.1,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",83,"$100,000 to $149,999","21,229","+/-1,915",12.3,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",84,"$150,000 to $199,999","33,278","+/-3,073",19.4,+/-1.7
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",85,"$200,000 to $299,999","51,722","+/-3,254",30.1,+/-1.7
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",86,"$300,000 to $499,999","37,362","+/-2,356",21.7,+/-1.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",87,"$500,000 to $999,999","8,793","+/-1,500",5.1,+/-0.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",88,"$1,000,000 or more",856,+/-381,0.5,+/-0.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",89,Median (dollars),"220,900","+/-5,036",(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",89.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",90,Owner-occupied units,"171,952","+/-3,805","171,952",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",91,Housing units with a mortgage,"107,484","+/-3,699",62.5,+/-1.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",92,Housing units without a mortgage,"64,468","+/-2,719",37.5,+/-1.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",92.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",93,Housing units with a mortgage,"107,484","+/-3,699","107,484",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",94,Less than $500,"1,378",+/-535,1.3,+/-0.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",95,$500 to $999,"14,991","+/-1,470",13.9,+/-1.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",96,"$1,000 to $1,499","38,019","+/-2,686",35.4,+/-2.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",97,"$1,500 to $1,999","29,370","+/-2,577",27.3,+/-2.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",98,"$2,000 to $2,499","11,917","+/-1,493",11.1,+/-1.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",99,"$2,500 to $2,999","6,534","+/-1,232",6.1,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",100,"$3,000 or more","5,275",+/-905,4.9,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",101,Median (dollars),"1,492",+/-25,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",101.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",102,Housing units without a mortgage,"64,468","+/-2,719","64,468",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",103,Less than $250,"4,265",+/-928,6.6,+/-1.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",104,$250 to $399,"7,373","+/-1,085",11.4,+/-1.6
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",105,$400 to $599,"20,606","+/-1,777",32.0,+/-2.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",106,$600 to $799,"18,604","+/-2,033",28.9,+/-2.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",107,$800 to $999,"7,693","+/-1,063",11.9,+/-1.6
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",108,"$1,000 or more","5,927",+/-948,9.2,+/-1.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",109,Median (dollars),600,+/-17,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",109.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"107,121","+/-3,739","107,121",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",111,Less than 20.0 percent,"56,220","+/-3,070",52.5,+/-2.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",112,20.0 to 24.9 percent,"18,115","+/-1,901",16.9,+/-1.6
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",113,25.0 to 29.9 percent,"9,919","+/-1,347",9.3,+/-1.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",114,30.0 to 34.9 percent,"8,400","+/-1,693",7.8,+/-1.5
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",115,35.0 percent or more,"14,467","+/-1,466",13.5,+/-1.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",115.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",116,Not computed,363,+/-334,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",116.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"63,856","+/-2,663","63,856",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",118,Less than 10.0 percent,"30,227","+/-2,262",47.3,+/-2.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",119,10.0 to 14.9 percent,"13,262","+/-1,563",20.8,+/-2.3
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",120,15.0 to 19.9 percent,"8,279","+/-1,259",13.0,+/-1.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",121,20.0 to 24.9 percent,"3,425",+/-723,5.4,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",122,25.0 to 29.9 percent,"2,770",+/-700,4.3,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",123,30.0 to 34.9 percent,"1,539",+/-558,2.4,+/-0.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",124,35.0 percent or more,"4,354",+/-786,6.8,+/-1.1
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",124.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",125,Not computed,612,+/-296,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",125.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",125.5,GROSS RENT,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",126,Occupied units paying rent,"85,691","+/-3,462","85,691",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",127,Less than $500,"6,727","+/-1,440",7.9,+/-1.7
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",128,$500 to $999,"41,779","+/-2,646",48.8,+/-2.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",129,"$1,000 to $1,499","26,397","+/-2,170",30.8,+/-2.2
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",130,"$1,500 to $1,999","7,489","+/-1,510",8.7,+/-1.7
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",131,"$2,000 to $2,499","1,231",+/-651,1.4,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",132,"$2,500 to $2,999",258,+/-349,0.3,+/-0.4
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",133,"$3,000 or more","1,810",+/-674,2.1,+/-0.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",134,Median (dollars),938,+/-27,(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",134.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",135,No rent paid,"3,632","+/-1,037",(X),(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",135.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"84,135","+/-3,566","84,135",(X)
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",137,Less than 15.0 percent,"11,435","+/-1,706",13.6,+/-1.9
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",138,15.0 to 19.9 percent,"12,655","+/-1,714",15.0,+/-2.0
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",139,20.0 to 24.9 percent,"9,878","+/-1,583",11.7,+/-1.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",140,25.0 to 29.9 percent,"10,576","+/-1,740",12.6,+/-2.0
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",141,30.0 to 34.9 percent,"6,780","+/-1,299",8.1,+/-1.6
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",142,35.0 percent or more,"32,811","+/-2,846",39.0,+/-2.8
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",142.3,,,,,
+DP04,5001800US3101,"Congressional District 1 (118th Congress), Nebraska",143,Not computed,"5,188","+/-1,227",(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",0.5,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",1,Total housing units,"275,582","+/-1,734","275,582",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",2,Occupied housing units,"260,954","+/-2,682",94.7,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",3,Vacant housing units,"14,628","+/-2,052",5.3,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",3.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",4,Homeowner vacancy rate,0.2,+/-0.2,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",5,Rental vacancy rate,6.0,+/-1.3,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",5.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",6,Total housing units,"275,582","+/-1,734","275,582",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",7,"1-unit, detached","188,828","+/-3,801",68.5,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",8,"1-unit, attached","10,262","+/-1,546",3.7,+/-0.6
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",9,2 units,"3,690","+/-1,104",1.3,+/-0.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",10,3 or 4 units,"4,911",+/-950,1.8,+/-0.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",11,5 to 9 units,"15,528","+/-2,189",5.6,+/-0.8
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",12,10 to 19 units,"18,668","+/-2,071",6.8,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",13,20 or more units,"31,386","+/-2,619",11.4,+/-1.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",14,Mobile home,"2,280",+/-633,0.8,+/-0.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",15,"Boat, RV, van, etc.",29,+/-51,0.0,+/-0.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",15.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",16,Total housing units,"275,582","+/-1,734","275,582",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",17,Built 2020 or later,"2,650",+/-935,1.0,+/-0.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",18,Built 2010 to 2019,"33,400","+/-2,546",12.1,+/-0.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",19,Built 2000 to 2009,"40,214","+/-2,968",14.6,+/-1.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",20,Built 1990 to 1999,"27,966","+/-2,071",10.1,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",21,Built 1980 to 1989,"25,318","+/-1,877",9.2,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",22,Built 1970 to 1979,"37,173","+/-2,496",13.5,+/-0.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",23,Built 1960 to 1969,"32,075","+/-2,094",11.6,+/-0.8
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",24,Built 1950 to 1959,"24,536","+/-2,492",8.9,+/-0.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",25,Built 1940 to 1949,"10,869","+/-1,562",3.9,+/-0.6
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",26,Built 1939 or earlier,"41,381","+/-2,624",15.0,+/-1.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",26.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",26.5,ROOMS,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",27,Total housing units,"275,582","+/-1,734","275,582",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",28,1 room,"9,412","+/-1,925",3.4,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",29,2 rooms,"10,558","+/-1,817",3.8,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",30,3 rooms,"24,238","+/-2,646",8.8,+/-1.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",31,4 rooms,"34,307","+/-3,211",12.4,+/-1.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",32,5 rooms,"36,670","+/-2,615",13.3,+/-0.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",33,6 rooms,"42,090","+/-3,083",15.3,+/-1.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",34,7 rooms,"36,033","+/-3,069",13.1,+/-1.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",35,8 rooms,"29,861","+/-2,288",10.8,+/-0.8
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",36,9 rooms or more,"52,413","+/-2,673",19.0,+/-1.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",37,Median rooms,6.0,+/-0.2,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",37.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",37.5,BEDROOMS,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",38,Total housing units,"275,582","+/-1,734","275,582",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",39,No bedroom,"10,555","+/-2,044",3.8,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",40,1 bedroom,"36,812","+/-3,048",13.4,+/-1.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",41,2 bedrooms,"59,418","+/-3,846",21.6,+/-1.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",42,3 bedrooms,"98,987","+/-3,514",35.9,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",43,4 bedrooms,"53,892","+/-2,979",19.6,+/-1.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",44,5 or more bedrooms,"15,918","+/-1,602",5.8,+/-0.6
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",44.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",44.5,HOUSING TENURE,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",45,Occupied housing units,"260,954","+/-2,682","260,954",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",46,Owner-occupied,"168,849","+/-3,614",64.7,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",47,Renter-occupied,"92,105","+/-3,603",35.3,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",47.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",48,Average household size of owner-occupied unit,2.68,+/-0.04,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",49,Average household size of renter-occupied unit,2.07,+/-0.07,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",49.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",50,Occupied housing units,"260,954","+/-2,682","260,954",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",51,Moved in 2019 or later,"82,026","+/-4,187",31.4,+/-1.5
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",52,Moved in 2015 to 2018,"56,374","+/-3,308",21.6,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",53,Moved in 2010 to 2014,"32,938","+/-2,615",12.6,+/-1.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",54,Moved in 2000 to 2009,"45,043","+/-3,432",17.3,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",55,Moved in 1990 to 1999,"22,317","+/-1,547",8.6,+/-0.6
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",56,Moved in 1989 and earlier,"22,256","+/-1,681",8.5,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",56.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",57,Occupied housing units,"260,954","+/-2,682","260,954",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",58,No vehicles available,"15,849","+/-1,830",6.1,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",59,1 vehicle available,"88,902","+/-3,925",34.1,+/-1.5
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",60,2 vehicles available,"102,671","+/-4,035",39.3,+/-1.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",61,3 or more vehicles available,"53,532","+/-3,351",20.5,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",61.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",62,Occupied housing units,"260,954","+/-2,682","260,954",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",63,Utility gas,"182,750","+/-4,247",70.0,+/-1.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",64,"Bottled, tank, or LP gas","6,297","+/-1,075",2.4,+/-0.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",65,Electricity,"69,311","+/-3,694",26.6,+/-1.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",66,"Fuel oil, kerosene, etc.",184,+/-128,0.1,+/-0.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",67,Coal or coke,0,+/-170,0.0,+/-0.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",68,Wood,563,+/-388,0.2,+/-0.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",69,Solar energy,0,+/-170,0.0,+/-0.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",70,Other fuel,901,+/-449,0.3,+/-0.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",71,No fuel used,948,+/-497,0.4,+/-0.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",71.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",72,Occupied housing units,"260,954","+/-2,682","260,954",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",73,Lacking complete plumbing facilities,941,+/-433,0.4,+/-0.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",74,Lacking complete kitchen facilities,"3,094",+/-899,1.2,+/-0.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",75,No telephone service available,"2,341",+/-605,0.9,+/-0.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",75.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",76,Occupied housing units,"260,954","+/-2,682","260,954",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",77,1.00 or less,"255,032","+/-2,913",97.7,+/-0.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",78,1.01 to 1.50,"4,363","+/-1,105",1.7,+/-0.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",79,1.51 or more,"1,559",+/-622,0.6,+/-0.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",79.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",79.5,VALUE,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",80,Owner-occupied units,"168,849","+/-3,614","168,849",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",81,"Less than $50,000","7,036","+/-1,233",4.2,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",82,"$50,000 to $99,999","8,907","+/-1,384",5.3,+/-0.8
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",83,"$100,000 to $149,999","16,748","+/-1,785",9.9,+/-1.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",84,"$150,000 to $199,999","30,722","+/-2,705",18.2,+/-1.5
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",85,"$200,000 to $299,999","48,698","+/-2,501",28.8,+/-1.5
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",86,"$300,000 to $499,999","41,230","+/-2,749",24.4,+/-1.5
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",87,"$500,000 to $999,999","13,348","+/-1,478",7.9,+/-0.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",88,"$1,000,000 or more","2,160",+/-720,1.3,+/-0.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",89,Median (dollars),"237,100","+/-4,440",(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",89.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",90,Owner-occupied units,"168,849","+/-3,614","168,849",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",91,Housing units with a mortgage,"118,492","+/-3,521",70.2,+/-1.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",92,Housing units without a mortgage,"50,357","+/-2,497",29.8,+/-1.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",92.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",93,Housing units with a mortgage,"118,492","+/-3,521","118,492",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",94,Less than $500,629,+/-327,0.5,+/-0.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",95,$500 to $999,"11,265","+/-1,435",9.5,+/-1.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",96,"$1,000 to $1,499","36,034","+/-2,559",30.4,+/-1.8
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",97,"$1,500 to $1,999","32,251","+/-2,538",27.2,+/-2.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",98,"$2,000 to $2,499","18,655","+/-1,967",15.7,+/-1.6
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",99,"$2,500 to $2,999","8,908","+/-1,517",7.5,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",100,"$3,000 or more","10,750","+/-1,574",9.1,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",101,Median (dollars),"1,648",+/-27,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",101.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",102,Housing units without a mortgage,"50,357","+/-2,497","50,357",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",103,Less than $250,"2,723",+/-959,5.4,+/-1.8
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",104,$250 to $399,"5,043","+/-1,057",10.0,+/-2.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",105,$400 to $599,"11,221","+/-1,578",22.3,+/-3.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",106,$600 to $799,"12,971","+/-1,154",25.8,+/-2.5
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",107,$800 to $999,"7,779","+/-1,138",15.4,+/-2.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",108,"$1,000 or more","10,620","+/-1,611",21.1,+/-2.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",109,Median (dollars),689,+/-21,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",109.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"117,253","+/-3,386","117,253",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",111,Less than 20.0 percent,"59,859","+/-2,839",51.1,+/-2.1
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",112,20.0 to 24.9 percent,"18,609","+/-2,150",15.9,+/-1.8
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",113,25.0 to 29.9 percent,"11,980","+/-1,598",10.2,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",114,30.0 to 34.9 percent,"7,245","+/-1,562",6.2,+/-1.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",115,35.0 percent or more,"19,560","+/-2,023",16.7,+/-1.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",115.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",116,Not computed,"1,239",+/-949,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",116.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"49,828","+/-2,487","49,828",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",118,Less than 10.0 percent,"20,547","+/-1,964",41.2,+/-3.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",119,10.0 to 14.9 percent,"10,692","+/-1,567",21.5,+/-2.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",120,15.0 to 19.9 percent,"6,600","+/-1,143",13.2,+/-2.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",121,20.0 to 24.9 percent,"3,807",+/-874,7.6,+/-1.8
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",122,25.0 to 29.9 percent,"2,237",+/-693,4.5,+/-1.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",123,30.0 to 34.9 percent,"1,504",+/-607,3.0,+/-1.2
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",124,35.0 percent or more,"4,441",+/-713,8.9,+/-1.4
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",124.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",125,Not computed,529,+/-267,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",125.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",125.5,GROSS RENT,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",126,Occupied units paying rent,"89,300","+/-3,405","89,300",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",127,Less than $500,"5,499","+/-1,430",6.2,+/-1.5
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",128,$500 to $999,"37,944","+/-2,800",42.5,+/-2.6
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",129,"$1,000 to $1,499","32,653","+/-2,823",36.6,+/-2.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",130,"$1,500 to $1,999","9,600","+/-1,312",10.8,+/-1.5
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",131,"$2,000 to $2,499","1,922",+/-639,2.2,+/-0.7
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",132,"$2,500 to $2,999",316,+/-278,0.4,+/-0.3
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",133,"$3,000 or more","1,366",+/-520,1.5,+/-0.6
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",134,Median (dollars),"1,015",+/-27,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",134.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",135,No rent paid,"2,805",+/-670,(X),(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",135.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"87,407","+/-3,337","87,407",(X)
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",137,Less than 15.0 percent,"9,616","+/-1,638",11.0,+/-1.8
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",138,15.0 to 19.9 percent,"11,403","+/-1,701",13.0,+/-1.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",139,20.0 to 24.9 percent,"11,168","+/-1,760",12.8,+/-2.0
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",140,25.0 to 29.9 percent,"11,005","+/-1,734",12.6,+/-1.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",141,30.0 to 34.9 percent,"7,563","+/-1,418",8.7,+/-1.6
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",142,35.0 percent or more,"36,652","+/-3,038",41.9,+/-2.9
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",142.3,,,,,
+DP04,5001800US3102,"Congressional District 2 (118th Congress), Nebraska",143,Not computed,"4,698",+/-916,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",0.5,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",1,Total housing units,"301,804","+/-1,260","301,804",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",2,Occupied housing units,"263,753","+/-2,865",87.4,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",3,Vacant housing units,"38,051","+/-2,616",12.6,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",3.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",4,Homeowner vacancy rate,0.8,+/-0.2,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",5,Rental vacancy rate,5.2,+/-1.3,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",5.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",6,Total housing units,"301,804","+/-1,260","301,804",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",7,"1-unit, detached","239,820","+/-2,714",79.5,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",8,"1-unit, attached","6,737","+/-1,242",2.2,+/-0.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",9,2 units,"4,781","+/-1,088",1.6,+/-0.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",10,3 or 4 units,"9,152","+/-1,403",3.0,+/-0.5
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",11,5 to 9 units,"7,978","+/-1,102",2.6,+/-0.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",12,10 to 19 units,"5,142",+/-971,1.7,+/-0.3
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",13,20 or more units,"10,408","+/-1,659",3.4,+/-0.6
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",14,Mobile home,"17,757","+/-1,625",5.9,+/-0.5
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",15,"Boat, RV, van, etc.",29,+/-31,0.0,+/-0.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",15.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",16,Total housing units,"301,804","+/-1,260","301,804",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",17,Built 2020 or later,915,+/-378,0.3,+/-0.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",18,Built 2010 to 2019,"18,424","+/-1,864",6.1,+/-0.6
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",19,Built 2000 to 2009,"20,701","+/-1,797",6.9,+/-0.6
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",20,Built 1990 to 1999,"23,900","+/-2,017",7.9,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",21,Built 1980 to 1989,"25,630","+/-2,202",8.5,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",22,Built 1970 to 1979,"56,116","+/-2,974",18.6,+/-1.0
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",23,Built 1960 to 1969,"28,865","+/-2,162",9.6,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",24,Built 1950 to 1959,"28,180","+/-2,276",9.3,+/-0.8
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",25,Built 1940 to 1949,"17,350","+/-1,492",5.7,+/-0.5
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",26,Built 1939 or earlier,"81,723","+/-3,096",27.1,+/-1.0
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",26.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",26.5,ROOMS,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",27,Total housing units,"301,804","+/-1,260","301,804",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",28,1 room,"5,742","+/-1,293",1.9,+/-0.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",29,2 rooms,"6,200","+/-1,140",2.1,+/-0.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",30,3 rooms,"17,738","+/-2,012",5.9,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",31,4 rooms,"41,800","+/-2,670",13.9,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",32,5 rooms,"48,251","+/-2,875",16.0,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",33,6 rooms,"47,348","+/-2,375",15.7,+/-0.8
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",34,7 rooms,"36,374","+/-2,203",12.1,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",35,8 rooms,"32,810","+/-2,263",10.9,+/-0.8
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",36,9 rooms or more,"65,541","+/-2,703",21.7,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",37,Median rooms,6.2,+/-0.2,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",37.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",37.5,BEDROOMS,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",38,Total housing units,"301,804","+/-1,260","301,804",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",39,No bedroom,"6,342","+/-1,339",2.1,+/-0.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",40,1 bedroom,"24,105","+/-2,076",8.0,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",41,2 bedrooms,"83,951","+/-3,552",27.8,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",42,3 bedrooms,"107,601","+/-3,231",35.7,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",43,4 bedrooms,"53,895","+/-2,277",17.9,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",44,5 or more bedrooms,"25,910","+/-2,001",8.6,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",44.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",44.5,HOUSING TENURE,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",45,Occupied housing units,"263,753","+/-2,865","263,753",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",46,Owner-occupied,"191,781","+/-3,256",72.7,+/-1.0
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",47,Renter-occupied,"71,972","+/-2,845",27.3,+/-1.0
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",47.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",48,Average household size of owner-occupied unit,2.51,+/-0.03,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",49,Average household size of renter-occupied unit,2.10,+/-0.07,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",49.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",50,Occupied housing units,"263,753","+/-2,865","263,753",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",51,Moved in 2019 or later,"58,173","+/-3,063",22.1,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",52,Moved in 2015 to 2018,"51,985","+/-2,794",19.7,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",53,Moved in 2010 to 2014,"36,885","+/-2,343",14.0,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",54,Moved in 2000 to 2009,"49,090","+/-2,678",18.6,+/-1.0
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",55,Moved in 1990 to 1999,"30,988","+/-1,978",11.7,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",56,Moved in 1989 and earlier,"36,632","+/-1,648",13.9,+/-0.6
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",56.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",57,Occupied housing units,"263,753","+/-2,865","263,753",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",58,No vehicles available,"11,875","+/-1,274",4.5,+/-0.5
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",59,1 vehicle available,"69,041","+/-2,931",26.2,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",60,2 vehicles available,"92,956","+/-3,499",35.2,+/-1.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",61,3 or more vehicles available,"89,881","+/-2,968",34.1,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",61.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",62,Occupied housing units,"263,753","+/-2,865","263,753",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",63,Utility gas,"128,683","+/-3,894",48.8,+/-1.5
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",64,"Bottled, tank, or LP gas","33,982","+/-1,770",12.9,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",65,Electricity,"89,880","+/-3,880",34.1,+/-1.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",66,"Fuel oil, kerosene, etc.","1,492",+/-541,0.6,+/-0.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",67,Coal or coke,30,+/-44,0.0,+/-0.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",68,Wood,"5,118",+/-691,1.9,+/-0.3
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",69,Solar energy,13,+/-27,0.0,+/-0.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",70,Other fuel,"2,766",+/-553,1.0,+/-0.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",71,No fuel used,"1,789",+/-530,0.7,+/-0.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",71.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",72,Occupied housing units,"263,753","+/-2,865","263,753",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",73,Lacking complete plumbing facilities,871,+/-343,0.3,+/-0.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",74,Lacking complete kitchen facilities,"1,996",+/-528,0.8,+/-0.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",75,No telephone service available,"2,905",+/-673,1.1,+/-0.3
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",75.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",76,Occupied housing units,"263,753","+/-2,865","263,753",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",77,1.00 or less,"258,615","+/-2,974",98.1,+/-0.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",78,1.01 to 1.50,"3,716",+/-908,1.4,+/-0.3
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",79,1.51 or more,"1,422",+/-394,0.5,+/-0.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",79.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",79.5,VALUE,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",80,Owner-occupied units,"191,781","+/-3,256","191,781",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",81,"Less than $50,000","21,756","+/-1,661",11.3,+/-0.8
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",82,"$50,000 to $99,999","34,965","+/-2,070",18.2,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",83,"$100,000 to $149,999","31,620","+/-1,823",16.5,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",84,"$150,000 to $199,999","33,416","+/-2,213",17.4,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",85,"$200,000 to $299,999","37,999","+/-1,925",19.8,+/-1.0
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",86,"$300,000 to $499,999","22,945","+/-1,816",12.0,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",87,"$500,000 to $999,999","7,469","+/-1,084",3.9,+/-0.6
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",88,"$1,000,000 or more","1,611",+/-584,0.8,+/-0.3
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",89,Median (dollars),"159,600","+/-3,477",(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",89.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",90,Owner-occupied units,"191,781","+/-3,256","191,781",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",91,Housing units with a mortgage,"91,774","+/-2,933",47.9,+/-1.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",92,Housing units without a mortgage,"100,007","+/-2,724",52.1,+/-1.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",92.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",93,Housing units with a mortgage,"91,774","+/-2,933","91,774",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",94,Less than $500,978,+/-271,1.1,+/-0.3
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",95,$500 to $999,"23,854","+/-1,561",26.0,+/-1.6
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",96,"$1,000 to $1,499","33,698","+/-2,216",36.7,+/-2.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",97,"$1,500 to $1,999","18,756","+/-1,781",20.4,+/-1.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",98,"$2,000 to $2,499","7,929","+/-1,197",8.6,+/-1.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",99,"$2,500 to $2,999","3,587","+/-1,011",3.9,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",100,"$3,000 or more","2,972",+/-592,3.2,+/-0.6
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",101,Median (dollars),"1,286",+/-34,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",101.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",102,Housing units without a mortgage,"100,007","+/-2,724","100,007",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",103,Less than $250,"9,712","+/-1,083",9.7,+/-1.0
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",104,$250 to $399,"23,740","+/-1,682",23.7,+/-1.6
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",105,$400 to $599,"35,366","+/-2,367",35.4,+/-2.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",106,$600 to $799,"18,796","+/-1,765",18.8,+/-1.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",107,$800 to $999,"7,514",+/-992,7.5,+/-1.0
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",108,"$1,000 or more","4,879",+/-739,4.9,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",109,Median (dollars),483,+/-10,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",109.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"91,479","+/-2,875","91,479",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",111,Less than 20.0 percent,"48,872","+/-2,306",53.4,+/-1.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",112,20.0 to 24.9 percent,"14,178","+/-1,604",15.5,+/-1.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",113,25.0 to 29.9 percent,"9,301",+/-998,10.2,+/-1.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",114,30.0 to 34.9 percent,"4,358",+/-825,4.8,+/-0.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",115,35.0 percent or more,"14,770","+/-1,562",16.1,+/-1.5
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",115.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",116,Not computed,295,+/-207,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",116.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"98,803","+/-2,698","98,803",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",118,Less than 10.0 percent,"44,414","+/-2,389",45.0,+/-1.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",119,10.0 to 14.9 percent,"19,674","+/-1,427",19.9,+/-1.5
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",120,15.0 to 19.9 percent,"11,305","+/-1,300",11.4,+/-1.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",121,20.0 to 24.9 percent,"7,038",+/-998,7.1,+/-1.0
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",122,25.0 to 29.9 percent,"3,786",+/-770,3.8,+/-0.8
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",123,30.0 to 34.9 percent,"2,691",+/-739,2.7,+/-0.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",124,35.0 percent or more,"9,895","+/-1,207",10.0,+/-1.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",124.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",125,Not computed,"1,204",+/-433,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",125.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",125.5,GROSS RENT,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",126,Occupied units paying rent,"63,983","+/-2,654","63,983",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",127,Less than $500,"12,821","+/-1,382",20.0,+/-2.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",128,$500 to $999,"38,379","+/-2,484",60.0,+/-3.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",129,"$1,000 to $1,499","10,042","+/-1,624",15.7,+/-2.5
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",130,"$1,500 to $1,999","2,015",+/-798,3.1,+/-1.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",131,"$2,000 to $2,499",235,+/-254,0.4,+/-0.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",132,"$2,500 to $2,999",188,+/-137,0.3,+/-0.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",133,"$3,000 or more",303,+/-227,0.5,+/-0.4
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",134,Median (dollars),754,+/-18,(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",134.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",135,No rent paid,"7,989","+/-1,119",(X),(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",135.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"63,245","+/-2,714","63,245",(X)
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",137,Less than 15.0 percent,"15,239","+/-1,709",24.1,+/-2.5
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",138,15.0 to 19.9 percent,"9,075","+/-1,393",14.3,+/-2.3
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",139,20.0 to 24.9 percent,"7,013","+/-1,352",11.1,+/-2.1
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",140,25.0 to 29.9 percent,"7,613","+/-1,422",12.0,+/-2.2
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",141,30.0 to 34.9 percent,"5,025","+/-1,247",7.9,+/-1.9
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",142,35.0 percent or more,"19,280","+/-1,936",30.5,+/-2.7
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",142.3,,,,,
+DP04,5001800US3103,"Congressional District 3 (118th Congress), Nebraska",143,Not computed,"8,727","+/-1,182",(X),(X)

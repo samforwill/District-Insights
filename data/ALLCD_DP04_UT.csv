@@ -1,0 +1,745 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",0.5,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",1,Total housing units,"302,380","+/-3,876","302,380",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",2,Occupied housing units,"281,730","+/-3,840",93.2,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",3,Vacant housing units,"20,650","+/-2,680",6.8,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",3.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",4,Homeowner vacancy rate,0.4,+/-0.3,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",5,Rental vacancy rate,3.9,+/-1.2,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",5.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",6,Total housing units,"302,380","+/-3,876","302,380",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",7,"1-unit, detached","205,205","+/-4,595",67.9,+/-1.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",8,"1-unit, attached","14,444","+/-1,701",4.8,+/-0.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",9,2 units,"10,436","+/-2,003",3.5,+/-0.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",10,3 or 4 units,"15,732","+/-2,088",5.2,+/-0.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",11,5 to 9 units,"9,829","+/-1,787",3.3,+/-0.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",12,10 to 19 units,"12,815","+/-2,179",4.2,+/-0.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",13,20 or more units,"26,654","+/-2,749",8.8,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",14,Mobile home,"7,244","+/-1,681",2.4,+/-0.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",15,"Boat, RV, van, etc.",21,+/-35,0.0,+/-0.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",15.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",16,Total housing units,"302,380","+/-3,876","302,380",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",17,Built 2020 or later,"3,227",+/-904,1.1,+/-0.3
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",18,Built 2010 to 2019,"41,066","+/-2,934",13.6,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",19,Built 2000 to 2009,"50,810","+/-3,451",16.8,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",20,Built 1990 to 1999,"43,533","+/-2,911",14.4,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",21,Built 1980 to 1989,"32,267","+/-2,502",10.7,+/-0.8
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",22,Built 1970 to 1979,"39,845","+/-2,871",13.2,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",23,Built 1960 to 1969,"23,111","+/-2,477",7.6,+/-0.8
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",24,Built 1950 to 1959,"25,682","+/-2,526",8.5,+/-0.8
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",25,Built 1940 to 1949,"11,701","+/-1,516",3.9,+/-0.5
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",26,Built 1939 or earlier,"31,138","+/-2,793",10.3,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",26.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",26.5,ROOMS,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",27,Total housing units,"302,380","+/-3,876","302,380",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",28,1 room,"6,373","+/-1,427",2.1,+/-0.5
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",29,2 rooms,"8,383","+/-1,610",2.8,+/-0.5
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",30,3 rooms,"21,197","+/-2,406",7.0,+/-0.8
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",31,4 rooms,"39,614","+/-3,643",13.1,+/-1.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",32,5 rooms,"41,728","+/-3,377",13.8,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",33,6 rooms,"35,905","+/-3,186",11.9,+/-1.0
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",34,7 rooms,"29,865","+/-3,035",9.9,+/-1.0
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",35,8 rooms,"37,534","+/-2,746",12.4,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",36,9 rooms or more,"81,781","+/-3,302",27.0,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",37,Median rooms,6.4,+/-0.2,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",37.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",37.5,BEDROOMS,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",38,Total housing units,"302,380","+/-3,876","302,380",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",39,No bedroom,"6,867","+/-1,537",2.3,+/-0.5
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",40,1 bedroom,"24,849","+/-2,547",8.2,+/-0.8
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",41,2 bedrooms,"57,302","+/-3,408",19.0,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",42,3 bedrooms,"80,897","+/-3,672",26.8,+/-1.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",43,4 bedrooms,"68,149","+/-3,540",22.5,+/-1.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",44,5 or more bedrooms,"64,316","+/-3,435",21.3,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",44.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",44.5,HOUSING TENURE,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",45,Occupied housing units,"281,730","+/-3,840","281,730",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",46,Owner-occupied,"195,662","+/-3,601",69.5,+/-1.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",47,Renter-occupied,"86,068","+/-3,983",30.5,+/-1.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",47.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",48,Average household size of owner-occupied unit,3.16,+/-0.05,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",49,Average household size of renter-occupied unit,2.38,+/-0.10,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",49.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",50,Occupied housing units,"281,730","+/-3,840","281,730",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",51,Moved in 2019 or later,"85,537","+/-4,481",30.4,+/-1.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",52,Moved in 2015 to 2018,"67,992","+/-4,021",24.1,+/-1.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",53,Moved in 2010 to 2014,"38,757","+/-2,922",13.8,+/-1.0
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",54,Moved in 2000 to 2009,"44,300","+/-2,682",15.7,+/-1.0
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",55,Moved in 1990 to 1999,"25,067","+/-2,133",8.9,+/-0.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",56,Moved in 1989 and earlier,"20,077","+/-1,820",7.1,+/-0.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",56.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",57,Occupied housing units,"281,730","+/-3,840","281,730",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",58,No vehicles available,"13,365","+/-1,794",4.7,+/-0.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",59,1 vehicle available,"68,097","+/-3,849",24.2,+/-1.3
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",60,2 vehicles available,"109,015","+/-4,133",38.7,+/-1.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",61,3 or more vehicles available,"91,253","+/-4,070",32.4,+/-1.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",61.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",62,Occupied housing units,"281,730","+/-3,840","281,730",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",63,Utility gas,"228,194","+/-4,245",81.0,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",64,"Bottled, tank, or LP gas","6,869","+/-1,099",2.4,+/-0.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",65,Electricity,"41,861","+/-3,160",14.9,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",66,"Fuel oil, kerosene, etc.",410,+/-355,0.1,+/-0.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",67,Coal or coke,89,+/-106,0.0,+/-0.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",68,Wood,691,+/-397,0.2,+/-0.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",69,Solar energy,725,+/-321,0.3,+/-0.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",70,Other fuel,"1,597",+/-690,0.6,+/-0.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",71,No fuel used,"1,294",+/-674,0.5,+/-0.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",71.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",72,Occupied housing units,"281,730","+/-3,840","281,730",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",73,Lacking complete plumbing facilities,641,+/-387,0.2,+/-0.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",74,Lacking complete kitchen facilities,"1,502",+/-516,0.5,+/-0.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",75,No telephone service available,"1,449",+/-589,0.5,+/-0.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",75.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",76,Occupied housing units,"281,730","+/-3,840","281,730",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",77,1.00 or less,"274,417","+/-4,000",97.4,+/-0.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",78,1.01 to 1.50,"5,358","+/-1,316",1.9,+/-0.5
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",79,1.51 or more,"1,955","+/-1,071",0.7,+/-0.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",79.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",79.5,VALUE,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",80,Owner-occupied units,"195,662","+/-3,601","195,662",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",81,"Less than $50,000","5,614","+/-1,315",2.9,+/-0.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",82,"$50,000 to $99,999","2,786",+/-850,1.4,+/-0.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",83,"$100,000 to $149,999","2,709",+/-841,1.4,+/-0.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",84,"$150,000 to $199,999","6,197","+/-1,172",3.2,+/-0.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",85,"$200,000 to $299,999","31,262","+/-2,652",16.0,+/-1.3
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",86,"$300,000 to $499,999","86,282","+/-3,820",44.1,+/-1.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",87,"$500,000 to $999,999","51,164","+/-3,039",26.1,+/-1.5
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",88,"$1,000,000 or more","9,648","+/-1,370",4.9,+/-0.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",89,Median (dollars),"397,100","+/-5,637",(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",89.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",90,Owner-occupied units,"195,662","+/-3,601","195,662",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",91,Housing units with a mortgage,"135,974","+/-4,879",69.5,+/-1.8
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",92,Housing units without a mortgage,"59,688","+/-3,480",30.5,+/-1.8
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",92.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",93,Housing units with a mortgage,"135,974","+/-4,879","135,974",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",94,Less than $500,"1,124",+/-436,0.8,+/-0.3
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",95,$500 to $999,"15,102","+/-1,716",11.1,+/-1.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",96,"$1,000 to $1,499","42,586","+/-2,797",31.3,+/-1.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",97,"$1,500 to $1,999","36,265","+/-3,084",26.7,+/-2.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",98,"$2,000 to $2,499","19,723","+/-2,441",14.5,+/-1.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",99,"$2,500 to $2,999","10,308","+/-1,458",7.6,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",100,"$3,000 or more","10,866","+/-1,392",8.0,+/-1.0
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",101,Median (dollars),"1,612",+/-30,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",101.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",102,Housing units without a mortgage,"59,688","+/-3,480","59,688",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",103,Less than $250,"4,891","+/-1,055",8.2,+/-1.8
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",104,$250 to $399,"14,177","+/-1,795",23.8,+/-2.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",105,$400 to $599,"23,720","+/-2,284",39.7,+/-3.0
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",106,$600 to $799,"9,413","+/-1,690",15.8,+/-2.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",107,$800 to $999,"4,732",+/-976,7.9,+/-1.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",108,"$1,000 or more","2,755",+/-880,4.6,+/-1.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",109,Median (dollars),484,+/-13,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",109.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"135,376","+/-4,935","135,376",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",111,Less than 20.0 percent,"69,059","+/-3,955",51.0,+/-2.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",112,20.0 to 24.9 percent,"22,630","+/-2,290",16.7,+/-1.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",113,25.0 to 29.9 percent,"13,256","+/-1,727",9.8,+/-1.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",114,30.0 to 34.9 percent,"7,113","+/-1,181",5.3,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",115,35.0 percent or more,"23,318","+/-2,414",17.2,+/-1.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",115.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",116,Not computed,598,+/-391,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",116.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"58,697","+/-3,470","58,697",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",118,Less than 10.0 percent,"37,292","+/-2,822",63.5,+/-2.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",119,10.0 to 14.9 percent,"8,552","+/-1,333",14.6,+/-2.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",120,15.0 to 19.9 percent,"3,762",+/-876,6.4,+/-1.4
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",121,20.0 to 24.9 percent,"2,499",+/-657,4.3,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",122,25.0 to 29.9 percent,"1,739",+/-645,3.0,+/-1.1
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",123,30.0 to 34.9 percent,728,+/-315,1.2,+/-0.5
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",124,35.0 percent or more,"4,125",+/-971,7.0,+/-1.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",124.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",125,Not computed,991,+/-691,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",125.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",125.5,GROSS RENT,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",126,Occupied units paying rent,"83,411","+/-4,000","83,411",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",127,Less than $500,"6,634","+/-1,379",8.0,+/-1.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",128,$500 to $999,"28,553","+/-2,897",34.2,+/-3.3
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",129,"$1,000 to $1,499","29,330","+/-2,874",35.2,+/-3.0
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",130,"$1,500 to $1,999","12,817","+/-2,228",15.4,+/-2.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",131,"$2,000 to $2,499","3,636","+/-1,090",4.4,+/-1.3
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",132,"$2,500 to $2,999","1,549",+/-753,1.9,+/-0.9
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",133,"$3,000 or more",892,+/-480,1.1,+/-0.6
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",134,Median (dollars),"1,097",+/-34,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",134.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",135,No rent paid,"2,657",+/-755,(X),(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",135.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"81,504","+/-3,976","81,504",(X)
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",137,Less than 15.0 percent,"11,536","+/-2,076",14.2,+/-2.5
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",138,15.0 to 19.9 percent,"10,875","+/-2,047",13.3,+/-2.2
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",139,20.0 to 24.9 percent,"10,508","+/-1,956",12.9,+/-2.3
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",140,25.0 to 29.9 percent,"9,386","+/-1,709",11.5,+/-2.0
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",141,30.0 to 34.9 percent,"6,940","+/-1,370",8.5,+/-1.7
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",142,35.0 percent or more,"32,259","+/-3,036",39.6,+/-3.3
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",142.3,,,,,
+DP04,5001800US4901,"Congressional District 1 (118th Congress), Utah",143,Not computed,"4,564","+/-1,081",(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",0.5,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",1,Total housing units,"325,197","+/-5,419","325,197",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",2,Occupied housing units,"293,199","+/-5,356",90.2,+/-0.8
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",3,Vacant housing units,"31,998","+/-2,817",9.8,+/-0.8
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",3.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",4,Homeowner vacancy rate,0.2,+/-0.2,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",5,Rental vacancy rate,7.0,+/-1.9,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",5.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",6,Total housing units,"325,197","+/-5,419","325,197",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",7,"1-unit, detached","218,601","+/-4,697",67.2,+/-1.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",8,"1-unit, attached","17,786","+/-1,998",5.5,+/-0.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",9,2 units,"11,586","+/-1,898",3.6,+/-0.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",10,3 or 4 units,"12,870","+/-2,511",4.0,+/-0.8
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",11,5 to 9 units,"10,550","+/-2,000",3.2,+/-0.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",12,10 to 19 units,"9,240","+/-1,884",2.8,+/-0.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",13,20 or more units,"32,477","+/-3,047",10.0,+/-0.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",14,Mobile home,"11,385","+/-1,544",3.5,+/-0.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",15,"Boat, RV, van, etc.",702,+/-577,0.2,+/-0.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",15.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",16,Total housing units,"325,197","+/-5,419","325,197",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",17,Built 2020 or later,"4,010","+/-1,597",1.2,+/-0.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",18,Built 2010 to 2019,"51,172","+/-3,510",15.7,+/-1.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",19,Built 2000 to 2009,"57,674","+/-4,260",17.7,+/-1.3
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",20,Built 1990 to 1999,"53,538","+/-3,828",16.5,+/-1.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",21,Built 1980 to 1989,"37,768","+/-3,543",11.6,+/-1.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",22,Built 1970 to 1979,"36,467","+/-3,023",11.2,+/-0.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",23,Built 1960 to 1969,"19,201","+/-2,173",5.9,+/-0.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",24,Built 1950 to 1959,"20,559","+/-2,252",6.3,+/-0.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",25,Built 1940 to 1949,"14,391","+/-1,899",4.4,+/-0.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",26,Built 1939 or earlier,"30,417","+/-2,694",9.4,+/-0.8
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",26.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",26.5,ROOMS,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",27,Total housing units,"325,197","+/-5,419","325,197",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",28,1 room,"7,306","+/-1,486",2.2,+/-0.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",29,2 rooms,"9,348","+/-1,754",2.9,+/-0.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",30,3 rooms,"28,902","+/-3,148",8.9,+/-1.0
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",31,4 rooms,"46,732","+/-3,945",14.4,+/-1.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",32,5 rooms,"57,456","+/-4,548",17.7,+/-1.3
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",33,6 rooms,"44,684","+/-3,869",13.7,+/-1.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",34,7 rooms,"37,645","+/-3,675",11.6,+/-1.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",35,8 rooms,"30,714","+/-3,136",9.4,+/-1.0
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",36,9 rooms or more,"62,410","+/-3,916",19.2,+/-1.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",37,Median rooms,5.8,+/-0.1,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",37.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",37.5,BEDROOMS,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",38,Total housing units,"325,197","+/-5,419","325,197",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",39,No bedroom,"7,738","+/-1,539",2.4,+/-0.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",40,1 bedroom,"30,946","+/-3,085",9.5,+/-0.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",41,2 bedrooms,"68,069","+/-4,571",20.9,+/-1.3
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",42,3 bedrooms,"104,489","+/-4,670",32.1,+/-1.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",43,4 bedrooms,"68,727","+/-4,008",21.1,+/-1.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",44,5 or more bedrooms,"45,228","+/-3,766",13.9,+/-1.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",44.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",44.5,HOUSING TENURE,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",45,Occupied housing units,"293,199","+/-5,356","293,199",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",46,Owner-occupied,"197,557","+/-4,837",67.4,+/-1.3
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",47,Renter-occupied,"95,642","+/-4,317",32.6,+/-1.3
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",47.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",48,Average household size of owner-occupied unit,2.98,+/-0.05,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",49,Average household size of renter-occupied unit,2.46,+/-0.09,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",49.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",50,Occupied housing units,"293,199","+/-5,356","293,199",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",51,Moved in 2019 or later,"98,423","+/-4,939",33.6,+/-1.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",52,Moved in 2015 to 2018,"68,266","+/-4,707",23.3,+/-1.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",53,Moved in 2010 to 2014,"38,312","+/-3,568",13.1,+/-1.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",54,Moved in 2000 to 2009,"43,759","+/-3,355",14.9,+/-1.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",55,Moved in 1990 to 1999,"23,448","+/-2,654",8.0,+/-0.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",56,Moved in 1989 and earlier,"20,991","+/-2,232",7.2,+/-0.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",56.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",57,Occupied housing units,"293,199","+/-5,356","293,199",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",58,No vehicles available,"12,567","+/-2,017",4.3,+/-0.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",59,1 vehicle available,"81,518","+/-5,161",27.8,+/-1.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",60,2 vehicles available,"106,339","+/-4,697",36.3,+/-1.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",61,3 or more vehicles available,"92,775","+/-4,693",31.6,+/-1.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",61.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",62,Occupied housing units,"293,199","+/-5,356","293,199",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",63,Utility gas,"203,823","+/-5,567",69.5,+/-1.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",64,"Bottled, tank, or LP gas","7,446","+/-1,502",2.5,+/-0.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",65,Electricity,"74,079","+/-4,449",25.3,+/-1.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",66,"Fuel oil, kerosene, etc.","1,300",+/-704,0.4,+/-0.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",67,Coal or coke,597,+/-333,0.2,+/-0.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",68,Wood,"2,180",+/-680,0.7,+/-0.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",69,Solar energy,"1,257",+/-587,0.4,+/-0.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",70,Other fuel,"1,196",+/-616,0.4,+/-0.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",71,No fuel used,"1,321",+/-707,0.5,+/-0.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",71.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",72,Occupied housing units,"293,199","+/-5,356","293,199",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",73,Lacking complete plumbing facilities,"1,042",+/-765,0.4,+/-0.3
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",74,Lacking complete kitchen facilities,"1,837",+/-795,0.6,+/-0.3
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",75,No telephone service available,"1,742",+/-827,0.6,+/-0.3
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",75.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",76,Occupied housing units,"293,199","+/-5,356","293,199",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",77,1.00 or less,"281,539","+/-5,498",96.0,+/-0.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",78,1.01 to 1.50,"7,047","+/-1,656",2.4,+/-0.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",79,1.51 or more,"4,613","+/-1,372",1.6,+/-0.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",79.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",79.5,VALUE,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",80,Owner-occupied units,"197,557","+/-4,837","197,557",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",81,"Less than $50,000","9,891","+/-1,520",5.0,+/-0.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",82,"$50,000 to $99,999","3,170",+/-848,1.6,+/-0.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",83,"$100,000 to $149,999","3,450","+/-1,038",1.7,+/-0.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",84,"$150,000 to $199,999","8,832","+/-1,372",4.5,+/-0.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",85,"$200,000 to $299,999","29,670","+/-3,180",15.0,+/-1.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",86,"$300,000 to $499,999","88,035","+/-4,324",44.6,+/-1.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",87,"$500,000 to $999,999","47,361","+/-2,897",24.0,+/-1.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",88,"$1,000,000 or more","7,148","+/-1,171",3.6,+/-0.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",89,Median (dollars),"385,200","+/-6,995",(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",89.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",90,Owner-occupied units,"197,557","+/-4,837","197,557",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",91,Housing units with a mortgage,"131,472","+/-5,005",66.5,+/-1.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",92,Housing units without a mortgage,"66,085","+/-4,095",33.5,+/-1.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",92.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",93,Housing units with a mortgage,"131,472","+/-5,005","131,472",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",94,Less than $500,"2,220",+/-762,1.7,+/-0.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",95,$500 to $999,"14,779","+/-2,245",11.2,+/-1.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",96,"$1,000 to $1,499","40,937","+/-3,353",31.1,+/-2.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",97,"$1,500 to $1,999","41,291","+/-3,311",31.4,+/-2.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",98,"$2,000 to $2,499","18,715","+/-2,437",14.2,+/-1.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",99,"$2,500 to $2,999","7,976","+/-1,367",6.1,+/-1.0
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",100,"$3,000 or more","5,554","+/-1,193",4.2,+/-0.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",101,Median (dollars),"1,586",+/-29,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",101.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",102,Housing units without a mortgage,"66,085","+/-4,095","66,085",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",103,Less than $250,"5,153","+/-1,057",7.8,+/-1.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",104,$250 to $399,"21,846","+/-2,326",33.1,+/-2.8
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",105,$400 to $599,"22,592","+/-1,904",34.2,+/-2.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",106,$600 to $799,"10,346","+/-1,653",15.7,+/-2.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",107,$800 to $999,"3,773","+/-1,059",5.7,+/-1.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",108,"$1,000 or more","2,375",+/-720,3.6,+/-1.0
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",109,Median (dollars),444,+/-11,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",109.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"130,696","+/-5,006","130,696",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",111,Less than 20.0 percent,"62,471","+/-3,898",47.8,+/-2.3
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",112,20.0 to 24.9 percent,"22,634","+/-2,249",17.3,+/-1.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",113,25.0 to 29.9 percent,"13,094","+/-1,905",10.0,+/-1.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",114,30.0 to 34.9 percent,"8,672","+/-1,634",6.6,+/-1.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",115,35.0 percent or more,"23,825","+/-2,551",18.2,+/-1.8
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",115.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",116,Not computed,776,+/-916,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",116.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"65,079","+/-4,061","65,079",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",118,Less than 10.0 percent,"36,539","+/-2,838",56.1,+/-3.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",119,10.0 to 14.9 percent,"11,721","+/-1,736",18.0,+/-2.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",120,15.0 to 19.9 percent,"5,647","+/-1,457",8.7,+/-2.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",121,20.0 to 24.9 percent,"2,699","+/-1,026",4.1,+/-1.5
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",122,25.0 to 29.9 percent,"2,493","+/-1,146",3.8,+/-1.8
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",123,30.0 to 34.9 percent,939,+/-462,1.4,+/-0.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",124,35.0 percent or more,"5,041","+/-1,212",7.7,+/-1.8
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",124.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",125,Not computed,"1,006",+/-550,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",125.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",125.5,GROSS RENT,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",126,Occupied units paying rent,"91,895","+/-4,147","91,895",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",127,Less than $500,"5,612","+/-1,369",6.1,+/-1.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",128,$500 to $999,"26,097","+/-3,114",28.4,+/-3.2
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",129,"$1,000 to $1,499","34,879","+/-3,842",38.0,+/-3.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",130,"$1,500 to $1,999","18,266","+/-2,528",19.9,+/-2.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",131,"$2,000 to $2,499","4,535","+/-1,268",4.9,+/-1.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",132,"$2,500 to $2,999","1,432",+/-849,1.6,+/-0.9
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",133,"$3,000 or more","1,074",+/-612,1.2,+/-0.7
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",134,Median (dollars),"1,191",+/-39,(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",134.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",135,No rent paid,"3,747","+/-1,225",(X),(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",135.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"90,110","+/-4,102","90,110",(X)
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",137,Less than 15.0 percent,"11,370","+/-1,978",12.6,+/-2.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",138,15.0 to 19.9 percent,"9,582","+/-2,007",10.6,+/-2.1
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",139,20.0 to 24.9 percent,"12,327","+/-2,200",13.7,+/-2.4
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",140,25.0 to 29.9 percent,"11,626","+/-2,594",12.9,+/-2.8
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",141,30.0 to 34.9 percent,"10,283","+/-1,885",11.4,+/-2.0
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",142,35.0 percent or more,"34,922","+/-3,587",38.8,+/-3.6
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",142.3,,,,,
+DP04,5001800US4902,"Congressional District 2 (118th Congress), Utah",143,Not computed,"5,532","+/-1,534",(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",0.5,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",1,Total housing units,"300,207","+/-4,338","300,207",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",2,Occupied housing units,"272,673","+/-4,057",90.8,+/-0.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",3,Vacant housing units,"27,534","+/-2,273",9.2,+/-0.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",3.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",5,Rental vacancy rate,4.7,+/-1.1,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",5.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",6,Total housing units,"300,207","+/-4,338","300,207",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",7,"1-unit, detached","190,053","+/-4,560",63.3,+/-1.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",8,"1-unit, attached","27,578","+/-2,654",9.2,+/-0.9
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",9,2 units,"8,486","+/-1,365",2.8,+/-0.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",10,3 or 4 units,"14,349","+/-2,341",4.8,+/-0.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",11,5 to 9 units,"10,821","+/-1,794",3.6,+/-0.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",12,10 to 19 units,"13,595","+/-2,118",4.5,+/-0.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",13,20 or more units,"24,094","+/-2,665",8.0,+/-0.9
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",14,Mobile home,"10,982","+/-1,359",3.7,+/-0.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",15,"Boat, RV, van, etc.",249,+/-252,0.1,+/-0.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",15.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",16,Total housing units,"300,207","+/-4,338","300,207",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",17,Built 2020 or later,"2,556",+/-780,0.9,+/-0.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",18,Built 2010 to 2019,"40,837","+/-3,207",13.6,+/-1.0
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",19,Built 2000 to 2009,"50,494","+/-2,995",16.8,+/-1.0
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",20,Built 1990 to 1999,"47,251","+/-3,182",15.7,+/-1.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",21,Built 1980 to 1989,"40,914","+/-3,420",13.6,+/-1.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",22,Built 1970 to 1979,"59,887","+/-3,576",19.9,+/-1.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",23,Built 1960 to 1969,"20,776","+/-1,967",6.9,+/-0.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",24,Built 1950 to 1959,"19,790","+/-1,973",6.6,+/-0.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",25,Built 1940 to 1949,"7,285","+/-1,342",2.4,+/-0.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",26,Built 1939 or earlier,"10,417","+/-1,310",3.5,+/-0.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",26.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",26.5,ROOMS,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",27,Total housing units,"300,207","+/-4,338","300,207",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",28,1 room,"6,644","+/-1,559",2.2,+/-0.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",29,2 rooms,"8,822","+/-1,708",2.9,+/-0.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",30,3 rooms,"21,158","+/-2,037",7.0,+/-0.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",31,4 rooms,"39,405","+/-3,125",13.1,+/-1.0
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",32,5 rooms,"39,081","+/-3,376",13.0,+/-1.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",33,6 rooms,"35,539","+/-2,952",11.8,+/-1.0
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",34,7 rooms,"31,469","+/-2,828",10.5,+/-0.9
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",35,8 rooms,"29,812","+/-2,845",9.9,+/-0.9
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",36,9 rooms or more,"88,277","+/-3,311",29.4,+/-1.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",37,Median rooms,6.5,+/-0.1,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",37.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",37.5,BEDROOMS,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",38,Total housing units,"300,207","+/-4,338","300,207",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",39,No bedroom,"7,198","+/-1,588",2.4,+/-0.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",40,1 bedroom,"20,538","+/-2,657",6.8,+/-0.9
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",41,2 bedrooms,"54,171","+/-3,585",18.0,+/-1.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",42,3 bedrooms,"82,521","+/-4,363",27.5,+/-1.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",43,4 bedrooms,"66,659","+/-3,659",22.2,+/-1.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",44,5 or more bedrooms,"69,120","+/-3,295",23.0,+/-1.0
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",44.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",44.5,HOUSING TENURE,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",45,Occupied housing units,"272,673","+/-4,057","272,673",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",46,Owner-occupied,"181,585","+/-4,163",66.6,+/-1.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",47,Renter-occupied,"91,088","+/-4,275",33.4,+/-1.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",47.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",48,Average household size of owner-occupied unit,3.18,+/-0.06,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",49,Average household size of renter-occupied unit,2.57,+/-0.09,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",49.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",50,Occupied housing units,"272,673","+/-4,057","272,673",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",51,Moved in 2019 or later,"89,881","+/-4,281",33.0,+/-1.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",52,Moved in 2015 to 2018,"61,197","+/-3,821",22.4,+/-1.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",53,Moved in 2010 to 2014,"32,879","+/-2,506",12.1,+/-1.0
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",54,Moved in 2000 to 2009,"40,816","+/-2,864",15.0,+/-1.0
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",55,Moved in 1990 to 1999,"23,703","+/-2,226",8.7,+/-0.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",56,Moved in 1989 and earlier,"24,197","+/-2,222",8.9,+/-0.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",56.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",57,Occupied housing units,"272,673","+/-4,057","272,673",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",58,No vehicles available,"9,527","+/-1,657",3.5,+/-0.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",59,1 vehicle available,"62,541","+/-3,928",22.9,+/-1.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",60,2 vehicles available,"110,909","+/-4,845",40.7,+/-1.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",61,3 or more vehicles available,"89,696","+/-3,905",32.9,+/-1.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",61.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",62,Occupied housing units,"272,673","+/-4,057","272,673",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",63,Utility gas,"209,742","+/-4,333",76.9,+/-1.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",64,"Bottled, tank, or LP gas","8,379","+/-1,442",3.1,+/-0.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",65,Electricity,"47,051","+/-3,452",17.3,+/-1.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",66,"Fuel oil, kerosene, etc.",241,+/-189,0.1,+/-0.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",67,Coal or coke,303,+/-217,0.1,+/-0.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",68,Wood,"4,128",+/-918,1.5,+/-0.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",69,Solar energy,850,+/-320,0.3,+/-0.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",70,Other fuel,"1,083",+/-564,0.4,+/-0.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",71,No fuel used,896,+/-497,0.3,+/-0.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",71.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",72,Occupied housing units,"272,673","+/-4,057","272,673",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",73,Lacking complete plumbing facilities,"1,343",+/-559,0.5,+/-0.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",74,Lacking complete kitchen facilities,"1,535",+/-705,0.6,+/-0.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",75,No telephone service available,"1,694",+/-743,0.6,+/-0.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",75.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",76,Occupied housing units,"272,673","+/-4,057","272,673",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",77,1.00 or less,"263,104","+/-4,711",96.5,+/-0.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",78,1.01 to 1.50,"7,374","+/-1,922",2.7,+/-0.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",79,1.51 or more,"2,195",+/-794,0.8,+/-0.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",79.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",79.5,VALUE,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",80,Owner-occupied units,"181,585","+/-4,163","181,585",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",81,"Less than $50,000","7,425","+/-1,476",4.1,+/-0.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",82,"$50,000 to $99,999","2,884",+/-756,1.6,+/-0.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",83,"$100,000 to $149,999","4,077",+/-920,2.2,+/-0.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",84,"$150,000 to $199,999","6,197","+/-1,070",3.4,+/-0.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",85,"$200,000 to $299,999","17,654","+/-1,537",9.7,+/-0.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",86,"$300,000 to $499,999","61,952","+/-3,573",34.1,+/-1.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",87,"$500,000 to $999,999","66,418","+/-3,030",36.6,+/-1.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",88,"$1,000,000 or more","14,978","+/-1,800",8.2,+/-1.0
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",89,Median (dollars),"470,100","+/-8,811",(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",89.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",90,Owner-occupied units,"181,585","+/-4,163","181,585",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",91,Housing units with a mortgage,"118,958","+/-4,354",65.5,+/-1.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",92,Housing units without a mortgage,"62,627","+/-2,913",34.5,+/-1.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",92.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",93,Housing units with a mortgage,"118,958","+/-4,354","118,958",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",94,Less than $500,"1,825",+/-657,1.5,+/-0.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",95,$500 to $999,"9,580","+/-1,639",8.1,+/-1.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",96,"$1,000 to $1,499","28,561","+/-2,830",24.0,+/-2.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",97,"$1,500 to $1,999","33,850","+/-2,690",28.5,+/-2.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",98,"$2,000 to $2,499","19,895","+/-1,859",16.7,+/-1.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",99,"$2,500 to $2,999","11,760","+/-1,392",9.9,+/-1.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",100,"$3,000 or more","13,487","+/-1,622",11.3,+/-1.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",101,Median (dollars),"1,764",+/-38,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",101.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",102,Housing units without a mortgage,"62,627","+/-2,913","62,627",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",103,Less than $250,"4,505",+/-973,7.2,+/-1.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",104,$250 to $399,"13,334","+/-1,621",21.3,+/-2.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",105,$400 to $599,"21,053","+/-1,830",33.6,+/-2.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",106,$600 to $799,"13,563","+/-2,022",21.7,+/-2.9
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",107,$800 to $999,"4,802","+/-1,190",7.7,+/-1.9
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",108,"$1,000 or more","5,370","+/-1,044",8.6,+/-1.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",109,Median (dollars),522,+/-18,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",109.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"118,537","+/-4,278","118,537",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",111,Less than 20.0 percent,"61,431","+/-3,484",51.8,+/-2.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",112,20.0 to 24.9 percent,"18,454","+/-2,193",15.6,+/-1.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",113,25.0 to 29.9 percent,"11,620","+/-1,476",9.8,+/-1.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",114,30.0 to 34.9 percent,"5,829","+/-1,062",4.9,+/-0.9
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",115,35.0 percent or more,"21,203","+/-2,242",17.9,+/-1.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",115.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",116,Not computed,421,+/-237,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",116.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"61,735","+/-2,960","61,735",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",118,Less than 10.0 percent,"37,938","+/-2,441",61.5,+/-2.6
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",119,10.0 to 14.9 percent,"10,351","+/-1,264",16.8,+/-1.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",120,15.0 to 19.9 percent,"4,163",+/-799,6.7,+/-1.3
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",121,20.0 to 24.9 percent,"2,314",+/-685,3.7,+/-1.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",122,25.0 to 29.9 percent,"1,386",+/-472,2.2,+/-0.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",123,30.0 to 34.9 percent,"1,393",+/-510,2.3,+/-0.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",124,35.0 percent or more,"4,190","+/-1,084",6.8,+/-1.7
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",124.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",125,Not computed,892,+/-433,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",125.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",125.5,GROSS RENT,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",126,Occupied units paying rent,"87,146","+/-4,388","87,146",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",127,Less than $500,"3,813","+/-1,023",4.4,+/-1.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",128,$500 to $999,"26,245","+/-2,935",30.1,+/-3.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",129,"$1,000 to $1,499","31,037","+/-3,217",35.6,+/-3.2
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",130,"$1,500 to $1,999","18,058","+/-2,712",20.7,+/-2.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",131,"$2,000 to $2,499","5,061","+/-1,322",5.8,+/-1.4
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",132,"$2,500 to $2,999","1,172",+/-653,1.3,+/-0.8
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",133,"$3,000 or more","1,760",+/-746,2.0,+/-0.9
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",134,Median (dollars),"1,216",+/-46,(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",134.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",135,No rent paid,"3,942","+/-1,057",(X),(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",135.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"86,132","+/-4,246","86,132",(X)
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",137,Less than 15.0 percent,"12,862","+/-1,899",14.9,+/-2.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",138,15.0 to 19.9 percent,"11,941","+/-2,232",13.9,+/-2.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",139,20.0 to 24.9 percent,"10,461","+/-1,876",12.1,+/-2.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",140,25.0 to 29.9 percent,"10,079","+/-2,158",11.7,+/-2.5
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",141,30.0 to 34.9 percent,"9,060","+/-1,901",10.5,+/-2.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",142,35.0 percent or more,"31,729","+/-3,240",36.8,+/-3.1
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",142.3,,,,,
+DP04,5001800US4903,"Congressional District 3 (118th Congress), Utah",143,Not computed,"4,956","+/-1,075",(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",0.5,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",1,Total housing units,"262,370","+/-5,059","262,370",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",2,Occupied housing units,"253,897","+/-5,421",96.8,+/-0.9
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",3,Vacant housing units,"8,473","+/-2,352",3.2,+/-0.9
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",3.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",4,Homeowner vacancy rate,0.4,+/-0.3,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",5,Rental vacancy rate,3.5,+/-2.3,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",5.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",6,Total housing units,"262,370","+/-5,059","262,370",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",7,"1-unit, detached","185,194","+/-4,727",70.6,+/-1.8
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",8,"1-unit, attached","27,854","+/-3,079",10.6,+/-1.1
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",9,2 units,"3,098",+/-886,1.2,+/-0.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",10,3 or 4 units,"4,731","+/-1,735",1.8,+/-0.7
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",11,5 to 9 units,"7,035","+/-1,954",2.7,+/-0.7
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",12,10 to 19 units,"14,145","+/-2,693",5.4,+/-1.0
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",13,20 or more units,"15,774","+/-2,799",6.0,+/-1.0
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",14,Mobile home,"4,539","+/-1,106",1.7,+/-0.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",15,"Boat, RV, van, etc.",0,+/-206,0.0,+/-0.1
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",15.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",16,Total housing units,"262,370","+/-5,059","262,370",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",17,Built 2020 or later,"3,872",+/-873,1.5,+/-0.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",18,Built 2010 to 2019,"65,007","+/-4,462",24.8,+/-1.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",19,Built 2000 to 2009,"62,459","+/-4,203",23.8,+/-1.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",20,Built 1990 to 1999,"39,658","+/-3,634",15.1,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",21,Built 1980 to 1989,"26,896","+/-2,058",10.3,+/-0.8
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",22,Built 1970 to 1979,"32,838","+/-2,850",12.5,+/-1.1
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",23,Built 1960 to 1969,"12,141","+/-1,535",4.6,+/-0.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",24,Built 1950 to 1959,"9,244","+/-1,402",3.5,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",25,Built 1940 to 1949,"3,111",+/-851,1.2,+/-0.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",26,Built 1939 or earlier,"7,144",+/-947,2.7,+/-0.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",26.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",26.5,ROOMS,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",27,Total housing units,"262,370","+/-5,059","262,370",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",28,1 room,"3,367","+/-1,241",1.3,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",29,2 rooms,"3,854",+/-980,1.5,+/-0.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",30,3 rooms,"11,306","+/-1,872",4.3,+/-0.7
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",31,4 rooms,"30,083","+/-4,040",11.5,+/-1.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",32,5 rooms,"30,666","+/-3,519",11.7,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",33,6 rooms,"35,443","+/-3,352",13.5,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",34,7 rooms,"33,483","+/-3,754",12.8,+/-1.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",35,8 rooms,"32,992","+/-2,550",12.6,+/-0.9
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",36,9 rooms or more,"81,176","+/-3,889",30.9,+/-1.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",37,Median rooms,7.0,+/-0.1,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",37.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",37.5,BEDROOMS,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",38,Total housing units,"262,370","+/-5,059","262,370",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",39,No bedroom,"3,367","+/-1,241",1.3,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",40,1 bedroom,"11,464","+/-1,603",4.4,+/-0.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",41,2 bedrooms,"39,732","+/-3,637",15.1,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",42,3 bedrooms,"75,960","+/-4,151",29.0,+/-1.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",43,4 bedrooms,"61,336","+/-3,522",23.4,+/-1.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",44,5 or more bedrooms,"70,511","+/-3,604",26.9,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",44.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",44.5,HOUSING TENURE,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",45,Occupied housing units,"253,897","+/-5,421","253,897",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",46,Owner-occupied,"193,258","+/-5,210",76.1,+/-1.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",47,Renter-occupied,"60,639","+/-4,406",23.9,+/-1.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",47.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",48,Average household size of owner-occupied unit,3.47,+/-0.06,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",49,Average household size of renter-occupied unit,2.66,+/-0.12,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",49.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",50,Occupied housing units,"253,897","+/-5,421","253,897",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",51,Moved in 2019 or later,"76,866","+/-5,202",30.3,+/-1.9
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",52,Moved in 2015 to 2018,"67,242","+/-5,207",26.5,+/-1.9
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",53,Moved in 2010 to 2014,"33,649","+/-3,218",13.3,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",54,Moved in 2000 to 2009,"40,695","+/-3,612",16.0,+/-1.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",55,Moved in 1990 to 1999,"20,456","+/-1,984",8.1,+/-0.8
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",56,Moved in 1989 and earlier,"14,989","+/-1,423",5.9,+/-0.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",56.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",57,Occupied housing units,"253,897","+/-5,421","253,897",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",58,No vehicles available,"6,785","+/-1,402",2.7,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",59,1 vehicle available,"55,374","+/-4,585",21.8,+/-1.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",60,2 vehicles available,"107,129","+/-5,407",42.2,+/-2.0
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",61,3 or more vehicles available,"84,609","+/-4,428",33.3,+/-1.8
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",61.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",62,Occupied housing units,"253,897","+/-5,421","253,897",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",63,Utility gas,"210,618","+/-4,992",83.0,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",64,"Bottled, tank, or LP gas","5,053","+/-1,159",2.0,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",65,Electricity,"35,297","+/-3,239",13.9,+/-1.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",66,"Fuel oil, kerosene, etc.",187,+/-290,0.1,+/-0.1
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",67,Coal or coke,7,+/-13,0.0,+/-0.1
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",68,Wood,"1,174",+/-483,0.5,+/-0.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",69,Solar energy,906,+/-522,0.4,+/-0.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",70,Other fuel,449,+/-407,0.2,+/-0.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",71,No fuel used,206,+/-183,0.1,+/-0.1
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",71.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",72,Occupied housing units,"253,897","+/-5,421","253,897",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",73,Lacking complete plumbing facilities,699,+/-466,0.3,+/-0.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",74,Lacking complete kitchen facilities,"1,352",+/-626,0.5,+/-0.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",75,No telephone service available,"1,684","+/-1,176",0.7,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",75.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",76,Occupied housing units,"253,897","+/-5,421","253,897",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",77,1.00 or less,"246,353","+/-5,547",97.0,+/-0.7
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",78,1.01 to 1.50,"5,404","+/-1,458",2.1,+/-0.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",79,1.51 or more,"2,140","+/-1,057",0.8,+/-0.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",79.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",79.5,VALUE,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",80,Owner-occupied units,"193,258","+/-5,210","193,258",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",81,"Less than $50,000","5,471","+/-1,169",2.8,+/-0.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",82,"$50,000 to $99,999","2,168",+/-760,1.1,+/-0.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",83,"$100,000 to $149,999","1,447",+/-533,0.7,+/-0.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",84,"$150,000 to $199,999","3,522",+/-896,1.8,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",85,"$200,000 to $299,999","21,084","+/-2,564",10.9,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",86,"$300,000 to $499,999","87,701","+/-4,441",45.4,+/-1.8
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",87,"$500,000 to $999,999","67,264","+/-3,974",34.8,+/-1.9
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",88,"$1,000,000 or more","4,601",+/-959,2.4,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",89,Median (dollars),"443,600","+/-7,015",(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",89.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",90,Owner-occupied units,"193,258","+/-5,210","193,258",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",91,Housing units with a mortgage,"147,906","+/-5,448",76.5,+/-1.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",92,Housing units without a mortgage,"45,352","+/-3,233",23.5,+/-1.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",92.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",93,Housing units with a mortgage,"147,906","+/-5,448","147,906",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",94,Less than $500,"1,514",+/-698,1.0,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",95,$500 to $999,"9,043","+/-1,847",6.1,+/-1.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",96,"$1,000 to $1,499","40,324","+/-3,740",27.3,+/-2.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",97,"$1,500 to $1,999","45,929","+/-3,519",31.1,+/-2.0
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",98,"$2,000 to $2,499","29,384","+/-3,216",19.9,+/-2.1
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",99,"$2,500 to $2,999","13,144","+/-2,230",8.9,+/-1.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",100,"$3,000 or more","8,568","+/-1,489",5.8,+/-1.0
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",101,Median (dollars),"1,727",+/-36,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",101.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",102,Housing units without a mortgage,"45,352","+/-3,233","45,352",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",103,Less than $250,"2,565",+/-823,5.7,+/-1.8
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",104,$250 to $399,"11,431","+/-1,494",25.2,+/-2.7
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",105,$400 to $599,"19,068","+/-1,857",42.0,+/-3.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",106,$600 to $799,"8,223","+/-1,694",18.1,+/-3.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",107,$800 to $999,"2,547",+/-775,5.6,+/-1.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",108,"$1,000 or more","1,518",+/-593,3.3,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",109,Median (dollars),482,+/-15,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",109.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"147,746","+/-5,454","147,746",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",111,Less than 20.0 percent,"69,910","+/-3,723",47.3,+/-2.0
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",112,20.0 to 24.9 percent,"24,927","+/-2,841",16.9,+/-1.8
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",113,25.0 to 29.9 percent,"17,108","+/-2,539",11.6,+/-1.7
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",114,30.0 to 34.9 percent,"10,358","+/-1,609",7.0,+/-1.0
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",115,35.0 percent or more,"25,443","+/-2,983",17.2,+/-1.9
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",115.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",116,Not computed,160,+/-130,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",116.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"44,982","+/-3,221","44,982",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",118,Less than 10.0 percent,"29,118","+/-2,643",64.7,+/-3.2
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",119,10.0 to 14.9 percent,"6,852","+/-1,250",15.2,+/-2.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",120,15.0 to 19.9 percent,"2,409",+/-722,5.4,+/-1.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",121,20.0 to 24.9 percent,"2,042",+/-647,4.5,+/-1.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",122,25.0 to 29.9 percent,621,+/-288,1.4,+/-0.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",123,30.0 to 34.9 percent,998,+/-400,2.2,+/-0.9
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",124,35.0 percent or more,"2,942",+/-772,6.5,+/-1.7
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",124.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",125,Not computed,370,+/-264,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",125.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",125.5,GROSS RENT,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",126,Occupied units paying rent,"57,086","+/-4,730","57,086",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",127,Less than $500,"1,000",+/-414,1.8,+/-0.7
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",128,$500 to $999,"8,811","+/-1,637",15.4,+/-2.8
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",129,"$1,000 to $1,499","24,056","+/-3,238",42.1,+/-4.1
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",130,"$1,500 to $1,999","16,758","+/-2,422",29.4,+/-3.6
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",131,"$2,000 to $2,499","4,822","+/-1,651",8.4,+/-2.8
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",132,"$2,500 to $2,999","1,355",+/-748,2.4,+/-1.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",133,"$3,000 or more",284,+/-304,0.5,+/-0.5
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",134,Median (dollars),"1,384",+/-47,(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",134.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",135,No rent paid,"3,553","+/-1,368",(X),(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",135.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"55,717","+/-4,673","55,717",(X)
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",137,Less than 15.0 percent,"5,129","+/-1,385",9.2,+/-2.4
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",138,15.0 to 19.9 percent,"8,106","+/-2,176",14.5,+/-3.7
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",139,20.0 to 24.9 percent,"8,375","+/-1,887",15.0,+/-3.0
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",140,25.0 to 29.9 percent,"8,246","+/-1,807",14.8,+/-3.3
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",141,30.0 to 34.9 percent,"5,523","+/-1,229",9.9,+/-2.1
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",142,35.0 percent or more,"20,338","+/-2,884",36.5,+/-3.9
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",142.3,,,,,
+DP04,5001800US4904,"Congressional District 4 (118th Congress), Utah",143,Not computed,"4,922","+/-1,535",(X),(X)

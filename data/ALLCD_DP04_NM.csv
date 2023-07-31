@@ -1,0 +1,559 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",0.5,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",1,Total housing units,"332,215","+/-5,043","332,215",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",2,Occupied housing units,"305,498","+/-4,879",92.0,+/-0.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",3,Vacant housing units,"26,717","+/-2,763",8.0,+/-0.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",3.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",5,Rental vacancy rate,4.8,+/-1.4,(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",5.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",6,Total housing units,"332,215","+/-5,043","332,215",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",7,"1-unit, detached","210,417","+/-5,032",63.3,+/-1.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",8,"1-unit, attached","18,371","+/-2,162",5.5,+/-0.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",9,2 units,"2,601","+/-1,107",0.8,+/-0.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",10,3 or 4 units,"16,995","+/-2,233",5.1,+/-0.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",11,5 to 9 units,"13,288","+/-2,753",4.0,+/-0.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",12,10 to 19 units,"13,105","+/-1,999",3.9,+/-0.6
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",13,20 or more units,"29,452","+/-2,741",8.9,+/-0.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",14,Mobile home,"27,644","+/-3,583",8.3,+/-1.0
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",15,"Boat, RV, van, etc.",342,+/-264,0.1,+/-0.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",15.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",16,Total housing units,"332,215","+/-5,043","332,215",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",17,Built 2020 or later,"1,876","+/-1,035",0.6,+/-0.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",18,Built 2010 to 2019,"22,702","+/-2,464",6.8,+/-0.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",19,Built 2000 to 2009,"56,936","+/-3,478",17.1,+/-1.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",20,Built 1990 to 1999,"50,107","+/-3,653",15.1,+/-1.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",21,Built 1980 to 1989,"59,842","+/-4,733",18.0,+/-1.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",22,Built 1970 to 1979,"60,065","+/-4,305",18.1,+/-1.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",23,Built 1960 to 1969,"28,109","+/-2,908",8.5,+/-0.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",24,Built 1950 to 1959,"30,833","+/-3,013",9.3,+/-0.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",25,Built 1940 to 1949,"11,146","+/-1,756",3.4,+/-0.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",26,Built 1939 or earlier,"10,599","+/-1,646",3.2,+/-0.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",26.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",26.5,ROOMS,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",27,Total housing units,"332,215","+/-5,043","332,215",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",28,1 room,"10,150","+/-2,211",3.1,+/-0.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",29,2 rooms,"10,697","+/-2,301",3.2,+/-0.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",30,3 rooms,"31,880","+/-2,715",9.6,+/-0.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",31,4 rooms,"47,851","+/-3,790",14.4,+/-1.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",32,5 rooms,"60,431","+/-4,143",18.2,+/-1.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",33,6 rooms,"64,797","+/-4,201",19.5,+/-1.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",34,7 rooms,"43,531","+/-3,714",13.1,+/-1.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",35,8 rooms,"29,160","+/-3,175",8.8,+/-0.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",36,9 rooms or more,"33,718","+/-3,372",10.1,+/-1.0
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",37,Median rooms,5.6,+/-0.1,(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",37.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",37.5,BEDROOMS,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",38,Total housing units,"332,215","+/-5,043","332,215",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",39,No bedroom,"10,891","+/-2,282",3.3,+/-0.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",40,1 bedroom,"36,307","+/-3,679",10.9,+/-1.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",41,2 bedrooms,"76,250","+/-4,369",23.0,+/-1.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",42,3 bedrooms,"144,394","+/-5,623",43.5,+/-1.6
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",43,4 bedrooms,"54,916","+/-4,096",16.5,+/-1.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",44,5 or more bedrooms,"9,457","+/-1,581",2.8,+/-0.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",44.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",44.5,HOUSING TENURE,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",45,Occupied housing units,"305,498","+/-4,879","305,498",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",46,Owner-occupied,"203,295","+/-5,030",66.5,+/-1.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",47,Renter-occupied,"102,203","+/-4,437",33.5,+/-1.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",47.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",48,Average household size of owner-occupied unit,2.40,+/-0.05,(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",49,Average household size of renter-occupied unit,2.10,+/-0.09,(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",49.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",50,Occupied housing units,"305,498","+/-4,879","305,498",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",51,Moved in 2019 or later,"87,227","+/-5,432",28.6,+/-1.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",52,Moved in 2015 to 2018,"70,506","+/-4,638",23.1,+/-1.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",53,Moved in 2010 to 2014,"36,669","+/-3,537",12.0,+/-1.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",54,Moved in 2000 to 2009,"55,616","+/-4,056",18.2,+/-1.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",55,Moved in 1990 to 1999,"31,169","+/-2,630",10.2,+/-0.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",56,Moved in 1989 and earlier,"24,311","+/-2,091",8.0,+/-0.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",56.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",57,Occupied housing units,"305,498","+/-4,879","305,498",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",58,No vehicles available,"19,384","+/-2,339",6.3,+/-0.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",59,1 vehicle available,"106,637","+/-5,127",34.9,+/-1.6
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",60,2 vehicles available,"109,285","+/-5,546",35.8,+/-1.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",61,3 or more vehicles available,"70,192","+/-4,441",23.0,+/-1.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",61.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",62,Occupied housing units,"305,498","+/-4,879","305,498",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",63,Utility gas,"214,517","+/-5,589",70.2,+/-1.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",64,"Bottled, tank, or LP gas","16,081","+/-2,029",5.3,+/-0.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",65,Electricity,"60,881","+/-3,718",19.9,+/-1.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",66,"Fuel oil, kerosene, etc.",679,+/-489,0.2,+/-0.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",67,Coal or coke,114,+/-169,0.0,+/-0.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",68,Wood,"6,698","+/-1,388",2.2,+/-0.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",69,Solar energy,"2,142",+/-860,0.7,+/-0.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",70,Other fuel,"2,450",+/-942,0.8,+/-0.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",71,No fuel used,"1,936",+/-892,0.6,+/-0.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",71.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",72,Occupied housing units,"305,498","+/-4,879","305,498",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",73,Lacking complete plumbing facilities,"1,370",+/-748,0.4,+/-0.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",74,Lacking complete kitchen facilities,"2,577","+/-1,083",0.8,+/-0.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",75,No telephone service available,"2,568","+/-1,083",0.8,+/-0.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",75.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",76,Occupied housing units,"305,498","+/-4,879","305,498",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",77,1.00 or less,"299,090","+/-5,478",97.9,+/-0.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",78,1.01 to 1.50,"3,922","+/-1,180",1.3,+/-0.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",79,1.51 or more,"2,486",+/-930,0.8,+/-0.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",79.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",79.5,VALUE,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",80,Owner-occupied units,"203,295","+/-5,030","203,295",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",81,"Less than $50,000","11,099","+/-1,858",5.5,+/-0.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",82,"$50,000 to $99,999","8,215","+/-1,804",4.0,+/-0.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",83,"$100,000 to $149,999","15,899","+/-2,560",7.8,+/-1.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",84,"$150,000 to $199,999","27,294","+/-2,469",13.4,+/-1.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",85,"$200,000 to $299,999","60,435","+/-4,653",29.7,+/-2.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",86,"$300,000 to $499,999","55,314","+/-3,881",27.2,+/-1.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",87,"$500,000 to $999,999","22,213","+/-2,402",10.9,+/-1.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",88,"$1,000,000 or more","2,826",+/-912,1.4,+/-0.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",89,Median (dollars),"263,800","+/-4,990",(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",89.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",90,Owner-occupied units,"203,295","+/-5,030","203,295",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",91,Housing units with a mortgage,"126,650","+/-4,895",62.3,+/-1.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",92,Housing units without a mortgage,"76,645","+/-4,445",37.7,+/-1.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",92.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",93,Housing units with a mortgage,"126,650","+/-4,895","126,650",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",94,Less than $500,"1,072",+/-499,0.8,+/-0.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",95,$500 to $999,"20,829","+/-2,380",16.4,+/-1.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",96,"$1,000 to $1,499","46,738","+/-4,201",36.9,+/-2.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",97,"$1,500 to $1,999","30,494","+/-2,983",24.1,+/-2.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",98,"$2,000 to $2,499","14,285","+/-1,854",11.3,+/-1.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",99,"$2,500 to $2,999","6,087","+/-1,355",4.8,+/-1.0
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",100,"$3,000 or more","7,145","+/-1,575",5.6,+/-1.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",101,Median (dollars),"1,440",+/-32,(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",101.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",102,Housing units without a mortgage,"76,645","+/-4,445","76,645",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",103,Less than $250,"7,959","+/-1,528",10.4,+/-1.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",104,$250 to $399,"21,581","+/-2,301",28.2,+/-2.6
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",105,$400 to $599,"25,589","+/-2,313",33.4,+/-2.6
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",106,$600 to $799,"13,634","+/-2,012",17.8,+/-2.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",107,$800 to $999,"4,260","+/-1,152",5.6,+/-1.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",108,"$1,000 or more","3,622",+/-823,4.7,+/-1.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",109,Median (dollars),456,+/-12,(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",109.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"125,005","+/-4,645","125,005",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",111,Less than 20.0 percent,"61,657","+/-3,722",49.3,+/-2.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",112,20.0 to 24.9 percent,"18,958","+/-2,627",15.2,+/-2.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",113,25.0 to 29.9 percent,"12,372","+/-2,141",9.9,+/-1.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",114,30.0 to 34.9 percent,"8,896","+/-2,118",7.1,+/-1.6
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",115,35.0 percent or more,"23,122","+/-2,489",18.5,+/-1.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",115.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",116,Not computed,"1,645","+/-1,107",(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",116.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"75,355","+/-4,441","75,355",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",118,Less than 10.0 percent,"38,399","+/-2,853",51.0,+/-3.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",119,10.0 to 14.9 percent,"14,706","+/-2,368",19.5,+/-2.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",120,15.0 to 19.9 percent,"6,157","+/-1,111",8.2,+/-1.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",121,20.0 to 24.9 percent,"5,019","+/-1,214",6.7,+/-1.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",122,25.0 to 29.9 percent,"2,589",+/-934,3.4,+/-1.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",123,30.0 to 34.9 percent,"1,224",+/-570,1.6,+/-0.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",124,35.0 percent or more,"7,261","+/-1,506",9.6,+/-1.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",124.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",125,Not computed,"1,290",+/-675,(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",125.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",125.5,GROSS RENT,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",126,Occupied units paying rent,"97,682","+/-4,304","97,682",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",127,Less than $500,"6,127","+/-1,529",6.3,+/-1.6
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",128,$500 to $999,"47,804","+/-4,008",48.9,+/-3.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",129,"$1,000 to $1,499","30,239","+/-3,225",31.0,+/-3.0
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",130,"$1,500 to $1,999","10,360","+/-1,671",10.6,+/-1.7
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",131,"$2,000 to $2,499","1,748",+/-825,1.8,+/-0.8
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",132,"$2,500 to $2,999",454,+/-478,0.5,+/-0.5
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",133,"$3,000 or more",950,+/-368,1.0,+/-0.4
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",134,Median (dollars),958,+/-24,(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",134.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",135,No rent paid,"4,521","+/-1,166",(X),(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",135.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"96,068","+/-4,251","96,068",(X)
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",137,Less than 15.0 percent,"13,160","+/-1,987",13.7,+/-2.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",138,15.0 to 19.9 percent,"13,036","+/-1,903",13.6,+/-1.9
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",139,20.0 to 24.9 percent,"11,459","+/-2,065",11.9,+/-2.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",140,25.0 to 29.9 percent,"10,154","+/-2,171",10.6,+/-2.1
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",141,30.0 to 34.9 percent,"8,725","+/-2,178",9.1,+/-2.2
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",142,35.0 percent or more,"39,534","+/-3,682",41.2,+/-3.3
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",142.3,,,,,
+DP04,5001800US3501,"Congressional District 1 (118th Congress), New Mexico",143,Not computed,"6,135","+/-1,344",(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",0.5,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",1,Total housing units,"294,744","+/-5,176","294,744",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",2,Occupied housing units,"258,261","+/-5,997",87.6,+/-1.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",3,Vacant housing units,"36,483","+/-3,146",12.4,+/-1.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",3.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",4,Homeowner vacancy rate,0.9,+/-0.4,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",5,Rental vacancy rate,2.4,+/-0.9,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",5.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",6,Total housing units,"294,744","+/-5,176","294,744",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",7,"1-unit, detached","193,808","+/-6,448",65.8,+/-1.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",8,"1-unit, attached","8,232","+/-2,175",2.8,+/-0.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",9,2 units,"5,882","+/-1,559",2.0,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",10,3 or 4 units,"9,293","+/-2,304",3.2,+/-0.8
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",11,5 to 9 units,"5,783","+/-1,580",2.0,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",12,10 to 19 units,"4,875","+/-1,591",1.7,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",13,20 or more units,"5,600","+/-1,480",1.9,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",14,Mobile home,"60,527","+/-4,602",20.5,+/-1.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",15,"Boat, RV, van, etc.",744,+/-485,0.3,+/-0.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",15.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",16,Total housing units,"294,744","+/-5,176","294,744",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",17,Built 2020 or later,"2,259","+/-1,147",0.8,+/-0.4
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",18,Built 2010 to 2019,"32,147","+/-3,603",10.9,+/-1.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",19,Built 2000 to 2009,"50,560","+/-4,530",17.2,+/-1.4
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",20,Built 1990 to 1999,"49,660","+/-4,218",16.8,+/-1.4
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",21,Built 1980 to 1989,"44,980","+/-4,136",15.3,+/-1.4
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",22,Built 1970 to 1979,"50,801","+/-4,428",17.2,+/-1.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",23,Built 1960 to 1969,"22,273","+/-2,767",7.6,+/-0.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",24,Built 1950 to 1959,"21,140","+/-2,429",7.2,+/-0.8
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",25,Built 1940 to 1949,"8,722","+/-1,635",3.0,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",26,Built 1939 or earlier,"12,202","+/-1,991",4.1,+/-0.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",26.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",26.5,ROOMS,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",27,Total housing units,"294,744","+/-5,176","294,744",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",28,1 room,"3,333","+/-1,201",1.1,+/-0.4
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",29,2 rooms,"5,296","+/-1,428",1.8,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",30,3 rooms,"18,620","+/-2,633",6.3,+/-0.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",31,4 rooms,"47,016","+/-3,762",16.0,+/-1.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",32,5 rooms,"74,299","+/-4,751",25.2,+/-1.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",33,6 rooms,"65,824","+/-4,786",22.3,+/-1.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",34,7 rooms,"33,961","+/-3,286",11.5,+/-1.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",35,8 rooms,"24,694","+/-3,069",8.4,+/-1.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",36,9 rooms or more,"21,701","+/-2,888",7.4,+/-1.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",37,Median rooms,5.5,+/-0.1,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",37.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",37.5,BEDROOMS,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",38,Total housing units,"294,744","+/-5,176","294,744",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",39,No bedroom,"3,926","+/-1,353",1.3,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",40,1 bedroom,"19,598","+/-2,767",6.6,+/-0.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",41,2 bedrooms,"65,063","+/-3,689",22.1,+/-1.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",42,3 bedrooms,"149,947","+/-5,555",50.9,+/-1.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",43,4 bedrooms,"49,176","+/-3,658",16.7,+/-1.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",44,5 or more bedrooms,"7,034","+/-1,662",2.4,+/-0.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",44.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",44.5,HOUSING TENURE,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",45,Occupied housing units,"258,261","+/-5,997","258,261",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",46,Owner-occupied,"182,662","+/-6,448",70.7,+/-1.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",47,Renter-occupied,"75,599","+/-5,211",29.3,+/-1.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",47.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",48,Average household size of owner-occupied unit,2.76,+/-0.06,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",49,Average household size of renter-occupied unit,2.41,+/-0.11,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",49.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",50,Occupied housing units,"258,261","+/-5,997","258,261",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",51,Moved in 2019 or later,"67,816","+/-4,975",26.3,+/-1.8
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",52,Moved in 2015 to 2018,"54,920","+/-4,668",21.3,+/-1.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",53,Moved in 2010 to 2014,"31,109","+/-3,479",12.0,+/-1.3
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",54,Moved in 2000 to 2009,"49,054","+/-4,290",19.0,+/-1.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",55,Moved in 1990 to 1999,"25,728","+/-2,985",10.0,+/-1.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",56,Moved in 1989 and earlier,"29,634","+/-3,376",11.5,+/-1.3
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",56.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",57,Occupied housing units,"258,261","+/-5,997","258,261",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",58,No vehicles available,"12,225","+/-2,425",4.7,+/-0.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",59,1 vehicle available,"82,189","+/-5,188",31.8,+/-1.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",60,2 vehicles available,"91,139","+/-5,021",35.3,+/-1.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",61,3 or more vehicles available,"72,708","+/-4,463",28.2,+/-1.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",61.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",62,Occupied housing units,"258,261","+/-5,997","258,261",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",63,Utility gas,"151,937","+/-6,311",58.8,+/-1.8
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",64,"Bottled, tank, or LP gas","20,763","+/-2,414",8.0,+/-0.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",65,Electricity,"71,131","+/-4,282",27.5,+/-1.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",66,"Fuel oil, kerosene, etc.","1,027",+/-663,0.4,+/-0.3
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",67,Coal or coke,82,+/-135,0.0,+/-0.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",68,Wood,"10,056","+/-1,585",3.9,+/-0.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",69,Solar energy,"1,219",+/-500,0.5,+/-0.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",70,Other fuel,"1,520",+/-673,0.6,+/-0.3
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",71,No fuel used,526,+/-291,0.2,+/-0.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",71.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",72,Occupied housing units,"258,261","+/-5,997","258,261",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",73,Lacking complete plumbing facilities,"3,584","+/-1,475",1.4,+/-0.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",74,Lacking complete kitchen facilities,"3,359","+/-1,159",1.3,+/-0.4
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",75,No telephone service available,"3,901","+/-1,126",1.5,+/-0.4
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",75.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",76,Occupied housing units,"258,261","+/-5,997","258,261",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",77,1.00 or less,"251,872","+/-6,311",97.5,+/-0.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",78,1.01 to 1.50,"4,616","+/-1,211",1.8,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",79,1.51 or more,"1,773",+/-834,0.7,+/-0.3
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",79.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",79.5,VALUE,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",80,Owner-occupied units,"182,662","+/-6,448","182,662",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",81,"Less than $50,000","21,628","+/-2,820",11.8,+/-1.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",82,"$50,000 to $99,999","20,941","+/-2,110",11.5,+/-1.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",83,"$100,000 to $149,999","28,409","+/-3,149",15.6,+/-1.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",84,"$150,000 to $199,999","38,072","+/-4,082",20.8,+/-2.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",85,"$200,000 to $299,999","42,153","+/-3,586",23.1,+/-1.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",86,"$300,000 to $499,999","24,403","+/-3,012",13.4,+/-1.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",87,"$500,000 to $999,999","6,277","+/-1,386",3.4,+/-0.8
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",88,"$1,000,000 or more",779,+/-557,0.4,+/-0.3
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",89,Median (dollars),"176,200","+/-4,427",(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",89.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",90,Owner-occupied units,"182,662","+/-6,448","182,662",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",91,Housing units with a mortgage,"94,343","+/-5,866",51.6,+/-2.3
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",92,Housing units without a mortgage,"88,319","+/-4,819",48.4,+/-2.3
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",92.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",93,Housing units with a mortgage,"94,343","+/-5,866","94,343",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",94,Less than $500,"1,813",+/-862,1.9,+/-0.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",95,$500 to $999,"27,142","+/-2,702",28.8,+/-2.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",96,"$1,000 to $1,499","37,594","+/-4,194",39.8,+/-3.3
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",97,"$1,500 to $1,999","17,773","+/-2,527",18.8,+/-2.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",98,"$2,000 to $2,499","6,292","+/-1,844",6.7,+/-1.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",99,"$2,500 to $2,999","1,657",+/-876,1.8,+/-0.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",100,"$3,000 or more","2,072",+/-938,2.2,+/-1.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",101,Median (dollars),"1,242",+/-39,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",101.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",102,Housing units without a mortgage,"88,319","+/-4,819","88,319",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",103,Less than $250,"23,175","+/-2,875",26.2,+/-2.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",104,$250 to $399,"31,766","+/-2,861",36.0,+/-2.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",105,$400 to $599,"23,445","+/-2,469",26.5,+/-2.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",106,$600 to $799,"6,795","+/-1,608",7.7,+/-1.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",107,$800 to $999,"2,321",+/-950,2.6,+/-1.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",108,"$1,000 or more",817,+/-443,0.9,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",109,Median (dollars),351,+/-11,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",109.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"93,253","+/-5,857","93,253",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",111,Less than 20.0 percent,"44,475","+/-4,098",47.7,+/-3.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",112,20.0 to 24.9 percent,"12,678","+/-2,504",13.6,+/-2.6
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",113,25.0 to 29.9 percent,"8,206","+/-1,924",8.8,+/-2.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",114,30.0 to 34.9 percent,"5,345","+/-1,431",5.7,+/-1.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",115,35.0 percent or more,"22,549","+/-3,045",24.2,+/-3.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",115.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",116,Not computed,"1,090",+/-766,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",116.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"85,988","+/-4,689","85,988",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",118,Less than 10.0 percent,"47,561","+/-2,918",55.3,+/-2.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",119,10.0 to 14.9 percent,"14,122","+/-2,078",16.4,+/-2.1
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",120,15.0 to 19.9 percent,"6,762","+/-1,279",7.9,+/-1.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",121,20.0 to 24.9 percent,"3,704","+/-1,073",4.3,+/-1.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",122,25.0 to 29.9 percent,"3,131","+/-1,011",3.6,+/-1.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",123,30.0 to 34.9 percent,"2,265",+/-939,2.6,+/-1.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",124,35.0 percent or more,"8,443","+/-1,807",9.8,+/-1.9
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",124.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",125,Not computed,"2,331",+/-869,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",125.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",125.5,GROSS RENT,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",126,Occupied units paying rent,"68,992","+/-5,167","68,992",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",127,Less than $500,"10,942","+/-2,289",15.9,+/-3.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",128,$500 to $999,"34,717","+/-4,143",50.3,+/-4.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",129,"$1,000 to $1,499","17,130","+/-2,736",24.8,+/-3.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",130,"$1,500 to $1,999","5,044","+/-1,787",7.3,+/-2.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",131,"$2,000 to $2,499",648,+/-704,0.9,+/-1.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",132,"$2,500 to $2,999",196,+/-320,0.3,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",133,"$3,000 or more",315,+/-354,0.5,+/-0.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",134,Median (dollars),825,+/-45,(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",134.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",135,No rent paid,"6,607","+/-1,711",(X),(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",135.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"66,644","+/-5,178","66,644",(X)
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",137,Less than 15.0 percent,"10,086","+/-2,178",15.1,+/-3.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",138,15.0 to 19.9 percent,"7,534","+/-1,921",11.3,+/-2.7
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",139,20.0 to 24.9 percent,"5,709","+/-1,739",8.6,+/-2.5
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",140,25.0 to 29.9 percent,"10,522","+/-2,205",15.8,+/-3.2
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",141,30.0 to 34.9 percent,"4,899","+/-1,365",7.4,+/-2.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",142,35.0 percent or more,"27,894","+/-4,037",41.9,+/-5.0
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",142.3,,,,,
+DP04,5001800US3502,"Congressional District 2 (118th Congress), New Mexico",143,Not computed,"8,955","+/-1,966",(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",0.5,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",1,Total housing units,"321,083","+/-2,773","321,083",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",2,Occupied housing units,"270,248","+/-4,178",84.2,+/-1.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",3,Vacant housing units,"50,835","+/-3,007",15.8,+/-1.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",3.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",4,Homeowner vacancy rate,1.0,+/-0.4,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",5,Rental vacancy rate,6.4,+/-1.9,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",5.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",6,Total housing units,"321,083","+/-2,773","321,083",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",7,"1-unit, detached","207,994","+/-4,023",64.8,+/-1.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",8,"1-unit, attached","13,075","+/-1,986",4.1,+/-0.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",9,2 units,"5,228","+/-1,264",1.6,+/-0.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",10,3 or 4 units,"8,864","+/-1,716",2.8,+/-0.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",11,5 to 9 units,"7,682","+/-1,668",2.4,+/-0.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",12,10 to 19 units,"5,357","+/-1,374",1.7,+/-0.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",13,20 or more units,"9,128","+/-1,911",2.8,+/-0.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",14,Mobile home,"61,938","+/-3,534",19.3,+/-1.1
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",15,"Boat, RV, van, etc.","1,817","+/-1,016",0.6,+/-0.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",15.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",16,Total housing units,"321,083","+/-2,773","321,083",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",17,Built 2020 or later,"2,099",+/-788,0.7,+/-0.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",18,Built 2010 to 2019,"23,730","+/-2,859",7.4,+/-0.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",19,Built 2000 to 2009,"42,793","+/-3,329",13.3,+/-1.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",20,Built 1990 to 1999,"50,060","+/-3,871",15.6,+/-1.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",21,Built 1980 to 1989,"52,823","+/-3,643",16.5,+/-1.1
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",22,Built 1970 to 1979,"54,093","+/-3,686",16.8,+/-1.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",23,Built 1960 to 1969,"32,023","+/-3,350",10.0,+/-1.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",24,Built 1950 to 1959,"33,031","+/-3,162",10.3,+/-1.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",25,Built 1940 to 1949,"11,879","+/-1,776",3.7,+/-0.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",26,Built 1939 or earlier,"18,552","+/-2,214",5.8,+/-0.7
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",26.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",26.5,ROOMS,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",27,Total housing units,"321,083","+/-2,773","321,083",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",28,1 room,"13,560","+/-1,814",4.2,+/-0.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",29,2 rooms,"9,479","+/-1,703",3.0,+/-0.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",30,3 rooms,"26,900","+/-3,340",8.4,+/-1.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",31,4 rooms,"54,570","+/-3,577",17.0,+/-1.1
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",32,5 rooms,"79,657","+/-4,940",24.8,+/-1.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",33,6 rooms,"56,983","+/-4,291",17.7,+/-1.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",34,7 rooms,"31,051","+/-2,843",9.7,+/-0.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",35,8 rooms,"23,316","+/-2,610",7.3,+/-0.8
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",36,9 rooms or more,"25,567","+/-2,117",8.0,+/-0.7
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",37,Median rooms,5.2,+/-0.1,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",37.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",37.5,BEDROOMS,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",38,Total housing units,"321,083","+/-2,773","321,083",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",39,No bedroom,"14,475","+/-1,874",4.5,+/-0.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",40,1 bedroom,"26,643","+/-3,217",8.3,+/-1.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",41,2 bedrooms,"80,389","+/-4,579",25.0,+/-1.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",42,3 bedrooms,"148,235","+/-5,212",46.2,+/-1.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",43,4 bedrooms,"43,905","+/-3,506",13.7,+/-1.1
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",44,5 or more bedrooms,"7,436","+/-1,281",2.3,+/-0.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",44.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",44.5,HOUSING TENURE,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",45,Occupied housing units,"270,248","+/-4,178","270,248",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",46,Owner-occupied,"193,751","+/-5,401",71.7,+/-1.8
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",47,Renter-occupied,"76,497","+/-5,188",28.3,+/-1.8
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",47.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",48,Average household size of owner-occupied unit,2.64,+/-0.05,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",49,Average household size of renter-occupied unit,2.29,+/-0.09,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",49.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",50,Occupied housing units,"270,248","+/-4,178","270,248",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",51,Moved in 2019 or later,"65,064","+/-4,388",24.1,+/-1.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",52,Moved in 2015 to 2018,"48,295","+/-3,782",17.9,+/-1.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",53,Moved in 2010 to 2014,"35,732","+/-3,565",13.2,+/-1.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",54,Moved in 2000 to 2009,"51,311","+/-3,611",19.0,+/-1.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",55,Moved in 1990 to 1999,"32,302","+/-2,629",12.0,+/-1.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",56,Moved in 1989 and earlier,"37,544","+/-3,047",13.9,+/-1.1
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",56.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",57,Occupied housing units,"270,248","+/-4,178","270,248",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",58,No vehicles available,"18,875","+/-2,521",7.0,+/-0.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",59,1 vehicle available,"83,353","+/-4,195",30.8,+/-1.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",60,2 vehicles available,"94,742","+/-4,593",35.1,+/-1.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",61,3 or more vehicles available,"73,278","+/-3,755",27.1,+/-1.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",61.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",62,Occupied housing units,"270,248","+/-4,178","270,248",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",63,Utility gas,"136,580","+/-5,595",50.5,+/-2.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",64,"Bottled, tank, or LP gas","21,654","+/-1,813",8.0,+/-0.7
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",65,Electricity,"68,456","+/-4,792",25.3,+/-1.7
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",66,"Fuel oil, kerosene, etc.",551,+/-430,0.2,+/-0.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",67,Coal or coke,149,+/-117,0.1,+/-0.1
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",68,Wood,"32,287","+/-2,534",11.9,+/-0.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",69,Solar energy,"2,217",+/-766,0.8,+/-0.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",70,Other fuel,"5,896","+/-1,714",2.2,+/-0.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",71,No fuel used,"2,458",+/-910,0.9,+/-0.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",71.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",72,Occupied housing units,"270,248","+/-4,178","270,248",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",73,Lacking complete plumbing facilities,"5,166",+/-877,1.9,+/-0.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",74,Lacking complete kitchen facilities,"4,673","+/-1,002",1.7,+/-0.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",75,No telephone service available,"4,973","+/-1,177",1.8,+/-0.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",75.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",76,Occupied housing units,"270,248","+/-4,178","270,248",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",77,1.00 or less,"258,408","+/-4,628",95.6,+/-0.7
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",78,1.01 to 1.50,"8,244","+/-1,740",3.1,+/-0.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",79,1.51 or more,"3,596",+/-933,1.3,+/-0.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",79.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",79.5,VALUE,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",80,Owner-occupied units,"193,751","+/-5,401","193,751",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",81,"Less than $50,000","31,851","+/-2,438",16.4,+/-1.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",82,"$50,000 to $99,999","20,546","+/-2,163",10.6,+/-1.1
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",83,"$100,000 to $149,999","23,484","+/-3,090",12.1,+/-1.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",84,"$150,000 to $199,999","21,234","+/-2,544",11.0,+/-1.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",85,"$200,000 to $299,999","34,455","+/-3,007",17.8,+/-1.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",86,"$300,000 to $499,999","35,427","+/-2,725",18.3,+/-1.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",87,"$500,000 to $999,999","20,544","+/-2,325",10.6,+/-1.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",88,"$1,000,000 or more","6,210","+/-1,123",3.2,+/-0.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",89,Median (dollars),"199,400","+/-9,056",(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",89.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",90,Owner-occupied units,"193,751","+/-5,401","193,751",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",91,Housing units with a mortgage,"84,218","+/-4,648",43.5,+/-2.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",92,Housing units without a mortgage,"109,533","+/-4,774",56.5,+/-2.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",92.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",93,Housing units with a mortgage,"84,218","+/-4,648","84,218",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",94,Less than $500,"1,919",+/-781,2.3,+/-0.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",95,$500 to $999,"17,680","+/-2,220",21.0,+/-2.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",96,"$1,000 to $1,499","29,383","+/-3,362",34.9,+/-2.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",97,"$1,500 to $1,999","18,927","+/-2,586",22.5,+/-2.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",98,"$2,000 to $2,499","7,886","+/-1,322",9.4,+/-1.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",99,"$2,500 to $2,999","3,898","+/-1,015",4.6,+/-1.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",100,"$3,000 or more","4,525",+/-972,5.4,+/-1.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",101,Median (dollars),"1,367",+/-45,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",101.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",102,Housing units without a mortgage,"109,533","+/-4,774","109,533",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",103,Less than $250,"27,761","+/-2,704",25.3,+/-2.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",104,$250 to $399,"33,701","+/-2,766",30.8,+/-2.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",105,$400 to $599,"27,148","+/-2,952",24.8,+/-2.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",106,$600 to $799,"11,744","+/-1,701",10.7,+/-1.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",107,$800 to $999,"5,095","+/-1,154",4.7,+/-1.1
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",108,"$1,000 or more","4,084","+/-1,077",3.7,+/-0.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",109,Median (dollars),367,+/-14,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",109.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"83,190","+/-4,562","83,190",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",111,Less than 20.0 percent,"38,205","+/-2,937",45.9,+/-3.1
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",112,20.0 to 24.9 percent,"10,341","+/-1,713",12.4,+/-1.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",113,25.0 to 29.9 percent,"7,417","+/-1,365",8.9,+/-1.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",114,30.0 to 34.9 percent,"4,969","+/-1,540",6.0,+/-1.8
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",115,35.0 percent or more,"22,258","+/-3,063",26.8,+/-3.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",115.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",116,Not computed,"1,028",+/-662,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",116.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"106,969","+/-4,775","106,969",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",118,Less than 10.0 percent,"55,871","+/-3,902",52.2,+/-2.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",119,10.0 to 14.9 percent,"16,185","+/-1,965",15.1,+/-1.8
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",120,15.0 to 19.9 percent,"9,172","+/-1,673",8.6,+/-1.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",121,20.0 to 24.9 percent,"6,636","+/-1,366",6.2,+/-1.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",122,25.0 to 29.9 percent,"4,603","+/-1,107",4.3,+/-1.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",123,30.0 to 34.9 percent,"1,955",+/-688,1.8,+/-0.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",124,35.0 percent or more,"12,547","+/-1,747",11.7,+/-1.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",124.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",125,Not computed,"2,564",+/-687,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",125.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",125.5,GROSS RENT,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",126,Occupied units paying rent,"69,598","+/-4,928","69,598",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",127,Less than $500,"9,809","+/-1,813",14.1,+/-2.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",128,$500 to $999,"32,155","+/-3,694",46.2,+/-3.9
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",129,"$1,000 to $1,499","20,264","+/-3,130",29.1,+/-3.8
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",130,"$1,500 to $1,999","5,104","+/-1,357",7.3,+/-2.0
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",131,"$2,000 to $2,499","1,251",+/-553,1.8,+/-0.8
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",132,"$2,500 to $2,999",157,+/-205,0.2,+/-0.3
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",133,"$3,000 or more",858,+/-568,1.2,+/-0.8
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",134,Median (dollars),885,+/-39,(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",134.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",135,No rent paid,"6,899","+/-1,269",(X),(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",135.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"66,954","+/-5,094","66,954",(X)
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",137,Less than 15.0 percent,"13,287","+/-2,091",19.8,+/-3.4
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",138,15.0 to 19.9 percent,"8,191","+/-1,916",12.2,+/-2.7
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",139,20.0 to 24.9 percent,"7,186","+/-1,664",10.7,+/-2.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",140,25.0 to 29.9 percent,"6,711","+/-1,935",10.0,+/-2.6
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",141,30.0 to 34.9 percent,"5,706","+/-1,489",8.5,+/-2.2
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",142,35.0 percent or more,"25,873","+/-3,784",38.6,+/-4.5
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",142.3,,,,,
+DP04,5001800US3503,"Congressional District 3 (118th Congress), New Mexico",143,Not computed,"9,543","+/-1,833",(X),(X)

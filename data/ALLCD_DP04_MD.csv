@@ -1,0 +1,1489 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",0.5,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",1,Total housing units,"364,178","+/-2,511","364,178",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",2,Occupied housing units,"304,917","+/-3,566",83.7,+/-0.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",3,Vacant housing units,"59,261","+/-3,031",16.3,+/-0.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",3.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",4,Homeowner vacancy rate,1.2,+/-0.5,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",5,Rental vacancy rate,4.1,+/-1.5,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",5.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",6,Total housing units,"364,178","+/-2,511","364,178",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",7,"1-unit, detached","241,474","+/-4,836",66.3,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",8,"1-unit, attached","37,703","+/-3,147",10.4,+/-0.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",9,2 units,"3,112",+/-902,0.9,+/-0.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",10,3 or 4 units,"8,567","+/-1,926",2.4,+/-0.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",11,5 to 9 units,"13,830","+/-2,110",3.8,+/-0.6
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",12,10 to 19 units,"17,735","+/-1,994",4.9,+/-0.6
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",13,20 or more units,"23,862","+/-2,383",6.6,+/-0.6
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",14,Mobile home,"17,895","+/-1,994",4.9,+/-0.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",15,"Boat, RV, van, etc.",0,+/-216,0.0,+/-0.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",15.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",16,Total housing units,"364,178","+/-2,511","364,178",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",17,Built 2020 or later,"2,059",+/-832,0.6,+/-0.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",18,Built 2010 to 2019,"25,752","+/-2,912",7.1,+/-0.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",19,Built 2000 to 2009,"65,676","+/-3,866",18.0,+/-1.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",20,Built 1990 to 1999,"53,611","+/-3,046",14.7,+/-0.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",21,Built 1980 to 1989,"64,251","+/-4,115",17.6,+/-1.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",22,Built 1970 to 1979,"53,183","+/-3,418",14.6,+/-0.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",23,Built 1960 to 1969,"31,317","+/-3,081",8.6,+/-0.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",24,Built 1950 to 1959,"24,572","+/-2,689",6.7,+/-0.7
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",25,Built 1940 to 1949,"12,669","+/-1,806",3.5,+/-0.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",26,Built 1939 or earlier,"31,088","+/-2,535",8.5,+/-0.7
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",26.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",26.5,ROOMS,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",27,Total housing units,"364,178","+/-2,511","364,178",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",28,1 room,"4,302","+/-1,280",1.2,+/-0.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",29,2 rooms,"5,440","+/-1,383",1.5,+/-0.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",30,3 rooms,"24,595","+/-2,438",6.8,+/-0.7
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",31,4 rooms,"42,458","+/-3,725",11.7,+/-1.0
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",32,5 rooms,"54,861","+/-3,751",15.1,+/-1.0
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",33,6 rooms,"65,491","+/-3,699",18.0,+/-1.0
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",34,7 rooms,"48,156","+/-3,302",13.2,+/-0.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",35,8 rooms,"44,991","+/-3,352",12.4,+/-0.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",36,9 rooms or more,"73,884","+/-4,018",20.3,+/-1.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",37,Median rooms,6.3,+/-0.1,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",37.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",37.5,BEDROOMS,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",38,Total housing units,"364,178","+/-2,511","364,178",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",39,No bedroom,"4,392","+/-1,299",1.2,+/-0.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",40,1 bedroom,"22,385","+/-2,906",6.1,+/-0.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",41,2 bedrooms,"76,869","+/-3,995",21.1,+/-1.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",42,3 bedrooms,"160,100","+/-5,168",44.0,+/-1.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",43,4 bedrooms,"78,338","+/-4,250",21.5,+/-1.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",44,5 or more bedrooms,"22,094","+/-2,254",6.1,+/-0.6
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",44.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",44.5,HOUSING TENURE,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",45,Occupied housing units,"304,917","+/-3,566","304,917",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",46,Owner-occupied,"233,758","+/-4,728",76.7,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",47,Renter-occupied,"71,159","+/-3,853",23.3,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",47.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",48,Average household size of owner-occupied unit,2.57,+/-0.04,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",49,Average household size of renter-occupied unit,2.31,+/-0.11,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",49.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",50,Occupied housing units,"304,917","+/-3,566","304,917",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",51,Moved in 2019 or later,"68,146","+/-3,550",22.3,+/-1.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",52,Moved in 2015 to 2018,"64,425","+/-3,868",21.1,+/-1.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",53,Moved in 2010 to 2014,"37,569","+/-3,576",12.3,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",54,Moved in 2000 to 2009,"61,103","+/-3,240",20.0,+/-1.0
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",55,Moved in 1990 to 1999,"38,903","+/-2,891",12.8,+/-0.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",56,Moved in 1989 and earlier,"34,771","+/-2,533",11.4,+/-0.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",56.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",57,Occupied housing units,"304,917","+/-3,566","304,917",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",58,No vehicles available,"16,008","+/-2,004",5.2,+/-0.7
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",59,1 vehicle available,"84,426","+/-4,408",27.7,+/-1.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",60,2 vehicles available,"121,157","+/-4,579",39.7,+/-1.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",61,3 or more vehicles available,"83,326","+/-3,805",27.3,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",61.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",62,Occupied housing units,"304,917","+/-3,566","304,917",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",63,Utility gas,"72,678","+/-3,805",23.8,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",64,"Bottled, tank, or LP gas","32,946","+/-2,835",10.8,+/-0.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",65,Electricity,"145,343","+/-3,981",47.7,+/-1.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",66,"Fuel oil, kerosene, etc.","39,636","+/-2,788",13.0,+/-0.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",67,Coal or coke,265,+/-225,0.1,+/-0.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",68,Wood,"5,154","+/-1,125",1.7,+/-0.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",69,Solar energy,"1,464",+/-535,0.5,+/-0.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",70,Other fuel,"4,444","+/-1,320",1.5,+/-0.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",71,No fuel used,"2,987","+/-1,077",1.0,+/-0.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",71.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",72,Occupied housing units,"304,917","+/-3,566","304,917",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",73,Lacking complete plumbing facilities,892,+/-542,0.3,+/-0.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",74,Lacking complete kitchen facilities,"2,339",+/-915,0.8,+/-0.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",75,No telephone service available,"3,474","+/-1,128",1.1,+/-0.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",75.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",76,Occupied housing units,"304,917","+/-3,566","304,917",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",77,1.00 or less,"299,230","+/-3,918",98.1,+/-0.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",78,1.01 to 1.50,"3,678","+/-1,133",1.2,+/-0.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",79,1.51 or more,"2,009",+/-863,0.7,+/-0.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",79.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",79.5,VALUE,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",80,Owner-occupied units,"233,758","+/-4,728","233,758",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",81,"Less than $50,000","9,926","+/-1,590",4.2,+/-0.7
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",82,"$50,000 to $99,999","7,060","+/-1,342",3.0,+/-0.6
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",83,"$100,000 to $149,999","10,603","+/-1,706",4.5,+/-0.7
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",84,"$150,000 to $199,999","23,434","+/-2,481",10.0,+/-1.0
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",85,"$200,000 to $299,999","55,905","+/-3,758",23.9,+/-1.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",86,"$300,000 to $499,999","85,427","+/-4,097",36.5,+/-1.6
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",87,"$500,000 to $999,999","35,728","+/-2,437",15.3,+/-1.0
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",88,"$1,000,000 or more","5,675","+/-1,225",2.4,+/-0.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",89,Median (dollars),"318,900","+/-5,532",(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",89.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",90,Owner-occupied units,"233,758","+/-4,728","233,758",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",91,Housing units with a mortgage,"159,038","+/-4,770",68.0,+/-1.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",92,Housing units without a mortgage,"74,720","+/-3,907",32.0,+/-1.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",92.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",93,Housing units with a mortgage,"159,038","+/-4,770","159,038",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",94,Less than $500,"1,150",+/-556,0.7,+/-0.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",95,$500 to $999,"13,712","+/-1,936",8.6,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",96,"$1,000 to $1,499","41,619","+/-3,044",26.2,+/-1.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",97,"$1,500 to $1,999","42,817","+/-3,753",26.9,+/-2.0
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",98,"$2,000 to $2,499","28,660","+/-2,828",18.0,+/-1.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",99,"$2,500 to $2,999","15,852","+/-1,975",10.0,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",100,"$3,000 or more","15,228","+/-1,951",9.6,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",101,Median (dollars),"1,754",+/-37,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",101.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",102,Housing units without a mortgage,"74,720","+/-3,907","74,720",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",103,Less than $250,"3,501",+/-897,4.7,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",104,$250 to $399,"12,634","+/-1,621",16.9,+/-2.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",105,$400 to $599,"25,696","+/-2,461",34.4,+/-2.6
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",106,$600 to $799,"17,209","+/-2,026",23.0,+/-2.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",107,$800 to $999,"8,655","+/-1,448",11.6,+/-1.7
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",108,"$1,000 or more","7,025","+/-1,099",9.4,+/-1.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",109,Median (dollars),565,+/-11,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",109.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"158,053","+/-4,672","158,053",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",111,Less than 20.0 percent,"78,331","+/-3,861",49.6,+/-2.0
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",112,20.0 to 24.9 percent,"23,526","+/-2,112",14.9,+/-1.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",113,25.0 to 29.9 percent,"16,244","+/-2,056",10.3,+/-1.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",114,30.0 to 34.9 percent,"9,054","+/-1,438",5.7,+/-0.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",115,35.0 percent or more,"30,898","+/-3,129",19.5,+/-1.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",115.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",116,Not computed,985,+/-506,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",116.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"73,557","+/-3,985","73,557",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",118,Less than 10.0 percent,"35,687","+/-2,618",48.5,+/-2.5
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",119,10.0 to 14.9 percent,"15,280","+/-1,812",20.8,+/-2.2
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",120,15.0 to 19.9 percent,"6,531","+/-1,087",8.9,+/-1.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",121,20.0 to 24.9 percent,"3,934",+/-877,5.3,+/-1.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",122,25.0 to 29.9 percent,"2,307",+/-730,3.1,+/-1.0
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",123,30.0 to 34.9 percent,"1,255",+/-419,1.7,+/-0.6
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",124,35.0 percent or more,"8,563","+/-1,607",11.6,+/-2.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",124.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",125,Not computed,"1,163",+/-580,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",125.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",125.5,GROSS RENT,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",126,Occupied units paying rent,"66,907","+/-3,744","66,907",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",127,Less than $500,"5,730","+/-1,431",8.6,+/-2.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",128,$500 to $999,"18,960","+/-2,243",28.3,+/-3.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",129,"$1,000 to $1,499","24,333","+/-2,524",36.4,+/-3.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",130,"$1,500 to $1,999","12,833","+/-2,046",19.2,+/-2.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",131,"$2,000 to $2,499","3,826","+/-1,215",5.7,+/-1.7
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",132,"$2,500 to $2,999",870,+/-524,1.3,+/-0.8
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",133,"$3,000 or more",355,+/-297,0.5,+/-0.4
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",134,Median (dollars),"1,175",+/-41,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",134.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",135,No rent paid,"4,252",+/-913,(X),(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",135.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"65,477","+/-3,862","65,477",(X)
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",137,Less than 15.0 percent,"9,580","+/-1,668",14.6,+/-2.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",138,15.0 to 19.9 percent,"7,126","+/-1,561",10.9,+/-2.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",139,20.0 to 24.9 percent,"8,598","+/-1,810",13.1,+/-2.7
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",140,25.0 to 29.9 percent,"4,670","+/-1,373",7.1,+/-1.9
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",141,30.0 to 34.9 percent,"6,437","+/-1,456",9.8,+/-2.3
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",142,35.0 percent or more,"29,066","+/-3,230",44.4,+/-4.1
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",142.3,,,,,
+DP04,5001800US2401,"Congressional District 1 (118th Congress), Maryland",143,Not computed,"5,682","+/-1,350",(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",0.5,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",1,Total housing units,"317,663","+/-4,762","317,663",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",2,Occupied housing units,"302,845","+/-4,753",95.3,+/-0.8
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",3,Vacant housing units,"14,818","+/-2,613",4.7,+/-0.8
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",3.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",4,Homeowner vacancy rate,1.2,+/-0.4,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",5,Rental vacancy rate,4.7,+/-1.4,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",5.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",6,Total housing units,"317,663","+/-4,762","317,663",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",7,"1-unit, detached","164,891","+/-4,215",51.9,+/-1.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",8,"1-unit, attached","63,125","+/-3,477",19.9,+/-1.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",9,2 units,"3,534","+/-1,371",1.1,+/-0.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",10,3 or 4 units,"4,687","+/-1,145",1.5,+/-0.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",11,5 to 9 units,"22,719","+/-3,180",7.2,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",12,10 to 19 units,"32,897","+/-3,270",10.4,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",13,20 or more units,"23,736","+/-2,157",7.5,+/-0.7
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",14,Mobile home,"2,025",+/-564,0.6,+/-0.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",15,"Boat, RV, van, etc.",49,+/-81,0.0,+/-0.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",15.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",16,Total housing units,"317,663","+/-4,762","317,663",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",17,Built 2020 or later,467,+/-314,0.1,+/-0.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",18,Built 2010 to 2019,"15,441","+/-1,904",4.9,+/-0.6
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",19,Built 2000 to 2009,"32,452","+/-2,968",10.2,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",20,Built 1990 to 1999,"47,402","+/-3,198",14.9,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",21,Built 1980 to 1989,"47,846","+/-4,156",15.1,+/-1.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",22,Built 1970 to 1979,"47,022","+/-3,725",14.8,+/-1.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",23,Built 1960 to 1969,"39,316","+/-3,746",12.4,+/-1.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",24,Built 1950 to 1959,"42,384","+/-2,963",13.3,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",25,Built 1940 to 1949,"16,605","+/-2,258",5.2,+/-0.7
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",26,Built 1939 or earlier,"28,728","+/-2,721",9.0,+/-0.8
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",26.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",26.5,ROOMS,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",27,Total housing units,"317,663","+/-4,762","317,663",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",28,1 room,"4,473","+/-1,174",1.4,+/-0.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",29,2 rooms,"5,271","+/-1,348",1.7,+/-0.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",30,3 rooms,"22,625","+/-3,023",7.1,+/-0.9
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",31,4 rooms,"37,195","+/-3,201",11.7,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",32,5 rooms,"43,096","+/-3,409",13.6,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",33,6 rooms,"46,951","+/-4,115",14.8,+/-1.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",34,7 rooms,"42,907","+/-3,437",13.5,+/-1.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",35,8 rooms,"41,753","+/-2,849",13.1,+/-0.9
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",36,9 rooms or more,"73,392","+/-3,921",23.1,+/-1.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",37,Median rooms,6.5,+/-0.1,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",37.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",37.5,BEDROOMS,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",38,Total housing units,"317,663","+/-4,762","317,663",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",39,No bedroom,"4,571","+/-1,190",1.4,+/-0.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",40,1 bedroom,"31,692","+/-2,905",10.0,+/-0.9
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",41,2 bedrooms,"73,071","+/-4,201",23.0,+/-1.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",42,3 bedrooms,"117,355","+/-4,608",36.9,+/-1.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",43,4 bedrooms,"70,624","+/-3,468",22.2,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",44,5 or more bedrooms,"20,350","+/-2,059",6.4,+/-0.7
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",44.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",44.5,HOUSING TENURE,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",45,Occupied housing units,"302,845","+/-4,753","302,845",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",46,Owner-occupied,"209,719","+/-4,662",69.2,+/-1.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",47,Renter-occupied,"93,126","+/-4,364",30.8,+/-1.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",47.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",48,Average household size of owner-occupied unit,2.61,+/-0.04,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",49,Average household size of renter-occupied unit,2.19,+/-0.09,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",49.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",50,Occupied housing units,"302,845","+/-4,753","302,845",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",51,Moved in 2019 or later,"73,233","+/-4,707",24.2,+/-1.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",52,Moved in 2015 to 2018,"65,014","+/-4,271",21.5,+/-1.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",53,Moved in 2010 to 2014,"36,420","+/-3,002",12.0,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",54,Moved in 2000 to 2009,"56,306","+/-3,961",18.6,+/-1.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",55,Moved in 1990 to 1999,"37,008","+/-2,591",12.2,+/-0.8
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",56,Moved in 1989 and earlier,"34,864","+/-2,707",11.5,+/-0.9
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",56.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",57,Occupied housing units,"302,845","+/-4,753","302,845",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",58,No vehicles available,"17,787","+/-2,848",5.9,+/-0.9
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",59,1 vehicle available,"103,151","+/-4,274",34.1,+/-1.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",60,2 vehicles available,"118,984","+/-5,341",39.3,+/-1.6
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",61,3 or more vehicles available,"62,923","+/-3,629",20.8,+/-1.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",61.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",62,Occupied housing units,"302,845","+/-4,753","302,845",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",63,Utility gas,"134,849","+/-5,178",44.5,+/-1.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",64,"Bottled, tank, or LP gas","7,868","+/-1,180",2.6,+/-0.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",65,Electricity,"122,849","+/-5,306",40.6,+/-1.7
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",66,"Fuel oil, kerosene, etc.","30,656","+/-2,672",10.1,+/-0.9
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",67,Coal or coke,0,+/-216,0.0,+/-0.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",68,Wood,"2,339",+/-624,0.8,+/-0.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",69,Solar energy,508,+/-328,0.2,+/-0.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",70,Other fuel,"1,678",+/-783,0.6,+/-0.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",71,No fuel used,"2,098",+/-931,0.7,+/-0.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",71.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",72,Occupied housing units,"302,845","+/-4,753","302,845",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",73,Lacking complete plumbing facilities,858,+/-524,0.3,+/-0.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",74,Lacking complete kitchen facilities,"2,134",+/-972,0.7,+/-0.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",75,No telephone service available,"2,124",+/-775,0.7,+/-0.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",75.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",76,Occupied housing units,"302,845","+/-4,753","302,845",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",77,1.00 or less,"296,619","+/-5,168",97.9,+/-0.7
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",78,1.01 to 1.50,"4,411","+/-1,618",1.5,+/-0.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",79,1.51 or more,"1,815","+/-1,095",0.6,+/-0.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",79.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",79.5,VALUE,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",80,Owner-occupied units,"209,719","+/-4,662","209,719",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",81,"Less than $50,000","5,490","+/-1,202",2.6,+/-0.6
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",82,"$50,000 to $99,999","2,423",+/-858,1.2,+/-0.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",83,"$100,000 to $149,999","6,185","+/-1,257",2.9,+/-0.6
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",84,"$150,000 to $199,999","15,673","+/-1,692",7.5,+/-0.8
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",85,"$200,000 to $299,999","50,358","+/-3,513",24.0,+/-1.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",86,"$300,000 to $499,999","83,144","+/-4,337",39.6,+/-1.8
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",87,"$500,000 to $999,999","41,753","+/-2,610",19.9,+/-1.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",88,"$1,000,000 or more","4,693",+/-970,2.2,+/-0.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",89,Median (dollars),"346,000","+/-5,541",(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",89.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",90,Owner-occupied units,"209,719","+/-4,662","209,719",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",91,Housing units with a mortgage,"142,542","+/-4,437",68.0,+/-1.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",92,Housing units without a mortgage,"67,177","+/-3,371",32.0,+/-1.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",92.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",93,Housing units with a mortgage,"142,542","+/-4,437","142,542",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",94,Less than $500,971,+/-508,0.7,+/-0.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",95,$500 to $999,"9,105","+/-1,537",6.4,+/-1.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",96,"$1,000 to $1,499","28,531","+/-2,634",20.0,+/-1.7
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",97,"$1,500 to $1,999","40,237","+/-3,474",28.2,+/-2.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",98,"$2,000 to $2,499","28,916","+/-2,262",20.3,+/-1.6
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",99,"$2,500 to $2,999","16,153","+/-2,356",11.3,+/-1.6
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",100,"$3,000 or more","18,629","+/-1,703",13.1,+/-1.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",101,Median (dollars),"1,889",+/-39,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",101.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",102,Housing units without a mortgage,"67,177","+/-3,371","67,177",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",103,Less than $250,"1,921",+/-706,2.9,+/-1.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",104,$250 to $399,"5,150","+/-1,020",7.7,+/-1.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",105,$400 to $599,"23,411","+/-2,297",34.8,+/-2.6
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",106,$600 to $799,"18,445","+/-1,724",27.5,+/-2.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",107,$800 to $999,"7,960","+/-1,165",11.8,+/-1.7
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",108,"$1,000 or more","10,290","+/-1,334",15.3,+/-1.9
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",109,Median (dollars),628,+/-16,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",109.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"142,055","+/-4,465","142,055",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",111,Less than 20.0 percent,"71,134","+/-3,933",50.1,+/-2.2
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",112,20.0 to 24.9 percent,"19,683","+/-2,012",13.9,+/-1.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",113,25.0 to 29.9 percent,"14,195","+/-1,918",10.0,+/-1.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",114,30.0 to 34.9 percent,"11,758","+/-2,137",8.3,+/-1.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",115,35.0 percent or more,"25,285","+/-2,889",17.8,+/-2.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",115.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",116,Not computed,487,+/-315,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",116.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"66,796","+/-3,390","66,796",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",118,Less than 10.0 percent,"31,963","+/-2,259",47.9,+/-2.8
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",119,10.0 to 14.9 percent,"13,064","+/-1,699",19.6,+/-2.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",120,15.0 to 19.9 percent,"6,790","+/-1,397",10.2,+/-2.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",121,20.0 to 24.9 percent,"3,490",+/-891,5.2,+/-1.3
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",122,25.0 to 29.9 percent,"2,555",+/-724,3.8,+/-1.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",123,30.0 to 34.9 percent,"2,266",+/-983,3.4,+/-1.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",124,35.0 percent or more,"6,668","+/-1,322",10.0,+/-1.9
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",124.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",125,Not computed,381,+/-292,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",125.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",125.5,GROSS RENT,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",126,Occupied units paying rent,"90,311","+/-4,259","90,311",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",127,Less than $500,"4,598","+/-1,388",5.1,+/-1.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",128,$500 to $999,"7,774","+/-1,634",8.6,+/-1.7
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",129,"$1,000 to $1,499","40,692","+/-3,473",45.1,+/-3.7
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",130,"$1,500 to $1,999","27,880","+/-3,451",30.9,+/-3.5
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",131,"$2,000 to $2,499","6,814","+/-1,751",7.5,+/-1.9
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",132,"$2,500 to $2,999",841,+/-515,0.9,+/-0.6
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",133,"$3,000 or more","1,712",+/-696,1.9,+/-0.8
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",134,Median (dollars),"1,408",+/-34,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",134.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",135,No rent paid,"2,815",+/-839,(X),(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",135.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"88,738","+/-4,264","88,738",(X)
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",137,Less than 15.0 percent,"10,694","+/-1,946",12.1,+/-2.1
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",138,15.0 to 19.9 percent,"9,254","+/-2,096",10.4,+/-2.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",139,20.0 to 24.9 percent,"14,529","+/-2,799",16.4,+/-3.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",140,25.0 to 29.9 percent,"9,454","+/-2,325",10.7,+/-2.6
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",141,30.0 to 34.9 percent,"8,269","+/-2,152",9.3,+/-2.4
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",142,35.0 percent or more,"36,538","+/-3,865",41.2,+/-4.0
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",142.3,,,,,
+DP04,5001800US2402,"Congressional District 2 (118th Congress), Maryland",143,Not computed,"4,388","+/-1,171",(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",0.5,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",1,Total housing units,"299,343","+/-3,124","299,343",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",2,Occupied housing units,"289,086","+/-3,185",96.6,+/-0.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",3,Vacant housing units,"10,257","+/-1,845",3.4,+/-0.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",3.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",5,Rental vacancy rate,3.9,+/-1.5,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",5.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",6,Total housing units,"299,343","+/-3,124","299,343",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",7,"1-unit, detached","177,919","+/-4,007",59.4,+/-1.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",8,"1-unit, attached","64,926","+/-3,655",21.7,+/-1.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",9,2 units,"2,916","+/-1,215",1.0,+/-0.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",10,3 or 4 units,"2,313","+/-1,045",0.8,+/-0.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",11,5 to 9 units,"11,147","+/-1,814",3.7,+/-0.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",12,10 to 19 units,"19,109","+/-2,134",6.4,+/-0.7
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",13,20 or more units,"18,755","+/-2,240",6.3,+/-0.7
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",14,Mobile home,"1,610",+/-668,0.5,+/-0.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",15,"Boat, RV, van, etc.",648,+/-576,0.2,+/-0.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",15.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",16,Total housing units,"299,343","+/-3,124","299,343",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",17,Built 2020 or later,"1,395",+/-515,0.5,+/-0.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",18,Built 2010 to 2019,"36,014","+/-3,035",12.0,+/-1.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",19,Built 2000 to 2009,"33,337","+/-2,977",11.1,+/-1.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",20,Built 1990 to 1999,"46,293","+/-4,533",15.5,+/-1.5
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",21,Built 1980 to 1989,"61,015","+/-3,436",20.4,+/-1.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",22,Built 1970 to 1979,"48,485","+/-3,273",16.2,+/-1.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",23,Built 1960 to 1969,"28,365","+/-3,079",9.5,+/-1.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",24,Built 1950 to 1959,"22,211","+/-2,520",7.4,+/-0.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",25,Built 1940 to 1949,"9,635","+/-1,601",3.2,+/-0.5
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",26,Built 1939 or earlier,"12,593","+/-1,803",4.2,+/-0.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",26.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",26.5,ROOMS,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",27,Total housing units,"299,343","+/-3,124","299,343",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",28,1 room,"4,191","+/-1,232",1.4,+/-0.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",29,2 rooms,"5,350","+/-1,208",1.8,+/-0.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",30,3 rooms,"16,071","+/-2,258",5.4,+/-0.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",31,4 rooms,"28,530","+/-3,088",9.5,+/-1.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",32,5 rooms,"32,073","+/-3,160",10.7,+/-1.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",33,6 rooms,"44,329","+/-3,850",14.8,+/-1.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",34,7 rooms,"41,284","+/-3,807",13.8,+/-1.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",35,8 rooms,"41,857","+/-3,659",14.0,+/-1.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",36,9 rooms or more,"85,658","+/-3,424",28.6,+/-1.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",37,Median rooms,7.0,+/-0.2,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",37.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",37.5,BEDROOMS,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",38,Total housing units,"299,343","+/-3,124","299,343",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",39,No bedroom,"4,573","+/-1,216",1.5,+/-0.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",40,1 bedroom,"20,553","+/-2,289",6.9,+/-0.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",41,2 bedrooms,"50,916","+/-3,543",17.0,+/-1.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",42,3 bedrooms,"107,668","+/-4,493",36.0,+/-1.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",43,4 bedrooms,"86,291","+/-3,920",28.8,+/-1.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",44,5 or more bedrooms,"29,342","+/-2,921",9.8,+/-1.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",44.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",44.5,HOUSING TENURE,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",45,Occupied housing units,"289,086","+/-3,185","289,086",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",46,Owner-occupied,"219,567","+/-4,601",76.0,+/-1.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",47,Renter-occupied,"69,519","+/-4,105",24.0,+/-1.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",47.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",48,Average household size of owner-occupied unit,2.73,+/-0.04,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",49,Average household size of renter-occupied unit,2.33,+/-0.10,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",49.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",50,Occupied housing units,"289,086","+/-3,185","289,086",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",51,Moved in 2019 or later,"70,781","+/-4,037",24.5,+/-1.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",52,Moved in 2015 to 2018,"63,105","+/-3,653",21.8,+/-1.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",53,Moved in 2010 to 2014,"36,388","+/-3,355",12.6,+/-1.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",54,Moved in 2000 to 2009,"52,748","+/-3,606",18.2,+/-1.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",55,Moved in 1990 to 1999,"33,391","+/-3,266",11.6,+/-1.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",56,Moved in 1989 and earlier,"32,673","+/-2,989",11.3,+/-1.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",56.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",57,Occupied housing units,"289,086","+/-3,185","289,086",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",58,No vehicles available,"10,413","+/-1,976",3.6,+/-0.7
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",59,1 vehicle available,"81,179","+/-4,691",28.1,+/-1.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",60,2 vehicles available,"121,912","+/-5,316",42.2,+/-1.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",61,3 or more vehicles available,"75,582","+/-4,097",26.1,+/-1.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",61.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",62,Occupied housing units,"289,086","+/-3,185","289,086",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",63,Utility gas,"110,391","+/-5,418",38.2,+/-1.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",64,"Bottled, tank, or LP gas","7,932","+/-1,644",2.7,+/-0.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",65,Electricity,"141,144","+/-5,073",48.8,+/-1.7
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",66,"Fuel oil, kerosene, etc.","23,744","+/-2,418",8.2,+/-0.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",67,Coal or coke,89,+/-147,0.0,+/-0.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",68,Wood,"1,477",+/-545,0.5,+/-0.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",69,Solar energy,"1,043",+/-511,0.4,+/-0.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",70,Other fuel,"1,450",+/-736,0.5,+/-0.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",71,No fuel used,"1,816",+/-859,0.6,+/-0.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",71.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",72,Occupied housing units,"289,086","+/-3,185","289,086",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",73,Lacking complete plumbing facilities,"1,512",+/-833,0.5,+/-0.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",74,Lacking complete kitchen facilities,"1,934",+/-946,0.7,+/-0.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",75,No telephone service available,"1,760",+/-806,0.6,+/-0.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",75.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",76,Occupied housing units,"289,086","+/-3,185","289,086",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",77,1.00 or less,"284,755","+/-3,479",98.5,+/-0.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",78,1.01 to 1.50,"2,763","+/-1,090",1.0,+/-0.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",79,1.51 or more,"1,568",+/-693,0.5,+/-0.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",79.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",79.5,VALUE,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",80,Owner-occupied units,"219,567","+/-4,601","219,567",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",81,"Less than $50,000","5,036","+/-1,140",2.3,+/-0.5
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",82,"$50,000 to $99,999","1,866",+/-669,0.8,+/-0.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",83,"$100,000 to $149,999","2,858",+/-792,1.3,+/-0.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",84,"$150,000 to $199,999","5,203","+/-1,386",2.4,+/-0.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",85,"$200,000 to $299,999","25,213","+/-2,893",11.5,+/-1.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",86,"$300,000 to $499,999","87,178","+/-4,063",39.7,+/-1.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",87,"$500,000 to $999,999","79,568","+/-3,445",36.2,+/-1.5
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",88,"$1,000,000 or more","12,645","+/-1,768",5.8,+/-0.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",89,Median (dollars),"457,000","+/-7,482",(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",89.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",90,Owner-occupied units,"219,567","+/-4,601","219,567",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",91,Housing units with a mortgage,"160,259","+/-4,838",73.0,+/-1.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",92,Housing units without a mortgage,"59,308","+/-3,060",27.0,+/-1.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",92.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",93,Housing units with a mortgage,"160,259","+/-4,838","160,259",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",94,Less than $500,970,+/-595,0.6,+/-0.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",95,$500 to $999,"4,907","+/-1,301",3.1,+/-0.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",96,"$1,000 to $1,499","19,340","+/-2,210",12.1,+/-1.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",97,"$1,500 to $1,999","35,088","+/-3,199",21.9,+/-1.9
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",98,"$2,000 to $2,499","34,664","+/-2,717",21.6,+/-1.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",99,"$2,500 to $2,999","26,058","+/-2,625",16.3,+/-1.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",100,"$3,000 or more","39,232","+/-2,718",24.5,+/-1.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",101,Median (dollars),"2,286",+/-41,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",101.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",102,Housing units without a mortgage,"59,308","+/-3,060","59,308",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",103,Less than $250,"1,729",+/-655,2.9,+/-1.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",104,$250 to $399,"4,648","+/-1,200",7.8,+/-2.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",105,$400 to $599,"14,827","+/-2,014",25.0,+/-2.9
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",106,$600 to $799,"13,784","+/-1,844",23.2,+/-2.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",107,$800 to $999,"11,330","+/-1,503",19.1,+/-2.5
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",108,"$1,000 or more","12,990","+/-1,614",21.9,+/-2.7
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",109,Median (dollars),722,+/-26,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",109.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"159,289","+/-4,705","159,289",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",111,Less than 20.0 percent,"81,298","+/-3,961",51.0,+/-2.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",112,20.0 to 24.9 percent,"25,882","+/-2,769",16.2,+/-1.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",113,25.0 to 29.9 percent,"15,087","+/-2,496",9.5,+/-1.5
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",114,30.0 to 34.9 percent,"10,792","+/-1,666",6.8,+/-1.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",115,35.0 percent or more,"26,230","+/-2,716",16.5,+/-1.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",115.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",116,Not computed,970,+/-702,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",116.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"58,346","+/-3,012","58,346",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",118,Less than 10.0 percent,"31,568","+/-2,570",54.1,+/-3.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",119,10.0 to 14.9 percent,"10,471","+/-1,565",17.9,+/-2.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",120,15.0 to 19.9 percent,"5,283","+/-1,074",9.1,+/-1.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",121,20.0 to 24.9 percent,"3,540",+/-885,6.1,+/-1.5
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",122,25.0 to 29.9 percent,"1,623",+/-587,2.8,+/-1.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",123,30.0 to 34.9 percent,949,+/-493,1.6,+/-0.8
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",124,35.0 percent or more,"4,912","+/-1,188",8.4,+/-2.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",124.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",125,Not computed,962,+/-529,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",125.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",125.5,GROSS RENT,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",126,Occupied units paying rent,"67,807","+/-3,950","67,807",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",127,Less than $500,"2,810","+/-1,052",4.1,+/-1.5
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",128,$500 to $999,"3,791","+/-1,305",5.6,+/-1.9
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",129,"$1,000 to $1,499","14,461","+/-2,114",21.3,+/-3.2
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",130,"$1,500 to $1,999","26,331","+/-2,933",38.8,+/-3.6
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",131,"$2,000 to $2,499","14,295","+/-2,564",21.1,+/-3.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",132,"$2,500 to $2,999","2,277",+/-787,3.4,+/-1.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",133,"$3,000 or more","3,842","+/-1,155",5.7,+/-1.7
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",134,Median (dollars),"1,744",+/-47,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",134.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",135,No rent paid,"1,712",+/-752,(X),(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",135.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"66,737","+/-3,981","66,737",(X)
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",137,Less than 15.0 percent,"6,689","+/-1,420",10.0,+/-2.1
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",138,15.0 to 19.9 percent,"10,029","+/-2,082",15.0,+/-2.9
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",139,20.0 to 24.9 percent,"10,822","+/-2,138",16.2,+/-3.0
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",140,25.0 to 29.9 percent,"7,870","+/-1,862",11.8,+/-2.7
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",141,30.0 to 34.9 percent,"5,471","+/-1,531",8.2,+/-2.3
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",142,35.0 percent or more,"25,856","+/-2,767",38.7,+/-3.4
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",142.3,,,,,
+DP04,5001800US2403,"Congressional District 3 (118th Congress), Maryland",143,Not computed,"2,782","+/-1,045",(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",0.5,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",1,Total housing units,"286,980","+/-3,536","286,980",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",2,Occupied housing units,"272,010","+/-4,038",94.8,+/-0.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",3,Vacant housing units,"14,970","+/-2,082",5.2,+/-0.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",3.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",4,Homeowner vacancy rate,0.6,+/-0.4,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",5,Rental vacancy rate,3.5,+/-0.9,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",5.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",6,Total housing units,"286,980","+/-3,536","286,980",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",7,"1-unit, detached","123,993","+/-4,154",43.2,+/-1.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",8,"1-unit, attached","44,664","+/-3,244",15.6,+/-1.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",9,2 units,"1,981",+/-923,0.7,+/-0.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",10,3 or 4 units,"6,894","+/-1,368",2.4,+/-0.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",11,5 to 9 units,"29,238","+/-3,040",10.2,+/-1.0
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",12,10 to 19 units,"37,536","+/-2,982",13.1,+/-1.0
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",13,20 or more units,"41,567","+/-3,348",14.5,+/-1.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",14,Mobile home,"1,050",+/-574,0.4,+/-0.2
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",15,"Boat, RV, van, etc.",57,+/-99,0.0,+/-0.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",15.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",16,Total housing units,"286,980","+/-3,536","286,980",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",17,Built 2020 or later,796,+/-407,0.3,+/-0.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",18,Built 2010 to 2019,"21,476","+/-2,625",7.5,+/-0.9
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",19,Built 2000 to 2009,"25,848","+/-3,079",9.0,+/-1.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",20,Built 1990 to 1999,"29,831","+/-2,801",10.4,+/-0.9
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",21,Built 1980 to 1989,"38,112","+/-3,579",13.3,+/-1.2
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",22,Built 1970 to 1979,"39,855","+/-3,298",13.9,+/-1.2
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",23,Built 1960 to 1969,"55,211","+/-4,224",19.2,+/-1.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",24,Built 1950 to 1959,"43,037","+/-2,833",15.0,+/-1.0
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",25,Built 1940 to 1949,"17,933","+/-2,264",6.2,+/-0.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",26,Built 1939 or earlier,"14,881","+/-2,075",5.2,+/-0.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",26.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",26.5,ROOMS,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",27,Total housing units,"286,980","+/-3,536","286,980",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",28,1 room,"6,611","+/-1,663",2.3,+/-0.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",29,2 rooms,"9,723","+/-1,982",3.4,+/-0.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",30,3 rooms,"39,385","+/-3,360",13.7,+/-1.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",31,4 rooms,"48,968","+/-3,369",17.1,+/-1.2
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",32,5 rooms,"37,335","+/-2,915",13.0,+/-1.0
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",33,6 rooms,"39,853","+/-2,755",13.9,+/-1.0
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",34,7 rooms,"28,828","+/-2,760",10.0,+/-0.9
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",35,8 rooms,"28,136","+/-2,842",9.8,+/-1.0
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",36,9 rooms or more,"48,141","+/-3,237",16.8,+/-1.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",37,Median rooms,5.5,+/-0.2,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",37.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",37.5,BEDROOMS,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",38,Total housing units,"286,980","+/-3,536","286,980",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",39,No bedroom,"7,815","+/-1,778",2.7,+/-0.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",40,1 bedroom,"42,841","+/-3,902",14.9,+/-1.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",41,2 bedrooms,"72,541","+/-4,136",25.3,+/-1.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",42,3 bedrooms,"84,161","+/-4,519",29.3,+/-1.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",43,4 bedrooms,"55,664","+/-3,576",19.4,+/-1.2
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",44,5 or more bedrooms,"23,958","+/-2,619",8.3,+/-0.9
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",44.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",44.5,HOUSING TENURE,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",45,Occupied housing units,"272,010","+/-4,038","272,010",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",46,Owner-occupied,"148,164","+/-4,120",54.5,+/-1.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",47,Renter-occupied,"123,846","+/-4,117",45.5,+/-1.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",47.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",48,Average household size of owner-occupied unit,2.86,+/-0.06,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",49,Average household size of renter-occupied unit,2.50,+/-0.07,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",49.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",50,Occupied housing units,"272,010","+/-4,038","272,010",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",51,Moved in 2019 or later,"73,796","+/-4,097",27.1,+/-1.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",52,Moved in 2015 to 2018,"63,649","+/-4,099",23.4,+/-1.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",53,Moved in 2010 to 2014,"33,809","+/-3,483",12.4,+/-1.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",54,Moved in 2000 to 2009,"44,467","+/-3,343",16.3,+/-1.2
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",55,Moved in 1990 to 1999,"28,371","+/-2,018",10.4,+/-0.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",56,Moved in 1989 and earlier,"27,918","+/-2,275",10.3,+/-0.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",56.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",57,Occupied housing units,"272,010","+/-4,038","272,010",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",58,No vehicles available,"30,167","+/-3,160",11.1,+/-1.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",59,1 vehicle available,"106,637","+/-4,772",39.2,+/-1.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",60,2 vehicles available,"80,540","+/-3,948",29.6,+/-1.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",61,3 or more vehicles available,"54,666","+/-3,587",20.1,+/-1.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",61.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",62,Occupied housing units,"272,010","+/-4,038","272,010",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",63,Utility gas,"139,728","+/-4,503",51.4,+/-1.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",64,"Bottled, tank, or LP gas","3,635",+/-952,1.3,+/-0.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",65,Electricity,"117,028","+/-5,402",43.0,+/-1.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",66,"Fuel oil, kerosene, etc.","7,057","+/-1,583",2.6,+/-0.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",67,Coal or coke,50,+/-62,0.0,+/-0.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",68,Wood,281,+/-245,0.1,+/-0.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",69,Solar energy,"1,612",+/-718,0.6,+/-0.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",70,Other fuel,408,+/-340,0.1,+/-0.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",71,No fuel used,"2,211",+/-794,0.8,+/-0.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",71.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",72,Occupied housing units,"272,010","+/-4,038","272,010",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",73,Lacking complete plumbing facilities,615,+/-541,0.2,+/-0.2
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",74,Lacking complete kitchen facilities,"1,307",+/-715,0.5,+/-0.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",75,No telephone service available,"1,851",+/-815,0.7,+/-0.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",75.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",76,Occupied housing units,"272,010","+/-4,038","272,010",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",77,1.00 or less,"258,543","+/-4,674",95.0,+/-0.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",78,1.01 to 1.50,"8,589","+/-1,636",3.2,+/-0.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",79,1.51 or more,"4,878","+/-1,361",1.8,+/-0.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",79.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",79.5,VALUE,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",80,Owner-occupied units,"148,164","+/-4,120","148,164",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",81,"Less than $50,000","4,675","+/-1,032",3.2,+/-0.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",82,"$50,000 to $99,999","2,107",+/-855,1.4,+/-0.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",83,"$100,000 to $149,999","2,815",+/-860,1.9,+/-0.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",84,"$150,000 to $199,999","5,350","+/-1,275",3.6,+/-0.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",85,"$200,000 to $299,999","29,093","+/-2,636",19.6,+/-1.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",86,"$300,000 to $499,999","80,754","+/-3,488",54.5,+/-1.9
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",87,"$500,000 to $999,999","21,976","+/-2,557",14.8,+/-1.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",88,"$1,000,000 or more","1,394",+/-672,0.9,+/-0.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",89,Median (dollars),"360,700","+/-5,593",(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",89.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",90,Owner-occupied units,"148,164","+/-4,120","148,164",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",91,Housing units with a mortgage,"114,833","+/-4,450",77.5,+/-1.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",92,Housing units without a mortgage,"33,331","+/-2,707",22.5,+/-1.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",92.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",93,Housing units with a mortgage,"114,833","+/-4,450","114,833",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",94,Less than $500,737,+/-436,0.6,+/-0.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",95,$500 to $999,"3,894",+/-774,3.4,+/-0.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",96,"$1,000 to $1,499","18,292","+/-2,051",15.9,+/-1.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",97,"$1,500 to $1,999","31,726","+/-2,705",27.6,+/-2.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",98,"$2,000 to $2,499","29,606","+/-2,341",25.8,+/-1.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",99,"$2,500 to $2,999","17,047","+/-2,108",14.8,+/-1.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",100,"$3,000 or more","13,531","+/-2,084",11.8,+/-1.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",101,Median (dollars),"2,047",+/-41,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",101.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",102,Housing units without a mortgage,"33,331","+/-2,707","33,331",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",103,Less than $250,763,+/-372,2.3,+/-1.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",104,$250 to $399,"2,613",+/-840,7.8,+/-2.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",105,$400 to $599,"8,094","+/-1,382",24.3,+/-3.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",106,$600 to $799,"9,620","+/-1,494",28.9,+/-4.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",107,$800 to $999,"6,382","+/-1,147",19.1,+/-3.2
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",108,"$1,000 or more","5,859","+/-1,392",17.6,+/-3.9
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",109,Median (dollars),712,+/-26,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",109.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"114,500","+/-4,391","114,500",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",111,Less than 20.0 percent,"45,933","+/-3,184",40.1,+/-2.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",112,20.0 to 24.9 percent,"15,448","+/-1,963",13.5,+/-1.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",113,25.0 to 29.9 percent,"14,081","+/-2,237",12.3,+/-1.8
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",114,30.0 to 34.9 percent,"8,811","+/-1,744",7.7,+/-1.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",115,35.0 percent or more,"30,227","+/-3,071",26.4,+/-2.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",115.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",116,Not computed,333,+/-258,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",116.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"32,850","+/-2,711","32,850",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",118,Less than 10.0 percent,"14,837","+/-1,938",45.2,+/-4.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",119,10.0 to 14.9 percent,"7,382","+/-1,314",22.5,+/-3.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",120,15.0 to 19.9 percent,"3,373",+/-862,10.3,+/-2.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",121,20.0 to 24.9 percent,"2,043",+/-744,6.2,+/-2.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",122,25.0 to 29.9 percent,730,+/-329,2.2,+/-1.0
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",123,30.0 to 34.9 percent,745,+/-377,2.3,+/-1.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",124,35.0 percent or more,"3,740",+/-906,11.4,+/-2.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",124.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",125,Not computed,481,+/-379,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",125.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",125.5,GROSS RENT,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",126,Occupied units paying rent,"120,731","+/-4,167","120,731",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",127,Less than $500,"3,976","+/-1,082",3.3,+/-0.9
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",128,$500 to $999,"6,116","+/-1,659",5.1,+/-1.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",129,"$1,000 to $1,499","46,364","+/-3,631",38.4,+/-2.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",130,"$1,500 to $1,999","44,279","+/-2,898",36.7,+/-2.4
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",131,"$2,000 to $2,499","13,734","+/-2,124",11.4,+/-1.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",132,"$2,500 to $2,999","4,576","+/-1,103",3.8,+/-0.9
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",133,"$3,000 or more","1,686",+/-636,1.4,+/-0.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",134,Median (dollars),"1,544",+/-33,(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",134.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",135,No rent paid,"3,115","+/-1,120",(X),(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",135.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"118,298","+/-3,986","118,298",(X)
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",137,Less than 15.0 percent,"9,931","+/-1,815",8.4,+/-1.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",138,15.0 to 19.9 percent,"13,114","+/-2,029",11.1,+/-1.7
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",139,20.0 to 24.9 percent,"18,653","+/-2,482",15.8,+/-2.1
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",140,25.0 to 29.9 percent,"15,054","+/-2,709",12.7,+/-2.3
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",141,30.0 to 34.9 percent,"10,617","+/-1,774",9.0,+/-1.5
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",142,35.0 percent or more,"50,929","+/-3,521",43.1,+/-2.6
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",142.3,,,,,
+DP04,5001800US2404,"Congressional District 4 (118th Congress), Maryland",143,Not computed,"5,548","+/-1,568",(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",0.5,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",1,Total housing units,"300,327","+/-4,102","300,327",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",2,Occupied housing units,"285,346","+/-4,572",95.0,+/-0.9
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",3,Vacant housing units,"14,981","+/-2,853",5.0,+/-0.9
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",3.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",4,Homeowner vacancy rate,1.5,+/-0.5,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",5,Rental vacancy rate,2.8,+/-1.6,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",5.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",6,Total housing units,"300,327","+/-4,102","300,327",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",7,"1-unit, detached","204,439","+/-4,446",68.1,+/-1.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",8,"1-unit, attached","58,933","+/-4,490",19.6,+/-1.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",9,2 units,"1,387",+/-838,0.5,+/-0.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",10,3 or 4 units,"2,734","+/-1,088",0.9,+/-0.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",11,5 to 9 units,"4,265","+/-1,514",1.4,+/-0.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",12,10 to 19 units,"11,430","+/-2,030",3.8,+/-0.7
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",13,20 or more units,"13,959","+/-2,398",4.6,+/-0.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",14,Mobile home,"3,180","+/-1,079",1.1,+/-0.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",15,"Boat, RV, van, etc.",0,+/-216,0.0,+/-0.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",15.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",16,Total housing units,"300,327","+/-4,102","300,327",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",17,Built 2020 or later,"2,992",+/-934,1.0,+/-0.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",18,Built 2010 to 2019,"39,408","+/-3,460",13.1,+/-1.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",19,Built 2000 to 2009,"54,693","+/-3,914",18.2,+/-1.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",20,Built 1990 to 1999,"62,324","+/-3,800",20.8,+/-1.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",21,Built 1980 to 1989,"50,912","+/-4,216",17.0,+/-1.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",22,Built 1970 to 1979,"42,338","+/-3,233",14.1,+/-1.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",23,Built 1960 to 1969,"23,122","+/-2,358",7.7,+/-0.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",24,Built 1950 to 1959,"10,752","+/-1,469",3.6,+/-0.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",25,Built 1940 to 1949,"6,276","+/-1,216",2.1,+/-0.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",26,Built 1939 or earlier,"7,510","+/-1,599",2.5,+/-0.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",26.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",26.5,ROOMS,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",27,Total housing units,"300,327","+/-4,102","300,327",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",28,1 room,"2,825","+/-1,237",0.9,+/-0.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",29,2 rooms,"3,358","+/-1,152",1.1,+/-0.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",30,3 rooms,"11,673","+/-2,343",3.9,+/-0.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",31,4 rooms,"24,009","+/-3,029",8.0,+/-1.0
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",32,5 rooms,"37,432","+/-3,561",12.5,+/-1.2
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",33,6 rooms,"43,285","+/-3,687",14.4,+/-1.2
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",34,7 rooms,"42,307","+/-3,353",14.1,+/-1.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",35,8 rooms,"42,008","+/-3,256",14.0,+/-1.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",36,9 rooms or more,"93,430","+/-4,695",31.1,+/-1.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",37,Median rooms,7.2,+/-0.2,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",37.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",37.5,BEDROOMS,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",38,Total housing units,"300,327","+/-4,102","300,327",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",39,No bedroom,"3,021","+/-1,211",1.0,+/-0.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",40,1 bedroom,"13,026","+/-2,296",4.3,+/-0.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",41,2 bedrooms,"42,039","+/-3,651",14.0,+/-1.2
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",42,3 bedrooms,"110,539","+/-5,684",36.8,+/-1.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",43,4 bedrooms,"95,252","+/-4,805",31.7,+/-1.6
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",44,5 or more bedrooms,"36,450","+/-3,244",12.1,+/-1.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",44.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",44.5,HOUSING TENURE,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",45,Occupied housing units,"285,346","+/-4,572","285,346",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",46,Owner-occupied,"227,186","+/-4,334",79.6,+/-1.2
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",47,Renter-occupied,"58,160","+/-3,737",20.4,+/-1.2
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",47.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",48,Average household size of owner-occupied unit,2.78,+/-0.05,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",49,Average household size of renter-occupied unit,2.44,+/-0.14,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",49.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",50,Occupied housing units,"285,346","+/-4,572","285,346",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",51,Moved in 2019 or later,"71,890","+/-4,714",25.2,+/-1.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",52,Moved in 2015 to 2018,"61,826","+/-4,201",21.7,+/-1.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",53,Moved in 2010 to 2014,"31,898","+/-2,886",11.2,+/-1.0
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",54,Moved in 2000 to 2009,"55,018","+/-4,093",19.3,+/-1.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",55,Moved in 1990 to 1999,"36,709","+/-3,012",12.9,+/-1.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",56,Moved in 1989 and earlier,"28,005","+/-2,374",9.8,+/-0.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",56.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",57,Occupied housing units,"285,346","+/-4,572","285,346",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",58,No vehicles available,"9,088","+/-1,701",3.2,+/-0.6
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",59,1 vehicle available,"70,613","+/-4,902",24.7,+/-1.6
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",60,2 vehicles available,"115,093","+/-5,360",40.3,+/-1.9
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",61,3 or more vehicles available,"90,552","+/-4,520",31.7,+/-1.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",61.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",62,Occupied housing units,"285,346","+/-4,572","285,346",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",63,Utility gas,"90,457","+/-4,794",31.7,+/-1.6
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",64,"Bottled, tank, or LP gas","13,035","+/-1,928",4.6,+/-0.7
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",65,Electricity,"149,663","+/-5,160",52.4,+/-1.6
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",66,"Fuel oil, kerosene, etc.","24,589","+/-2,417",8.6,+/-0.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",67,Coal or coke,0,+/-216,0.0,+/-0.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",68,Wood,"3,998","+/-1,045",1.4,+/-0.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",69,Solar energy,721,+/-373,0.3,+/-0.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",70,Other fuel,"1,129",+/-590,0.4,+/-0.2
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",71,No fuel used,"1,754",+/-705,0.6,+/-0.2
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",71.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",72,Occupied housing units,"285,346","+/-4,572","285,346",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",73,Lacking complete plumbing facilities,"1,451",+/-708,0.5,+/-0.2
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",74,Lacking complete kitchen facilities,"1,961",+/-875,0.7,+/-0.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",75,No telephone service available,"2,188",+/-999,0.8,+/-0.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",75.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",76,Occupied housing units,"285,346","+/-4,572","285,346",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",77,1.00 or less,"281,292","+/-4,910",98.6,+/-0.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",78,1.01 to 1.50,"2,522",+/-973,0.9,+/-0.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",79,1.51 or more,"1,532",+/-828,0.5,+/-0.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",79.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",79.5,VALUE,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",80,Owner-occupied units,"227,186","+/-4,334","227,186",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",81,"Less than $50,000","7,559","+/-1,445",3.3,+/-0.6
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",82,"$50,000 to $99,999","1,820",+/-741,0.8,+/-0.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",83,"$100,000 to $149,999","1,493",+/-526,0.7,+/-0.2
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",84,"$150,000 to $199,999","3,462","+/-1,093",1.5,+/-0.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",85,"$200,000 to $299,999","34,721","+/-3,516",15.3,+/-1.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",86,"$300,000 to $499,999","113,971","+/-5,275",50.2,+/-2.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",87,"$500,000 to $999,999","58,995","+/-3,769",26.0,+/-1.6
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",88,"$1,000,000 or more","5,165","+/-1,045",2.3,+/-0.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",89,Median (dollars),"400,500","+/-6,410",(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",89.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",90,Owner-occupied units,"227,186","+/-4,334","227,186",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",91,Housing units with a mortgage,"179,579","+/-4,906",79.0,+/-1.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",92,Housing units without a mortgage,"47,607","+/-2,813",21.0,+/-1.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",92.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",93,Housing units with a mortgage,"179,579","+/-4,906","179,579",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",94,Less than $500,"1,155",+/-537,0.6,+/-0.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",95,$500 to $999,"4,780","+/-1,326",2.7,+/-0.7
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",96,"$1,000 to $1,499","20,498","+/-2,482",11.4,+/-1.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",97,"$1,500 to $1,999","45,135","+/-3,490",25.1,+/-1.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",98,"$2,000 to $2,499","45,058","+/-3,790",25.1,+/-2.0
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",99,"$2,500 to $2,999","28,218","+/-2,919",15.7,+/-1.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",100,"$3,000 or more","34,735","+/-2,622",19.3,+/-1.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",101,Median (dollars),"2,202",+/-31,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",101.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",102,Housing units without a mortgage,"47,607","+/-2,813","47,607",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",103,Less than $250,"2,001",+/-802,4.2,+/-1.7
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",104,$250 to $399,"4,909","+/-1,153",10.3,+/-2.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",105,$400 to $599,"13,385","+/-1,697",28.1,+/-3.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",106,$600 to $799,"13,099","+/-1,894",27.5,+/-3.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",107,$800 to $999,"8,551","+/-1,598",18.0,+/-3.0
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",108,"$1,000 or more","5,662","+/-1,339",11.9,+/-2.7
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",109,Median (dollars),649,+/-21,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",109.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"179,088","+/-4,957","179,088",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",111,Less than 20.0 percent,"90,635","+/-4,617",50.6,+/-2.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",112,20.0 to 24.9 percent,"26,919","+/-2,694",15.0,+/-1.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",113,25.0 to 29.9 percent,"19,689","+/-3,007",11.0,+/-1.6
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",114,30.0 to 34.9 percent,"12,552","+/-2,249",7.0,+/-1.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",115,35.0 percent or more,"29,293","+/-2,717",16.4,+/-1.5
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",115.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",116,Not computed,491,+/-430,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",116.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"46,645","+/-2,862","46,645",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",118,Less than 10.0 percent,"27,483","+/-2,405",58.9,+/-3.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",119,10.0 to 14.9 percent,"6,964","+/-1,110",14.9,+/-2.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",120,15.0 to 19.9 percent,"3,748","+/-1,063",8.0,+/-2.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",121,20.0 to 24.9 percent,"1,623",+/-560,3.5,+/-1.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",122,25.0 to 29.9 percent,"1,200",+/-521,2.6,+/-1.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",123,30.0 to 34.9 percent,669,+/-458,1.4,+/-1.0
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",124,35.0 percent or more,"4,958","+/-1,258",10.6,+/-2.7
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",124.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",125,Not computed,962,+/-558,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",125.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",125.5,GROSS RENT,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",126,Occupied units paying rent,"55,023","+/-3,749","55,023",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",127,Less than $500,"2,254",+/-916,4.1,+/-1.6
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",128,$500 to $999,"3,845","+/-1,075",7.0,+/-2.0
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",129,"$1,000 to $1,499","9,626","+/-2,013",17.5,+/-3.3
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",130,"$1,500 to $1,999","20,323","+/-2,854",36.9,+/-4.7
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",131,"$2,000 to $2,499","14,052","+/-2,489",25.5,+/-4.0
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",132,"$2,500 to $2,999","3,141",+/-946,5.7,+/-1.7
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",133,"$3,000 or more","1,782",+/-534,3.2,+/-1.0
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",134,Median (dollars),"1,790",+/-46,(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",134.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",135,No rent paid,"3,137","+/-1,057",(X),(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",135.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"53,872","+/-3,745","53,872",(X)
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",137,Less than 15.0 percent,"6,593","+/-1,529",12.2,+/-2.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",138,15.0 to 19.9 percent,"5,880","+/-1,614",10.9,+/-2.8
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",139,20.0 to 24.9 percent,"8,512","+/-1,697",15.8,+/-2.9
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",140,25.0 to 29.9 percent,"5,576","+/-1,328",10.4,+/-2.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",141,30.0 to 34.9 percent,"3,468","+/-1,162",6.4,+/-2.1
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",142,35.0 percent or more,"23,843","+/-2,875",44.3,+/-4.4
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",142.3,,,,,
+DP04,5001800US2405,"Congressional District 5 (118th Congress), Maryland",143,Not computed,"4,288","+/-1,220",(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",0.5,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",1,Total housing units,"315,296","+/-4,117","315,296",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",2,Occupied housing units,"294,285","+/-4,873",93.3,+/-0.7
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",3,Vacant housing units,"21,011","+/-2,166",6.7,+/-0.7
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",3.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",4,Homeowner vacancy rate,0.5,+/-0.3,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",5,Rental vacancy rate,4.2,+/-1.1,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",5.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",6,Total housing units,"315,296","+/-4,117","315,296",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",7,"1-unit, detached","169,498","+/-4,735",53.8,+/-1.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",8,"1-unit, attached","65,274","+/-3,311",20.7,+/-1.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",9,2 units,"5,792","+/-1,273",1.8,+/-0.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",10,3 or 4 units,"7,742","+/-1,484",2.5,+/-0.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",11,5 to 9 units,"13,921","+/-2,177",4.4,+/-0.7
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",12,10 to 19 units,"28,107","+/-2,753",8.9,+/-0.9
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",13,20 or more units,"18,637","+/-2,093",5.9,+/-0.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",14,Mobile home,"6,316","+/-1,284",2.0,+/-0.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",15,"Boat, RV, van, etc.",9,+/-15,0.0,+/-0.1
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",15.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",16,Total housing units,"315,296","+/-4,117","315,296",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",17,Built 2020 or later,"2,496",+/-657,0.8,+/-0.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",18,Built 2010 to 2019,"31,290","+/-2,884",9.9,+/-0.9
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",19,Built 2000 to 2009,"44,378","+/-2,975",14.1,+/-1.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",20,Built 1990 to 1999,"49,237","+/-3,855",15.6,+/-1.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",21,Built 1980 to 1989,"50,170","+/-2,787",15.9,+/-0.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",22,Built 1970 to 1979,"43,644","+/-2,714",13.8,+/-0.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",23,Built 1960 to 1969,"25,258","+/-2,247",8.0,+/-0.7
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",24,Built 1950 to 1959,"19,734","+/-1,814",6.3,+/-0.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",25,Built 1940 to 1949,"8,641","+/-1,348",2.7,+/-0.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",26,Built 1939 or earlier,"40,448","+/-2,944",12.8,+/-1.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",26.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",26.5,ROOMS,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",27,Total housing units,"315,296","+/-4,117","315,296",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",28,1 room,"5,567","+/-1,280",1.8,+/-0.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",29,2 rooms,"6,598","+/-1,525",2.1,+/-0.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",30,3 rooms,"19,893","+/-2,245",6.3,+/-0.7
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",31,4 rooms,"41,156","+/-3,810",13.1,+/-1.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",32,5 rooms,"49,009","+/-3,592",15.5,+/-1.1
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",33,6 rooms,"51,964","+/-3,667",16.5,+/-1.1
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",34,7 rooms,"40,613","+/-3,093",12.9,+/-1.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",35,8 rooms,"37,365","+/-3,182",11.9,+/-1.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",36,9 rooms or more,"63,131","+/-3,142",20.0,+/-1.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",37,Median rooms,6.2,+/-0.1,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",37.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",37.5,BEDROOMS,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",38,Total housing units,"315,296","+/-4,117","315,296",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",39,No bedroom,"5,702","+/-1,278",1.8,+/-0.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",40,1 bedroom,"26,462","+/-2,400",8.4,+/-0.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",41,2 bedrooms,"70,593","+/-3,855",22.4,+/-1.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",42,3 bedrooms,"123,272","+/-4,580",39.1,+/-1.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",43,4 bedrooms,"68,559","+/-3,758",21.7,+/-1.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",44,5 or more bedrooms,"20,708","+/-2,140",6.6,+/-0.7
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",44.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",44.5,HOUSING TENURE,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",45,Occupied housing units,"294,285","+/-4,873","294,285",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",46,Owner-occupied,"202,922","+/-5,343",69.0,+/-1.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",47,Renter-occupied,"91,363","+/-4,090",31.0,+/-1.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",47.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",48,Average household size of owner-occupied unit,2.65,+/-0.04,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",49,Average household size of renter-occupied unit,2.37,+/-0.08,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",49.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",50,Occupied housing units,"294,285","+/-4,873","294,285",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",51,Moved in 2019 or later,"76,565","+/-4,375",26.0,+/-1.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",52,Moved in 2015 to 2018,"68,125","+/-4,271",23.1,+/-1.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",53,Moved in 2010 to 2014,"35,729","+/-2,996",12.1,+/-1.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",54,Moved in 2000 to 2009,"52,072","+/-3,313",17.7,+/-1.1
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",55,Moved in 1990 to 1999,"32,136","+/-2,291",10.9,+/-0.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",56,Moved in 1989 and earlier,"29,658","+/-2,263",10.1,+/-0.7
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",56.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",57,Occupied housing units,"294,285","+/-4,873","294,285",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",58,No vehicles available,"20,906","+/-2,486",7.1,+/-0.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",59,1 vehicle available,"93,418","+/-5,222",31.7,+/-1.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",60,2 vehicles available,"109,197","+/-3,941",37.1,+/-1.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",61,3 or more vehicles available,"70,764","+/-3,731",24.0,+/-1.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",61.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",62,Occupied housing units,"294,285","+/-4,873","294,285",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",63,Utility gas,"105,741","+/-3,619",35.9,+/-1.1
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",64,"Bottled, tank, or LP gas","12,358","+/-1,864",4.2,+/-0.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",65,Electricity,"136,297","+/-4,432",46.3,+/-1.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",66,"Fuel oil, kerosene, etc.","29,325","+/-2,058",10.0,+/-0.7
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",67,Coal or coke,999,+/-426,0.3,+/-0.1
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",68,Wood,"5,996","+/-1,079",2.0,+/-0.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",69,Solar energy,335,+/-256,0.1,+/-0.1
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",70,Other fuel,"1,094",+/-534,0.4,+/-0.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",71,No fuel used,"2,140",+/-734,0.7,+/-0.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",71.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",72,Occupied housing units,"294,285","+/-4,873","294,285",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",73,Lacking complete plumbing facilities,"1,424",+/-813,0.5,+/-0.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",74,Lacking complete kitchen facilities,"2,502","+/-1,040",0.9,+/-0.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",75,No telephone service available,"2,098",+/-739,0.7,+/-0.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",75.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",76,Occupied housing units,"294,285","+/-4,873","294,285",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",77,1.00 or less,"287,866","+/-5,084",97.8,+/-0.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",78,1.01 to 1.50,"4,605","+/-1,278",1.6,+/-0.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",79,1.51 or more,"1,814",+/-825,0.6,+/-0.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",79.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",79.5,VALUE,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",80,Owner-occupied units,"202,922","+/-5,343","202,922",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",81,"Less than $50,000","6,781","+/-1,268",3.3,+/-0.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",82,"$50,000 to $99,999","7,144","+/-1,291",3.5,+/-0.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",83,"$100,000 to $149,999","12,432","+/-1,704",6.1,+/-0.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",84,"$150,000 to $199,999","19,446","+/-2,121",9.6,+/-1.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",85,"$200,000 to $299,999","34,818","+/-2,882",17.2,+/-1.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",86,"$300,000 to $499,999","72,941","+/-3,049",35.9,+/-1.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",87,"$500,000 to $999,999","46,088","+/-2,632",22.7,+/-1.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",88,"$1,000,000 or more","3,272","+/-1,125",1.6,+/-0.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",89,Median (dollars),"346,500","+/-5,984",(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",89.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",90,Owner-occupied units,"202,922","+/-5,343","202,922",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",91,Housing units with a mortgage,"139,936","+/-4,764",69.0,+/-1.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",92,Housing units without a mortgage,"62,986","+/-3,815",31.0,+/-1.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",92.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",93,Housing units with a mortgage,"139,936","+/-4,764","139,936",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",94,Less than $500,"1,396",+/-715,1.0,+/-0.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",95,$500 to $999,"12,857","+/-1,705",9.2,+/-1.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",96,"$1,000 to $1,499","29,187","+/-2,497",20.9,+/-1.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",97,"$1,500 to $1,999","35,113","+/-3,065",25.1,+/-1.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",98,"$2,000 to $2,499","25,337","+/-2,582",18.1,+/-1.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",99,"$2,500 to $2,999","16,649","+/-1,665",11.9,+/-1.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",100,"$3,000 or more","19,397","+/-2,175",13.9,+/-1.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",101,Median (dollars),"1,880",+/-39,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",101.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",102,Housing units without a mortgage,"62,986","+/-3,815","62,986",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",103,Less than $250,"4,165",+/-860,6.6,+/-1.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",104,$250 to $399,"13,109","+/-1,731",20.8,+/-2.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",105,$400 to $599,"20,833","+/-2,307",33.1,+/-3.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",106,$600 to $799,"14,326","+/-1,725",22.7,+/-2.1
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",107,$800 to $999,"6,125","+/-1,316",9.7,+/-2.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",108,"$1,000 or more","4,428",+/-842,7.0,+/-1.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",109,Median (dollars),532,+/-16,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",109.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"139,328","+/-4,818","139,328",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",111,Less than 20.0 percent,"72,235","+/-3,492",51.8,+/-2.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",112,20.0 to 24.9 percent,"21,014","+/-2,818",15.1,+/-1.9
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",113,25.0 to 29.9 percent,"11,314","+/-1,500",8.1,+/-1.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",114,30.0 to 34.9 percent,"10,390","+/-1,858",7.5,+/-1.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",115,35.0 percent or more,"24,375","+/-2,560",17.5,+/-1.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",115.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",116,Not computed,608,+/-376,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",116.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"62,688","+/-3,825","62,688",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",118,Less than 10.0 percent,"32,946","+/-2,806",52.6,+/-3.0
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",119,10.0 to 14.9 percent,"12,558","+/-1,559",20.0,+/-2.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",120,15.0 to 19.9 percent,"5,233",+/-904,8.3,+/-1.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",121,20.0 to 24.9 percent,"3,190",+/-881,5.1,+/-1.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",122,25.0 to 29.9 percent,"2,501",+/-579,4.0,+/-0.9
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",123,30.0 to 34.9 percent,"1,044",+/-388,1.7,+/-0.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",124,35.0 percent or more,"5,216","+/-1,228",8.3,+/-1.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",124.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",125,Not computed,298,+/-215,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",125.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",125.5,GROSS RENT,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",126,Occupied units paying rent,"87,044","+/-3,675","87,044",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",127,Less than $500,"6,525","+/-1,538",7.5,+/-1.7
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",128,$500 to $999,"17,483","+/-2,317",20.1,+/-2.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",129,"$1,000 to $1,499","21,103","+/-2,253",24.2,+/-2.6
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",130,"$1,500 to $1,999","27,409","+/-2,787",31.5,+/-2.8
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",131,"$2,000 to $2,499","10,027","+/-1,774",11.5,+/-1.9
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",132,"$2,500 to $2,999","3,135","+/-1,107",3.6,+/-1.3
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",133,"$3,000 or more","1,362",+/-455,1.6,+/-0.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",134,Median (dollars),"1,460",+/-60,(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",134.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",135,No rent paid,"4,319","+/-1,314",(X),(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",135.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"85,254","+/-3,635","85,254",(X)
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",137,Less than 15.0 percent,"9,551","+/-1,523",11.2,+/-1.9
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",138,15.0 to 19.9 percent,"11,558","+/-2,066",13.6,+/-2.4
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",139,20.0 to 24.9 percent,"11,926","+/-1,956",14.0,+/-2.2
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",140,25.0 to 29.9 percent,"11,032","+/-1,946",12.9,+/-2.1
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",141,30.0 to 34.9 percent,"6,925","+/-1,570",8.1,+/-1.9
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",142,35.0 percent or more,"34,262","+/-3,501",40.2,+/-3.5
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",142.3,,,,,
+DP04,5001800US2406,"Congressional District 6 (118th Congress), Maryland",143,Not computed,"6,109","+/-1,523",(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",0.5,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",1,Total housing units,"362,718","+/-4,295","362,718",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",2,Occupied housing units,"320,046","+/-5,387",88.2,+/-0.9
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",3,Vacant housing units,"42,672","+/-3,237",11.8,+/-0.9
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",3.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",4,Homeowner vacancy rate,1.8,+/-0.6,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",5,Rental vacancy rate,4.6,+/-0.9,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",5.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",6,Total housing units,"362,718","+/-4,295","362,718",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",7,"1-unit, detached","80,750","+/-3,550",22.3,+/-1.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",8,"1-unit, attached","165,039","+/-4,952",45.5,+/-1.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",9,2 units,"14,068","+/-2,311",3.9,+/-0.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",10,3 or 4 units,"16,291","+/-2,693",4.5,+/-0.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",11,5 to 9 units,"22,311","+/-3,033",6.2,+/-0.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",12,10 to 19 units,"19,428","+/-2,421",5.4,+/-0.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",13,20 or more units,"43,121","+/-3,056",11.9,+/-0.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",14,Mobile home,"1,054",+/-517,0.3,+/-0.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",15,"Boat, RV, van, etc.",656,+/-688,0.2,+/-0.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",15.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",16,Total housing units,"362,718","+/-4,295","362,718",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",17,Built 2020 or later,758,+/-539,0.2,+/-0.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",18,Built 2010 to 2019,"14,014","+/-1,881",3.9,+/-0.5
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",19,Built 2000 to 2009,"16,264","+/-2,016",4.5,+/-0.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",20,Built 1990 to 1999,"15,686","+/-2,721",4.3,+/-0.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",21,Built 1980 to 1989,"20,463","+/-2,179",5.6,+/-0.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",22,Built 1970 to 1979,"24,995","+/-3,282",6.9,+/-0.9
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",23,Built 1960 to 1969,"33,731","+/-3,110",9.3,+/-0.9
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",24,Built 1950 to 1959,"71,061","+/-3,821",19.6,+/-1.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",25,Built 1940 to 1949,"42,849","+/-3,435",11.8,+/-0.9
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",26,Built 1939 or earlier,"122,897","+/-4,859",33.9,+/-1.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",26.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",26.5,ROOMS,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",27,Total housing units,"362,718","+/-4,295","362,718",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",28,1 room,"11,093","+/-1,818",3.1,+/-0.5
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",29,2 rooms,"11,217","+/-2,120",3.1,+/-0.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",30,3 rooms,"32,701","+/-3,243",9.0,+/-0.9
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",31,4 rooms,"55,114","+/-4,217",15.2,+/-1.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",32,5 rooms,"60,399","+/-4,088",16.7,+/-1.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",33,6 rooms,"77,989","+/-3,614",21.5,+/-1.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",34,7 rooms,"50,695","+/-4,003",14.0,+/-1.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",35,8 rooms,"27,419","+/-2,414",7.6,+/-0.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",36,9 rooms or more,"36,091","+/-2,831",10.0,+/-0.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",37,Median rooms,5.6,+/-0.2,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",37.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",37.5,BEDROOMS,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",38,Total housing units,"362,718","+/-4,295","362,718",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",39,No bedroom,"12,312","+/-1,934",3.4,+/-0.5
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",40,1 bedroom,"59,484","+/-3,822",16.4,+/-1.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",41,2 bedrooms,"90,810","+/-4,584",25.0,+/-1.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",42,3 bedrooms,"148,568","+/-5,828",41.0,+/-1.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",43,4 bedrooms,"39,226","+/-2,985",10.8,+/-0.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",44,5 or more bedrooms,"12,318","+/-2,067",3.4,+/-0.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",44.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",44.5,HOUSING TENURE,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",45,Occupied housing units,"320,046","+/-5,387","320,046",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",46,Owner-occupied,"164,740","+/-4,907",51.5,+/-1.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",47,Renter-occupied,"155,306","+/-5,143",48.5,+/-1.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",47.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",48,Average household size of owner-occupied unit,2.41,+/-0.06,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",49,Average household size of renter-occupied unit,2.07,+/-0.06,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",49.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",50,Occupied housing units,"320,046","+/-5,387","320,046",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",51,Moved in 2019 or later,"95,007","+/-5,238",29.7,+/-1.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",52,Moved in 2015 to 2018,"71,329","+/-5,125",22.3,+/-1.5
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",53,Moved in 2010 to 2014,"38,867","+/-4,148",12.1,+/-1.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",54,Moved in 2000 to 2009,"45,961","+/-3,880",14.4,+/-1.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",55,Moved in 1990 to 1999,"28,845","+/-2,707",9.0,+/-0.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",56,Moved in 1989 and earlier,"40,037","+/-2,544",12.5,+/-0.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",56.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",57,Occupied housing units,"320,046","+/-5,387","320,046",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",58,No vehicles available,"68,004","+/-4,822",21.2,+/-1.5
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",59,1 vehicle available,"137,584","+/-6,008",43.0,+/-1.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",60,2 vehicles available,"85,509","+/-4,582",26.7,+/-1.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",61,3 or more vehicles available,"28,949","+/-2,659",9.0,+/-0.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",61.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",62,Occupied housing units,"320,046","+/-5,387","320,046",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",63,Utility gas,"197,451","+/-5,840",61.7,+/-1.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",64,"Bottled, tank, or LP gas","4,472","+/-1,337",1.4,+/-0.4
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",65,Electricity,"98,615","+/-4,942",30.8,+/-1.4
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",66,"Fuel oil, kerosene, etc.","14,173","+/-1,850",4.4,+/-0.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",67,Coal or coke,0,+/-216,0.0,+/-0.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",68,Wood,142,+/-147,0.0,+/-0.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",69,Solar energy,223,+/-230,0.1,+/-0.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",70,Other fuel,"1,975",+/-790,0.6,+/-0.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",71,No fuel used,"2,995",+/-931,0.9,+/-0.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",71.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",72,Occupied housing units,"320,046","+/-5,387","320,046",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",73,Lacking complete plumbing facilities,"1,305",+/-663,0.4,+/-0.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",74,Lacking complete kitchen facilities,"2,264",+/-772,0.7,+/-0.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",75,No telephone service available,"3,463","+/-1,208",1.1,+/-0.4
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",75.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",76,Occupied housing units,"320,046","+/-5,387","320,046",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",77,1.00 or less,"312,560","+/-5,686",97.7,+/-0.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",78,1.01 to 1.50,"6,041","+/-1,987",1.9,+/-0.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",79,1.51 or more,"1,445",+/-790,0.5,+/-0.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",79.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",79.5,VALUE,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",80,Owner-occupied units,"164,740","+/-4,907","164,740",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",81,"Less than $50,000","11,475","+/-1,936",7.0,+/-1.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",82,"$50,000 to $99,999","16,592","+/-1,856",10.1,+/-1.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",83,"$100,000 to $149,999","20,434","+/-2,306",12.4,+/-1.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",84,"$150,000 to $199,999","32,238","+/-2,806",19.6,+/-1.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",85,"$200,000 to $299,999","44,597","+/-3,238",27.1,+/-1.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",86,"$300,000 to $499,999","31,374","+/-2,639",19.0,+/-1.5
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",87,"$500,000 to $999,999","6,877","+/-1,322",4.2,+/-0.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",88,"$1,000,000 or more","1,153",+/-370,0.7,+/-0.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",89,Median (dollars),"202,900","+/-5,639",(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",89.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",90,Owner-occupied units,"164,740","+/-4,907","164,740",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",91,Housing units with a mortgage,"114,581","+/-4,923",69.6,+/-1.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",92,Housing units without a mortgage,"50,159","+/-3,078",30.4,+/-1.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",92.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",93,Housing units with a mortgage,"114,581","+/-4,923","114,581",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",94,Less than $500,"1,827",+/-774,1.6,+/-0.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",95,$500 to $999,"17,603","+/-2,266",15.4,+/-1.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",96,"$1,000 to $1,499","37,484","+/-3,031",32.7,+/-2.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",97,"$1,500 to $1,999","32,115","+/-2,742",28.0,+/-2.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",98,"$2,000 to $2,499","13,357","+/-1,676",11.7,+/-1.5
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",99,"$2,500 to $2,999","6,964","+/-1,635",6.1,+/-1.4
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",100,"$3,000 or more","5,231",+/-967,4.6,+/-0.9
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",101,Median (dollars),"1,505",+/-33,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",101.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",102,Housing units without a mortgage,"50,159","+/-3,078","50,159",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",103,Less than $250,"4,508",+/-936,9.0,+/-1.8
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",104,$250 to $399,"9,141","+/-1,463",18.2,+/-2.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",105,$400 to $599,"17,610","+/-1,842",35.1,+/-2.9
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",106,$600 to $799,"9,696","+/-1,391",19.3,+/-2.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",107,$800 to $999,"4,539","+/-1,038",9.0,+/-2.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",108,"$1,000 or more","4,665","+/-1,128",9.3,+/-2.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",109,Median (dollars),528,+/-19,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",109.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"113,166","+/-4,954","113,166",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",111,Less than 20.0 percent,"52,006","+/-3,976",46.0,+/-2.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",112,20.0 to 24.9 percent,"15,088","+/-1,843",13.3,+/-1.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",113,25.0 to 29.9 percent,"10,303","+/-1,747",9.1,+/-1.5
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",114,30.0 to 34.9 percent,"7,111","+/-1,168",6.3,+/-1.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",115,35.0 percent or more,"28,658","+/-2,979",25.3,+/-2.4
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",115.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",116,Not computed,"1,415",+/-849,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",116.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"49,071","+/-3,047","49,071",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",118,Less than 10.0 percent,"20,450","+/-2,248",41.7,+/-3.4
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",119,10.0 to 14.9 percent,"8,708","+/-1,400",17.7,+/-3.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",120,15.0 to 19.9 percent,"5,230","+/-1,171",10.7,+/-2.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",121,20.0 to 24.9 percent,"3,631","+/-1,098",7.4,+/-2.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",122,25.0 to 29.9 percent,"1,658",+/-506,3.4,+/-1.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",123,30.0 to 34.9 percent,"1,500",+/-608,3.1,+/-1.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",124,35.0 percent or more,"7,894","+/-1,625",16.1,+/-3.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",124.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",125,Not computed,"1,088",+/-491,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",125.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",125.5,GROSS RENT,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",126,Occupied units paying rent,"152,180","+/-5,219","152,180",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",127,Less than $500,"18,029","+/-2,559",11.8,+/-1.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",128,$500 to $999,"31,932","+/-3,488",21.0,+/-2.1
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",129,"$1,000 to $1,499","63,829","+/-4,199",41.9,+/-2.2
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",130,"$1,500 to $1,999","26,999","+/-2,622",17.7,+/-1.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",131,"$2,000 to $2,499","8,586","+/-1,548",5.6,+/-1.0
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",132,"$2,500 to $2,999","1,703",+/-632,1.1,+/-0.4
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",133,"$3,000 or more","1,102",+/-481,0.7,+/-0.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",134,Median (dollars),"1,174",+/-20,(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",134.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",135,No rent paid,"3,126","+/-1,173",(X),(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",135.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"147,264","+/-5,516","147,264",(X)
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",137,Less than 15.0 percent,"16,745","+/-2,698",11.4,+/-1.7
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",138,15.0 to 19.9 percent,"18,447","+/-2,353",12.5,+/-1.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",139,20.0 to 24.9 percent,"14,067","+/-2,277",9.6,+/-1.5
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",140,25.0 to 29.9 percent,"14,064","+/-2,013",9.6,+/-1.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",141,30.0 to 34.9 percent,"15,038","+/-2,012",10.2,+/-1.3
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",142,35.0 percent or more,"68,903","+/-4,499",46.8,+/-2.6
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",142.3,,,,,
+DP04,5001800US2407,"Congressional District 7 (118th Congress), Maryland",143,Not computed,"8,042","+/-1,903",(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",0.5,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",1,Total housing units,"299,859","+/-3,636","299,859",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",2,Occupied housing units,"287,117","+/-3,715",95.8,+/-0.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",3,Vacant housing units,"12,742","+/-2,011",4.2,+/-0.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",3.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",4,Homeowner vacancy rate,0.7,+/-0.4,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",5,Rental vacancy rate,3.3,+/-1.1,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",5.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",6,Total housing units,"299,859","+/-3,636","299,859",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",7,"1-unit, detached","158,864","+/-3,697",53.0,+/-1.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",8,"1-unit, attached","38,441","+/-2,717",12.8,+/-0.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",9,2 units,"1,994",+/-613,0.7,+/-0.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",10,3 or 4 units,"3,239",+/-938,1.1,+/-0.3
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",11,5 to 9 units,"12,399","+/-2,113",4.1,+/-0.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",12,10 to 19 units,"15,632","+/-1,902",5.2,+/-0.6
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",13,20 or more units,"68,958","+/-3,385",23.0,+/-1.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",14,Mobile home,332,+/-297,0.1,+/-0.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",15,"Boat, RV, van, etc.",0,+/-216,0.0,+/-0.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",15.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",16,Total housing units,"299,859","+/-3,636","299,859",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",17,Built 2020 or later,"1,306",+/-507,0.4,+/-0.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",18,Built 2010 to 2019,"27,083","+/-2,510",9.0,+/-0.8
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",19,Built 2000 to 2009,"25,328","+/-2,516",8.4,+/-0.8
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",20,Built 1990 to 1999,"27,349","+/-2,390",9.1,+/-0.8
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",21,Built 1980 to 1989,"51,257","+/-3,253",17.1,+/-1.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",22,Built 1970 to 1979,"41,149","+/-3,262",13.7,+/-1.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",23,Built 1960 to 1969,"52,419","+/-3,750",17.5,+/-1.3
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",24,Built 1950 to 1959,"40,503","+/-2,446",13.5,+/-0.8
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",25,Built 1940 to 1949,"17,929","+/-1,935",6.0,+/-0.6
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",26,Built 1939 or earlier,"15,536","+/-1,805",5.2,+/-0.6
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",26.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",26.5,ROOMS,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",27,Total housing units,"299,859","+/-3,636","299,859",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",28,1 room,"8,184","+/-1,527",2.7,+/-0.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",29,2 rooms,"12,394","+/-1,756",4.1,+/-0.6
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",30,3 rooms,"26,473","+/-2,229",8.8,+/-0.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",31,4 rooms,"40,839","+/-3,384",13.6,+/-1.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",32,5 rooms,"31,019","+/-2,644",10.3,+/-0.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",33,6 rooms,"30,759","+/-2,620",10.3,+/-0.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",34,7 rooms,"28,060","+/-2,690",9.4,+/-0.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",35,8 rooms,"34,806","+/-2,628",11.6,+/-0.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",36,9 rooms or more,"87,325","+/-2,951",29.1,+/-0.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",37,Median rooms,6.5,+/-0.2,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",37.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",37.5,BEDROOMS,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",38,Total housing units,"299,859","+/-3,636","299,859",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",39,No bedroom,"9,576","+/-1,554",3.2,+/-0.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",40,1 bedroom,"37,370","+/-3,027",12.5,+/-1.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",41,2 bedrooms,"59,305","+/-3,705",19.8,+/-1.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",42,3 bedrooms,"73,000","+/-3,467",24.3,+/-1.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",43,4 bedrooms,"75,463","+/-4,017",25.2,+/-1.3
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",44,5 or more bedrooms,"45,145","+/-2,776",15.1,+/-0.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",44.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",44.5,HOUSING TENURE,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",45,Occupied housing units,"287,117","+/-3,715","287,117",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",46,Owner-occupied,"191,607","+/-4,428",66.7,+/-1.3
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",47,Renter-occupied,"95,510","+/-4,151",33.3,+/-1.3
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",47.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",48,Average household size of owner-occupied unit,2.79,+/-0.04,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",49,Average household size of renter-occupied unit,2.47,+/-0.09,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",49.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",50,Occupied housing units,"287,117","+/-3,715","287,117",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",51,Moved in 2019 or later,"76,684","+/-3,468",26.7,+/-1.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",52,Moved in 2015 to 2018,"58,569","+/-3,862",20.4,+/-1.3
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",53,Moved in 2010 to 2014,"34,804","+/-2,937",12.1,+/-1.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",54,Moved in 2000 to 2009,"52,818","+/-3,392",18.4,+/-1.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",55,Moved in 1990 to 1999,"31,830","+/-2,406",11.1,+/-0.8
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",56,Moved in 1989 and earlier,"32,412","+/-2,029",11.3,+/-0.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",56.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",57,Occupied housing units,"287,117","+/-3,715","287,117",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",58,No vehicles available,"20,629","+/-2,274",7.2,+/-0.8
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",59,1 vehicle available,"103,703","+/-4,396",36.1,+/-1.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",60,2 vehicles available,"111,207","+/-4,593",38.7,+/-1.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",61,3 or more vehicles available,"51,578","+/-2,767",18.0,+/-1.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",61.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",62,Occupied housing units,"287,117","+/-3,715","287,117",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",63,Utility gas,"160,191","+/-4,863",55.8,+/-1.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",64,"Bottled, tank, or LP gas","4,237","+/-1,076",1.5,+/-0.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",65,Electricity,"111,657","+/-4,338",38.9,+/-1.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",66,"Fuel oil, kerosene, etc.","6,529","+/-1,178",2.3,+/-0.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",67,Coal or coke,124,+/-156,0.0,+/-0.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",68,Wood,287,+/-178,0.1,+/-0.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",69,Solar energy,"1,279",+/-552,0.4,+/-0.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",70,Other fuel,"1,017",+/-569,0.4,+/-0.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",71,No fuel used,"1,796",+/-690,0.6,+/-0.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",71.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",72,Occupied housing units,"287,117","+/-3,715","287,117",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",73,Lacking complete plumbing facilities,901,+/-535,0.3,+/-0.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",74,Lacking complete kitchen facilities,"1,138",+/-572,0.4,+/-0.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",75,No telephone service available,"1,829",+/-799,0.6,+/-0.3
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",75.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",76,Occupied housing units,"287,117","+/-3,715","287,117",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",77,1.00 or less,"275,328","+/-4,136",95.9,+/-0.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",78,1.01 to 1.50,"7,282","+/-1,418",2.5,+/-0.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",79,1.51 or more,"4,507","+/-1,363",1.6,+/-0.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",79.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",79.5,VALUE,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",80,Owner-occupied units,"191,607","+/-4,428","191,607",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",81,"Less than $50,000","1,953",+/-666,1.0,+/-0.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",82,"$50,000 to $99,999","1,982",+/-807,1.0,+/-0.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",83,"$100,000 to $149,999","2,815",+/-895,1.5,+/-0.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",84,"$150,000 to $199,999","4,278","+/-1,250",2.2,+/-0.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",85,"$200,000 to $299,999","11,862","+/-1,633",6.2,+/-0.8
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",86,"$300,000 to $499,999","43,273","+/-2,971",22.6,+/-1.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",87,"$500,000 to $999,999","89,544","+/-3,554",46.7,+/-1.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",88,"$1,000,000 or more","35,900","+/-2,397",18.7,+/-1.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",89,Median (dollars),"627,000","+/-10,286",(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",89.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",90,Owner-occupied units,"191,607","+/-4,428","191,607",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",91,Housing units with a mortgage,"131,479","+/-4,162",68.6,+/-1.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",92,Housing units without a mortgage,"60,128","+/-3,001",31.4,+/-1.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",92.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",93,Housing units with a mortgage,"131,479","+/-4,162","131,479",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",94,Less than $500,430,+/-282,0.3,+/-0.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",95,$500 to $999,"2,855",+/-885,2.2,+/-0.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",96,"$1,000 to $1,499","9,420","+/-1,698",7.2,+/-1.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",97,"$1,500 to $1,999","20,437","+/-2,311",15.5,+/-1.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",98,"$2,000 to $2,499","21,589","+/-2,328",16.4,+/-1.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",99,"$2,500 to $2,999","22,398","+/-2,409",17.0,+/-1.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",100,"$3,000 or more","54,350","+/-2,980",41.3,+/-1.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",101,Median (dollars),"2,746",+/-52,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",101.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",102,Housing units without a mortgage,"60,128","+/-3,001","60,128",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",103,Less than $250,"1,094",+/-445,1.8,+/-0.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",104,$250 to $399,"1,640",+/-549,2.7,+/-0.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",105,$400 to $599,"7,264","+/-1,372",12.1,+/-2.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",106,$600 to $799,"12,935","+/-1,571",21.5,+/-2.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",107,$800 to $999,"13,413","+/-1,455",22.3,+/-2.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",108,"$1,000 or more","23,782","+/-2,000",39.6,+/-2.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",109,Median (dollars),906,+/-23,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",109.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"131,016","+/-4,155","131,016",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",111,Less than 20.0 percent,"66,257","+/-3,469",50.6,+/-2.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",112,20.0 to 24.9 percent,"20,065","+/-2,139",15.3,+/-1.6
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",113,25.0 to 29.9 percent,"12,018","+/-1,813",9.2,+/-1.3
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",114,30.0 to 34.9 percent,"8,325","+/-1,344",6.4,+/-1.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",115,35.0 percent or more,"24,351","+/-2,089",18.6,+/-1.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",115.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",116,Not computed,463,+/-266,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",116.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"59,454","+/-2,918","59,454",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",118,Less than 10.0 percent,"29,359","+/-2,244",49.4,+/-3.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",119,10.0 to 14.9 percent,"10,632","+/-1,370",17.9,+/-2.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",120,15.0 to 19.9 percent,"5,179","+/-1,053",8.7,+/-1.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",121,20.0 to 24.9 percent,"3,404",+/-903,5.7,+/-1.5
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",122,25.0 to 29.9 percent,"2,072",+/-631,3.5,+/-1.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",123,30.0 to 34.9 percent,"1,351",+/-475,2.3,+/-0.8
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",124,35.0 percent or more,"7,457","+/-1,244",12.5,+/-2.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",124.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",125,Not computed,674,+/-353,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",125.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",125.5,GROSS RENT,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",126,Occupied units paying rent,"92,361","+/-4,096","92,361",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",127,Less than $500,"2,652",+/-701,2.9,+/-0.8
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",128,$500 to $999,"4,406","+/-1,108",4.8,+/-1.2
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",129,"$1,000 to $1,499","18,444","+/-2,250",20.0,+/-2.3
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",130,"$1,500 to $1,999","30,548","+/-2,473",33.1,+/-2.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",131,"$2,000 to $2,499","16,899","+/-2,162",18.3,+/-2.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",132,"$2,500 to $2,999","8,975","+/-1,751",9.7,+/-1.9
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",133,"$3,000 or more","10,437","+/-1,316",11.3,+/-1.4
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",134,Median (dollars),"1,838",+/-31,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",134.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",135,No rent paid,"3,149",+/-959,(X),(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",135.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"90,926","+/-4,168","90,926",(X)
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",137,Less than 15.0 percent,"7,932","+/-1,530",8.7,+/-1.7
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",138,15.0 to 19.9 percent,"11,538","+/-1,943",12.7,+/-2.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",139,20.0 to 24.9 percent,"12,589","+/-1,933",13.8,+/-2.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",140,25.0 to 29.9 percent,"11,067","+/-1,816",12.2,+/-2.0
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",141,30.0 to 34.9 percent,"8,023","+/-1,548",8.8,+/-1.6
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",142,35.0 percent or more,"39,777","+/-3,424",43.7,+/-3.1
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",142.3,,,,,
+DP04,5001800US2408,"Congressional District 8 (118th Congress), Maryland",143,Not computed,"4,584","+/-1,182",(X),(X)

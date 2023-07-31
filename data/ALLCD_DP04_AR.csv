@@ -1,0 +1,745 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",0.5,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",1,Total housing units,"349,100","+/-2,442","349,100",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",2,Occupied housing units,"288,862","+/-3,653",82.7,+/-1.0
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",3,Vacant housing units,"60,238","+/-3,769",17.3,+/-1.0
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",3.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",4,Homeowner vacancy rate,1.6,+/-0.5,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",5,Rental vacancy rate,6.1,+/-1.4,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",5.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",6,Total housing units,"349,100","+/-2,442","349,100",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",7,"1-unit, detached","257,328","+/-5,033",73.7,+/-1.2
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",8,"1-unit, attached","4,081",+/-990,1.2,+/-0.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",9,2 units,"10,396","+/-1,462",3.0,+/-0.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",10,3 or 4 units,"12,306","+/-2,015",3.5,+/-0.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",11,5 to 9 units,"8,916","+/-1,866",2.6,+/-0.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",12,10 to 19 units,"6,821","+/-1,524",2.0,+/-0.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",13,20 or more units,"5,397","+/-1,426",1.5,+/-0.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",14,Mobile home,"43,013","+/-2,739",12.3,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",15,"Boat, RV, van, etc.",842,+/-517,0.2,+/-0.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",15.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",16,Total housing units,"349,100","+/-2,442","349,100",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",17,Built 2020 or later,"2,291",+/-986,0.7,+/-0.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",18,Built 2010 to 2019,"34,073","+/-2,834",9.8,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",19,Built 2000 to 2009,"50,652","+/-3,429",14.5,+/-1.0
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",20,Built 1990 to 1999,"53,632","+/-3,606",15.4,+/-1.0
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",21,Built 1980 to 1989,"52,735","+/-2,970",15.1,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",22,Built 1970 to 1979,"66,588","+/-3,740",19.1,+/-1.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",23,Built 1960 to 1969,"39,378","+/-2,651",11.3,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",24,Built 1950 to 1959,"22,243","+/-2,627",6.4,+/-0.7
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",25,Built 1940 to 1949,"13,452","+/-1,998",3.9,+/-0.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",26,Built 1939 or earlier,"14,056","+/-2,108",4.0,+/-0.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",26.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",26.5,ROOMS,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",27,Total housing units,"349,100","+/-2,442","349,100",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",28,1 room,"7,563","+/-1,804",2.2,+/-0.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",29,2 rooms,"7,156","+/-1,540",2.0,+/-0.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",30,3 rooms,"22,519","+/-2,772",6.5,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",31,4 rooms,"53,677","+/-3,381",15.4,+/-0.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",32,5 rooms,"86,562","+/-4,008",24.8,+/-1.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",33,6 rooms,"70,712","+/-4,227",20.3,+/-1.2
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",34,7 rooms,"42,044","+/-2,927",12.0,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",35,8 rooms,"27,439","+/-2,704",7.9,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",36,9 rooms or more,"31,428","+/-2,893",9.0,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",37,Median rooms,5.5,+/-0.1,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",37.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",37.5,BEDROOMS,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",38,Total housing units,"349,100","+/-2,442","349,100",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",39,No bedroom,"7,838","+/-1,760",2.2,+/-0.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",40,1 bedroom,"22,791","+/-2,610",6.5,+/-0.7
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",41,2 bedrooms,"89,016","+/-3,837",25.5,+/-1.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",42,3 bedrooms,"179,700","+/-5,322",51.5,+/-1.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",43,4 bedrooms,"41,099","+/-3,123",11.8,+/-0.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",44,5 or more bedrooms,"8,656","+/-1,501",2.5,+/-0.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",44.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",44.5,HOUSING TENURE,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",45,Occupied housing units,"288,862","+/-3,653","288,862",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",46,Owner-occupied,"198,319","+/-4,980",68.7,+/-1.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",47,Renter-occupied,"90,543","+/-4,172",31.3,+/-1.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",47.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",48,Average household size of owner-occupied unit,2.57,+/-0.05,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",49,Average household size of renter-occupied unit,2.45,+/-0.09,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",49.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",50,Occupied housing units,"288,862","+/-3,653","288,862",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",51,Moved in 2019 or later,"80,636","+/-3,950",27.9,+/-1.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",52,Moved in 2015 to 2018,"58,640","+/-3,882",20.3,+/-1.2
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",53,Moved in 2010 to 2014,"37,156","+/-2,935",12.9,+/-1.0
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",54,Moved in 2000 to 2009,"52,469","+/-3,193",18.2,+/-1.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",55,Moved in 1990 to 1999,"29,741","+/-2,537",10.3,+/-0.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",56,Moved in 1989 and earlier,"30,220","+/-2,642",10.5,+/-0.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",56.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",57,Occupied housing units,"288,862","+/-3,653","288,862",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",58,No vehicles available,"20,265","+/-2,390",7.0,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",59,1 vehicle available,"96,354","+/-3,888",33.4,+/-1.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",60,2 vehicles available,"105,535","+/-5,175",36.5,+/-1.7
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",61,3 or more vehicles available,"66,708","+/-4,216",23.1,+/-1.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",61.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",62,Occupied housing units,"288,862","+/-3,653","288,862",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",63,Utility gas,"91,168","+/-4,469",31.6,+/-1.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",64,"Bottled, tank, or LP gas","28,692","+/-2,635",9.9,+/-0.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",65,Electricity,"156,725","+/-3,947",54.3,+/-1.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",66,"Fuel oil, kerosene, etc.",313,+/-260,0.1,+/-0.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",67,Coal or coke,0,+/-213,0.0,+/-0.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",68,Wood,"9,112","+/-1,539",3.2,+/-0.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",69,Solar energy,204,+/-210,0.1,+/-0.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",70,Other fuel,655,+/-442,0.2,+/-0.2
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",71,No fuel used,"1,993","+/-1,017",0.7,+/-0.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",71.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",72,Occupied housing units,"288,862","+/-3,653","288,862",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",73,Lacking complete plumbing facilities,"1,559",+/-760,0.5,+/-0.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",74,Lacking complete kitchen facilities,"2,554",+/-987,0.9,+/-0.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",75,No telephone service available,"3,681",+/-870,1.3,+/-0.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",75.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",76,Occupied housing units,"288,862","+/-3,653","288,862",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",77,1.00 or less,"282,966","+/-4,092",98.0,+/-0.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",78,1.01 to 1.50,"3,846","+/-1,052",1.3,+/-0.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",79,1.51 or more,"2,050",+/-995,0.7,+/-0.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",79.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",79.5,VALUE,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",80,Owner-occupied units,"198,319","+/-4,980","198,319",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",81,"Less than $50,000","29,373","+/-2,333",14.8,+/-1.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",82,"$50,000 to $99,999","45,203","+/-3,046",22.8,+/-1.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",83,"$100,000 to $149,999","37,512","+/-3,240",18.9,+/-1.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",84,"$150,000 to $199,999","34,742","+/-3,198",17.5,+/-1.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",85,"$200,000 to $299,999","30,016","+/-2,658",15.1,+/-1.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",86,"$300,000 to $499,999","15,475","+/-2,303",7.8,+/-1.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",87,"$500,000 to $999,999","4,913","+/-1,254",2.5,+/-0.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",88,"$1,000,000 or more","1,085",+/-611,0.5,+/-0.3
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",89,Median (dollars),"130,500","+/-5,192",(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",89.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",90,Owner-occupied units,"198,319","+/-4,980","198,319",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",91,Housing units with a mortgage,"97,354","+/-4,382",49.1,+/-1.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",92,Housing units without a mortgage,"100,965","+/-4,514",50.9,+/-1.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",92.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",93,Housing units with a mortgage,"97,354","+/-4,382","97,354",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",94,Less than $500,"3,042",+/-846,3.1,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",95,$500 to $999,"44,689","+/-3,388",45.9,+/-2.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",96,"$1,000 to $1,499","29,901","+/-2,851",30.7,+/-2.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",97,"$1,500 to $1,999","12,564","+/-1,849",12.9,+/-1.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",98,"$2,000 to $2,499","4,146",+/-998,4.3,+/-1.0
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",99,"$2,500 to $2,999","2,194",+/-794,2.3,+/-0.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",100,"$3,000 or more",818,+/-513,0.8,+/-0.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",101,Median (dollars),"1,012",+/-32,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",101.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",102,Housing units without a mortgage,"100,965","+/-4,514","100,965",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",103,Less than $250,"22,338","+/-2,244",22.1,+/-2.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",104,$250 to $399,"38,890","+/-3,151",38.5,+/-2.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",105,$400 to $599,"28,214","+/-2,314",27.9,+/-1.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",106,$600 to $799,"8,327","+/-1,694",8.2,+/-1.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",107,$800 to $999,"1,903",+/-570,1.9,+/-0.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",108,"$1,000 or more","1,293",+/-633,1.3,+/-0.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",109,Median (dollars),354,+/-10,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",109.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"96,928","+/-4,368","96,928",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",111,Less than 20.0 percent,"51,859","+/-3,422",53.5,+/-2.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",112,20.0 to 24.9 percent,"12,906","+/-1,832",13.3,+/-1.8
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",113,25.0 to 29.9 percent,"9,696","+/-1,944",10.0,+/-2.0
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",114,30.0 to 34.9 percent,"6,185","+/-1,400",6.4,+/-1.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",115,35.0 percent or more,"16,282","+/-2,207",16.8,+/-2.0
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",115.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",116,Not computed,426,+/-381,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",116.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"98,811","+/-4,400","98,811",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",118,Less than 10.0 percent,"47,425","+/-3,235",48.0,+/-2.6
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",119,10.0 to 14.9 percent,"19,031","+/-1,994",19.3,+/-1.7
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",120,15.0 to 19.9 percent,"10,343","+/-1,881",10.5,+/-1.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",121,20.0 to 24.9 percent,"4,890","+/-1,006",4.9,+/-1.0
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",122,25.0 to 29.9 percent,"4,442","+/-1,114",4.5,+/-1.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",123,30.0 to 34.9 percent,"3,117",+/-948,3.2,+/-0.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",124,35.0 percent or more,"9,563","+/-1,506",9.7,+/-1.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",124.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",125,Not computed,"2,154",+/-797,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",125.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",125.5,GROSS RENT,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",126,Occupied units paying rent,"80,334","+/-3,925","80,334",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",127,Less than $500,"16,934","+/-2,206",21.1,+/-2.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",128,$500 to $999,"49,058","+/-3,208",61.1,+/-3.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",129,"$1,000 to $1,499","12,051","+/-2,200",15.0,+/-2.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",130,"$1,500 to $1,999","1,425",+/-762,1.8,+/-0.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",131,"$2,000 to $2,499",393,+/-325,0.5,+/-0.4
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",132,"$2,500 to $2,999",0,+/-213,0.0,+/-0.2
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",133,"$3,000 or more",473,+/-395,0.6,+/-0.5
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",134,Median (dollars),726,+/-15,(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",134.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",135,No rent paid,"10,209","+/-1,743",(X),(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",135.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"78,090","+/-3,859","78,090",(X)
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",137,Less than 15.0 percent,"11,234","+/-1,696",14.4,+/-2.2
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",138,15.0 to 19.9 percent,"11,241","+/-1,667",14.4,+/-1.9
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",139,20.0 to 24.9 percent,"9,551","+/-1,660",12.2,+/-2.2
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",140,25.0 to 29.9 percent,"9,192","+/-1,757",11.8,+/-2.2
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",141,30.0 to 34.9 percent,"8,751","+/-1,778",11.2,+/-2.2
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",142,35.0 percent or more,"28,121","+/-3,059",36.0,+/-3.1
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",142.3,,,,,
+DP04,5001800US0501,"Congressional District 1 (118th Congress), Arkansas",143,Not computed,"12,453","+/-1,935",(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",0.5,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",1,Total housing units,"352,780","+/-2,565","352,780",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",2,Occupied housing units,"314,244","+/-3,820",89.1,+/-1.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",3,Vacant housing units,"38,536","+/-3,779",10.9,+/-1.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",3.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",4,Homeowner vacancy rate,1.0,+/-0.5,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",5,Rental vacancy rate,5.3,+/-1.5,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",5.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",6,Total housing units,"352,780","+/-2,565","352,780",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",7,"1-unit, detached","238,924","+/-5,337",67.7,+/-1.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",8,"1-unit, attached","5,996","+/-1,504",1.7,+/-0.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",9,2 units,"9,943","+/-1,697",2.8,+/-0.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",10,3 or 4 units,"10,109","+/-2,147",2.9,+/-0.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",11,5 to 9 units,"14,426","+/-2,693",4.1,+/-0.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",12,10 to 19 units,"18,521","+/-3,578",5.3,+/-1.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",13,20 or more units,"21,442","+/-3,234",6.1,+/-0.9
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",14,Mobile home,"33,349","+/-3,230",9.5,+/-0.9
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",15,"Boat, RV, van, etc.",70,+/-122,0.0,+/-0.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",15.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",16,Total housing units,"352,780","+/-2,565","352,780",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",17,Built 2020 or later,"4,160","+/-1,394",1.2,+/-0.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",18,Built 2010 to 2019,"49,240","+/-4,156",14.0,+/-1.2
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",19,Built 2000 to 2009,"66,246","+/-5,146",18.8,+/-1.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",20,Built 1990 to 1999,"53,173","+/-3,610",15.1,+/-1.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",21,Built 1980 to 1989,"48,589","+/-4,109",13.8,+/-1.2
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",22,Built 1970 to 1979,"52,470","+/-3,497",14.9,+/-1.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",23,Built 1960 to 1969,"31,634","+/-2,928",9.0,+/-0.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",24,Built 1950 to 1959,"22,341","+/-2,379",6.3,+/-0.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",25,Built 1940 to 1949,"9,354","+/-1,607",2.7,+/-0.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",26,Built 1939 or earlier,"15,573","+/-2,158",4.4,+/-0.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",26.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",26.5,ROOMS,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",27,Total housing units,"352,780","+/-2,565","352,780",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",28,1 room,"8,063","+/-2,344",2.3,+/-0.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",29,2 rooms,"10,525","+/-2,923",3.0,+/-0.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",30,3 rooms,"25,052","+/-3,356",7.1,+/-0.9
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",31,4 rooms,"56,748","+/-4,063",16.1,+/-1.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",32,5 rooms,"77,719","+/-4,853",22.0,+/-1.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",33,6 rooms,"70,918","+/-4,401",20.1,+/-1.2
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",34,7 rooms,"38,544","+/-3,805",10.9,+/-1.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",35,8 rooms,"27,435","+/-2,708",7.8,+/-0.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",36,9 rooms or more,"37,776","+/-3,186",10.7,+/-0.9
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",37,Median rooms,5.5,+/-0.1,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",37.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",37.5,BEDROOMS,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",38,Total housing units,"352,780","+/-2,565","352,780",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",39,No bedroom,"8,186","+/-2,348",2.3,+/-0.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",40,1 bedroom,"31,692","+/-3,992",9.0,+/-1.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",41,2 bedrooms,"80,216","+/-4,963",22.7,+/-1.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",42,3 bedrooms,"169,351","+/-5,616",48.0,+/-1.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",43,4 bedrooms,"53,101","+/-3,982",15.1,+/-1.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",44,5 or more bedrooms,"10,234","+/-1,988",2.9,+/-0.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",44.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",44.5,HOUSING TENURE,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",45,Occupied housing units,"314,244","+/-3,820","314,244",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",46,Owner-occupied,"200,728","+/-4,413",63.9,+/-1.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",47,Renter-occupied,"113,516","+/-4,545",36.1,+/-1.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",47.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",48,Average household size of owner-occupied unit,2.46,+/-0.04,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",49,Average household size of renter-occupied unit,2.21,+/-0.08,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",49.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",50,Occupied housing units,"314,244","+/-3,820","314,244",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",51,Moved in 2019 or later,"103,187","+/-5,297",32.8,+/-1.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",52,Moved in 2015 to 2018,"70,383","+/-4,863",22.4,+/-1.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",53,Moved in 2010 to 2014,"37,437","+/-3,719",11.9,+/-1.2
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",54,Moved in 2000 to 2009,"47,883","+/-4,087",15.2,+/-1.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",55,Moved in 1990 to 1999,"27,522","+/-2,535",8.8,+/-0.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",56,Moved in 1989 and earlier,"27,832","+/-2,277",8.9,+/-0.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",56.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",57,Occupied housing units,"314,244","+/-3,820","314,244",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",58,No vehicles available,"16,147","+/-2,416",5.1,+/-0.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",59,1 vehicle available,"102,752","+/-5,665",32.7,+/-1.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",60,2 vehicles available,"130,301","+/-6,636",41.5,+/-2.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",61,3 or more vehicles available,"65,044","+/-4,479",20.7,+/-1.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",61.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",62,Occupied housing units,"314,244","+/-3,820","314,244",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",63,Utility gas,"122,741","+/-5,265",39.1,+/-1.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",64,"Bottled, tank, or LP gas","14,425","+/-2,263",4.6,+/-0.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",65,Electricity,"169,239","+/-5,529",53.9,+/-1.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",66,"Fuel oil, kerosene, etc.",490,+/-375,0.2,+/-0.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",67,Coal or coke,0,+/-213,0.0,+/-0.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",68,Wood,"4,124","+/-1,042",1.3,+/-0.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",69,Solar energy,98,+/-126,0.0,+/-0.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",70,Other fuel,656,+/-536,0.2,+/-0.2
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",71,No fuel used,"2,471","+/-1,082",0.8,+/-0.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",71.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",72,Occupied housing units,"314,244","+/-3,820","314,244",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",73,Lacking complete plumbing facilities,"3,488","+/-1,436",1.1,+/-0.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",74,Lacking complete kitchen facilities,"4,105","+/-1,549",1.3,+/-0.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",75,No telephone service available,"2,586","+/-1,167",0.8,+/-0.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",75.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",76,Occupied housing units,"314,244","+/-3,820","314,244",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",77,1.00 or less,"307,412","+/-4,380",97.8,+/-0.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",78,1.01 to 1.50,"4,195","+/-1,307",1.3,+/-0.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",79,1.51 or more,"2,637","+/-1,225",0.8,+/-0.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",79.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",79.5,VALUE,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",80,Owner-occupied units,"200,728","+/-4,413","200,728",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",81,"Less than $50,000","16,955","+/-2,207",8.4,+/-1.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",82,"$50,000 to $99,999","25,933","+/-3,123",12.9,+/-1.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",83,"$100,000 to $149,999","30,051","+/-2,704",15.0,+/-1.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",84,"$150,000 to $199,999","40,493","+/-3,145",20.2,+/-1.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",85,"$200,000 to $299,999","43,104","+/-3,077",21.5,+/-1.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",86,"$300,000 to $499,999","28,607","+/-2,855",14.3,+/-1.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",87,"$500,000 to $999,999","12,645","+/-1,840",6.3,+/-0.9
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",88,"$1,000,000 or more","2,940","+/-1,022",1.5,+/-0.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",89,Median (dollars),"182,700","+/-4,614",(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",89.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",90,Owner-occupied units,"200,728","+/-4,413","200,728",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",91,Housing units with a mortgage,"119,903","+/-4,418",59.7,+/-2.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",92,Housing units without a mortgage,"80,825","+/-4,518",40.3,+/-2.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",92.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",93,Housing units with a mortgage,"119,903","+/-4,418","119,903",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",94,Less than $500,"2,760",+/-834,2.3,+/-0.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",95,$500 to $999,"32,325","+/-2,720",27.0,+/-2.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",96,"$1,000 to $1,499","43,967","+/-3,399",36.7,+/-2.2
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",97,"$1,500 to $1,999","20,666","+/-2,244",17.2,+/-2.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",98,"$2,000 to $2,499","11,594","+/-2,019",9.7,+/-1.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",99,"$2,500 to $2,999","3,656",+/-952,3.0,+/-0.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",100,"$3,000 or more","4,935","+/-1,199",4.1,+/-1.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",101,Median (dollars),"1,243",+/-33,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",101.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",102,Housing units without a mortgage,"80,825","+/-4,518","80,825",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",103,Less than $250,"14,366","+/-2,525",17.8,+/-2.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",104,$250 to $399,"25,898","+/-2,704",32.0,+/-3.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",105,$400 to $599,"24,612","+/-2,195",30.5,+/-2.2
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",106,$600 to $799,"7,995","+/-1,369",9.9,+/-1.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",107,$800 to $999,"3,306","+/-1,169",4.1,+/-1.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",108,"$1,000 or more","4,648","+/-1,572",5.8,+/-1.9
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",109,Median (dollars),401,+/-14,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",109.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"119,536","+/-4,449","119,536",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",111,Less than 20.0 percent,"66,067","+/-3,981",55.3,+/-2.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",112,20.0 to 24.9 percent,"14,343","+/-2,365",12.0,+/-1.9
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",113,25.0 to 29.9 percent,"11,087","+/-2,119",9.3,+/-1.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",114,30.0 to 34.9 percent,"5,852","+/-1,603",4.9,+/-1.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",115,35.0 percent or more,"22,187","+/-2,920",18.6,+/-2.2
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",115.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",116,Not computed,367,+/-264,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",116.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"79,447","+/-4,628","79,447",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",118,Less than 10.0 percent,"44,734","+/-3,841",56.3,+/-3.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",119,10.0 to 14.9 percent,"13,852","+/-2,158",17.4,+/-2.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",120,15.0 to 19.9 percent,"6,282","+/-1,135",7.9,+/-1.4
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",121,20.0 to 24.9 percent,"3,203",+/-871,4.0,+/-1.1
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",122,25.0 to 29.9 percent,"2,084",+/-739,2.6,+/-1.0
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",123,30.0 to 34.9 percent,"1,532",+/-593,1.9,+/-0.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",124,35.0 percent or more,"7,760","+/-1,524",9.8,+/-1.8
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",124.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",125,Not computed,"1,378",+/-729,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",125.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",125.5,GROSS RENT,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",126,Occupied units paying rent,"106,443","+/-4,426","106,443",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",127,Less than $500,"8,914","+/-1,704",8.4,+/-1.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",128,$500 to $999,"59,964","+/-4,501",56.3,+/-3.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",129,"$1,000 to $1,499","28,618","+/-3,564",26.9,+/-3.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",130,"$1,500 to $1,999","6,827","+/-1,590",6.4,+/-1.5
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",131,"$2,000 to $2,499","1,415",+/-786,1.3,+/-0.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",132,"$2,500 to $2,999",359,+/-355,0.3,+/-0.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",133,"$3,000 or more",346,+/-309,0.3,+/-0.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",134,Median (dollars),898,+/-24,(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",134.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",135,No rent paid,"7,073","+/-1,551",(X),(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",135.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"102,406","+/-4,562","102,406",(X)
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",137,Less than 15.0 percent,"15,848","+/-2,477",15.5,+/-2.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",138,15.0 to 19.9 percent,"9,574","+/-1,822",9.3,+/-1.7
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",139,20.0 to 24.9 percent,"13,832","+/-2,556",13.5,+/-2.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",140,25.0 to 29.9 percent,"11,190","+/-2,660",10.9,+/-2.6
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",141,30.0 to 34.9 percent,"11,819","+/-2,402",11.5,+/-2.3
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",142,35.0 percent or more,"40,143","+/-3,663",39.2,+/-3.2
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",142.3,,,,,
+DP04,5001800US0502,"Congressional District 2 (118th Congress), Arkansas",143,Not computed,"11,110","+/-2,085",(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",0.5,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",1,Total housing units,"320,927","+/-1,458","320,927",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",2,Occupied housing units,"289,283","+/-3,959",90.1,+/-1.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",3,Vacant housing units,"31,644","+/-3,568",9.9,+/-1.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",3.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",4,Homeowner vacancy rate,0.8,+/-0.4,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",5,Rental vacancy rate,6.7,+/-1.7,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",5.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",6,Total housing units,"320,927","+/-1,458","320,927",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",7,"1-unit, detached","225,785","+/-4,892",70.4,+/-1.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",8,"1-unit, attached","12,818","+/-1,786",4.0,+/-0.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",9,2 units,"10,778","+/-2,012",3.4,+/-0.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",10,3 or 4 units,"9,737","+/-1,739",3.0,+/-0.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",11,5 to 9 units,"12,972","+/-2,160",4.0,+/-0.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",12,10 to 19 units,"18,806","+/-2,380",5.9,+/-0.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",13,20 or more units,"12,421","+/-2,167",3.9,+/-0.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",14,Mobile home,"16,770","+/-2,490",5.2,+/-0.8
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",15,"Boat, RV, van, etc.",840,+/-589,0.3,+/-0.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",15.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",16,Total housing units,"320,927","+/-1,458","320,927",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",17,Built 2020 or later,"4,066","+/-1,307",1.3,+/-0.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",18,Built 2010 to 2019,"58,325","+/-4,246",18.2,+/-1.3
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",19,Built 2000 to 2009,"66,362","+/-3,939",20.7,+/-1.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",20,Built 1990 to 1999,"54,255","+/-3,498",16.9,+/-1.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",21,Built 1980 to 1989,"44,105","+/-3,588",13.7,+/-1.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",22,Built 1970 to 1979,"41,790","+/-3,303",13.0,+/-1.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",23,Built 1960 to 1969,"21,380","+/-2,663",6.7,+/-0.8
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",24,Built 1950 to 1959,"13,062","+/-2,171",4.1,+/-0.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",25,Built 1940 to 1949,"8,146","+/-1,482",2.5,+/-0.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",26,Built 1939 or earlier,"9,436","+/-1,502",2.9,+/-0.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",26.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",26.5,ROOMS,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",27,Total housing units,"320,927","+/-1,458","320,927",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",28,1 room,"4,400","+/-1,251",1.4,+/-0.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",29,2 rooms,"9,166","+/-2,119",2.9,+/-0.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",30,3 rooms,"26,493","+/-3,224",8.3,+/-1.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",31,4 rooms,"47,659","+/-3,389",14.9,+/-1.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",32,5 rooms,"71,395","+/-4,862",22.2,+/-1.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",33,6 rooms,"55,648","+/-4,244",17.3,+/-1.3
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",34,7 rooms,"41,775","+/-3,429",13.0,+/-1.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",35,8 rooms,"29,030","+/-3,196",9.0,+/-1.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",36,9 rooms or more,"35,361","+/-3,461",11.0,+/-1.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",37,Median rooms,5.5,+/-0.1,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",37.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",37.5,BEDROOMS,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",38,Total housing units,"320,927","+/-1,458","320,927",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",39,No bedroom,"4,938","+/-1,322",1.5,+/-0.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",40,1 bedroom,"21,986","+/-2,853",6.9,+/-0.9
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",41,2 bedrooms,"75,425","+/-4,643",23.5,+/-1.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",42,3 bedrooms,"147,662","+/-5,213",46.0,+/-1.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",43,4 bedrooms,"63,093","+/-4,594",19.7,+/-1.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",44,5 or more bedrooms,"7,823","+/-1,415",2.4,+/-0.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",44.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",44.5,HOUSING TENURE,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",45,Occupied housing units,"289,283","+/-3,959","289,283",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",46,Owner-occupied,"190,318","+/-5,062",65.8,+/-1.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",47,Renter-occupied,"98,965","+/-4,315",34.2,+/-1.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",47.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",48,Average household size of owner-occupied unit,2.68,+/-0.05,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",49,Average household size of renter-occupied unit,2.44,+/-0.08,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",49.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",50,Occupied housing units,"289,283","+/-3,959","289,283",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",51,Moved in 2019 or later,"96,942","+/-5,006",33.5,+/-1.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",52,Moved in 2015 to 2018,"69,879","+/-3,990",24.2,+/-1.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",53,Moved in 2010 to 2014,"37,889","+/-3,030",13.1,+/-1.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",54,Moved in 2000 to 2009,"44,108","+/-3,347",15.2,+/-1.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",55,Moved in 1990 to 1999,"22,171","+/-2,626",7.7,+/-0.9
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",56,Moved in 1989 and earlier,"18,294","+/-2,101",6.3,+/-0.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",56.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",57,Occupied housing units,"289,283","+/-3,959","289,283",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",58,No vehicles available,"10,251","+/-1,805",3.5,+/-0.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",59,1 vehicle available,"87,031","+/-4,807",30.1,+/-1.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",60,2 vehicles available,"117,063","+/-5,464",40.5,+/-1.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",61,3 or more vehicles available,"74,938","+/-4,814",25.9,+/-1.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",61.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",62,Occupied housing units,"289,283","+/-3,959","289,283",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",63,Utility gas,"128,532","+/-4,697",44.4,+/-1.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",64,"Bottled, tank, or LP gas","15,584","+/-2,112",5.4,+/-0.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",65,Electricity,"134,776","+/-5,790",46.6,+/-1.8
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",66,"Fuel oil, kerosene, etc.",121,+/-194,0.0,+/-0.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",67,Coal or coke,0,+/-213,0.0,+/-0.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",68,Wood,"7,878","+/-1,631",2.7,+/-0.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",69,Solar energy,89,+/-89,0.0,+/-0.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",70,Other fuel,"1,554",+/-973,0.5,+/-0.3
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",71,No fuel used,749,+/-473,0.3,+/-0.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",71.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",72,Occupied housing units,"289,283","+/-3,959","289,283",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",73,Lacking complete plumbing facilities,"1,211",+/-593,0.4,+/-0.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",74,Lacking complete kitchen facilities,"2,430",+/-801,0.8,+/-0.3
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",75,No telephone service available,"2,624","+/-1,315",0.9,+/-0.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",75.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",76,Occupied housing units,"289,283","+/-3,959","289,283",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",77,1.00 or less,"279,903","+/-4,600",96.8,+/-0.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",78,1.01 to 1.50,"7,265","+/-1,688",2.5,+/-0.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",79,1.51 or more,"2,115","+/-1,031",0.7,+/-0.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",79.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",79.5,VALUE,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",80,Owner-occupied units,"190,318","+/-5,062","190,318",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",81,"Less than $50,000","10,382","+/-1,723",5.5,+/-0.9
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",82,"$50,000 to $99,999","16,077","+/-2,461",8.4,+/-1.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",83,"$100,000 to $149,999","25,255","+/-3,048",13.3,+/-1.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",84,"$150,000 to $199,999","35,119","+/-3,414",18.5,+/-1.8
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",85,"$200,000 to $299,999","48,762","+/-3,571",25.6,+/-1.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",86,"$300,000 to $499,999","36,429","+/-3,090",19.1,+/-1.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",87,"$500,000 to $999,999","15,641","+/-2,307",8.2,+/-1.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",88,"$1,000,000 or more","2,653",+/-953,1.4,+/-0.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",89,Median (dollars),"214,700","+/-6,054",(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",89.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",90,Owner-occupied units,"190,318","+/-5,062","190,318",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",91,Housing units with a mortgage,"115,890","+/-5,525",60.9,+/-2.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",92,Housing units without a mortgage,"74,428","+/-3,720",39.1,+/-2.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",92.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",93,Housing units with a mortgage,"115,890","+/-5,525","115,890",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",94,Less than $500,"2,006",+/-802,1.7,+/-0.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",95,$500 to $999,"28,192","+/-2,623",24.3,+/-2.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",96,"$1,000 to $1,499","43,945","+/-3,718",37.9,+/-2.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",97,"$1,500 to $1,999","23,769","+/-2,641",20.5,+/-2.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",98,"$2,000 to $2,499","9,521","+/-1,584",8.2,+/-1.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",99,"$2,500 to $2,999","4,531","+/-1,042",3.9,+/-0.9
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",100,"$3,000 or more","3,926",+/-897,3.4,+/-0.8
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",101,Median (dollars),"1,286",+/-37,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",101.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",102,Housing units without a mortgage,"74,428","+/-3,720","74,428",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",103,Less than $250,"11,163","+/-2,060",15.0,+/-2.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",104,$250 to $399,"25,928","+/-2,748",34.8,+/-3.3
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",105,$400 to $599,"22,382","+/-2,653",30.1,+/-3.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",106,$600 to $799,"8,468","+/-1,552",11.4,+/-1.9
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",107,$800 to $999,"3,194",+/-942,4.3,+/-1.3
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",108,"$1,000 or more","3,293","+/-1,003",4.4,+/-1.3
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",109,Median (dollars),401,+/-18,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",109.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"115,679","+/-5,536","115,679",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",111,Less than 20.0 percent,"68,621","+/-4,598",59.3,+/-3.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",112,20.0 to 24.9 percent,"15,262","+/-2,285",13.2,+/-1.9
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",113,25.0 to 29.9 percent,"9,511","+/-1,754",8.2,+/-1.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",114,30.0 to 34.9 percent,"7,834","+/-1,806",6.8,+/-1.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",115,35.0 percent or more,"14,451","+/-2,699",12.5,+/-2.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",115.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",116,Not computed,211,+/-178,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",116.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"73,422","+/-3,712","73,422",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",118,Less than 10.0 percent,"38,246","+/-3,730",52.1,+/-4.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",119,10.0 to 14.9 percent,"16,206","+/-2,814",22.1,+/-3.7
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",120,15.0 to 19.9 percent,"7,370","+/-1,457",10.0,+/-2.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",121,20.0 to 24.9 percent,"3,931","+/-1,058",5.4,+/-1.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",122,25.0 to 29.9 percent,"2,115",+/-834,2.9,+/-1.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",123,30.0 to 34.9 percent,"1,444",+/-644,2.0,+/-0.9
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",124,35.0 percent or more,"4,110","+/-1,038",5.6,+/-1.4
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",124.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",125,Not computed,"1,006",+/-549,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",125.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",125.5,GROSS RENT,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",126,Occupied units paying rent,"93,183","+/-4,203","93,183",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",127,Less than $500,"7,386","+/-1,663",7.9,+/-1.8
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",128,$500 to $999,"49,317","+/-3,837",52.9,+/-3.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",129,"$1,000 to $1,499","28,734","+/-3,123",30.8,+/-3.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",130,"$1,500 to $1,999","5,369","+/-1,217",5.8,+/-1.3
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",131,"$2,000 to $2,499","1,481",+/-772,1.6,+/-0.8
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",132,"$2,500 to $2,999",773,+/-431,0.8,+/-0.5
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",133,"$3,000 or more",123,+/-145,0.1,+/-0.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",134,Median (dollars),917,+/-24,(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",134.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",135,No rent paid,"5,782","+/-1,298",(X),(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",135.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"89,854","+/-4,416","89,854",(X)
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",137,Less than 15.0 percent,"16,888","+/-2,383",18.8,+/-2.6
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",138,15.0 to 19.9 percent,"15,036","+/-2,659",16.7,+/-2.8
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",139,20.0 to 24.9 percent,"14,543","+/-1,925",16.2,+/-2.1
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",140,25.0 to 29.9 percent,"9,914","+/-2,042",11.0,+/-2.3
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",141,30.0 to 34.9 percent,"7,715","+/-1,865",8.6,+/-2.0
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",142,35.0 percent or more,"25,758","+/-3,272",28.7,+/-3.2
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",142.3,,,,,
+DP04,5001800US0503,"Congressional District 3 (118th Congress), Arkansas",143,Not computed,"9,111","+/-1,787",(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",0.5,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",1,Total housing units,"357,961","+/-2,796","357,961",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",2,Occupied housing units,"291,286","+/-4,881",81.4,+/-1.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",3,Vacant housing units,"66,675","+/-4,164",18.6,+/-1.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",3.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",4,Homeowner vacancy rate,1.2,+/-0.4,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",5,Rental vacancy rate,7.3,+/-1.4,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",5.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",6,Total housing units,"357,961","+/-2,796","357,961",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",7,"1-unit, detached","254,973","+/-5,178",71.2,+/-1.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",8,"1-unit, attached","3,547",+/-896,1.0,+/-0.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",9,2 units,"7,905","+/-1,467",2.2,+/-0.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",10,3 or 4 units,"10,132","+/-1,908",2.8,+/-0.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",11,5 to 9 units,"9,726","+/-1,793",2.7,+/-0.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",12,10 to 19 units,"5,467","+/-1,424",1.5,+/-0.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",13,20 or more units,"6,734","+/-1,449",1.9,+/-0.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",14,Mobile home,"59,050","+/-3,292",16.5,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",15,"Boat, RV, van, etc.",427,+/-234,0.1,+/-0.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",15.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",16,Total housing units,"357,961","+/-2,796","357,961",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",17,Built 2020 or later,"2,234",+/-838,0.6,+/-0.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",18,Built 2010 to 2019,"28,338","+/-2,685",7.9,+/-0.8
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",19,Built 2000 to 2009,"49,655","+/-4,044",13.9,+/-1.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",20,Built 1990 to 1999,"53,063","+/-3,535",14.8,+/-1.0
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",21,Built 1980 to 1989,"54,799","+/-3,387",15.3,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",22,Built 1970 to 1979,"67,441","+/-3,914",18.8,+/-1.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",23,Built 1960 to 1969,"37,909","+/-2,927",10.6,+/-0.8
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",24,Built 1950 to 1959,"27,593","+/-2,575",7.7,+/-0.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",25,Built 1940 to 1949,"15,018","+/-2,059",4.2,+/-0.6
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",26,Built 1939 or earlier,"21,911","+/-2,270",6.1,+/-0.6
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",26.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",26.5,ROOMS,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",27,Total housing units,"357,961","+/-2,796","357,961",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",28,1 room,"6,673","+/-1,704",1.9,+/-0.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",29,2 rooms,"5,126","+/-1,156",1.4,+/-0.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",30,3 rooms,"21,438","+/-2,832",6.0,+/-0.8
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",31,4 rooms,"56,199","+/-3,974",15.7,+/-1.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",32,5 rooms,"88,353","+/-4,828",24.7,+/-1.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",33,6 rooms,"74,284","+/-3,783",20.8,+/-1.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",34,7 rooms,"47,605","+/-3,089",13.3,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",35,8 rooms,"27,470","+/-2,516",7.7,+/-0.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",36,9 rooms or more,"30,813","+/-3,332",8.6,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",37,Median rooms,5.5,+/-0.1,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",37.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",37.5,BEDROOMS,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",38,Total housing units,"357,961","+/-2,796","357,961",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",39,No bedroom,"7,112","+/-1,681",2.0,+/-0.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",40,1 bedroom,"21,517","+/-2,462",6.0,+/-0.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",41,2 bedrooms,"89,855","+/-4,420",25.1,+/-1.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",42,3 bedrooms,"188,734","+/-5,169",52.7,+/-1.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",43,4 bedrooms,"43,324","+/-3,173",12.1,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",44,5 or more bedrooms,"7,419","+/-1,559",2.1,+/-0.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",44.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",44.5,HOUSING TENURE,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",45,Occupied housing units,"291,286","+/-4,881","291,286",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",46,Owner-occupied,"203,673","+/-4,397",69.9,+/-1.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",47,Renter-occupied,"87,613","+/-4,556",30.1,+/-1.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",47.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",48,Average household size of owner-occupied unit,2.51,+/-0.05,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",49,Average household size of renter-occupied unit,2.40,+/-0.09,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",49.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",50,Occupied housing units,"291,286","+/-4,881","291,286",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",51,Moved in 2019 or later,"72,719","+/-4,393",25.0,+/-1.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",52,Moved in 2015 to 2018,"58,805","+/-4,520",20.2,+/-1.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",53,Moved in 2010 to 2014,"37,926","+/-2,581",13.0,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",54,Moved in 2000 to 2009,"54,832","+/-3,210",18.8,+/-1.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",55,Moved in 1990 to 1999,"30,826","+/-2,489",10.6,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",56,Moved in 1989 and earlier,"36,178","+/-2,685",12.4,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",56.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",57,Occupied housing units,"291,286","+/-4,881","291,286",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",58,No vehicles available,"20,524","+/-2,910",7.0,+/-1.0
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",59,1 vehicle available,"94,688","+/-4,510",32.5,+/-1.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",60,2 vehicles available,"103,022","+/-4,546",35.4,+/-1.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",61,3 or more vehicles available,"73,052","+/-3,918",25.1,+/-1.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",61.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",62,Occupied housing units,"291,286","+/-4,881","291,286",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",63,Utility gas,"92,641","+/-4,702",31.8,+/-1.6
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",64,"Bottled, tank, or LP gas","15,609","+/-2,006",5.4,+/-0.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",65,Electricity,"170,665","+/-6,201",58.6,+/-1.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",66,"Fuel oil, kerosene, etc.",549,+/-399,0.2,+/-0.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",67,Coal or coke,0,+/-213,0.0,+/-0.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",68,Wood,"9,277","+/-1,624",3.2,+/-0.6
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",69,Solar energy,184,+/-190,0.1,+/-0.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",70,Other fuel,"1,565",+/-734,0.5,+/-0.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",71,No fuel used,796,+/-497,0.3,+/-0.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",71.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",72,Occupied housing units,"291,286","+/-4,881","291,286",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",73,Lacking complete plumbing facilities,895,+/-419,0.3,+/-0.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",74,Lacking complete kitchen facilities,"2,655",+/-966,0.9,+/-0.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",75,No telephone service available,"3,330",+/-983,1.1,+/-0.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",75.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",76,Occupied housing units,"291,286","+/-4,881","291,286",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",77,1.00 or less,"283,186","+/-5,312",97.2,+/-0.6
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",78,1.01 to 1.50,"5,220","+/-1,423",1.8,+/-0.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",79,1.51 or more,"2,880","+/-1,027",1.0,+/-0.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",79.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",79.5,VALUE,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",80,Owner-occupied units,"203,673","+/-4,397","203,673",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",81,"Less than $50,000","30,805","+/-2,777",15.1,+/-1.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",82,"$50,000 to $99,999","49,331","+/-3,136",24.2,+/-1.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",83,"$100,000 to $149,999","38,241","+/-3,049",18.8,+/-1.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",84,"$150,000 to $199,999","31,630","+/-2,416",15.5,+/-1.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",85,"$200,000 to $299,999","33,290","+/-2,842",16.3,+/-1.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",86,"$300,000 to $499,999","14,790","+/-1,947",7.3,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",87,"$500,000 to $999,999","4,381","+/-1,018",2.2,+/-0.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",88,"$1,000,000 or more","1,205",+/-479,0.6,+/-0.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",89,Median (dollars),"127,200","+/-4,613",(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",89.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",90,Owner-occupied units,"203,673","+/-4,397","203,673",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",91,Housing units with a mortgage,"95,031","+/-4,202",46.7,+/-1.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",92,Housing units without a mortgage,"108,642","+/-4,164",53.3,+/-1.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",92.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",93,Housing units with a mortgage,"95,031","+/-4,202","95,031",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",94,Less than $500,"3,245",+/-828,3.4,+/-0.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",95,$500 to $999,"43,945","+/-3,393",46.2,+/-3.0
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",96,"$1,000 to $1,499","30,457","+/-2,787",32.0,+/-2.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",97,"$1,500 to $1,999","12,170","+/-1,709",12.8,+/-1.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",98,"$2,000 to $2,499","3,298","+/-1,057",3.5,+/-1.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",99,"$2,500 to $2,999",852,+/-443,0.9,+/-0.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",100,"$3,000 or more","1,064",+/-479,1.1,+/-0.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",101,Median (dollars),"1,004",+/-28,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",101.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",102,Housing units without a mortgage,"108,642","+/-4,164","108,642",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",103,Less than $250,"24,628","+/-2,485",22.7,+/-2.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",104,$250 to $399,"43,758","+/-2,985",40.3,+/-2.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",105,$400 to $599,"27,405","+/-2,799",25.2,+/-2.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",106,$600 to $799,"8,537","+/-1,474",7.9,+/-1.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",107,$800 to $999,"2,669",+/-775,2.5,+/-0.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",108,"$1,000 or more","1,645",+/-738,1.5,+/-0.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",109,Median (dollars),350,+/-9,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",109.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"94,704","+/-4,209","94,704",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",111,Less than 20.0 percent,"50,293","+/-3,380",53.1,+/-3.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",112,20.0 to 24.9 percent,"10,268","+/-1,635",10.8,+/-1.6
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",113,25.0 to 29.9 percent,"9,458","+/-1,771",10.0,+/-1.8
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",114,30.0 to 34.9 percent,"6,362","+/-1,394",6.7,+/-1.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",115,35.0 percent or more,"18,323","+/-2,863",19.3,+/-2.8
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",115.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",116,Not computed,327,+/-216,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",116.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"107,017","+/-4,104","107,017",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",118,Less than 10.0 percent,"54,060","+/-3,720",50.5,+/-2.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",119,10.0 to 14.9 percent,"19,936","+/-1,919",18.6,+/-1.8
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",120,15.0 to 19.9 percent,"10,418","+/-1,362",9.7,+/-1.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",121,20.0 to 24.9 percent,"5,958","+/-1,265",5.6,+/-1.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",122,25.0 to 29.9 percent,"4,281","+/-1,040",4.0,+/-1.0
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",123,30.0 to 34.9 percent,"2,706",+/-798,2.5,+/-0.7
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",124,35.0 percent or more,"9,658","+/-1,480",9.0,+/-1.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",124.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",125,Not computed,"1,625",+/-632,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",125.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",125.5,GROSS RENT,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",126,Occupied units paying rent,"75,091","+/-4,404","75,091",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",127,Less than $500,"15,784","+/-2,458",21.0,+/-2.8
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",128,$500 to $999,"47,490","+/-3,018",63.2,+/-3.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",129,"$1,000 to $1,499","10,679","+/-1,956",14.2,+/-2.4
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",130,"$1,500 to $1,999",787,+/-612,1.0,+/-0.8
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",131,"$2,000 to $2,499",82,+/-139,0.1,+/-0.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",132,"$2,500 to $2,999",0,+/-213,0.0,+/-0.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",133,"$3,000 or more",269,+/-242,0.4,+/-0.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",134,Median (dollars),709,+/-27,(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",134.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",135,No rent paid,"12,522","+/-1,791",(X),(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",135.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"72,688","+/-4,496","72,688",(X)
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",137,Less than 15.0 percent,"12,633","+/-2,031",17.4,+/-2.5
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",138,15.0 to 19.9 percent,"10,018","+/-1,815",13.8,+/-2.2
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",139,20.0 to 24.9 percent,"8,004","+/-1,556",11.0,+/-2.1
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",140,25.0 to 29.9 percent,"8,307","+/-1,332",11.4,+/-1.6
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",141,30.0 to 34.9 percent,"6,515","+/-1,413",9.0,+/-1.9
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",142,35.0 percent or more,"27,211","+/-2,753",37.4,+/-3.3
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",142.3,,,,,
+DP04,5001800US0504,"Congressional District 4 (118th Congress), Arkansas",143,Not computed,"14,925","+/-1,860",(X),(X)

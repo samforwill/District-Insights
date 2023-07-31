@@ -1,0 +1,931 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",0.5,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",1,Total housing units,"345,048","+/-1,032","345,048",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",2,Occupied housing units,"316,712","+/-1,803",91.8,+/-0.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",3,Vacant housing units,"28,336","+/-1,598",8.2,+/-0.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",3.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",4,Homeowner vacancy rate,1.0,+/-0.2,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",5,Rental vacancy rate,4.6,+/-0.7,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",5.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",6,Total housing units,"345,048","+/-1,032","345,048",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",7,"1-unit, detached","245,286","+/-2,503",71.1,+/-0.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",8,"1-unit, attached","6,893",+/-906,2.0,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",9,2 units,"4,806",+/-795,1.4,+/-0.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",10,3 or 4 units,"11,900","+/-1,071",3.4,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",11,5 to 9 units,"16,116","+/-1,443",4.7,+/-0.4
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",12,10 to 19 units,"22,782","+/-1,684",6.6,+/-0.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",13,20 or more units,"25,460","+/-1,762",7.4,+/-0.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",14,Mobile home,"11,092","+/-1,257",3.2,+/-0.4
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",15,"Boat, RV, van, etc.",713,+/-372,0.2,+/-0.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",15.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",16,Total housing units,"345,048","+/-1,032","345,048",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",17,Built 2020 or later,"4,083",+/-883,1.2,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",18,Built 2010 to 2019,"40,616","+/-2,140",11.8,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",19,Built 2000 to 2009,"46,211","+/-2,594",13.4,+/-0.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",20,Built 1990 to 1999,"31,799","+/-2,063",9.2,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",21,Built 1980 to 1989,"47,904","+/-2,718",13.9,+/-0.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",22,Built 1970 to 1979,"60,715","+/-2,781",17.6,+/-0.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",23,Built 1960 to 1969,"37,063","+/-2,343",10.7,+/-0.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",24,Built 1950 to 1959,"38,519","+/-2,155",11.2,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",25,Built 1940 to 1949,"14,300","+/-1,236",4.1,+/-0.4
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",26,Built 1939 or earlier,"23,838","+/-1,308",6.9,+/-0.4
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",26.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",26.5,ROOMS,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",27,Total housing units,"345,048","+/-1,032","345,048",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",28,1 room,"6,254","+/-1,125",1.8,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",29,2 rooms,"10,368","+/-1,421",3.0,+/-0.4
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",30,3 rooms,"34,077","+/-2,205",9.9,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",31,4 rooms,"47,274","+/-2,205",13.7,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",32,5 rooms,"71,248","+/-3,154",20.6,+/-0.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",33,6 rooms,"61,055","+/-3,083",17.7,+/-0.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",34,7 rooms,"43,611","+/-2,110",12.6,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",35,8 rooms,"29,577","+/-1,854",8.6,+/-0.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",36,9 rooms or more,"41,584","+/-2,056",12.1,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",37,Median rooms,5.6,+/-0.2,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",37.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",37.5,BEDROOMS,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",38,Total housing units,"345,048","+/-1,032","345,048",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",39,No bedroom,"6,404","+/-1,134",1.9,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",40,1 bedroom,"41,995","+/-2,184",12.2,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",41,2 bedrooms,"70,561","+/-2,900",20.4,+/-0.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",42,3 bedrooms,"153,221","+/-3,686",44.4,+/-1.0
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",43,4 bedrooms,"61,842","+/-2,458",17.9,+/-0.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",44,5 or more bedrooms,"11,025","+/-1,257",3.2,+/-0.4
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",44.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",44.5,HOUSING TENURE,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",45,Occupied housing units,"316,712","+/-1,803","316,712",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",46,Owner-occupied,"198,547","+/-3,044",62.7,+/-0.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",47,Renter-occupied,"118,165","+/-2,449",37.3,+/-0.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",47.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",48,Average household size of owner-occupied unit,2.62,+/-0.03,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",49,Average household size of renter-occupied unit,2.28,+/-0.05,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",49.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",50,Occupied housing units,"316,712","+/-1,803","316,712",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",51,Moved in 2019 or later,"105,531","+/-3,481",33.3,+/-1.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",52,Moved in 2015 to 2018,"73,093","+/-3,379",23.1,+/-1.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",53,Moved in 2010 to 2014,"40,496","+/-2,535",12.8,+/-0.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",54,Moved in 2000 to 2009,"46,958","+/-2,254",14.8,+/-0.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",55,Moved in 1990 to 1999,"25,082","+/-1,800",7.9,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",56,Moved in 1989 and earlier,"25,552","+/-1,633",8.1,+/-0.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",56.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",57,Occupied housing units,"316,712","+/-1,803","316,712",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",58,No vehicles available,"18,076","+/-1,574",5.7,+/-0.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",59,1 vehicle available,"112,003","+/-3,659",35.4,+/-1.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",60,2 vehicles available,"122,751","+/-3,581",38.8,+/-1.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",61,3 or more vehicles available,"63,882","+/-2,822",20.2,+/-0.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",61.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",62,Occupied housing units,"316,712","+/-1,803","316,712",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",63,Utility gas,"198,159","+/-3,254",62.6,+/-1.0
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",64,"Bottled, tank, or LP gas","7,358","+/-1,059",2.3,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",65,Electricity,"108,046","+/-2,776",34.1,+/-0.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",66,"Fuel oil, kerosene, etc.",70,+/-86,0.0,+/-0.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",67,Coal or coke,0,+/-172,0.0,+/-0.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",68,Wood,"1,131",+/-474,0.4,+/-0.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",69,Solar energy,96,+/-120,0.0,+/-0.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",70,Other fuel,560,+/-307,0.2,+/-0.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",71,No fuel used,"1,292",+/-436,0.4,+/-0.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",71.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",72,Occupied housing units,"316,712","+/-1,803","316,712",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",73,Lacking complete plumbing facilities,983,+/-394,0.3,+/-0.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",74,Lacking complete kitchen facilities,"2,125",+/-571,0.7,+/-0.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",75,No telephone service available,"2,729",+/-618,0.9,+/-0.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",75.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",76,Occupied housing units,"316,712","+/-1,803","316,712",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",77,1.00 or less,"307,551","+/-2,206",97.1,+/-0.4
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",78,1.01 to 1.50,"6,577",+/-998,2.1,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",79,1.51 or more,"2,584",+/-646,0.8,+/-0.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",79.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",79.5,VALUE,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",80,Owner-occupied units,"198,547","+/-3,044","198,547",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",81,"Less than $50,000","11,949","+/-1,431",6.0,+/-0.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",82,"$50,000 to $99,999","22,505","+/-1,651",11.3,+/-0.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",83,"$100,000 to $149,999","30,219","+/-1,854",15.2,+/-0.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",84,"$150,000 to $199,999","37,768","+/-2,075",19.0,+/-1.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",85,"$200,000 to $299,999","50,256","+/-2,589",25.3,+/-1.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",86,"$300,000 to $499,999","32,681","+/-1,902",16.5,+/-1.0
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",87,"$500,000 to $999,999","10,861","+/-1,190",5.5,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",88,"$1,000,000 or more","2,308",+/-497,1.2,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",89,Median (dollars),"195,400","+/-3,338",(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",89.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",90,Owner-occupied units,"198,547","+/-3,044","198,547",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",91,Housing units with a mortgage,"119,228","+/-3,223",60.1,+/-1.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",92,Housing units without a mortgage,"79,319","+/-2,526",39.9,+/-1.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",92.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",93,Housing units with a mortgage,"119,228","+/-3,223","119,228",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",94,Less than $500,"1,340",+/-348,1.1,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",95,$500 to $999,"22,726","+/-1,606",19.1,+/-1.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",96,"$1,000 to $1,499","46,246","+/-2,557",38.8,+/-1.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",97,"$1,500 to $1,999","27,211","+/-1,878",22.8,+/-1.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",98,"$2,000 to $2,499","10,617","+/-1,291",8.9,+/-1.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",99,"$2,500 to $2,999","5,537",+/-881,4.6,+/-0.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",100,"$3,000 or more","5,551",+/-862,4.7,+/-0.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",101,Median (dollars),"1,381",+/-19,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",101.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",102,Housing units without a mortgage,"79,319","+/-2,526","79,319",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",103,Less than $250,"7,695",+/-892,9.7,+/-1.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",104,$250 to $399,"18,938","+/-1,605",23.9,+/-1.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",105,$400 to $599,"27,368","+/-1,849",34.5,+/-1.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",106,$600 to $799,"13,091","+/-1,341",16.5,+/-1.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",107,$800 to $999,"6,060",+/-967,7.6,+/-1.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",108,"$1,000 or more","6,167",+/-955,7.8,+/-1.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",109,Median (dollars),488,+/-10,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",109.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"118,414","+/-3,220","118,414",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",111,Less than 20.0 percent,"62,381","+/-2,681",52.7,+/-1.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",112,20.0 to 24.9 percent,"16,601","+/-1,547",14.0,+/-1.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",113,25.0 to 29.9 percent,"10,490","+/-1,287",8.9,+/-1.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",114,30.0 to 34.9 percent,"7,839","+/-1,021",6.6,+/-0.8
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",115,35.0 percent or more,"21,103","+/-1,751",17.8,+/-1.4
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",115.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",116,Not computed,814,+/-350,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",116.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"78,272","+/-2,575","78,272",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",118,Less than 10.0 percent,"39,095","+/-2,189",49.9,+/-1.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",119,10.0 to 14.9 percent,"15,151","+/-1,420",19.4,+/-1.7
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",120,15.0 to 19.9 percent,"8,025",+/-923,10.3,+/-1.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",121,20.0 to 24.9 percent,"4,261",+/-767,5.4,+/-1.0
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",122,25.0 to 29.9 percent,"2,786",+/-717,3.6,+/-0.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",123,30.0 to 34.9 percent,"1,665",+/-462,2.1,+/-0.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",124,35.0 percent or more,"7,289",+/-913,9.3,+/-1.1
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",124.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",125,Not computed,"1,047",+/-407,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",125.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",125.5,GROSS RENT,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",126,Occupied units paying rent,"112,823","+/-2,444","112,823",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",127,Less than $500,"8,894","+/-1,016",7.9,+/-0.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",128,$500 to $999,"57,489","+/-2,212",51.0,+/-1.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",129,"$1,000 to $1,499","35,774","+/-1,904",31.7,+/-1.6
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",130,"$1,500 to $1,999","7,560","+/-1,025",6.7,+/-0.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",131,"$2,000 to $2,499","1,828",+/-529,1.6,+/-0.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",132,"$2,500 to $2,999",351,+/-210,0.3,+/-0.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",133,"$3,000 or more",927,+/-356,0.8,+/-0.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",134,Median (dollars),925,+/-13,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",134.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",135,No rent paid,"5,342",+/-779,(X),(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",135.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"109,543","+/-2,528","109,543",(X)
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",137,Less than 15.0 percent,"17,092","+/-1,750",15.6,+/-1.5
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",138,15.0 to 19.9 percent,"13,670","+/-1,506",12.5,+/-1.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",139,20.0 to 24.9 percent,"15,232","+/-1,468",13.9,+/-1.3
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",140,25.0 to 29.9 percent,"13,450","+/-1,606",12.3,+/-1.4
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",141,30.0 to 34.9 percent,"10,612","+/-1,303",9.7,+/-1.2
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",142,35.0 percent or more,"39,487","+/-2,220",36.0,+/-1.9
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",142.3,,,,,
+DP04,5001800US4001,"Congressional District 1 (118th Congress), Oklahoma",143,Not computed,"8,622",+/-959,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",0.5,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",1,Total housing units,"370,758","+/-1,115","370,758",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",2,Occupied housing units,"306,467","+/-2,809",82.7,+/-0.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",3,Vacant housing units,"64,291","+/-2,480",17.3,+/-0.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",3.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",4,Homeowner vacancy rate,1.4,+/-0.3,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",5,Rental vacancy rate,4.6,+/-0.7,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",5.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",6,Total housing units,"370,758","+/-1,115","370,758",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",7,"1-unit, detached","270,628","+/-3,055",73.0,+/-0.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",8,"1-unit, attached","4,547",+/-880,1.2,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",9,2 units,"8,535","+/-1,090",2.3,+/-0.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",10,3 or 4 units,"6,960","+/-1,064",1.9,+/-0.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",11,5 to 9 units,"6,498","+/-1,030",1.8,+/-0.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",12,10 to 19 units,"4,546",+/-852,1.2,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",13,20 or more units,"5,842",+/-879,1.6,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",14,Mobile home,"62,065","+/-2,661",16.7,+/-0.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",15,"Boat, RV, van, etc.","1,137",+/-355,0.3,+/-0.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",15.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",16,Total housing units,"370,758","+/-1,115","370,758",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",17,Built 2020 or later,"2,134",+/-505,0.6,+/-0.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",18,Built 2010 to 2019,"33,720","+/-2,200",9.1,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",19,Built 2000 to 2009,"53,674","+/-2,491",14.5,+/-0.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",20,Built 1990 to 1999,"49,904","+/-2,396",13.5,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",21,Built 1980 to 1989,"58,142","+/-2,302",15.7,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",22,Built 1970 to 1979,"66,959","+/-2,779",18.1,+/-0.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",23,Built 1960 to 1969,"36,090","+/-1,948",9.7,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",24,Built 1950 to 1959,"29,953","+/-1,491",8.1,+/-0.4
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",25,Built 1940 to 1949,"16,564","+/-1,315",4.5,+/-0.4
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",26,Built 1939 or earlier,"23,618","+/-1,319",6.4,+/-0.4
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",26.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",26.5,ROOMS,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",27,Total housing units,"370,758","+/-1,115","370,758",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",28,1 room,"7,800",+/-976,2.1,+/-0.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",29,2 rooms,"5,983",+/-812,1.6,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",30,3 rooms,"25,688","+/-1,817",6.9,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",31,4 rooms,"60,213","+/-2,298",16.2,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",32,5 rooms,"98,734","+/-3,109",26.6,+/-0.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",33,6 rooms,"75,128","+/-2,976",20.3,+/-0.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",34,7 rooms,"41,618","+/-2,401",11.2,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",35,8 rooms,"25,743","+/-1,675",6.9,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",36,9 rooms or more,"29,851","+/-1,903",8.1,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",37,Median rooms,5.4,+/-0.1,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",37.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",37.5,BEDROOMS,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",38,Total housing units,"370,758","+/-1,115","370,758",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",39,No bedroom,"8,070",+/-988,2.2,+/-0.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",40,1 bedroom,"23,285","+/-1,349",6.3,+/-0.4
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",41,2 bedrooms,"97,018","+/-2,807",26.2,+/-0.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",42,3 bedrooms,"187,410","+/-3,546",50.5,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",43,4 bedrooms,"46,758","+/-1,752",12.6,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",44,5 or more bedrooms,"8,217",+/-841,2.2,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",44.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",44.5,HOUSING TENURE,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",45,Occupied housing units,"306,467","+/-2,809","306,467",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",46,Owner-occupied,"215,751","+/-3,551",70.4,+/-1.0
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",47,Renter-occupied,"90,716","+/-3,425",29.6,+/-1.0
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",47.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",48,Average household size of owner-occupied unit,2.55,+/-0.03,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",49,Average household size of renter-occupied unit,2.48,+/-0.06,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",49.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",50,Occupied housing units,"306,467","+/-2,809","306,467",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",51,Moved in 2019 or later,"76,859","+/-2,768",25.1,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",52,Moved in 2015 to 2018,"65,801","+/-2,815",21.5,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",53,Moved in 2010 to 2014,"41,873","+/-1,935",13.7,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",54,Moved in 2000 to 2009,"59,870","+/-2,778",19.5,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",55,Moved in 1990 to 1999,"31,984","+/-1,729",10.4,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",56,Moved in 1989 and earlier,"30,080","+/-1,554",9.8,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",56.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",57,Occupied housing units,"306,467","+/-2,809","306,467",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",58,No vehicles available,"17,417","+/-1,470",5.7,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",59,1 vehicle available,"98,245","+/-3,068",32.1,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",60,2 vehicles available,"108,893","+/-3,460",35.5,+/-1.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",61,3 or more vehicles available,"81,912","+/-3,142",26.7,+/-1.0
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",61.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",62,Occupied housing units,"306,467","+/-2,809","306,467",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",63,Utility gas,"103,371","+/-2,833",33.7,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",64,"Bottled, tank, or LP gas","36,152","+/-1,504",11.8,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",65,Electricity,"148,305","+/-2,949",48.4,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",66,"Fuel oil, kerosene, etc.",952,+/-273,0.3,+/-0.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",67,Coal or coke,123,+/-129,0.0,+/-0.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",68,Wood,"12,550","+/-1,122",4.1,+/-0.4
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",69,Solar energy,162,+/-110,0.1,+/-0.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",70,Other fuel,"4,191",+/-661,1.4,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",71,No fuel used,661,+/-250,0.2,+/-0.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",71.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",72,Occupied housing units,"306,467","+/-2,809","306,467",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",73,Lacking complete plumbing facilities,"2,980",+/-625,1.0,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",74,Lacking complete kitchen facilities,"3,571",+/-685,1.2,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",75,No telephone service available,"4,283",+/-694,1.4,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",75.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",76,Occupied housing units,"306,467","+/-2,809","306,467",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",77,1.00 or less,"297,059","+/-3,052",96.9,+/-0.4
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",78,1.01 to 1.50,"6,380",+/-937,2.1,+/-0.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",79,1.51 or more,"3,028",+/-762,1.0,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",79.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",79.5,VALUE,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",80,Owner-occupied units,"215,751","+/-3,551","215,751",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",81,"Less than $50,000","31,575","+/-1,763",14.6,+/-0.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",82,"$50,000 to $99,999","48,438","+/-2,149",22.5,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",83,"$100,000 to $149,999","38,673","+/-2,127",17.9,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",84,"$150,000 to $199,999","33,414","+/-1,932",15.5,+/-0.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",85,"$200,000 to $299,999","33,583","+/-2,111",15.6,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",86,"$300,000 to $499,999","20,902","+/-1,721",9.7,+/-0.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",87,"$500,000 to $999,999","8,016",+/-930,3.7,+/-0.4
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",88,"$1,000,000 or more","1,150",+/-382,0.5,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",89,Median (dollars),"131,100","+/-3,783",(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",89.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",90,Owner-occupied units,"215,751","+/-3,551","215,751",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",91,Housing units with a mortgage,"98,448","+/-3,328",45.6,+/-1.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",92,Housing units without a mortgage,"117,303","+/-3,309",54.4,+/-1.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",92.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",93,Housing units with a mortgage,"98,448","+/-3,328","98,448",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",94,Less than $500,"3,389",+/-660,3.4,+/-0.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",95,$500 to $999,"39,192","+/-2,333",39.8,+/-1.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",96,"$1,000 to $1,499","33,868","+/-1,916",34.4,+/-1.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",97,"$1,500 to $1,999","13,803","+/-1,231",14.0,+/-1.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",98,"$2,000 to $2,499","4,803",+/-833,4.9,+/-0.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",99,"$2,500 to $2,999","1,826",+/-583,1.9,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",100,"$3,000 or more","1,567",+/-406,1.6,+/-0.4
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",101,Median (dollars),"1,085",+/-20,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",101.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",102,Housing units without a mortgage,"117,303","+/-3,309","117,303",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",103,Less than $250,"26,044","+/-1,581",22.2,+/-1.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",104,$250 to $399,"41,083","+/-2,005",35.0,+/-1.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",105,$400 to $599,"31,201","+/-2,049",26.6,+/-1.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",106,$600 to $799,"12,745","+/-1,412",10.9,+/-1.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",107,$800 to $999,"3,470",+/-564,3.0,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",108,"$1,000 or more","2,760",+/-539,2.4,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",109,Median (dollars),366,+/-7,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",109.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"97,842","+/-3,297","97,842",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",111,Less than 20.0 percent,"51,117","+/-2,455",52.2,+/-1.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",112,20.0 to 24.9 percent,"13,253","+/-1,434",13.5,+/-1.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",113,25.0 to 29.9 percent,"8,162","+/-1,003",8.3,+/-1.0
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",114,30.0 to 34.9 percent,"5,359",+/-832,5.5,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",115,35.0 percent or more,"19,951","+/-1,662",20.4,+/-1.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",115.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",116,Not computed,606,+/-292,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",116.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"115,195","+/-3,321","115,195",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",118,Less than 10.0 percent,"54,905","+/-2,325",47.7,+/-1.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",119,10.0 to 14.9 percent,"22,249","+/-1,627",19.3,+/-1.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",120,15.0 to 19.9 percent,"11,742","+/-1,001",10.2,+/-0.9
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",121,20.0 to 24.9 percent,"7,727",+/-976,6.7,+/-0.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",122,25.0 to 29.9 percent,"5,284",+/-697,4.6,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",123,30.0 to 34.9 percent,"3,103",+/-620,2.7,+/-0.5
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",124,35.0 percent or more,"10,185","+/-1,308",8.8,+/-1.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",124.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",125,Not computed,"2,108",+/-510,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",125.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",125.5,GROSS RENT,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",126,Occupied units paying rent,"76,626","+/-3,193","76,626",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",127,Less than $500,"14,933","+/-1,305",19.5,+/-1.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",128,$500 to $999,"48,399","+/-2,920",63.2,+/-2.0
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",129,"$1,000 to $1,499","11,754","+/-1,280",15.3,+/-1.7
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",130,"$1,500 to $1,999","1,330",+/-468,1.7,+/-0.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",131,"$2,000 to $2,499",198,+/-159,0.3,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",132,"$2,500 to $2,999",0,+/-172,0.0,+/-0.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",133,"$3,000 or more",12,+/-20,0.0,+/-0.1
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",134,Median (dollars),725,+/-17,(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",134.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",135,No rent paid,"14,090","+/-1,291",(X),(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",135.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"74,947","+/-3,194","74,947",(X)
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",137,Less than 15.0 percent,"13,894","+/-1,374",18.5,+/-1.8
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",138,15.0 to 19.9 percent,"10,174","+/-1,072",13.6,+/-1.3
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",139,20.0 to 24.9 percent,"9,846","+/-1,349",13.1,+/-1.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",140,25.0 to 29.9 percent,"7,971","+/-1,104",10.6,+/-1.4
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",141,30.0 to 34.9 percent,"7,676","+/-1,301",10.2,+/-1.6
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",142,35.0 percent or more,"25,386","+/-1,894",33.9,+/-2.2
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",142.3,,,,,
+DP04,5001800US4002,"Congressional District 2 (118th Congress), Oklahoma",143,Not computed,"15,769","+/-1,486",(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",0.5,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",1,Total housing units,"348,673","+/-3,674","348,673",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",2,Occupied housing units,"294,563","+/-4,770",84.5,+/-1.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",3,Vacant housing units,"54,110","+/-3,421",15.5,+/-1.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",3.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",4,Homeowner vacancy rate,1.3,+/-0.4,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",5,Rental vacancy rate,7.9,+/-1.6,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",5.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",6,Total housing units,"348,673","+/-3,674","348,673",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",7,"1-unit, detached","261,931","+/-5,055",75.1,+/-1.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",8,"1-unit, attached","6,932","+/-1,173",2.0,+/-0.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",9,2 units,"6,584","+/-1,400",1.9,+/-0.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",10,3 or 4 units,"10,592","+/-1,947",3.0,+/-0.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",11,5 to 9 units,"11,965","+/-1,993",3.4,+/-0.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",12,10 to 19 units,"7,050","+/-1,482",2.0,+/-0.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",13,20 or more units,"10,401","+/-1,559",3.0,+/-0.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",14,Mobile home,"31,841","+/-2,530",9.1,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",15,"Boat, RV, van, etc.","1,377",+/-710,0.4,+/-0.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",15.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",16,Total housing units,"348,673","+/-3,674","348,673",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",17,Built 2020 or later,"1,140",+/-435,0.3,+/-0.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",18,Built 2010 to 2019,"33,493","+/-2,559",9.6,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",19,Built 2000 to 2009,"36,875","+/-2,705",10.6,+/-0.8
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",20,Built 1990 to 1999,"24,995","+/-2,173",7.2,+/-0.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",21,Built 1980 to 1989,"38,099","+/-2,510",10.9,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",22,Built 1970 to 1979,"58,827","+/-3,997",16.9,+/-1.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",23,Built 1960 to 1969,"47,534","+/-2,855",13.6,+/-0.8
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",24,Built 1950 to 1959,"43,799","+/-3,140",12.6,+/-0.9
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",25,Built 1940 to 1949,"22,532","+/-2,317",6.5,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",26,Built 1939 or earlier,"41,379","+/-2,699",11.9,+/-0.8
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",26.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",26.5,ROOMS,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",27,Total housing units,"348,673","+/-3,674","348,673",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",28,1 room,"7,731","+/-1,714",2.2,+/-0.5
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",29,2 rooms,"6,629","+/-1,469",1.9,+/-0.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",30,3 rooms,"24,411","+/-2,539",7.0,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",31,4 rooms,"54,999","+/-3,351",15.8,+/-0.9
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",32,5 rooms,"85,100","+/-4,256",24.4,+/-1.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",33,6 rooms,"75,098","+/-4,184",21.5,+/-1.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",34,7 rooms,"42,420","+/-2,450",12.2,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",35,8 rooms,"24,651","+/-2,479",7.1,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",36,9 rooms or more,"27,634","+/-2,649",7.9,+/-0.8
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",37,Median rooms,5.4,+/-0.2,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",37.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",37.5,BEDROOMS,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",38,Total housing units,"348,673","+/-3,674","348,673",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",39,No bedroom,"8,835","+/-1,804",2.5,+/-0.5
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",40,1 bedroom,"26,527","+/-3,101",7.6,+/-0.9
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",41,2 bedrooms,"89,865","+/-3,947",25.8,+/-1.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",42,3 bedrooms,"170,513","+/-4,593",48.9,+/-1.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",43,4 bedrooms,"45,654","+/-2,558",13.1,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",44,5 or more bedrooms,"7,279","+/-1,389",2.1,+/-0.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",44.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",44.5,HOUSING TENURE,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",45,Occupied housing units,"294,563","+/-4,770","294,563",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",46,Owner-occupied,"190,433","+/-4,262",64.6,+/-1.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",47,Renter-occupied,"104,130","+/-4,647",35.4,+/-1.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",47.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",48,Average household size of owner-occupied unit,2.64,+/-0.05,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",49,Average household size of renter-occupied unit,2.44,+/-0.08,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",49.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",50,Occupied housing units,"294,563","+/-4,770","294,563",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",51,Moved in 2019 or later,"86,410","+/-4,674",29.3,+/-1.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",52,Moved in 2015 to 2018,"64,055","+/-3,639",21.7,+/-1.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",53,Moved in 2010 to 2014,"37,898","+/-2,811",12.9,+/-1.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",54,Moved in 2000 to 2009,"49,529","+/-3,233",16.8,+/-1.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",55,Moved in 1990 to 1999,"26,899","+/-1,858",9.1,+/-0.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",56,Moved in 1989 and earlier,"29,772","+/-2,011",10.1,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",56.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",57,Occupied housing units,"294,563","+/-4,770","294,563",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",58,No vehicles available,"17,730","+/-2,349",6.0,+/-0.8
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",59,1 vehicle available,"95,664","+/-4,388",32.5,+/-1.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",60,2 vehicles available,"107,052","+/-4,080",36.3,+/-1.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",61,3 or more vehicles available,"74,117","+/-3,404",25.2,+/-1.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",61.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",62,Occupied housing units,"294,563","+/-4,770","294,563",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",63,Utility gas,"151,626","+/-4,421",51.5,+/-1.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",64,"Bottled, tank, or LP gas","22,929","+/-1,813",7.8,+/-0.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",65,Electricity,"112,413","+/-4,544",38.2,+/-1.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",66,"Fuel oil, kerosene, etc.","1,191",+/-543,0.4,+/-0.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",67,Coal or coke,0,+/-172,0.0,+/-0.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",68,Wood,"2,573",+/-605,0.9,+/-0.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",69,Solar energy,14,+/-21,0.0,+/-0.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",70,Other fuel,"2,075",+/-511,0.7,+/-0.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",71,No fuel used,"1,742",+/-624,0.6,+/-0.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",71.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",72,Occupied housing units,"294,563","+/-4,770","294,563",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",73,Lacking complete plumbing facilities,"1,527",+/-662,0.5,+/-0.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",74,Lacking complete kitchen facilities,"3,246",+/-904,1.1,+/-0.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",75,No telephone service available,"4,166",+/-926,1.4,+/-0.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",75.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",76,Occupied housing units,"294,563","+/-4,770","294,563",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",77,1.00 or less,"284,925","+/-4,812",96.7,+/-0.5
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",78,1.01 to 1.50,"7,165","+/-1,322",2.4,+/-0.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",79,1.51 or more,"2,473",+/-799,0.8,+/-0.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",79.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",79.5,VALUE,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",80,Owner-occupied units,"190,433","+/-4,262","190,433",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",81,"Less than $50,000","24,740","+/-2,323",13.0,+/-1.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",82,"$50,000 to $99,999","42,106","+/-3,044",22.1,+/-1.5
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",83,"$100,000 to $149,999","34,499","+/-2,429",18.1,+/-1.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",84,"$150,000 to $199,999","32,471","+/-2,624",17.1,+/-1.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",85,"$200,000 to $299,999","30,201","+/-2,351",15.9,+/-1.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",86,"$300,000 to $499,999","20,660","+/-2,309",10.8,+/-1.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",87,"$500,000 to $999,999","4,613","+/-1,040",2.4,+/-0.5
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",88,"$1,000,000 or more","1,143",+/-492,0.6,+/-0.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",89,Median (dollars),"140,600","+/-4,528",(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",89.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",90,Owner-occupied units,"190,433","+/-4,262","190,433",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",91,Housing units with a mortgage,"91,875","+/-3,898",48.2,+/-1.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",92,Housing units without a mortgage,"98,558","+/-3,646",51.8,+/-1.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",92.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",93,Housing units with a mortgage,"91,875","+/-3,898","91,875",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",94,Less than $500,"1,519",+/-515,1.7,+/-0.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",95,$500 to $999,"30,930","+/-2,629",33.7,+/-2.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",96,"$1,000 to $1,499","33,014","+/-2,788",35.9,+/-2.5
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",97,"$1,500 to $1,999","15,117","+/-1,827",16.5,+/-2.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",98,"$2,000 to $2,499","6,739","+/-1,292",7.3,+/-1.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",99,"$2,500 to $2,999","2,411",+/-683,2.6,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",100,"$3,000 or more","2,145",+/-665,2.3,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",101,Median (dollars),"1,189",+/-28,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",101.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",102,Housing units without a mortgage,"98,558","+/-3,646","98,558",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",103,Less than $250,"20,191","+/-2,375",20.5,+/-2.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",104,$250 to $399,"31,943","+/-2,467",32.4,+/-2.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",105,$400 to $599,"28,058","+/-2,070",28.5,+/-1.9
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",106,$600 to $799,"11,660","+/-1,504",11.8,+/-1.5
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",107,$800 to $999,"4,395",+/-968,4.5,+/-1.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",108,"$1,000 or more","2,311",+/-740,2.3,+/-0.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",109,Median (dollars),386,+/-11,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",109.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"91,364","+/-3,895","91,364",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",111,Less than 20.0 percent,"47,735","+/-3,069",52.2,+/-2.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",112,20.0 to 24.9 percent,"12,976","+/-1,624",14.2,+/-1.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",113,25.0 to 29.9 percent,"8,475","+/-1,594",9.3,+/-1.8
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",114,30.0 to 34.9 percent,"4,539","+/-1,016",5.0,+/-1.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",115,35.0 percent or more,"17,639","+/-2,084",19.3,+/-2.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",115.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",116,Not computed,511,+/-436,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",116.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"97,283","+/-3,520","97,283",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",118,Less than 10.0 percent,"49,119","+/-2,612",50.5,+/-2.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",119,10.0 to 14.9 percent,"19,002","+/-1,934",19.5,+/-1.8
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",120,15.0 to 19.9 percent,"9,563","+/-1,491",9.8,+/-1.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",121,20.0 to 24.9 percent,"6,089","+/-1,021",6.3,+/-1.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",122,25.0 to 29.9 percent,"4,222","+/-1,230",4.3,+/-1.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",123,30.0 to 34.9 percent,"2,299",+/-592,2.4,+/-0.6
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",124,35.0 percent or more,"6,989","+/-1,041",7.2,+/-1.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",124.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",125,Not computed,"1,275",+/-457,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",125.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",125.5,GROSS RENT,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",126,Occupied units paying rent,"95,974","+/-4,733","95,974",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",127,Less than $500,"13,362","+/-1,947",13.9,+/-2.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",128,$500 to $999,"59,453","+/-4,293",61.9,+/-3.0
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",129,"$1,000 to $1,499","18,004","+/-2,428",18.8,+/-2.3
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",130,"$1,500 to $1,999","3,808",+/-996,4.0,+/-1.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",131,"$2,000 to $2,499","1,158",+/-465,1.2,+/-0.5
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",132,"$2,500 to $2,999",145,+/-173,0.2,+/-0.2
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",133,"$3,000 or more",44,+/-85,0.0,+/-0.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",134,Median (dollars),792,+/-14,(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",134.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",135,No rent paid,"8,156","+/-1,135",(X),(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",135.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"93,432","+/-4,763","93,432",(X)
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",137,Less than 15.0 percent,"14,951","+/-2,306",16.0,+/-2.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",138,15.0 to 19.9 percent,"13,593","+/-2,111",14.5,+/-2.1
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",139,20.0 to 24.9 percent,"11,805","+/-1,744",12.6,+/-1.8
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",140,25.0 to 29.9 percent,"10,031","+/-1,673",10.7,+/-1.7
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",141,30.0 to 34.9 percent,"7,021","+/-1,413",7.5,+/-1.4
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",142,35.0 percent or more,"36,031","+/-3,226",38.6,+/-2.8
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",142.3,,,,,
+DP04,5001800US4003,"Congressional District 3 (118th Congress), Oklahoma",143,Not computed,"10,698","+/-1,360",(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",0.5,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",1,Total housing units,"343,301","+/-2,164","343,301",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",2,Occupied housing units,"307,721","+/-3,225",89.6,+/-0.7
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",3,Vacant housing units,"35,580","+/-2,574",10.4,+/-0.7
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",3.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",4,Homeowner vacancy rate,1.1,+/-0.3,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",5,Rental vacancy rate,5.9,+/-1.1,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",5.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",6,Total housing units,"343,301","+/-2,164","343,301",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",7,"1-unit, detached","258,326","+/-3,545",75.2,+/-1.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",8,"1-unit, attached","9,889","+/-1,426",2.9,+/-0.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",9,2 units,"5,436","+/-1,165",1.6,+/-0.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",10,3 or 4 units,"9,235","+/-2,125",2.7,+/-0.6
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",11,5 to 9 units,"13,558","+/-2,123",3.9,+/-0.6
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",12,10 to 19 units,"11,149","+/-1,668",3.2,+/-0.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",13,20 or more units,"10,978","+/-1,540",3.2,+/-0.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",14,Mobile home,"24,199","+/-1,636",7.0,+/-0.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",15,"Boat, RV, van, etc.",531,+/-266,0.2,+/-0.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",15.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",16,Total housing units,"343,301","+/-2,164","343,301",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",17,Built 2020 or later,"2,973",+/-886,0.9,+/-0.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",18,Built 2010 to 2019,"41,554","+/-3,124",12.1,+/-0.9
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",19,Built 2000 to 2009,"52,897","+/-2,964",15.4,+/-0.9
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",20,Built 1990 to 1999,"36,521","+/-2,686",10.6,+/-0.8
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",21,Built 1980 to 1989,"46,483","+/-3,250",13.5,+/-0.9
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",22,Built 1970 to 1979,"60,841","+/-3,376",17.7,+/-1.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",23,Built 1960 to 1969,"37,503","+/-2,909",10.9,+/-0.8
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",24,Built 1950 to 1959,"31,538","+/-2,533",9.2,+/-0.7
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",25,Built 1940 to 1949,"18,155","+/-1,820",5.3,+/-0.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",26,Built 1939 or earlier,"14,836","+/-1,639",4.3,+/-0.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",26.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",26.5,ROOMS,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",27,Total housing units,"343,301","+/-2,164","343,301",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",28,1 room,"4,520",+/-998,1.3,+/-0.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",29,2 rooms,"6,545","+/-1,497",1.9,+/-0.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",30,3 rooms,"23,210","+/-2,590",6.8,+/-0.7
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",31,4 rooms,"53,093","+/-3,198",15.5,+/-0.9
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",32,5 rooms,"83,273","+/-3,601",24.3,+/-1.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",33,6 rooms,"75,312","+/-3,706",21.9,+/-1.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",34,7 rooms,"46,802","+/-2,834",13.6,+/-0.8
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",35,8 rooms,"23,736","+/-2,042",6.9,+/-0.6
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",36,9 rooms or more,"26,810","+/-2,460",7.8,+/-0.7
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",37,Median rooms,5.5,+/-0.1,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",37.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",37.5,BEDROOMS,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",38,Total housing units,"343,301","+/-2,164","343,301",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",39,No bedroom,"4,956","+/-1,042",1.4,+/-0.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",40,1 bedroom,"25,925","+/-2,781",7.6,+/-0.8
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",41,2 bedrooms,"76,937","+/-4,272",22.4,+/-1.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",42,3 bedrooms,"177,064","+/-4,205",51.6,+/-1.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",43,4 bedrooms,"51,740","+/-3,174",15.1,+/-0.9
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",44,5 or more bedrooms,"6,679","+/-1,137",1.9,+/-0.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",44.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",44.5,HOUSING TENURE,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",45,Occupied housing units,"307,721","+/-3,225","307,721",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",46,Owner-occupied,"197,821","+/-3,688",64.3,+/-1.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",47,Renter-occupied,"109,900","+/-3,927",35.7,+/-1.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",47.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",48,Average household size of owner-occupied unit,2.56,+/-0.04,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",49,Average household size of renter-occupied unit,2.39,+/-0.06,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",49.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",50,Occupied housing units,"307,721","+/-3,225","307,721",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",51,Moved in 2019 or later,"96,268","+/-3,805",31.3,+/-1.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",52,Moved in 2015 to 2018,"68,708","+/-3,711",22.3,+/-1.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",53,Moved in 2010 to 2014,"42,247","+/-3,164",13.7,+/-1.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",54,Moved in 2000 to 2009,"49,021","+/-3,044",15.9,+/-1.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",55,Moved in 1990 to 1999,"25,999","+/-2,054",8.4,+/-0.7
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",56,Moved in 1989 and earlier,"25,478","+/-2,100",8.3,+/-0.7
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",56.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",57,Occupied housing units,"307,721","+/-3,225","307,721",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",58,No vehicles available,"16,080","+/-2,285",5.2,+/-0.7
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",59,1 vehicle available,"96,737","+/-4,233",31.4,+/-1.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",60,2 vehicles available,"124,519","+/-4,352",40.5,+/-1.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",61,3 or more vehicles available,"70,385","+/-3,557",22.9,+/-1.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",61.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",62,Occupied housing units,"307,721","+/-3,225","307,721",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",63,Utility gas,"146,491","+/-4,456",47.6,+/-1.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",64,"Bottled, tank, or LP gas","16,354","+/-1,417",5.3,+/-0.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",65,Electricity,"138,389","+/-4,974",45.0,+/-1.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",66,"Fuel oil, kerosene, etc.",403,+/-260,0.1,+/-0.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",67,Coal or coke,87,+/-148,0.0,+/-0.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",68,Wood,"2,001",+/-506,0.7,+/-0.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",69,Solar energy,113,+/-128,0.0,+/-0.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",70,Other fuel,"2,209",+/-628,0.7,+/-0.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",71,No fuel used,"1,674",+/-688,0.5,+/-0.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",71.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",72,Occupied housing units,"307,721","+/-3,225","307,721",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",73,Lacking complete plumbing facilities,"1,343",+/-564,0.4,+/-0.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",74,Lacking complete kitchen facilities,"2,952","+/-1,007",1.0,+/-0.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",75,No telephone service available,"2,574",+/-634,0.8,+/-0.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",75.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",76,Occupied housing units,"307,721","+/-3,225","307,721",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",77,1.00 or less,"301,178","+/-3,308",97.9,+/-0.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",78,1.01 to 1.50,"4,771",+/-850,1.6,+/-0.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",79,1.51 or more,"1,772",+/-665,0.6,+/-0.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",79.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",79.5,VALUE,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",80,Owner-occupied units,"197,821","+/-3,688","197,821",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",81,"Less than $50,000","18,311","+/-1,608",9.3,+/-0.8
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",82,"$50,000 to $99,999","29,040","+/-2,444",14.7,+/-1.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",83,"$100,000 to $149,999","36,331","+/-2,922",18.4,+/-1.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",84,"$150,000 to $199,999","36,450","+/-2,615",18.4,+/-1.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",85,"$200,000 to $299,999","42,086","+/-2,951",21.3,+/-1.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",86,"$300,000 to $499,999","27,669","+/-2,295",14.0,+/-1.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",87,"$500,000 to $999,999","6,427","+/-1,061",3.2,+/-0.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",88,"$1,000,000 or more","1,507",+/-600,0.8,+/-0.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",89,Median (dollars),"169,200","+/-3,722",(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",89.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",90,Owner-occupied units,"197,821","+/-3,688","197,821",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",91,Housing units with a mortgage,"109,881","+/-3,971",55.5,+/-1.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",92,Housing units without a mortgage,"87,940","+/-3,040",44.5,+/-1.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",92.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",93,Housing units with a mortgage,"109,881","+/-3,971","109,881",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",94,Less than $500,"1,992",+/-711,1.8,+/-0.6
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",95,$500 to $999,"27,972","+/-2,421",25.5,+/-2.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",96,"$1,000 to $1,499","37,921","+/-2,733",34.5,+/-2.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",97,"$1,500 to $1,999","25,204","+/-2,247",22.9,+/-1.9
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",98,"$2,000 to $2,499","9,883","+/-1,398",9.0,+/-1.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",99,"$2,500 to $2,999","3,745",+/-840,3.4,+/-0.8
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",100,"$3,000 or more","3,164",+/-913,2.9,+/-0.8
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",101,Median (dollars),"1,311",+/-35,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",101.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",102,Housing units without a mortgage,"87,940","+/-3,040","87,940",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",103,Less than $250,"14,414","+/-1,371",16.4,+/-1.6
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",104,$250 to $399,"22,924","+/-2,084",26.1,+/-2.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",105,$400 to $599,"29,528","+/-2,320",33.6,+/-2.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",106,$600 to $799,"13,709","+/-1,589",15.6,+/-1.8
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",107,$800 to $999,"4,255",+/-951,4.8,+/-1.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",108,"$1,000 or more","3,110",+/-836,3.5,+/-0.9
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",109,Median (dollars),440,+/-11,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",109.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"109,365","+/-3,982","109,365",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",111,Less than 20.0 percent,"57,551","+/-3,467",52.6,+/-2.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",112,20.0 to 24.9 percent,"17,382","+/-1,549",15.9,+/-1.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",113,25.0 to 29.9 percent,"10,956","+/-1,676",10.0,+/-1.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",114,30.0 to 34.9 percent,"5,564","+/-1,014",5.1,+/-0.9
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",115,35.0 percent or more,"17,912","+/-1,777",16.4,+/-1.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",115.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",116,Not computed,516,+/-386,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",116.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"87,068","+/-3,083","87,068",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",118,Less than 10.0 percent,"44,662","+/-2,590",51.3,+/-2.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",119,10.0 to 14.9 percent,"16,475","+/-1,916",18.9,+/-2.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",120,15.0 to 19.9 percent,"10,014","+/-1,209",11.5,+/-1.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",121,20.0 to 24.9 percent,"4,582",+/-917,5.3,+/-1.0
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",122,25.0 to 29.9 percent,"2,395",+/-607,2.8,+/-0.7
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",123,30.0 to 34.9 percent,"1,978",+/-518,2.3,+/-0.6
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",124,35.0 percent or more,"6,962","+/-1,458",8.0,+/-1.6
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",124.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",125,Not computed,872,+/-315,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",125.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",125.5,GROSS RENT,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",126,Occupied units paying rent,"102,391","+/-4,003","102,391",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",127,Less than $500,"8,107","+/-1,211",7.9,+/-1.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",128,$500 to $999,"60,376","+/-4,403",59.0,+/-3.1
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",129,"$1,000 to $1,499","26,244","+/-2,427",25.6,+/-2.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",130,"$1,500 to $1,999","6,131","+/-1,316",6.0,+/-1.3
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",131,"$2,000 to $2,499",729,+/-604,0.7,+/-0.6
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",132,"$2,500 to $2,999",493,+/-373,0.5,+/-0.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",133,"$3,000 or more",311,+/-468,0.3,+/-0.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",134,Median (dollars),863,+/-17,(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",134.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",135,No rent paid,"7,509","+/-1,303",(X),(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",135.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"99,828","+/-3,880","99,828",(X)
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",137,Less than 15.0 percent,"16,131","+/-1,916",16.2,+/-1.8
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",138,15.0 to 19.9 percent,"14,444","+/-2,311",14.5,+/-2.2
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",139,20.0 to 24.9 percent,"14,021","+/-2,003",14.0,+/-1.9
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",140,25.0 to 29.9 percent,"9,975","+/-1,463",10.0,+/-1.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",141,30.0 to 34.9 percent,"7,935","+/-1,456",7.9,+/-1.5
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",142,35.0 percent or more,"37,322","+/-2,830",37.4,+/-2.4
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",142.3,,,,,
+DP04,5001800US4004,"Congressional District 4 (118th Congress), Oklahoma",143,Not computed,"10,072","+/-1,542",(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",0,SELECTED HOUSING CHARACTERISTICS,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",0.5,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",0.8,HOUSING OCCUPANCY,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",1,Total housing units,"354,333","+/-3,942","354,333",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",2,Occupied housing units,"322,504","+/-4,814",91.0,+/-0.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",3,Vacant housing units,"31,829","+/-3,095",9.0,+/-0.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",3.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",4,Homeowner vacancy rate,1.2,+/-0.4,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",5,Rental vacancy rate,8.6,+/-1.7,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",5.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",5.5,UNITS IN STRUCTURE,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",6,Total housing units,"354,333","+/-3,942","354,333",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",7,"1-unit, detached","255,286","+/-4,090",72.0,+/-1.0
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",8,"1-unit, attached","9,877","+/-1,755",2.8,+/-0.5
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",9,2 units,"5,980","+/-1,381",1.7,+/-0.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",10,3 or 4 units,"14,558","+/-2,352",4.1,+/-0.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",11,5 to 9 units,"15,539","+/-2,274",4.4,+/-0.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",12,10 to 19 units,"15,160","+/-2,556",4.3,+/-0.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",13,20 or more units,"20,733","+/-2,535",5.9,+/-0.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",14,Mobile home,"16,999","+/-1,547",4.8,+/-0.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",15,"Boat, RV, van, etc.",201,+/-157,0.1,+/-0.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",15.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",15.5,YEAR STRUCTURE BUILT,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",16,Total housing units,"354,333","+/-3,942","354,333",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",17,Built 2020 or later,"4,260","+/-1,468",1.2,+/-0.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",18,Built 2010 to 2019,"50,254","+/-3,986",14.2,+/-1.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",19,Built 2000 to 2009,"51,063","+/-3,230",14.4,+/-0.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",20,Built 1990 to 1999,"35,406","+/-3,027",10.0,+/-0.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",21,Built 1980 to 1989,"49,805","+/-3,452",14.1,+/-0.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",22,Built 1970 to 1979,"60,047","+/-4,114",16.9,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",23,Built 1960 to 1969,"41,284","+/-2,847",11.7,+/-0.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",24,Built 1950 to 1959,"28,464","+/-2,477",8.0,+/-0.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",25,Built 1940 to 1949,"13,097","+/-1,666",3.7,+/-0.5
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",26,Built 1939 or earlier,"20,653","+/-1,672",5.8,+/-0.5
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",26.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",26.5,ROOMS,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",27,Total housing units,"354,333","+/-3,942","354,333",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",28,1 room,"6,456","+/-1,531",1.8,+/-0.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",29,2 rooms,"8,124","+/-1,791",2.3,+/-0.5
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",30,3 rooms,"26,410","+/-2,989",7.5,+/-0.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",31,4 rooms,"47,284","+/-4,153",13.3,+/-1.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",32,5 rooms,"77,647","+/-3,590",21.9,+/-1.0
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",33,6 rooms,"73,876","+/-4,145",20.8,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",34,7 rooms,"45,675","+/-3,119",12.9,+/-0.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",35,8 rooms,"29,903","+/-2,535",8.4,+/-0.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",36,9 rooms or more,"38,958","+/-2,854",11.0,+/-0.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",37,Median rooms,5.7,+/-0.2,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",37.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",37.5,BEDROOMS,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",38,Total housing units,"354,333","+/-3,942","354,333",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",39,No bedroom,"6,643","+/-1,528",1.9,+/-0.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",40,1 bedroom,"35,577","+/-3,531",10.0,+/-1.0
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",41,2 bedrooms,"76,866","+/-4,330",21.7,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",42,3 bedrooms,"159,446","+/-4,130",45.0,+/-1.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",43,4 bedrooms,"67,154","+/-2,973",19.0,+/-0.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",44,5 or more bedrooms,"8,647","+/-1,448",2.4,+/-0.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",44.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",44.5,HOUSING TENURE,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",45,Occupied housing units,"322,504","+/-4,814","322,504",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",46,Owner-occupied,"211,285","+/-4,423",65.5,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",47,Renter-occupied,"111,219","+/-4,426",34.5,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",47.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",48,Average household size of owner-occupied unit,2.61,+/-0.04,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",49,Average household size of renter-occupied unit,2.17,+/-0.07,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",49.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",49.5,YEAR HOUSEHOLDER MOVED INTO UNIT,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",50,Occupied housing units,"322,504","+/-4,814","322,504",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",51,Moved in 2019 or later,"106,009","+/-5,765",32.9,+/-1.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",52,Moved in 2015 to 2018,"69,459","+/-4,222",21.5,+/-1.3
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",53,Moved in 2010 to 2014,"44,075","+/-3,129",13.7,+/-1.0
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",54,Moved in 2000 to 2009,"51,113","+/-3,399",15.8,+/-1.0
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",55,Moved in 1990 to 1999,"27,037","+/-2,371",8.4,+/-0.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",56,Moved in 1989 and earlier,"24,811","+/-1,597",7.7,+/-0.5
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",56.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",56.5,VEHICLES AVAILABLE,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",57,Occupied housing units,"322,504","+/-4,814","322,504",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",58,No vehicles available,"15,055","+/-2,076",4.7,+/-0.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",59,1 vehicle available,"108,367","+/-5,020",33.6,+/-1.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",60,2 vehicles available,"129,198","+/-4,855",40.1,+/-1.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",61,3 or more vehicles available,"69,884","+/-3,902",21.7,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",61.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",61.5,HOUSE HEATING FUEL,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",62,Occupied housing units,"322,504","+/-4,814","322,504",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",63,Utility gas,"179,037","+/-4,990",55.5,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",64,"Bottled, tank, or LP gas","15,119","+/-1,941",4.7,+/-0.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",65,Electricity,"124,481","+/-4,117",38.6,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",66,"Fuel oil, kerosene, etc.",367,+/-302,0.1,+/-0.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",67,Coal or coke,0,+/-172,0.0,+/-0.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",68,Wood,"2,618",+/-829,0.8,+/-0.3
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",69,Solar energy,0,+/-172,0.0,+/-0.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",70,Other fuel,692,+/-325,0.2,+/-0.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",71,No fuel used,190,+/-135,0.1,+/-0.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",71.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",71.5,SELECTED CHARACTERISTICS,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",72,Occupied housing units,"322,504","+/-4,814","322,504",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",73,Lacking complete plumbing facilities,"1,446",+/-645,0.4,+/-0.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",74,Lacking complete kitchen facilities,"2,463",+/-806,0.8,+/-0.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",75,No telephone service available,"2,694",+/-671,0.8,+/-0.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",75.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",75.5,OCCUPANTS PER ROOM,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",76,Occupied housing units,"322,504","+/-4,814","322,504",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",77,1.00 or less,"315,757","+/-5,075",97.9,+/-0.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",78,1.01 to 1.50,"4,996",+/-997,1.5,+/-0.3
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",79,1.51 or more,"1,751",+/-690,0.5,+/-0.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",79.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",79.5,VALUE,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",80,Owner-occupied units,"211,285","+/-4,423","211,285",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",81,"Less than $50,000","12,837","+/-1,508",6.1,+/-0.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",82,"$50,000 to $99,999","19,371","+/-1,821",9.2,+/-0.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",83,"$100,000 to $149,999","28,946","+/-2,350",13.7,+/-1.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",84,"$150,000 to $199,999","40,515","+/-3,446",19.2,+/-1.5
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",85,"$200,000 to $299,999","53,566","+/-3,515",25.4,+/-1.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",86,"$300,000 to $499,999","38,809","+/-2,588",18.4,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",87,"$500,000 to $999,999","13,937","+/-1,349",6.6,+/-0.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",88,"$1,000,000 or more","3,304",+/-793,1.6,+/-0.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",89,Median (dollars),"206,600","+/-5,897",(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",89.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",89.5,MORTGAGE STATUS,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",90,Owner-occupied units,"211,285","+/-4,423","211,285",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",91,Housing units with a mortgage,"125,347","+/-4,658",59.3,+/-1.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",92,Housing units without a mortgage,"85,938","+/-3,787",40.7,+/-1.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",92.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",92.5,SELECTED MONTHLY OWNER COSTS (SMOC),,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",93,Housing units with a mortgage,"125,347","+/-4,658","125,347",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",94,Less than $500,"1,356",+/-621,1.1,+/-0.5
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",95,$500 to $999,"22,673","+/-2,298",18.1,+/-1.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",96,"$1,000 to $1,499","43,373","+/-3,497",34.6,+/-2.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",97,"$1,500 to $1,999","26,613","+/-2,520",21.2,+/-1.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",98,"$2,000 to $2,499","14,814","+/-1,776",11.8,+/-1.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",99,"$2,500 to $2,999","6,733","+/-1,418",5.4,+/-1.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",100,"$3,000 or more","9,785","+/-1,402",7.8,+/-1.1
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",101,Median (dollars),"1,447",+/-31,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",101.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",102,Housing units without a mortgage,"85,938","+/-3,787","85,938",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",103,Less than $250,"9,523","+/-1,236",11.1,+/-1.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",104,$250 to $399,"16,476","+/-1,555",19.2,+/-1.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",105,$400 to $599,"27,698","+/-2,928",32.2,+/-2.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",106,$600 to $799,"17,694","+/-1,877",20.6,+/-2.0
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",107,$800 to $999,"7,373","+/-1,238",8.6,+/-1.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",108,"$1,000 or more","7,174","+/-1,192",8.3,+/-1.3
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",109,Median (dollars),519,+/-15,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",109.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",109.5,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI),,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",110,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"124,932","+/-4,595","124,932",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",111,Less than 20.0 percent,"66,804","+/-3,282",53.5,+/-2.3
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",112,20.0 to 24.9 percent,"18,314","+/-2,143",14.7,+/-1.5
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",113,25.0 to 29.9 percent,"11,010","+/-1,573",8.8,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",114,30.0 to 34.9 percent,"6,755","+/-1,344",5.4,+/-1.0
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",115,35.0 percent or more,"22,049","+/-2,302",17.6,+/-1.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",115.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",116,Not computed,415,+/-283,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",116.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",117,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"84,734","+/-3,683","84,734",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",118,Less than 10.0 percent,"43,253","+/-2,874",51.0,+/-2.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",119,10.0 to 14.9 percent,"16,449","+/-1,936",19.4,+/-1.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",120,15.0 to 19.9 percent,"8,287","+/-1,165",9.8,+/-1.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",121,20.0 to 24.9 percent,"5,168","+/-1,045",6.1,+/-1.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",122,25.0 to 29.9 percent,"3,056",+/-836,3.6,+/-1.0
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",123,30.0 to 34.9 percent,"1,623",+/-512,1.9,+/-0.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",124,35.0 percent or more,"6,898","+/-1,475",8.1,+/-1.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",124.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",125,Not computed,"1,204",+/-599,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",125.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",125.5,GROSS RENT,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",126,Occupied units paying rent,"105,254","+/-4,388","105,254",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",127,Less than $500,"7,501","+/-1,458",7.1,+/-1.4
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",128,$500 to $999,"50,649","+/-3,977",48.1,+/-2.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",129,"$1,000 to $1,499","32,782","+/-2,991",31.1,+/-2.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",130,"$1,500 to $1,999","9,236","+/-1,925",8.8,+/-1.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",131,"$2,000 to $2,499","2,629",+/-840,2.5,+/-0.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",132,"$2,500 to $2,999","1,225",+/-622,1.2,+/-0.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",133,"$3,000 or more","1,232",+/-604,1.2,+/-0.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",134,Median (dollars),952,+/-24,(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",134.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",135,No rent paid,"5,965","+/-1,119",(X),(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",135.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",135.5,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI),,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",136,Occupied units paying rent (excluding units where GRAPI cannot be computed),"103,178","+/-4,396","103,178",(X)
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",137,Less than 15.0 percent,"13,311","+/-2,213",12.9,+/-1.9
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",138,15.0 to 19.9 percent,"11,974","+/-1,717",11.6,+/-1.7
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",139,20.0 to 24.9 percent,"12,832","+/-2,348",12.4,+/-2.3
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",140,25.0 to 29.9 percent,"12,333","+/-1,974",12.0,+/-1.8
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",141,30.0 to 34.9 percent,"11,555","+/-2,315",11.2,+/-2.2
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",142,35.0 percent or more,"41,173","+/-3,194",39.9,+/-2.6
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",142.3,,,,,
+DP04,5001800US4005,"Congressional District 5 (118th Congress), Oklahoma",143,Not computed,"8,041","+/-1,372",(X),(X)
