@@ -7,7 +7,7 @@
   </a>
   
   <h3 align="center">
-    Strategic Insights for Democratic Congressional Campaigns using American Community Survey Profiles on Demographics, Economics, Housing, and Social Characteristics
+    Strategic Insights for Democratic Congressional Campaigns Using American Community Survey Profiles on Demographics, Economics, Housing, and Social Characteristics
   </h3>
   
   <p align="center">
