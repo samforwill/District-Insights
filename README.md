@@ -33,4 +33,5 @@ The ACS presents this data across four Data Profile tables, offering a clear and
 * <b><u>Economic Profile</b></u>: Sheds light on workforce dynamics, commuting patterns, occupational and industrial distributions, income levels, health insurance coverage, and poverty rates.
 * <b><u>Housing Profile</b></u>: Provides insights into housing occupancy and characteristics, ownership versus renting, vehicle availability, energy sources, and housing costs.
 * <b><u>Demographic Profile</b></u>: Details the demographic makeup in terms of gender, age, racial and ethnic backgrounds, and the citizen voting-age population.
+
 These profiles collectively offer a comprehensive overview of each district's characteristics, crucial for understanding the evolving electoral landscape in the wake of recent redistricting.
