@@ -1,5 +1,5 @@
 <h2 align="center">The New Demographic Battlefield</h2>
-<h3 align="center"> A Post-Redistricting Analysis of Partisan Lean and 2022 Midterm Voter Behavior</h3>
+<h3 align="center"> A Post-Redistricting Analysis of Partisan Lean and 2022 Midterm Voter Behavior in U.S. Congressional Districts</h3>
 
 <div align="center">
   <a href="https://github.com/samforwill/District-Insights">
