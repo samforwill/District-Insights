@@ -10,15 +10,14 @@
     Strategic Insights for Democratic Congressional Campaigns Using American Community Survey Profiles on Demographics, Economics, Housing, and Social Characteristics
   </h3>
   
-  <p align="center">
-    <a href="https://github.com/samforwill/District-Insights"><strong>Explore the docs »</strong></a>
+ <p align="center">
+    <a href="https://2022midterms.streamlit.app/"><strong>Explore the Interactive Streamlit App!</strong></a>
     <br />
+    Dive into the detailed outcomes of the 2022 midterms for any US Congressional District.
     <br />
-    <a href="https://github.com/samforwill/District-Insights">View Demo</a>
-    ·
-    <a href="https://github.com/samforwill/District-Insights/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/samforwill/District-Insights/issues">Request Feature</a>
+    <a href="https://2022midterms.streamlit.app/">
+      <img src="images/Streamlit_Preview.png" alt="Streamlit app preview" style="width: 70%; max-width: 600px;">
+    </a>
   </p>
 </div>
 
