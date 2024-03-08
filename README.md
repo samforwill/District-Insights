@@ -9,7 +9,7 @@
   <h3 align="center">
     Strategic Insights for Democratic Congressional Campaigns Using American Community Survey Profiles on Demographics, Economics, Housing, and Social Characteristics
   </h3>
-  
+__________________________________________________________________________________________________________________________________________________  
  <p align="center">
     <a href="https://2022midterms.streamlit.app/"><strong>Explore the Interactive Streamlit App!</strong></a>
     <br />
@@ -21,7 +21,7 @@
   </p>
 </div>
 
-
+__________________________________________________________________________________________________________________________________________________
 
 The American Community Survey (ACS), conducted annually by the Census Bureau, offers a detailed snapshot of the U.S. population, expanding beyond the Decennial Census's basic household data. By sampling approximately 3.5 million addresses each year, the ACS provides a comprehensive overview of social, economic, housing, and demographic details at a level of depth unmatched in the ten-year census.
 
