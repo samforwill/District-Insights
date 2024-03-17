@@ -1,6 +1,18 @@
-#### Explore My Interactive App for US Congressional Districts!
-[2022midterms.streamlit.app](http://2022midterms.streamlit.app/)
+<!-- PROJECT LOGO -->
+<br />
+<div align="left">
+  <h3 align="center">Explore My Interactive Streamlit App for US Congressional Districts!</h3>
+  <a href="http://2022midterms.streamlit.app/">
+    <img src="streamlit-mark-color.png" alt="Logo" width="80" height="80">
+  </a>
 
+  <p align="left">
+    Choose any District in the US from the dropdown box for interesting insights into the district. Compare top Republican and Democratic characteristics of the district compared to national averages. 
+    Then choose the turnout percentage slider to get a predicted margin on the 2022 race in that district compared to the actual result.
+    <br />
+    <a href="http://2022midterms.streamlit.app/"><strong>Know Your District! »</strong></a>
+  </p>
+</div>
 
 <h2 align="center">The New Demographic Battlefield</h2>
 <h3 align="center"> A Post-Redistricting Analysis of Partisan Lean and 2022 Midterm Voter Behavior in U.S. Congressional Districts</h3>
