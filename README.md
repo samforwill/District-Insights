@@ -1,13 +1,15 @@
 <!-- PROJECT LOGO -->
 <br />
-<div align="left">
+<div align="center">
         <a href="http://2022midterms.streamlit.app/">
     <img src="images/streamlit-mark-color.png" alt="Logo" width="80" height="80">
   </a>
-  <a href="http://2022midterms.streamlit.app/"><strong>Explore My Interactive Streamlit App for US Congressional Districts! »</strong></a>
+  <a href="http://2022midterms.streamlit.app/"><strong>Explore My Interactive Streamlit App for US Congressional Districts!</strong></a><a href="http://2022midterms.streamlit.app/">
+    <img src="images/streamlit-mark-color.png" alt="Logo" width="80" height="80">
+  </a>
   
 
-  <p align="left">
+  <p align="center">
 - Interesting insights into the district! - Top Dem & GOP Characteristics - Predict 2022 midterm margins!
   </p>
 </div>
