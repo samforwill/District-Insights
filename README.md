@@ -1,4 +1,15 @@
-<!-- PROJECT LOGO -->
+<h2 align="center">The New Demographic Battlefield</h2>
+<h3 align="center"> A Post-Redistricting Analysis of Partisan Lean and 2022 Midterm Voter Behavior in U.S. Congressional Districts</h3>
+
+<div align="center">
+  <a href="https://github.com/samforwill/District-Insights">
+    <img src="images/2022_Midterm_Results.png" alt="2022 midterm results map" style="width: 70%; max-width: 900px;">
+  </a>
+  
+  <h3 align="center">
+    Strategic Insights for Democratic Congressional Campaigns Using American Community Survey Profiles on Demographics, Economics, Housing, and Social Characteristics
+  </h3>
+  <!-- PROJECT LOGO -->
 <br />
 <div align="center">
         <a href="http://2022midterms.streamlit.app/">
@@ -13,33 +24,39 @@
 - Interesting insights into the district! - Top Dem & GOP Characteristics - Predict 2022 midterm margins!
   </p>
 </div>
-
-<h2 align="center">The New Demographic Battlefield</h2>
-<h3 align="center"> A Post-Redistricting Analysis of Partisan Lean and 2022 Midterm Voter Behavior in U.S. Congressional Districts</h3>
-
-<div align="center">
-  <a href="https://github.com/samforwill/District-Insights">
-    <img src="images/2022_Midterm_Results.png" alt="2022 midterm results map" style="width: 70%; max-width: 900px;">
-  </a>
   
-  <h3 align="center">
-    Strategic Insights for Democratic Congressional Campaigns Using American Community Survey Profiles on Demographics, Economics, Housing, and Social Characteristics
-  </h3>
-### Table Of Contents
-0. [The 118th Congress](#the-118th-congress)
-1. [Introduction] (#introduction)
-2. [Background Information] (#background-information)
-3. [Data Used](#data-used)
-   - 01_Data_Wrangling_ACS_Surveys.ipynb
-   
-4. [Exploratory Data Analysis](#exploratory-data-analysis)
-    - 02_Exploratory_Data_Analysis.ipynb
-    
-5. [Models, Metrics, and Meaning](#models-metrics-and-meaning)
-6. [Results](#results)
-7. [Recommendations](#recommendations)
-8. [Future Work](#future-work)
-9. [Connect](#connect)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#introduction">Introduction</a>
+    </li>
+    <li>
+      <a href="#background-information">Background Information</a>
+      <ul>
+        <li><a href="#ACS">American Community Survey</a></li>
+        <li><a href="#PVI">Cook Partisan Voter Index Scores</a></li>
+      </ul>
+    </li>
+    <li><a href="#data">Data Used</a></li>
+          <ul>
+        <li><a href="#wranglingnotebook">Data Wrangling Notebook</a></li>
+              </ul>
+    <li><a href="#eda">Exploratory Data Analysis</a></li>
+              <ul>
+        <li><a href="#edanotebook">EDA Notebook</a></li>
+              </ul>
+    <li><a href="#analysis">Models and Analysis</a></li>
+                  <ul>
+        <li><a href="#analysisnotebook">Regressors and Analysis Notebook</a></li>
+              </ul>
+    <li><a href="#results">Results</a></li>
+    <li><a href="#recommendations">Recommendations</a></li>
+    <li><a href="#future">Future Work</a></li>
+  </ol>
+</details>
+
 
 ## Introduction
 The purpose of this project is to analyze and understand, on a more granular level, the constituents of the newly settled congressional district landscape of the 2020’s. I wanted to consider more than just age, race, and education, so I incorporated 450 unique features for every district in the US and modeled these characteristics to predict the district’s Partisan Voter Index scores (a measure of its partisan lean) and then remodeled to predict 2022 midterm voter behavior in these districts. 
