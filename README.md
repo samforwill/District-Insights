@@ -8,7 +8,7 @@
   
 
   <p align="left">
-- interesting insights into the district! - predict 2022 midterm margins!
+- Interesting insights into the district! - Top Dem & GOP Characteristics - Predict 2022 midterm margins!
   </p>
 </div>
 
