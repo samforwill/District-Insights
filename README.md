@@ -24,7 +24,9 @@
 - Interesting insights into the district! - Top Dem & GOP Characteristics - Predict 2022 midterm margins!
   </p>
 </div>
-  
+
+
+<div align= "left">  
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
