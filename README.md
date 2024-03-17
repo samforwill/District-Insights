@@ -9,7 +9,9 @@
 
   <p align="left">
     Choose any District in the US from the dropdown box for interesting insights into the district. 
+    
     Compare top Republican and Democratic characteristics of the district compared to national averages. 
+    
     Choose turnout numbers to get predicted margin in a district's 2022 race
     <br />
     <a href="http://2022midterms.streamlit.app/"><strong>Get To Know Your District! »</strong></a>
