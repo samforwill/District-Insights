@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="left">
-  <h3 align="center">Explore My Interactive Streamlit App for US Congressional Districts!</h3>
+  <h3 align="left">Explore My Interactive Streamlit App for US Congressional Districts!</h3>
   <a href="http://2022midterms.streamlit.app/">
-    <img src="streamlit-mark-color.png" alt="Logo" width="80" height="80">
+    <img src="images/streamlit-mark-color.png" alt="Logo" width="80" height="80">
   </a>
 
   <p align="left">
