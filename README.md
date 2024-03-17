@@ -2,10 +2,10 @@
 <br />
 <div align="center">
         <a href="http://2022midterms.streamlit.app/">
-    <img src="images/streamlit-mark-color.png" alt="Logo" width="60" height="30">
+    <img src="images/streamlit-mark-color.png" alt="Logo" width="100" height="80">
   </a>
   <a href="http://2022midterms.streamlit.app/"><strong>Explore My Interactive Streamlit App for US Congressional Districts!</strong></a><a href="http://2022midterms.streamlit.app/">
-    <img src="images/streamlit-mark-color.png" alt="Logo" width="80" height="80">
+    <img src="images/streamlit-mark-color.png" alt="Logo" width="100" height="80">
   </a>
   
 
