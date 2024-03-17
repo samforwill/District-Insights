@@ -1,10 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="left">
-      <a href="http://2022midterms.streamlit.app/"><strong>Explore My Interactive Streamlit App for US Congressional Districts! »</strong></a>
-  <a href="http://2022midterms.streamlit.app/">
+        <a href="http://2022midterms.streamlit.app/">
     <img src="images/streamlit-mark-color.png" alt="Logo" width="80" height="80">
   </a>
+  <a href="http://2022midterms.streamlit.app/"><strong>Explore My Interactive Streamlit App for US Congressional Districts! »</strong></a>
+  
 
   <p align="left">
     Choose any District in the US from the dropdown box for interesting insights into the district. 
