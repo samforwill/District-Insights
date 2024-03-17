@@ -1,16 +1,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="left">
-  <h3 align="left">Explore My Interactive Streamlit App for US Congressional Districts!</h3>
+      <a href="http://2022midterms.streamlit.app/"><strong>Explore My Interactive Streamlit App for US Congressional Districts! »</strong></a>
   <a href="http://2022midterms.streamlit.app/">
     <img src="images/streamlit-mark-color.png" alt="Logo" width="80" height="80">
   </a>
 
   <p align="left">
-    Choose any District in the US from the dropdown box for interesting insights into the district. Compare top Republican and Democratic characteristics of the district compared to national averages. 
-    Then choose the turnout percentage slider to get a predicted margin on the 2022 race in that district compared to the actual result.
+    Choose any District in the US from the dropdown box for interesting insights into the district. 
+    Compare top Republican and Democratic characteristics of the district compared to national averages. 
+    Choose turnout numbers to get predicted margin in a district's 2022 race
     <br />
-    <a href="http://2022midterms.streamlit.app/"><strong>Know Your District! »</strong></a>
+    <a href="http://2022midterms.streamlit.app/"><strong>Get To Know Your District! »</strong></a>
   </p>
 </div>
 
