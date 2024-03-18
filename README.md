@@ -120,7 +120,7 @@ But, right off the bat, we see a huge imbalance and large concentration of distr
 
 Of course, my initial thought on seeing this is:
 
-> **"Who could possibly be responsible for creating this huge concentration of districts that are *just* out of competitive reach??? 🤔
+> **"Who could possibly be responsible for creating this huge concentration of districts that are *just* out of competitive reach??? 🤔**
 
 So, I set about to confirm my priors. <br />
 
