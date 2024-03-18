@@ -91,7 +91,7 @@ I am going to spend a lot of time talking about each district’s PVI-score, so 
 The Cook PVI measures how partisan a district or a state is compared to the nation as a whole. A Cook PVI score of D+2, for example, means that in the 2016 and 2020 presidential elections, that district performed an average of two points more Democratic than the nation did as a whole, while an R+4 means the district performed four points more Republican.  As of 2022, the calculation of PVI-scores are weighted more heavily to the most recent Presidential Election, instead of averaging the previous two cycles. <br />
 
 
-Because “R+3” and “D+2” are not actual numbers for data analysis, I converted PVI to sit on a scale where Republican PVI’s are negative and Democratic PVI’s are positive, becoming “-3”and “2,” respectively. <a href="https://www.cookpolitical.com/cook-pvi">More information on PVI can be found here!</a>
+Because “R+3” and “D+2” are not actual numbers for data analysis, I converted PVI to sit on a scale where Republican PVI’s are negative and Democratic PVI’s are positive, becoming “-3”and “2,” respectively. <a href="https://www.cookpolitical.com/cook-pvi">More information on PVI can be found here.</a>
 
 ## Data Used
 1. American Community Survey data for the 118th congressional districts can be accessed [here](https://www.census.gov/acs/www/data/congressional-and-state-legislative-districts/).
@@ -113,17 +113,25 @@ First, I wanted to get a sense of how the newly shaped districts were distribute
 
 Well, that certainly doesn’t look normal! (in the statistical distribution sense of “normal”, but also in the common sense department). So lets dive in! <br />
 
-The median district in the United States is around -1, which is a Republican +1 district, meaning half of the districts in the US are more Republican and half are more democratic than that point. Pretty close to 0, so I’m not mad at that.<br />
+The median district in the United States is around -1, which is a Republican +1 district, meaning half of the districts in the US are more Republican and half are more Democratic than that point. Pretty close to 0, so I’m not mad at that.<br />
 
 
-But, right off the bat, we see a huge imbalance and large concentration of districts between the R+10 to R+20 range, -10 to -20 in my conversion. (For context,  Cook considers everything beyond the 10-point range to be non-competitive “Solid” districts.)
+But, right off the bat, we see a huge imbalance and large concentration of districts between the R+10 to R+20 range,(-10 to -20 in my conversion). For context,  Cook considers everything beyond the 10-point range to be non-competitive “Solid” districts.
 
 Of course, my initial thought on seeing this is:
 
-> **"Who could possibly be responsible for creating this huge concentration of districts that are *just* out of reach of being competitive?  
-> And why is the answer 100% definitely going to be Republican gerrymandering 🤔???"**
+> **"Who could possibly be responsible for creating this huge concentration of districts that are *just* out of competitive reach??? 🤔
 
-So, I set about to confirm my priors. The Brennan Center for Justice  broke down who controlled redistricting in every state [here] (https://www.brennancenter.org/our-work/research-reports/who-controlled-redistricting-every-state) into the following categories: GOP-Controlled Redistricting, Democratic-Controlled Redistricting, Split-Control, Court-Ordered Maps, Independent Commissions (non-partisan), Political Commissions (composed of partisan appointees and politicians from both parties), and At-Large Districts.
+So, I set about to confirm my priors. <br />
+
+The Brennan Center for Justice  broke down who controlled redistricting in every state [(here)](https://www.brennancenter.org/our-work/research-reports/who-controlled-redistricting-every-state) into the following categories: 
+* GOP-Controlled Redistricting 
+* Democratic-Controlled Redistricting
+* Split-Control 
+* Court-Ordered Maps
+* Independent Commissions (non-partisan)
+* Political Commissions (composed of partisan appointees and politicians from both parties)
+* and At-Large District
 
 Now, when we look at the same distribution graph color-coded by type of redistricting, I have a feeling we should see something pretty notable in that -10 to -20 range.
 
