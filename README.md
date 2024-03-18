@@ -64,7 +64,7 @@
         <li><a href="#top-2022-midterm-democratic-features">Top 2022 Midterm Democratic Features</a></li>
         <li><a href="#top-2022-midterm-republican-features">Top 2022 Midterm Republican Features</a></li>
                       </ul>
-    <li><a href="#recommendations">Recommendations</a></li>
+    <!--li><a href="#recommendations">Recommendations</a></li-->
     <li><a href="#future">Future Work</a></li>
   </ol>
 <!--/details-->
@@ -213,13 +213,20 @@ The ElasticNet model seems to be significantly overfitting on its training data,
 **Analysis**: The R²-Scores on the test set for predicting midterm voter behavior were much worse than for predicting on PVI, and further, the RMSE for midterm margin came in at 10.8, meaning that with this model we could only predict the marginal outcome of the race within ±11 points! <br />
 Now, surely there are many reasons for these models' poor predictive performance in the midterms, but I think there are a few main reasons. <br />
 First, participation in midterm elections is much lower than in Presidential years, giving way to large fluctuations in results across the U.S. in expected outcomes. <br /> 
-Second, acknowledging that there are fewer split-ticket voters than there used to be, it still exists; PVI is a reflection of how a district voted for the president, *not necessarily* how they voted for their congressional representative. .<br />
+Second, acknowledging that there are fewer split-ticket voters than there used to be, it still exists; PVI is a reflection of how a district voted for the president, *not necessarily* how they voted for their congressional representative. <br />
 Finally, all politics is local! Candidate quality matters, especially in midterm cycles. Check out the local situation in every district in the U.S. on [my streamlit app](2022midterms.streamlit.app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Results
+It turned out that only modeling on the demographic features of a congressional district proved remarkably accurate in predicting its partisan lean, PVI. Without considering ground game tactics like GOTV efforts, percent eligible voters registered, etc. it turns out that demographics alone can account within ±4.365 points for previous voting behavior in the past 2 presidential cycles (which PVI is a measure of). <br />
+However, demographics were far less predictive of midterm voter behavior only coming withing ±10.8 points of predicted margins in the 2022 congressional matchups. <br />
+But despite the mediocre performance of my model for predicting midterm voter behavior, my overall goal was to find insights into the most important demographic features that were influential in 2022. On that metric, the features my model identified as most influential should speak to and help identify overall midterm trends. 
 
-
+Let's take a look at some of these features:
 ### Top Democratic Features for Predicting PVI
 **Democratic Features** (Characteristics Most Predictive of Democratic PVI's)
 ![Dem Features PVI](images/Dem_Features_PVI.png)
 
 ### Top Republican Features for Predicting PVI
+**Republican Features** (Characteristics Most Predictive of Republican PVI's)
+![Rep Features PVI(image/Rep_Features_PVI.png]
