@@ -236,11 +236,9 @@ But despite the mediocre performance of my model for predicting midterm voter be
 
 Let's take a look at some of these features:
 ### Top Democratic Features for Predicting PVI
-**Characteristics Most Predictive of Democratic PVI's**
 ![Dem Features PVI](images/Dem_Features_PVI.png)
 
 ### Top Republican Features for Predicting PVI
-**Characteristics Most Predictive of Republican PVI's**
 ![Rep Features PVI](images/Rep_Features_PVI.png)
 
 ### Top 2022 Midterm Democratic Features
