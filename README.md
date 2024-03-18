@@ -66,7 +66,7 @@
         <li><a href="#top-2022-midterm-republican-features">Top 2022 Midterm Republican Features</a></li>
                       </ul>
     <li><a href="#recommendations-and-conclusions">Recommendations and Conclusions</a></li>
-    <li><a href="#future">Future Work</a></li>
+    <li><a href="#future-work">Future Work</a></li>
   </ol>
 <!--/details-->
 
