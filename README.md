@@ -72,7 +72,7 @@ I modeled these characteristics to predict the district’s Partisan Voter Index
 Hopefully, my analysis and insights can help inform democratic strategy to help win back the US house and keep it for the decade ahead. 
 
 ## Background Information
-### American Community Survey -- 
+### American Community Survey
 On January 26, 2023, the Census Bureau released the 2021 ACS data tables within the geographic boundaries of the 118th Congress. This release is critical for determining Democratic electoral strategies in the decade ahead; following the 2020 census, redistricting reshaped virtually every U.S. district, making these data profiles our first deep dive into the redefined district landscapes. While future legal decisions may alter some district boundaries, the majority will likely remain stable over the next decade. <br />
 
 
@@ -84,7 +84,8 @@ The American Community Survey is a sample of approximately 3.5 million addresses
 
 
 These profiles collectively offer a comprehensive overview of each district's characteristics, crucial for understanding the evolving electoral landscape in the wake of recent redistricting.
-### Cook Partisan Voter Index Scores --
+
+### Cook Partisan Voter Index Scores
 I am going to spend a lot of time talking about each district’s PVI-score, so it’s helpful to understand what it actually represents and how it was determined. <br />
 
 
@@ -106,7 +107,7 @@ I know you’re not supposed to talk about the data wrangling process, but it’
 Follow along step by step with how I wrassled the data into submission in my [data wrangling notebook](https://github.com/samforwill/District-Insights/blob/main/01_Data_Wrangling_ACS_Surveys.ipynb).
 
 ## Exploratory Data Analysis
-### Distribution--
+### Distribution
 
 First, I wanted to get a sense of how the newly shaped districts were distributed according to their partisan-ness. Distributing every district in the US based on PVI-score shows this interesting shape:
 
