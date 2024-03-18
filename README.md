@@ -70,6 +70,7 @@ I modeled these characteristics to predict the district’s Partisan Voter Index
 
 
 Hopefully, my analysis and insights can help inform democratic strategy to help win back the US house and keep it for the decade ahead. 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Background Information
 ### American Community Survey
@@ -146,4 +147,9 @@ Now, when we look at the same distribution graph color-coded by type of redistri
 
 ![Facet Grid](images/FacetGrid_PVI.png)
 
-
+### Observations:
+**Courts & Commissions**: As far as distribution goes, courts and commissions have the most natural spread, which makes sense given their priority is to create fair districts. The median of the commissions is between 6-8, but this makes sense given that states with commissions tend to be more democratic overall (CA, CO, MI, AZ, HI, ID, MO, NJ, WA)
+**GOP-Controlled Redistricting**: Republicans had the opportunity to draw the district lines in an astonishing 41% of all seats in Congress (177 total). As awful as that is for democracy and discourse overall, it makes it pretty easy to visually see the manipulation of district-drawing to create electoral advantages. 
+- The median district is R+12, so, solidly safe districts for Republicans, but even more interesting is the immediate dropoff of districts exceeding R+20, indicating "cracking", where, once a Republican district is safe enough, they can crack into more democratic areas like urban centers.
+- And then notice the second hump of GOP-drawn democratic districts in the D+20 region, indicating "packing", where democratic voters are packed into one district to dilute their voting power
+**Democratic-Controlled Redistricting**: The median district is D+7, within the competitive zone. Perhaps Democrats would see more GOP-type drawing behavior if we had more opportunitis to hold the pen, but at 49 seats total, our ability to push back on the GOP's advantage is severely limited.
