@@ -78,7 +78,7 @@ The purpose of this project is to analyze and understand, on a more granular lev
 I modeled these characteristics to predict the district’s Partisan Voter Index scores (a measure of its partisan lean) and then remodeled to predict 2022 midterm voter behavior in these districts. <br />
 
 
-Hopefully, my analysis and insights can help inform democratic strategy to help win back the US house and keep it for the decade ahead. 
+Hopefully, my analysis and insights can help inform Democratic strategy to help win back the US house and keep it for the decade ahead. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Background Information
@@ -112,7 +112,7 @@ Because “R+3” and “D+2” are not actual numbers for data analysis, I conv
 4. Information about who controlled the redistricting process in each state was compiled by the [Brennan Center for Justice](https://www.brennancenter.org/our-work/research-reports/who-controlled-redistricting-every-state).
 
 #### QUICK NOTE:
-I know you’re not supposed to talk about the data wrangling process, but it’s worth noting that a) it was a monster of a task, but more importantly b) when the 2022 ACS data is released and the state legislative districts data is released, my wrangling process will work with almost no changes to the underlying code. Anything that is changed year to year between ACS surveys is released [here,](https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes/2022.html) so adjustments can be pinpointed easily.
+I don't want to bore you with the data wrangling process, but it’s worth noting that a) it was a monster of a task, but more importantly b) when the 2022 ACS data is released and the state legislative districts data is released, my wrangling process will work with almost no changes to the underlying code. Anything that is changed year to year between ACS surveys is released [here,](https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes/2022.html) so adjustments can be pinpointed easily.
 
 #### Data Wrangling Notebook
 Follow along step by step with how I wrassled the data into submission in my [data wrangling notebook](https://github.com/samforwill/District-Insights/blob/main/01_Data_Wrangling_ACS_Surveys.ipynb).
@@ -168,6 +168,7 @@ Now, when we look at the same distribution graph color-coded by type of redistri
 
 ### Heatmapping
 Because I only eliminated in the data wrangling/cleaning process those features that were *exactly* duplicated within and between data profiles, I wanted to get a sense of the extent of multicollinearity of my features and chose to do that through heatmapping.<br />
+
 Since my data also has high dimensionality (450 unique features), I will only share here one of my heatmaps corresponding to the demographic profile highlighting highly correlated features. 
 ![Demo Heatmap](images/demo_heatmap_hc.png)
 Here it's easy to see many of the features are highly correlated, and many of those relationships make sense intuitively. So let's look at only the top 50 highly correlated pairs of features in the graph below (open in new window, Census Bureau characteristic titles can be very long):
@@ -180,14 +181,15 @@ To take a more detailed look at the EDA process, especially a deeper look into a
 
 
 **EDA Conclusions**:
-1) The distribution of districts is skewed by Republican gerrymandering
-2) My data has high dimensionality (450 features) high multicollinearity (closely related features) and low observations (only 435 districts in the U.S)
+1) The distribution of districts is skewed by Republican gerrymandering.
+2) My data has high dimensionality (450 features) high multicollinearity (closely related features) and low observations (only 435 districts in the U.S).
 3) To handle the high dimensionality and multicolinearity of my data, I am choosing to focus on regressors that are adept at handling these challenges. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Models and Analysis
 ### Regressors <br />
 Given the high dimensionality and multicolinearity of my data, I chose to only focus on regressors that could handle these challenges, such as L1 and L2 regularization regressors, and Ensemble Learning models. <br />
+
 Although I had some decent accuracy with Neural Networks and Principal Component Regression, eventually I sacked those methods because it's not possible to extract the features and associated weights for analysis. 
 
 Models Assessed:
@@ -221,7 +223,8 @@ Finally, all politics is local! Candidate quality matters, especially in midterm
 ## Results
 **PVI**: It turned out that only modeling on the demographic features of a congressional district proved remarkably accurate in predicting its partisan lean, PVI. Without considering ground game tactics like GOTV efforts, percent eligible voters registered, etc. it turns out that demographics alone can account within ±4.365 points for previous voting behavior in the past 2 presidential cycles (which PVI is a measure of). <br />
 
-**2022 Results**: However, demographics were far less predictive of midterm voter behavior only coming withing ±10.8 points of predicted margins in the 2022 congressional matchups. <br />
+**2022 Results**: However, demographics were far less predictive of midterm voter behavior only coming within ±10.8 points of predicted margins in the 2022 congressional matchups. <br />
+
 But despite the mediocre performance of my model for predicting midterm voter behavior, my overall goal was to find insights into the most important demographic features that were influential in 2022. On that metric, the features my model identified as most influential should speak to and help identify overall midterm trends. 
 
 Let's take a look at some of these features:
