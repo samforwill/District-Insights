@@ -222,7 +222,7 @@ The ElasticNet model seems to be significantly overfitting on its training data,
 
 The R²-Scores on the test set for predicting midterm voter behavior were much worse than for predicting on PVI, and further, the RMSE for midterm margin came in at 10.8, meaning that with this model we could only predict the marginal outcome of the race within ±11 points! <br />
 
-Now, surely there are many reasons for these models' poor predictive performance in the midterms, but I think there are a few main reasons: <br />
+Surely there are many reasons for these models' poor predictive performance in the midterms, but I think there are a few main reasons: <br />
 
 First, participation in midterm elections is much lower than in Presidential years, giving way to large fluctuations in results across the U.S. in expected outcomes. <br /> 
 
