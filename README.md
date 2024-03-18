@@ -72,13 +72,13 @@
 
 
 ## Introduction
-The purpose of this project is to analyze and understand, on a more granular level, the constituents of the newly settled congressional district landscape of the 2020’s. I wanted to consider more than just age, race, and education, so I incorporated 450 unique features for every district in the US (from employment industry, to daily commute time, to heating fuel source, and many many others). <br />
+The purpose of this project is to analyze and understand, on a more granular level, the constituents of the newly settled congressional district landscape of the 2020’s. I wanted to consider more than just age, race, and education, so I incorporated 450 unique features for every district in the US (from employment industry, to daily commute time, to heating fuel source, and many, many others). <br />
 
 
-I modeled these characteristics to predict the district’s Partisan Voter Index scores (a measure of its partisan lean) and then remodeled to predict 2022 midterm voter behavior in these districts. <br />
+I modeled these characteristics to predict a district’s Partisan Voter Index scores (a measure of its partisan lean) and then remodeled to predict 2022 midterm voter behavior. <br />
 
 
-Hopefully, my analysis and insights can help inform Democratic strategy to help win back the US house and keep it for the decade ahead. 
+I hope that my analysis and insights can help inform Democratic strategy to help win back the US house and keep it for the decade ahead.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Background Information
@@ -125,7 +125,7 @@ First, I wanted to get a sense of how the newly shaped districts were distribute
 
 ![Distribution of PVI Scores](images/Distribution_of_PVI_Scores.png)
 
-Well, that certainly doesn’t look normal! (in the statistical distribution sense of “normal”, but also in the common sense department). So lets dive in! <br />
+Well, that certainly doesn’t look normal! (in the statistical distribution sense of “normal”, but also in the common sense department). So let's dive in! <br />
 
 The median district in the United States is around -1, which is a Republican +1 district, meaning half of the districts in the US are more Republican and half are more Democratic than that point. Pretty close to 0, so I’m not mad at that.<br />
 
@@ -157,7 +157,7 @@ Now, when we look at the same distribution graph color-coded by type of redistri
 ![Facet Grid](images/FacetGrid_PVI.png)
 
 ### Observations:
-**Courts & Commissions**: As far as distribution goes, courts and commissions have the most natural spread, which makes sense given their priority to create fair districts. The median of the commissions is between 6-8, but this makes sense given that states with commissions tend to be more democratic overall (CA, CO, MI, AZ, HI, ID, MO, NJ, WA)<br />
+**Courts & Commissions**: As far as distribution goes, courts and commissions have the most natural spread, which makes sense given their priority to create fair districts. The median of the commissions is between 6-8, but this also makes sense given that states with commissions tend to be more democratic overall (CA, CO, MI, AZ, HI, ID, MO, NJ, WA)<br />
 
 **GOP-Controlled Redistricting**: Republicans had the opportunity to draw the district lines in an astonishing 41% of all seats in Congress (177 total). As awful as that is for democracy and discourse overall, it makes it pretty easy to visually see the manipulation of district-drawing to create electoral advantages. 
 - The median district is R+12, so, solidly safe districts for Republicans, but even more interesting is the immediate dropoff of districts exceeding R+20, indicating **"cracking"**, where, once a Republican district is safe enough, they can crack into more democratic areas like urban centers.
@@ -182,8 +182,8 @@ To take a more detailed look at the EDA process, especially a deeper look into a
 
 **EDA Conclusions**:
 1) The distribution of districts is skewed by Republican gerrymandering.
-2) My data has high dimensionality (450 features) high multicollinearity (closely related features) and low observations (only 435 districts in the U.S).
-3) To handle the high dimensionality and multicolinearity of my data, I am choosing to focus on regressors that are adept at handling these challenges. 
+2) My data has high dimensionality (450 features), high multicollinearity (closely related features), and low observations (only 435 districts in the U.S).
+3) To handle the high dimensionality and multicollinearity of my data, I am choosing to focus on regressors that are adept at handling these challenges. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Models and Analysis
@@ -228,13 +228,13 @@ First, participation in midterm elections is much lower than in Presidential yea
 
 Second, acknowledging that there are fewer split-ticket voters than there used to be, it still exists; PVI is a reflection of how a district voted for the president, *not necessarily* how they voted for their congressional representative. <br />
 
-Finally, all politics is local! Candidate quality matters, especially in midterm cycles. Check out the local situation in every district in the U.S. on [my streamlit app](https://2022midterms.streamlit.app)
+Finally, all politics is local! Candidate quality matters, especially in midterm cycles. Check out the local situation in every district in the U.S. on [my streamlit app](https://2022midterms.streamlit.app).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Results
 **PVI**: It turned out that only modeling on the demographic features of a congressional district proved remarkably accurate in predicting its partisan lean, PVI. Without considering ground game tactics like GOTV efforts, percent eligible voters registered, etc. it turns out that demographics alone can account within ±4.365 points for previous voting behavior in the past 2 presidential cycles (which PVI is a measure of). <br />
 
-**2022 Results**: However, demographics were far less predictive of midterm voter behavior only coming within ±10.8 points of predicted margins in the 2022 congressional matchups. <br />
+**2022 Results**: However, demographics were far less predictive of midterm voter behavior, only coming within ±10.8 points of predicted margins in the 2022 congressional matchups. <br />
 
 But despite the mediocre performance of my model for predicting midterm voter behavior, my overall goal was to find insights into the most important demographic features that were influential in 2022. On that metric, the features my model identified as most influential should speak to and help identify overall midterm trends. <br />
 
@@ -282,11 +282,11 @@ Observing the changes in feature-importance between PVI (previous two presidenti
 
 ## Recommendations and Conclusions
 
-#### There are some extremely significant results that could impact Democratic strategy going into 2024. <br />
+#### There are some extremely significant results that could impact Democratic strategy going into 2024: <br />
 
 1. "Female Householder, No Spouse Present" shot up to the 2nd-most significant factor in predicting midterm Democratic Voting Behavior. I believe this highlights the impact of the *Dobbs* decision in activating turnout amongst women. <br />
 2. "Race - One Race - Black or African American" dropped significantly from the #1 slot in predicting PVI, to only the 9th-most significant factor in predicting 2022 midterm voter behavior (!!!). This could be due to several reasons, like the instability in predicting 2022 Congressional results, lower turnout in midterm years, or higher activation of other voters, e.g. Female NSP in the wake of *Dobbs*. However, it is worth putting extra attention into this heading into the next cycle. <br />
-3. "Married-Couple Households" were the 2nd most important feature in predicting midterm Republican-voting behavior. Considering the Alabama Supreme Court ruling involving In Vitro Fertilization, this presents a significant opportunity to pry away some of these voters. 42% of U.S. adults have had or know someone who has undergone fertility treatment [Pew](https://www.pewresearch.org/short-reads/2023/09/14/a-growing-share-of-americans-say-theyve-had-fertility-treatments-or-know-someone-who-has/), and although Alabama has tried to walk back the damage in the IVF-ruling, other states continue to advance fetal personhood bills across the country. <br />
+3. "Married-Couple Households" were the 2nd most important feature in predicting midterm Republican-voting behavior. Considering the Alabama Supreme Court ruling involving In Vitro Fertilization, this presents a significant opportunity to pry away some of these voters. 42% of U.S. adults have had or know someone who has undergone fertility treatment [(Pew)](https://www.pewresearch.org/short-reads/2023/09/14/a-growing-share-of-americans-say-theyve-had-fertility-treatments-or-know-someone-who-has/), and although Alabama has tried to walk back the damage in the IVF-ruling, other states continue to advance fetal personhood bills across the country. <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Future Work
@@ -294,11 +294,11 @@ Observing the changes in feature-importance between PVI (previous two presidenti
 
  This can provide important strategic insight to congressional candidates when considering characteristics of the district that are increasing or decreasing. 
 
-* **State Legislative Geographies**: The ACS demographic characteristics for state legislative districts have already been released. This could potentially drive huge increases in performance to my modeling given the low observations of my previous dataset. While there are only 435 U.S. Congressional Districts, there are thousands of state legislative districts. <br />
+* **State Legislative Geographies**: The ACS demographic characteristics for state legislative districts have already been released. This could potentially drive huge increases in performance to my modeling given the low number of observations in my current dataset. While there are only 435 U.S. Congressional Districts, there are thousands of state legislative districts. <br />
 
 The only challenge here will be the tedious process of tracking down every election result in decentralized State election result reporting systems.
 
 * **Expand Feature Engineering to Enhance Predictive Performance**: While I only focused on purely demographic features when modeling in this project, there are tons of ways to feature engineer information into the dataset that we already know. Such things as: Regionality, Redistricting Control, Likely Voters, Previous Turnout Metrics, and Using PVI as a Feature for the Midterm Predictions.<br />
 
-(I actually already did that last one, and PVI as a feature greatly enhanced the predictive ability of the models for the midterms. However, it overpowered the demographic features by a lot and I wanted to focus my analysis solely on "demographics as destiny")
+(I actually already did that last one, and PVI as a feature greatly enhanced the predictive ability of the models for the midterms. However, it overpowered the demographic features by a lot and I wanted to focus my analysis solely on "demographics as destiny").
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
