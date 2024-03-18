@@ -13,7 +13,7 @@
  Top Dem & GOP Characteristics - Predict 2022 midterm margins
   </p>
 </div>
-
+<h2 align="center">           </h2>
 <h2 align="center">The New Demographic Battlefield</h2>
 <h3 align="center"> A Post-Redistricting Analysis of Partisan Lean and 2022 Midterm Voter Behavior in U.S. Congressional Districts</h3>
 
