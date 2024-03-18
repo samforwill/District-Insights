@@ -231,7 +231,7 @@ Let's take a look at some of these features:
 
 ### Top Republican Features for Predicting PVI
 **Republican Features** (Characteristics Most Predictive of Republican PVI's)
-![Rep Features PVI](images/Rep_Features_PVI.png]
+![Rep Features PVI](images/Rep_Features_PVI.png)
 
 ### Top 2022 Midterm Democratic Features
 **Democratic Features** (Most Influential Democratic Features for Predicting 2022 Midterm Voting Behavior)
