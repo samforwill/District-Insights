@@ -37,10 +37,10 @@
       <a href="#introduction">Introduction</a>
     </li>
     <li>
-      <a href="#background-information">Background Information</a>
+      <a href="#Background Information">Background Information</a>
       <ul>
-        <li><a href="#ACS">American Community Survey</a></li>
-        <li><a href="#PVI">Cook Partisan Voter Index Scores</a></li>
+        <li><a href="#American Community Survey">American Community Survey</a></li>
+        <li><a href="#Cook Partisan Voter Index Scores">Cook Partisan Voter Index Scores</a></li>
       </ul>
     </li>
     <li><a href="#data">Data Used</a></li>
