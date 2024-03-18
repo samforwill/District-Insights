@@ -245,6 +245,26 @@ Let's take a look at some of these features:
 ### Top Republican Features for Predicting PVI
 ![Rep Features PVI](images/Rep_Features_PVI.png)
 
+### Notes on PVI Features
+
+**Things we already knew about Democrats:**
+The #1 indicator of previous Democratic presidential voting behavior was "Race - One Race - Black or African American"<br />
+
+Other Features We Expected: "Industry: Professional, Scientific, and Management", "Female Householder", "Educational Attainment: Graduate or Professional Degree"<br />
+
+Surprising Features: "Ancestry: Swiss" - who knew 🤷? & "House Heating Fuel: Wood"<br />
+
+Though these features may seem surprising at first glance, what it likely reflects is a very Democratic district with an outsized portion of the population exhibiting that characteristic (Looking at you, Vermont, with all that wood-burning liberalism)<br />
+
+**Things we already knew about Republicans:**
+The #1 indicator of previous Republican presidential voting behavior was "Race - One Race - White"<br />
+
+Other Features We Expected: "Industry: Agriculture, Forestry, Fishing, Hunting, and Mining", "Commuting to Work - Car Truck or Van - Drove Alone" (forget carpooling, libs!), "Educational Attainment: High School Graduate"<br />
+
+I honestly don't find too much surprising about about this feature-set, but I do find it a little funny that one of the big indicators of Republican voting behavior is "Race - Two or More Races - White and American Indian". Anecdotally, I grew up in an extremely Republican and "country" Southern household and my dad always said we were part Cherokee somewhere down the line... According to 23&Me, this was in no way true. <br />
+
+
+
 ### Top 2022 Midterm Democratic Features
 **Most Influential Democratic Features for Predicting 2022 Midterm Voting Behavior**
 ![Dem Features 22](images/Dem_Features_22.png)
