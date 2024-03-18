@@ -120,18 +120,16 @@ But, right off the bat, we see a huge imbalance and large concentration of distr
 
 Of course, my initial thought on seeing this is:
 
-> **"Who could possibly be responsible for creating this huge concentration of districts that are *just* out of competitive reach??? 🤔**
+> **"Who could possibly be responsible for creating this huge concentration of districts that are *just* out of competitive reach? 🤔 And why is the answer almost certainly Republican state legislatures???**
 
-So, I set about to confirm my priors. <br />
-
-The Brennan Center for Justice  broke down who controlled redistricting in every state [(here)](https://www.brennancenter.org/our-work/research-reports/who-controlled-redistricting-every-state) into the following categories: 
-* GOP-Controlled Redistricting 
-* Democratic-Controlled Redistricting
-* Split-Control 
-* Court-Ordered Maps
-* Independent Commissions (non-partisan)
-* Political Commissions (composed of partisan appointees and politicians from both parties)
-* and At-Large District
+So, I set about to confirm my priors. The Brennan Center for Justice [broke down](https://www.brennancenter.org/our-work/research-reports/who-controlled-redistricting-every-state)redistricting in every state into the following categories: 
+* GOP-Controlled Redistricting (177 seats)
+* Democratic-Controlled Redistricting (49 seats)
+* Split-Control (2 seats)
+* Court-Ordered Maps (91 seats)
+* Independent Commissions [non-partisan] (82 seats)
+* Political Commissions [partisan appointees from both parties](82 seats)
+* and At-Large District (6 seats/states)
 
 Now, when we look at the same distribution graph color-coded by type of redistricting, I have a feeling we should see something pretty notable in that -10 to -20 range.
 
