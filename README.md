@@ -138,3 +138,8 @@ Now, when we look at the same distribution graph color-coded by type of redistri
   <img src="images/surprise.gif" alt="surprise" />
 </p>
 
+Haha, well, maybe that's not as clear to others as I see it, so let's break it down into its component parts!
+
+![Facet Grid](images/FacetGrid_PVI.png)
+
+
