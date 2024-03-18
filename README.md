@@ -65,7 +65,7 @@
         <li><a href="#top-2022-midterm-democratic-features">Top 2022 Midterm Democratic Features</a></li>
         <li><a href="#top-2022-midterm-republican-features">Top 2022 Midterm Republican Features</a></li>
                       </ul>
-    <!--li><a href="#recommendations">Recommendations</a></li-->
+    <li><a href="#recommendations-and-conclusions">Recommendations and Conclusions</a></li>
     <li><a href="#future">Future Work</a></li>
   </ol>
 <!--/details-->
@@ -272,3 +272,18 @@ I honestly don't find too much surprising about about this feature-set, but I do
 ### Top 2022 Midterm Republican Features
 **Most Influential Republican Features for Predicting 2022 Midterm Voting Behavior**
 ![Rep Features 22](images/Rep_Features_22.png)
+
+### Notes on 2022 Midterm Features <br />
+
+By the very nature of how Lasso Regression works, L1-regularization combats overfitting by shrinking the parameters towards 0, eliminating altogether most features, especially in a high-dimensional training set like mine. So the results we see for the midterm characterization features are only the most significant features to the model. <br />
+
+Observing the changes in feature-importance between PVI (previous two presidential cycles) and 2022 midterm behavior, some significant results can be gleaned, which I will go over in the next section.
+
+## Recommendations and Conclusions
+
+#### There are some extremely significant results that could impact Democratic strategy going into 2024. <br />
+
+1. "Female Householder, No Spouse Present" shot up to the 2nd-most significant factor in predicting midterm Democratic Voting Behavior. I believe this highlights the impact of the *Dobbs* decision in activating turnout amongst women. <br />
+2. "Race - One Race - Black or African American" dropped significantly from the #1 slot in predicting PVI, to only the 9th-most significant factor in predicting 2022 midterm voter behavior (!!!). This could be due to several reasons, like the instability in predicting 2022 Congressional results, lower turnout in midterm years, or higher activation of other voters, e.g. Female NSP in the wake of *Dobbs*. However, it is worth putting extra attention into this heading into the next cycle. <br />
+3. "Married-Couple Households" were the 2nd most important feature in predicting midterm Republican-voting behavior. Considering the Alabama Supreme Court ruling involving In Vitro Fertilization, this presents a significant opportunity to pry away some of these voters. 42% of U.S. adults have had or know someone who has undergone fertility treatment [Pew](https://www.pewresearch.org/short-reads/2023/09/14/a-growing-share-of-americans-say-theyve-had-fertility-treatments-or-know-someone-who-has/), and although Alabama has tried to walk back the damage in the IVF-ruling, other states continue to advance fetal personhood bills across the country. <br />
+
