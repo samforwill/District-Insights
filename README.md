@@ -193,12 +193,12 @@ Models Assessed:
 1. **Modeling on PVI**: <br />
 After several rounds of parameter tuning on all of the above models, I sorted on highest performance R²-Score on the test set. In all instances, the top 5 performing models were all Ridge Regression, signaling its efficacy in managing multicollinearity within the high dimensional demographic feature set.<br />
 ![PVI Models](images/PVI_models.png)
-Specifically, Ridge with MinMax Scaling and L2-regularization alpha of 1. <br />
+Specifically, Ridge with MinMax Scaling and L2-regularization alpha of 1 performed best. <br />
 The leading model also has the lowest RMSE at 4.365, meaning our model can predict the PVI of a district within ±4.365 points. That's pretty great! <br />
 The collective performance of these models underscores Ridge Regression's suitability for demographic-based PVI score prediction, with significant implications for targeted campaign strategies.
 
 2. **Modeling on 2022 Midterm Margins**: <br />
 Using the same process and models as in the PVI modeling, after several iterations of parameter tuning, my highest performing models were:<br />
-![22 Models](images/22_models.png) <br />
+![22 Models](images/22_Models.png) <br />
 Although ElasticNet with MinMax Scaler had the highest R²-Score on the test set, I chose to use the Lasso with MinMax scaler alpha 0.1 as my best model based on the other metrics. <br />
 The ElasticNet model seems to be significantly overfitting on its training data, while the Lasso model shows more consistency between Mean CV Score, R2 Test Score, and R-squared Training data. Also, the difference in my most important metric (RMSE) is negligible
