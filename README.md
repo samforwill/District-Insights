@@ -278,6 +278,7 @@ I honestly don't find too much surprising about about this feature-set, but I do
 By the very nature of how Lasso Regression works, L1-regularization combats overfitting by shrinking the parameters towards 0, eliminating altogether most features, especially in a high-dimensional training set like mine. So the results we see for the midterm characterization features are only the most significant features to the model. <br />
 
 Observing the changes in feature-importance between PVI (previous two presidential cycles) and 2022 midterm behavior, some significant results can be gleaned, which I will go over in the next section.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Recommendations and Conclusions
 
@@ -286,7 +287,7 @@ Observing the changes in feature-importance between PVI (previous two presidenti
 1. "Female Householder, No Spouse Present" shot up to the 2nd-most significant factor in predicting midterm Democratic Voting Behavior. I believe this highlights the impact of the *Dobbs* decision in activating turnout amongst women. <br />
 2. "Race - One Race - Black or African American" dropped significantly from the #1 slot in predicting PVI, to only the 9th-most significant factor in predicting 2022 midterm voter behavior (!!!). This could be due to several reasons, like the instability in predicting 2022 Congressional results, lower turnout in midterm years, or higher activation of other voters, e.g. Female NSP in the wake of *Dobbs*. However, it is worth putting extra attention into this heading into the next cycle. <br />
 3. "Married-Couple Households" were the 2nd most important feature in predicting midterm Republican-voting behavior. Considering the Alabama Supreme Court ruling involving In Vitro Fertilization, this presents a significant opportunity to pry away some of these voters. 42% of U.S. adults have had or know someone who has undergone fertility treatment [Pew](https://www.pewresearch.org/short-reads/2023/09/14/a-growing-share-of-americans-say-theyve-had-fertility-treatments-or-know-someone-who-has/), and although Alabama has tried to walk back the damage in the IVF-ruling, other states continue to advance fetal personhood bills across the country. <br />
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Future Work
 * **2022 ACS Results**: When the Census Bureau releases their 2022 ACS Results, I will be able to wrangle the data again to see any changes in feature weights, but also get a glimpse into how districts are changing year-over-year.<br />
@@ -300,3 +301,4 @@ The only challenge here will be the tedious process of tracking down every elect
 * **Expand Feature Engineering to Enhance Predictive Performance**: While I only focused on purely demographic features when modeling in this project, there are tons of ways to feature engineer information into the dataset that we already know. Such things as: Regionality, Redistricting Control, Likely Voters, Previous Turnout Metrics, and Using PVI as a Feature for the Midterm Predictions.<br />
 
 (I actually already did that last one, and PVI as a feature greatly enhanced the predictive ability of the models for the midterms. However, it overpowered the demographic features by a lot and I wanted to focus my analysis solely on "demographics as destiny")
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
