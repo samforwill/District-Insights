@@ -93,6 +93,7 @@ The Cook PVI measures how partisan a district or a state is compared to the nati
 
 
 Because “R+3” and “D+2” are not actual numbers for data analysis, I converted PVI to sit on a scale where Republican PVI’s are negative and Democratic PVI’s are positive, becoming “-3”and “2,” respectively. <a href="https://www.cookpolitical.com/cook-pvi">More information on PVI can be found here.</a>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Data Used
 1. American Community Survey data for the 118th congressional districts can be accessed [here](https://www.census.gov/acs/www/data/congressional-and-state-legislative-districts/).
@@ -105,6 +106,7 @@ I know you’re not supposed to talk about the data wrangling process, but it’
 
 #### Data Wrangling Notebook
 Follow along step by step with how I wrassled the data into submission in my [data wrangling notebook](https://github.com/samforwill/District-Insights/blob/main/01_Data_Wrangling_ACS_Surveys.ipynb).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Exploratory Data Analysis
 ### Distribution
