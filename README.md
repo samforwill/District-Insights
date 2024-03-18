@@ -37,7 +37,7 @@
       <a href="#introduction">Introduction</a>
     </li>
     <li>
-      <a href="#Background Information">Background Information</a>
+      <a href="#background-information">Background Information</a>
       <ul>
         <li><a href="#American Community Survey">American Community Survey</a></li>
         <li><a href="#Cook Partisan Voter Index Scores">Cook Partisan Voter Index Scores</a></li>
