@@ -287,3 +287,16 @@ Observing the changes in feature-importance between PVI (previous two presidenti
 2. "Race - One Race - Black or African American" dropped significantly from the #1 slot in predicting PVI, to only the 9th-most significant factor in predicting 2022 midterm voter behavior (!!!). This could be due to several reasons, like the instability in predicting 2022 Congressional results, lower turnout in midterm years, or higher activation of other voters, e.g. Female NSP in the wake of *Dobbs*. However, it is worth putting extra attention into this heading into the next cycle. <br />
 3. "Married-Couple Households" were the 2nd most important feature in predicting midterm Republican-voting behavior. Considering the Alabama Supreme Court ruling involving In Vitro Fertilization, this presents a significant opportunity to pry away some of these voters. 42% of U.S. adults have had or know someone who has undergone fertility treatment [Pew](https://www.pewresearch.org/short-reads/2023/09/14/a-growing-share-of-americans-say-theyve-had-fertility-treatments-or-know-someone-who-has/), and although Alabama has tried to walk back the damage in the IVF-ruling, other states continue to advance fetal personhood bills across the country. <br />
 
+
+## Future Work
+* **2022 ACS Results**: When the Census Bureau releases their 2022 ACS Results, I will be able to wrangle the data again to see any changes in feature weights, but also get a glimpse into how districts are changing year-over-year.<br />
+
+ This can provide important strategic insight to congressional candidates when considering characteristics of the district that are increasing or decreasing. 
+
+* **State Legislative Geographies**: The ACS demographic characteristics for state legislative districts have already been released. This could potentially drive huge increases in performance to my modeling given the low observations of my previous dataset. While there are only 435 U.S. Congressional Districts, there are thousands of state legislative districts. <br />
+
+The only challenge here will be the tedious process of tracking down every election result in decentralized State election result reporting systems.
+
+* **Expand Feature Engineering to Enhance Predictive Performance**: While I only focused on purely demographic features when modeling in this project, there are tons of ways to feature engineer information into the dataset that we already know. Such things as: Regionality, Redistricting Control, Likely Voters, Previous Turnout Metrics, and Using PVI as a Feature for the Midterm Predictions.<br />
+
+(I actually already did that last one, and PVI as a feature greatly enhanced the predictive ability of the models for the midterms. However, it overpowered the demographic features by a lot and I wanted to focus my analysis solely on "demographics as destiny")
