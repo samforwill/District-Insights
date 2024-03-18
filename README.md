@@ -10,7 +10,7 @@
   
 
   <p align="center">
- Top Dem & GOP Characteristics - Predict 2022 midterm margins
+   <a href="http://2022midterms.streamlit.app/">Top Dem & GOP Characteristics </a>- <a href="http://2022midterms.streamlit.app/">Predict 2022 midterm margins</a>
   </p>
 </div>
 <h2 align="center">           </h2>
