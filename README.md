@@ -204,19 +204,26 @@ Models Assessed:
 After several rounds of parameter tuning on all of the above models, I sorted on highest performance R²-Score on the test set. In all instances, the top 5 performing models were all Ridge Regression, signaling its efficacy in managing multicollinearity within the high dimensional demographic feature set.<br />
 ![PVI Models](images/PVI_models.png)
 Specifically, Ridge with MinMax Scaling and L2-regularization alpha of 1 performed best. <br />
+
 The leading model also has the lowest RMSE at 4.365, meaning our model can predict the PVI of a district within ±4.365 points. That's pretty great! <br />
+
 The collective performance of these models underscores Ridge Regression's suitability for demographic-based PVI score prediction, with significant implications for targeted campaign strategies.
 
 2. **Modeling on 2022 Midterm Margins**: <br />
 Using the same process and models as in the PVI modeling, after several iterations of parameter tuning, my highest performing models were:<br />
 ![22 Models](images/22_Models.png) <br />
 Although ElasticNet with MinMax Scaler had the highest R²-Score on the test set, I chose to use the Lasso with MinMax scaler alpha 0.1 as my best model based on the other metrics. <br />
+
 The ElasticNet model seems to be significantly overfitting on its training data, while the Lasso model shows more consistency between Mean CV Score, R2 Test Score, and R-squared Training data. Also, the difference in my most important metric (RMSE) is negligible. <br />
 
 **Analysis**: The R²-Scores on the test set for predicting midterm voter behavior were much worse than for predicting on PVI, and further, the RMSE for midterm margin came in at 10.8, meaning that with this model we could only predict the marginal outcome of the race within ±11 points! <br />
-Now, surely there are many reasons for these models' poor predictive performance in the midterms, but I think there are a few main reasons. <br />
+
+Now, surely there are many reasons for these models' poor predictive performance in the midterms, but I think there are a few main reasons: <br />
+
 First, participation in midterm elections is much lower than in Presidential years, giving way to large fluctuations in results across the U.S. in expected outcomes. <br /> 
+
 Second, acknowledging that there are fewer split-ticket voters than there used to be, it still exists; PVI is a reflection of how a district voted for the president, *not necessarily* how they voted for their congressional representative. <br />
+
 Finally, all politics is local! Candidate quality matters, especially in midterm cycles. Check out the local situation in every district in the U.S. on [my streamlit app](https://2022midterms.streamlit.app)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,7 +232,7 @@ Finally, all politics is local! Candidate quality matters, especially in midterm
 
 **2022 Results**: However, demographics were far less predictive of midterm voter behavior only coming within ±10.8 points of predicted margins in the 2022 congressional matchups. <br />
 
-But despite the mediocre performance of my model for predicting midterm voter behavior, my overall goal was to find insights into the most important demographic features that were influential in 2022. On that metric, the features my model identified as most influential should speak to and help identify overall midterm trends. 
+But despite the mediocre performance of my model for predicting midterm voter behavior, my overall goal was to find insights into the most important demographic features that were influential in 2022. On that metric, the features my model identified as most influential should speak to and help identify overall midterm trends. <br />
 
 Let's take a look at some of these features:
 ### Top Democratic Features for Predicting PVI
