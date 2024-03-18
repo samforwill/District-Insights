@@ -189,7 +189,7 @@ To take a more detailed look at the EDA process, especially a deeper look into a
 ## Models and Analysis
 ### Regressors <br />
 Given the high dimensionality and multicolinearity of my data, I chose to only focus on regressors that could handle these challenges, such as L1 and L2 regularization regressors, and Ensemble Learning models. <br />
-
+    
 Although I had some decent accuracy with Neural Networks and Principal Component Regression, eventually I sacked those methods because it's not possible to extract the features and associated weights for analysis. 
 
 Models Assessed:
