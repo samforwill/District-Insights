@@ -226,17 +226,17 @@ But despite the mediocre performance of my model for predicting midterm voter be
 
 Let's take a look at some of these features:
 ### Top Democratic Features for Predicting PVI
-**Democratic Features** (Characteristics Most Predictive of Democratic PVI's)
+**Characteristics Most Predictive of Democratic PVI's**
 ![Dem Features PVI](images/Dem_Features_PVI.png)
 
 ### Top Republican Features for Predicting PVI
-**Republican Features** (Characteristics Most Predictive of Republican PVI's)
+**Characteristics Most Predictive of Republican PVI's**
 ![Rep Features PVI](images/Rep_Features_PVI.png)
 
 ### Top 2022 Midterm Democratic Features
-**Democratic Features** (Most Influential Democratic Features for Predicting 2022 Midterm Voting Behavior)
+**Most Influential Democratic Features for Predicting 2022 Midterm Voting Behavior**
 ![Dem Features 22](images/Dem_Features_22.png)
 
 ### Top 2022 Midterm Republican Features
-**Republican Features** (Most Influential Republican Features for Predicting 2022 Midterm Voting Behavior)
+**Most Influential Republican Features for Predicting 2022 Midterm Voting Behavior**
 ![Rep Features 22](images/Rep_Features_22.png)
