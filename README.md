@@ -160,14 +160,13 @@ Now, when we look at the same distribution graph color-coded by type of redistri
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Heatmapping
-Because I only eliminated in the data wrangling/cleaning process those features that were *exactly* duplicated within and between data profiles. I wanted to get a sense of the extent of multicollinearity of my features and chose to do that through heatmapping.
+Because I only eliminated in the data wrangling/cleaning process those features that were *exactly* duplicated within and between data profiles, I wanted to get a sense of the extent of multicollinearity of my features and chose to do that through heatmapping.<br />
 Since my data also has high dimensionality (450 unique features), I will only share here one of my heatmaps corresponding to the demographic profile highlighting highly correlated features. 
 ![Demo Heatmap](images/demo_heatmap_hc.png)
-Here it's easy to see many of the features are highly correlated, and many of those relationships make sense intuitively. So let's look at only the top 50 highly correlated pairs of features in the graph below:
+Here it's easy to see many of the features are highly correlated, and many of those relationships make sense intuitively. So let's look at only the top 50 highly correlated pairs of features in the graph below (open in new window, Census Bureau characteristic titles can be very long):
 ![Top50 Correlations](images/top_50_correlations.png)
 
-
-
+Some of the features have an almost exact negative correlation, such as "Place of Birth - Foreign Born" and "Place of Birth - Native Born", but there are also some highly correlated pairs that don't exactly hit perfect correlation such as "Total Population" and "Total Population 1 year and over".
 
 **EDA Conclusions**:
 1) The distribution of districts is skewed by Republican gerrymandering
