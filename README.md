@@ -127,7 +127,7 @@ But, right off the bat, we see a huge imbalance and large concentration of distr
 
 Of course, my initial thought on seeing this is:
 
-> **"Who could possibly be responsible for creating this huge concentration of districts that are *just* out of competitive reach? 🤔 And why is the answer almost certainly 'Republicans'🤨???**
+> **"Who could possibly be responsible for creating this huge concentration of districts that are *just* out of competitive reach? 🤔 And why is the answer almost certainly 'Republicans gerrymandering'🤨???**
 
 So, I set about to confirm my priors. The Brennan Center for Justice [broke down ](https://www.brennancenter.org/our-work/research-reports/who-controlled-redistricting-every-state)redistricting in every state into the following categories: 
 * GOP-Controlled Redistricting (177 seats)
@@ -135,8 +135,8 @@ So, I set about to confirm my priors. The Brennan Center for Justice [broke down
 * Split-Control (2 seats)
 * Court-Ordered Maps (91 seats)
 * Independent Commissions [non-partisan] (82 seats)
-* Political Commissions [partisan appointees from both parties](82 seats)
-* and At-Large District (6 seats/states)
+* Political Commissions [partisan appointees from both parties](28 seats)
+* and At-Large Districts (6 seats/states)
 
 Now, when we look at the same distribution graph color-coded by type of redistricting, I have a feeling we should see something pretty notable in that -10 to -20 range.
 
@@ -177,3 +177,19 @@ To take a more detailed look at the EDA process, especially a deeper look into a
 2) My data has high dimensionality (450 features) high multicollinearity (closely related features) and low observations (only 435 districts in the U.S)
 3) To handle the high dimensionality and multicolinearity of my data, I am choosing to focus on regressors that are adept at handling these challenges. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Models and Analysis
+Given the high dimensionality and multicolinearity of my data, I chose to only focus on regressors that could handle these challenges, such as L1 and L2 regularization regressors, and Ensemble Learning models.
+Although I had some decent accuracy with Neural Networks and Principal Component Regression, eventually I sacked those methods because it's not possible to extract the features and associated weights for analysis. 
+
+Models Assessed:
+- Ridge
+- Lasso
+- ElasticNet
+- RandomForestRegressor
+- ExtraTreesRegressor
+- GradientBoostingRegressor
+
+1. Modeling on PVI:
+After several rounds of parameter tuning on all of the above models, I sorted on highest performance R²-Score on the test set. In all instances, the top 5 performing models was Ridge Regression
+![PVI Models](images/PVI_models.png)
