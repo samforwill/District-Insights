@@ -69,7 +69,7 @@
     <li><a href="#future">Future Work</a></li>
   </ol>
 <!--/details-->
-Top Democratic Features for Predicting PVI
+
 
 ## Introduction
 The purpose of this project is to analyze and understand, on a more granular level, the constituents of the newly settled congressional district landscape of the 2020’s. I wanted to consider more than just age, race, and education, so I incorporated 450 unique features for every district in the US (from employment industry, to daily commute time, to heating fuel source, and many many others). <br />
