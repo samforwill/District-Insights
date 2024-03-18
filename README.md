@@ -2,7 +2,7 @@
 <br />
 <div align="center">
         <a href="http://2022midterms.streamlit.app/">
-    <img src="https://img.shields.io/badge/Explore%20My%20Interactive%20App%20For%20US%20Congressional%20Districts!-blue" alt="Logo" width="450" height="30">
+    <img src="https://img.shields.io/badge/Explore%20My%20Interactive%20App%20for%20US%20Congressional%20Districts!-red" alt="Logo" width="450" height="30">
   </a>
   <!--a href="http://2022midterms.streamlit.app/"><strong>Explore My Interactive Streamlit App for US Congressional Districts!</strong></a><a href="http://2022midterms.streamlit.app/">
     <!--img src="images/streamlit-mark-color.png" alt="Logo" width="100" height="80"-->
