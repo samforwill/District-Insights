@@ -86,7 +86,11 @@ The American Community Survey is a sample of approximately 3.5 million addresses
 These profiles collectively offer a comprehensive overview of each district's characteristics, crucial for understanding the evolving electoral landscape in the wake of recent redistricting.
 ### Partisan Voter Index Scores (Cook PVI℠)--
 I am going to spend a lot of time talking about each district’s PVI-score, so it’s helpful to understand what it actually represents and how it was determined. <br />
+
+
 The Cook PVI measures how partisan a district or a state is compared to the nation as a whole. A Cook PVI score of D+2, for example, means that in the 2016 and 2020 presidential elections, that district performed an average of two points more Democratic than the nation did as a whole, while an R+4 means the district performed four points more Republican.  As of 2022, the calculation of PVI-scores are weighted more heavily to the most recent Presidential Election, instead of averaging the previous two cycles. <br />
+
+
 Because “R+3” and “D+2” are not actual numbers for data analysis, I converted PVI to sit on a scale where Republican PVI’s are negative and Democratic PVI’s are positive, becoming “-3”and “2,” respectively. <a href="https://www.cookpolitical.com/cook-pvi">More information on PVI can be found here!</a>
 
 ## Data Used
@@ -101,12 +105,18 @@ I know you’re not supposed to talk about the data wrangling process, but it’
 Follow along step by step with how I wrassled the data into submission in my [data wrangling notebook](https://github.com/samforwill/District-Insights/blob/main/01_Data_Wrangling_ACS_Surveys.ipynb).
 
 ## Exploratory Data Analysis
-First off, I wanted to get a sense of how the newly shaped districts were distributed according to their partisan-ness (as quantified by their PVI-score). This was the resulting shape of distribution of all districts in the U.S.:
+### Distribution--
+
+First, I wanted to get a sense of how the newly shaped districts were distributed according to their partisan-ness. Distributing every district in the US based on PVI-score shows this interesting shape:
 
 ![Distribution of PVI Scores](images/Distribution_of_PVI_Scores.png)
 
-Well, that certainly doesn’t look normal! (in the statistical distribution sense of “normal”, but also in the common sense department). So lets dive in! The median district in the United States is around -1, which is a Republican +1 district, meaning half of the districts in the US are more Republican and half are more democratic than that point. Pretty close to 0, so I’m not mad at that.
-But, right off the bat, you can immediately see a huge imbalance and large concentration of districts between the R+10 to R+20 range, -10 to -20 in my conversion. (For context,  Cook considers everything outside the 10-range to be non-competitive “Solid” districts.)
+Well, that certainly doesn’t look normal! (in the statistical distribution sense of “normal”, but also in the common sense department). So lets dive in! <br />
+
+The median district in the United States is around -1, which is a Republican +1 district, meaning half of the districts in the US are more Republican and half are more democratic than that point. Pretty close to 0, so I’m not mad at that.<br />
+
+
+But, right off the bat, we see a huge imbalance and large concentration of districts between the R+10 to R+20 range, -10 to -20 in my conversion. (For context,  Cook considers everything beyond the 10-point range to be non-competitive “Solid” districts.)
 
 Of course, my initial thought on seeing this is:
 
