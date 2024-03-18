@@ -30,8 +30,8 @@
 
 <div align= "left">  
 <!-- TABLE OF CONTENTS -->
-<details>
-  <!--summary--> Table of Contents <!--/summary-->
+<!--details-->
+  <summary> Table of Contents </summary>
   <ol>
     <li>
       <a href="#introduction">Introduction</a>
@@ -59,7 +59,7 @@
     <li><a href="#recommendations">Recommendations</a></li>
     <li><a href="#future">Future Work</a></li>
   </ol>
-</details>
+<!--/details-->
 
 
 ## Introduction
