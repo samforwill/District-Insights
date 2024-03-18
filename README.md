@@ -135,6 +135,6 @@ Now, when we look at the same distribution graph color-coded by type of redistri
 
 ![Redistricting Type Composite](images/Redistricting_Type_Composite.png)
 <p align="center">
-  <img src="data/surprise.gif" alt="surprise" />
+  <img src="images/surprise.gif" alt="surprise" />
 </p>
 
