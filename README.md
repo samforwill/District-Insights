@@ -157,3 +157,19 @@ Now, when we look at the same distribution graph color-coded by type of redistri
 - And then notice the second hump of GOP-drawn democratic districts in the D+20 region, indicating **"packing"**, where democratic voters are packed into one district to dilute their voting power <br />
 
 **Democratic-Controlled Redistricting**: The median district is D+7, within the competitive zone. Perhaps Democrats would see more GOP-type drawing behavior if we had more opportunitis to hold the pen, but at 49 seats total, our ability to push back on the GOP's advantage is severely limited.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Heatmapping
+Because I only eliminated in the data wrangling/cleaning process those features that were *exactly* duplicated within and between data profiles. I wanted to get a sense of the extent of multicollinearity of my features and chose to do that through heatmapping.
+Since my data also has high dimensionality (450 unique features), I will only share here one of my heatmaps corresponding to the demographic profile highlighting highly correlated features. 
+![Demo Heatmap](images/demo_heatmap_hc.png)
+Here it's easy to see many of the features are highly correlated, and many of those relationships make sense intuitively. So let's look at only the top 50 highly correlated pairs of features in the graph below:
+![Top50 Correlations](images/top_50_correlations.png)
+
+
+
+
+**EDA Conclusions**:
+1) The distribution of districts is skewed by Republican gerrymandering
+2) My data has high dimensionality (450 features) high multicollinearity (closely related features) and low observations (only 435 districts in the U.S)
+3) To handle the high dimensionality and multicolinearity of my data, I am choosing to focus on regressors that are adept at handling these challenges. 
