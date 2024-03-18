@@ -1,10 +1,10 @@
   <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-        <!-- a href="http://2022midterms.streamlit.app/">
-    < img src="images/streamlit-mark-color.png" alt="Logo" width="100" height="80">
+        <-- a href="http://2022midterms.streamlit.app/">
+    < img src="https://img.shields.io/badge/Explore%20My%20Interactive%20App%20For%20US%20Congressional%20Districts!-blue" alt="Logo" width="400" height="40">
   </a -->
-  <a href="http://2022midterms.streamlit.app/"><strong>Explore My Interactive Streamlit App for US Congressional Districts!</strong></a><a href="http://2022midterms.streamlit.app/">
+  <!--a href="http://2022midterms.streamlit.app/"><strong>Explore My Interactive Streamlit App for US Congressional Districts!</strong></a><a href="http://2022midterms.streamlit.app/">
     <!--img src="images/streamlit-mark-color.png" alt="Logo" width="100" height="80"-->
   </a>
   
@@ -138,7 +138,7 @@ Now, when we look at the same distribution graph color-coded by type of redistri
   <img src="images/surprise.gif" alt="surprise" />
 </p>
 
-## well, maybe that's not as clear to others as I see it, so let's break it down into its component parts!
+## Well, maybe that's not as clear to others as I see it, so let's break it down into its component parts!
 
 ![Facet Grid](images/FacetGrid_PVI.png)
 
