@@ -58,11 +58,17 @@
         <li><a href="#regressors-and-analysis-notebook">Regressors and Analysis Notebook</a></li>
               </ul>
     <li><a href="#results">Results</a></li>
+                        <ul>
+        <li><a href="#top-democratic-features-for-predicting-pvi">Top Democratic Features for Predicting PVI</a></li>
+        <li><a href="#top-republican-features-for-predicting-pvi">Top Republican Features for Predicting PVI</a></li>
+        <li><a href="#top-2022-midterm-democratic-features">Top 2022 Midterm Democratic Features</a></li>
+        <li><a href="#top-2022-midterm-republican-features">Top 2022 Midterm Republican Features</a></li>
+                      </ul>
     <li><a href="#recommendations">Recommendations</a></li>
     <li><a href="#future">Future Work</a></li>
   </ol>
 <!--/details-->
-
+Top Democratic Features for Predicting PVI
 
 ## Introduction
 The purpose of this project is to analyze and understand, on a more granular level, the constituents of the newly settled congressional district landscape of the 2020’s. I wanted to consider more than just age, race, and education, so I incorporated 450 unique features for every district in the US (from employment industry, to daily commute time, to heating fuel source, and many many others). <br />
@@ -179,6 +185,7 @@ To take a more detailed look at the EDA process, especially a deeper look into a
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Models and Analysis
+### Regressors <br />
 Given the high dimensionality and multicolinearity of my data, I chose to only focus on regressors that could handle these challenges, such as L1 and L2 regularization regressors, and Ensemble Learning models. <br />
 Although I had some decent accuracy with Neural Networks and Principal Component Regression, eventually I sacked those methods because it's not possible to extract the features and associated weights for analysis. 
 
@@ -197,14 +204,22 @@ Specifically, Ridge with MinMax Scaling and L2-regularization alpha of 1 perform
 The leading model also has the lowest RMSE at 4.365, meaning our model can predict the PVI of a district within ±4.365 points. That's pretty great! <br />
 The collective performance of these models underscores Ridge Regression's suitability for demographic-based PVI score prediction, with significant implications for targeted campaign strategies.
 
-### Top Features
-**Democratic Features** (Characteristics Most Predictive of Democratic PVI's)
-![Dem Features PVI](images/Dem_Features_PVI.png)
-
-
 2. **Modeling on 2022 Midterm Margins**: <br />
 Using the same process and models as in the PVI modeling, after several iterations of parameter tuning, my highest performing models were:<br />
 ![22 Models](images/22_Models.png) <br />
 Although ElasticNet with MinMax Scaler had the highest R²-Score on the test set, I chose to use the Lasso with MinMax scaler alpha 0.1 as my best model based on the other metrics. <br />
-The ElasticNet model seems to be significantly overfitting on its training data, while the Lasso model shows more consistency between Mean CV Score, R2 Test Score, and R-squared Training data. Also, the difference in my most important metric (RMSE) is negligible.
+The ElasticNet model seems to be significantly overfitting on its training data, while the Lasso model shows more consistency between Mean CV Score, R2 Test Score, and R-squared Training data. Also, the difference in my most important metric (RMSE) is negligible. <br />
 
+**Analysis**: The R²-Scores on the test set for predicting midterm voter behavior were much worse than for predicting on PVI, and further, the RMSE for midterm margin came in at 10.8, meaning that with this model we could only predict the marginal outcome of the race within ±11 points! <br />
+Now, surely there are many reasons for these models' poor predictive performance in the midterms, but I think there are a few main reasons. <br />
+First, participation in midterm elections is much lower than in Presidential years, giving way to large fluctuations in results across the U.S. in expected outcomes. <br /> 
+Second, acknowledging that there are fewer split-ticket voters than there used to be, it still exists; PVI is a reflection of how a district voted for the president, *not necessarily* how they voted for their congressional representative. .<br />
+Finally, all politics is local! Candidate quality matters, especially in midterm cycles.
+
+
+
+### Top Democratic Features for Predicting PVI
+**Democratic Features** (Characteristics Most Predictive of Democratic PVI's)
+![Dem Features PVI](images/Dem_Features_PVI.png)
+
+### Top Republican Features for Predicting PVI
