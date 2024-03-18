@@ -39,21 +39,21 @@
     <li>
       <a href="#background-information">Background Information</a>
       <ul>
-        <li><a href="#American Community Survey">American Community Survey</a></li>
-        <li><a href="#Cook Partisan Voter Index Scores">Cook Partisan Voter Index Scores</a></li>
+        <li><a href="#american-community-survey">American Community Survey</a></li>
+        <li><a href="#cook-partisan-voter-index-scores">Cook Partisan Voter Index Scores</a></li>
       </ul>
     </li>
-    <li><a href="#data">Data Used</a></li>
+    <li><a href="#data-used">Data Used</a></li>
           <ul>
-        <li><a href="#wranglingnotebook">Data Wrangling Notebook</a></li>
+        <li><a href="#data-wrangling-notebook">Data Wrangling Notebook</a></li>
               </ul>
-    <li><a href="#eda">Exploratory Data Analysis</a></li>
+    <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
               <ul>
-        <li><a href="#edanotebook">EDA Notebook</a></li>
+        <li><a href="#eda-notebook">EDA Notebook</a></li>
               </ul>
-    <li><a href="#analysis">Models and Analysis</a></li>
+    <li><a href="#models-and-analysis">Models and Analysis</a></li>
                   <ul>
-        <li><a href="#analysisnotebook">Regressors and Analysis Notebook</a></li>
+        <li><a href="#regressors-and-analysis-notebook">Regressors and Analysis Notebook</a></li>
               </ul>
     <li><a href="#results">Results</a></li>
     <li><a href="#recommendations">Recommendations</a></li>
@@ -71,7 +71,7 @@ I modeled these characteristics to predict the district’s Partisan Voter Index
 
 Hopefully, my analysis and insights can help inform democratic strategy to help win back the US house and keep it for the decade ahead. 
 
-## Background
+## Background Information
 ### American Community Survey-- 
 On January 26, 2023, the Census Bureau released the 2021 ACS data tables within the geographic boundaries of the 118th Congress. This release is critical for determining Democratic electoral strategies in the decade ahead; following the 2020 census, redistricting reshaped virtually every U.S. district, making these data profiles our first deep dive into the redefined district landscapes. While future legal decisions may alter some district boundaries, the majority will likely remain stable over the next decade. <br />
 
@@ -84,7 +84,7 @@ The American Community Survey is a sample of approximately 3.5 million addresses
 
 
 These profiles collectively offer a comprehensive overview of each district's characteristics, crucial for understanding the evolving electoral landscape in the wake of recent redistricting.
-### Partisan Voter Index Scores (Cook PVI℠)--
+### Cook Partisan Voter Index Scores --
 I am going to spend a lot of time talking about each district’s PVI-score, so it’s helpful to understand what it actually represents and how it was determined. <br />
 
 
@@ -102,6 +102,7 @@ Because “R+3” and “D+2” are not actual numbers for data analysis, I conv
 #### QUICK NOTE:
 I know you’re not supposed to talk about the data wrangling process, but it’s worth noting that a) it was a monster of a task, but more importantly b) when the 2022 ACS data is released and the state legislative districts data is released, my wrangling process will work with almost no changes to the underlying code. Anything that is changed year to year between ACS surveys is released [here,](https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes/2022.html) so adjustments can be pinpointed easily.
 
+#### Data Wrangling Notebook
 Follow along step by step with how I wrassled the data into submission in my [data wrangling notebook](https://github.com/samforwill/District-Insights/blob/main/01_Data_Wrangling_ACS_Surveys.ipynb).
 
 ## Exploratory Data Analysis
