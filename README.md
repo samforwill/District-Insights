@@ -214,7 +214,7 @@ The ElasticNet model seems to be significantly overfitting on its training data,
 Now, surely there are many reasons for these models' poor predictive performance in the midterms, but I think there are a few main reasons. <br />
 First, participation in midterm elections is much lower than in Presidential years, giving way to large fluctuations in results across the U.S. in expected outcomes. <br /> 
 Second, acknowledging that there are fewer split-ticket voters than there used to be, it still exists; PVI is a reflection of how a district voted for the president, *not necessarily* how they voted for their congressional representative. .<br />
-Finally, all politics is local! Candidate quality matters, especially in midterm cycles.
+Finally, all politics is local! Candidate quality matters, especially in midterm cycles. Check out the local situation in every district in the U.S. on [my streamlit app](2022midterms.streamlit.app)
 
 
 
