@@ -218,7 +218,9 @@ Although ElasticNet with MinMax Scaler had the highest R²-Score on the test set
 
 The ElasticNet model seems to be significantly overfitting on its training data, while the Lasso model shows more consistency between Mean CV Score, R2 Test Score, and R-squared Training data. Also, the difference in my most important metric (RMSE) is negligible. <br />
 
-**Analysis**: The R²-Scores on the test set for predicting midterm voter behavior were much worse than for predicting on PVI, and further, the RMSE for midterm margin came in at 10.8, meaning that with this model we could only predict the marginal outcome of the race within ±11 points! <br />
+### Analysis: 
+
+The R²-Scores on the test set for predicting midterm voter behavior were much worse than for predicting on PVI, and further, the RMSE for midterm margin came in at 10.8, meaning that with this model we could only predict the marginal outcome of the race within ±11 points! <br />
 
 Now, surely there are many reasons for these models' poor predictive performance in the midterms, but I think there are a few main reasons: <br />
 
