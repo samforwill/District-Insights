@@ -168,7 +168,12 @@ Here it's easy to see many of the features are highly correlated, and many of th
 
 Some of the features have an almost exact negative correlation, such as "Place of Birth - Foreign Born" and "Place of Birth - Native Born", but there are also some highly correlated pairs that don't exactly hit perfect correlation such as "Total Population" and "Total Population 1 year and over".
 
+#### EDA Notebook
+To take a more detailed look at the EDA process, especially a deeper look into all the heatmapping, follow along in my [EDA Notebook](https://github.com/samforwill/District-Insights/blob/main/02_Exploratory_Data_Analysis.ipynb).
+
+
 **EDA Conclusions**:
 1) The distribution of districts is skewed by Republican gerrymandering
 2) My data has high dimensionality (450 features) high multicollinearity (closely related features) and low observations (only 435 districts in the U.S)
 3) To handle the high dimensionality and multicolinearity of my data, I am choosing to focus on regressors that are adept at handling these challenges. 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
