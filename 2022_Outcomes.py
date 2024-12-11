@@ -223,7 +223,7 @@ lasso = LassoCV(cv=3)
 lasso.fit(X_train_scaled, y)
 
 
-if st.button('Selected District Info'):
+if st.button('Show District Info!'):
     # Display the representative's name, localities description, and PVI score
     rep_name = pct_df.loc[pct_df['Formatted_District'] == district, 'Rep'].values[0]
     localities_description = localities_df.loc[localities_df['Formatted_District'] == district, 'Localities'].values[0]
