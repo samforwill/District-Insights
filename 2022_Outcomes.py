@@ -7,9 +7,6 @@ from sklearn.linear_model import LassoCV
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Disable the Streamlit warning
-st.set_option('deprecation.showPyplotGlobalUse', False)
-
 # Load the data
 pct_df = pd.read_csv('data/Full_Dataset_PCT.csv')
 prf_df = pd.read_csv('data/Full_Dataset_PRF.csv')
