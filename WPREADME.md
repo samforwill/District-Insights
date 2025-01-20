@@ -149,7 +149,7 @@ Now, when we look at the same distribution graph color-coded by type of redistri
 
 ![Redistricting Type Composite](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/Redistricting_Type_Composite.png)
 <p align="center">
-  <img src="https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/surprise.gif" alt="surprise" />
+  <img src="https://github.com/samforwill/District-Insights/blob/main/images/surprise.gif" alt="surprise" />
 </p>
 
 ### It's a little hard to focus with all those colors going on in the same graph, so let's break it down into its component parts:
@@ -170,7 +170,7 @@ Now, when we look at the same distribution graph color-coded by type of redistri
 Because I only eliminated in the data wrangling/cleaning process those features that were *exactly* duplicated within and between data profiles, I wanted to get a sense of the extent of multicollinearity of my features and chose to do that through heatmapping.<br />
 
 Since my data also has high dimensionality (450 unique features), I will only share here one of my heatmaps corresponding to the demographic profile highlighting highly correlated features. 
-![Demo Heatmap](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/demo_heatmap_hc.png)
+![Demo Heatmap](https://github.com/samforwill/District-Insights/blob/main/images/demo_heatmap_hc.png)
 Here it's easy to see many of the features are highly correlated, and many of those relationships make sense intuitively. So let's look at only the top 50 highly correlated pairs of features in the graph below (open in new window, Census Bureau characteristic titles can be very long):
 ![Top50 Correlations](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/top_50_correlations.png)
 
