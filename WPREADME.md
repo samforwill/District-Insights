@@ -148,9 +148,7 @@ So, I set about to confirm my priors. The Brennan Center for Justice [broke down
 Now, when we look at the same distribution graph color-coded by type of redistricting, I have a feeling we should see something pretty notable in that -10 to -20 range.
 
 ![Redistricting Type Composite](https://ideas-man.com/sforrestw/wp-content/uploads/2025/01/Redistricting_Type_Composite.png)
-<p align="center">
-  <img src="https://github.com/samforwill/District-Insights/blob/main/images/surprise.gif" alt="surprise" />
-</p>
+
 
 ### It's a little hard to focus with all those colors going on in the same graph, so let's break it down into its component parts:
 
