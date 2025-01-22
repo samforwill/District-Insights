@@ -27,50 +27,6 @@
     Strategic Insights for Democratic Congressional Campaigns Using American Community Survey Profiles on Demographics, Economics, Housing, and Social Characteristics
   </h3>
 
-
-
-<div align= "left">  
-<!-- TABLE OF CONTENTS -->
-<!--details-->
-  <summary> Table of Contents </summary>
-  <ol>
-    <li>
-      <a href="#introduction">Introduction</a>
-    </li>
-    <li>
-      <a href="#background-information">Background Information</a>
-      <ul>
-        <li><a href="#american-community-survey">American Community Survey</a></li>
-        <li><a href="#cook-partisan-voter-index-scores">Cook Partisan Voter Index Scores</a></li>
-      </ul>
-    </li>
-    <li><a href="#data-used">Data Used</a></li>
-          <ul>
-        <li><a href="#data-wrangling-notebook">Data Wrangling Notebook</a></li>
-              </ul>
-    <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
-                    <ul>
-        <li><a href="#distribution">Distribution</a></li>
-        <li><a href="#heatmapping">Heatmapping</a></li>
-        <li><a href="#eda-notebook">EDA Notebook</a></li>
-              </ul>
-    <li><a href="#models-and-analysis">Models and Analysis</a></li>
-                  <ul>
-        <li><a href="#regressors-and-analysis-notebook">Regressors and Analysis Notebook</a></li>
-              </ul>
-    <li><a href="#results">Results</a></li>
-                        <ul>
-        <li><a href="#top-democratic-features-for-predicting-pvi">Top Democratic Features for Predicting PVI</a></li>
-        <li><a href="#top-republican-features-for-predicting-pvi">Top Republican Features for Predicting PVI</a></li>
-        <li><a href="#top-2022-midterm-democratic-features">Top 2022 Midterm Democratic Features</a></li>
-        <li><a href="#top-2022-midterm-republican-features">Top 2022 Midterm Republican Features</a></li>
-                      </ul>
-    <li><a href="#recommendations-and-conclusions">Recommendations and Conclusions</a></li>
-    <li><a href="#future-work">Future Work</a></li>
-  </ol>
-<!--/details-->
-
-
 ## Introduction
 The purpose of this project is to analyze and understand, on a more granular level, the constituents of the newly settled congressional district landscape of the 2020’s. I wanted to consider more than just age, race, and education, so I incorporated 450 unique features for every district in the US (from employment industry, to daily commute time, to heating fuel source, and many, many others). <br />
 
