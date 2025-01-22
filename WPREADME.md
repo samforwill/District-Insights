@@ -67,10 +67,10 @@ Because “R+3” and “D+2” are not actual numbers for data analysis, I conv
 3. 2022 Midterm Results were sourced from [The Daily Kos](https://www.dailykos.com/stories/2022/9/21/1742660/-The-ultimate-Daily-Kos-Elections-guide-to-all-of-our-data-sets).
 4. Information about who controlled the redistricting process in each state was compiled by the [Brennan Center for Justice](https://www.brennancenter.org/our-work/research-reports/who-controlled-redistricting-every-state).
 
-#### QUICK NOTE:
+### ACS Future Surveys
 I don't want to bore you with the data wrangling process, but it’s worth noting that a) it was a monster of a task, but more importantly b) when the 2022 ACS data is released and the state legislative districts data is released, my wrangling process will work with almost no changes to the underlying code. Anything that is changed year to year between ACS surveys is released [here,](https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes/2022.html) so adjustments can be pinpointed easily.
 
-#### Data Wrangling Notebook
+### Data Wrangling Notebook
 Follow along step by step with how I wrassled the data into submission in my [data wrangling notebook](https://github.com/samforwill/District-Insights/blob/main/01_Data_Wrangling_ACS_Surveys.ipynb).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,7 +236,7 @@ Observing the changes in feature-importance between PVI (previous two presidenti
 
 ## Recommendations and Conclusions
 
-#### There are some extremely significant results that could impact Democratic strategy going into 2024: <br />
+### There are some extremely significant results that could impact Democratic strategy going into 2024: <br />
 
 1. "Female Householder, No Spouse Present" shot up to the 2nd-most significant factor in predicting midterm Democratic Voting Behavior. I believe this highlights the impact of the *Dobbs* decision in activating turnout amongst women. <br />
 2. "Race - One Race - Black or African American" dropped significantly from the #1 slot in predicting PVI, to only the 9th-most significant factor in predicting 2022 midterm voter behavior (!!!). This could be due to several reasons, like the instability in predicting 2022 Congressional results, lower turnout in midterm years, or higher activation of other voters, e.g. Female NSP in the wake of *Dobbs*. However, it is worth putting extra attention into this heading into the next cycle. <br />
